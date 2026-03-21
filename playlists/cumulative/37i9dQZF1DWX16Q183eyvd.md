@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Fyütch & Aura V
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-185 songs - 8 hr 26 min
+186 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 | 2021-11-19 | 2024-01-31 |
 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 | 2021-11-19 | 2024-01-31 |
 | [Bubble Wrap Rap](https://open.spotify.com/track/3vyExFn4NbOCGkGR30i6AA) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:18 | 2021-11-19 | 2024-01-31 |
+| [Buckle Up](https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Buckle Up](https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r) | 2:31 | 2026-03-20 |  |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2021-11-19 | 2024-01-31 |
 | [Celebrate!](https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR) | [Celebrate!](https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j) | 2:50 | 2024-06-21 |  |
 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 | 2021-11-19 | 2024-01-31 |
@@ -175,7 +176,7 @@
 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 | 2021-11-19 | 2024-01-31 |
 | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18) | 2:40 | 2025-12-12 |  |
 | [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 | 2024-05-31 | 2024-07-06 |
-| [Veggie Dance \- Steamed Broccoli](https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Veggie Dance](https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ) | 1:45 | 2024-07-05 |  |
+| [Veggie Dance \- Steamed Broccoli](https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Veggie Dance](https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ) | 1:45 | 2024-07-05 | 2026-03-21 |
 | [Walk Tall](https://open.spotify.com/track/1uk67qKtIK0zYnuSHDYfRp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:16 | 2022-02-04 | 2022-10-13 |
 | [Walk Tall](https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:16 | 2022-02-04 | 2023-11-09 |
 | [Walk Tall \(feat\. Paul Simon\)](https://open.spotify.com/track/7j0tMRulMtwmNpyOZmHtD0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:16 | 2021-11-19 | 2022-07-29 |

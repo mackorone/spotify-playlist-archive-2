@@ -2,9 +2,9 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Pip Lieke Lucas
+> Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-254 songs - 15 hr 21 min
+254 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2023-02-10 | 2023-03-18 |
 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 | 2023-12-05 | 2024-03-30 |
 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 |  |
+| [Oh Het Leven](https://open.spotify.com/track/70PS56qImgWyqHzUE56R6p) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Wandel Naar Mezelf](https://open.spotify.com/album/2mPDUAYRN24mMsfH9TCsBR) | 3:07 | 2026-03-19 |  |
 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 | 2026-03-05 |  |
 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 | 2023-02-10 | 2025-02-21 |
 | [Onder Je Huid](https://open.spotify.com/track/6c17gCtzFlBv3asUYPHVgs) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lievelingsliedjes Mixtape](https://open.spotify.com/album/6ZHvbpByHjOFIPC9lgYI8T) | 3:12 | 2026-01-09 | 2026-03-20 |
@@ -212,7 +213,6 @@
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 | 2024-04-19 |
 | [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 | 2025-10-21 |  |
 | [Traag Naar De Hemel](https://open.spotify.com/track/2M1OBzpqNliMeYOI47LOWK) | [May Evans](https://open.spotify.com/artist/5k9sSEBSrvpLVxBJqCgs6f) | [\(On\)eindig Leven](https://open.spotify.com/album/7905rdTj8KpgPywpclbmtR) | 2:57 | 2024-11-14 | 2025-03-14 |
-| [Track 6](https://open.spotify.com/track/70PS56qImgWyqHzUE56R6p) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Wandel Naar Mezelf](https://open.spotify.com/album/2mPDUAYRN24mMsfH9TCsBR) | 0:00 | 2026-03-19 |  |
 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 | 2025-09-04 |  |
 | [Trillend op m’n benen](https://open.spotify.com/track/3tTrpagY0mW1CEiUvWf9vk) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Trillend op m’n benen](https://open.spotify.com/album/3V5wwGUrvDhDHC3GEKfqts) | 2:46 | 2025-04-25 | 2025-11-07 |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |

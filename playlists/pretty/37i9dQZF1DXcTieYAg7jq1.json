@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Alex Sampson",
-  "num_followers": 435355,
+  "description": "Featuring that new vintage. Cover: KELS",
+  "num_followers": 435495,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIFXC4HqlCZZ5mMBpbreIWxDEzE",
+  "snapshot_id": "AAAAAJTODJHkaZKZSg3qsU9hQetEKWpS",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:32",
+      "album": {
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
+    },
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
+      "added_at": "2026-03-20 04:00:32",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
       "added_at": "2026-03-13 04:00:38",
       "album": {
         "name": "Mr. Right Now",
@@ -71,6 +103,22 @@
       "duration_ms": 153402,
       "name": "Mr. Right Now",
       "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:32",
+      "album": {
+        "name": "One Man Show",
+        "url": "https://open.spotify.com/album/6oscsOnAngFyFbJdWCBN0t"
+      },
+      "artists": [
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 122011,
+      "name": "One Man Show",
+      "url": "https://open.spotify.com/track/4HjHoX3EAOmqlx6Ewo05JE"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -103,6 +151,54 @@
       "duration_ms": 191495,
       "name": "Love Bites Back",
       "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
+    },
+    {
+      "added_at": "2026-02-23 17:14:33",
+      "album": {
+        "name": "prettyboy",
+        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 152125,
+      "name": "prettyboy",
+      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
+    },
+    {
+      "added_at": "2026-03-20 04:00:32",
+      "album": {
+        "name": "Phone Sick",
+        "url": "https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 168284,
+      "name": "Phone Sick",
+      "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-03-09 17:32:23",
@@ -153,20 +249,20 @@
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
-      "added_at": "2026-02-20 05:00:45",
+      "added_at": "2026-03-20 04:00:32",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+        "name": "Love Is A Game",
+        "url": "https://open.spotify.com/album/1hfihH9BfIrUxpueRVvUL9"
       },
       "artists": [
         {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
+      "duration_ms": 198971,
+      "name": "Love Is A Game",
+      "url": "https://open.spotify.com/track/3SlQR2O64JKUr15Kc69QJ2"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -201,38 +297,6 @@
       "url": "https://open.spotify.com/track/1MhgFh4MeZidEY3LkyYRr1"
     },
     {
-      "added_at": "2026-02-23 17:14:33",
-      "album": {
-        "name": "prettyboy",
-        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 152125,
-      "name": "prettyboy",
-      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
-    },
-    {
-      "added_at": "2026-02-27 05:00:42",
-      "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
-    },
-    {
       "added_at": "2026-03-09 17:32:23",
       "album": {
         "name": "Coasting",
@@ -263,6 +327,22 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -1317,22 +1397,6 @@
       "url": "https://open.spotify.com/track/2LNBTi5zqgHG7Zy4EbJoWT"
     },
     {
-      "added_at": "2025-02-07 05:00:23",
-      "album": {
-        "name": "Big Dipper",
-        "url": "https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Big Dipper",
-      "url": "https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr"
-    },
-    {
       "added_at": "2025-01-31 05:00:20",
       "album": {
         "name": "Girl of the Hour",
@@ -1379,26 +1443,6 @@
       "duration_ms": 184226,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4Qc6g3CcyLwebubsViTw06"
-    },
-    {
-      "added_at": "2024-12-20 16:51:25",
-      "album": {
-        "name": "Gloves Off",
-        "url": "https://open.spotify.com/album/54OEGwxs1fg1fEEuzLPKsN"
-      },
-      "artists": [
-        {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
-        },
-        {
-          "name": "Tyler Ballgame",
-          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
-        }
-      ],
-      "duration_ms": 153147,
-      "name": "Gloves Off",
-      "url": "https://open.spotify.com/track/5nQ2G1VANbt39RrsLAPU5k"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1467,42 +1511,6 @@
       "duration_ms": 213148,
       "name": "Good Time Tavern",
       "url": "https://open.spotify.com/track/5ETuNqDyD25GQ6ygYHaDcd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Slippin' (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 168169,
-      "name": "Slippin' (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 182777,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1647,22 +1655,6 @@
       "duration_ms": 150840,
       "name": "sheluvme",
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "LOVE NEVER FELT LIKE THIS",
-      "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
     },
     {
       "added_at": "2024-03-22 04:01:00",

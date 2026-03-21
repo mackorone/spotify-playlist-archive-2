@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Cidade Dormit\u00f3rio, Grisa",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Jovem Dion\u00edsio",
   "name": "alt BR",
   "tracks": [
     {
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 408000,
       "name": "Can\u00e7\u00e3odanoite",
       "url": "https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK"
@@ -6068,6 +6068,24 @@
       "duration_ms": 258023,
       "name": "Fases",
       "url": "https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH"
+    },
+    {
+      "album": {
+        "name": "Faz Tanto Tempo",
+        "url": "https://open.spotify.com/album/1y0esu7IlufE8X2d0mLVRz"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194603,
+      "name": "Faz Tanto Tempo",
+      "url": "https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0"
     },
     {
       "album": {
@@ -16146,7 +16164,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 167152,
       "name": "Viciado em carinho",
       "url": "https://open.spotify.com/track/6ltnZGhEGWF0WGjA8v5JpP"

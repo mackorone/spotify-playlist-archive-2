@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Con Todo Respeto",
+        "url": "https://open.spotify.com/album/0ByqK7yZiZDWF4iZty9bAl"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169183,
+      "name": "Con Todo Respeto",
+      "url": "https://open.spotify.com/track/5oreXMQKsPW3duvPMx3zrg"
+    },
+    {
+      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },

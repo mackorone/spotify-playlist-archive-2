@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183910,
       "name": "CRUZ",
       "url": "https://open.spotify.com/track/1QOc7M6q10UilnJOGu3KFh"
@@ -3742,6 +3742,24 @@
       "duration_ms": 150370,
       "name": "DALLAX",
       "url": "https://open.spotify.com/track/5rjWda7HRizhVkcMwikjHN"
+    },
+    {
+      "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179559,
+      "name": "Dammit Randy",
+      "url": "https://open.spotify.com/track/5YLedlTSZ4ovC2pbvAcNm7"
     },
     {
       "album": {

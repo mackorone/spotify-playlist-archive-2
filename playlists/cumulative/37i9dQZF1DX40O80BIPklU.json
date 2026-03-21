@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Zeballos en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Little Boogie y Milo J en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 170666,
       "name": "ANDO XXIL",
       "url": "https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173885,
       "name": "Callejero",
       "url": "https://open.spotify.com/track/1fqjFtv0WO8rLzHRl5KGZU"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195194,
       "name": "Cryogen",
       "url": "https://open.spotify.com/track/1f2b3SMfaBtjSpJe46d4dA"
@@ -6816,7 +6816,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 169756,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/0fE9BhHAEeSLXr3pdhErp8"
@@ -10901,6 +10901,24 @@
     },
     {
       "album": {
+        "name": "Primera Advertencia",
+        "url": "https://open.spotify.com/album/17PI0jhomAOPOBLYOVSjzG"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232563,
+      "name": "Primera Advertencia",
+      "url": "https://open.spotify.com/track/3TBydtJq4rmiHgceU2p8Bk"
+    },
+    {
+      "album": {
         "name": "Renacimiento",
         "url": "https://open.spotify.com/album/3sZ9b3sNu5RKCbH8c3UBjV"
       },
@@ -10998,6 +11016,28 @@
       "duration_ms": 193750,
       "name": "Proyecto 3",
       "url": "https://open.spotify.com/track/52u6RkCZeG35Y1Kc7YGaye"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/7rrNueGVfikpwrEPXzAlQD"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199431,
+      "name": "Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/3btRmr3aelAXhpc2EC2EYp"
     },
     {
       "album": {
@@ -11738,6 +11778,32 @@
       "duration_ms": 155888,
       "name": "RUNTZ",
       "url": "https://open.spotify.com/track/39K9lxrLW19pIBhKHSnm0F"
+    },
+    {
+      "album": {
+        "name": "Sacrificio",
+        "url": "https://open.spotify.com/album/2SpPxqRNf0kwt5v8tmtmJy"
+      },
+      "artists": [
+        {
+          "name": "Drama Theme",
+          "url": "https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188910,
+      "name": "Sacrificio",
+      "url": "https://open.spotify.com/track/0c9vrYtS8WktmWoi9yWhki"
     },
     {
       "album": {
@@ -13647,6 +13713,24 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "TRAP SIN T",
+      "url": "https://open.spotify.com/track/6ity0bfnkgbpavn63xdQ1r"
+    },
+    {
+      "album": {
         "name": "F\u00e9nix (Vol. 2)",
         "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
       },
@@ -13922,6 +14006,28 @@
       "duration_ms": 275960,
       "name": "Un D\u00eda Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/2Clw9WqL0pxtQkvoxKa3ua"
+    },
+    {
+      "album": {
+        "name": "AMOR FIADO",
+        "url": "https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "UN GUSTO",
+      "url": "https://open.spotify.com/track/74XvuYXS9VjhlnEn9Ctf7y"
     },
     {
       "album": {
@@ -14330,7 +14436,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198620,
       "name": "Visionarios Ordinarios",
       "url": "https://open.spotify.com/track/4rZrLsLpiOgAySmlu43cdP"
@@ -14352,6 +14458,32 @@
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
+    },
+    {
+      "album": {
+        "name": "VOY A DISPARARME",
+        "url": "https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194068,
+      "name": "VOY A DISPARARME",
+      "url": "https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u"
     },
     {
       "album": {
@@ -14546,7 +14678,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 119369,
       "name": "X-TRA - Spotify Sessions",
       "url": "https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh"

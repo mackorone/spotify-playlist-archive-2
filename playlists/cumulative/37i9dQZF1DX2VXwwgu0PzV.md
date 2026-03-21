@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: S.O.N Music
 
-1,592 songs - 3 day 12 hr 40 min
+1,593 songs - 3 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,6 +828,7 @@
 | [Lead Me](https://open.spotify.com/track/0ZsF8w3pC6egz9qvfxL5L6) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Lead Me](https://open.spotify.com/album/38WjX0SWvJKkCHEz5QFMMK) | 2:52 | 2025-04-19 | 2025-04-25 |
 | [LEAVE AM](https://open.spotify.com/track/5qD6spLX6xyPoGaWhQ7aBV) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Kng James](https://open.spotify.com/artist/2QMVSH9f4szbWBT0WMnvdz), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Dr Foy](https://open.spotify.com/artist/6hOIz4x9qqg41XPhhWygAh) | [LEAVE AM](https://open.spotify.com/album/6EltsuO2yImenIFxamWSNb) | 4:25 | 2023-02-02 | 2023-05-12 |
 | [Lele](https://open.spotify.com/track/4bVtiW5R5mr9b5sCMhjGI9) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Lele](https://open.spotify.com/album/5k69vdLz3lQwYpQziYSqA5) | 2:21 | 2025-08-08 | 2025-11-07 |
+| [Lenience](https://open.spotify.com/track/0a1c8Jf47dXDgA09z7IiPg) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Ama Agbo](https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5) | [Lenience](https://open.spotify.com/album/1WJYqQNONhennFSfHzObAE) | 3:53 | 2026-03-20 |  |
 | [Let it Go](https://open.spotify.com/track/4UyG93fzwlhSfFamzpFcNd) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Let it Go](https://open.spotify.com/album/43kWJ1PlyR7uXyy3JlkqGJ) | 3:14 | 2024-04-26 | 2024-05-24 |
 | [Let Me Down](https://open.spotify.com/track/0cSj8GJCbx1DWpsusmcO0K) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [The Coloured Tape](https://open.spotify.com/album/1eASx1InGFei1awN4rUTI8) | 3:02 | 2023-02-02 | 2023-02-25 |
 | [Let My Life](https://open.spotify.com/track/79a5aDdKtJ3kIOxhfFadUF) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Let My Life](https://open.spotify.com/album/6GHFwNseYX18t00LqeHNeV) | 4:22 | 2023-06-09 | 2023-06-23 |

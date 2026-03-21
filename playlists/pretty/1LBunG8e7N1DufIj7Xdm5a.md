@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,235 songs - 9 day 9 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,236 songs - 9 day 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4243,5 +4243,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4233 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 |
 | 4234 | [Worth the wait](https://open.spotify.com/track/0Q3kUTUPN2tnAAAP5QX0Eh) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Worth the wait](https://open.spotify.com/album/2nRP98u8PQm1v1dz0JqgrE) | 2:46 |
 | 4235 | [Cntrl](https://open.spotify.com/track/51HmjVo8lAH1twucy7t2BP) | [Jeremiah Denis](https://open.spotify.com/artist/6AEHyEcZyO5lqd13SS5nYl) | [Cntrl](https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu) | 1:39 |
+| 4236 | [Keep Running](https://open.spotify.com/track/0l2EatGlh3Sk7IsAQnhvjd) | [The Vegas Pigeon's](https://open.spotify.com/artist/1j3fgTPoallIrXgGDdGNCY) | [Keep Running](https://open.spotify.com/album/25W4m4L0TVRuX12aWKobca) | 3:55 |
 
-Snapshot ID: `AAAIClpoUfZ7BFTeG99HW9BJBhnKpV5X`
+Snapshot ID: `AAAICy5zn2qg5qvzh3uIi2UR5ZZ1vp71`

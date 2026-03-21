@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uae40\uc131\uaddc (Kim Sung Kyu)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416791,
+  "num_followers": 416776,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "\ucc98\uc74c\ucc98\ub7fc",
         "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 239480,
       "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
       "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "D's WAVE",
-        "url": "https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1"
-      },
-      "artists": [
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
+        "name": "D's WAVE",
+        "url": "https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1"
+      },
+      "artists": [
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Bird On The Edge",
-        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
-      },
-      "artists": [
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Bird On The Edge",
-      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Bird On The Edge",
+        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Bird On The Edge",
+      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Not a Dream",
-        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Not a Dream",
-      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
+        "name": "Not a Dream",
+        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Not a Dream",
+      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Even If This Love Disappears Tonight",
-        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Even If This Love Disappears Tonight",
-      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
+        "name": "Even If This Love Disappears Tonight",
+        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Even If This Love Disappears Tonight",
+      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
         "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Broken Party",
-        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Broken Party",
-      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Broken Party",
+        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Broken Party",
+      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Trip: Tape #01",
         "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2026-03-03 03:54:11",

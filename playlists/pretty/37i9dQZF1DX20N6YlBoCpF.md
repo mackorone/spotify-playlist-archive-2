@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Ruhan Du Toit, Irene\-Louise Van Wyk, Marno van der Merwe, Tamlyn Wessels en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,916 likes - 112 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,946 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

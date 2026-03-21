@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,428 likes - 182 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,342 likes - 182 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 181 | [Juno](https://open.spotify.com/track/0a6JTfSuVi5d9Kby3bm6kC) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Juno](https://open.spotify.com/album/6UKBLMEHjEQWMnQiKVeby6) | 2:18 |
 | 182 | [Compasiva](https://open.spotify.com/track/1hSjNgMBHra6UkCj9fKtet) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Compasiva](https://open.spotify.com/album/5aomacJN4WJMwZRwjpVNTR) | 2:39 |
 
-Snapshot ID: `AAAAALoK2oRYBO5tJxkXxDUW0dTd86CO`
+Snapshot ID: `AAAAAI4RrxGB3cnNUIIKqSjjy2Orjelj`

@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Cidade Dormitório, Grisa
+> Música brasileira fora da curva\. Foto: Jovem Dionísio
 
-871 songs - 2 day 1 hr 36 min
+872 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 | 2022-03-25 | 2023-01-28 |
 | [Canto Pra Você Voltar](https://open.spotify.com/track/4Y6QBWomomnfNGg6m4yPCF) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg), [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Canto Pra Você Voltar](https://open.spotify.com/album/4MXGRPM9GtIqNHOYlVhsSi) | 3:58 | 2022-01-14 | 2022-09-24 |
 | [Canção de vendaval](https://open.spotify.com/track/4y4jT2YplghpJmPEO6WoRy) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Noite Azul](https://open.spotify.com/album/7dE99LvIPjgdODSQaNH0ZI) | 2:37 | 2026-01-30 |  |
-| [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 | 2025-08-01 |  |
+| [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 | 2025-08-01 | 2026-03-21 |
 | [Capeta](https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Capeta](https://open.spotify.com/album/50HzrLIj0SXxm2jkKQsSXg) | 4:12 | 2024-07-05 | 2025-02-01 |
 | [Capixabilidade](https://open.spotify.com/track/1PK3xVCMaRJkvubVWhlTLn) | [Lisergia Tropical](https://open.spotify.com/artist/0uxlJVn4F65jyEI4NaxZNd) | [Capixabilidade](https://open.spotify.com/album/7FfLwljV6EqVYaxCfwsqIC) | 5:21 | 2022-01-14 | 2022-02-12 |
 | [Carótida](https://open.spotify.com/track/2YEbThOcqkFKDE5yRTx0ta) | [Besouro Mulher](https://open.spotify.com/artist/24bEVJfL5KhIf4fYZeIfg7) | [Volto Amanhã](https://open.spotify.com/album/7g9258jE0mO1lyxmIvDV55) | 1:57 | 2023-07-14 | 2023-07-29 |
@@ -321,6 +321,7 @@
 | [faroeste escroto](https://open.spotify.com/track/6fV2IXHvlIda4fHJuXEvXn) | [Juvi](https://open.spotify.com/artist/1LNhvULC6ReVIJB9GejbmV) | [O Sonho da Lagosta](https://open.spotify.com/album/1EeLGkApCB1q9t8jb1ZADa) | 3:24 | 2026-03-06 |  |
 | [Farol](https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK) | [Cardamomo](https://open.spotify.com/artist/4j9gjF5J0AB267VHkylSQ0), [VIRIDIANA](https://open.spotify.com/artist/4VngUHDob5tc60HThCPnUy) | [Farol](https://open.spotify.com/album/5TEG7HOqZLESr1uOPBtWFz) | 5:40 | 2023-10-06 | 2023-11-25 |
 | [Fases](https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y) | 4:18 | 2022-06-17 | 2022-07-09 |
+| [Faz Tanto Tempo](https://open.spotify.com/track/4QLHR9sNJDPwNX0pAjkPp0) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Faz Tanto Tempo](https://open.spotify.com/album/1y0esu7IlufE8X2d0mLVRz) | 3:14 | 2026-03-20 |  |
 | [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 | 2023-02-15 |
 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 | 2023-02-13 | 2023-07-15 |
 | [Feche Os Olhos](https://open.spotify.com/track/0nqkb9CJmXvkpUUbcWnLlA) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Feche Os Olhos](https://open.spotify.com/album/6bEDSjuJSVCE4nIcjWvHbn) | 4:07 | 2023-06-09 | 2023-06-24 |
@@ -835,7 +836,7 @@
 | [verdeoliva](https://open.spotify.com/track/5GM0ivW0to4aD2ODLgnHu7) | [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC), [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [SadBoysDanceClub](https://open.spotify.com/artist/6XolrAhzmJAEfxJiuT5PBc) | [verdeoliva](https://open.spotify.com/album/4t1Cqj60EStRJvRJmHyGSf) | 3:31 | 2023-03-17 | 2023-08-19 |
 | [verdeoliva](https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG) | [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC) | [verdeoliva](https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y) | 3:31 | 2023-03-03 | 2023-03-22 |
 | [Vestido Vermelho](https://open.spotify.com/track/61M14oh9fDkMjxWSqX9ROX) | [André Paixão](https://open.spotify.com/artist/0cL5s1kVSxBwkpLORUjF3p), [Pupillo](https://open.spotify.com/artist/2Uo4yafwibiI7doudOWOXK) | [Fora do Ritmo](https://open.spotify.com/album/6C72tw5sb3jlNbdvzOhkPF) | 5:25 | 2024-04-26 | 2024-06-22 |
-| [Viciado em carinho](https://open.spotify.com/track/6ltnZGhEGWF0WGjA8v5JpP) | [Sophia Chablau](https://open.spotify.com/artist/5dYxYokvmpxCELXrTczKZR), [Felipe Vaqueiro](https://open.spotify.com/artist/3s9f0W9ecEnuKJjql7P7s6) | [Handycam](https://open.spotify.com/album/7siRCvSUGl0kJKyLrXgsqO) | 2:47 | 2025-10-03 |  |
+| [Viciado em carinho](https://open.spotify.com/track/6ltnZGhEGWF0WGjA8v5JpP) | [Sophia Chablau](https://open.spotify.com/artist/5dYxYokvmpxCELXrTczKZR), [Felipe Vaqueiro](https://open.spotify.com/artist/3s9f0W9ecEnuKJjql7P7s6) | [Handycam](https://open.spotify.com/album/7siRCvSUGl0kJKyLrXgsqO) | 2:47 | 2025-10-03 | 2026-03-21 |
 | [Victoria](https://open.spotify.com/track/2UXLhcHLNYBFoBL7ALZoSz) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Victoria](https://open.spotify.com/album/69EvKtR8xGWiU3DPEkpqNF) | 2:56 | 2023-03-24 | 2023-04-01 |
 | [Vida Pacata](https://open.spotify.com/track/6sSTsavIjxM4YY375ezUnp) | [Varanda](https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk) | [Vida Pacata](https://open.spotify.com/album/0vjpg0SCUXWA1yL0oUonSD) | 3:30 | 2024-08-16 | 2025-12-06 |
 | [Vidadulta](https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Vidadulta](https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn) | 4:05 | 2022-10-28 | 2023-08-19 |

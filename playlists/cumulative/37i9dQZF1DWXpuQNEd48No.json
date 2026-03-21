@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Krish Rao",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Saaaj Tomar",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151543,
       "name": "Chore Desi",
       "url": "https://open.spotify.com/track/3REvJ9NN7ibwwBvl61Xwz1"
@@ -3102,6 +3102,32 @@
       "duration_ms": 124848,
       "name": "Desi",
       "url": "https://open.spotify.com/track/5lTHCIhhRvd43Pp54M6XCK"
+    },
+    {
+      "album": {
+        "name": "Desi Aagaye",
+        "url": "https://open.spotify.com/album/2RKAZYHyL5wtp0gPfDEVvv"
+      },
+      "artists": [
+        {
+          "name": "Saaaj Tomar",
+          "url": "https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl"
+        },
+        {
+          "name": "VJ Paul",
+          "url": "https://open.spotify.com/artist/4iNJy1ezxe6GVWIHGqOrWT"
+        },
+        {
+          "name": "Inzane",
+          "url": "https://open.spotify.com/artist/5WxAF79RhgVuTLhj39XLsH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147100,
+      "name": "Desi Aagaye",
+      "url": "https://open.spotify.com/track/7xlrGQrGR4QaLRBDQgGcuc"
     },
     {
       "album": {
@@ -6768,7 +6794,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166000,
       "name": "King In The North",
       "url": "https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P"
@@ -7872,6 +7898,24 @@
       "duration_ms": 203846,
       "name": "Mucha Aale Tag",
       "url": "https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6"
+    },
+    {
+      "album": {
+        "name": "Mukhtleef",
+        "url": "https://open.spotify.com/album/3jLdt9ofZOLlVrVJjsYWIn"
+      },
+      "artists": [
+        {
+          "name": "AAFT MUSIC",
+          "url": "https://open.spotify.com/artist/2gKbTpGYWl8cP5dTeT4vRD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127180,
+      "name": "Mukhtleef",
+      "url": "https://open.spotify.com/track/6aM5FZpsDxBqisjUG5dtGH"
     },
     {
       "album": {

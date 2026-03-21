@@ -14945,6 +14945,28 @@
     },
     {
       "album": {
+        "name": "Gi\u00f3 Tho\u1ea3ng M\u00e2y Bay",
+        "url": "https://open.spotify.com/album/4DxBCsTkhbBguXPyubffI8"
+      },
+      "artists": [
+        {
+          "name": "NAM",
+          "url": "https://open.spotify.com/artist/5coIu2kR2L7OO7YnRcCDWr"
+        },
+        {
+          "name": "ViAM",
+          "url": "https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254065,
+      "name": "Gi\u00f3 Tho\u1ea3ng M\u00e2y Bay",
+      "url": "https://open.spotify.com/track/4ztwP2ieonTKCt61gzfPHK"
+    },
+    {
+      "album": {
         "name": "Gi\u00f3 \u0110\u00f4ng V\u1ec1",
         "url": "https://open.spotify.com/album/6pbRiPyv3jyWNHRThHAsXf"
       },
@@ -41236,6 +41258,24 @@
       "duration_ms": 261694,
       "name": "v\u1ebft th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh"
+    },
+    {
+      "album": {
+        "name": "V\u1ec1",
+        "url": "https://open.spotify.com/album/206Wzy00E9EDpoONRLBwYk"
+      },
+      "artists": [
+        {
+          "name": "H\u1ea1c",
+          "url": "https://open.spotify.com/artist/52aq0foMGtr8kyNuhUhZVf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283368,
+      "name": "V\u1ec1",
+      "url": "https://open.spotify.com/track/4fPbaClaSzEQTRQ1mILgZb"
     },
     {
       "album": {

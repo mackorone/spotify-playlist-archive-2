@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 386980,
       "name": "333",
       "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 319235,
       "name": "And It Goes Like",
       "url": "https://open.spotify.com/track/6mZOCJeqVSy40vgbc0Y9LX"
@@ -696,6 +696,46 @@
       "duration_ms": 340589,
       "name": "Bastian",
       "url": "https://open.spotify.com/track/4VNCTejinLH66gtNc9etdO"
+    },
+    {
+      "album": {
+        "name": "Bearhugg",
+        "url": "https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341185,
+      "name": "Bearhugg",
+      "url": "https://open.spotify.com/track/5tAwbTMK5Aadm9DFY6USdQ"
+    },
+    {
+      "album": {
+        "name": "Bearhugg",
+        "url": "https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531692,
+      "name": "Bearhugg - Rory Marshall's No-Nonsense Remix",
+      "url": "https://open.spotify.com/track/5BBaOMqOdv9xKj7JlP693i"
     },
     {
       "album": {
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 484468,
       "name": "Diskansen",
       "url": "https://open.spotify.com/track/2sZYYl3TvoLAmTXxjFhXy3"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 357557,
       "name": "Don't Miss - Samuel L Session Vision",
       "url": "https://open.spotify.com/track/6b67DKn4cDUvDlkza7ZwIh"
@@ -2054,6 +2094,28 @@
       "duration_ms": 420032,
       "name": "Elektro Body Rocker - Floor Mix",
       "url": "https://open.spotify.com/track/1OxxQY6fjX5rKqFSMKnooQ"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5okNYq783Azjyiqw3iBGgN"
+      },
+      "artists": [
+        {
+          "name": "Redraft Memories",
+          "url": "https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB"
+        },
+        {
+          "name": "Spanto",
+          "url": "https://open.spotify.com/artist/4KwmWYZlO9ZR4594B3ihOn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378826,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/3MovkI5lyFLXdANRBklalR"
     },
     {
       "album": {
@@ -2460,7 +2522,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 196360,
       "name": "FIRE! - Mixed",
       "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
@@ -3148,7 +3210,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 491216,
       "name": "Headland",
       "url": "https://open.spotify.com/track/5Q6uVqKxJXovTdhReKv8Xt"
@@ -3638,7 +3700,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 297259,
       "name": "Ice - Marc Romboy & Robert Babicz Edit",
       "url": "https://open.spotify.com/track/3xgQXiAo8sHNzugZpkBtf6"
@@ -4051,6 +4113,128 @@
     },
     {
       "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540151,
+      "name": "Joya",
+      "url": "https://open.spotify.com/track/15byU5UkyWfAmZLVb3PHu1"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411013,
+      "name": "Joya - Christopher Coe Remix",
+      "url": "https://open.spotify.com/track/6DqH3Tcqvd6rKSgDPtBTz4"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Collective States",
+          "url": "https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482216,
+      "name": "Joya - Collective States Remix",
+      "url": "https://open.spotify.com/track/6wVRMPPXVt9JWYGMYzgCEK"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456253,
+      "name": "Joya - Curses Remix",
+      "url": "https://open.spotify.com/track/14VGHZArrmyesxm4thZdkq"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541687,
+      "name": "Joya - Instrumental mix",
+      "url": "https://open.spotify.com/track/4ma0W7M6P0vozkLrLqby4M"
+    },
+    {
+      "album": {
         "name": "Joya (Radio)",
         "url": "https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2"
       },
@@ -4066,10 +4250,62 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 243555,
       "name": "Joya - Radio",
       "url": "https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644766,
+      "name": "Joya - Radio Slave Remix",
+      "url": "https://open.spotify.com/track/319uNyq0znC1vL1VQoYnHd"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283777,
+      "name": "Joya - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
     },
     {
       "album": {
@@ -4780,7 +5016,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 317593,
       "name": "Mother Funker",
       "url": "https://open.spotify.com/track/7gLbvbW08M5MWzFddIxHr8"
@@ -5260,7 +5496,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 424497,
       "name": "Now I Understand",
       "url": "https://open.spotify.com/track/1WKv9RJkt4AVkTKjoQ7dNg"
@@ -5300,7 +5536,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 299178,
       "name": "Nulla Resta - Donato Dozzy Remix",
       "url": "https://open.spotify.com/track/124mDJALCMPfp1H5kSgMIJ"
@@ -5778,7 +6014,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 360000,
       "name": "Plasma Sky",
       "url": "https://open.spotify.com/track/0nlqW3YtNzZJ0xr8FjyYs4"
@@ -6496,7 +6732,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 228026,
       "name": "Rising High",
       "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
@@ -6594,7 +6830,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 489090,
       "name": "Sagala",
       "url": "https://open.spotify.com/track/2X0jXcmLh6IU9xkiAKp2oJ"
@@ -6946,7 +7182,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 358081,
       "name": "She Hates That Chord",
       "url": "https://open.spotify.com/track/10lunxgDSbEVCjHB0kn295"
@@ -7380,7 +7616,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 370251,
       "name": "Spooky Business",
       "url": "https://open.spotify.com/track/0INpOd1bT4lxr4qI7jZczW"
@@ -7402,7 +7638,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 289051,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/2y75BfXfcLAyTUWax6yGlW"
@@ -7442,7 +7678,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 399000,
       "name": "Steep",
       "url": "https://open.spotify.com/track/2Riu3orGTj9vKXdM61KNhB"

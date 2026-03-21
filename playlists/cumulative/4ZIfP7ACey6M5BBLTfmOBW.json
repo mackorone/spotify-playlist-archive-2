@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/0m9t3KqEFRAoT5UIcBfgyJ"
+      },
+      "artists": [
+        {
+          "name": "Pradabagshawty",
+          "url": "https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117863,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/0EasqRpnAXse3V5wB8f1Yq"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187411,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
@@ -1694,6 +1712,28 @@
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
+    },
+    {
+      "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
       "album": {
@@ -2228,7 +2268,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 280231,
       "name": "Bottega Trunks (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/4odpFHZoEXcRWVa39LooSX"
@@ -2488,6 +2528,24 @@
       "duration_ms": 102077,
       "name": "Burnt Bridges",
       "url": "https://open.spotify.com/track/4tc53CE6PJZQ34pjr1VE4r"
+    },
+    {
+      "album": {
+        "name": "Business & Personal (Intro)",
+        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Business & Personal (Intro)",
+      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
     },
     {
       "album": {
@@ -3752,6 +3810,24 @@
       "duration_ms": 82183,
       "name": "David Blaine",
       "url": "https://open.spotify.com/track/6PYEqxYgg6BGlJyuOaBbSr"
+    },
+    {
+      "album": {
+        "name": "De Chamaquito",
+        "url": "https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "De Chamaquito",
+      "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
     },
     {
       "album": {
@@ -5601,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Free Nick",
+        "url": "https://open.spotify.com/album/3BcEu7S5jDHDRSJ6924Nzg"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Free Nick",
+      "url": "https://open.spotify.com/track/3eloFTNAQnbjiwLlDDyvRK"
+    },
+    {
+      "album": {
         "name": "FREE SMURK OFNG",
         "url": "https://open.spotify.com/album/45x6Ld9RHaICXBk34MbTtY"
       },
@@ -6888,7 +6982,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
@@ -7622,7 +7716,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183947,
       "name": "Hot",
       "url": "https://open.spotify.com/track/5U3IRYI7JGYnc36eHwZ1S6"
@@ -7662,6 +7756,24 @@
       "duration_ms": 123558,
       "name": "How Many",
       "url": "https://open.spotify.com/track/7r4eIeyVaErbZlXHDXaQeb"
+    },
+    {
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/5lcuGbsqRYOFs6wAaXH9TJ"
+      },
+      "artists": [
+        {
+          "name": "B6",
+          "url": "https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180955,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0v8KuGqKwnJYm0kB23c3hj"
     },
     {
       "album": {
@@ -9128,6 +9240,24 @@
       "duration_ms": 151710,
       "name": "Lagos 2 Vegas",
       "url": "https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT"
+    },
+    {
+      "album": {
+        "name": "Lamb Chop",
+        "url": "https://open.spotify.com/album/6AR5H4vMm728Q6zDy3CS1I"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Lamb Chop",
+      "url": "https://open.spotify.com/track/5XrmCMLpTflQPvYjnEZXEh"
     },
     {
       "album": {
@@ -12648,7 +12778,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
@@ -14692,7 +14822,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168784,
       "name": "So What",
       "url": "https://open.spotify.com/track/7gnE132VY9pFbbMGCbt3JJ"
@@ -16184,7 +16314,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 271234,
       "name": "The Story of Adam & Eve",
       "url": "https://open.spotify.com/track/2xMLzp9R3IrXs3BSv89x6N"
@@ -17376,7 +17506,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
@@ -17756,7 +17886,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 150857,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/4UyP21hLjec2JeDDAENUId"

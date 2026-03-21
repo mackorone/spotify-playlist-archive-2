@@ -1,15 +1,39 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 147695,
+  "num_followers": 147708,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6gGSMDit0cA0xUihbDEyy5k68K",
+  "snapshot_id": "AAAAAFDUiuayZDUvIT79qBsxJo4EOMAR",
   "tracks": [
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 283777,
+      "name": "Joya - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud (Carl Cox Techno Mix)",
         "url": "https://open.spotify.com/album/18li5VPD9GwAZDLul1YJas"
@@ -29,7 +53,31 @@
       "url": "https://open.spotify.com/track/3hV1r5GEeT6L3zgPNXBkAi"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Collective States",
+          "url": "https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa"
+        }
+      ],
+      "duration_ms": 482216,
+      "name": "Joya - Collective States Remix",
+      "url": "https://open.spotify.com/track/6wVRMPPXVt9JWYGMYzgCEK"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/5x1HujeSgTikExjHqf27xJ"
@@ -45,7 +93,31 @@
       "url": "https://open.spotify.com/track/2W8WB0WW0Jif7NUUjlFwzC"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "duration_ms": 644766,
+      "name": "Joya - Radio Slave Remix",
+      "url": "https://open.spotify.com/track/319uNyq0znC1vL1VQoYnHd"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/5x1HujeSgTikExjHqf27xJ"
@@ -61,7 +133,31 @@
       "url": "https://open.spotify.com/track/2seRQFLd3FhiLMUO8wLSaW"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Curses",
+          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
+        }
+      ],
+      "duration_ms": 456253,
+      "name": "Joya - Curses Remix",
+      "url": "https://open.spotify.com/track/14VGHZArrmyesxm4thZdkq"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
         "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
@@ -81,10 +177,50 @@
       "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
-        "name": "Joya (Radio)",
-        "url": "https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2"
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "duration_ms": 411013,
+      "name": "Joya - Christopher Coe Remix",
+      "url": "https://open.spotify.com/track/6DqH3Tcqvd6rKSgDPtBTz4"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Bearhugg",
+        "url": "https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        }
+      ],
+      "duration_ms": 341185,
+      "name": "Bearhugg",
+      "url": "https://open.spotify.com/track/5tAwbTMK5Aadm9DFY6USdQ"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
       },
       "artists": [
         {
@@ -96,12 +232,12 @@
           "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
         }
       ],
-      "duration_ms": 243555,
-      "name": "Joya - Radio",
-      "url": "https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek"
+      "duration_ms": 541687,
+      "name": "Joya - Instrumental mix",
+      "url": "https://open.spotify.com/track/4ma0W7M6P0vozkLrLqby4M"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Ice (Marc Romboy & Robert Babicz Remix)",
         "url": "https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm"
@@ -117,7 +253,47 @@
       "url": "https://open.spotify.com/track/5dh5BPYJuKGSNZQ8tJQwMP"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "duration_ms": 540151,
+      "name": "Joya",
+      "url": "https://open.spotify.com/track/15byU5UkyWfAmZLVb3PHu1"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Bearhugg",
+        "url": "https://open.spotify.com/album/0mt9pxZzcHa1DU1qBw3Aw2"
+      },
+      "artists": [
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "duration_ms": 531692,
+      "name": "Bearhugg - Rory Marshall's No-Nonsense Remix",
+      "url": "https://open.spotify.com/track/5BBaOMqOdv9xKj7JlP693i"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3wXhsibdTscUSOZg77IR2t"
@@ -133,7 +309,27 @@
       "url": "https://open.spotify.com/track/48FHskTGXKi5euMGHYq3CT"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5okNYq783Azjyiqw3iBGgN"
+      },
+      "artists": [
+        {
+          "name": "Redraft Memories",
+          "url": "https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB"
+        },
+        {
+          "name": "Spanto",
+          "url": "https://open.spotify.com/artist/4KwmWYZlO9ZR4594B3ihOn"
+        }
+      ],
+      "duration_ms": 378826,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/3MovkI5lyFLXdANRBklalR"
+    },
+    {
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Urartu (Wehbba Remix)",
         "url": "https://open.spotify.com/album/3v7JJNxhTs8fS3ejjioP5N"
@@ -153,7 +349,7 @@
       "url": "https://open.spotify.com/track/5R5KLuzoPBbTNDVHrS38W2"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Inside - EP",
         "url": "https://open.spotify.com/album/5XkhxCOPZonJkAF1Z7HGlo"
@@ -169,7 +365,7 @@
       "url": "https://open.spotify.com/track/5zjJ93JGyZdrlbw3z73Lq9"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Deep In The Bleep",
         "url": "https://open.spotify.com/album/70GUZhzw2rO8bnFqYPd3Et"
@@ -185,7 +381,7 @@
       "url": "https://open.spotify.com/track/4QG9XszdHgWInHhIVzMSza"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "No Boundaries",
         "url": "https://open.spotify.com/album/4VBbdwPSfqhBgsuvcLoHD5"
@@ -205,7 +401,7 @@
       "url": "https://open.spotify.com/track/4Lpp6C7Au2zIGpNSirxLkK"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "ACYL Rhythm",
         "url": "https://open.spotify.com/album/6Y85Um3KG4npIQIQjfMVwp"
@@ -221,7 +417,7 @@
       "url": "https://open.spotify.com/track/2al7ywam5XRJSKFiXWftZE"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/7FObTaQiaPaAS5w2ioYyPD"
@@ -241,7 +437,7 @@
       "url": "https://open.spotify.com/track/4MshOexDDxmT0VZTpvivac"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Deep In The Bleep",
         "url": "https://open.spotify.com/album/70GUZhzw2rO8bnFqYPd3Et"
@@ -257,7 +453,7 @@
       "url": "https://open.spotify.com/track/0I4nvqHpuM8gpZ0qTMdtJK"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Because of You",
         "url": "https://open.spotify.com/album/6xnu4iDryMJh8bryztlmzR"
@@ -281,7 +477,7 @@
       "url": "https://open.spotify.com/track/0iN8OLBUqcw8He3jOSHeK0"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Shake The Nation",
         "url": "https://open.spotify.com/album/20zW7tBycTKoY58oQAFPZ9"
@@ -309,7 +505,7 @@
       "url": "https://open.spotify.com/track/2sfKtzdVmXz3FmfJZl3lPt"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Deep In The Bleep",
         "url": "https://open.spotify.com/album/70GUZhzw2rO8bnFqYPd3Et"
@@ -325,7 +521,7 @@
       "url": "https://open.spotify.com/track/2a0CchzvnEOrAUGBPXIQ5y"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "20 Years Systematic",
         "url": "https://open.spotify.com/album/4sEySwCWJvLi03S7vEH7nf"
@@ -341,7 +537,7 @@
       "url": "https://open.spotify.com/track/5D9LjY7gZ49RoSekqMCvP6"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Worlds End (Inisturk)",
         "url": "https://open.spotify.com/album/1yQzVRyifLPyMQVU7IInQK"
@@ -357,7 +553,7 @@
       "url": "https://open.spotify.com/track/0XvY2KOl1oWIofvGkS0C2R"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Urartu",
         "url": "https://open.spotify.com/album/1XoZDk409qgEEnLUXlwi6y"
@@ -373,7 +569,7 @@
       "url": "https://open.spotify.com/track/5sHSOdyd964XLnvaHeQWZF"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Generate EP",
         "url": "https://open.spotify.com/album/3VL5m0I2IyfWXwV5s3mhUR"
@@ -389,7 +585,7 @@
       "url": "https://open.spotify.com/track/2Y5JZZuAgbZa8O25o6lN59"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Dance On Water (Collective States Remix)",
         "url": "https://open.spotify.com/album/5kkUiqstbuFDMVfnhv9DEg"
@@ -413,7 +609,7 @@
       "url": "https://open.spotify.com/track/7iwG6z94zu2e0XgAUgclkL"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Nightcrawler (Market Memories & Rem Siman Remix)",
         "url": "https://open.spotify.com/album/7lYMX3vG5BIkfnhtMSLzo3"
@@ -437,7 +633,7 @@
       "url": "https://open.spotify.com/track/0ygS8lBCOGCLhXhSNVvfia"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Permission to Smoke",
         "url": "https://open.spotify.com/album/3k9ZkXE4pxRURAzim1eZOG"
@@ -469,7 +665,7 @@
       "url": "https://open.spotify.com/track/6Hjt024E9oNDuvdjX6bXCJ"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "What",
         "url": "https://open.spotify.com/album/2LpKKBNqhxTwmsLvWsWhqK"
@@ -485,7 +681,7 @@
       "url": "https://open.spotify.com/track/3NpStrsVqX7oVn3FRCQg2w"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Generate EP",
         "url": "https://open.spotify.com/album/3VL5m0I2IyfWXwV5s3mhUR"
@@ -501,7 +697,7 @@
       "url": "https://open.spotify.com/track/0VRF6S6kqcVZZlTbqbFNAA"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/4jGolCqw8U61skxjji8IJ8"
@@ -517,7 +713,7 @@
       "url": "https://open.spotify.com/track/3D6pTilQMrPPqqg4NNAYE9"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Wildcat",
         "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
@@ -533,7 +729,7 @@
       "url": "https://open.spotify.com/track/4IiuM8WGdKkSJgedY28RkU"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Megaton",
         "url": "https://open.spotify.com/album/2Wy9Yl7P6cfxBFNvTpA8gV"
@@ -549,7 +745,7 @@
       "url": "https://open.spotify.com/track/3B8wOSoJsW2C32imrKIIfn"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Tazo (Remixes)",
         "url": "https://open.spotify.com/album/1G1Zu26vyqoN0oBqVwRLK2"
@@ -565,7 +761,7 @@
       "url": "https://open.spotify.com/track/4S3PJRM820fE8GQWpSGyDi"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "I Can't Wait (Eric Powell Remix)",
         "url": "https://open.spotify.com/album/4ifvwwNzNoVmO7o1sHksDz"
@@ -593,7 +789,7 @@
       "url": "https://open.spotify.com/track/0cDiLJjYO8qsodDD7tXg1W"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Road Runner",
         "url": "https://open.spotify.com/album/4TdRYdW5JbDBuBQzBLtoEI"
@@ -613,7 +809,7 @@
       "url": "https://open.spotify.com/track/3jRF15pliXwl1WN7GaEuRC"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar"
@@ -633,7 +829,7 @@
       "url": "https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Kontrol EP",
         "url": "https://open.spotify.com/album/0t8jdQT2gZ9PtOuUv5OwAq"
@@ -649,7 +845,7 @@
       "url": "https://open.spotify.com/track/5ts3NZta32JBTsMZiYT4qq"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Wildcat",
         "url": "https://open.spotify.com/album/0Ls2eRwVuy4GtRMFhSMruQ"
@@ -665,7 +861,7 @@
       "url": "https://open.spotify.com/track/5lVixZU72PDvGG7hmwB002"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "OVERBRIDGE",
         "url": "https://open.spotify.com/album/21GgjAerSt7CPBEhc7gftC"
@@ -685,7 +881,7 @@
       "url": "https://open.spotify.com/track/1hdkW65MCCEBpMbNsv3PZH"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Tribalized",
         "url": "https://open.spotify.com/album/7ydlkOKaxS3n84RmDKs2Rf"
@@ -701,7 +897,7 @@
       "url": "https://open.spotify.com/track/3of8QaT50L44AqwbhkAG1P"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Holding On (Josh Wink Interpretation)",
         "url": "https://open.spotify.com/album/0Yzh34j788727diZpxklRF"
@@ -725,7 +921,7 @@
       "url": "https://open.spotify.com/track/4PhrwWBLLqNiCmZZ8mCHnJ"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Nothing Is Wasted",
         "url": "https://open.spotify.com/album/5MijwPU2aiYazF92QFzQQN"
@@ -745,7 +941,7 @@
       "url": "https://open.spotify.com/track/5vwjcJQF0DOrvS2ft3h5L4"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Tazo (Remixes)",
         "url": "https://open.spotify.com/album/1G1Zu26vyqoN0oBqVwRLK2"
@@ -765,7 +961,7 @@
       "url": "https://open.spotify.com/track/4B8uavIktk1ZxczzBoBcf9"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "The Eclipse - EP",
         "url": "https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB"
@@ -781,7 +977,7 @@
       "url": "https://open.spotify.com/track/0CZgpiHWXdluuer1EYYiNq"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Plasma Sky",
         "url": "https://open.spotify.com/album/6vQusSXVaMoGRjCwEGzLK4"
@@ -801,7 +997,7 @@
       "url": "https://open.spotify.com/track/3ZjtvnPmwCWOUHIryY8QX6"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Nocturno LP",
         "url": "https://open.spotify.com/album/0N7RKfRP7RMLOAYbNPbA3S"
@@ -817,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4rgwB6JiF7t0BzpgN4K0r6"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Tazo (Remixes)",
         "url": "https://open.spotify.com/album/1G1Zu26vyqoN0oBqVwRLK2"
@@ -837,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1PnIFrSCFLlIC29JRWTQvS"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Soul Seek EP",
         "url": "https://open.spotify.com/album/3qFvwtLB478igKejhbjwBk"
@@ -853,7 +1049,7 @@
       "url": "https://open.spotify.com/track/53h6aTeeKnuD3CJANPwzci"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Prozess Drei",
         "url": "https://open.spotify.com/album/3KTgpQUDLCuaMrPu2ppteu"
@@ -869,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5LnmTw8f1a3xB8zQMVtr2k"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Hypnotics EP",
         "url": "https://open.spotify.com/album/6MLnP41em9ypEHs0xBbNQb"
@@ -885,7 +1081,7 @@
       "url": "https://open.spotify.com/track/7yFxWwyUNgOlBVleXwshqt"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/7LnmVCMcb4eIPRYWctTzRM"
@@ -901,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2tHWfJzKknUb1bLCabCUp2"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Your Eyes on Me",
         "url": "https://open.spotify.com/album/7ngCdwtKLw8rWVCCQPbdgi"
@@ -917,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4u3rHonyMW7pmkB4nZq0JX"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Got It",
         "url": "https://open.spotify.com/album/56yXovaIQroPQNaTylu5GL"
@@ -933,7 +1129,7 @@
       "url": "https://open.spotify.com/track/7JvuSIL5cAynqg8fE6BjeG"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "The Marco Faraone Remixes",
         "url": "https://open.spotify.com/album/6M92kF64mjNG79rkJKijH3"
@@ -953,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6LeaZrNW6J846lRKg8lext"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "MDFC & Barbara Tucker Present Oh Life",
         "url": "https://open.spotify.com/album/4ZQWdNC9hkkAm0Nho8gFFA"
@@ -981,7 +1177,7 @@
       "url": "https://open.spotify.com/track/347TYIyiSnZtW9ld567C2P"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Universal Sound",
         "url": "https://open.spotify.com/album/6XqfxaDZfS9sXhU4BdmNSw"
@@ -1001,7 +1197,7 @@
       "url": "https://open.spotify.com/track/25sCz6YkJf9REcemAUV3x3"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Worlds End Island 1",
         "url": "https://open.spotify.com/album/2Y88S18BHy9t7X5FHVPVWG"
@@ -1017,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5vVEAMr9689tA9gzAqIB7R"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "That Place",
         "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
@@ -1033,7 +1229,7 @@
       "url": "https://open.spotify.com/track/20myAKmdRFTg9MOZztDrSk"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "False Gods",
         "url": "https://open.spotify.com/album/7yIxQyxZp3Cye9aFVzqIW2"
@@ -1053,7 +1249,7 @@
       "url": "https://open.spotify.com/track/7ihfgnPeHdFkhjsDlMTEtu"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
@@ -1069,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "The Unreleased Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
@@ -1093,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "Cod3 QR 015",
         "url": "https://open.spotify.com/album/098uPkyOOy3VbO7DZIJfBV"
@@ -1109,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3jzSTrLu0AhWMIwsiVUe9M"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "MDFC Presents Make My Dreams a Reality (DJ Spen & Gary Hudgins Remix)",
         "url": "https://open.spotify.com/album/1QpgrDnqhehvPD3F3MeAFn"
@@ -1149,7 +1345,7 @@
       "url": "https://open.spotify.com/track/6D04fgoIJWS7vZXWE3stuz"
     },
     {
-      "added_at": "2026-03-02 14:38:41",
+      "added_at": "2026-03-20 14:26:13",
       "album": {
         "name": "That Place",
         "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
@@ -1163,314 +1359,6 @@
       "duration_ms": 426666,
       "name": "That Place",
       "url": "https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Rising High",
-        "url": "https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc"
-      },
-      "artists": [
-        {
-          "name": "Shadow Child",
-          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Rising High",
-      "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Don't Miss The Train",
-        "url": "https://open.spotify.com/album/3TFgLwNIPbuO2QMu9dpMW8"
-      },
-      "artists": [
-        {
-          "name": "Samuel L Session",
-          "url": "https://open.spotify.com/artist/3FF5vlXWcGrA5SMLiibKpk"
-        },
-        {
-          "name": "DBFB",
-          "url": "https://open.spotify.com/artist/5WYq3XFhJ3zgHIwfTnbWB4"
-        }
-      ],
-      "duration_ms": 357557,
-      "name": "Don't Miss - Samuel L Session Vision",
-      "url": "https://open.spotify.com/track/6b67DKn4cDUvDlkza7ZwIh"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "And It Goes Like",
-        "url": "https://open.spotify.com/album/2gJGKSZnCYHuooDTvTDoVG"
-      },
-      "artists": [
-        {
-          "name": "Vitalic",
-          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
-        }
-      ],
-      "duration_ms": 319235,
-      "name": "And It Goes Like",
-      "url": "https://open.spotify.com/track/6mZOCJeqVSy40vgbc0Y9LX"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
-        "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
-      },
-      "artists": [
-        {
-          "name": "Klauss Tejger",
-          "url": "https://open.spotify.com/artist/3FOFAmLuYkacrzNYsoRcEF"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "FIRE! - Mixed",
-      "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Now I Understand",
-        "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
-      },
-      "artists": [
-        {
-          "name": "De Sluwe Vos",
-          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
-        }
-      ],
-      "duration_ms": 424497,
-      "name": "Now I Understand",
-      "url": "https://open.spotify.com/track/1WKv9RJkt4AVkTKjoQ7dNg"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "The Voyagers",
-        "url": "https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp"
-      },
-      "artists": [
-        {
-          "name": "Hybrasil",
-          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
-        }
-      ],
-      "duration_ms": 489090,
-      "name": "Sagala",
-      "url": "https://open.spotify.com/track/2X0jXcmLh6IU9xkiAKp2oJ"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Elderberry",
-        "url": "https://open.spotify.com/album/22GARvmQSSYb7FxQq5QGOj"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 358081,
-      "name": "She Hates That Chord",
-      "url": "https://open.spotify.com/track/10lunxgDSbEVCjHB0kn295"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Headland",
-        "url": "https://open.spotify.com/album/7fQ2hw5u1O4RGdWafXM8Gf"
-      },
-      "artists": [
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 491216,
-      "name": "Headland",
-      "url": "https://open.spotify.com/track/5Q6uVqKxJXovTdhReKv8Xt"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Rekindled - EP",
-        "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
-      },
-      "artists": [
-        {
-          "name": "Horatio",
-          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
-        },
-        {
-          "name": "Vikthor",
-          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
-        }
-      ],
-      "duration_ms": 386980,
-      "name": "333",
-      "url": "https://open.spotify.com/track/3OWcLNzmufVpv73bm0VBaz"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Insikt",
-        "url": "https://open.spotify.com/album/4zqLm3IKXDrsWAs5DnQNgy"
-      },
-      "artists": [
-        {
-          "name": "Charlie Thorstenson",
-          "url": "https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH"
-        }
-      ],
-      "duration_ms": 484468,
-      "name": "Diskansen",
-      "url": "https://open.spotify.com/track/2sZYYl3TvoLAmTXxjFhXy3"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Mother Funker",
-        "url": "https://open.spotify.com/album/6OBVJqNl6G9zlt5KC2SrV8"
-      },
-      "artists": [
-        {
-          "name": "Aitor Ronda",
-          "url": "https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D"
-        },
-        {
-          "name": "Norsam",
-          "url": "https://open.spotify.com/artist/0lDGwsWvifQyAjnmGrFrUT"
-        }
-      ],
-      "duration_ms": 317593,
-      "name": "Mother Funker",
-      "url": "https://open.spotify.com/track/7gLbvbW08M5MWzFddIxHr8"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/4X5z6xBe6a9rRYGJnvhpUt"
-      },
-      "artists": [
-        {
-          "name": "Holden Federico",
-          "url": "https://open.spotify.com/artist/6Ifp3vvfgBvT85i5GvAg0u"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Steep",
-      "url": "https://open.spotify.com/track/2Riu3orGTj9vKXdM61KNhB"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
-      },
-      "artists": [
-        {
-          "name": "Rory Marshall",
-          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
-        },
-        {
-          "name": "Christopher Coe",
-          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
-        }
-      ],
-      "duration_ms": 370251,
-      "name": "Spooky Business",
-      "url": "https://open.spotify.com/track/0INpOd1bT4lxr4qI7jZczW"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Plasma Sky",
-        "url": "https://open.spotify.com/album/6vQusSXVaMoGRjCwEGzLK4"
-      },
-      "artists": [
-        {
-          "name": "A. Paul",
-          "url": "https://open.spotify.com/artist/1SDSZTUIB7LiJCHYci7HDG"
-        },
-        {
-          "name": "Dolby D",
-          "url": "https://open.spotify.com/artist/5jzdaXegDShKGMf5DqyZoG"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Plasma Sky",
-      "url": "https://open.spotify.com/track/0nlqW3YtNzZJ0xr8FjyYs4"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/7yDncl7ReFnwNX2yS8Fwbp"
-      },
-      "artists": [
-        {
-          "name": "Melvin Spix",
-          "url": "https://open.spotify.com/artist/4ILjvUnCyiEU1aZpaQFFuF"
-        },
-        {
-          "name": "TimeKube",
-          "url": "https://open.spotify.com/artist/0OOX2Asnei6OZpQsLqH2uT"
-        }
-      ],
-      "duration_ms": 289051,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/2y75BfXfcLAyTUWax6yGlW"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Il Significato delle Parole Remixes",
-        "url": "https://open.spotify.com/album/3yLiW9rTMKQr8pblVWO52h"
-      },
-      "artists": [
-        {
-          "name": "Adiel",
-          "url": "https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw"
-        },
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 299178,
-      "name": "Nulla Resta - Donato Dozzy Remix",
-      "url": "https://open.spotify.com/track/124mDJALCMPfp1H5kSgMIJ"
-    },
-    {
-      "added_at": "2026-03-02 14:38:41",
-      "album": {
-        "name": "Ice (Marc Romboy & Robert Babicz Remix)",
-        "url": "https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm"
-      },
-      "artists": [
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        },
-        {
-          "name": "Robert Babicz",
-          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
-        }
-      ],
-      "duration_ms": 297259,
-      "name": "Ice - Marc Romboy & Robert Babicz Edit",
-      "url": "https://open.spotify.com/track/3xgQXiAo8sHNzugZpkBtf6"
     }
   ],
   "unique_name": "Carl Cox' track IDs",

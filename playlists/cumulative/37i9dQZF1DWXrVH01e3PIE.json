@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lil Troca, Lucho SSJ & C.R.O en la casa del Trap Argentino",
+  "description": "Little Boogie & Milo J en la casa del Trap Argentino",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 197831,
       "name": "El Amanecer",
       "url": "https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh"
@@ -6108,6 +6108,28 @@
       "duration_ms": 151260,
       "name": "La Renta",
       "url": "https://open.spotify.com/track/0RYMKjy11qYiS22PguDjls"
+    },
+    {
+      "album": {
+        "name": "la sensacion del bloKe",
+        "url": "https://open.spotify.com/album/4qFDwVNVU0FPTuG1evgPCu"
+      },
+      "artists": [
+        {
+          "name": "FRO!",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        },
+        {
+          "name": "pabloxo",
+          "url": "https://open.spotify.com/artist/4nIZ7usgzFtxmcIKj0qOST"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142336,
+      "name": "la sensacion del bloKe",
+      "url": "https://open.spotify.com/track/5XqFbTQgs5yIy9xnxavCTc"
     },
     {
       "album": {
@@ -9000,7 +9022,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 167340,
       "name": "Pintao",
       "url": "https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2"
@@ -12242,6 +12264,32 @@
       "duration_ms": 219560,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
+    },
+    {
+      "album": {
+        "name": "VOY A DISPARARME",
+        "url": "https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194068,
+      "name": "VOY A DISPARARME",
+      "url": "https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u"
     },
     {
       "album": {

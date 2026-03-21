@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,220 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,406 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 87 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
 | 88 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 |
 | 89 | [Someone To Watch Over Me](https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od) | [Donatella Montinaro](https://open.spotify.com/artist/0C4L4Wip7dcoY9jYr5gn6G), [Danilo Tarso](https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY) | [Still We Dream](https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l) | 6:11 |
-| 90 | [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 |
-| 91 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 |
+| 90 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 |
+| 91 | [Baby Won't You Please Come Home](https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [Baby Won't You Please Come Home](https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk) | 3:19 |
 | 92 | [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 |
 | 93 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 |
 | 94 | [A Place I Don’t Know](https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI) | 2:32 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 113 | [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 |
 | 114 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 |
 | 115 | [It's the Talk of the Town](https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [It's the Talk of the Town](https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub) | 7:04 |
-| 116 | [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 |
-| 117 | [Blue in Green](https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Still Life](https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm) | 3:46 |
+| 116 | [Blue in Green](https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Still Life](https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm) | 3:46 |
+| 117 | [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 |
 | 118 | [Bewitched, Bothered, and Bewildered](https://open.spotify.com/track/1uXP8aq3J5QTnrdJ6DoMJD) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [Bewitched, Bothered, and Bewildered](https://open.spotify.com/album/72UfFAivdgZi1NttdxustH) | 7:27 |
 | 119 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 |
 | 120 | [Lemons](https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw) | [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l), [Jackie West](https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np), [Adam Levy](https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt) | [Lemons](https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8) | 4:09 |

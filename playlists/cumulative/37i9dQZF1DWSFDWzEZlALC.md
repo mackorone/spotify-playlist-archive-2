@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-1,681 songs - 3 day 7 hr 24 min
+1,681 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1428,7 +1428,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 3](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 0:00 | 2026-03-19 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |
@@ -1601,6 +1600,7 @@
 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 | 2026-01-29 | 2026-03-20 |
 | [Wie ich es sag](https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX), [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Wie ich es sag](https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9) | 3:03 | 2024-02-01 | 2024-04-05 |
 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 | 2023-10-26 | 2024-02-14 |
+| [wie lang geht das noch gut](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 2:24 | 2026-03-19 |  |
 | [wie papier](https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [wie papier](https://open.spotify.com/album/5YftfztP69iYMUiWMUZxE0) | 2:16 | 2023-10-12 | 2023-11-24 |
 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 | 2025-09-11 | 2026-02-15 |
 | [Wie weit](https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Wie weit](https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA) | 2:38 | 2024-03-14 | 2024-07-27 |

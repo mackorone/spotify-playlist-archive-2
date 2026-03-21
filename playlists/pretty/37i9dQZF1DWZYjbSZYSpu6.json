@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: \ub518\ub518 (DINDIN) & \uc870\ud604\uc601(\ub808\uc778\ubcf4\uc6b0))",
-  "num_followers": 396102,
+  "num_followers": 396112,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,30 @@
     {
       "added_at": "2026-03-17 09:13:29",
       "album": {
+        "name": "Cave Me In",
+        "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "TABLO",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 214158,
+      "name": "Cave Me In",
+      "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
+    },
+    {
+      "added_at": "2026-03-17 09:13:29",
+      "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 177253,
       "name": "Officially Cool",
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
-    },
-    {
-      "added_at": "2026-03-17 09:13:29",
-      "album": {
-        "name": "Cave Me In",
-        "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "TABLO",
-          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Cave Me In",
-      "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
     },
     {
       "added_at": "2026-03-17 09:13:29",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-17 09:13:29",
       "album": {
-        "name": "Have A Good Time",
-        "url": "https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU"
-    },
-    {
-      "added_at": "2026-03-17 09:13:29",
-      "album": {
         "name": "Press Winter",
         "url": "https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+    },
+    {
+      "added_at": "2026-03-17 09:13:29",
+      "album": {
+        "name": "Have A Good Time",
+        "url": "https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Have A Good Time",
+      "url": "https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU"
     },
     {
       "added_at": "2026-03-17 09:13:29",

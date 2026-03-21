@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,121 songs - 2 day 19 hr 25 min
+1,121 songs - 2 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [Onnenkyynelii](https://open.spotify.com/track/6im44DUi3DS1R1mLoBBjgv) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Onnenkyynelii](https://open.spotify.com/album/7BL7XUeBvVLwRByTGU5LtE) | 2:53 | 2025-09-11 | 2025-10-17 |
 | [Onnensulka](https://open.spotify.com/track/5K2KKUa8V6rGL1zi7ZlgKm) | [Helmi Ada](https://open.spotify.com/artist/1c0z82L730om1smkNCNHCE) | [Onnensulka](https://open.spotify.com/album/2PJmD1475XklxDnik8tICc) | 5:01 | 2025-02-13 | 2025-03-14 |
 | [Oo vaan \(baby\)](https://open.spotify.com/track/0SHSJM8ZI3oAxeW0mclRZv) | [Local Al](https://open.spotify.com/artist/4CxIg9I8wqybDXishMnZrS) | [Oo vaan \(baby\)](https://open.spotify.com/album/5TEqZXm5UIJ8rtfvym9vGZ) | 5:28 | 2025-06-12 | 2025-08-15 |
+| [Oodi](https://open.spotify.com/track/05HvgbkvGKtrLdWIQdmYfE) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Tie on maalattu maahan](https://open.spotify.com/album/2jDWrQso1RkuUxfpZXiERZ) | 5:14 | 2026-03-19 |  |
 | [Oona Amalia](https://open.spotify.com/track/4TBWQONKcwLm1XQyeHfMVP) | [Kas Kan](https://open.spotify.com/artist/0FJJWDQ8141Y1JQzthtEnG) | [Oona Amalia](https://open.spotify.com/album/21C9OLePWUlPeQDVrhHvOy) | 4:00 | 2024-11-14 | 2025-01-17 |
 | [Oot mun Jumala](https://open.spotify.com/track/7McealEBGSiDW8eGdNBJBT) | [Lydian](https://open.spotify.com/artist/1FDg8DDyMpcdo9jMdBuU97) | [Oot mun Jumala](https://open.spotify.com/album/7xQR1QgeLetfmcHXA0hPS5) | 3:40 | 2025-09-18 | 2025-10-03 |
 | [Ordinary Girl](https://open.spotify.com/track/0mb5erjnskJ9Al2dwnpPK8) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [Ordinary Girl](https://open.spotify.com/album/2imDhvMF838iQTVxXbv8II) | 3:44 | 2025-06-12 | 2025-08-22 |
@@ -992,7 +993,6 @@
 | [Tottunut veteen](https://open.spotify.com/track/34TFf7E4qTHKGaru5qrmlB) | [Valkea](https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw) | [Tottunut veteen](https://open.spotify.com/album/3LTSPBmn9dAs1hW5dWgAa0) | 3:26 | 2025-01-09 | 2025-02-21 |
 | [Touch Me](https://open.spotify.com/track/6QjHL2PQGYydnDvp07PnWt) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Touch Me](https://open.spotify.com/album/3b09iTgziOlkDjKXir4jzN) | 2:49 | 2025-03-20 | 2025-04-04 |
 | [toxic](https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i) | [hachiko](https://open.spotify.com/artist/4ol2mWmR50f4cjW5QkIbpk) | [toxic](https://open.spotify.com/album/6LIqO4wBWPgbTV3SbuPouX) | 2:01 | 2024-07-02 | 2024-08-16 |
-| [Track 5](https://open.spotify.com/track/05HvgbkvGKtrLdWIQdmYfE) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Tie on maalattu maahan](https://open.spotify.com/album/2jDWrQso1RkuUxfpZXiERZ) | 0:00 | 2026-03-19 |  |
 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 | 2024-09-12 | 2024-10-25 |
 | [Tuhkaa](https://open.spotify.com/track/4814VWnOYwmaI9bsQOniK2) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Tuhkaa](https://open.spotify.com/album/6emBmpZS24ZFZ9JdCmROmh) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Tuhma kuva](https://open.spotify.com/track/2B55MJg3Zc9cO7gabvInUe) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Tuhma kuva](https://open.spotify.com/album/0pQMxapTVJ21Jy31gJiJGP) | 4:49 | 2024-08-29 | 2024-09-20 |

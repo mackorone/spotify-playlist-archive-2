@@ -1,13 +1,93 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43502,
+  "num_followers": 43498,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaoaFES6IimyxCI4l9pz084QUb/VLn",
+  "snapshot_id": "AAAapcHC3e33kmwUWo9PTyCy/2n0SzNc",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "dontwakemeup (feat. Veronica Bravo)",
+      "url": "https://open.spotify.com/track/3iWpeNTnY5JdsPAXWk5Q9r"
+    },
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "youshouldknow (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:46",
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Rill\u00f8",
+          "url": "https://open.spotify.com/artist/0aOit3KOQPUrEAgvR7Rb6K"
+        }
+      ],
+      "duration_ms": 146404,
+      "name": "getmehigh (feat. Rill\u00f8)",
+      "url": "https://open.spotify.com/track/3R4brNSVGHCLwJNB71xrzc"
+    },
+    {
+      "added_at": "2026-03-20 04:00:46",
+      "album": {
+        "name": "Vividly (feat. Emily Falvey)",
+        "url": "https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX"
+      },
+      "artists": [
+        {
+          "name": "Kouss",
+          "url": "https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Vividly",
+      "url": "https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL"
+    },
     {
       "added_at": "2026-03-13 04:00:45",
       "album": {

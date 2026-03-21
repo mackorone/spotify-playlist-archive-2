@@ -14031,24 +14031,6 @@
     },
     {
       "album": {
-        "name": "Letters To My Habits",
-        "url": "https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
-    },
-    {
-      "album": {
         "name": "Trade it for the Night",
         "url": "https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6"
       },
@@ -14856,6 +14838,24 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "album": {
+        "name": "Letters To My Habits",
+        "url": "https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165785,
+      "name": "What A Way To Die",
+      "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
     },
     {
       "album": {

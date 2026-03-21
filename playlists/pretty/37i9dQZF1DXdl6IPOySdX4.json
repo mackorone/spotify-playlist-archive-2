@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2156842,
+  "num_followers": 2157267,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqlPcZMCk0l4uJImAmHANbKuBK7",
+  "snapshot_id": "AAAAAOgBpILpXr7O85RnXT0/C0LABpJP",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/77YB9Zep5ZAMIpMwYWSV4b"
     },
     {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "fuck, i\u2019m yours?",
+        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "fuck, i\u2019m yours?",
+      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "AM",
@@ -55,6 +71,22 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "more than just a little bit",
+        "url": "https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 160382,
+      "name": "more than just a little bit",
+      "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -99,38 +131,6 @@
     {
       "added_at": "2026-02-20 05:35:55",
       "album": {
-        "name": "The Secrets to Altering Reality",
-        "url": "https://open.spotify.com/album/3PFaFQFU6zGhplEMD0iJTK"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Fawnheart",
-      "url": "https://open.spotify.com/track/7bRwZhLnHe4i7X5MlIyBfV"
-    },
-    {
-      "added_at": "2025-06-09 14:10:11",
-      "album": {
-        "name": "you're such a good girl?",
-        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        }
-      ],
-      "duration_ms": 167153,
-      "name": "you're such a good girl?",
-      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
-    },
-    {
-      "added_at": "2026-02-20 05:35:55",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
       },
@@ -143,38 +143,6 @@
       "duration_ms": 167481,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
-    },
-    {
-      "added_at": "2025-08-08 04:00:34",
-      "album": {
-        "name": "milk & honey",
-        "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 228157,
-      "name": "milk & honey",
-      "url": "https://open.spotify.com/track/1BuR2D1PYh37x2vAPCVvo7"
-    },
-    {
-      "added_at": "2026-02-20 05:35:55",
-      "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/1NrJmKpXxrfFAcG5jPm0Pn"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 201708,
-      "name": "SURRENDER",
-      "url": "https://open.spotify.com/track/6nrVrl0ZogX4PsR8fgyKjj"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -191,22 +159,6 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
-    },
-    {
-      "added_at": "2025-11-28 05:00:17",
-      "album": {
-        "name": "Bite The Bullet",
-        "url": "https://open.spotify.com/album/6a5mX0DoOpUegoR6jZzBmU"
-      },
-      "artists": [
-        {
-          "name": "Sissy Ford",
-          "url": "https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l"
-        }
-      ],
-      "duration_ms": 134808,
-      "name": "Bite The Bullet",
-      "url": "https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -241,20 +193,20 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-      "added_at": "2025-10-24 04:00:02",
+      "added_at": "2025-11-28 05:00:17",
       "album": {
-        "name": "Anna Karenina",
-        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
+        "name": "Bite The Bullet",
+        "url": "https://open.spotify.com/album/6a5mX0DoOpUegoR6jZzBmU"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Sissy Ford",
+          "url": "https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Anna Karenina",
-      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
+      "duration_ms": 134808,
+      "name": "Bite The Bullet",
+      "url": "https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -271,6 +223,38 @@
       "duration_ms": 253080,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2025-06-09 14:10:11",
+      "album": {
+        "name": "you're such a good girl?",
+        "url": "https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "you're such a good girl?",
+      "url": "https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -321,22 +305,6 @@
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
-      "added_at": "2025-10-24 04:00:02",
-      "album": {
-        "name": "Believe It",
-        "url": "https://open.spotify.com/album/1KFOY5fOpzO6tWjsQYQ1lh"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 171035,
-      "name": "Believe It",
-      "url": "https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh"
-    },
-    {
       "added_at": "2025-07-03 03:36:52",
       "album": {
         "name": "Heart Shaped World",
@@ -351,6 +319,22 @@
       "duration_ms": 289066,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
+    },
+    {
+      "added_at": "2025-10-24 04:00:02",
+      "album": {
+        "name": "Believe It",
+        "url": "https://open.spotify.com/album/1KFOY5fOpzO6tWjsQYQ1lh"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "duration_ms": 171035,
+      "name": "Believe It",
+      "url": "https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -405,22 +389,6 @@
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
-      "added_at": "2025-09-26 04:00:21",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 165479,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Wiped Out!",
@@ -435,6 +403,22 @@
       "duration_ms": 260163,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2025-09-26 04:00:21",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 165479,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 154155,
       "name": "BLEED MY LOVE",
       "url": "https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021"
+    },
+    {
+      "added_at": "2025-06-06 04:00:10",
+      "album": {
+        "name": "ALL I WANT IS YOU",
+        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 135570,
+      "name": "ALL I WANT IS YOU",
+      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
     }
   ],
   "unique_name": "goosebumps",

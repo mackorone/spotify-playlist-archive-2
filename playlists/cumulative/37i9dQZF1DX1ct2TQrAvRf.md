@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- Hammy Muzic
+> India's Rap Scene\. Cover \- Diljit Dosanjh
 
-386 songs - 20 hr 45 min
+387 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 | 2025-10-10 | 2026-01-24 |
 | [Daytona](https://open.spotify.com/track/1dlCoq7vdDnuAzo3DYPTY4) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 | 2025-08-30 |  |
 | [Deadly Zone](https://open.spotify.com/track/68LtGqZ3Ulvy1nMcdhEEht) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Deadly Zone](https://open.spotify.com/album/0yUSrznzLt3VwYAb98zSAW) | 2:48 | 2026-02-06 |  |
+| [Dealer](https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Da Future](https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR), [Virk Andaaz](https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l) | [Dealer](https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N) | 1:50 | 2026-03-20 |  |
 | [DEHSHAT HO](https://open.spotify.com/track/54woTHhitonXA8nWL7blMW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:15 | 2024-11-15 | 2025-01-25 |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/0wAXFT9FskLIaN1pLkmTYE) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Gorilla Bounce](https://open.spotify.com/album/1105dcUWKvpAEAGO1MdaqH) | 3:21 | 2023-07-07 | 2023-11-10 |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/5vdWj5rEzg9lg5qbE98PmX) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Gorilla Bounce](https://open.spotify.com/album/4N3Ltmqz2cQt9ZMJedfCGn) | 3:21 | 2023-07-07 | 2023-07-11 |
@@ -144,7 +145,7 @@
 | [Google Pay](https://open.spotify.com/track/4jqdTjX083euOxkKqJu0O2) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Google Pay](https://open.spotify.com/album/0T9gW7u5hAO5U15nFDlaxn) | 3:51 | 2023-03-27 | 2023-04-20 |
 | [Gourmet Shit!](https://open.spotify.com/track/5J9a8TXC2zF4KuUdm7CgT6) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:30 | 2024-12-20 | 2025-02-01 |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-27 | 2024-07-06 |
-| [GTA Mohali](https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukhn Sandhu](https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [GTA Mohali](https://open.spotify.com/album/4VWX3ctvnVSGMWRpoXwxkY) | 3:54 | 2026-02-27 |  |
+| [GTA Mohali](https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukhn Sandhu](https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [GTA Mohali](https://open.spotify.com/album/4VWX3ctvnVSGMWRpoXwxkY) | 3:54 | 2026-02-27 | 2026-03-21 |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-04-19 | 2023-04-25 |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-27 | 2023-08-18 |
 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 | 2023-03-27 | 2023-09-02 |

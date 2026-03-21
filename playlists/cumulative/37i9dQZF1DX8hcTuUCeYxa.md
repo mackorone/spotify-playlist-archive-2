@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Paris Paloma
 
-2,619 songs - 6 day 6 hr 29 min
+2,620 songs - 6 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Can't Be What You Want Me To Be](https://open.spotify.com/track/5KI6Ik2XjAhfc7EJ283Cbf) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Can't Be What You Want Me To Be](https://open.spotify.com/album/3MeFksEk2FZo2ZZ7i3YXF0) | 3:04 | 2024-09-26 | 2024-10-04 |
 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 | 2025-01-16 | 2025-02-14 |
 | [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 | 2025-11-20 | 2026-01-15 |
+| [Can't Wait](https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby: After Hours](https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT) | 2:19 | 2026-03-19 |  |
 | [Candle](https://open.spotify.com/track/1nVShgCXxO3N7CAXoVNCdp) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [COSPLAY](https://open.spotify.com/album/2y9KTl1MXK8jgH40zwh11X) | 3:06 | 2025-11-06 | 2025-11-14 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 | 2025-07-25 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2025-04-25 |
@@ -1801,6 +1802,7 @@
 | [Pushing](https://open.spotify.com/track/4na9h2x04ZgtccWtKE61nA) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Pushing](https://open.spotify.com/album/28TIiWOK7U5w3RS9QV4svj) | 3:40 | 2025-09-18 | 2025-10-17 |
 | [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-24 | 2024-11-22 |
 | [Quiet Life](https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Quiet Life](https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2) | 3:16 | 2025-07-10 | 2025-08-09 |
+| [Quiet Power](https://open.spotify.com/track/2RWG5cQeAaFjY6S2PJCAcW) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Lush Life EP](https://open.spotify.com/album/6HcNirfHS9cvBlUhBGew0f) | 4:05 | 2026-03-19 |  |
 | [Quiz Show Clue](https://open.spotify.com/track/0AZPRop6tpnPTEeWHagcTw) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Quiz Show Clue](https://open.spotify.com/album/5HDIHmiNNVAQCwNPVe7Nsy) | 4:48 | 2024-08-22 | 2024-09-20 |
 | [Rabbits Can Swim](https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Rabbits Can Swim](https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n) | 4:13 | 2026-03-19 |  |
 | [RADAR](https://open.spotify.com/track/79WTP7QCEDiqHTbUm7UMTr) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [RADAR](https://open.spotify.com/album/5oWhi98ernOlHaM5TxetAz) | 3:48 | 2026-01-15 | 2026-01-30 |
@@ -1840,6 +1842,7 @@
 | [Ride Or Die](https://open.spotify.com/track/3yB8L0RGUIGZdvfFwYFn0C) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [Ride Or Die](https://open.spotify.com/album/6396rY2oG82nMH6GhC6C6n) | 3:20 | 2025-08-21 | 2025-08-29 |
 | [Riff Before Work](https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Riff Before Work](https://open.spotify.com/album/47aFetVSgGTuupxJi49bNP) | 2:46 | 2024-08-01 | 2024-08-23 |
 | [Right In Front Of Me](https://open.spotify.com/track/4CEQKjtrYlMM1PzRavqAOW) | [Public Display of Affection](https://open.spotify.com/artist/56tpT0IJ84BVtP3hvzEKjV), [Alexander Alien](https://open.spotify.com/artist/2SuJIjOntI94KN2c727gbo) | [Right In Front Of Me](https://open.spotify.com/album/605TTPjZNDpH48aPdOhJ2S) | 2:30 | 2024-09-05 | 2024-09-13 |
+| [Right Place](https://open.spotify.com/track/2M0g3zAZL17IAPZ1jU1B1o) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [For The Record](https://open.spotify.com/album/3ZsYHlxvkNHmvKBBe7iJN2) | 3:46 | 2026-03-19 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-23 | 2025-02-21 |
 | [Riptides](https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Riptides](https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN) | 3:17 | 2026-03-19 |  |
 | [Risk of Make Believe](https://open.spotify.com/track/0OgI3VS7UlsBDBDdp0pmoL) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Risk of Make Believe](https://open.spotify.com/album/5s1vvzcR7KVWemtpEqc3Qw) | 4:35 | 2024-09-26 | 2024-10-18 |
@@ -2362,8 +2365,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 2](https://open.spotify.com/track/2M0g3zAZL17IAPZ1jU1B1o) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [For The Record](https://open.spotify.com/album/3ZsYHlxvkNHmvKBBe7iJN2) | 0:00 | 2026-03-19 |  |
-| [Track 4](https://open.spotify.com/track/2RWG5cQeAaFjY6S2PJCAcW) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Lush Life EP](https://open.spotify.com/album/6HcNirfHS9cvBlUhBGew0f) | 0:00 | 2026-03-19 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |

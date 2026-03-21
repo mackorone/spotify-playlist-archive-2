@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,739 likes - 110 songs - 5 hr 55 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,737 likes - 119 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,14 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 108 | [Dead to Me](https://open.spotify.com/track/1BEbsfZy3yzSnm5mzfz2lK) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Dead to Me](https://open.spotify.com/album/4cLjSdE290TlMlDYhM6O2s) | 3:50 |
 | 109 | [Nothing's What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Nothing's What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1) | 3:12 |
 | 110 | [Sunshine State](https://open.spotify.com/track/7jLJJjTd6Lnz67iOJvhZTE) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Sunshine State](https://open.spotify.com/album/1sHsn9yFXJpHAthwkQlS5T) | 3:22 |
+| 111 | [You & Me](https://open.spotify.com/track/6qePUFBXbfj5e46IVX5clx) | [Elijah Scott](https://open.spotify.com/artist/1KpQ1cGIyjXvRWmxb5MXnE) | [You & Me](https://open.spotify.com/album/26uC38X0MH6BsmFIo12ZrG) | 3:51 |
+| 112 | [Loving Life Again](https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Loving Life Again](https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC) | 3:46 |
+| 113 | [RED WINE STAINS](https://open.spotify.com/track/5SAKp3Fwp7xz7nKMUaoY0k) | [Ethan Garner](https://open.spotify.com/artist/7sdAWg2llUNPQJUxFiYaCG) | [RED WINE STAINS](https://open.spotify.com/album/1UdIEO1VpHN9WGjurOcu1T) | 3:30 |
+| 114 | [Rethink Some Things](https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:45 |
+| 115 | [Girl Out In Nevada](https://open.spotify.com/track/1X4aUOygRmyhc2dM4FVA6F) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Coming Home Again](https://open.spotify.com/album/4ckdA8pRLkhn3G8RTYCH4r) | 3:15 |
+| 116 | [Ways Away](https://open.spotify.com/track/5S4scaTVXDBMBUJ8uE0jPc) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Midwest Memoir](https://open.spotify.com/album/5n3pRMNCzYMao4E1amwaV3) | 2:52 |
+| 117 | [we could use a little more](https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [we could use a little more](https://open.spotify.com/album/4OoBAByMLtXKP2J1wjf89f) | 3:32 |
+| 118 | [Under The Influence](https://open.spotify.com/track/48KR896jmozh3qJImcytaJ) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Under The Influence](https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4) | 3:21 |
+| 119 | [Standstill \(My My My\)](https://open.spotify.com/track/0HswDoTYCh8klZpUsuF6ZL) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Standstill \(My My My\)](https://open.spotify.com/album/40Pi4oK3O61wJfIIX5YZez) | 2:48 |
 
-Snapshot ID: `AAAOMV1nKVXmzXs6h28/a+CkPz8CTEh2`
+Snapshot ID: `AAAOOr9THlN9JfgjfZF3+H2zd58CfojD`

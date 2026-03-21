@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Alfombra Roja",
+        "url": "https://open.spotify.com/album/2bQADgVkBvHLcbzsFfY3ev"
+      },
+      "artists": [
+        {
+          "name": "Joystick",
+          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223105,
+      "name": "Alfombra Roja",
+      "url": "https://open.spotify.com/track/5ATcDsv1Qu4r0ZHbRZdcXm"
+    },
+    {
+      "album": {
         "name": "Algo Me Dice",
         "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
       },
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 226693,
       "name": "Insoportable",
       "url": "https://open.spotify.com/track/6L9AJOVDiiYP73AW3uc4aQ"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 214187,
       "name": "Me Quedo Ac\u00e1",
       "url": "https://open.spotify.com/track/28EGCmpsGV8byQdcL7QKSL"
@@ -5950,7 +5968,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 212776,
       "name": "Pretensi\u00f3n",
       "url": "https://open.spotify.com/track/4Scgil3syVN084WClpTBhO"
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192571,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/6dRodCqlCp4bH7B8KbyjyQ"
@@ -6489,6 +6507,28 @@
     },
     {
       "album": {
+        "name": "Si me voy no significa que te quiera menos",
+        "url": "https://open.spotify.com/album/54T2c3F5Mf0NKNXynA7ero"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Diego Ib\u00e1\u00f1ez",
+          "url": "https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276937,
+      "name": "Si me voy no significa que te quiera menos",
+      "url": "https://open.spotify.com/track/5oFVYTz6bERQklRuygaujv"
+    },
+    {
+      "album": {
         "name": "SI T\u00da NO EST\u00c1S",
         "url": "https://open.spotify.com/album/7xpTyOH2YHfvGQDjxeh13c"
       },
@@ -6738,7 +6778,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 243104,
       "name": "S\u00f3lo por Hoy (Chica Oriental)",
       "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"

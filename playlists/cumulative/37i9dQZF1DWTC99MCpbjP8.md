@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-677 songs - 1 day 5 hr 19 min
+685 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-03-28 | 2025-08-27 |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2022-04-22 | 2022-09-16 |
 | [Coincidences](https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Coincidences](https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd) | 2:45 | 2025-11-05 |  |
+| [Cold Dawn](https://open.spotify.com/track/1ZE9hTO3bS3bybi2HcYm73) | [Sage Brixton](https://open.spotify.com/artist/3rhzUkQMyxte5jspEmXbmg) | [Cold Dawn](https://open.spotify.com/album/2ZflfGljtifJh5WnEVhETw) | 2:29 | 2026-03-20 |  |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2022-04-22 | 2023-08-15 |
 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 | 2025-06-11 |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-22 | 2024-03-20 |
@@ -148,6 +149,7 @@
 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2023-10-23 | 2024-04-19 |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-22 | 2024-04-16 |
 | [Drifting Sand](https://open.spotify.com/track/2ElVZ4JztgEiG6vfb0ZdB2) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Drifting Sand](https://open.spotify.com/album/1HAAeEBz6Y80NLYiroxewn) | 2:20 | 2022-04-22 | 2023-01-27 |
+| [Driftwood](https://open.spotify.com/track/5maukxNOv9UXj6hvFlzt6M) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Driftwood](https://open.spotify.com/album/1C5QiNTNToKnyP10nISiJQ) | 2:38 | 2026-03-20 |  |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 | 2023-07-19 |
 | [Dvale](https://open.spotify.com/track/38NHJt6bYHiIiXzAqUMlCO) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/5xLLJf0vaJI7XaX86NmtFw) | 2:59 | 2022-07-27 | 2023-10-05 |
 | [Dvale](https://open.spotify.com/track/3bfXhbANHZ65viUlQMYtBR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/32YKmdwX6mljtaTRxcFJNx) | 2:59 | 2022-04-22 | 2022-07-29 |
@@ -257,6 +259,7 @@
 | [Impromptu No\. 1, Lukewarm Tea](https://open.spotify.com/track/1YNBtfhdSPKJlbD3tdERNx) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Op\. 1: Multiverse](https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3) | 3:09 | 2022-07-27 | 2024-10-09 |
 | [In Dreams](https://open.spotify.com/track/0KvFmO3jMkMK5jsZD3EC9J) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [In Dreams](https://open.spotify.com/album/7fqEx72HtEYNJsbwO0lT4m) | 2:18 | 2022-05-27 | 2025-02-27 |
 | [In Good And Bad Times](https://open.spotify.com/track/4li3ITSBXpSovNGyNEBDeM) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [In Good And Bad Times](https://open.spotify.com/album/69lQz90VYRXxVElJDtgAEv) | 2:59 | 2022-04-22 | 2023-01-27 |
+| [In Motion](https://open.spotify.com/track/2Fbfj4Rhz7B3bOyZF6WX1P) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [In Motion](https://open.spotify.com/album/4DnJD5772Z0jQKZIPUvSIQ) | 2:44 | 2026-03-20 |  |
 | [In my arms](https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [In my arms](https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo) | 3:26 | 2023-10-09 |  |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-04-22 | 2024-02-14 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2022-04-22 | 2023-08-08 |
@@ -272,6 +275,7 @@
 | [Inner Growth](https://open.spotify.com/track/1vUUh7PcopWP76S8ZAtX15) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Inner Growth](https://open.spotify.com/album/0FVyWF6pVe7pntNhHyLxEK) | 2:31 | 2024-03-25 |  |
 | [Innocent heart](https://open.spotify.com/track/7ad0AC5r7Vc2vev9X6uf1K) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Innocent heart](https://open.spotify.com/album/46p0bxJqS2pTqWKgb9S6Lb) | 2:17 | 2023-10-23 |  |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2022-04-22 | 2022-09-16 |
+| [Innuendo](https://open.spotify.com/track/4UMNMqgfKoo7Y9MEBZp1hQ) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [Innuendo](https://open.spotify.com/album/0ozQ3mioNGLLNUHi4PntsU) | 2:11 | 2026-03-20 |  |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2022-04-22 | 2023-04-19 |
 | [Interlude](https://open.spotify.com/track/0VH0UgyTVKnhvxtSF4lD6L) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Interlude](https://open.spotify.com/album/0BQe2Itdulp3NTtJxqu7Q9) | 2:12 | 2022-04-22 | 2024-11-07 |
 | [Introvert](https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW) | [Nadija Lapina](https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9) | [Introvert](https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8) | 2:25 | 2023-10-04 | 2025-08-27 |
@@ -412,6 +416,7 @@
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-22 | 2025-05-15 |
 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 | 2024-05-07 |  |
 | [On The Fields](https://open.spotify.com/track/3VDtQne6yzambbjKODbcxW) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [On The Fields](https://open.spotify.com/album/22VO3JfHEwEo31pja34U9Q) | 2:38 | 2023-08-14 | 2025-08-27 |
+| [On The Ridge](https://open.spotify.com/track/3rCmVMaCKOXiKlpKgH0A51) | [Teemu Aalto](https://open.spotify.com/artist/4V5fIfGp2rq34skkSpvKt5) | [On The Ridge](https://open.spotify.com/album/1qunovNqlV1a2gdJnf7qHL) | 2:26 | 2026-03-20 |  |
 | [Once](https://open.spotify.com/track/5Iop7ILqPZE5HpKb35QBYL) | [Wendie Solomon](https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs) | [Once](https://open.spotify.com/album/1H6M617UDwCMPBBLWq0dpT) | 2:32 | 2022-04-22 | 2024-11-14 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2022-04-22 | 2024-04-16 |
 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 | 2024-03-04 | 2025-05-15 |
@@ -475,6 +480,7 @@
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-04-22 | 2024-08-08 |
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2022-04-22 | 2024-02-14 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-22 | 2023-08-08 |
+| [Reverence](https://open.spotify.com/track/7wfkbC82DE5sFIX6rfLdU8) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Reverence](https://open.spotify.com/album/5wU9CnNzhorHj8k6Y1aPq9) | 2:55 | 2026-03-20 |  |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-04 |  |
 | [Rhodonite](https://open.spotify.com/track/1d12NcFHsjUTkdms3r3xxq) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [Rhodonite](https://open.spotify.com/album/0Uz6QiIIOBBmLuo5UQil8j) | 2:09 | 2025-09-23 | 2025-11-06 |
 | [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 | 2024-12-17 |  |
@@ -550,6 +556,7 @@
 | [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 | 2023-03-28 | 2023-05-10 |
 | [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 | 2025-08-05 | 2026-02-10 |
 | [Still Waters](https://open.spotify.com/track/4c3jTa0EKfUHpbfWUeHFiT) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Still Waters](https://open.spotify.com/album/1hfQwFVwaRVffpbIbQbJ3w) | 2:32 | 2024-03-19 |  |
+| [Stilla](https://open.spotify.com/track/6ecQy5VH1tadkuRbfNfZHt) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Stilla](https://open.spotify.com/album/0Kvie9xC5LQZV1kJVokjmr) | 2:23 | 2026-03-20 |  |
 | [Stolen Moments](https://open.spotify.com/track/5y3ZKV2ze2sbNHN4InCSax) | [Thomas Michel](https://open.spotify.com/artist/744uxt5OILVuM5odydzxS3) | [Stolen Moments](https://open.spotify.com/album/2Meli6G9X3R09ZJgwB1fM4) | 2:07 | 2022-05-27 | 2024-11-20 |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2022-04-22 | 2023-01-27 |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-04-22 | 2023-03-29 |
@@ -664,6 +671,7 @@
 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-02-02 | 2025-05-15 |
 | [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 | 2023-08-15 |
 | [When Everything Is Calm](https://open.spotify.com/track/4haSmVvaqE5H7bHoH5Ji4N) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [When Everything Is Calm](https://open.spotify.com/album/0x7gVCtQ16DwBB2G9GuKrD) | 2:44 | 2023-12-12 |  |
+| [When it Rains](https://open.spotify.com/track/0Rr4of1v5A9JqNmKGCNslQ) | [Sorellien](https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr) | [When it Rains](https://open.spotify.com/album/03ioutHDCdCK2Wpjwnynww) | 2:25 | 2026-03-20 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |
 | [When You Leave](https://open.spotify.com/track/45ZPmGvXAAxuebk3eXJE8v) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [When You Leave](https://open.spotify.com/album/6JE7wFRA9OleazQwSF9B8A) | 2:46 | 2024-09-03 | 2025-02-27 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2022-04-22 | 2022-05-28 |

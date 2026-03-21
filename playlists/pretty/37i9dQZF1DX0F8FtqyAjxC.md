@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,830 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,835 likes - 69 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 32 | [Baby Can You Reach \- Original Acetate Edit](https://open.spotify.com/track/3B0JOQkbXNzL11DukVOdLL) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Baby Can You Reach](https://open.spotify.com/album/4FWy3z2xJppiNTKteqVC6t) | 2:46 |
 | 33 | [Most Precious Love \- Michael Gray Dub](https://open.spotify.com/track/1lqz2pKgJTFwKfD3tmhiya) | [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Most Precious Love](https://open.spotify.com/album/4jhVgLHIeMNzCBqRdIYHqB) | 7:22 |
 | 34 | [Metamorphosis](https://open.spotify.com/track/4hIbyye7E2dvsIM9LSkoXA) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Metamorphosis](https://open.spotify.com/album/1LsMiShICQh2Clwo8VXWG0) | 6:25 |
-| 35 | [Traveling \(Big Room Mix\)](https://open.spotify.com/track/188gcIgR2wCZ3pg1kNSNO3) | [Quentin Harris](https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B), [Cordell McClary](https://open.spotify.com/artist/6MJ1XtNsnMpUet5kMNZih6) | [No Politics](https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh) | 6:36 |
+| 35 | [Traveling \- Big Room Mix](https://open.spotify.com/track/188gcIgR2wCZ3pg1kNSNO3) | [Quentin Harris](https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B), [Cordell McClary](https://open.spotify.com/artist/6MJ1XtNsnMpUet5kMNZih6) | [No Politics](https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh) | 6:36 |
 | 36 | [Dance](https://open.spotify.com/track/4vBTXrZmnEW7k5q0qC9c2B) | [Bimbo Jones](https://open.spotify.com/artist/1zNKjWObj13QQ3IpwAtib3), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [Lee Dagger](https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC), [Marc Jackson Burrows](https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH) | [Dance](https://open.spotify.com/album/3AiacaIdK64h6ioZZh2IrB) | 5:53 |
 | 37 | [Fly Away](https://open.spotify.com/track/7BlFirlYkSAKSq01puCNUy) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 2:54 |
 | 38 | [Dance Dance Dance Dance](https://open.spotify.com/track/6qNA4oi603Kluq2CiTszvP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:42 |

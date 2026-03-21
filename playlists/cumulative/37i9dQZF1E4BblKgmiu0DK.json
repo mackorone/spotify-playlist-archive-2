@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With blazingfairis, Die Mannequin, The Donnas and more",
+  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 179000,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1sbuhkzti10F8rvhIJo4aC"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 180413,
       "name": "bitterhalf",
       "url": "https://open.spotify.com/track/6Oa7C7Bfjpaf5QkQMlRr4K"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 148036,
       "name": "CC & Strawberries - Fast as F**k",
       "url": "https://open.spotify.com/track/0OQ4PerXyhp2EUAudOnJTD"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Dancin' On My Grave",
       "url": "https://open.spotify.com/track/2upNzO1zkagN2EDm3Zh6Tr"
@@ -1716,6 +1716,24 @@
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
+    },
+    {
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/09N3YpHmofRxhbc3O53ini"
+      },
+      "artists": [
+        {
+          "name": "Laura T Davis",
+          "url": "https://open.spotify.com/artist/6waPAwxbs5RtSSK9hBX67F"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168870,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/5uGA2G5Y9pGROjCj0sEgFa"
     },
     {
       "album": {
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "I am so bored now",
       "url": "https://open.spotify.com/track/0d5xoD4hyuTJF3GlGGzV4s"
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 215947,
       "name": "I\u00b4M Not Easy to Love",
       "url": "https://open.spotify.com/track/7jn8lHUqBeCYWSvTBJoFMq"
@@ -3579,6 +3597,28 @@
     },
     {
       "album": {
+        "name": "LOVE!!!",
+        "url": "https://open.spotify.com/album/3HtTvwwsElWUBScMvoIlAf"
+      },
+      "artists": [
+        {
+          "name": "Addie Addie Addie",
+          "url": "https://open.spotify.com/artist/1CJiNCZe3d5Hl14oLvTija"
+        },
+        {
+          "name": "Mitch the Devil",
+          "url": "https://open.spotify.com/artist/4GRxwd1FxPnOzl2MNxCtYx"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173369,
+      "name": "LOVE!!!",
+      "url": "https://open.spotify.com/track/31Toz99mtNeAxGCCCmgD2N"
+    },
+    {
+      "album": {
         "name": "Lovers Tonight",
         "url": "https://open.spotify.com/album/37QGOiXtqfsrDs0ZJs0srE"
       },
@@ -3860,7 +3900,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -3878,7 +3918,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -5023,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "Middle-Aged Angst",
+        "url": "https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK"
+      },
+      "artists": [
+        {
+          "name": "Ecto Peach",
+          "url": "https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159914,
+      "name": "Shrivel/Shrink",
+      "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
+    },
+    {
+      "album": {
         "name": "SIRENS",
         "url": "https://open.spotify.com/album/34LUrqhxdEyWHJpfjBcRsM"
       },
@@ -5470,7 +5528,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"

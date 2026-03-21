@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-592 songs - 1 day 11 hr 12 min
+593 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Come Around](https://open.spotify.com/track/3NKqvNqe04e1HeZUHjqTk8) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/1olq0CPrq1TGwmjVtrMtMb) | 3:30 | 2023-02-09 | 2023-11-18 |
 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 | 2020-06-29 | 2023-08-31 |
 | [Could Have Been Me](https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:07 | 2020-06-29 |  |
+| [Crawl Back To My Coffin](https://open.spotify.com/track/7rhDDCVryx9frLUnXSgrZ5) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/331dpokIUtNiVsUuDPLl9h) | 4:02 | 2026-03-20 |  |
 | [Crazy](https://open.spotify.com/track/31xmybhg0i4lxMIn45aVq4) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Future](https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC) | 3:05 | 2020-06-29 | 2022-02-26 |
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-04-21 | 2025-11-30 |
 | [Cupid's Arrow](https://open.spotify.com/track/4oHec8AQcjVR2EadYf5YPO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Sticky](https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK) | 3:33 | 2022-04-22 | 2022-05-21 |
@@ -253,7 +254,7 @@
 | [I Really Want To Stay At Your House \- Spotify Singles](https://open.spotify.com/track/56ICLIImbKCDtbGoD9UaTk) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [I Really Want To Stay At Your House \(Spotify Singles\)](https://open.spotify.com/album/1ToZ7KGqlGlFoB0eelWFlB) | 3:56 | 2025-12-16 |  |
 | [I Wanna Know Your Name](https://open.spotify.com/track/19tXItIUKllqyQZSda7XWc) | [The Mock\-Ups](https://open.spotify.com/artist/4Wq4lfGxNIb0mhNNnL4ECh) | [I Wanna Know Your Name](https://open.spotify.com/album/6BZC4x2kAFdTiBdFLwal78) | 2:26 | 2025-09-19 | 2025-10-19 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-01-19 |  |
-| [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-21 |  |
+| [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-21 | 2026-03-21 |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2020-06-29 | 2022-02-26 |
 | [I'm America](https://open.spotify.com/track/5HYEjfX8h3F82Qyb96PXg8) | [Cilver](https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h) | [I'm America](https://open.spotify.com/album/7fbGdV2SozDKmWAAmSY3fo) | 3:42 | 2020-06-29 | 2022-07-29 |
 | [I'm Not Surprised](https://open.spotify.com/track/7hbUuHOl7TB6uBYDlbFbvH) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Pixelated Oblivion](https://open.spotify.com/album/7Ih2h5RbwzFVwrC4LaMeQ9) | 3:49 | 2022-06-10 | 2022-07-29 |

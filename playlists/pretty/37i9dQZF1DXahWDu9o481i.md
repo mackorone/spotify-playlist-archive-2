@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,916 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,409 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 36 | [Bullet](https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Bullet](https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU) | 2:47 |
 | 37 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 |
 | 38 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 |
-| 39 | [Legs In A Snare](https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Legs In A Snare](https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H) | 3:14 |
-| 40 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 39 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
+| 40 | [Legs In A Snare](https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Legs In A Snare](https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H) | 3:14 |
 | 41 | [Beautiful Thing](https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Indicator](https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE) | 3:36 |
 | 42 | [Manmade Manmaid](https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Manmade Manmaid](https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA) | 2:40 |
 | 43 | [No Quitter \(feat\. K CAMP\)](https://open.spotify.com/track/6hmwb65qRaACnZTRgczIGp) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [No Quitter \(feat\. K CAMP\)](https://open.spotify.com/album/3EkbXFluqT99kBr9VqJTox) | 2:25 |

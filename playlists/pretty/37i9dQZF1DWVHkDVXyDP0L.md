@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Pond
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,561 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,567 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Baby's Place](https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [My Baby's Place](https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig) | 3:55 |
 | 2 | [Terrestrials](https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/7Jka6HCeAYcU6Glrzb9r3f) | 3:59 |
-| 3 | [Track 5](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 0:00 |
+| 3 | [Night Shooting](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 4:18 |
 | 4 | [Don't Cry Too Long](https://open.spotify.com/track/1wn8kKHFM6eFwlYPp1EnTX) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [ANGEL'S MESS](https://open.spotify.com/album/3HNPSNzBtajPwqdQQqW5ZF) | 3:15 |
 | 5 | [Heavy In The Morning](https://open.spotify.com/track/1Uze9bqykiz4wIdkRIv32j) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Heavy In The Morning](https://open.spotify.com/album/6jfjUvcscXCT5tLy51qJaA) | 2:51 |
 | 6 | [Make Us Whole Again](https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Make Us Whole Again](https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i) | 3:52 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 12 | [Muscle](https://open.spotify.com/track/3SKafSOkvcw2Uh3BoRhC1h) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Muscle](https://open.spotify.com/album/7iT7nc4xgy2e3RKYMOVnta) | 3:48 |
 | 13 | [Sick](https://open.spotify.com/track/1EqcTySsz4moXcY3l9lPap) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Sick](https://open.spotify.com/album/4qnyrRhtg5UmwaK9CYfLvz) | 2:52 |
 | 14 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 |
-| 15 | [Track 4](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 0:00 |
+| 15 | [Warzone](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 4:24 |
 | 16 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 |
 | 17 | [Am I There](https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:05 |
 | 18 | [Creature of the Night](https://open.spotify.com/track/4vFK7ypirvD7KBwE4wrwLy) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Creature of the Night](https://open.spotify.com/album/6g2zpfB0Yafp2FOP6gTehL) | 3:16 |

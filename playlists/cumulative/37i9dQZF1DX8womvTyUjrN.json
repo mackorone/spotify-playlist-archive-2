@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Bratty & Marc Segu\u00ed",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: CA7RIEL & Paco Amoroso",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 194873,
       "name": "(feliz por ti)",
       "url": "https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj"
+    },
+    {
+      "album": {
+        "name": "(todo lo que haces para no acordarte de mi)",
+        "url": "https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149931,
+      "name": "(todo lo que haces para no acordarte de mi)",
+      "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
     },
     {
       "album": {
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 238389,
       "name": "Alma Llanera / Venezuela - Live from Nobel Peace Prize 2025",
       "url": "https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn"
@@ -6129,6 +6147,28 @@
     },
     {
       "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
+    },
+    {
+      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
       },
@@ -6948,6 +6988,24 @@
       "duration_ms": 134446,
       "name": "ENCONTREMOS UNA MANERA",
       "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
+    },
+    {
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "album": {
@@ -10129,6 +10187,24 @@
     },
     {
       "album": {
+        "name": "La Gente Cambia",
+        "url": "https://open.spotify.com/album/6uLzNTjUZ17b0xH787wmj2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152922,
+      "name": "La Gente Cambia",
+      "url": "https://open.spotify.com/track/6j7DWRBNyPSTCVSWxU0i6H"
+    },
+    {
+      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -10368,7 +10444,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -10502,6 +10578,28 @@
       "duration_ms": 165285,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
+    },
+    {
+      "album": {
+        "name": "La Teor\u00eda",
+        "url": "https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/6pmk2YLMMc7UwykvvZbWGA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "La Teor\u00eda",
+      "url": "https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa"
     },
     {
       "album": {
@@ -11947,6 +12045,28 @@
     },
     {
       "album": {
+        "name": "Mantis",
+        "url": "https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254740,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
+    },
+    {
+      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC"
       },
@@ -12060,7 +12180,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202354,
       "name": "Me Asusta Amar Tanto la Soledad",
       "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
@@ -13970,7 +14090,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 155074,
       "name": "No Hay Que Llorar",
       "url": "https://open.spotify.com/track/46tzd3foeCDZeJE5m5JmR3"
@@ -14116,6 +14236,24 @@
       "duration_ms": 206407,
       "name": "No me creas",
       "url": "https://open.spotify.com/track/4YVeAMz8NusUU7dVDEKAQR"
+    },
+    {
+      "album": {
+        "name": "no me importa",
+        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200767,
+      "name": "no me importa",
+      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
     },
     {
       "album": {
@@ -15026,7 +15164,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 185567,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/00GIaIqtKmph2g6JqYT5id"
@@ -15726,7 +15864,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 132000,
       "name": "Peace + Love \u263e",
       "url": "https://open.spotify.com/track/0lmk9lD6MGuylM3W59UbaF"
@@ -17768,7 +17906,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182475,
       "name": "Rollitos de Papel",
       "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
@@ -17942,7 +18080,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186128,
       "name": "S I S T E M A S O L A R",
       "url": "https://open.spotify.com/track/1h0DRnMU0D0o82eMGEoV5Z"
@@ -21726,6 +21864,24 @@
       "duration_ms": 163866,
       "name": "Viaje En El Tiempo",
       "url": "https://open.spotify.com/track/319lJ1kNxjgbGZW4kZCXwz"
+    },
+    {
+      "album": {
+        "name": "FREE SPIRITS",
+        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155255,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"
     },
     {
       "album": {

@@ -33321,6 +33321,24 @@
     },
     {
       "album": {
+        "name": "This Ain't Quiet",
+        "url": "https://open.spotify.com/album/4Bn4OhhCyTI0XdVTJb4Zmo"
+      },
+      "artists": [
+        {
+          "name": "Saint City Orchestra",
+          "url": "https://open.spotify.com/artist/76O3cqwlJRuvMLP07lD2I2"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220035,
+      "name": "Back in town",
+      "url": "https://open.spotify.com/track/3WhmREIVhGRKG58sbOF5sy"
+    },
+    {
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -99611,6 +99629,28 @@
     },
     {
       "album": {
+        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
+    },
+    {
+      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -101696,6 +101736,24 @@
       "duration_ms": 163796,
       "name": "DON\u2019T LOOK AT ME LIKE THAT",
       "url": "https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "album": {
@@ -233027,7 +233085,7 @@
     },
     {
       "album": {
-        "name": "Love You Right (feat. Clara La San)",
+        "name": "Love You Right",
         "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
@@ -233044,7 +233102,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165818,
-      "name": "Love You Right (feat. Clara La San)",
+      "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
@@ -241614,6 +241672,28 @@
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "album": {
+        "name": "anansi",
+        "url": "https://open.spotify.com/album/2dkwYGYynrRgZSgVz8o2Oj"
+      },
+      "artists": [
+        {
+          "name": "2kmafia",
+          "url": "https://open.spotify.com/artist/0Ur4oLQ2SHhiPMYlLpEQ8S"
+        },
+        {
+          "name": "noah2k",
+          "url": "https://open.spotify.com/artist/43fhnGQvAPq2Q0Y581ZGqV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "markenschuhe",
+      "url": "https://open.spotify.com/track/4fl5Izo68065SyToWMZypG"
     },
     {
       "album": {
@@ -300859,7 +300939,7 @@
     },
     {
       "album": {
-        "name": "Pongo",
+        "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
       "artists": [
@@ -300880,7 +300960,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189197,
-      "name": "Pongo",
+      "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
@@ -383409,60 +383489,6 @@
     },
     {
       "album": {
-        "name": "kids",
-        "url": "https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
-    },
-    {
-      "album": {
-        "name": "This Ain't Quiet",
-        "url": "https://open.spotify.com/album/4Bn4OhhCyTI0XdVTJb4Zmo"
-      },
-      "artists": [
-        {
-          "name": "Saint City Orchestra",
-          "url": "https://open.spotify.com/artist/76O3cqwlJRuvMLP07lD2I2"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3WhmREIVhGRKG58sbOF5sy"
-    },
-    {
-      "album": {
-        "name": "anansi",
-        "url": "https://open.spotify.com/album/2dkwYGYynrRgZSgVz8o2Oj"
-      },
-      "artists": [
-        {
-          "name": "2kmafia",
-          "url": "https://open.spotify.com/artist/0Ur4oLQ2SHhiPMYlLpEQ8S"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4fl5Izo68065SyToWMZypG"
-    },
-    {
-      "album": {
         "name": "TRACKIES",
         "url": "https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne"
       },
@@ -418200,6 +418226,28 @@
       "duration_ms": 200670,
       "name": "Wie konnte das passieren?!",
       "url": "https://open.spotify.com/track/7mKEVV2n5y8HYawH0Wyc2N"
+    },
+    {
+      "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144859,
+      "name": "wie lang geht das noch gut",
+      "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
     },
     {
       "album": {

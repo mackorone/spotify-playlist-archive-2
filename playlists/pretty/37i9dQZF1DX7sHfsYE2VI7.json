@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 72249,
+  "num_followers": 72279,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Kids in Love",
-        "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
+        "name": "Between Darkness And Wonder",
+        "url": "https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Kids in Love (feat. The Night Game)",
-      "url": "https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU"
+      "duration_ms": 220813,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Between Darkness And Wonder",
-        "url": "https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW"
+        "name": "Kids in Love",
+        "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
       },
       "artists": [
         {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
         }
       ],
-      "duration_ms": 220813,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj"
+      "duration_ms": 263400,
+      "name": "Kids in Love (feat. The Night Game)",
+      "url": "https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU"
     },
     {
       "added_at": "2024-12-17 13:01:13",

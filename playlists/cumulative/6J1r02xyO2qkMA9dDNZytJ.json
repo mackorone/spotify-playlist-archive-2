@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "After Five",
+        "url": "https://open.spotify.com/album/0eeTVhPSUs6M5kCLEfT6UG"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "After Five",
+      "url": "https://open.spotify.com/track/0EW1GSsCSgQ9npkDtbLn5B"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2d54zBox41HGGHa25FbpLT"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142622,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/0eT7nHvAr3Ag3VAW1CPurZ"
@@ -151,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Asking 4",
+        "url": "https://open.spotify.com/album/4UWOCBtyqvmsZ6NIa49tCM"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208005,
+      "name": "Asking 4",
+      "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/6P4jPtw38LJm4j0jHWrZVm"
       },
@@ -166,6 +202,24 @@
       "duration_ms": 173500,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4N1DZkklrXZmS9imiqijMn"
+    },
+    {
+      "album": {
+        "name": "Baby Please",
+        "url": "https://open.spotify.com/album/3vftDLcpEzbanRr6WP9kCZ"
+      },
+      "artists": [
+        {
+          "name": "Lexlay",
+          "url": "https://open.spotify.com/artist/1DMe8CPYvAS6WM8MlpezTc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Baby Please",
+      "url": "https://open.spotify.com/track/5zfeTBFRDJPcNn6vpep3UD"
     },
     {
       "album": {
@@ -602,6 +656,28 @@
       "duration_ms": 203232,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7kF0hYHCa1j5AyiJeMQuvf"
+    },
+    {
+      "album": {
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/3SiGH2gzxcVurxZj9dg8Qm"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/3nguT92oaDLnqUTwhMLAYr"
     },
     {
       "album": {
@@ -1050,7 +1126,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162318,
       "name": "ego",
       "url": "https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK"
@@ -1243,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "For You (Assiove)",
+        "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203671,
+      "name": "For You (Assiove)",
+      "url": "https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46"
+    },
+    {
+      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/7GnTlRiJC8e2NG6oNkm8FL"
       },
@@ -1290,7 +1384,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 181750,
       "name": "Free",
       "url": "https://open.spotify.com/track/6ZCRVc3KGkUl8BjdjbVUZk"
@@ -1672,7 +1766,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 132555,
       "name": "Gotta Have Your Love",
       "url": "https://open.spotify.com/track/5Ly0zRp3UFDKsULP6Vkbas"
@@ -1908,7 +2002,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 209899,
       "name": "i want u",
       "url": "https://open.spotify.com/track/0Fjrpxcnm3Ddd8yxj8WwWu"
@@ -2400,7 +2494,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 140787,
       "name": "Let It In",
       "url": "https://open.spotify.com/track/0GZmhzycLPrYgUElDVnppA"
@@ -2606,7 +2700,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 172269,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/29ckDhEsLydghxneMmTBLa"
@@ -2716,6 +2810,32 @@
       "duration_ms": 209523,
       "name": "Momo",
       "url": "https://open.spotify.com/track/5cZwfsjkjjyXi2sqLgBUuT"
+    },
+    {
+      "album": {
+        "name": "Mr Freaky",
+        "url": "https://open.spotify.com/album/4FEnYyPM0oz0Gh6OMCvplL"
+      },
+      "artists": [
+        {
+          "name": "Mas Que Nada Brothers",
+          "url": "https://open.spotify.com/artist/3OqXRs7ndYP9YEvzgEYwqW"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
+        },
+        {
+          "name": "Idriss Kargbo",
+          "url": "https://open.spotify.com/artist/6PRc4XFoEVRgMuoBoxxsr6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Mr Freaky",
+      "url": "https://open.spotify.com/track/6Hj6HotW0xQRPV7ZCW6z31"
     },
     {
       "album": {
@@ -3113,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "Pop It",
+        "url": "https://open.spotify.com/album/4FXdT2fUjcvizZej9H6PMn"
+      },
+      "artists": [
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Pop It",
+      "url": "https://open.spotify.com/track/2ASHPSKvF7zrwnxujHdqER"
+    },
+    {
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI"
       },
@@ -3344,7 +3486,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 211627,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0qcOIzj8bKAA8yx13o4FoM"
@@ -3588,7 +3730,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 174448,
       "name": "Steel Drums",
       "url": "https://open.spotify.com/track/5ltnRGpJ3aNz5pBvQTJxUq"
@@ -3912,7 +4054,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
@@ -4248,6 +4390,28 @@
       "duration_ms": 175443,
       "name": "WHAT?!",
       "url": "https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "album": {

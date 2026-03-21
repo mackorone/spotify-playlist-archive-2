@@ -1,13 +1,29 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing SOSA",
-  "num_followers": 74511,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Franky Rizardo",
+  "num_followers": 74602,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJKn5CoUT8abVAX2mkmc2fAxnNpl",
+  "snapshot_id": "AAAAAFM9MJlnPMkNEis9EbAHKyLEbxb1",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Shinjuku",
+        "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 167905,
+      "name": "Shinjuku",
+      "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
     {
       "added_at": "2026-03-13 04:00:43",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 234558,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Femme House Vol. 3",
+        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
+      },
+      "artists": [
+        {
+          "name": "AAT",
+          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
+        }
+      ],
+      "duration_ms": 195183,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
+    },
+    {
+      "added_at": "2026-03-13 04:00:43",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-03-13 04:00:43",
+      "album": {
+        "name": "Space Funk",
+        "url": "https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC"
+      },
+      "artists": [
+        {
+          "name": "Jackyboom",
+          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
+        }
+      ],
+      "duration_ms": 170091,
+      "name": "Space Funk",
+      "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Shamans Vision",
+        "url": "https://open.spotify.com/album/6jRQD4sMrTNK38SQWJBUCF"
+      },
+      "artists": [
+        {
+          "name": "Hidde van Wee",
+          "url": "https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH"
+        }
+      ],
+      "duration_ms": 223525,
+      "name": "Shamans Vision",
+      "url": "https://open.spotify.com/track/5T7dkM4H2Age3CKsqr65ks"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Don\u2019t Stop (Keep On)",
+        "url": "https://open.spotify.com/album/1GG2HqQsnMn2K2K5EaszDV"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "duration_ms": 201913,
+      "name": "Don't Stop (Keep On)",
+      "url": "https://open.spotify.com/track/1lkEi8hPYvtnI5SUHckhmN"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -45,6 +141,22 @@
       "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
     },
     {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Teach You Desire",
+        "url": "https://open.spotify.com/album/7Ff17FqI9Nl0uIueRWJwWM"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 210227,
+      "name": "Teach You Desire",
+      "url": "https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0"
+    },
+    {
       "added_at": "2026-02-20 05:00:42",
       "album": {
         "name": "Just Like That EP",
@@ -59,6 +171,26 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "added_at": "2026-02-27 05:00:46",
@@ -79,54 +211,6 @@
     {
       "added_at": "2026-03-06 05:00:09",
       "album": {
-        "name": "Femme House Vol. 3",
-        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
-      },
-      "artists": [
-        {
-          "name": "AAT",
-          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
-        }
-      ],
-      "duration_ms": 195183,
-      "name": "Built For This",
-      "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Don\u2019t Stop (Keep On)",
-        "url": "https://open.spotify.com/album/1GG2HqQsnMn2K2K5EaszDV"
-      },
-      "artists": [
-        {
-          "name": "jWave",
-          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
-        }
-      ],
-      "duration_ms": 201913,
-      "name": "Don't Stop (Keep On)",
-      "url": "https://open.spotify.com/track/1lkEi8hPYvtnI5SUHckhmN"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Space Funk",
-        "url": "https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC"
-      },
-      "artists": [
-        {
-          "name": "Jackyboom",
-          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
-        }
-      ],
-      "duration_ms": 170091,
-      "name": "Space Funk",
-      "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
         "name": "Murder Mystery (Kolter Remix)",
         "url": "https://open.spotify.com/album/0vI3Vg7eCw4o2KAlMcESVx"
       },
@@ -143,6 +227,26 @@
       "duration_ms": 218151,
       "name": "Murder Mystery - Kolter Remix",
       "url": "https://open.spotify.com/track/2VsZghkJD0CEmQJmZn5MWi"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/4pazCPqxyf0G5hgJ0dS6A6"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 224002,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/38aBH2BvMIOr9EWqabmWRn"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -193,6 +297,42 @@
       "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/4nQM7hfaLIu3qRaVpfJucm"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/0hI0tjl8fLB6UqpTq8SFCs"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Keep Up EP",
+        "url": "https://open.spotify.com/album/0op32VN35mWz6It3q7rZqQ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Maas",
+          "url": "https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G"
+        }
+      ],
+      "duration_ms": 196225,
+      "name": "Dreamboy",
+      "url": "https://open.spotify.com/track/2VII8zG0a2wYjTeKYl6GSf"
+    },
+    {
       "added_at": "2026-03-06 05:00:09",
       "album": {
         "name": "Face Your Fear EP",
@@ -209,20 +349,20 @@
       "url": "https://open.spotify.com/track/4HTD64x2NstZsK1su3OFd6"
     },
     {
-      "added_at": "2026-03-13 04:00:43",
+      "added_at": "2026-03-20 04:00:44",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+        "name": "Paradise Lost EP",
+        "url": "https://open.spotify.com/album/2QmC1oPQd1P83BvDtABj9k"
       },
       "artists": [
         {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+          "name": "YOUniverse (IT)",
+          "url": "https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii"
         }
       ],
-      "duration_ms": 195692,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+      "duration_ms": 197812,
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/2snc0ASBvknt4Zm5jPcu47"
     },
     {
       "added_at": "2026-03-18 17:57:39",
@@ -255,6 +395,22 @@
       "duration_ms": 178777,
       "name": "Picking Up The Pace",
       "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Factory 93 x PIV: Miami Sampler 2026",
+        "url": "https://open.spotify.com/album/1KUecdFzwgXMHMWAJoeYGt"
+      },
+      "artists": [
+        {
+          "name": "LIGHTLEAK",
+          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Boundary",
+      "url": "https://open.spotify.com/track/6GwyeinDPSEGwyBm2nMac1"
     },
     {
       "added_at": "2026-01-23 05:00:22",
@@ -311,6 +467,22 @@
       "duration_ms": 158769,
       "name": "I Never Knew - Shiba San Remix",
       "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Front, Left",
+        "url": "https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "Front, Left",
+      "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -909,22 +1081,6 @@
       "url": "https://open.spotify.com/track/4OQjZ459UBa4OtiaGIOnJ9"
     },
     {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
-        "name": "In Tha Club",
-        "url": "https://open.spotify.com/album/4pjoPbZFwdGTUeVsDDFA7E"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "In Tha Club",
-      "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
-    },
-    {
       "added_at": "2026-02-27 05:00:46",
       "album": {
         "name": "Peak Time",
@@ -1237,22 +1393,6 @@
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
-      "added_at": "2026-01-30 05:00:42",
-      "album": {
-        "name": "LOUDY'S TOOLZ",
-        "url": "https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH"
-      },
-      "artists": [
-        {
-          "name": "Louden",
-          "url": "https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "That Phunkey Tune",
-      "url": "https://open.spotify.com/track/6XOuAcGRJ6beiioNCMaeAt"
-    },
-    {
       "added_at": "2026-02-06 05:00:30",
       "album": {
         "name": "My Body",
@@ -1335,42 +1475,6 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Point Zero / Lift Me Up",
-        "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 191377,
-      "name": "Point Zero",
-      "url": "https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "It's Time / Showblow",
-        "url": "https://open.spotify.com/album/36lnyKZKROYaSCxOskBsWZ"
-      },
-      "artists": [
-        {
-          "name": "JAYC",
-          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
-        },
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0r5Vg7vF0wFgcOY5od6Qsi"
     },
     {
       "added_at": "2026-01-30 05:00:42",
@@ -1519,34 +1623,6 @@
     {
       "added_at": "2026-01-09 05:00:36",
       "album": {
-        "name": "Serious (Liam & Elliot Remix)",
-        "url": "https://open.spotify.com/album/0sQ2p05olCNJJ2iHqdaWnY"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        },
-        {
-          "name": "Liam Palmer",
-          "url": "https://open.spotify.com/artist/0X08iR3Fp37Hoa9b1pjHnR"
-        },
-        {
-          "name": "Elliot Schooling",
-          "url": "https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu"
-        }
-      ],
-      "duration_ms": 314167,
-      "name": "Serious (Liam & Elliot Remix)",
-      "url": "https://open.spotify.com/track/2XjGpv5mNlR8Gr1t0B9Ead"
-    },
-    {
-      "added_at": "2026-01-09 05:00:36",
-      "album": {
         "name": "Work To Tha Beat",
         "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
       },
@@ -1609,22 +1685,6 @@
       "url": "https://open.spotify.com/track/1X6R0sENcToR83rRjBN5GS"
     },
     {
-      "added_at": "2026-01-09 05:00:36",
-      "album": {
-        "name": "Tite Dress",
-        "url": "https://open.spotify.com/album/1Wv2R5mM1TiBZ9DXU5qqM3"
-      },
-      "artists": [
-        {
-          "name": "Snooko",
-          "url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Tite Dress",
-      "url": "https://open.spotify.com/track/20o1OZmVtHQfLJa8VKi8HY"
-    },
-    {
       "added_at": "2025-11-28 05:09:48",
       "album": {
         "name": "Up & Down",
@@ -1639,22 +1699,6 @@
       "duration_ms": 198862,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/1q0ahuMCq8Tbf2kY2nxsOi"
-    },
-    {
-      "added_at": "2025-12-29 01:46:49",
-      "album": {
-        "name": "FINKY FILES 002",
-        "url": "https://open.spotify.com/album/0ZtpBVMmINyar36THqzQtH"
-      },
-      "artists": [
-        {
-          "name": "FINKY",
-          "url": "https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2"
-        }
-      ],
-      "duration_ms": 168091,
-      "name": "Bizniss",
-      "url": "https://open.spotify.com/track/2HzuD7rDoOZSssMmtrDc7x"
     },
     {
       "added_at": "2025-10-17 15:56:09",
@@ -1729,22 +1773,6 @@
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
     },
     {
-      "added_at": "2025-10-21 13:59:35",
-      "album": {
-        "name": "Spaceship",
-        "url": "https://open.spotify.com/album/6zXbAwv9ldkMDd1r8ThzN1"
-      },
-      "artists": [
-        {
-          "name": "Marsolo",
-          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
-        }
-      ],
-      "duration_ms": 173696,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
-    },
-    {
       "added_at": "2025-09-05 04:00:16",
       "album": {
         "name": "Everytime",
@@ -1801,22 +1829,6 @@
       "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
     },
     {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2s6VXblISYuwL0VejJkz1j"
-      },
-      "artists": [
-        {
-          "name": "Marijn Jansen",
-          "url": "https://open.spotify.com/artist/09XO6EYxV6zgO6VVDF0epr"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0IDKe97N4d80iZmRSShgee"
-    },
-    {
       "added_at": "2025-09-05 04:00:16",
       "album": {
         "name": "Sakura",
@@ -1839,22 +1851,6 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-10-17 04:00:49",
-      "album": {
-        "name": "Funkay / The Gift",
-        "url": "https://open.spotify.com/album/6VsWgwpuUmmU2p3JGOVbZm"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Funkay",
-      "url": "https://open.spotify.com/track/0U7WnQ5tVJJVp0uvT2mYcT"
     },
     {
       "added_at": "2025-08-20 19:16:02",

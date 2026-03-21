@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de AK4:20
 
-304 songs - 15 hr 25 min
+305 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Húmeda](https://open.spotify.com/track/1EFGEZu4Gu8rZjoO8PVKf4) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Húmeda](https://open.spotify.com/album/6nJO5KppqEq6Lq0eJBsn66) | 3:24 | 2025-03-31 |  |
 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 | 2024-07-26 | 2024-10-05 |
 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 | 2023-03-08 |
-| [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 |  |
+| [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 | 2026-03-21 |
 | [Instinto](https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Instinto](https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh) | 2:34 | 2022-01-20 | 2024-08-24 |
 | [INTRO](https://open.spotify.com/track/723SjxRfMUIJBdTxRCHV9u) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [MAGNATA](https://open.spotify.com/album/64R6GX1BnigDU9kYTjqy1Y) | 1:05 | 2024-02-09 | 2024-06-01 |
 | [Intuición](https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv) | 2:56 | 2023-03-30 | 2024-04-19 |
@@ -162,6 +162,7 @@
 | [mangokush](https://open.spotify.com/track/4OlWoSDpLcKInxXwq56grz) | [kuraimokha](https://open.spotify.com/artist/5qVtAyg01uxJQzjMviHVAf), [Bbycnte](https://open.spotify.com/artist/0eHyZ5ZlOJmq7GcEzubmhS) | [mangokush](https://open.spotify.com/album/2vnZ5x2ULax9guBkzY95DP) | 1:08 | 2025-06-27 | 2025-09-13 |
 | [Manifiesto](https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh) | 2:27 | 2023-07-21 | 2023-09-02 |
 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 | 2023-02-24 | 2023-07-28 |
+| [MARILYN MANSON](https://open.spotify.com/track/1UzqWfnNu6xMrSIyMCXLpl) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [AÚN NO HE TERMINADO](https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t) | 2:35 | 2026-03-20 |  |
 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 | 2023-05-19 | 2026-03-07 |
 | [Mbappe](https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO) | [Poison Kid](https://open.spotify.com/artist/5gdLCbByMUjFLhbOj8NC14) | [Mbappe](https://open.spotify.com/album/4RE6vtGPolcMBrocUcdcoK) | 2:15 | 2022-03-11 | 2022-05-28 |
 | [Me Lo Merezco](https://open.spotify.com/track/61gtpix8gVhujUd5I343s2) | [Audigier](https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Me Lo Merezco](https://open.spotify.com/album/3VFbNPutLBv0bxny5TpcbB) | 3:03 | 2025-04-04 |  |

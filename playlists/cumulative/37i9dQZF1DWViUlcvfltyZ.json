@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Fight Pausa in cover (circondato da cucini)",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Fight Pausa in cover (circondato da cuscini)",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -16025,6 +16025,24 @@
     },
     {
       "album": {
+        "name": "E Poi Scegliere Con Cura Le Parole",
+        "url": "https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO"
+      },
+      "artists": [
+        {
+          "name": "Mauro Ermanno Giovanardi",
+          "url": "https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "La Coscienza Della Mia Generazione",
+      "url": "https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt"
+    },
+    {
+      "album": {
         "name": "La Cura Ludovico",
         "url": "https://open.spotify.com/album/4Coq2ViMe5go8XJvUXct9b"
       },
@@ -31390,24 +31408,6 @@
       "duration_ms": 128879,
       "name": "TRACCIA 0",
       "url": "https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA"
-    },
-    {
-      "album": {
-        "name": "E Poi Scegliere Con Cura Le Parole",
-        "url": "https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO"
-      },
-      "artists": [
-        {
-          "name": "Mauro Ermanno Giovanardi",
-          "url": "https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt"
     },
     {
       "album": {

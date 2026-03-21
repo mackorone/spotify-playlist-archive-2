@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
+    },
+    {
+      "album": {
         "name": "Addicted to Love",
         "url": "https://open.spotify.com/album/3IV1eBk52yhSdjCDePphSI"
       },

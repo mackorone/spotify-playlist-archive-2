@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega
 
-246 songs - 10 hr 50 min
+247 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 | 2023-12-15 | 2024-03-16 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-11-29 | 2024-03-19 |
 | [Kalma Kenga \(feat\. MC Zuka\)](https://open.spotify.com/track/7nEBiG7mu5InAvVxiHmWYK) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A), [MC Zuka](https://open.spotify.com/artist/3MSqfnvBVsuUasELt0gFOE) | [Raba Rave](https://open.spotify.com/album/0HttNJM8LfI1JGL7TQsSSf) | 2:50 | 2024-04-26 | 2024-05-25 |
+| [KITA](https://open.spotify.com/track/3xa9RHdADxgYIBA6vUi4Rs) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [KITA](https://open.spotify.com/album/7pINUha5DItOZwyLzS4e0Y) | 1:53 | 2026-03-20 |  |
 | [LA BAMBA](https://open.spotify.com/track/4PKkLvt10GThRWaEhniImy) | [Purple M](https://open.spotify.com/artist/6QNMPZw8ymYsDvYSlEktGu), [Young Vene](https://open.spotify.com/artist/4xg5W9jELgt5ztW1CG3ErP), [Mvnir](https://open.spotify.com/artist/33ZqQ2hMZh4Ex9IgGQZCe5) | [LA BAMBA](https://open.spotify.com/album/37bCAy0bu0XHCaVd9TOcUa) | 3:25 | 2024-05-31 | 2024-06-29 |
 | [LA CALMA](https://open.spotify.com/track/7qhycO2o68HOGl1vMCWIes) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [LA CALMA](https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB) | 2:41 | 2023-11-29 |  |
 | [LA CLAVE](https://open.spotify.com/track/2S7Hyx4wElcuOcGmBQem9Q) | [Jabex](https://open.spotify.com/artist/2jTFtUAFhzdMcxuYB4TWF5) | [LA CLAVE](https://open.spotify.com/album/2joPkNdAc9Rq7iL5GTD6gQ) | 2:35 | 2024-03-15 | 2024-04-27 |

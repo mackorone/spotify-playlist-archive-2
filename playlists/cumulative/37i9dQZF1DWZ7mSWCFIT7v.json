@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "E-Mover",
+        "url": "https://open.spotify.com/album/52KZEHYKAnTlNuQGzbwRyw"
+      },
+      "artists": [
+        {
+          "name": "Destrata",
+          "url": "https://open.spotify.com/artist/76OnM8y64osFXktcM9g1m1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289714,
+      "name": "E-Mover",
+      "url": "https://open.spotify.com/track/5GQlMrcrlvlWD88j3nGbnU"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
       },
@@ -4240,6 +4258,24 @@
       "duration_ms": 241997,
       "name": "I Wish I Had Something To Say But I Don't",
       "url": "https://open.spotify.com/track/7hPsHelRDnWPc5eu2EtLGL"
+    },
+    {
+      "album": {
+        "name": "Idios Kosmos EP",
+        "url": "https://open.spotify.com/album/7yNmrSX3ZwDotyyHfPkifk"
+      },
+      "artists": [
+        {
+          "name": "Anoesis",
+          "url": "https://open.spotify.com/artist/4VXldnZulewPMTxIT6wySQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290627,
+      "name": "Idios Kosmos",
+      "url": "https://open.spotify.com/track/1C0IakWejLOv4J46VyxZ0O"
     },
     {
       "album": {
@@ -6602,7 +6638,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 318806,
       "name": "PAUSE",
       "url": "https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY"
@@ -7606,7 +7642,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 377750,
       "name": "Sage",
       "url": "https://open.spotify.com/track/1IXmU0CSRnnH8BLxZD7kVK"
@@ -7892,7 +7928,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 279296,
       "name": "Signal to Noise",
       "url": "https://open.spotify.com/track/1rnHU0tjIn6Cojea413ZQt"
@@ -8544,6 +8580,24 @@
       "duration_ms": 187889,
       "name": "Superimposed",
       "url": "https://open.spotify.com/track/4IN5KXB45pLDjSwkPLgtwQ"
+    },
+    {
+      "album": {
+        "name": "SWARMER",
+        "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
+      },
+      "artists": [
+        {
+          "name": "SYCLES",
+          "url": "https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361643,
+      "name": "SWARMER",
+      "url": "https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE"
     },
     {
       "album": {

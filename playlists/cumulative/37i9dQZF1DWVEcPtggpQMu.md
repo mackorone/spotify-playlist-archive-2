@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Nasty C
+> Only the hottest South African rap\. <br/>Cover: Lucasraps
 
-1,102 songs - 2 day 10 hr 14 min
+1,103 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [BANK](https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 3:42 | 2024-09-13 | 2025-09-06 |
 | [Bank Account](https://open.spotify.com/track/5tPuNGrJdBtrbydT1B4nuQ) | [MOËTT](https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4), [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR) | [Bank Account](https://open.spotify.com/album/6IbSsi4TaYE9yFIZaCf3K2) | 2:31 | 2023-08-24 | 2024-02-09 |
 | [Banna](https://open.spotify.com/track/7vrKBIZyLtPLIqSUGOAcfA) | [Seru the Ellipsis](https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA), [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [Banna](https://open.spotify.com/album/1ONsA8tXWuhmcOm216ippg) | 3:33 | 2025-09-25 | 2026-02-28 |
-| [Bao Jela](https://open.spotify.com/track/5EmX6xa3oDcSD2jSrfXvUc) | [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Bao Jela](https://open.spotify.com/album/0QIGfL1kGg5pJkMm0BYd67) | 2:42 | 2025-07-17 |  |
+| [Bao Jela](https://open.spotify.com/track/5EmX6xa3oDcSD2jSrfXvUc) | [Buzzi Lee](https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Bao Jela](https://open.spotify.com/album/0QIGfL1kGg5pJkMm0BYd67) | 2:42 | 2025-07-17 | 2026-03-21 |
 | [Baq On Road](https://open.spotify.com/track/3fNJN9vITOXQL0MlfF4Ro0) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Time Tell / Baq On Road](https://open.spotify.com/album/1yOqq4fKy063BMd0nqjnBU) | 2:20 | 2025-04-18 | 2025-09-26 |
 | [BARKER HAINES](https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MAGLERA DOE BOY](https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB), [MOCHEN](https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo) | [PEOPLE FORGET TO BE PEOPLE](https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V) | 4:06 | 2023-07-14 | 2024-01-26 |
 | [Bathini](https://open.spotify.com/track/1OOdgfaudXSarnfqoF9Q6C) | [Crush!](https://open.spotify.com/artist/6GOqj3DRIyIeFpXtm1WsLz), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Tweezy](https://open.spotify.com/artist/25siXbZn4L4BKHPwZQmTI7) | [Bathini](https://open.spotify.com/album/5LMgWm3UdpEgpkFzzrsvJo) | 3:39 | 2025-03-28 | 2025-09-06 |
@@ -1038,6 +1038,7 @@
 | [Walk](https://open.spotify.com/track/6xo4YaG98lzfvomfpsOPEv) | [Byron Gindra](https://open.spotify.com/artist/4rjcUFfQIV6zLV3qcgoiar), [Lucas Raps](https://open.spotify.com/artist/6iHuEbZozDD13IBb4YyCzR) | [Walk](https://open.spotify.com/album/0mzKiY57YpIKmShaHrqhsy) | 2:19 | 2022-03-31 | 2022-04-23 |
 | [Walking On Water](https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Walking On Water](https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb) | 3:06 | 2023-02-27 | 2023-04-28 |
 | [Wanita](https://open.spotify.com/track/6awKlZneJTsXjwABSl1L4W) | [Linda Kim](https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul) | [Wanita](https://open.spotify.com/album/6HBJLpS8hJyAxhv5gx0b83) | 2:17 | 2024-09-05 | 2024-12-07 |
+| [Wanna Know](https://open.spotify.com/track/2NkCVhOVnaWw6w2ZoO9H0J) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Ca$h Khali](https://open.spotify.com/artist/0Gs5hrEypi3Ep1UCOfXuSY) | [Y.O.G](https://open.spotify.com/album/1ceNEIBecRZ4Bff2VG4DiF) | 3:29 | 2026-03-20 |  |
 | [WAR](https://open.spotify.com/track/3V3hlZ0gWcYSGCwMW6EDOs) | [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [WAR](https://open.spotify.com/album/1mfotTCSRTniu8r6l0IvOM) | 3:05 | 2024-08-02 | 2024-11-15 |
 | [WAR CRY](https://open.spotify.com/track/7d7zvtJ9zyh3Ip78CwZ9kT) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY) | [War Cry \(Original\)](https://open.spotify.com/album/20AmRVtbNjCLTIGisq4lYx) | 2:30 | 2024-07-04 | 2024-09-13 |
 | [Wave Your Hands To This](https://open.spotify.com/track/0i3OTXpbXLHsZCEJ4VnHsm) | [Dj Views](https://open.spotify.com/artist/7ydNIIaqW4BKuVj1q3tA5q), [4\-IZE](https://open.spotify.com/artist/2NHGM0jkyy4fj2QFdpnFo0) | [Wave Your Hands To This](https://open.spotify.com/album/3wEUKOuSC9pqbLkw4wmKVc) | 3:23 | 2022-09-22 | 2022-09-30 |

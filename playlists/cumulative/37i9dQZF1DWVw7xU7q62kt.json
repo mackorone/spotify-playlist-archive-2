@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Candyhaze",
+        "url": "https://open.spotify.com/album/7y5flVo4JkdWkRvNnbSNRf"
+      },
+      "artists": [
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102555,
+      "name": "Candyhaze",
+      "url": "https://open.spotify.com/track/4HToGoewfkIIV8G1PamgET"
+    },
+    {
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6tnks7s3orV2ji2DfnQA16"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 98493,
       "name": "Clear Sky",
       "url": "https://open.spotify.com/track/4l0H4Lhwkzp03t67luHhfw"
@@ -2258,6 +2276,24 @@
       "duration_ms": 99731,
       "name": "Cloud Cover",
       "url": "https://open.spotify.com/track/6l2111YVAo9qSnKNeEA9Da"
+    },
+    {
+      "album": {
+        "name": "Cloudless",
+        "url": "https://open.spotify.com/album/5u0GPLlDkLn3oVMcSkX4If"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111750,
+      "name": "Cloudless",
+      "url": "https://open.spotify.com/track/6hjhW2oddMEyjBSCJeJYpn"
     },
     {
       "album": {
@@ -5587,6 +5623,28 @@
     },
     {
       "album": {
+        "name": "Grote Knip",
+        "url": "https://open.spotify.com/album/2wPzI6VMhxGCCQz39taUgR"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129438,
+      "name": "Grote Knip",
+      "url": "https://open.spotify.com/track/7B7cWyHUvzEgppLabAYfgi"
+    },
+    {
+      "album": {
         "name": "Growing Season",
         "url": "https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1"
       },
@@ -6036,7 +6094,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 132413,
       "name": "Hot Chocolate",
       "url": "https://open.spotify.com/track/3KJjC8jdh3afiVrySsryWS"
@@ -6392,7 +6450,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 125714,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7hIvMOHQpwiw4cULcHoVI1"
@@ -7915,6 +7973,28 @@
     },
     {
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/71Q4x0O0ng2r8P9qb8s1zS"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/2wwQVl1QqVB9ePSOF24bNs"
+    },
+    {
+      "album": {
         "name": "Loaf Mode",
         "url": "https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP"
       },
@@ -8086,7 +8166,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 170000,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/0usCdBpXrjxOjB778JJzoD"

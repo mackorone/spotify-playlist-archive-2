@@ -1,13 +1,81 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 153391,
+  "num_followers": 153449,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlP8Ja9W5jViIzn95KMht42DKeq",
+  "snapshot_id": "AAAAAM2Bf/J9m2CEPgFzK7muNqs3tvrK",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "Pawa!",
+        "url": "https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3"
+      },
+      "artists": [
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 246968,
+      "name": "Pawa!",
+      "url": "https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "Dance the Night Away",
+        "url": "https://open.spotify.com/album/4oCOiUj0mpDXdTXKypeAvz"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "Dance the Night Away",
+      "url": "https://open.spotify.com/track/5DAQBmH7JUYdtKPy56al3s"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "GOT IT ALL",
+        "url": "https://open.spotify.com/album/0mz1vnveYp8YhC8WDQHBZM"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 194512,
+      "name": "GOT IT ALL",
+      "url": "https://open.spotify.com/track/04NxyzEcsCQ8VATYup0kqG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "Far Too Long",
+        "url": "https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bourachot",
+          "url": "https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Far Too Long",
+      "url": "https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4"
+    },
     {
       "added_at": "2026-02-27 05:00:48",
       "album": {
@@ -1785,30 +1853,6 @@
       "url": "https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY"
     },
     {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Sure Know Something (Ladies on Mars Remix)",
-        "url": "https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ"
-      },
-      "artists": [
-        {
-          "name": "Javier Penna",
-          "url": "https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV"
-        },
-        {
-          "name": "DiscoRocks",
-          "url": "https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA"
-        },
-        {
-          "name": "Ladies On Mars",
-          "url": "https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU"
-        }
-      ],
-      "duration_ms": 234827,
-      "name": "Sure Know Something - Ladies on Mars Remix",
-      "url": "https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Move",
@@ -1823,66 +1867,6 @@
       "duration_ms": 164124,
       "name": "Move",
       "url": "https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/44Dfv0I0KJuoKnN9wvctkV"
-      },
-      "artists": [
-        {
-          "name": "Willow Stephens",
-          "url": "https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3"
-        }
-      ],
-      "duration_ms": 225457,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Boogie Oogie",
-        "url": "https://open.spotify.com/album/3b3LZpUOr6Jg2XH2qFqm9W"
-      },
-      "artists": [
-        {
-          "name": "Ryan Prewett",
-          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
-        },
-        {
-          "name": "Kiley Dean",
-          "url": "https://open.spotify.com/artist/5DwwWqoLNvjK2DwIh0Ofy2"
-        }
-      ],
-      "duration_ms": 204807,
-      "name": "Boogie Oogie",
-      "url": "https://open.spotify.com/track/1LBgQDXAX5cuzJyeJIyfIa"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Giving Nothing",
-        "url": "https://open.spotify.com/album/4zgOSsSglm9BSoL5lqp0PK"
-      },
-      "artists": [
-        {
-          "name": "Dyanna Fearon",
-          "url": "https://open.spotify.com/artist/6Tj2zk2FBDNAO7k0jXHMSp"
-        },
-        {
-          "name": "Sparkling Attitude",
-          "url": "https://open.spotify.com/artist/3IF1LdxOdz2c329J5KBjjA"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        }
-      ],
-      "duration_ms": 220512,
-      "name": "Giving Nothing - Art of Tones Remix",
-      "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
     }
   ],
   "unique_name": "Nu-Disco",

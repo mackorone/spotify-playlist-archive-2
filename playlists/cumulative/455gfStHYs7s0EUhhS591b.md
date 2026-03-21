@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-265 songs - 15 hr 33 min
+266 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Entusiasme \(Vallée De L’Armes\) \- Slowed Version](https://open.spotify.com/track/0WwtdUVuyziUXQ1Gw3r8tF) | [HABITAT](https://open.spotify.com/artist/7r25k57LP5UsSNSzVems6d) | [Entusiasme \(Vallée De L’Armes\) \[Slowed + Sped Up\]](https://open.spotify.com/album/1tYOvFo8HLV8tmTnbETCZI) | 1:39 | 2025-09-26 |  |
 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 | 2025-07-18 |  |
 | [Erase Me \- Creamfields Sunset Mix](https://open.spotify.com/track/1DOlPhEMK56EdNBmMweV11) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me \(Creamfields Sunset Mix\)](https://open.spotify.com/album/0MAeDpEUOG5LkE7zsZwVy9) | 4:42 | 2025-06-19 |  |
+| [Esta Vida](https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW) | [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp) | [Esta Vida](https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC) | 3:15 | 2026-03-20 |  |
 | [Everytime We](https://open.spotify.com/track/2XrzTYH5t1q0QwAnX8EuV7) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Everytime We](https://open.spotify.com/album/5Gvd6QNbrltG9uc7SLe7m0) | 3:09 | 2025-10-10 |  |
 | [Eyes Off You](https://open.spotify.com/track/5FziJDAkFA8qtZi2en56iU) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Chill Executive Officer \(CEO\), Vol\. 24 \[Selected by Maykel Piron\]](https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW) | 4:01 | 2025-07-18 |  |
 | [Fade Into You](https://open.spotify.com/track/5hBvkRhD2ozsjlYiV5KiRQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chill Executive Officer \(CEO\), Vol\. 34 \[Selected by Maykel Piron\]](https://open.spotify.com/album/49DZIPW5Uxtr6j3m5ZRVZs) | 3:36 | 2025-07-18 |  |

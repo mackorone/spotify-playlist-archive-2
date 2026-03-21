@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Kill Safari
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-197 songs - 11 hr 0 min
+198 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Go Back \(feat\. Julia Church\) \- YDG Remix](https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\) \[YDG Remix\]](https://open.spotify.com/album/7aqNYVhP6oZGvfSk9Zxo5B) | 3:30 | 2024-11-29 |  |
 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 | 2024-01-26 | 2024-11-09 |
 | [Grinding](https://open.spotify.com/track/7tOLzteLIKzJsJpmg1RvjT) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Grinding](https://open.spotify.com/album/6cnWQ20odypzx0fGZPJltT) | 4:40 | 2026-02-13 |  |
-| [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-12-01 |  |
+| [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-12-01 | 2026-03-21 |
 | [Heard It Like This](https://open.spotify.com/track/6HtjJ09kCJbaQSrazLVEGr) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Heard It Like This](https://open.spotify.com/album/0YPe5oH70RPB9HAGkpXmQ9) | 3:40 | 2023-12-01 |  |
 | [Heavyweight](https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Heavyweight](https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM) | 2:28 | 2024-06-06 | 2024-11-09 |
 | [HI\-TECH](https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [HI\-TECH](https://open.spotify.com/album/2cwfGnDOTg6CjVCkwOHGkH) | 2:48 | 2023-12-01 | 2025-05-03 |
@@ -162,6 +162,7 @@
 | [Selector \- 2025 Remake](https://open.spotify.com/track/4zDAIlSQocdV6WuDaelqfJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Selector \(2025 Remake\)](https://open.spotify.com/album/2fYgTUiCfxSlMaFfZrHE1u) | 3:10 | 2025-11-21 |  |
 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2023-12-01 | 2025-05-03 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2023-12-01 | 2025-05-03 |
+| [SICK FUCK](https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [SICK FUCK](https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN) | 2:33 | 2026-03-20 |  |
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-12-01 |  |
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-02-16 | 2024-11-09 |
 | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 | 2024-07-06 | 2024-11-09 |

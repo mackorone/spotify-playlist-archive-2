@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56782,
+  "num_followers": 56794,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abnrAAAAAAAVKuD60ydc224C+CmadiYB",
+  "snapshot_id": "abs8gAAAAAD5qzOkFEsqly0QuSPshbe/",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 183857,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 140190,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/7hcCoLffWR5b8LT1ILZPDt"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 186633,
-      "name": "Una Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/4kg65BjXUvaw8tUTQLFiBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 253478,
       "name": "Como Te Olvido",
       "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 186633,
+      "name": "Una Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3WShEgcSur5BNOdf7BUsbZ"
     },
     {
       "added_at": null,

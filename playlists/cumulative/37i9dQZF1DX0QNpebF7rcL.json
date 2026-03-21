@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "All I Ask Of You",
+        "url": "https://open.spotify.com/album/3g3LiSndayVVfe4AEP40g1"
+      },
+      "artists": [
+        {
+          "name": "Catfish",
+          "url": "https://open.spotify.com/artist/2p8vm6yajSLniQujzpMB4A"
+        },
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347979,
+      "name": "All I Ask Of You",
+      "url": "https://open.spotify.com/track/7kHVUBAIuyzXwMHw5HnNkq"
+    },
+    {
+      "album": {
         "name": "All My Dues Are Paid",
         "url": "https://open.spotify.com/album/6txO0ubyiIe50vVGyUAUyg"
       },
@@ -672,6 +694,24 @@
       "duration_ms": 260345,
       "name": "Bad People",
       "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
+    },
+    {
+      "album": {
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/372PmOaKxlMeZ8hvxc8ZpX"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216653,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4uJlaPIHej7EJPg4QwewhI"
     },
     {
       "album": {
@@ -2218,7 +2258,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 272512,
       "name": "Don't Take Advantage Of Me",
       "url": "https://open.spotify.com/track/4gUBKPFYxnIxf1v49CX0vf"
@@ -2378,6 +2418,24 @@
       "duration_ms": 342853,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
+    },
+    {
+      "album": {
+        "name": "Downtown At Midnight",
+        "url": "https://open.spotify.com/album/1AzuOvyUu5zqgBN8k7UohA"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359287,
+      "name": "Downtown At Midnight",
+      "url": "https://open.spotify.com/track/3QqboVfrxsmYfYzNoGxprT"
     },
     {
       "album": {
@@ -6110,7 +6168,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 292760,
       "name": "Move to the Country",
       "url": "https://open.spotify.com/track/5HbUq35R8wh1HYDlv0REwj"
@@ -7116,7 +7174,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 205446,
       "name": "Rise up Children",
       "url": "https://open.spotify.com/track/5chjzwI7qrIVedcBnfDsbd"
@@ -8340,6 +8398,24 @@
       "duration_ms": 284413,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf"
+    },
+    {
+      "album": {
+        "name": "Sweet Little Caroline",
+        "url": "https://open.spotify.com/album/1D5q1fkeVkuZil5oEpL4eX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194458,
+      "name": "Sweet Little Caroline",
+      "url": "https://open.spotify.com/track/43W4M7GNQaWS2l7b5oQhvA"
     },
     {
       "album": {
@@ -9700,7 +9776,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218036,
       "name": "Way Down In The Valley",
       "url": "https://open.spotify.com/track/7GJqvFy8cyOBfV5WZtCARU"

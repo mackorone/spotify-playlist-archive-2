@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "a million",
+        "url": "https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166674,
+      "name": "a million",
+      "url": "https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL"
+    },
+    {
+      "album": {
         "name": "A Perfect Dive",
         "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151459,
       "name": "Act Your Age",
       "url": "https://open.spotify.com/track/5Xgk4IXXn1LWMOOcSyXLjK"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 178872,
       "name": "Another Tangerine",
       "url": "https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm"
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 258882,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/6ewll8ZzIhvBEMHy79nRV3"
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 179759,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
@@ -8672,7 +8690,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 194826,
       "name": "Fluorescent Light",
       "url": "https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX"
@@ -8910,7 +8928,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230507,
       "name": "For You To Come Around",
       "url": "https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx"
@@ -9982,6 +10000,24 @@
       "duration_ms": 216581,
       "name": "Happy As I've Never Been",
       "url": "https://open.spotify.com/track/2iMLSFj0IQ6rFs2LFojL8x"
+    },
+    {
+      "album": {
+        "name": "Hard to be Human",
+        "url": "https://open.spotify.com/album/3UfxE1ZxRaFoVhORIJY6nq"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209444,
+      "name": "Hard to be Human",
+      "url": "https://open.spotify.com/track/0d6wMI2L9O1h5mHySumYOF"
     },
     {
       "album": {
@@ -11092,7 +11128,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 146021,
       "name": "Honey I",
       "url": "https://open.spotify.com/track/5cH3XBB6GgVYK1ruuLxhq9"
@@ -11280,6 +11316,24 @@
       "duration_ms": 229333,
       "name": "Human",
       "url": "https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/3LanvkcdxbnFSRS1BWAGZm"
+      },
+      "artists": [
+        {
+          "name": "Jillian Lake",
+          "url": "https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244238,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7tWc9N4ccqkRScvnbERjcW"
     },
     {
       "album": {
@@ -12815,6 +12869,24 @@
     },
     {
       "album": {
+        "name": "It's Not Going to be Okay",
+        "url": "https://open.spotify.com/album/6AsWzHfb8cfeQbebqChYeo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "It's Not Going to be Okay",
+      "url": "https://open.spotify.com/track/7CqcAoZywRveplkSLe3PQE"
+    },
+    {
+      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
       },
@@ -14186,7 +14258,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 171022,
       "name": "Light",
       "url": "https://open.spotify.com/track/4LdnH4bMlHEn3nt9xb8Khk"
@@ -17127,6 +17199,24 @@
     },
     {
       "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "album": {
         "name": "Nightvisions",
         "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
       },
@@ -17518,6 +17608,24 @@
       "duration_ms": 193058,
       "name": "Not There Yet",
       "url": "https://open.spotify.com/track/0ONF1pX2bhclWj3QfKP0zH"
+    },
+    {
+      "album": {
+        "name": "Not Your Fault",
+        "url": "https://open.spotify.com/album/5wsOK1AxkxgkA4fsf6RCTl"
+      },
+      "artists": [
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207345,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/0PtaFE2n5Pm4iyghmmDBAN"
     },
     {
       "album": {
@@ -18196,6 +18304,24 @@
       "duration_ms": 223036,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/0HTAW7MuoTKLzLKoQdI3i3"
+    },
+    {
+      "album": {
+        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
+        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211382,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
     },
     {
       "album": {
@@ -19094,7 +19220,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235247,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/5NKS1vZJLvKNT7wNRxq42s"
@@ -19834,7 +19960,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 214307,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/7g2RfJadwlq4GQkBYqc8Dz"
@@ -21115,6 +21241,24 @@
     },
     {
       "album": {
+        "name": "Shadow Child",
+        "url": "https://open.spotify.com/album/4EtascluhmKr8QbmFeJ3GN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Shadow Child",
+      "url": "https://open.spotify.com/track/0FFKYIhuZemAM4eJpEwoSz"
+    },
+    {
+      "album": {
         "name": "Shake Off the Rain",
         "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
       },
@@ -21350,6 +21494,24 @@
       "duration_ms": 261379,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+    },
+    {
+      "album": {
+        "name": "Time of Fallow",
+        "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234887,
+      "name": "Silent Water",
+      "url": "https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B"
     },
     {
       "album": {
@@ -22516,6 +22678,28 @@
       "duration_ms": 370895,
       "name": "Stolen Lands",
       "url": "https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1"
+    },
+    {
+      "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "album": {

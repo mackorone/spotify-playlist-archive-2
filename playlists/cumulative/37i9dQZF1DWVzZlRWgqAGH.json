@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "RAYE and music for your soul.",
+  "description": "Protoje, Shenseea and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 227680,
       "name": "At We Feet (with Damian Marley)",
       "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 165081,
       "name": "Douwannabwitastar!?",
       "url": "https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O"
@@ -12407,6 +12407,28 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206741,
+      "name": "Goddess (with Shenseea)",
+      "url": "https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ"
       },
@@ -15596,7 +15618,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -19851,6 +19873,24 @@
     },
     {
       "album": {
+        "name": "When Lagos Sleeps",
+        "url": "https://open.spotify.com/album/3MTAJWcFRUAfH3FF4E96wp"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "Metric Rules",
+      "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
+    },
+    {
+      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0Dajz14aEfyhzFSnj7THv8"
       },
@@ -20552,6 +20592,28 @@
       "duration_ms": 217089,
       "name": "Move",
       "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "Move (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR ARABIA](https://open.spotify.com/playlist/37i9dQZF1DWSkSBnkXgB7J)
 
-> The exciting new music on our radar in the Middle East and North Africa\.  Cover: TURK
+> The exciting new music on our radar in the Middle East and North Africa\.  Cover: زاد
 
-172 songs - 9 hr 3 min
+174 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kam Molahza](https://open.spotify.com/track/4ZCLvKj9wtAX5HE0TWBihS) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [كام ملاحظة](https://open.spotify.com/album/4N1Lhxoue6GRiMnUtaWrIk) | 3:15 | 2022-10-20 | 2025-01-30 |
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [MOLHAM](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-21 | 2025-01-30 |
 | [Khayali](https://open.spotify.com/track/6r7tAWZJKh1bAcDY49IZyh) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khayali](https://open.spotify.com/album/25dlC7CoMPDwTrcMindR3w) | 2:09 | 2022-06-24 | 2022-11-09 |
+| [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 | 2026-03-20 |  |
 | [LAMA TROU2](https://open.spotify.com/track/1HUvF8RK92osBInwE1epTG) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [LAMA TROU2](https://open.spotify.com/album/65scTQsaErZPAsaxKzjd31) | 3:16 | 2025-05-12 |  |
 | [Layli](https://open.spotify.com/track/5GWLrhnqDDGyjbwbweY8FT) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Layli](https://open.spotify.com/album/78wyh3lmhFE1y5tnlFv4p5) | 3:16 | 2025-01-29 |  |
 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 | 2025-01-29 |  |
@@ -95,6 +96,7 @@
 | [Maléfique](https://open.spotify.com/track/1PEwOfcUM7n6QNbLutvo0M) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [MALÉFIQUE MAIS MN LKHIR](https://open.spotify.com/album/2piAERwNixvl71USI4cOLf) | 2:42 | 2026-01-06 |  |
 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 | 2022-11-03 | 2025-01-30 |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2022-06-24 | 2022-11-09 |
+| [MEEN SAME3NA](https://open.spotify.com/track/6eSaR4ydYuADFBTwPSje8C) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [MEEN SAME3NA](https://open.spotify.com/album/4DyGmGMadiWknwVbuSpgVx) | 2:23 | 2026-03-20 |  |
 | [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 | 2025-01-29 |  |
 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 | 2022-06-24 | 2024-05-03 |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2022-06-24 | 2023-06-07 |
@@ -143,7 +145,7 @@
 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 | 2022-07-21 | 2022-11-09 |
 | [Zabatna](https://open.spotify.com/track/2KakK2ldIwk32Lyp8cHRab) | [Tarek Al Atrash](https://open.spotify.com/artist/53SkAdBSeRmu5xA0G6Yii8) | [Zabatna](https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4) | 4:01 | 2022-06-24 | 2025-01-30 |
 | [أرض](https://open.spotify.com/track/0TacWOrPp2rDZjnvBjDFvO) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [أرض](https://open.spotify.com/album/3RmJE3F51o3nCgN8xfirkz) | 3:21 | 2023-08-03 | 2024-03-02 |
-| [أيام زمان](https://open.spotify.com/track/73JjyGNSkiFm3QdSdwtTbY) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أيام زمان](https://open.spotify.com/album/3TmjrAuNPEzmwlWdTC4rlI) | 3:14 | 2024-05-02 |  |
+| [أيام زمان](https://open.spotify.com/track/73JjyGNSkiFm3QdSdwtTbY) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أيام زمان](https://open.spotify.com/album/3TmjrAuNPEzmwlWdTC4rlI) | 3:14 | 2024-05-02 | 2026-03-21 |
 | [ارض](https://open.spotify.com/track/4Il19jl68qzjWIlpoSg14U) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [ارض](https://open.spotify.com/album/4RsztYv6UCO12BQ8Vo5Zde) | 3:25 | 2023-03-01 | 2023-05-13 |
 | [اشمعنى انا](https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [اشمعنى انا](https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA) | 2:48 | 2022-10-13 | 2025-01-30 |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [Seifmusic](https://open.spotify.com/artist/1mkpvSTvT1cbbhv14fuNIV) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 | 2025-04-15 |
@@ -179,6 +181,6 @@
 | [يا ترى](https://open.spotify.com/track/0jdJimx5sKSQIk2509Hhvv) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/2v4Lpoa78QNwurwzvQJOih) | 0:35 | 2022-10-20 | 2022-11-09 |
 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 | 2022-11-02 |
 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 | 2022-11-08 | 2023-06-07 |
-| [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Osama Tariq](https://open.spotify.com/artist/4ctSZFA2205zPcRkbKJOdS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-05-02 |  |
+| [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Osama Tariq](https://open.spotify.com/artist/4ctSZFA2205zPcRkbKJOdS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-05-02 | 2026-03-21 |
 
 \*This playlist was first scraped on 2022-07-05. Prior content cannot be recovered.

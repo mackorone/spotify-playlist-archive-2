@@ -5732,7 +5732,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 217358,
       "name": "Candy Paint (feat. Shoreline Mafia)",
       "url": "https://open.spotify.com/track/73lMnUNdS4XloMIBYQI5qP"
@@ -9604,7 +9604,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 147636,
       "name": "Everybody Ain't Gone Get You",
       "url": "https://open.spotify.com/track/1QlE4n5fvPln745z2BdtRR"
@@ -12022,6 +12022,32 @@
       "duration_ms": 176923,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/3nFeH41QA2BOU6Gce4mGyT"
+    },
+    {
+      "album": {
+        "name": "Get To It",
+        "url": "https://open.spotify.com/album/620qUJ0eDeu2p9eJwu6LSS"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148811,
+      "name": "Get To It",
+      "url": "https://open.spotify.com/track/30gLkMvn3raTaXGdDb6iZc"
     },
     {
       "album": {
@@ -16198,7 +16224,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 191059,
       "name": "KEEP CALLING ME",
       "url": "https://open.spotify.com/track/7IOVvG3ImS0TIevyGttbgh"
@@ -28829,6 +28855,24 @@
     },
     {
       "album": {
+        "name": "Switches & Dracs",
+        "url": "https://open.spotify.com/album/2PfN0uqFX4u7QDXdJf8ICK"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Switches & Dracs",
+      "url": "https://open.spotify.com/track/4xEx8Q7Iqtktk2BoeX36zU"
+    },
+    {
+      "album": {
         "name": "Tabula Rasa (feat. Armand Hammer)",
         "url": "https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw"
       },
@@ -31723,6 +31767,24 @@
     },
     {
       "album": {
+        "name": "WAIT",
+        "url": "https://open.spotify.com/album/6m126PDXRlTvKiqF7j7PEQ"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178752,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/323uibPPLx2tSL6HpG2m5d"
+    },
+    {
+      "album": {
         "name": "Wait 4 Me",
         "url": "https://open.spotify.com/album/2DLlXM4UcCSXOKCFiS7W0S"
       },
@@ -32620,7 +32682,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 143246,
       "name": "Wigglin",
       "url": "https://open.spotify.com/track/6wsJneWdArI6crtiPYr8ZG"

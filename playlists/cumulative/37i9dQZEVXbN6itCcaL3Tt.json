@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "FIKU MIKU",
       "url": "https://open.spotify.com/track/6MkpcMuHGd0cRBeRNOSWdy"
@@ -18122,6 +18122,32 @@
       "duration_ms": 241120,
       "name": "Gdy \u015bliczna Panna",
       "url": "https://open.spotify.com/track/6qpAOx0kW0Zh82KW1hziPQ"
+    },
+    {
+      "album": {
+        "name": "Gdybym by\u0142 \u017culem",
+        "url": "https://open.spotify.com/album/157AqjXaib7OK2nXHOSvtA"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Gdybym by\u0142 \u017culem",
+      "url": "https://open.spotify.com/track/6eOHLCJQK2b7rXDiKqcf0J"
     },
     {
       "album": {
@@ -25294,7 +25320,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 147333,
       "name": "KIEDY NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/41cz0GHQjImo4xDHgqZC8T"
@@ -41826,7 +41852,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173052,
       "name": "PODAJ MI D\u0141O\u0143",
       "url": "https://open.spotify.com/track/6f28GI6rbiDerKkOUpTFYM"

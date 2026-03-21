@@ -1,13 +1,49 @@
 {
   "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 149133,
+  "num_followers": 149204,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAAGD2KGo1J3LlHI1DNal72T9LY/pL",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:30",
+      "album": {
+        "name": "Downtown At Midnight",
+        "url": "https://open.spotify.com/album/1AzuOvyUu5zqgBN8k7UohA"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 359287,
+      "name": "Downtown At Midnight",
+      "url": "https://open.spotify.com/track/3QqboVfrxsmYfYzNoGxprT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:30",
+      "album": {
+        "name": "All I Ask Of You",
+        "url": "https://open.spotify.com/album/3g3LiSndayVVfe4AEP40g1"
+      },
+      "artists": [
+        {
+          "name": "Catfish",
+          "url": "https://open.spotify.com/artist/2p8vm6yajSLniQujzpMB4A"
+        },
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 347979,
+      "name": "All I Ask Of You",
+      "url": "https://open.spotify.com/track/7kHVUBAIuyzXwMHw5HnNkq"
+    },
     {
       "added_at": "2026-03-06 05:00:03",
       "album": {
@@ -41,20 +77,36 @@
       "url": "https://open.spotify.com/track/0QBATyfMWV08KwlAaSCIfW"
     },
     {
-      "added_at": "2026-02-20 05:00:31",
+      "added_at": "2026-03-20 04:00:30",
       "album": {
-        "name": "Don\u2019t Take Advantage Of Me",
-        "url": "https://open.spotify.com/album/5IQTaJtWRL77KVm1xuc0gj"
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/372PmOaKxlMeZ8hvxc8ZpX"
       },
       "artists": [
         {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
         }
       ],
-      "duration_ms": 272512,
-      "name": "Don't Take Advantage Of Me",
-      "url": "https://open.spotify.com/track/4gUBKPFYxnIxf1v49CX0vf"
+      "duration_ms": 216653,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4uJlaPIHej7EJPg4QwewhI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:30",
+      "album": {
+        "name": "Sweet Little Caroline",
+        "url": "https://open.spotify.com/album/1D5q1fkeVkuZil5oEpL4eX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 194458,
+      "name": "Sweet Little Caroline",
+      "url": "https://open.spotify.com/track/43W4M7GNQaWS2l7b5oQhvA"
     },
     {
       "added_at": "2026-02-06 05:00:24",
@@ -1681,22 +1733,6 @@
       "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "A Trip A Stumble A Fall Down On Your Knees",
-        "url": "https://open.spotify.com/album/0hlGgruCrAt6S7O28tnhxv"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Move to the Country",
-      "url": "https://open.spotify.com/track/5HbUq35R8wh1HYDlv0REwj"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Running Away",
@@ -1783,38 +1819,6 @@
       "duration_ms": 212160,
       "name": "Ain't No Cure Like The Blues",
       "url": "https://open.spotify.com/track/2i1EsHwA5GhttL6GPQUCje"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Way Down In The Valley",
-        "url": "https://open.spotify.com/album/7B5lrC5aM41awgXJgKW8CL"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 218036,
-      "name": "Way Down In The Valley",
-      "url": "https://open.spotify.com/track/7GJqvFy8cyOBfV5WZtCARU"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Rise up Children",
-        "url": "https://open.spotify.com/album/6brcnCzpCw27Aa9Uzoz5Pb"
-      },
-      "artists": [
-        {
-          "name": "Quinn Sullivan",
-          "url": "https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J"
-        }
-      ],
-      "duration_ms": 205446,
-      "name": "Rise up Children",
-      "url": "https://open.spotify.com/track/5chjzwI7qrIVedcBnfDsbd"
     },
     {
       "added_at": "2024-05-24 04:00:00",

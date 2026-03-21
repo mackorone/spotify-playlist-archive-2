@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Harry Styles scores his second number one of the year 🪩
+> Sam Fender & Olivia Dean are back on top 🏆
 
 47 songs - 2 hr 48 min
 

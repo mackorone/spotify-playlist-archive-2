@@ -1,13 +1,33 @@
 {
-  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Fy\u00fctch & Aura V",
-  "num_followers": 125979,
+  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner\n\n",
+  "num_followers": 126068,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo",
+  "snapshot_id": "AAAAAMhJfQfKZyzbLI4+EjnOm4R5K0gb",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:42",
+      "album": {
+        "name": "Buckle Up",
+        "url": "https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Buckle Up",
+      "url": "https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ"
+    },
     {
       "added_at": "2025-07-20 16:52:29",
       "album": {
@@ -363,22 +383,6 @@
       "duration_ms": 130636,
       "name": "This Life",
       "url": "https://open.spotify.com/track/5PVSIUnD7HPhJdUOEkCa19"
-    },
-    {
-      "added_at": "2025-07-20 16:52:29",
-      "album": {
-        "name": "Veggie Dance",
-        "url": "https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
-        }
-      ],
-      "duration_ms": 105124,
-      "name": "Veggie Dance - Steamed Broccoli",
-      "url": "https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO"
     },
     {
       "added_at": "2025-07-20 16:52:29",

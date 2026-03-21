@@ -4,7 +4,7 @@
 
 > Coez e Juli insieme in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,831 songs - 6 day 2 hr 3 min
+2,832 songs - 6 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-20 | 2025-04-18 |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-27 | 2024-07-27 |
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-21 | 2025-09-19 |
+| [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 | 2026-03-19 |  |
 | [Dopamina Gourmet](https://open.spotify.com/track/1Zk9msK1cyOBkkfPsw2XUR) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Dopamina Gourmet](https://open.spotify.com/album/5hPcQXzOSiGBwh3VzKeOrN) | 2:44 | 2026-03-12 |  |
 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-13 | 2025-12-12 |
 | [Dove si va](https://open.spotify.com/track/0JvcY0D5PUPBAfjr7Np5SQ) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Dove si va](https://open.spotify.com/album/4LFYZLxFF1N6f1k0lbQIis) | 2:51 | 2026-01-15 | 2026-02-13 |
@@ -1930,7 +1931,7 @@
 | [Polvere](https://open.spotify.com/track/3NgtBfIj16hsQdCgTlz4u1) | [VIOLANTE](https://open.spotify.com/artist/5ysxGtfqUnLuYBdKpMqmhu) | [Polvere](https://open.spotify.com/album/59DvlwV0AP3itvkMtmZwiR) | 2:41 | 2024-11-21 | 2024-11-29 |
 | [polvere sui graffiti](https://open.spotify.com/track/1AMYGediPicuuTc5NLtaDZ) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [polvere sui graffiti](https://open.spotify.com/album/6TYQquh62MKw29DIa2FqVU) | 3:08 | 2025-03-06 | 2025-03-28 |
 | [Pompei](https://open.spotify.com/track/2P24Qi7gIrGsMSQ7pj0imK) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy) | [Pompei](https://open.spotify.com/album/527AHohLGjDBm9cwT6hQxx) | 3:03 | 2025-03-27 | 2025-04-18 |
-| [Pongo](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Pongo](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-19 |  |
+| [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-19 |  |
 | [Popolare](https://open.spotify.com/track/4SNJQnHUMKnVt2Zb6Ge5IQ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Popolare](https://open.spotify.com/album/395qqtbnGrzuSND5MwXwfa) | 2:25 | 2025-05-22 | 2025-06-20 |
 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 | 2024-11-21 | 2024-12-06 |
 | [Por un Pendejo no se llora \- Salud mi Reina](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora \(Salud mi Reina\)](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 | 2026-01-15 | 2026-02-13 |

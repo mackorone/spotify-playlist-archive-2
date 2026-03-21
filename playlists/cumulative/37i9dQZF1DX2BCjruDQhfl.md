@@ -4,7 +4,7 @@
 
 > It's giving vibes\. Cover: Kaya Imani
 
-277 songs - 12 hr 37 min
+277 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 | 2026-03-13 |  |
 | [Pick Up](https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Pick Up](https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX) | 2:04 | 2026-01-22 |  |
 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 | 2025-10-02 | 2026-03-20 |
+| [PIJNSTILLER](https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [FANTASMA](https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It) | 2:58 | 2026-03-19 |  |
 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 | 2025-08-26 | 2026-02-07 |
 | [Play Pretend](https://open.spotify.com/track/78yqcuHhYFVW5gxWBnAGqz) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Play Pretend](https://open.spotify.com/album/5NaPDvpeTuutTavpkRo5Ez) | 2:40 | 2025-08-07 | 2025-12-19 |
 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-02-03 |  |
@@ -251,7 +252,6 @@
 | [Top Tier](https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK), [Nate](https://open.spotify.com/artist/2VINftEho961QpPR74Ftbb) | [Top Tier](https://open.spotify.com/album/6Ub5VP8L6qLLiv10TGm1sp) | 2:26 | 2025-07-17 | 2025-09-19 |
 | [Toxic](https://open.spotify.com/track/5w1hwhbGikZrfoJbLrjhcX) | [DenzelSN](https://open.spotify.com/artist/3o6rBFfY6bEVAK4dfYISUZ) | [Toxic](https://open.spotify.com/album/71VYznmAATTGTh7xP9XhRT) | 2:17 | 2026-03-05 |  |
 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 | 2026-01-29 |  |
-| [Track 9](https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [FANTASMA](https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It) | 0:00 | 2026-03-19 |  |
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [Tweede Kans](https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:44 | 2025-07-17 | 2025-11-08 |
 | [VANAVOND](https://open.spotify.com/track/3jG8uhJ40CZernF9nHveqq) | [Furagain](https://open.spotify.com/artist/4JciQkf0ScmAMzUWJnHMOC), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [VANAVOND](https://open.spotify.com/album/0jjeqbkOEZShK1Ob4AdAbW) | 2:30 | 2025-11-28 | 2026-01-23 |

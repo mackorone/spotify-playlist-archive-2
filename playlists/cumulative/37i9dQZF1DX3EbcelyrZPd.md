@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover:Diamond Platnumz
 
-648 songs - 1 day 12 hr 56 min
+649 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Hao](https://open.spotify.com/track/2c4yiO6mxEPnWmbGrEIsAs) | [Mwasiti](https://open.spotify.com/artist/6NXpDbD5hTkG9WHb6YzMYu), [Chidi Benz](https://open.spotify.com/artist/1lTGyFO9KjwT8dsrhS9RxH) | [Nambie](https://open.spotify.com/album/4833a6L17nPX4d2hRRZ702) | 5:04 | 2024-07-11 | 2024-08-16 |
 | [Hapa](https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Hapa](https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn) | 3:17 | 2023-09-14 | 2023-12-15 |
 | [Hapo](https://open.spotify.com/track/1Y5KqIafg4rsEbEzw0MR2h) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Hapo](https://open.spotify.com/album/3iW633uau1WGTA8XgjpKsK) | 3:26 | 2025-07-03 | 2026-01-24 |
+| [Happy](https://open.spotify.com/track/3ANHY5EdhMkLPlBuI3TH7w) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Happy](https://open.spotify.com/album/5SmlZOCS526S8SRueOK38H) | 2:56 | 2026-03-19 |  |
 | [Hayanogi](https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Hayanogi](https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS) | 3:24 | 2026-01-29 |  |
 | [Hello](https://open.spotify.com/track/5KZI9ar5x9t0uxsUupnYFz) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [P.M.P](https://open.spotify.com/artist/04R8DMlManps9L7xyCndl6), [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [Hello](https://open.spotify.com/album/65O1PNI3Xpwe7PiUHGEnT8) | 3:07 | 2023-12-08 | 2024-04-26 |
 | [Hello](https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f) | [Malha](https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Hello](https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum) | 3:19 | 2024-05-23 | 2024-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,844 likes - 132 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,874 likes - 132 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 131 | [Salahnya Aku](https://open.spotify.com/track/1bRhQrTrurSHiFxL7SulGU) | [Yogie Nandes](https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62) | [Salahnya Aku](https://open.spotify.com/album/34F63zVp4z2fAUkZHZoMYQ) | 3:40 |
 | 132 | [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 |
 
-Snapshot ID: `AAAAAFDsSC8tsQoLuUZDVvdIB+747eI9`
+Snapshot ID: `AAAAAE4ppBjLTeXDzzDEDlVgB2xxMl7p`

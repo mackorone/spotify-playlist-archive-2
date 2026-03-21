@@ -612,7 +612,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 136476,
       "name": "Alas Rotas",
       "url": "https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 181310,
       "name": "Conscientes",
       "url": "https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu"
@@ -4853,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "La Sal Y El Sabor",
+        "url": "https://open.spotify.com/album/3Z0yojBukgv5mkCkF4vVbl"
+      },
+      "artists": [
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        },
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "La Sal Y El Sabor",
+      "url": "https://open.spotify.com/track/6Z51lFUDQB2lnhonvpDnRt"
+    },
+    {
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6PvQnzY20zZzdnyUeHhpVg"
       },
@@ -5640,7 +5662,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 245424,
       "name": "me perd\u00ed",
       "url": "https://open.spotify.com/track/11oA6aQCnLVtZy1m5jW6Ef"
@@ -6244,6 +6266,32 @@
       "duration_ms": 182535,
       "name": "NO TE HAGAS",
       "url": "https://open.spotify.com/track/6KCAkuoZsQGRiXu80f4vf3"
+    },
+    {
+      "album": {
+        "name": "NO TE HAGAS (REMIX)",
+        "url": "https://open.spotify.com/album/7ulplQ05dsrGMCqq8NL24W"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "NO TE HAGAS (REMIX)",
+      "url": "https://open.spotify.com/track/7ovtWiGNBx61dRmsBx2cy9"
     },
     {
       "album": {
@@ -7542,7 +7590,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202736,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/4K8AqmWpvzezHIcCiSd882"
@@ -7644,6 +7692,32 @@
       "duration_ms": 199419,
       "name": "Rutracker",
       "url": "https://open.spotify.com/track/29f3hpbcyLSdCfs44Qw7RI"
+    },
+    {
+      "album": {
+        "name": "Sacamos unos chanteos",
+        "url": "https://open.spotify.com/album/049tmCM3z2HxmS4DzbRqcX"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310483,
+      "name": "Sacamos unos chanteos",
+      "url": "https://open.spotify.com/track/0tCUbkEDsXEsanEwHaqykH"
     },
     {
       "album": {
@@ -9072,6 +9146,24 @@
       "duration_ms": 145031,
       "name": "Viernes 16 B",
       "url": "https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG"
+    },
+    {
+      "album": {
+        "name": "Villa Jard\u00edn - Cap\u00edtulo 1",
+        "url": "https://open.spotify.com/album/3SnQqRuqgTBtjamG9wqmBc"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Villa Jard\u00edn - Cap\u00edtulo 1",
+      "url": "https://open.spotify.com/track/50R0UtXQqArFhD5a6Hvy7B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,072 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,073 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 2 | [Cashmere](https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Cashmere](https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn) | 3:07 |
 | 3 | [GOING](https://open.spotify.com/track/3K40ExNdW7OLgTsDKAtJaC) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [GOING](https://open.spotify.com/album/5S3NQCNi6QOu9dGvjjtceu) | 2:02 |
 | 4 | [Early Mornings](https://open.spotify.com/track/4wQXb2vjlr938qkhlixzc9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Sachelah](https://open.spotify.com/artist/3LMYMmfN8KWb69IeqXoVin) | [Early Mornings](https://open.spotify.com/album/3zlzHGUvXBXmXYCyk5e79l) | 2:54 |
-| 5 | [Track 2](https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Indie Deep](https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI) | 0:00 |
+| 5 | [Sauti Zetu](https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Indie Deep](https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI) | 2:21 |
 | 6 | [Mabeste Tu](https://open.spotify.com/track/0xnoBgZsqYLQCejERE8xDz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mabeste Tu](https://open.spotify.com/album/5E1tWyb3paZ3yeBPOiJOpP) | 2:43 |
 | 7 | [Free Rein](https://open.spotify.com/track/0qUAJXjeX3Xjy3ZvlSRUaz) | [Sidi](https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Free Rein](https://open.spotify.com/album/5U3H0A6fCzyl0FIzxmWcme) | 4:24 |
 | 8 | [Ayaye](https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS) | [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Muhamago](https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1), [Neil Darmon](https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy), [Marcia Buwa](https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8) | [Ayaye](https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP) | 3:23 |

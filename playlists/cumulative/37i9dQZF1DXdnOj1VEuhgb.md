@@ -2,7 +2,7 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Batuflex
 
 918 songs - 1 day 17 hr 17 min
 

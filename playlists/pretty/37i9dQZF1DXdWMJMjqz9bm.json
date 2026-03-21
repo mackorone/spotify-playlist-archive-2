@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike",
-  "num_followers": 224098,
+  "num_followers": 224121,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMi+XWWZ3nGpZ5yA/yK7Fh+m3K0f",
+  "snapshot_id": "AAAAAB8voy2wVQlE0SYGTSK3W1FpnxHg",
   "tracks": [
     {
       "added_at": "2026-03-18 22:16:09",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
+      "added_at": "2026-03-20 04:00:45",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+    },
+    {
       "added_at": "2026-02-27 05:00:34",
       "album": {
         "name": "TAHOE",
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/4Ytw21cfkgt76XjR7aOuVv"
     },
     {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
       "added_at": "2026-02-16 22:41:25",
       "album": {
         "name": "OCTANE",
@@ -71,6 +71,58 @@
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/1udOZftd1UOs5WTDPrG97k"
+    },
+    {
+      "added_at": "2026-02-20 05:24:59",
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
+    },
+    {
+      "added_at": "2026-03-20 04:00:45",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd"
+    },
+    {
+      "added_at": "2026-01-05 22:03:13",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": "2026-02-06 06:01:19",
@@ -139,26 +191,6 @@
       "duration_ms": 199831,
       "name": "Dramatic Girl (feat. Che Ecru)",
       "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
-    },
-    {
-      "added_at": "2026-02-20 05:24:59",
-      "album": {
-        "name": "Self Sabotage",
-        "url": "https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        },
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk"
     },
     {
       "added_at": "2026-02-27 05:00:34",
@@ -1259,38 +1291,6 @@
       "duration_ms": 217102,
       "name": "starman",
       "url": "https://open.spotify.com/track/4t8xELB3RVb8n7dxaQ1H5I"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Shark",
-        "url": "https://open.spotify.com/album/6zxkjrLqxfREH55izexxDn"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Shark",
-      "url": "https://open.spotify.com/track/4YtaJwgTLXE5d3Xk2zUOaH"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2026-01-05 22:03:13",

@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
@@ -302,6 +302,28 @@
       "duration_ms": 71400,
       "name": "Bach, JS: Two-Part Invention No. 13 in A Minor, BWV 784 (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/6JCxyn9tHqTLWLcyjhWgBO"
+    },
+    {
+      "album": {
+        "name": "Capucelli",
+        "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303426,
+      "name": "Bacharach: South American Getaway (From \"Butch Cassidy and Billy the Kid\")",
+      "url": "https://open.spotify.com/track/6zSlMYuviTNc21mr3AMd7n"
     },
     {
       "album": {

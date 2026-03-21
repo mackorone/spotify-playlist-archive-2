@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: MIÜ, Pezet, Bedoes 2115
 
-924 songs - 1 day 19 hr 25 min
+924 songs - 1 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 | 2024-08-22 | 2024-12-06 |
 | [False flag](https://open.spotify.com/track/0lhRRjg38i1V35kICUFoEX) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [False flag](https://open.spotify.com/album/7gV4CtWCFpXpmVEsSDL8Ys) | 3:43 | 2023-11-21 | 2023-12-01 |
 | [False flag](https://open.spotify.com/track/5OARsPvmd9bxhCtNLlVlhd) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:44 | 2023-11-30 | 2023-12-05 |
+| [fantazje](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 2:58 | 2026-03-19 |  |
 | [Fashion Week](https://open.spotify.com/track/3Vr3rqvB6UuqmQ887lYO2v) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [Fashion Week](https://open.spotify.com/album/6b7EXbLHhR62cnaPaZLlTj) | 2:34 | 2024-06-20 | 2024-07-27 |
 | [Felga](https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [STYXXX](https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7) | 3:26 | 2023-09-21 | 2023-10-27 |
 | [Fendi \- Remix](https://open.spotify.com/track/5vyQGHpbfZkw1TtLn1v2qR) | [Hellfield](https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q), [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr) | [Fendi \(Remix\)](https://open.spotify.com/album/1DCE2Wz0YDvGrOu6ICm2Ul) | 2:21 | 2025-09-18 | 2025-10-10 |
@@ -811,7 +812,6 @@
 | [TOP BOY](https://open.spotify.com/track/3scqNOemrtRMZA3mGEpDS6) | [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [Kezii](https://open.spotify.com/artist/6vPDIv4E8SA3PjjtMYrks6) | [TOP BOY](https://open.spotify.com/album/7u5nHxM46D3LIVz6mNq8Q8) | 2:15 | 2023-09-21 | 2023-09-26 |
 | [TOTORO](https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:56 | 2023-09-21 | 2023-12-01 |
 | [TOXIC](https://open.spotify.com/track/5FnD4h9hEb6ii4zPBLGaGb) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [TOXIC](https://open.spotify.com/album/2efgDVZpC7lj5xA0ulLcje) | 2:50 | 2026-02-19 | 2026-03-20 |
-| [Track 3](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 0:00 | 2026-03-19 |  |
 | [Trapstar](https://open.spotify.com/track/0tx39lzX83KjrWqEfHTxew) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo) | [Trapstar](https://open.spotify.com/album/4C9bZzzDC23RZKRkjVtOrm) | 2:57 | 2023-10-26 | 2023-11-17 |
 | [TRENINGOWY DRES](https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J) | [Francuz Mordo](https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Sebz Beats](https://open.spotify.com/artist/1jGM687jFlYVxRV4xZivTO) | [TRENINGOWY DRES](https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY) | 3:20 | 2024-11-21 | 2024-12-06 |
 | [TRUCIZNA](https://open.spotify.com/track/05ygDlR4ojoF0YKJDKIhBR) | [Kosior](https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [TRUCIZNA](https://open.spotify.com/album/1Vm8hgdwRMqfvNhaVZUqYb) | 3:39 | 2025-11-20 | 2025-12-12 |

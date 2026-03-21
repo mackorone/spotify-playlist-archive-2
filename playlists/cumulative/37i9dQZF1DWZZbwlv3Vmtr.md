@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,182 songs - 1 day 21 hr 30 min
+1,185 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 | 2025-03-22 |
 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 | 2023-09-08 | 2025-06-14 |
 | [debris](https://open.spotify.com/track/2BW8p88UBLM5iegKDq6shW) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [debris](https://open.spotify.com/album/0YPSDgFj9PGi3cVD5ED52E) | 2:03 | 2022-10-28 | 2025-07-10 |
+| [Decompress](https://open.spotify.com/track/3BNoMy0u092OajyerwYxOb) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Decompress](https://open.spotify.com/album/3bgqF1wb2MA8N3y6LG5faF) | 2:41 | 2026-03-20 |  |
 | [deep cracks](https://open.spotify.com/track/7zQqLegPosxGECgeN0oRXG) | [fogdream](https://open.spotify.com/artist/7EHIYF01neDzhqyE4yr2ec) | [deep cracks](https://open.spotify.com/album/248nZk1KGE2d5Jbv9nwEfy) | 1:53 | 2022-04-15 | 2022-09-09 |
 | [Deep, Down & Painted](https://open.spotify.com/track/66ElzOnnBxyPbhNurKxjyc) | [Ogi Feel the Beat](https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Deep, Down & Painted](https://open.spotify.com/album/1bbRy4fnXvGuKg0ptq5cLc) | 3:01 | 2022-06-03 | 2022-08-19 |
 | [Delicious Deeds](https://open.spotify.com/track/6Ck6Tv3EopH6L33sH2I47y) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Delicious Deeds](https://open.spotify.com/album/6WBaVg8k0w6hKYPsWHCy7L) | 3:05 | 2022-04-15 | 2025-07-10 |
@@ -807,6 +808,7 @@
 | [Reflections](https://open.spotify.com/track/1IFvlYEQQJ3MYveHXCFdtH) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Reflections](https://open.spotify.com/album/5nOykl9d6B5R8UF8f7OGBU) | 2:20 | 2022-04-15 | 2022-11-20 |
 | [Reflections](https://open.spotify.com/track/21tkja4bPHLqIcgAXiYBFX) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:20 | 2022-11-11 | 2022-11-24 |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2022-11-11 | 2023-10-06 |
+| [Reflections at 7PM](https://open.spotify.com/track/0rXGaV3C2iFJxQXLyqWgc0) | [Slow Koi](https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D) | [Reflections at 7PM](https://open.spotify.com/album/1QCRY6zezVAKdAET5Q5UKP) | 2:14 | 2026-03-20 |  |
 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 | 2022-04-15 | 2022-09-17 |
 | [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-04-15 | 2025-07-10 |
 | [Relevance](https://open.spotify.com/track/5xntfyh1ivokbbC3cV7268) | [Zifon](https://open.spotify.com/artist/6Ys1Of9xkkOSwsxgEMtcFU) | [Alleviate](https://open.spotify.com/album/0sfx4STbwzhN1tyfCsUuL2) | 1:46 | 2022-04-15 | 2022-05-14 |
@@ -1001,6 +1003,7 @@
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2025-06-12 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 | 2025-12-20 |
+| [Surface Level](https://open.spotify.com/track/7yfGIqM3BZcP6AmAb9q1KQ) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Surface Level](https://open.spotify.com/album/1vVSHIj1nTEbseKAPdn6Uk) | 1:48 | 2026-03-20 |  |
 | [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 | 2025-08-30 |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Suspend](https://open.spotify.com/track/0PgYYfszbmzXle8d1todf9) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Suspend](https://open.spotify.com/album/1xpRdVtHK4Ta4TQqxIn6Fp) | 1:57 | 2026-02-13 |  |

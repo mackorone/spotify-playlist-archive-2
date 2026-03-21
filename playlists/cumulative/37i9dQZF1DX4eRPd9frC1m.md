@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-467 songs - 1 day 0 hr 59 min
+468 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [At Night](https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [At Night](https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07) | 2:50 | 2025-01-24 | 2025-05-18 |
 | [ATTACK](https://open.spotify.com/track/4beNkkRzwv01XhAyp2OiI1) | [AG](https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8), [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [ATTACK](https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Attention](https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [Duality](https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z) | 2:50 | 2022-04-29 | 2022-05-07 |
-| [BACK 2 THE RECORD](https://open.spotify.com/track/2P0hULf2MorSbvSGD93TuI) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [Precision Points](https://open.spotify.com/album/6ICiF17DAadeFv7yvW69Q5) | 2:53 | 2026-02-13 |  |
+| [BACK 2 THE RECORD](https://open.spotify.com/track/2P0hULf2MorSbvSGD93TuI) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [Precision Points](https://open.spotify.com/album/6ICiF17DAadeFv7yvW69Q5) | 2:53 | 2026-02-13 | 2026-03-21 |
 | [Back It Up](https://open.spotify.com/track/0OsIIjUneF8iZk5QULuEzk) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:40 | 2021-11-19 | 2022-01-08 |
 | [Back To Back](https://open.spotify.com/track/2pA06E35uzayyEK7U0OOCy) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Back To Back](https://open.spotify.com/album/06FTffO23TuFWASOQ0AXKp) | 4:11 | 2025-01-17 | 2025-05-07 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-09 |  |
@@ -404,6 +404,7 @@
 | [Switch \(with Nat James\) \- Kozmoz Remix](https://open.spotify.com/track/1Kp1WlBmhTvhtRUidGeSyt) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa), [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 2:28 | 2023-08-18 | 2023-09-10 |
 | [symphony no.5 in bass minor](https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [symphony no.5 in bass minor](https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P) | 2:58 | 2024-05-10 | 2025-04-19 |
 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 |  |
+| [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 | 2026-03-20 |  |
 | [Takin' Over](https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Takin' Over](https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY) | 2:19 | 2022-01-07 | 2022-07-28 |
 | [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-11 |  |
 | [The Cheeki Breeki Song](https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Nimda](https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h) | [Planet Doom](https://open.spotify.com/album/6wtibkqrl452P4guyD2Hlm) | 3:32 | 2022-04-01 | 2023-03-04 |

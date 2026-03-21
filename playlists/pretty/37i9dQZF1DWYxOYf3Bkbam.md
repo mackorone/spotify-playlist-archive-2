@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,057 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,076 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 23 | [Enero](https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 3:17 |
 | 24 | [Pastor Luna y Su Acordeón](https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [30 Años Con el Chamamé](https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf) | 2:11 |
 | 25 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 |
-| 26 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 |
-| 27 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 |
+| 26 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 |
+| 27 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 |
 | 28 | [Asi Se Baila El Chamame](https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:05 |
 | 29 | [Amanecer Campero](https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef) | [Me Dicen el Rey](https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8) | 2:46 |
 | 30 | [Km\. 11](https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt) | [Los Troperos del Chamamé](https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE) | [Sin Fronteras](https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix) | 3:22 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 73 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 |
 | 74 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 75 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
-| 76 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
-| 77 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
-| 78 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |
+| 76 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
+| 77 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |
+| 78 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
 | 79 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 80 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
 | 81 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 |

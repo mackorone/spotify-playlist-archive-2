@@ -44255,24 +44255,6 @@
     },
     {
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "date_added": "2026-03-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH"
-    },
-    {
-      "album": {
         "name": "Trance State",
         "url": "https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6"
       },
@@ -44378,6 +44360,24 @@
       "duration_ms": 197986,
       "name": "Troll",
       "url": "https://open.spotify.com/track/4WSZsbmwDrirT1WexT46bk"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH"
     },
     {
       "album": {

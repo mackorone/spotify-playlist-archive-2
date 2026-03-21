@@ -4,12 +4,13 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-618 songs - 1 day 11 hr 31 min
+619 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Gauge](https://open.spotify.com/track/4cgr1VYLPvQkcrLibsJpPJ) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [12 Gauge](https://open.spotify.com/album/2xQliyvBsfRuwgViH6wYo3) | 3:20 | 2024-09-05 | 2024-10-21 |
 | [247](https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [247](https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll) | 3:02 | 2026-01-23 |  |
+| [3AM](https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [3AM EP](https://open.spotify.com/album/547NePDWh0BlRwjwR1rbqx) | 3:46 | 2026-03-13 |  |
 | [450](https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Full Wack No Brakes](https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm) | 3:17 | 2022-09-30 | 2023-09-02 |
 | [99 Octane](https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [99 Octane](https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0) | 3:00 | 2025-02-07 | 2025-11-19 |
 | [A Little More \- Friendly Foe Remix](https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ) | [JUSTDEE](https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr), [Friendly Foe](https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8) | [A Little More \(Friendly Foe Remix\)](https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO) | 3:08 | 2024-07-02 | 2025-02-01 |
@@ -54,7 +55,7 @@
 | [BALLY ON](https://open.spotify.com/track/3Wy81qlEIFJYrxiuKVjwDQ) | [XTEN](https://open.spotify.com/artist/31l5AvkLXl6aNgAJXHpZhl), [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm), [Skengdo](https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg) | [BALLY ON](https://open.spotify.com/album/42zFvcZdbbSkSBHtH9Hswx) | 2:19 | 2026-03-06 |  |
 | [Bam Bam](https://open.spotify.com/track/5sUdj0CiLQ1wMTEAyt5Qqk) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Bam Bam](https://open.spotify.com/album/3Mu1ke8PSueUM8GCj6FdHo) | 2:08 | 2025-07-03 | 2025-10-26 |
 | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5) | 2:49 | 2024-11-08 | 2025-08-23 |
-| [Barbera 2026](https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Barbera 2026](https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV) | 4:03 | 2026-01-23 |  |
+| [Barbera 2026](https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Barbera 2026](https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV) | 4:03 | 2026-01-23 | 2026-03-21 |
 | [BARRIN' ALOT \(FREESTYLE\)](https://open.spotify.com/track/7HpTKnBG6kCKYxjjyTmolW) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [BARRIN' ALOT \(FREESTYLE\)](https://open.spotify.com/album/4gPTGKiUx3XkSb8kVzCGEi) | 2:05 | 2024-09-05 | 2024-10-04 |
 | [Bass & Treble](https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0) | [Jappa](https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI), [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn) | [Bass & Treble](https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH) | 3:48 | 2024-08-02 | 2025-05-09 |
 | [Bass Revolution 2000](https://open.spotify.com/track/6EXiTVt4LBkhSYS4OY11h7) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Bass Revolution 2000](https://open.spotify.com/album/2vPLBwylbk5x7Ndh7pevk8) | 6:45 | 2023-12-27 | 2024-01-12 |

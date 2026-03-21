@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Krish Rao
+> Best of Haryanvi Hip\-Hop! Cover: Saaaj Tomar
 
-568 songs - 1 day 4 hr 33 min
+570 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-18 | 2025-08-02 |
 | [Chora Bawla](https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Chora Bawla](https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n) | 3:23 | 2024-03-21 | 2024-06-04 |
 | [Chore Albadi \- From "Incomparable"](https://open.spotify.com/track/0ivHqJTvof0LaIaJCM1jXu) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Chore Albadi \(From "Incomparable"\)](https://open.spotify.com/album/6eNrYzQlPXfxYfaJDZTbJt) | 2:24 | 2024-07-03 | 2025-05-10 |
-| [Chore Desi](https://open.spotify.com/track/3REvJ9NN7ibwwBvl61Xwz1) | [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Chore Desi](https://open.spotify.com/album/0r5U18cD9cOZGg2A80jXS5) | 2:31 | 2026-02-17 |  |
+| [Chore Desi](https://open.spotify.com/track/3REvJ9NN7ibwwBvl61Xwz1) | [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Chore Desi](https://open.spotify.com/album/0r5U18cD9cOZGg2A80jXS5) | 2:31 | 2026-02-17 | 2026-03-21 |
 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 | 2023-09-27 | 2025-01-21 |
 | [Chore Haryana Aale](https://open.spotify.com/track/4DaWG4Q3wnBwRQ2JVxJhFf) | [Old Sinners](https://open.spotify.com/artist/6uN0yKoOoelg1X2GnSj35s) | [Chore Haryana Aale](https://open.spotify.com/album/1VzRefMJPimbz8XKUe56zx) | 2:09 | 2025-04-04 | 2025-08-06 |
 | [Chore Haryane Aale](https://open.spotify.com/track/4L1hMlypJ7QKJKGbK0sGJE) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryane Aale](https://open.spotify.com/album/0CkziYfchViVp2Q3fQqQgc) | 2:58 | 2024-03-08 | 2024-04-19 |
@@ -152,6 +152,7 @@
 | [DEKH TERA BHAI](https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [DEKH TERA BHAI](https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25) | 3:09 | 2023-10-27 | 2025-01-11 |
 | [Delhi X Haryana](https://open.spotify.com/track/5hVJ9jc2YN3KGFH50AazEV) | [Star Boy Loc](https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv) | [Delhi X Haryana](https://open.spotify.com/album/1o506YaqTbg3EaVqG3Pt5c) | 2:06 | 2024-11-14 | 2024-12-20 |
 | [Desi](https://open.spotify.com/track/5lTHCIhhRvd43Pp54M6XCK) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [DN.1](https://open.spotify.com/album/2mUW6az4bpukrLsJt52fsP) | 2:04 | 2025-05-09 | 2025-06-21 |
+| [Desi Aagaye](https://open.spotify.com/track/7xlrGQrGR4QaLRBDQgGcuc) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl), [VJ Paul](https://open.spotify.com/artist/4iNJy1ezxe6GVWIHGqOrWT), [Inzane](https://open.spotify.com/artist/5WxAF79RhgVuTLhj39XLsH) | [Desi Aagaye](https://open.spotify.com/album/2RKAZYHyL5wtp0gPfDEVvv) | 2:27 | 2026-03-20 |  |
 | [Desi Balak Gama Ke](https://open.spotify.com/track/6DonWP8ZlT3US6PlomsIka) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Desi Balak Gama Ke](https://open.spotify.com/album/0I3sskaV7KxSZ4NVG9T7Yt) | 3:25 | 2024-10-21 | 2026-02-18 |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 | 2024-08-13 |
 | [Desi Hood](https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Desi Hood](https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR) | 2:28 | 2024-07-31 |  |
@@ -320,7 +321,7 @@
 | [Kill EM \- Mafioso Chapter 1](https://open.spotify.com/track/4KNLzEVSubSB7I9d86ZVYo) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Kill EM \(Mafioso Chapter 1\)](https://open.spotify.com/album/1vFbokZeCyfA010NKbO88U) | 2:52 | 2023-03-28 | 2023-06-17 |
 | [Kill Love](https://open.spotify.com/track/5AZptd2m2uVIGILEtFTfJu) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl) | [Kill Love](https://open.spotify.com/album/0cKcmHsfxybfDu7MFmg8h2) | 2:44 | 2024-09-30 | 2024-10-22 |
 | [Killer Flow](https://open.spotify.com/track/5spZP1hjkR3BXFNJ8X2xTQ) | [Stag Boy](https://open.spotify.com/artist/0BmzkGyTR9SJyEJ3tbCKwj) | [Killer Flow](https://open.spotify.com/album/1jTodKbDBvufX6mIfXR8vB) | 3:00 | 2025-06-21 | 2025-07-05 |
-| [King In The North](https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:46 | 2025-08-05 |  |
+| [King In The North](https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:46 | 2025-08-05 | 2026-03-21 |
 | [Kiso Toyo](https://open.spotify.com/track/66PMnbtXRgMwx2WvlsYfIW) | [DONNI£](https://open.spotify.com/artist/4pT4uhS01avUmbvVTJzybq), [Rohit Maan](https://open.spotify.com/artist/4LOzNO0TMGuwQDEs3tc83n), [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t) | [Kiso Toyo](https://open.spotify.com/album/2yYHukHv5fcTIKeKFNfG0O) | 3:44 | 2025-04-15 | 2025-06-25 |
 | [KMJ](https://open.spotify.com/track/3qXtnNJRMUyPO7Q53VIgs5) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 4:05 | 2025-02-28 |  |
 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 | 2024-10-21 |  |
@@ -373,6 +374,7 @@
 | [Mote Kharche](https://open.spotify.com/track/3dNToqbycdUSywpw0ZyCOC) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Mote Kharche](https://open.spotify.com/album/4dQF9RxSETEd7mUdY6yTyt) | 2:44 | 2024-07-16 | 2024-07-19 |
 | [Move Back](https://open.spotify.com/track/3NENq5fDBChRZI626K1K3g) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Move Back](https://open.spotify.com/album/6o7iRip7uIr7L7dfUGDjhT) | 2:24 | 2024-12-19 | 2025-02-01 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 | 2024-08-13 |
+| [Mukhtleef](https://open.spotify.com/track/6aM5FZpsDxBqisjUG5dtGH) | [AAFT MUSIC](https://open.spotify.com/artist/2gKbTpGYWl8cP5dTeT4vRD) | [Mukhtleef](https://open.spotify.com/album/3jLdt9ofZOLlVrVJjsYWIn) | 2:07 | 2026-03-20 |  |
 | [Muqabla](https://open.spotify.com/track/3Q2cbK3cfrTihZVVkcmlBH) | [AP VERMA](https://open.spotify.com/artist/1UgmkXACbaDUudvFUKKyAM), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [Muqabla](https://open.spotify.com/album/4prYBTC2KsbXj4jEeD810p) | 2:31 | 2025-11-28 | 2025-12-06 |
 | [Muqabla](https://open.spotify.com/track/32ewgb2rlylsOi7SYJM0Ls) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U) | [THE MAN BEHIND DA SOUND](https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02) | 2:29 | 2025-09-12 | 2025-11-15 |
 | [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 | 2025-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,997 likes - 90 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,259 likes - 90 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 15 | [One More \(feat\. Ad\-Apt\) \- Solomun Remix](https://open.spotify.com/track/7hOwCb0vcnpNRBQUoI5smE) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Ad\-Apt](https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [One More \(feat\. Ad\-Apt\) \[Solomun Remix\]](https://open.spotify.com/album/0hWY6l251EFihf31JPnSbd) | 3:19 |
 | 16 | [Your Eyes](https://open.spotify.com/track/0vyhOBu5BuCLAJMhopKMxi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Your Eyes](https://open.spotify.com/album/1PA2eaAbwlNK7KUG3ALZag) | 2:58 |
 | 17 | [Spirits](https://open.spotify.com/track/0Jhh7Ul0es9xrXEOZeoSyq) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Spirits](https://open.spotify.com/album/2R5X7MxlPMmkYxPgYiO9Bq) | 6:58 |
-| 18 | [Track 3](https://open.spotify.com/track/0SMaY6UhBRT9ZVssKDNgbD) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [Don't You Want Me](https://open.spotify.com/album/2pnAHvAawempYm6OTAzLKb) | 0:00 |
+| 18 | [Don't You Want Me](https://open.spotify.com/track/0SMaY6UhBRT9ZVssKDNgbD) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [Don't You Want Me](https://open.spotify.com/album/2pnAHvAawempYm6OTAzLKb) | 3:20 |
 | 19 | [Towards Amber](https://open.spotify.com/track/1HpbPAxeb1Pu7cq1sdMNju) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Towards Amber](https://open.spotify.com/album/688Z9uNJeCvS99NbKH848H) | 3:18 |
 | 20 | [Crispy Pancakes](https://open.spotify.com/track/2BwKVfq5bkg7oalYGAxfmm) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Crispy Pancakes](https://open.spotify.com/album/3IbFm9W1TcJKKo8wAnD4Is) | 5:02 |
 | 21 | [Hype Is Not](https://open.spotify.com/track/2BJox6L7seHnTgywyq4V6U) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Janés](https://open.spotify.com/artist/1qdW98Ty11gZ7oQv2Za8GE) | [Hype Is Not](https://open.spotify.com/album/22SYm0N8F8EPADafjeDfBB) | 3:27 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 33 | [Cowbell Theory](https://open.spotify.com/track/2F4dWqyd2RQTiYGXfJiYQx) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Think Too Much](https://open.spotify.com/album/2g977jCRiBa0ACZzwc5gRD) | 3:30 |
 | 34 | [Eyes](https://open.spotify.com/track/1s05S16IHRywETBuSqtikS) | [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Eyes](https://open.spotify.com/album/033pMgFZwKa4U3NAy5vZGl) | 2:53 |
 | 35 | [In Berlin](https://open.spotify.com/track/6PYkcjJAUpkR3p4iM3RvaE) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [In Berlin](https://open.spotify.com/album/2xTlFb68oh7P3Uu2rD88hH) | 3:14 |
-| 36 | [Track 1](https://open.spotify.com/track/5gUOT0ksLDkPa8VZ4IX8fx) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Motto Panukeiku](https://open.spotify.com/album/6v0B8AOMCA5VBTd50jAxtH) | 0:00 |
+| 36 | [I Can](https://open.spotify.com/track/5gUOT0ksLDkPa8VZ4IX8fx) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Motto Panukeiku](https://open.spotify.com/album/6v0B8AOMCA5VBTd50jAxtH) | 5:36 |
 | 37 | [All Night](https://open.spotify.com/track/6vZ8FItwLIiGvqaHhuXmm6) | [TwoSlice](https://open.spotify.com/artist/7tjeiMlhaZh3n8VqyNcMG1) | [All Night](https://open.spotify.com/album/3gtklfCNL2ecbTwcnt3d4y) | 3:25 |
 | 38 | [Worldance](https://open.spotify.com/track/10mblP2dLksyNeBuiuQGjc) | [Konstantin Kobra](https://open.spotify.com/artist/3DrjwSO3TZCVxunzI4Uv4G) | [Worldance](https://open.spotify.com/album/4ovZhx88vLgbMlHG3jiRCC) | 6:57 |
 | 39 | [Lost my Phone](https://open.spotify.com/track/0DCiCJp3ctQtbtrcOSNjRH) | [Bauuhaus](https://open.spotify.com/artist/714ASd6Bh1MrconmnwE05c), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Lost my Phone](https://open.spotify.com/album/1vLxWomahHqhYY070LuCPj) | 3:21 |

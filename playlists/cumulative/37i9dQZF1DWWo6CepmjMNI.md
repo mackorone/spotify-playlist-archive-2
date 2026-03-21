@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YODSARUN
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Romancerr
 
-321 songs - 23 hr 1 min
+324 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [From Now On](https://open.spotify.com/track/2CGjGKiz7HdaqOKLR4jE75) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [From Now On](https://open.spotify.com/album/1RhnfelKFOeXpfGoTScAZm) | 3:51 | 2025-05-30 | 2025-10-25 |
 | [Good Time](https://open.spotify.com/track/1Anas6GRmSjoIkyjuntZgz) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [Good Time](https://open.spotify.com/album/0bfSQtsHLvUvLyoNQxPPHE) | 2:46 | 2025-05-30 | 2025-06-07 |
 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 | 2025-12-26 |  |
+| [Hallway](https://open.spotify.com/track/0kk4AZh6CwUvLUmlQ9XcJs) | [OK but no.](https://open.spotify.com/artist/5MFKZu8PvExV56orhdxPpA) | [Hallway](https://open.spotify.com/album/79R1zCiHRC7sjyV84VVGMg) | 3:23 | 2026-03-20 |  |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 | 2025-04-12 |
 | [IG](https://open.spotify.com/track/7Aepf1U1aEjhU4lhCmvqMz) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN), [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi) | [IG](https://open.spotify.com/album/3kt7j2BUwZ2FJRjCBZwdNH) | 3:32 | 2024-12-13 | 2025-05-17 |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
@@ -104,7 +105,7 @@
 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [FAHLITHH](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 | 2025-11-22 |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 | 2025-04-12 |
 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 | 2025-07-18 | 2026-02-07 |
-| [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 | 2025-08-08 |  |
+| [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 | 2025-08-08 | 2026-03-21 |
 | [จนลืมไปว่าฉัน..](https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp) | [Goofy Glasses](https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo) | [จนลืมไปว่าฉัน..](https://open.spotify.com/album/7wUz4TmoPNUbgnwkDiSqld) | 5:05 | 2025-07-18 | 2025-07-26 |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 | 2025-12-07 |  |
@@ -118,6 +119,7 @@
 | [ฉันไปก่อนนะ](https://open.spotify.com/track/58JgBWjZ7LWInfdMyLXBFt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ฉันไปก่อนนะ](https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk) | 3:57 | 2025-12-26 |  |
 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 | 2025-09-19 | 2026-01-24 |
 | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/track/1Q74VWWMSq4CU30yUQdFdd) | [A Irynn](https://open.spotify.com/artist/1Eyb60kL2vSZ7OAxygY9Xt) | [ช่อดอกไม้ที่เคยให้ไปเธอยังเก็บไว้รึเปล่า ? \( Gypsophila \)](https://open.spotify.com/album/49s5RFPDHJLLfMeCyFXs0w) | 5:08 | 2024-06-21 | 2025-04-19 |
+| [ช่างแม่ง](https://open.spotify.com/track/0UlZvGO3AsBbbtTMFH23xt) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ช่างแม่ง](https://open.spotify.com/album/74dkJju7FCX1N9cWGdk7jU) | 3:09 | 2026-03-20 |  |
 | [ซีเอฟ](https://open.spotify.com/track/7dD8rm1LPBoOiZQNhIvJXW) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ซีเอฟ](https://open.spotify.com/album/3xxQkoGktZRmwdbozuV77G) | 3:12 | 2024-12-13 | 2024-12-27 |
 | [ซึนๆ \(Let You Know\)](https://open.spotify.com/track/4nTArnXQvyGRlDuMsYwHe7) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [ซึนๆ \(Let You Know\)](https://open.spotify.com/album/6Mnj1vp3WTivasKVxAxFTK) | 4:49 | 2025-02-28 | 2025-06-07 |
 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 | 2024-06-21 | 2025-08-16 |
@@ -223,12 +225,12 @@
 | [วิวา\(ท์\)](https://open.spotify.com/track/4Fs2GKXQGTcTp1fYKUEzLl) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [วิวา\(ท์\) \- Single](https://open.spotify.com/album/3N9k496GsV3jsN1SsaNJzk) | 5:43 | 2024-12-13 | 2025-03-08 |
 | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ) | [Banana Jogging](https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W) | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb) | 3:48 | 2024-08-02 | 2024-08-10 |
 | [ศิลา](https://open.spotify.com/track/4uEseTRbyK8FRr3rcICkUs) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ศิลา](https://open.spotify.com/album/2G5ZqHoCuWtnwWOhWbUH6N) | 3:07 | 2025-09-05 | 2025-09-20 |
-| [สบสายตา \(Your Eyes\)](https://open.spotify.com/track/5wN67YVsTI4xFWddtmCaEU) | [TOR.NUETUN](https://open.spotify.com/artist/6Vr9XDktpy7W5S3NhSmcpq) | [สบสายตา \(Your Eyes\)](https://open.spotify.com/album/6Fr4UeZWQugS5g31UPm9WS) | 5:03 | 2025-08-15 |  |
+| [สบสายตา \(Your Eyes\)](https://open.spotify.com/track/5wN67YVsTI4xFWddtmCaEU) | [TOR.NUETUN](https://open.spotify.com/artist/6Vr9XDktpy7W5S3NhSmcpq) | [สบสายตา \(Your Eyes\)](https://open.spotify.com/album/6Fr4UeZWQugS5g31UPm9WS) | 5:03 | 2025-08-15 | 2026-03-21 |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 | 2025-07-19 |
 | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 | 2025-12-07 |  |
 | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/track/5PwxUIurBN6rV4DTfaVyYx) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX), [WHATFALSE\)](https://open.spotify.com/artist/1oKUUKTRXdkOTRnVRlwuRh) | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz) | 3:59 | 2025-08-15 | 2025-09-06 |
 | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/track/4MnxhyBNVUdMwggVokRXIZ) | [TheBiirthdayParty](https://open.spotify.com/artist/1IPO4PYOEO6Hr1YRlPKQlG) | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/album/3cztb7psWsq1ZLZfTkjJaj) | 4:22 | 2025-05-02 | 2025-06-07 |
-| [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/track/1xGURnhUkIJHaY4G2CScwG) | [underclover](https://open.spotify.com/artist/3Dfp9lzmRW72AZYzj5TNWi) | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/album/0Ngt6F1MfLL2KPO0DcZIiS) | 3:48 | 2026-02-27 |  |
+| [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/track/1xGURnhUkIJHaY4G2CScwG) | [underclover](https://open.spotify.com/artist/3Dfp9lzmRW72AZYzj5TNWi) | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/album/0Ngt6F1MfLL2KPO0DcZIiS) | 3:48 | 2026-02-27 | 2026-03-21 |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 | 2024-06-21 | 2025-12-08 |
 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 | 2025-10-03 | 2026-03-10 |
 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-06-21 | 2025-12-27 |
@@ -328,6 +330,7 @@
 | [ไม่เหมือนก่อน](https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ไม่เหมือนก่อน](https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD) | 4:14 | 2024-08-23 | 2024-09-14 |
 | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 | 2025-08-29 | 2025-10-11 |
 | [ไม่ใช่เธอ](https://open.spotify.com/track/2nCxgWqc37RCo5cb9XsCHz) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ไม่ใช่เธอ](https://open.spotify.com/album/6M71hcGd6ZEnW9yOfohxQO) | 4:18 | 2025-09-12 |  |
+| [ไร้ซึ่งสิ่งใด ให้จดจำ \(Injured\)](https://open.spotify.com/track/4EE9RLGDSwAZbPkU2hfckb) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [Unfading Remnants](https://open.spotify.com/album/5Jlz2xfNbWtban1W0h6Q0h) | 7:02 | 2026-03-20 |  |
 | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/track/30N3J1PS11FD22EqfGCG7u) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/album/1HXHxpuTDuxsRlw2tg9xyF) | 4:43 | 2025-05-02 | 2025-05-31 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

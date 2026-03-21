@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 402733,
+  "num_followers": 402791,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Le Meilleur De",
-        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
-      },
-      "artists": [
-        {
-          "name": "Pierre Bachelet",
-          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
-        }
-      ],
-      "duration_ms": 327293,
-      "name": "En l'an 2001",
-      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Tropique",
         "url": "https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 212002,
       "name": "Tropique",
       "url": "https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Le Meilleur De",
+        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
+      },
+      "artists": [
+        {
+          "name": "Pierre Bachelet",
+          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
+        }
+      ],
+      "duration_ms": 327293,
+      "name": "En l'an 2001",
+      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
     },
     {
       "added_at": "2025-12-29 17:53:07",

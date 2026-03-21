@@ -2,9 +2,9 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Amabbi, YOÙN
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah, Duquesa
 
-336 songs - 17 hr 19 min
+337 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [sexysong.mp3](https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Arcanjo Beat](https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V) | [sexysong.mp3](https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52) | 2:17 | 2025-01-24 | 2025-06-13 |
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-03-24 | 2023-04-24 |
 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 | 2022-11-18 | 2023-03-23 |
-| [Show Me](https://open.spotify.com/track/1me0iqZisa4wHvkUkuxT01) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Y2K SEASON](https://open.spotify.com/album/5ox3AjAL62e9WVlb5YUsnx) | 2:49 | 2026-03-02 |  |
+| [Show Me](https://open.spotify.com/track/1me0iqZisa4wHvkUkuxT01) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Y2K SEASON](https://open.spotify.com/album/5ox3AjAL62e9WVlb5YUsnx) | 2:49 | 2026-03-02 | 2026-03-21 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-11-18 | 2024-02-03 |
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2022-11-18 | 2025-02-15 |
 | [Sinta\-me \(senta em mim\)](https://open.spotify.com/track/4VfNLTHVzGnFVJi9aDblOm) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Sinta\-me \(senta em mim\)](https://open.spotify.com/album/7nqC8eBOULlhZFSjx3YabB) | 2:20 | 2023-12-04 | 2024-03-23 |
@@ -335,6 +335,7 @@
 | [VIAJO](https://open.spotify.com/track/5b75hdsXdMeTgvyFvd6PRV) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [VIAJO](https://open.spotify.com/album/1x9EmDVZIOPbnJDDi90htI) | 3:50 | 2023-10-20 | 2023-11-18 |
 | [Victoria's Secrets](https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Gabriel Xan](https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm), [PTKA](https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej) | [Victoria's Secrets](https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM) | 3:01 | 2024-02-23 | 2024-09-28 |
 | [Vigésimo Andar](https://open.spotify.com/track/6v2AEuks4HqnGo4aiEhuxZ) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn) | [GARCIA](https://open.spotify.com/album/6QWmIGUIKxpMphCOQb5s6b) | 4:00 | 2023-03-31 | 2023-04-24 |
+| [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 | 2026-03-20 |  |
 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 | 2024-10-11 |  |
 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 | 2022-11-18 | 2024-04-06 |
 | [Volta Meu Amor](https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Relíquia](https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB) | 3:32 | 2026-01-23 |  |

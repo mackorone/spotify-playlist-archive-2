@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182827,
       "name": "Arrhythmia (I Hope You Stay)",
       "url": "https://open.spotify.com/track/3LWKxAy6NI10gwRnFXzVQu"
@@ -1941,6 +1941,28 @@
     },
     {
       "album": {
+        "name": "better than boston",
+        "url": "https://open.spotify.com/album/50wNaA4LXZixUhA6ZimAtT"
+      },
+      "artists": [
+        {
+          "name": "Tom Siletto",
+          "url": "https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX"
+        },
+        {
+          "name": "Jacob Wright",
+          "url": "https://open.spotify.com/artist/656RL0KU0xje87H4lmHhP5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "better than boston",
+      "url": "https://open.spotify.com/track/16sywqrzc0JwIt3kJTjfEe"
+    },
+    {
+      "album": {
         "name": "Betting on Us",
         "url": "https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs"
       },
@@ -2740,7 +2762,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 300266,
       "name": "Burned It Down",
       "url": "https://open.spotify.com/track/4Yx1LIvWsBeZLKP1lPq95E"
@@ -3378,7 +3400,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204546,
       "name": "Chuck Palahniuk",
       "url": "https://open.spotify.com/track/5aa6ci3q6VWwMwqK4KktJr"
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 215524,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
@@ -4679,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Digital Girl",
+        "url": "https://open.spotify.com/album/7sTZXQHgiLUZBUBVrugT51"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh"
+    },
+    {
+      "album": {
         "name": "Gamma",
         "url": "https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO"
       },
@@ -5114,6 +5154,24 @@
       "duration_ms": 196973,
       "name": "Don't You Give Up On Me Yet",
       "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
+    },
+    {
+      "album": {
+        "name": "Don't You Want It",
+        "url": "https://open.spotify.com/album/2pmmdA1tguqEryffvYds7n"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Kent",
+          "url": "https://open.spotify.com/artist/296NGRpJWhJMiY68OVtZiR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215539,
+      "name": "Don't You Want It",
+      "url": "https://open.spotify.com/track/0KZkkmRHUwZ7lVshbocwka"
     },
     {
       "album": {
@@ -8870,7 +8928,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 206897,
       "name": "How To",
       "url": "https://open.spotify.com/track/0Px2SR6GUNtBz6ZEqWKbWy"
@@ -9854,7 +9912,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200656,
       "name": "IMPLOSION",
       "url": "https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8"
@@ -11067,6 +11125,24 @@
     },
     {
       "album": {
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
+    },
+    {
+      "album": {
         "name": "Wiped Out! (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4Vl7pjtdrmtt425KSO0Qbl"
       },
@@ -11336,6 +11412,24 @@
       "duration_ms": 218564,
       "name": "Life Is Possible Again",
       "url": "https://open.spotify.com/track/5CIjV6RbFJbqXbIHr1tFap"
+    },
+    {
+      "album": {
+        "name": "Light as a Feather",
+        "url": "https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216637,
+      "name": "Light as a Feather",
+      "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
     },
     {
       "album": {
@@ -12795,6 +12889,28 @@
     },
     {
       "album": {
+        "name": "Bannatyne",
+        "url": "https://open.spotify.com/album/4g4JYEsyoAjoFtIL6MRFtm"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        },
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170948,
+      "name": "More Me With You (feat. Kathleen Edwards)",
+      "url": "https://open.spotify.com/track/6Inq8k2AU5P4Fo7CEtonpd"
+    },
+    {
+      "album": {
         "name": "More Than I Got",
         "url": "https://open.spotify.com/album/3KGn6UkcbzdH3gUqb4joN2"
       },
@@ -12954,6 +13070,24 @@
       "duration_ms": 201197,
       "name": "Mulholland's Dinner and Wine",
       "url": "https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY"
+    },
+    {
+      "album": {
+        "name": "My Baby's Place",
+        "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235006,
+      "name": "My Baby's Place",
+      "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
     },
     {
       "album": {
@@ -13874,7 +14008,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200738,
       "name": "Nutshell",
       "url": "https://open.spotify.com/track/0FyKdFGvBnJvrnoSHPdxAZ"
@@ -14264,6 +14398,24 @@
       "duration_ms": 162580,
       "name": "one day i'll forget",
       "url": "https://open.spotify.com/track/5Lr2NBdE3eBpzSdG9R0gWB"
+    },
+    {
+      "album": {
+        "name": "One Day In The Sun",
+        "url": "https://open.spotify.com/album/4UbdZwrUTUEQ35R3M9VHmo"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "One Day In The Sun",
+      "url": "https://open.spotify.com/track/4VQ8FRM06kQE1EH8mDoAO8"
     },
     {
       "album": {
@@ -14866,7 +15018,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176373,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0"
@@ -14884,7 +15036,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 167722,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/5Y4lT8lWahQ8rAjCgHVW0F"
@@ -16717,6 +16869,24 @@
     },
     {
       "album": {
+        "name": "Silver Springs (Live at Brixton Academy)",
+        "url": "https://open.spotify.com/album/2etGf71a0OUWfnfRSkeO3o"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258125,
+      "name": "Silver Springs - Live at Brixton Academy",
+      "url": "https://open.spotify.com/track/1fiWssJa2EUFvm2ObOQnxO"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/3bKtfLjiKRvxltAMah9ZhP"
       },
@@ -17258,7 +17428,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230175,
       "name": "SOS 2001",
       "url": "https://open.spotify.com/track/7izGUWUtK1kSKLIPPKO4fS"
@@ -19054,6 +19224,24 @@
       "duration_ms": 297787,
       "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
       "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "album": {
+        "name": "The Place",
+        "url": "https://open.spotify.com/album/5KsEdlAFKAjqSfOsu2exwh"
+      },
+      "artists": [
+        {
+          "name": "Close Kicks",
+          "url": "https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203421,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/2LRi0yPWdO4LDI0PmHNr9j"
     },
     {
       "album": {
@@ -21029,6 +21217,24 @@
     },
     {
       "album": {
+        "name": "Where's My Flowers",
+        "url": "https://open.spotify.com/album/1qJGPhjVcOFu6MHyHRiLJl"
+      },
+      "artists": [
+        {
+          "name": "Cuffing Season",
+          "url": "https://open.spotify.com/artist/13UHmCCPYpmQ8wK7NTiTI5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229534,
+      "name": "Where's My Flowers",
+      "url": "https://open.spotify.com/track/08SDDoBzPXKdy8iCMj9cIw"
+    },
+    {
+      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
       },
@@ -21412,7 +21618,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158320,
       "name": "yeah right!",
       "url": "https://open.spotify.com/track/3Kh0aonT2nynvQeJtRm30p"

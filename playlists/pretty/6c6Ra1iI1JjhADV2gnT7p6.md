@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,849 likes - 504 songs - 1 day 4 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,854 likes - 504 songs - 1 day 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,8 +406,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 396 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
 | 397 | [Thinking of You](https://open.spotify.com/track/7cUZ3YkpKNqjUOY87qTGWb) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Thinking of You](https://open.spotify.com/album/254NzQAXPkatkE73jDeOz8) | 5:23 |
 | 398 | [Deadlift](https://open.spotify.com/track/2z8aRXBy1B7iexJLLQ876Q) | [Stuck](https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a) | [Deadlift](https://open.spotify.com/album/4eyraPUcpeMpWVBevvQx1H) | 3:45 |
-| 399 | [Four](https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Four](https://open.spotify.com/album/58N5E4VQs8F3KuhPFBOf9Y) | 2:44 |
-| 400 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 |
+| 399 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 |
+| 400 | [Four](https://open.spotify.com/track/3aSRXoNXPDMafKcQb4Y6GA) | [Meghan and Marcy](https://open.spotify.com/artist/7MA4iwd4DSsi4vIONkJ2dq) | [Four](https://open.spotify.com/album/58N5E4VQs8F3KuhPFBOf9Y) | 2:44 |
 | 401 | [I Want Him To Love Me](https://open.spotify.com/track/7hsHgvBdh5ZRGrvXiRuH6L) | [Natalia Catalan](https://open.spotify.com/artist/2lm3zh84fR5TSKfSRt44N4), [Also Now](https://open.spotify.com/artist/28IvTpsjVn7sC0piQGqQO7) | [Die Without Makeup](https://open.spotify.com/album/0F0ewfGXJqK14oZ2JZnhTQ) | 2:46 |
 | 402 | [Snowrabbit](https://open.spotify.com/track/3glfqV4PtTGZ15TbkKlgmT) | [Ty Glycerine](https://open.spotify.com/artist/5f06dYPNPAO2ylkq4GmqXN) | [Snowrabbit/Deer](https://open.spotify.com/album/1VaLkDw5DuZvex0yzo36B2) | 3:15 |
 | 403 | [What I Aim For](https://open.spotify.com/track/7hMsmmDX2KpiGMNkRyX1B4) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [What I Aim For](https://open.spotify.com/album/1QgofWqHlzxDtpeVVnjLYT) | 3:57 |
@@ -513,4 +513,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 503 | [Stardust in my Blood](https://open.spotify.com/track/6krAqd5MbY5oQguzbE1TRi) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Stardust in my Blood](https://open.spotify.com/album/2CDAzfAS5CxddLFYfbbZ6J) | 2:37 |
 | 504 | [over n' out](https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 4:28 |
 
-Snapshot ID: `AAAyrEzeEk4Z0mOFIsp1Fd8NijNpQOsi`
+Snapshot ID: `AAAyr+OC2aA42wtPM/HhdEAsPwT+fvkx`

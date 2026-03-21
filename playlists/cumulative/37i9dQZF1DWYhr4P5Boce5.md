@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-308 songs - 17 hr 21 min
+309 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Known](https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:18 | 2020-04-17 | 2025-09-15 |
 | [Kundi](https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Kundi](https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q) | 3:06 | 2024-02-03 | 2024-07-18 |
 | [L O V E](https://open.spotify.com/track/5d12KzbM8Kwogo2Bx4sdDH) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [L O V E](https://open.spotify.com/album/3ZjaMgxjNrGZITppbnZnHK) | 3:04 | 2024-02-03 | 2024-07-18 |
-| [L2ML](https://open.spotify.com/track/6q8AwQ8TIEOONpdRPKHWYc) | [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq), [Steve Means](https://open.spotify.com/artist/5XAz4A2Lmysd8jjaafNy5a), [Brandi Grimsley](https://open.spotify.com/artist/1P67rwHBWsLB6sldz1mCFq) | [L2ML](https://open.spotify.com/album/6hD4LkWEPi7SVdkvYN9Waw) | 3:51 | 2026-02-13 |  |
+| [L2ML](https://open.spotify.com/track/6q8AwQ8TIEOONpdRPKHWYc) | [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq), [Steve Means](https://open.spotify.com/artist/5XAz4A2Lmysd8jjaafNy5a), [Brandi Grimsley](https://open.spotify.com/artist/1P67rwHBWsLB6sldz1mCFq) | [L2ML](https://open.spotify.com/album/6hD4LkWEPi7SVdkvYN9Waw) | 3:51 | 2026-02-13 | 2026-03-21 |
 | [Laughter In The Rain](https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Let Me Be There](https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW) | 3:05 | 2024-02-03 | 2026-02-17 |
 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 | 2020-04-17 | 2025-09-15 |
 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 | 2020-04-17 | 2024-04-19 |
@@ -213,6 +213,7 @@
 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 3:52 | 2023-01-31 | 2023-12-25 |
 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 | 2023-01-31 | 2024-07-18 |
 | [OMM \(On My Mind\) \[Remix\]](https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Church Girls Love R&B \- Girls Trip ll](https://open.spotify.com/album/6v5VS3app0uhJ8NLXuZ0jY) | 4:35 | 2024-02-03 | 2025-01-23 |
+| [On This Special Day \(Wedding Song\)](https://open.spotify.com/track/1mwVdUrh672eGb7rxnxgfm) | [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Love Songs](https://open.spotify.com/album/5v7DRYCe759w9lZ6zHN2Tt) | 3:05 | 2026-02-13 |  |
 | [Only One](https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [NF](https://open.spotify.com/album/2cMXPk9NsWWnawWxa3SSUf) | 3:34 | 2020-04-17 | 2025-09-15 |
 | [Only Time Will Tell](https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Only Time Will Tell](https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG) | 3:18 | 2024-02-03 |  |
 | [oxygen](https://open.spotify.com/track/5l7n3eYehOySHFCHGevIMz) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [oxygen](https://open.spotify.com/album/40FxlXi5FH0r5q3Wz0F8a1) | 2:53 | 2025-02-07 |  |

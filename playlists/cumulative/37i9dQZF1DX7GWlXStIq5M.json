@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Bia Marques",
   "name": "Palco POP",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187370,
       "name": "Ainda N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/5VeiOt8ht6Itb2gGXkI9zH"
@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "Balelo",
+        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170234,
+      "name": "Balelo",
+      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
+    },
+    {
+      "album": {
         "name": "i am > i was (Deluxe)",
         "url": "https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 145237,
       "name": "Body Splash",
       "url": "https://open.spotify.com/track/04z79Yu5AMvCcxqZYJnmVf"
@@ -5857,6 +5875,28 @@
     },
     {
       "album": {
+        "name": "Descomplica",
+        "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Descomplica",
+      "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
+    },
+    {
+      "album": {
         "name": "Desculpa por Eu N\u00e3o Te Amar",
         "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
       },
@@ -6754,7 +6794,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
@@ -7259,6 +7299,32 @@
     },
     {
       "album": {
+        "name": "ESTA\u00c7\u00c3O DO PRAZER",
+        "url": "https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        },
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171967,
+      "name": "ESTA\u00c7\u00c3O DO PRAZER",
+      "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
+    },
+    {
+      "album": {
         "name": "Estoy Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy"
       },
@@ -7332,6 +7398,24 @@
       "duration_ms": 200735,
       "name": "Eu Fim, Voc\u00ea In\u00edcio",
       "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
+    },
+    {
+      "album": {
+        "name": "Clube dos Cora\u00e7\u00f5es Partidos",
+        "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170286,
+      "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
+      "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
     },
     {
       "album": {
@@ -7731,6 +7815,28 @@
     },
     {
       "album": {
+        "name": "Solst\u00edcio",
+        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "FAL",
+      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
+    },
+    {
+      "album": {
         "name": "FALA NA CARA",
         "url": "https://open.spotify.com/album/141aZTogq1HRsyvY9sYgNB"
       },
@@ -7920,7 +8026,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151000,
       "name": "Favorita",
       "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
@@ -12172,7 +12278,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 193024,
       "name": "Menina",
       "url": "https://open.spotify.com/track/74rKZCFQ8WHl75VeDaCSFW"
@@ -13667,6 +13773,24 @@
     },
     {
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "album": {
         "name": "Acr\u00f4nico",
         "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
       },
@@ -14448,7 +14572,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 212541,
       "name": "O que \u00e9 amar?",
       "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
@@ -17486,7 +17610,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 160016,
       "name": "Quase",
       "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
@@ -22856,6 +22980,28 @@
       "duration_ms": 162063,
       "name": "Vida Melhor",
       "url": "https://open.spotify.com/track/5M7lhKC3A4k50x2cQMfzCt"
+    },
+    {
+      "album": {
+        "name": "Vida N\u00e3o Termina",
+        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Serena",
+          "url": "https://open.spotify.com/artist/1QqxEX3S0mKAPLNKX7rI0D"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Vida N\u00e3o Termina",
+      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
     },
     {
       "album": {

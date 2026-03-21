@@ -2565,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "dontwakemeup (feat. Veronica Bravo)",
+      "url": "https://open.spotify.com/track/3iWpeNTnY5JdsPAXWk5Q9r"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
         "url": "https://open.spotify.com/album/2Zm55SQeHeeK2fK9UBJlrE"
       },
@@ -3916,6 +3938,28 @@
       "duration_ms": 191015,
       "name": "Get Lower",
       "url": "https://open.spotify.com/track/7xKmcNxk4wF03Xpc4oIXbg"
+    },
+    {
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Rill\u00f8",
+          "url": "https://open.spotify.com/artist/0aOit3KOQPUrEAgvR7Rb6K"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146404,
+      "name": "getmehigh (feat. Rill\u00f8)",
+      "url": "https://open.spotify.com/track/3R4brNSVGHCLwJNB71xrzc"
     },
     {
       "album": {
@@ -10985,6 +11029,28 @@
     },
     {
       "album": {
+        "name": "Vividly (feat. Emily Falvey)",
+        "url": "https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX"
+      },
+      "artists": [
+        {
+          "name": "Kouss",
+          "url": "https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Vividly",
+      "url": "https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL"
+    },
+    {
+      "album": {
         "name": "Voice In My Head (feat. Makayla Phillips)",
         "url": "https://open.spotify.com/album/2bpkmpcuEiuFHRLkXr8ecP"
       },
@@ -11716,6 +11782,28 @@
       "duration_ms": 216377,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/0bWyzjcqn3kn1l6VSgZg5W"
+    },
+    {
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "youshouldknow (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE"
     }
   ],
   "url": "https://open.spotify.com/playlist/6Gp3E89xD6vRQtuAKFizMo"

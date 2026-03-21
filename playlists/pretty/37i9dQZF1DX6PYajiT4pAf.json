@@ -1,12 +1,12 @@
 {
   "description": "Cano, Quevedo, Maluma, TINI, Ginebras y el resto de novedades de la semana.",
-  "num_followers": 395620,
+  "num_followers": 396203,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/y7DF86owCgVV9WOcFadELvdc7",
+  "snapshot_id": "AAAAAEE7LXst0eWlg1AO4wUV4zOwHshK",
   "tracks": [
     {
       "added_at": "2026-03-19 23:01:10",
@@ -179,7 +179,7 @@
     {
       "added_at": "2026-03-19 23:01:10",
       "album": {
-        "name": "Pongo",
+        "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
       "artists": [
@@ -197,7 +197,7 @@
         }
       ],
       "duration_ms": 189197,
-      "name": "Pongo",
+      "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
@@ -568,8 +568,8 @@
           "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 268301,
+      "name": "Henko",
       "url": "https://open.spotify.com/track/3ArRlqj3X7FJ4hfnJX68AF"
     },
     {
@@ -787,6 +787,30 @@
       "duration_ms": 199431,
       "name": "Pr\u00f3fugo",
       "url": "https://open.spotify.com/track/3btRmr3aelAXhpc2EC2EYp"
+    },
+    {
+      "added_at": "2026-03-19 23:01:10",
+      "album": {
+        "name": "VOY A DISPARARME",
+        "url": "https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "duration_ms": 194068,
+      "name": "VOY A DISPARARME",
+      "url": "https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u"
     },
     {
       "added_at": "2026-03-19 23:01:10",
@@ -1091,26 +1115,6 @@
       "duration_ms": 236859,
       "name": "Aquella Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4NZEPHNOdRoA6FmYuj5Duq"
-    },
-    {
-      "added_at": "2026-03-19 23:01:10",
-      "album": {
-        "name": "Sol de Invierno",
-        "url": "https://open.spotify.com/album/0cPEcXnl03idJ2MRbaOxfS"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Koi",
-          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
-        },
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Choque de planetas",
-      "url": "https://open.spotify.com/track/3IinvjlAcKYWREnHZaUSco"
     },
     {
       "added_at": "2026-03-19 23:01:10",

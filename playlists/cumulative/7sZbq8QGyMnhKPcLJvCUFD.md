@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-838 songs - 1 day 17 hr 36 min
+839 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Psycho](https://open.spotify.com/track/7AZsMkUwu9wgz2yA78a9oU) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Psycho](https://open.spotify.com/album/6N3jKknronDaQoRKwC8Pcd) | 2:51 | 2023-02-10 | 2023-08-10 |
 | [Psycho](https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Psycho](https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ) | 2:30 | 2022-12-13 | 2023-04-28 |
 | [PSYCHOPATHIC](https://open.spotify.com/track/4AnxczKtQaEjTO4fQpOdXd) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PSYCHOPATHIC](https://open.spotify.com/album/4vnHN3hA7BbQ7KUAafUG03) | 2:28 | 2023-03-16 | 2023-08-10 |
+| [Pull Me Down](https://open.spotify.com/track/3ysFjthEQXXmFsf2CHYt2o) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [TAME](https://open.spotify.com/artist/4XVJFkO6gIO0LfchyJnP1r) | [Pull Me Down](https://open.spotify.com/album/1szGUtIYKcUTupTyAlKSvg) | 2:06 | 2026-03-20 |  |
 | [Pull Me In](https://open.spotify.com/track/3kzTOXSZOoaxb1n7dmGUPb) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [Pull Me In](https://open.spotify.com/album/7whVHAQ5t4SH2a0EkvxyyW) | 2:28 | 2024-01-19 | 2024-08-28 |
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 | 2023-08-10 |
 | [Pump Up The Bassline](https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Pump Up The Bassline](https://open.spotify.com/album/3nQUY6Rx481Ilrha2JiiXT) | 2:42 | 2024-08-16 |  |

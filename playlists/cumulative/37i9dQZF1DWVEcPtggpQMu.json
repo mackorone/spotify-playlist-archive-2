@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Nasty C",
+  "description": "Only the hottest South African rap. \nCover: Lucasraps",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162810,
       "name": "Bao Jela",
       "url": "https://open.spotify.com/track/5EmX6xa3oDcSD2jSrfXvUc"
@@ -22878,6 +22878,28 @@
       "duration_ms": 137420,
       "name": "Wanita",
       "url": "https://open.spotify.com/track/6awKlZneJTsXjwABSl1L4W"
+    },
+    {
+      "album": {
+        "name": "Y.O.G",
+        "url": "https://open.spotify.com/album/1ceNEIBecRZ4Bff2VG4DiF"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Ca$h Khali",
+          "url": "https://open.spotify.com/artist/0Gs5hrEypi3Ep1UCOfXuSY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209471,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/2NkCVhOVnaWw6w2ZoO9H0J"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Celebrating 5 Years of EQUAL ! 慶祝 EQUAL 五週年！\(cover: Sammi Cheung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,181 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

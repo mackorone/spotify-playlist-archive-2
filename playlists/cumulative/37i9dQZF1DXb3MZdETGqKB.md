@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-349 songs - 20 hr 30 min
+350 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 to the Power](https://open.spotify.com/track/6hUN9ySJPJduHJKNB9ut0t) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [10 to the Power](https://open.spotify.com/album/0AKBLE99drUHK0BykqKNRh) | 4:01 | 2024-06-07 |  |
 | [1972](https://open.spotify.com/track/32X3sf3uRuASTVyb3u2E0p) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [1972](https://open.spotify.com/album/2cAtlM1eIoFTV0iWMpylP3) | 2:48 | 2024-07-26 |  |
 | [3AM in Chicago](https://open.spotify.com/track/5ojFJM8fhqK1Ktg69bPmPt) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [3AM in Chicago](https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe) | 3:36 | 2021-05-07 | 2022-05-07 |
+| [6ft Under](https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [6ft Under](https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX) | 3:30 | 2026-03-20 |  |
 | [Addicted to Love](https://open.spotify.com/track/3Ot7pqZT74FflRhh1gjk33) | [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Addicted to Love](https://open.spotify.com/album/3IV1eBk52yhSdjCDePphSI) | 4:28 | 2023-03-24 | 2024-03-23 |
 | [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 | 2022-10-22 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 | 2023-03-25 |

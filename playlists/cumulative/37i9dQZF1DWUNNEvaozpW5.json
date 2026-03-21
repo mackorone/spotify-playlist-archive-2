@@ -8081,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Lo mejor de m\u00ed",
+        "url": "https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ"
+      },
+      "artists": [
+        {
+          "name": "Revolver",
+          "url": "https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270336,
+      "name": "Lo mejor de m\u00ed",
+      "url": "https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm"
+    },
+    {
+      "album": {
         "name": "Lo que nunca te dije",
         "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
       },
@@ -10268,7 +10286,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 213640,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz"

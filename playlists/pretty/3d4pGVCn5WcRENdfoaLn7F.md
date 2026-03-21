@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 574 likes - 73 songs - 4 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 578 likes - 77 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 71 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
 | 72 | [50/50](https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Day Dreamer Night Thinker](https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB) | 4:14 |
 | 73 | [Quiet selfish man](https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Hana Pavšič](https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc) | [Quiet selfish man](https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q) | 3:55 |
+| 74 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 |
+| 75 | [GROWING](https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN) | 2:49 |
+| 76 | [She the one](https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB) | [Revelt](https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk) | [She the one](https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz) | 3:33 |
+| 77 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 |
 
-Snapshot ID: `AAAC/u0UWsRuHmdZUBcZ5Actt9FIbg6Z`
+Snapshot ID: `AAADAhxRy6CkmfkdR0zGSjUraA4ZTjkJ`

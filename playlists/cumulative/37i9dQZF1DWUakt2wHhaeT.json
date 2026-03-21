@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Lea Michele in CHESS the Musical",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 222239,
       "name": "My Days",
       "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
@@ -2636,6 +2636,28 @@
       "duration_ms": 278345,
       "name": "No One (From the New Broadway Musical \"Hell's Kitchen\")",
       "url": "https://open.spotify.com/track/2olxF7NN4aArCeNSUsw2vO"
+    },
+    {
+      "album": {
+        "name": "Nobody\u2019s Side (CHESS the Musical)",
+        "url": "https://open.spotify.com/album/6vwKPBzBcdJmob9aiuK06K"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "CHESS 2025 Broadway Company",
+          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215399,
+      "name": "Nobody\u2019s Side (CHESS the Musical)",
+      "url": "https://open.spotify.com/track/6u2NMX3kxpMzhF2lrv5qLk"
     },
     {
       "album": {

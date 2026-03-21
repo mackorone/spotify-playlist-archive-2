@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Gabi Suarez, Day & Lara
 
-398 songs - 19 hr 0 min
+399 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Brincadeira Tem Hora \- Ao Vivo](https://open.spotify.com/track/3s7g0L2CklkdqBaptyagwe) | [João Henrique](https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Brincadeira Tem Hora \(Ao Vivo\)](https://open.spotify.com/album/3A44rX74CP1N4V3vmnUEGA) | 2:53 | 2025-11-28 | 2026-01-31 |
 | [Caco de Vidro](https://open.spotify.com/track/718jo7g3Nf7SEX0uTuBCud) | [Matheus e Lorenzo](https://open.spotify.com/artist/5rqO9153JGgFSJJzHXbKdt) | [Caco de Vidro](https://open.spotify.com/album/16reN9ouarIwOAMavSxS2i) | 3:10 | 2024-12-06 | 2025-05-31 |
 | [Cacos de Briga \- Ao Vivo](https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS) | [Hugo e Alex](https://open.spotify.com/artist/0BXcdgkVWzCQGKzQG3vbZf), [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Ao Vivo no Studio Bar, Vol.1](https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo) | 3:48 | 2026-01-30 |  |
+| [Cadeado No Dedo](https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0) | [Ruan e Davi](https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID) | [Cadeado No Dedo](https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R) | 2:05 | 2026-03-20 |  |
 | [Cadê Você?](https://open.spotify.com/track/2XjtqFgZx18W8Mq9pdH60n) | [Léo e Gian](https://open.spotify.com/artist/3fDm3CSdnifWUIUAG3N0kZ), [Rafael Quadros](https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b) | [Cadê Você?](https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ) | 2:30 | 2026-02-06 |  |
 | [Caipira Perdeu](https://open.spotify.com/track/2KB3I3fraQfikmyqfGu85L) | [João Pedro e André](https://open.spotify.com/artist/2xERhY1tR2Bvc557b1LPI1), [Augusto & Atílio](https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ) | [Caipira Perdeu](https://open.spotify.com/album/7D8mfc4HZVN6PSafP3Dr7r) | 2:35 | 2025-02-21 | 2025-08-23 |
 | [Cama de Garrafa \- Ao Vivo](https://open.spotify.com/track/21E5PK1XeGITc4uHtq7GTH) | [Dan Cândido e Matheus](https://open.spotify.com/artist/0Cyukljm6QFnyqXQpcmh58), [Open Mé](https://open.spotify.com/artist/4d8mFLou6DNSYDyXlO5NVo) | [Era Pra Ser Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/4wTTJa2muYLEkKlrIXRbVD) | 2:57 | 2025-08-15 | 2025-09-20 |

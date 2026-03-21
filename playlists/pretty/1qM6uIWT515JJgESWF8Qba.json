@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 374,
+  "num_followers": 377,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABVNUrlWeQEquXPMwF1eEXxJbONIoN",
+  "snapshot_id": "AAABZIiBecO/jEtiL5Vfrl4JklShkmIz",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7gehMNxHuuOZyMNBOmC0sr"
     },
     {
-      "added_at": "2026-03-11 01:56:20",
-      "album": {
-        "name": "This Is Hell",
-        "url": "https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB"
-      },
-      "artists": [
-        {
-          "name": "Social Dissonance",
-          "url": "https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Dissociate",
-      "url": "https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa"
-    },
-    {
       "added_at": "2026-02-04 00:19:22",
       "album": {
         "name": "Tell Me No Lies",
@@ -55,6 +39,22 @@
       "duration_ms": 214842,
       "name": "Tell Me No Lies - Single Edit",
       "url": "https://open.spotify.com/track/6CbrodR7Czvh2gOSzlheTw"
+    },
+    {
+      "added_at": "2026-03-11 01:56:20",
+      "album": {
+        "name": "This Is Hell",
+        "url": "https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB"
+      },
+      "artists": [
+        {
+          "name": "Social Dissonance",
+          "url": "https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Dissociate",
+      "url": "https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa"
     },
     {
       "added_at": "2026-01-17 02:48:19",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
-      "added_at": "2025-10-17 15:01:42",
-      "album": {
-        "name": "Diane (Demo Version)",
-        "url": "https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Doves",
-          "url": "https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Diane - Demo Version",
-      "url": "https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw"
-    },
-    {
       "added_at": "2025-10-02 22:03:25",
       "album": {
         "name": "Another Road",
@@ -157,38 +141,6 @@
       "url": "https://open.spotify.com/track/240unn2aJKGurliwi6lJF2"
     },
     {
-      "added_at": "2025-09-23 13:17:41",
-      "album": {
-        "name": "Eliza",
-        "url": "https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W"
-      },
-      "artists": [
-        {
-          "name": "If by Whiskey",
-          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ"
-    },
-    {
-      "added_at": "2025-11-05 22:36:16",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt"
-      },
-      "artists": [
-        {
-          "name": "sullivan grace band",
-          "url": "https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd"
-        }
-      ],
-      "duration_ms": 143289,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny"
-    },
-    {
       "added_at": "2025-09-23 13:33:28",
       "album": {
         "name": "Ribcrasher",
@@ -205,36 +157,20 @@
       "url": "https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW"
     },
     {
-      "added_at": "2025-09-08 22:07:23",
+      "added_at": "2025-11-04 03:00:38",
       "album": {
-        "name": "No Future",
-        "url": "https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g"
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b"
       },
       "artists": [
         {
-          "name": "Vagabond",
-          "url": "https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK"
+          "name": "Byron's Brigades",
+          "url": "https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf"
         }
       ],
-      "duration_ms": 192085,
-      "name": "Saville",
-      "url": "https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww"
-    },
-    {
-      "added_at": "2025-09-19 01:34:29",
-      "album": {
-        "name": "Little Flint Lighter",
-        "url": "https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Doves",
-          "url": "https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Little Flint Lighter - Single Version",
-      "url": "https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh"
+      "duration_ms": 186546,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2"
     },
     {
       "added_at": "2025-10-21 18:23:22",
@@ -253,22 +189,6 @@
       "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
-      "added_at": "2025-09-30 23:52:54",
-      "album": {
-        "name": "Ribcrasher",
-        "url": "https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK"
-      },
-      "artists": [
-        {
-          "name": "On-Off",
-          "url": "https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "It's Hard To Break Me",
-      "url": "https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy"
-    },
-    {
       "added_at": "2025-10-10 02:43:55",
       "album": {
         "name": "Hope",
@@ -283,22 +203,6 @@
       "duration_ms": 228048,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J"
-    },
-    {
-      "added_at": "2025-10-11 13:24:55",
-      "album": {
-        "name": "Esp\u00e9rame",
-        "url": "https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA"
-      },
-      "artists": [
-        {
-          "name": "Forte",
-          "url": "https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "Esp\u00e9rame",
-      "url": "https://open.spotify.com/track/02MC4VLfrsNdMcS4gwjph1"
     },
     {
       "added_at": "2025-10-13 14:50:43",
@@ -333,22 +237,6 @@
       "url": "https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw"
     },
     {
-      "added_at": "2025-10-23 15:09:27",
-      "album": {
-        "name": "Not Giving In",
-        "url": "https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr"
-      },
-      "artists": [
-        {
-          "name": "Ludwig Jonsson",
-          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
-        }
-      ],
-      "duration_ms": 154146,
-      "name": "Not Giving In",
-      "url": "https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk"
-    },
-    {
       "added_at": "2025-11-04 01:58:44",
       "album": {
         "name": "Borderline",
@@ -363,22 +251,6 @@
       "duration_ms": 304626,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/4jyWOoKSEY0zOTadmguLrL"
-    },
-    {
-      "added_at": "2025-11-04 03:00:38",
-      "album": {
-        "name": "My Favourite Game",
-        "url": "https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b"
-      },
-      "artists": [
-        {
-          "name": "Byron's Brigades",
-          "url": "https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2"
     },
     {
       "added_at": "2025-11-04 03:05:37",
@@ -555,22 +427,6 @@
       "duration_ms": 235328,
       "name": "Dancing on Fire",
       "url": "https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN"
-    },
-    {
-      "added_at": "2026-02-07 19:33:52",
-      "album": {
-        "name": "Stars Align",
-        "url": "https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S"
-      },
-      "artists": [
-        {
-          "name": "ToloV",
-          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Stars Align",
-      "url": "https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc"
     },
     {
       "added_at": "2026-02-07 19:35:53",
@@ -797,38 +653,6 @@
       "url": "https://open.spotify.com/track/4sKd8sVdwGOqQgOWTSuIsU"
     },
     {
-      "added_at": "2026-02-14 17:59:59",
-      "album": {
-        "name": "March",
-        "url": "https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP"
-      },
-      "artists": [
-        {
-          "name": "Crafty McVillain",
-          "url": "https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP"
-        }
-      ],
-      "duration_ms": 283317,
-      "name": "March",
-      "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
-    },
-    {
-      "added_at": "2026-02-15 17:49:39",
-      "album": {
-        "name": "LIVE IN LONDON",
-        "url": "https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg"
-      },
-      "artists": [
-        {
-          "name": "First Date Fuckers",
-          "url": "https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd"
-        }
-      ],
-      "duration_ms": 232112,
-      "name": "Hell Yeah! - Live",
-      "url": "https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH"
-    },
-    {
       "added_at": "2026-02-16 15:05:56",
       "album": {
         "name": "Extendead Play",
@@ -875,22 +699,6 @@
       "duration_ms": 247500,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/3XsQHlQKnZ9utK0vVpiUc3"
-    },
-    {
-      "added_at": "2026-02-19 03:09:02",
-      "album": {
-        "name": "Reformat",
-        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
-      },
-      "artists": [
-        {
-          "name": "Mumbler (UK)",
-          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "The Big Machine",
-      "url": "https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df"
     },
     {
       "added_at": "2026-02-24 14:40:47",
@@ -1163,6 +971,38 @@
       "duration_ms": 144016,
       "name": "Money Tied The Knot",
       "url": "https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp"
+    },
+    {
+      "added_at": "2026-03-20 01:54:28",
+      "album": {
+        "name": "Eco friendly",
+        "url": "https://open.spotify.com/album/4JD9UxKxUa3Ar8FaX0QvUq"
+      },
+      "artists": [
+        {
+          "name": "Protocolo Snob",
+          "url": "https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Eco friendly",
+      "url": "https://open.spotify.com/track/4ce7x8EqfVRzdw7keMoRgZ"
+    },
+    {
+      "added_at": "2026-03-20 02:22:00",
+      "album": {
+        "name": "Almas Crueles",
+        "url": "https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE"
+      },
+      "artists": [
+        {
+          "name": "MARSEYA",
+          "url": "https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "Almas Crueles",
+      "url": "https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo"
     }
   ],
   "unique_name": "Local Rock Bands",

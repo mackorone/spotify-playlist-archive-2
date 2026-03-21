@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Voices of Fire & Pharrell Williams",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: ADIA",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 231490,
       "name": "Farther Along",
       "url": "https://open.spotify.com/track/28nJK3tkruELKVNGSDoGnE"
@@ -5008,6 +5008,24 @@
       "duration_ms": 185626,
       "name": "He'll Make A Way",
       "url": "https://open.spotify.com/track/428lpTga5ToOTHHUq86y69"
+    },
+    {
+      "album": {
+        "name": "He'll Never Fail (Live in Atlanta)",
+        "url": "https://open.spotify.com/album/55PhlsxAh30smFnut4lf9B"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lewis & One Voice",
+          "url": "https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463370,
+      "name": "He'll Never Fail - Live in Atlanta",
+      "url": "https://open.spotify.com/track/37K4Q4KNXSAmpG22WeEFMa"
     },
     {
       "album": {
@@ -7751,6 +7769,28 @@
     },
     {
       "album": {
+        "name": "Just You Wait",
+        "url": "https://open.spotify.com/album/600Xk7fA5TfQqOlAXzkXQg"
+      },
+      "artists": [
+        {
+          "name": "Nia Allen",
+          "url": "https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg"
+        },
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Just You Wait",
+      "url": "https://open.spotify.com/track/00NMDqRarf5FuOQzzmYpjK"
+    },
+    {
+      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -10218,7 +10258,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151111,
       "name": "On The Way - Remix",
       "url": "https://open.spotify.com/track/3877TuPJ4HruNhvxBnC9Oy"

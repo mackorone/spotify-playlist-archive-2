@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,176 songs - 9 day 6 hr 21 min
+4,177 songs - 9 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1929,6 +1929,7 @@
 | [Karst](https://open.spotify.com/track/2kRsYGQkSzB6xRu6W8DJvb) | [OSSIFER](https://open.spotify.com/artist/7hpGCrRqtmaoDuQ98GKWdx) | [Karst](https://open.spotify.com/album/7doOzUTBMSiODNOZ4sF9wm) | 4:41 | 2025-04-26 |  |
 | [Kashmir \- Cover](https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 8:39 | 2025-08-27 |  |
 | [Keep It Up](https://open.spotify.com/track/0X8HKkjRUdBqIuSkP3hy1J) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Yungcrxss](https://open.spotify.com/artist/3fdZ6VcAI1XkiPnOUXeMdC), [Asaboy DaSupreme](https://open.spotify.com/artist/422fRoBCOIIxMMPW7rPy57) | [For Us By Us](https://open.spotify.com/album/4dV17FfYyYFFm9raWRvtR6) | 3:03 | 2025-06-04 |  |
+| [Keep Running](https://open.spotify.com/track/0l2EatGlh3Sk7IsAQnhvjd) | [The Vegas Pigeon's](https://open.spotify.com/artist/1j3fgTPoallIrXgGDdGNCY) | [Keep Running](https://open.spotify.com/album/25W4m4L0TVRuX12aWKobca) | 3:55 | 2026-03-20 |  |
 | [Keep Trying](https://open.spotify.com/track/4BfznS05suAGg6UwGqIcb6) | [Amortem](https://open.spotify.com/artist/2DnesP0vlm2v43MGARajda) | [Keep Trying](https://open.spotify.com/album/2rN4oEf6ZE7mKrIQKN8xZn) | 3:11 | 2025-12-23 |  |
 | [Khoon Aur Aansu \- Reprise](https://open.spotify.com/track/5N5xzvgPXksEaF6WJv6lik) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 4:06 | 2025-07-02 |  |
 | [KIAB](https://open.spotify.com/track/41SrMsuL85kzTSkgQC0sqC) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KIAB](https://open.spotify.com/album/15zi6UC7uuAOJmw8ZP04mG) | 1:50 | 2025-07-03 |  |

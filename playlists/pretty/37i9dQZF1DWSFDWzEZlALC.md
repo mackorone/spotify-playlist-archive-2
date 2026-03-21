@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,601 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,680 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 0:00 |
+| 1 | [wie lang geht das noch gut](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 2:24 |
 | 2 | [für immer ich](https://open.spotify.com/track/3kjTkxxw55Q9HY52RF1oTc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [für immer ich](https://open.spotify.com/album/1GdZG7Dd2GkAeJrVgqchMR) | 2:34 |
 | 3 | [ein Lied für mich](https://open.spotify.com/track/5Fsu0TrOztCwhpt0TXhY3M) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [ein Lied für mich](https://open.spotify.com/album/4r9HLxIb968I4FynItwxFj) | 2:05 |
 | 4 | [isok](https://open.spotify.com/track/0wcAReLwvaglm6ZbnfPS5s) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [isok](https://open.spotify.com/album/51RrSy9iaD7Fj7CdZVAnBP) | 2:17 |

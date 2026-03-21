@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Bad//Dreems
 
-572 songs - 1 day 9 hr 18 min
+572 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [NEW TATTOO](https://open.spotify.com/track/5azhtuDKm8YUNfeKsWloBK) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [SURVIVING THE DREAM \(DELUXE\)](https://open.spotify.com/album/3CDP7RZkWMjtjvmXTHWcQm) | 2:54 | 2025-03-13 | 2025-05-02 |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-04-09 | 2024-08-02 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-21 | 2025-01-17 |
+| [Night Shooting](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 4:18 | 2026-03-19 |  |
 | [Ninety Nine \(Go For Broke\)](https://open.spotify.com/track/3AuhfeALbFab4Fyyd3EdWQ) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine \(Go For Broke\)](https://open.spotify.com/album/4wRcyhF3sEUmwVGj8pc1DP) | 2:45 | 2024-05-30 | 2024-12-13 |
 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 | 2024-12-05 | 2025-03-21 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-30 | 2025-02-07 |
@@ -521,8 +522,6 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-22 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-11-15 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-10-02 | 2026-02-20 |
-| [Track 4](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 0:00 | 2026-03-19 |  |
-| [Track 5](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 0:00 | 2026-03-19 |  |
 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 | 2025-09-25 | 2025-11-21 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-17 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-23 | 2024-10-11 |
@@ -548,6 +547,7 @@
 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 | 2025-03-06 | 2025-05-23 |
 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 | 2025-05-08 | 2025-08-22 |
 | [Wake Me Up When September Ends \- Demo](https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- Becoming Who We Are\)](https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx) | 4:59 | 2024-09-05 | 2024-11-15 |
+| [Warzone](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 4:24 | 2026-03-19 |  |
 | [Wasted Days](https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Wasted Days](https://open.spotify.com/album/4CV0mSYKXJsLW8ZEfNZ04E) | 3:19 | 2024-12-12 | 2025-04-11 |
 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 | 2025-07-17 | 2025-07-25 |
 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 | 2024-08-02 |

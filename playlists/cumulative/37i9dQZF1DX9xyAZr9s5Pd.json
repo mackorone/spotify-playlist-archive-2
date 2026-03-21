@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Cambio de Piel",
+        "url": "https://open.spotify.com/album/0o7AxT8PzjkFRS0Z9qxXBC"
+      },
+      "artists": [
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/7zG21QuMjxgOsNDICOEVwt"
+    },
+    {
+      "album": {
         "name": "De Lo Que Nada Fue",
         "url": "https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b"
       },

@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-359 songs - 9 hr 35 min
+362 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Flowers](https://open.spotify.com/track/69KflGQ96XNvmR6eEQ2toT) | [Tom Eastman](https://open.spotify.com/artist/7KBkjudsZi65ojptsNCG13) | [Flowers](https://open.spotify.com/album/2NSPRHs9ZbnRA4obO84G8H) | 1:38 | 2025-09-26 |  |
 | [Flying](https://open.spotify.com/track/5ivEvbvH6B40OTa4cdoZKZ) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 1:52 | 2022-02-10 | 2024-04-04 |
 | [foambeard](https://open.spotify.com/track/5cgaOEkAcZOOGro5BDMojS) | [Lady Lou Lullabies](https://open.spotify.com/artist/5uwcJi6f4dZ5RDoStZKur0) | [Night Night](https://open.spotify.com/album/7aCxEylSl7Tw85xXr0ggTE) | 2:11 | 2023-09-08 |  |
+| [Forever My Baby](https://open.spotify.com/track/3cPW54aZM9soV1E0QhlG5g) | [John Sun](https://open.spotify.com/artist/36yHkkNhCvETGwQoFpA92c) | [Forever My Baby](https://open.spotify.com/album/02VmV75GOZe0eJtwEv1tkA) | 2:20 | 2026-03-20 |  |
 | [Give me sunshine](https://open.spotify.com/track/63q2eW7u4f8faDdP6brmvK) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Give me sunshine](https://open.spotify.com/album/0G9Nu1lqp0k3et1aNCC5gK) | 1:34 | 2023-12-08 | 2025-05-24 |
 | [Giver of All Dreams](https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:13 | 2022-02-10 | 2024-04-04 |
 | [Glimmering Night](https://open.spotify.com/track/4i1UMPjteHPOKcSuNpq8oC) | [Helike](https://open.spotify.com/artist/3EqRbbQlEglmQGw3p815YD) | [Glimmering Night](https://open.spotify.com/album/0QRTEBFk9CtzcNvFY9Zccs) | 2:38 | 2026-01-30 |  |
@@ -133,7 +134,7 @@
 | [Going on a trip](https://open.spotify.com/track/145u5e0k2ZlZwXOp8y2K4h) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:29 | 2022-05-17 | 2025-05-24 |
 | [Golden Butterflies](https://open.spotify.com/track/1yZiC7BHGd7K4RYWF5cuiI) | [Corall](https://open.spotify.com/artist/7qumeE7j7pkZXqSJRlnOAh) | [Golden Butterflies](https://open.spotify.com/album/4fBNZij3FIWPnSQLtceCpk) | 2:35 | 2025-11-21 |  |
 | [Golden Dust\-Musicbox](https://open.spotify.com/track/0uifpcR1fyjLRYOSTbZoM4) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [Golden Dust\-Musicbox](https://open.spotify.com/album/2C3fi67CKFnsULT2136KI1) | 1:59 | 2023-05-19 | 2024-07-19 |
-| [Goodnight](https://open.spotify.com/track/4514yczhgbgkqFCa3ymD8p) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [Goodnight](https://open.spotify.com/album/5TqLODQhMewEuehlgB8VYr) | 1:53 | 2023-11-17 |  |
+| [Goodnight](https://open.spotify.com/track/4514yczhgbgkqFCa3ymD8p) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [Goodnight](https://open.spotify.com/album/5TqLODQhMewEuehlgB8VYr) | 1:53 | 2023-11-17 | 2026-03-21 |
 | [Grandpa's Story](https://open.spotify.com/track/3QqrJEPHBoaONZFNNbcQ8s) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Grandpa's Story](https://open.spotify.com/album/4GcDQN8RFI7mtJJWSrn2O8) | 2:08 | 2024-04-19 | 2025-05-24 |
 | [Green leaves](https://open.spotify.com/track/2Guk1Dvoca5tVjhAwzSN4M) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Green leaves](https://open.spotify.com/album/4jCRi4CeDguEsFsRl2QEGs) | 1:40 | 2025-05-16 |  |
 | [Gummi Bears Theme](https://open.spotify.com/track/1eUWCcCRlDo2VaAgLIqixl) | [Lea Augustsson](https://open.spotify.com/artist/1vnsfcP0pbF43YhYn5Cbxg) | [Gummi Bears Theme](https://open.spotify.com/album/5zlnvcuy3Okz3j9w3TXu5Q) | 2:01 | 2025-07-27 |  |
@@ -180,6 +181,7 @@
 | [Little Heart](https://open.spotify.com/track/3K0lABNdCP95eTzwICGfV5) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Little Heart](https://open.spotify.com/album/54pD4s1Xyq0X5bh7rBJJSj) | 2:14 | 2025-11-21 |  |
 | [Little Lullaby](https://open.spotify.com/track/5mcW9Kskyti6BwovTEZjEY) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Little Lullaby](https://open.spotify.com/album/1Ir4aca1YgbbjlBdHw78W6) | 1:34 | 2025-07-27 | 2025-09-19 |
 | [Little Red Scarf](https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW) | [Bernie Toft](https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp) | [Little Red Scarf](https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG) | 1:27 | 2023-01-20 | 2024-07-13 |
+| [Little seeds](https://open.spotify.com/track/7xajTuoF0Ijwry7SuEeH41) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Little seeds](https://open.spotify.com/album/6OTJkdFWX5J4k6HPMhdaxq) | 3:02 | 2026-03-20 |  |
 | [London Bridge](https://open.spotify.com/track/2mZs2T1Db29O7RL82hul2u) | [Kilian Skoog](https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK) | [London Bridge](https://open.spotify.com/album/32phA7pyDzvVPFqzPGNOuJ) | 1:21 | 2022-07-29 |  |
 | [Lullaby Bells](https://open.spotify.com/track/4kWEbOE9mYbuNUxLgSGjyx) | [Julie Isabey](https://open.spotify.com/artist/3fRG2O4eMqo0d3ckUtokHZ) | [Lullaby Bells](https://open.spotify.com/album/43smgImfii7wObBKfPKBtB) | 2:29 | 2025-11-21 |  |
 | [Lullaby for a Birdling](https://open.spotify.com/track/6HwToS2AUnaGZsUW9Q1BN6) | [Arvid Rydén](https://open.spotify.com/artist/1IJcUNabCEStesPgmTVRDn) | [Lullaby for a Birdling](https://open.spotify.com/album/5ADtWYwsSlHszOLptY9AXk) | 1:37 | 2025-07-27 | 2025-09-27 |
@@ -211,7 +213,7 @@
 | [My Bonny is over the ocean](https://open.spotify.com/track/7ztbL1bA5mHNrxmFHJedkP) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Every Breath You Take](https://open.spotify.com/album/1OlKIxUf4J99nPCFVC6DMS) | 1:13 | 2023-03-16 | 2025-03-15 |
 | [My Dream](https://open.spotify.com/track/4vZgef3PS0jcTTYYBfcRj5) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [My Dream](https://open.spotify.com/album/6TEVwQyFgEcllIXemrNZbx) | 1:06 | 2022-11-25 |  |
 | [My Grandfather's Clock](https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG) | [Philip Stuart](https://open.spotify.com/artist/0jvpyMCQkgCjMtOUdd8RoJ) | [Girls and Boys Come Out to Play](https://open.spotify.com/album/22ytu5JUFTp0aBdzFuHd8v) | 3:24 | 2022-02-10 | 2023-01-20 |
-| [My Happy Place](https://open.spotify.com/track/5pJ9LzRXDRRYx1RRmKWVzZ) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [My Happy Place](https://open.spotify.com/album/7xp97KqWYacOdiReb6Bnrr) | 1:07 | 2025-03-14 |  |
+| [My Happy Place](https://open.spotify.com/track/5pJ9LzRXDRRYx1RRmKWVzZ) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [My Happy Place](https://open.spotify.com/album/7xp97KqWYacOdiReb6Bnrr) | 1:07 | 2025-03-14 | 2026-03-21 |
 | [My Hat has Three Edges](https://open.spotify.com/track/3f1rRIlBM4xRyrzrXSdQGl) | [Wilda Sigridsdottir](https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S) | [My Hat has Three Edges](https://open.spotify.com/album/6jVgiLNjnxq52CXJpfAu3Y) | 1:14 | 2024-02-09 | 2025-05-24 |
 | [My Kitty Cat Kate](https://open.spotify.com/track/2IRZ8zO4uCRUFsseRhGqLy) | [Selby Petersen](https://open.spotify.com/artist/5p2vvsASYdfPaCQ8ewBBJp) | [My Kitty Cat Kate](https://open.spotify.com/album/2H3NXQTp7cG4XtUqP3Qute) | 1:21 | 2022-02-10 | 2024-04-04 |
 | [My Little Bird](https://open.spotify.com/track/2ivqXqbed8qlUW890qqOiI) | [Sunny Sleep](https://open.spotify.com/artist/1FgjU1p0WJxHTLPxd1o7vi) | [My Little Bird](https://open.spotify.com/album/6vdt3oBzrPGWR8mPGJk948) | 1:18 | 2024-10-18 | 2025-02-01 |
@@ -282,7 +284,7 @@
 | [Starlight Carousel](https://open.spotify.com/track/3flZx4uvD4DEzBHzPGXrCI) | [Blunda](https://open.spotify.com/artist/3IuifOpglc1Ze3c6aFTAjH) | [Starlight Carousel](https://open.spotify.com/album/6vD3qSaHgYYrO9nvEW0WRa) | 2:10 | 2025-09-26 |  |
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 | 2025-02-01 |
 | [Stars Cuddling](https://open.spotify.com/track/46VaVaE0Ik3QhyJX36ZIGs) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Stars Cuddling](https://open.spotify.com/album/4dD9eDdsjDSHzqWcBNkag7) | 2:18 | 2024-06-20 | 2025-11-22 |
-| [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
+| [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 | 2026-03-21 |
 | [Storybook](https://open.spotify.com/track/3yPJpsAl7FIQ4AaDP5RQkr) | [Maria Gustavo](https://open.spotify.com/artist/0iTNrCJl7pHmoN50pTNL3t) | [Storybook](https://open.spotify.com/album/5hvuGvH0a6v5LntcX7HywG) | 1:51 | 2023-11-17 | 2025-05-24 |
 | [Summer Breeze](https://open.spotify.com/track/7wnDE54KPPU2orw1S3rIAP) | [Jasper Rose](https://open.spotify.com/artist/0BPUcozC2MjvitrABNOLId) | [Summer Breeze](https://open.spotify.com/album/6ynhDnqP1WVdmPzpaTQ1GV) | 1:40 | 2023-12-08 |  |
 | [Summer Rain](https://open.spotify.com/track/3udE933ntRGLaLWNo30vsF) | [Luke Foundland](https://open.spotify.com/artist/0leXKxlcmI6mMnY0AtMxJJ) | [Summer Rain](https://open.spotify.com/album/4KGMIGLtjHkIHgbQvG4PHh) | 1:18 | 2025-11-21 |  |
@@ -291,6 +293,7 @@
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 | 2024-04-04 |
 | [Sunny Slope](https://open.spotify.com/track/6y6v0UwqAF6rIHMorMzhKh) | [Mike Lusty](https://open.spotify.com/artist/5GBDVf1uHDtgMMogIxt8wo) | [Sunny Slope](https://open.spotify.com/album/412nFRM9lfbEAKNwaGFWzN) | 1:14 | 2023-06-08 | 2025-09-19 |
 | [Sunrise](https://open.spotify.com/track/4QIW0q7sXcyj8GpKECfqRx) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [Dawn to Dusk](https://open.spotify.com/album/0jslyyu2E866KnKJBHpAmF) | 2:19 | 2022-07-01 | 2025-07-28 |
+| [Sunrise](https://open.spotify.com/track/6WOLKVQkodAPIWPb3kTOKm) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [Sunrise](https://open.spotify.com/album/7Cq1gEaby0nExKaNblnmcP) | 1:55 | 2026-03-20 |  |
 | [Sunset](https://open.spotify.com/track/1EENlCQndVgWifmYILC8zI) | [Shania Dawes](https://open.spotify.com/artist/1kztaubebsodHyZE8jAVUo) | [Sunset](https://open.spotify.com/album/5h267Ia1lIEzcAcncdek9i) | 1:24 | 2022-02-10 | 2024-07-13 |
 | [Sunset Bird](https://open.spotify.com/track/7zipcgfMRftIkhGA9sDaZG) | [Sophie Amélie](https://open.spotify.com/artist/6Y0kBLpIF0wNkwrrVviWWF) | [Sunset Bird](https://open.spotify.com/album/7EkH8ysYbvNpA9Zt8Nzh8k) | 2:17 | 2025-09-26 |  |
 | [Sunset Dreams](https://open.spotify.com/track/1Xz6iQJctwyQqrsW7xUb7o) | [Emma Fredrikson](https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9) | [Sunset Dreams](https://open.spotify.com/album/5IUCv34ZLj2JtfRMCRYMcd) | 1:19 | 2022-02-10 | 2025-05-24 |

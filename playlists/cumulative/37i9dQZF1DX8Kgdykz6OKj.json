@@ -2135,6 +2135,32 @@
     },
     {
       "album": {
+        "name": "Chemistry Class",
+        "url": "https://open.spotify.com/album/3BbW1jCpNEvUFrCGVMthlf"
+      },
+      "artists": [
+        {
+          "name": "Imperetiv",
+          "url": "https://open.spotify.com/artist/2u7T9J34ICxUqpU3YppMbr"
+        },
+        {
+          "name": "Dnte",
+          "url": "https://open.spotify.com/artist/0nlmhM9h98UFAdb5GMUBV3"
+        },
+        {
+          "name": "Nowaah The Flood",
+          "url": "https://open.spotify.com/artist/0Qwnl88tMe74wX3F3t6tlb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185562,
+      "name": "Chemistry Class",
+      "url": "https://open.spotify.com/track/2X0LcQkXGJiUDSaAgl4EMA"
+    },
+    {
+      "album": {
         "name": "Anti-Capitalist Love Notes",
         "url": "https://open.spotify.com/album/2nDyVLM7bn1BAo51OXF02G"
       },
@@ -2538,6 +2564,40 @@
       "duration_ms": 122045,
       "name": "Crew",
       "url": "https://open.spotify.com/track/3NrZFobrgsd3F8CXmRYagi"
+    },
+    {
+      "album": {
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/2MzwwsScAKSXZk1HatdHvv"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        },
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219570,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH"
     },
     {
       "album": {
@@ -7920,7 +7980,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 216453,
       "name": "Out Of My Hands (feat. Oddisee)",
       "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
@@ -8856,7 +8916,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
@@ -11262,7 +11322,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
@@ -11416,6 +11476,32 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
+    },
+    {
+      "album": {
+        "name": "Hi Top Fade (Instrumentals)",
+        "url": "https://open.spotify.com/album/2BkkhYyVsxh2wAY8DUZ8oO"
+      },
+      "artists": [
+        {
+          "name": "The Cool Kids",
+          "url": "https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV"
+        },
+        {
+          "name": "Sir Michael Rocks",
+          "url": "https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx"
+        },
+        {
+          "name": "Chuck Inglish",
+          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157699,
+      "name": "We Got Clips - Instrumental",
+      "url": "https://open.spotify.com/track/2DcnhvTAS4ovTughtQrSAq"
     },
     {
       "album": {

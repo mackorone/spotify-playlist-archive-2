@@ -3769,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "FANTASMA",
+        "url": "https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It"
+      },
+      "artists": [
+        {
+          "name": "Wally",
+          "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178854,
+      "name": "PIJNSTILLER",
+      "url": "https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA"
+    },
+    {
+      "album": {
         "name": "Luvergirl",
         "url": "https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF"
       },
@@ -5004,24 +5022,6 @@
       "duration_ms": 167852,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD"
-    },
-    {
-      "album": {
-        "name": "FANTASMA",
-        "url": "https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It"
-      },
-      "artists": [
-        {
-          "name": "Wally",
-          "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA"
     },
     {
       "album": {

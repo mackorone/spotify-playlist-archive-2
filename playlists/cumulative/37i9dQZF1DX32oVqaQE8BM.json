@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151898,
       "name": "Battered",
       "url": "https://open.spotify.com/track/0bVNJhgKoLhA1vLof0fQWE"
@@ -6765,6 +6765,24 @@
     },
     {
       "album": {
+        "name": "laranja",
+        "url": "https://open.spotify.com/album/3fwDfnDeIDMokVYMlMTwl2"
+      },
+      "artists": [
+        {
+          "name": "chicomori",
+          "url": "https://open.spotify.com/artist/351nONPumeiqdjUXsXHrC9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157383,
+      "name": "laranja",
+      "url": "https://open.spotify.com/track/4addoXVO2pyCUsui07XFgF"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/5zoNdGXxKK3w0xYCOqTDHm"
       },
@@ -6938,7 +6956,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 137222,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/5MYBbDyh5KiGS2FzV26DDi"
@@ -9356,7 +9374,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 160695,
       "name": "Organics",
       "url": "https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH"
@@ -10530,7 +10548,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 141371,
       "name": "Roll of the Dice",
       "url": "https://open.spotify.com/track/5KkKA7dGxi8JD91B9qsAUV"
@@ -11815,6 +11833,24 @@
     },
     {
       "album": {
+        "name": "So Far Away",
+        "url": "https://open.spotify.com/album/3f3e4aXBI9W4xiWwiaYyZR"
+      },
+      "artists": [
+        {
+          "name": "The Swaying Journey",
+          "url": "https://open.spotify.com/artist/2dPZwnyzDg1XyjL15ftuqX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/3bm7nQnAcF0t4ztOe0Kmue"
+    },
+    {
+      "album": {
         "name": "So Nice To See You Again",
         "url": "https://open.spotify.com/album/4Fe0GXB85cjwyXiN8jEwit"
       },
@@ -11844,7 +11880,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 139636,
       "name": "So Orange",
       "url": "https://open.spotify.com/track/26F8Igr3GNeOxdfXDMqKP9"
@@ -12842,7 +12878,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162873,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/4I67jUUwYYCUS2F3TQ0Zpu"
@@ -12864,6 +12900,24 @@
       "duration_ms": 109714,
       "name": "tales of lofi",
       "url": "https://open.spotify.com/track/6eqxpWfMgix6kIBIARRKyL"
+    },
+    {
+      "album": {
+        "name": "tangerine",
+        "url": "https://open.spotify.com/album/39Xw18RsGz3d9EN8Jei2fg"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136424,
+      "name": "tangerine",
+      "url": "https://open.spotify.com/track/6IJ9v96Mexj1LnImwzzW3F"
     },
     {
       "album": {
@@ -12966,6 +13020,24 @@
       "duration_ms": 78782,
       "name": "Temples - Linearwave Remix",
       "url": "https://open.spotify.com/track/2j5Rq6Os840y5BYrRvWZAp"
+    },
+    {
+      "album": {
+        "name": "Terracotta Afternoon",
+        "url": "https://open.spotify.com/album/38r6EJzT4hLkUpHFwiprRn"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Silence",
+          "url": "https://open.spotify.com/artist/6Ukt6MMYIhbLa4IP5uGqta"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Terracotta Afternoon",
+      "url": "https://open.spotify.com/track/3npwu5kQTT1UgQgiQpqD7H"
     },
     {
       "album": {
@@ -13254,7 +13326,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 130909,
       "name": "think slow",
       "url": "https://open.spotify.com/track/2gFFA4WiUydQyd6aAQFM6y"
@@ -13906,7 +13978,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 128394,
       "name": "under water",
       "url": "https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn"
@@ -14321,6 +14393,24 @@
     },
     {
       "album": {
+        "name": "WAV",
+        "url": "https://open.spotify.com/album/54TfjyJJZXTowutIiIyOvB"
+      },
+      "artists": [
+        {
+          "name": "Sobbel Sosch",
+          "url": "https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195272,
+      "name": "WAV",
+      "url": "https://open.spotify.com/track/79bvZ9laQIsCBYnIS3aTqd"
+    },
+    {
+      "album": {
         "name": "wave catcher",
         "url": "https://open.spotify.com/album/1EGrmVwf78EZzVDczU862G"
       },
@@ -14368,7 +14458,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 155517,
       "name": "We Come and We Go",
       "url": "https://open.spotify.com/track/1mBz7t3HGqDWZ5Wo5IEmDx"
@@ -14685,6 +14775,24 @@
     },
     {
       "album": {
+        "name": "Yellow on Blue",
+        "url": "https://open.spotify.com/album/1Xfi3lVRutd83UoDcbGken"
+      },
+      "artists": [
+        {
+          "name": "Friendly Mess",
+          "url": "https://open.spotify.com/artist/75tjiKokxal3wB5VudqkXp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131538,
+      "name": "Yellow on Blue",
+      "url": "https://open.spotify.com/track/6oWNm8fswN2lOm5N8Phpef"
+    },
+    {
+      "album": {
         "name": "Yes Day",
         "url": "https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg"
       },
@@ -14732,7 +14840,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 129606,
       "name": "younger days",
       "url": "https://open.spotify.com/track/4qKIbBaMr9tGYff5JkKSom"
@@ -14840,7 +14948,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 136470,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5SCylXZhv1Av8qluTRmlrB"

@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/1bv07deJ1WIVfiJJ6pSEVG"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00e4r",
+          "url": "https://open.spotify.com/artist/3lJoRDjlvFXZLvSRVeM6m8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288546,
+      "name": "Close Contact",
+      "url": "https://open.spotify.com/track/2VMmEwXdIujvxqwx3Y1buA"
+    },
+    {
+      "album": {
         "name": "Club SPF",
         "url": "https://open.spotify.com/album/1S1nz42FJFwaHAu4Xm8yz4"
       },
@@ -781,6 +799,24 @@
     },
     {
       "album": {
+        "name": "ELECTION",
+        "url": "https://open.spotify.com/album/25LzpKHyoDjREsRlvj1Tyg"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331777,
+      "name": "ELECTION",
+      "url": "https://open.spotify.com/track/0zSuqJFQTJLE14UY70hfHS"
+    },
+    {
+      "album": {
         "name": "Embrace Me Now",
         "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
       },
@@ -948,7 +984,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192827,
       "name": "Faith",
       "url": "https://open.spotify.com/track/0iVL6ID87Nh8jYY6UX1g5c"
@@ -1275,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5TSEQ2DdbKJPKEoaPBw5dv"
+      },
+      "artists": [
+        {
+          "name": "Nico Banfi",
+          "url": "https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257647,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0dtcPNiHxNdCeV9y8VaUW0"
+    },
+    {
+      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu"
       },
@@ -1286,7 +1340,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 253548,
       "name": "Howling",
       "url": "https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ"
@@ -1438,7 +1492,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 261903,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
@@ -1866,7 +1920,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 393429,
       "name": "Obsidian - Oscar L Remix",
       "url": "https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j"
@@ -3184,6 +3238,24 @@
       "duration_ms": 201852,
       "name": "We Dream In The Same Language",
       "url": "https://open.spotify.com/track/6M44SpdVxr9AZ7WNhMRpPN"
+    },
+    {
+      "album": {
+        "name": "We Rave We Heal",
+        "url": "https://open.spotify.com/album/3amtskUPn8bCVTxOjDNC0x"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135728,
+      "name": "We Rave We Heal - Radio Mix",
+      "url": "https://open.spotify.com/track/68fiGjEicAlOvlXmoFNlNm"
     },
     {
       "album": {

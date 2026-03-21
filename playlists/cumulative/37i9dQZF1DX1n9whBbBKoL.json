@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Aligned",
+        "url": "https://open.spotify.com/album/1E01f25xYCTFRPMDNRgbqm"
+      },
+      "artists": [
+        {
+          "name": "Beyond Time",
+          "url": "https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/3kDS0HKTLqCIvlL8L5nBd6"
+    },
+    {
+      "album": {
         "name": "Alignment",
         "url": "https://open.spotify.com/album/1oIcD5Icrn4DBpJSXf5eLs"
       },
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 188000,
       "name": "Celestial Stillness",
       "url": "https://open.spotify.com/track/7DykWqafRSZEpUa6LxmZ9J"
@@ -4754,7 +4772,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218734,
       "name": "Galactic Gate",
       "url": "https://open.spotify.com/track/3GoKUx9hW4PPfluEB3yOgw"
@@ -6266,7 +6284,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 143884,
       "name": "Light Travel",
       "url": "https://open.spotify.com/track/3da5Oha6YuQ5bzCcmM0ryg"
@@ -6360,6 +6378,24 @@
       "duration_ms": 181626,
       "name": "Lingering Dusk",
       "url": "https://open.spotify.com/track/5jR0qcl60AiW6DQE1L6KW9"
+    },
+    {
+      "album": {
+        "name": "Listening for Echoes",
+        "url": "https://open.spotify.com/album/0Y0lR2LDj94rWb5GmgN6bQ"
+      },
+      "artists": [
+        {
+          "name": "amberseas",
+          "url": "https://open.spotify.com/artist/54GcluMUiJzOby62ANT6l1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Listening for Echoes",
+      "url": "https://open.spotify.com/track/4zC6mZrIyW7DGdykLoT8qB"
     },
     {
       "album": {
@@ -6486,6 +6522,24 @@
       "duration_ms": 178285,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/3KbmeqpwQMymXHdhzaAFms"
+    },
+    {
+      "album": {
+        "name": "Luminous Wings",
+        "url": "https://open.spotify.com/album/2F1brx9UQklOBxHVtoD9AI"
+      },
+      "artists": [
+        {
+          "name": "luneal",
+          "url": "https://open.spotify.com/artist/0K3OhoieXF4QBij6aRe5bP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170975,
+      "name": "Luminous Wings",
+      "url": "https://open.spotify.com/track/1bUt9t8s9TyCmu21xkAibO"
     },
     {
       "album": {
@@ -7040,7 +7094,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 190152,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/63EnIGD8WIWLSTOA6SO09Q"
@@ -7238,7 +7292,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173367,
       "name": "Never Ending Dream",
       "url": "https://open.spotify.com/track/0jnCQZlz6oj3EaM4uvLwaD"
@@ -9089,6 +9143,24 @@
     },
     {
       "album": {
+        "name": "Rivelle",
+        "url": "https://open.spotify.com/album/1TDIKPa0puFQhErj8TLLw0"
+      },
+      "artists": [
+        {
+          "name": "Velorae",
+          "url": "https://open.spotify.com/artist/5X9qwucFNflz1nXhvyEKFh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Rivelle",
+      "url": "https://open.spotify.com/track/1mAOw0VDHRHBcpAbGVg6vL"
+    },
+    {
+      "album": {
         "name": "Hall in Bonn",
         "url": "https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u"
       },
@@ -10666,7 +10738,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202000,
       "name": "The minor pause",
       "url": "https://open.spotify.com/track/4gDdm4aeylDxyDiPkiOc1N"
@@ -11084,6 +11156,24 @@
       "duration_ms": 228000,
       "name": "Trigg's Oldest Book",
       "url": "https://open.spotify.com/track/6cdMnYYMiYDrFvNzw1JTwS"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/5Zw8UW0Gw9LKutpr1Im5y4"
+      },
+      "artists": [
+        {
+          "name": "Prodigieux",
+          "url": "https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/7sXZNOj9DWEQhVZDlQxVL4"
     },
     {
       "album": {
@@ -11696,6 +11786,24 @@
       "duration_ms": 160571,
       "name": "Within Light",
       "url": "https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM"
+    },
+    {
+      "album": {
+        "name": "Witness I",
+        "url": "https://open.spotify.com/album/0V5L0I2OuNlZPdvnAqYAwL"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Witness I",
+      "url": "https://open.spotify.com/track/3hijNlAAoyqrAKVv1CGgp6"
     },
     {
       "album": {

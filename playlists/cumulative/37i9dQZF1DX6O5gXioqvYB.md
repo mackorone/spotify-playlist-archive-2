@@ -4,7 +4,7 @@
 
 > \(bentornato\) Dimartino in cover + tutto il meglio delle novità indie 🍃
 
-1,539 songs - 3 day 7 hr 53 min
+1,540 songs - 3 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [La canzone che ti meriti](https://open.spotify.com/track/3I98glKJ4mOT2j7ViAwoFS) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS) | [La canzone che ti meriti](https://open.spotify.com/album/5Vh0s2FlliJisQu71X5Hfi) | 2:10 | 2025-02-06 | 2025-03-28 |
 | [La canzone più triste](https://open.spotify.com/track/24KXWEGZLQ1FmTA44pIMIf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La canzone più triste](https://open.spotify.com/album/0oLdb4ykACnF6Ny6u5QJOK) | 3:16 | 2025-01-23 | 2025-03-28 |
 | [La Casa dei Miei Nonni](https://open.spotify.com/track/0HXwWTOiAysPFSo6gHbjEs) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [La Casa dei Miei Nonni](https://open.spotify.com/album/6ZntguvNUlVKCzSFMMuYjY) | 3:38 | 2026-01-29 | 2026-02-20 |
+| [La Coscienza Della Mia Generazione](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 2:49 | 2026-03-19 |  |
 | [La danza delle seppie](https://open.spotify.com/track/0opgwvrhneX9IgAloIe48G) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [La danza delle seppie](https://open.spotify.com/album/4dtWu7kFnLVA1kvSSHI4ce) | 2:44 | 2025-09-25 | 2025-10-24 |
 | [LA DOMANDA GIUSTA](https://open.spotify.com/track/6pOuWoEdYpBw74fP42F1Tv) | [Giulia Leone](https://open.spotify.com/artist/5xyfvolNQ8DukvHXKjHxRd) | [LA DOMANDA GIUSTA](https://open.spotify.com/album/0Nt0bzksswpMespk6o895G) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [La domenica con te](https://open.spotify.com/track/4jHDjikpVL75CbFiYN7d82) | [braoboy](https://open.spotify.com/artist/0CK0Zi6PBmGwT42BDs9J63) | [PAIX & FUNK \- Vol\. Bianco](https://open.spotify.com/album/3UCzPNedqb8JOgEif3yPuy) | 3:12 | 2025-10-23 | 2025-11-21 |
@@ -1066,6 +1067,7 @@
 | [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 | 2025-11-18 | 2025-12-05 |
 | [piccola ostrica](https://open.spotify.com/track/4d5JG1mDf8G1EPBFKvjg5A) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [piccola ostrica](https://open.spotify.com/album/1081VyG1KeWGtFXpmUZyg0) | 3:26 | 2025-12-04 | 2026-01-15 |
 | [Piccolo](https://open.spotify.com/track/6HkEEelWbG2H6AvqRElA5H) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Puoi chiamare se hai paura](https://open.spotify.com/album/70xMEfj93xmLgby2fZcfuw) | 2:50 | 2025-03-20 | 2025-07-04 |
+| [Piccolo cerbiatto <3](https://open.spotify.com/track/4xyuLwK5R8XHa0PlioZ05j) | [Caramella Rara](https://open.spotify.com/artist/1djFbsTJrRS4Lv3WY9gYbE) | [Piccolo cerbiatto <3](https://open.spotify.com/album/7IGpgldm7koPodphtr8bsJ) | 2:42 | 2026-03-20 |  |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-10 | 2024-12-20 |
 | [PIENSE A T’ANNAMMURÁ](https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [accurdammece vol.1](https://open.spotify.com/album/0qO5npHZs0SCchqgpFLI43) | 3:03 | 2024-06-27 | 2024-07-05 |
 | [Pietro come fai](https://open.spotify.com/track/25K9nDWnR2iU2KF5dLSSGF) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [Pietro come fai](https://open.spotify.com/album/0z8v2bbNWP2o5F5AYrXsEC) | 3:13 | 2025-06-26 | 2025-08-01 |
@@ -1391,7 +1393,6 @@
 | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/track/7gWzVDXpnnKbolQ456cx1p) | [TOMMY](https://open.spotify.com/artist/0aplXOFIjw16oLxCRuAvaW), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf), [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [TOXIC \(feat\. Luca Re\)](https://open.spotify.com/album/0RfDy5qsyMm5EA4aejBpT6) | 2:53 | 2025-12-11 | 2026-01-23 |
 | [Tra il cielo e le strade](https://open.spotify.com/track/09K7Ac7StT4knd88GVzQoM) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Tra il cielo e le strade](https://open.spotify.com/album/1bDTbS6anSQaUC6SxCuEUX) | 3:43 | 2025-03-07 | 2025-05-09 |
 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 | 2025-11-06 | 2025-12-05 |
-| [Track 3](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 0:00 | 2026-03-19 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 | 2026-02-06 |
 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 | 2025-10-30 | 2025-11-14 |
 | [Tranky Funky](https://open.spotify.com/track/71axDWBLrFzciRUC8yPyfL) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tranky Funky](https://open.spotify.com/album/1gzR5uvJuGujMKnyTGV3cl) | 2:49 | 2026-03-19 |  |

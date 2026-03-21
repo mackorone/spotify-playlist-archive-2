@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158874,
       "name": "A Star to Hold",
       "url": "https://open.spotify.com/track/3VGwh2eSldoNpdIhxnPTAa"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 76312,
       "name": "Cotton Pillow",
       "url": "https://open.spotify.com/track/1L8dfAL2y4RP9n0WRIVETs"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 106293,
       "name": "Cradle Of Stars",
       "url": "https://open.spotify.com/track/58MtYchkXCC8n9fmLkfbkK"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 128500,
       "name": "Dream Dust",
       "url": "https://open.spotify.com/track/2ToFUxHbqWsrRdsonY7gV2"
@@ -3127,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Little Rest",
+        "url": "https://open.spotify.com/album/3MjiSSxL3ET3k4PlyvJKgi"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "Little Rest",
+      "url": "https://open.spotify.com/track/5UyIyA8QWr3gma2yfGczwv"
+    },
+    {
+      "album": {
         "name": "Little Starfall",
         "url": "https://open.spotify.com/album/1GjrOyuuDPIw9TGh2j0zbF"
       },
@@ -3433,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Moon on the Crib",
+        "url": "https://open.spotify.com/album/43o2OJlCe3G0NgRaDPiRa8"
+      },
+      "artists": [
+        {
+          "name": "Rex Miller",
+          "url": "https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156374,
+      "name": "Moon on the Crib",
+      "url": "https://open.spotify.com/track/4cypRrNsIDCrm5qXafYxIS"
+    },
+    {
+      "album": {
         "name": "Moonboat",
         "url": "https://open.spotify.com/album/2obqal9NEWv6D7b76hgODf"
       },
@@ -3541,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "My Little Dreamer",
+        "url": "https://open.spotify.com/album/0NEjsmv9LTXOZpL8QoO3nJ"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Rae",
+          "url": "https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76490,
+      "name": "My Little Dreamer",
+      "url": "https://open.spotify.com/track/6DqaHpKBPQ6wQlx81jZ6fu"
+    },
+    {
+      "album": {
         "name": "My Puppy Loves Me",
         "url": "https://open.spotify.com/album/6HvcSnXiBcml973CAsaQpg"
       },
@@ -3628,6 +3682,24 @@
       "duration_ms": 97598,
       "name": "Nap time fairytale",
       "url": "https://open.spotify.com/track/5Sf4wTodiUhecuVDUBxCC9"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7KwzQaYqCvySokOydn0CJ5"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79634,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/24tmkp9uNEZuADfZiiMvlb"
     },
     {
       "album": {
@@ -3744,7 +3816,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 110258,
       "name": "Old Macdonald Had a Farm",
       "url": "https://open.spotify.com/track/5JI1BtYMOYRwefhOO4tATW"
@@ -3766,6 +3838,24 @@
       "duration_ms": 179341,
       "name": "On More Sleep",
       "url": "https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp"
+    },
+    {
+      "album": {
+        "name": "On the Bridge of Avignon",
+        "url": "https://open.spotify.com/album/2V5PxPCjdAzfZBSHwO6qkn"
+      },
+      "artists": [
+        {
+          "name": "Zane Heart",
+          "url": "https://open.spotify.com/artist/4thSm74qyd3wxZ2pqh3YPW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65351,
+      "name": "On the Bridge of Avignon",
+      "url": "https://open.spotify.com/track/3TRwiQQT0v3xY2a9iHKyyK"
     },
     {
       "album": {
@@ -4147,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Silver Tinkle",
+        "url": "https://open.spotify.com/album/0KQhMQgzCz0mzFHWkXPccU"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Silver Tinkle",
+      "url": "https://open.spotify.com/track/2Iw6DXMPJruP4EeaLlBn0F"
+    },
+    {
+      "album": {
         "name": "Guitar Lullabies: Music for Babies",
         "url": "https://open.spotify.com/album/1gW0NUlwmxK7YKNAF1TpDj"
       },
@@ -4288,6 +4396,24 @@
       "duration_ms": 131694,
       "name": "Sleep Hymn",
       "url": "https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or"
+    },
+    {
+      "album": {
+        "name": "Sleep Sleep My Baby",
+        "url": "https://open.spotify.com/album/015Ux0WesyMFeiUWFUXUN4"
+      },
+      "artists": [
+        {
+          "name": "Asha Eyes",
+          "url": "https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Sleep Sleep My Baby",
+      "url": "https://open.spotify.com/track/5VYEd3fP6U7Z3EXas0ezVz"
     },
     {
       "album": {
@@ -4608,10 +4734,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 124068,
       "name": "Star Pockets",
       "url": "https://open.spotify.com/track/3r55VLIJUFfFEcQiVCKYwg"
+    },
+    {
+      "album": {
+        "name": "Starlight Dreams",
+        "url": "https://open.spotify.com/album/13thwFuPH3MPCLlAooXps6"
+      },
+      "artists": [
+        {
+          "name": "Little Miles",
+          "url": "https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71500,
+      "name": "Starlight Dreams",
+      "url": "https://open.spotify.com/track/0IuS1UKTg57GqyZquhSS6Z"
     },
     {
       "album": {
@@ -5436,7 +5580,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 88000,
       "name": "Twilight Song",
       "url": "https://open.spotify.com/track/7547NWMuS3rffoRnJAkGRS"
@@ -5544,7 +5688,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 123458,
       "name": "Twinklefrost",
       "url": "https://open.spotify.com/track/533RAUWoNqfMD8qx0WWgYo"

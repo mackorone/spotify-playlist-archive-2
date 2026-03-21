@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "303 101",
+        "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184645,
+      "name": "303 101",
+      "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
+    },
+    {
+      "album": {
         "name": "333 (Cl\u00edmax) [Caravel Remix]",
         "url": "https://open.spotify.com/album/64eR0xbVZxevhmNhkPPg9C"
       },
@@ -828,7 +846,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 231700,
       "name": "Because They Want Our Seat",
       "url": "https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6"
@@ -1516,6 +1534,32 @@
       "duration_ms": 225000,
       "name": "Crowd Operator",
       "url": "https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0"
+    },
+    {
+      "album": {
+        "name": "Crucifix",
+        "url": "https://open.spotify.com/album/7qn042MRo4JdFQvLfnNZkp"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "PHOROS",
+          "url": "https://open.spotify.com/artist/3mAGi2CAWTnF7t6CUGJN9q"
+        },
+        {
+          "name": "Church of Molly",
+          "url": "https://open.spotify.com/artist/7uTmmx6Ta5g0KvtxeeFrrn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162015,
+      "name": "Crucifix",
+      "url": "https://open.spotify.com/track/1sLRN2LrirTazAthHzI4jI"
     },
     {
       "album": {
@@ -2702,7 +2746,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 117677,
       "name": "Get Naughty",
       "url": "https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt"
@@ -3467,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Human Attraction",
+        "url": "https://open.spotify.com/album/4NCWOMEJF8EW83pbBAe20C"
+      },
+      "artists": [
+        {
+          "name": "Mattia Trani",
+          "url": "https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Human Attraction",
+      "url": "https://open.spotify.com/track/32d7VRKwo03sQZXnaMobQa"
+    },
+    {
+      "album": {
         "name": "Hype Boy",
         "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
       },
@@ -3660,7 +3722,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 333061,
       "name": "Interdimensional Portal",
       "url": "https://open.spotify.com/track/0RGq3BAWmOUoRNntkTUoGH"
@@ -4982,7 +5044,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218882,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
@@ -7008,7 +7070,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192000,
       "name": "Unleash The Radical",
       "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"

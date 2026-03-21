@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- LØLØ on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,360 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,342 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [the punisher](https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the punisher](https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L) | 3:09 |
 | 2 | [Better Than a Man](https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Better Than a Man](https://open.spotify.com/album/2pXAF4a7RVpKS9wkakuk0J) | 3:04 |
 | 3 | [BAD AT MATH](https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [KISSING CONCRETE](https://open.spotify.com/album/3gWbQloPE5DnaADqGHCyWN) | 2:17 |
-| 4 | [Sucker](https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Sucker](https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD) | 3:55 |
+| 4 | [Sucker](https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Sucker](https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD) | 3:55 |
 | 5 | [The Kill \(From the Original Motion Picture "Scream 7"\)](https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [The Kill \(From the Original Motion Picture "Scream 7"\)](https://open.spotify.com/album/4jYpqLjsWQdhsCcs1hXyHe) | 2:29 |
 | 6 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
 | 7 | [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 |

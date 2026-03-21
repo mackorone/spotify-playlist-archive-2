@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77763,
+  "num_followers": 77760,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Do Velho Testamento",
-        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
-      },
-      "artists": [
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Casa Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 241106,
       "name": "A natureza das coisas",
       "url": "https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Do Velho Testamento",
+        "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
+      },
+      "artists": [
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Divina Casca",
+        "url": "https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Deixa Molhar",
+      "url": "https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 194506,
       "name": "Minta Meu Sonho - Ao Vivo",
       "url": "https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Divina Casca",
-        "url": "https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Deixa Molhar",
-      "url": "https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Transespacial",
-        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
-      },
-      "artists": [
-        {
-          "name": "Fitti",
-          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Feliz e Triste",
-      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Ton Carfi 20 anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 273300,
       "name": "\u00daltimo da Fila - Ao Vivo",
       "url": "https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Transespacial",
+        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
+      },
+      "artists": [
+        {
+          "name": "Fitti",
+          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Feliz e Triste",
+      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Fantasia Brasil 2",
+        "url": "https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n"
+      },
+      "artists": [
+        {
+          "name": "Rafael Beck",
+          "url": "https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd"
+        },
+        {
+          "name": "Felipe Montanaro",
+          "url": "https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn"
+        }
+      ],
+      "duration_ms": 207738,
+      "name": "Sapato Velho",
+      "url": "https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 431494,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Fantasia Brasil 2",
-        "url": "https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n"
-      },
-      "artists": [
-        {
-          "name": "Rafael Beck",
-          "url": "https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd"
-        },
-        {
-          "name": "Felipe Montanaro",
-          "url": "https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn"
-        }
-      ],
-      "duration_ms": 207738,
-      "name": "Sapato Velho",
-      "url": "https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3"
     },
     {
       "added_at": "2025-09-17 15:00:09",

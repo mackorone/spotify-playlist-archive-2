@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Emily A\. Sprague
 
-273 songs - 1 day 1 hr 7 min
+274 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 | 2022-03-25 | 2025-08-26 |
 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 | 2024-08-12 |  |
 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 | 2022-03-08 |  |
-| [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 | 2025-01-31 |  |
+| [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 | 2025-01-31 | 2026-03-21 |
 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 | 2022-12-20 | 2024-04-19 |
 | [Blue Shit](https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/3fLvBgK02fzdFAJ1aB8cKv) | 4:41 | 2022-03-08 | 2024-12-13 |
 | [Body in the shadows, face in the light](https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1), [Karen Vogt](https://open.spotify.com/artist/72qU17IcjkHAMFqH4ol9un) | [Sea\-swallowed Wands](https://open.spotify.com/album/4tTKkIDE2d9wwwSK0GhFVK) | 6:06 | 2025-09-04 |  |
@@ -204,6 +204,7 @@
 | [Shiver](https://open.spotify.com/track/636q74X2qVCv5fBdE95woF) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Tempora](https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U) | 8:02 | 2025-02-27 | 2026-03-17 |
 | [Silence \- K Theory Flip](https://open.spotify.com/track/0PLxhkXDZk3Cp1kRI8md4q) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Silence \(K Theory Flip\)](https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6) | 2:38 | 2025-02-27 | 2026-03-03 |
 | [silent aurora](https://open.spotify.com/track/0bCzY6WZD7SEpnw7E9iYSq) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [silent aurora](https://open.spotify.com/album/6Se7ujmRwCxkys849vHBgz) | 3:00 | 2026-03-06 |  |
+| [Silent Tree](https://open.spotify.com/track/79sDBnfCLopeckeVkrRN96) | [Dianna Lopez](https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T) | [Earth Expressions](https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi) | 5:01 | 2026-03-20 |  |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2022-07-22 | 2024-04-19 |
 | [Silver Ladders](https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5ROFj16TsmnCUd5YtiVDU3) | 3:45 | 2022-03-08 | 2022-07-29 |
 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 | 2022-03-08 | 2025-09-05 |

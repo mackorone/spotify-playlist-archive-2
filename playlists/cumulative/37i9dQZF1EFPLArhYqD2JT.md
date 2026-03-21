@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-500 songs - 1 day 1 hr 11 min
+501 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['S Wonderful](https://open.spotify.com/track/4F3VlX4MGtizCwGxAHMX8D) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | ['S Wonderful](https://open.spotify.com/album/0xYW8vNYMbuRaZCWrvXLv4) | 1:36 | 2026-02-19 |  |
+| ['The Third Man' Theme \(Harry Lime\)](https://open.spotify.com/track/3jkApQvikb2XC6s84ZjNcn) | [Anton Karas](https://open.spotify.com/artist/1N6hAy84Nd6KdUhr4BjXWS) | [The World's Favourite Instrumentals \- 20 All Time Favourites](https://open.spotify.com/album/5EIGUv62lnPL23S0YRbDf1) | 2:12 | 2026-03-20 |  |
 | [\(Just One Way To Say\) I Love You](https://open.spotify.com/track/3Gl0RERyWDH6Y9O0LXwlle) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 10](https://open.spotify.com/album/2lyBf4gsQR1Do7XOJvhLBb) | 2:30 | 2024-07-26 |  |
 | [\(Running Around In Circles\) Getting Nowhere](https://open.spotify.com/track/64WfdISCBia99jibVcXyYg) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Blue Skies](https://open.spotify.com/album/1eP8vLIPbvSKy08tT5jTHy) | 2:41 | 2024-07-26 |  |
 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock Around The Clock](https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK) | 2:09 | 2025-02-14 |  |
@@ -327,7 +328,7 @@
 | [Revival Day](https://open.spotify.com/track/0GEREHh9T38m06687Qmthq) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Charles A\. Prince Orchestra](https://open.spotify.com/artist/0qKmJGA0WCAvPkoFD3q8Cx) | [Snap Your Fingers \(1913 \- 1916\)](https://open.spotify.com/album/4Gv8dqX5Qp8wuBwdjEcJxP) | 2:25 | 2025-07-18 |  |
 | [Revival Day](https://open.spotify.com/track/3AAhAL5y7SLodWVs8BEQHF) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Charles Adams Prince](https://open.spotify.com/artist/6KBoLfNSal0umvhVqgCcbo), [Walter B\. Rogers](https://open.spotify.com/artist/3suY6L5tiTU3fcLeq3hDQN) | [Jolson, Al: Al Jolson, Vol\. 1 \(1911\-1914\)](https://open.spotify.com/album/4sQ9Z7Gk0BExp83v3K5b3M) | 2:25 | 2024-07-26 | 2025-07-19 |
 | [Roof Garden \- Drum Crazy Reprise](https://open.spotify.com/track/4DZ40512IFfVjjK7Xf6V3O) | [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 1:06 | 2024-07-26 |  |
-| [Roses Of Yesterday](https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:53 | 2025-09-10 |  |
+| [Roses Of Yesterday](https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Columbia Singles, Vol\. 2](https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO) | 2:53 | 2025-09-10 | 2026-03-21 |
 | [S Wonderful](https://open.spotify.com/track/2IYGMvHtyXgaS8sOr73woD) | [Jazz Players](https://open.spotify.com/artist/4pbQ3zvr3psUdWXteE6rLH) | [1920s Jazz: Sweet Georgia Brown](https://open.spotify.com/album/2oGLs5TXzAWBLynybH13xI) | 1:36 | 2024-07-26 | 2026-02-20 |
 | [Same Old Moon](https://open.spotify.com/track/4NT3OX8XteNgOWEHyS8eSY) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [Miss You Already](https://open.spotify.com/album/6TSbO35IMKlwIFt5w3SUd7) | 3:07 | 2026-01-21 | 2026-01-23 |
 | [Same Old Moon](https://open.spotify.com/track/1fNtz0Iux3raxxojewNyZa) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [Crazy For You!](https://open.spotify.com/album/2UMBmpRIJUh7NmRUPj81JB) | 3:07 | 2026-01-22 |  |

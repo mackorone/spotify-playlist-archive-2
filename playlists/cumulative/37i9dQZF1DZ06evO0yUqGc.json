@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Alright, Still",
+        "url": "https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/1bG4NCNZd3Go5pNWjH5Wl2"
+    },
+    {
+      "album": {
         "name": "Alright, Still (Deluxe)",
         "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 165053,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/5Td8uwJOhBJx4tyRlnk8WI"
@@ -292,7 +310,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 208573,
       "name": "Everything's Just Wonderful",
       "url": "https://open.spotify.com/track/2wFzjUNWlF7tYzHW2A3OOe"

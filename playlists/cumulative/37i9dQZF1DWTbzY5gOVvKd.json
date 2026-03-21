@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 193665,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 235093,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 245666,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 292288,
       "name": "Don't Take Your Love from Me",
       "url": "https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173360,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/43gYSQn48BKuc9s6haVcDq"
+      },
+      "artists": [
+        {
+          "name": "April Varner",
+          "url": "https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237920,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/1d8fF3ussJbJdsXYy5GBym"
+    },
+    {
+      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230484,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184560,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 262026,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/3xXrF1nomzDLLMngfZNmKw"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235633,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ"
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 217827,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/31WAeyYAeNjzXfWuay90An"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 355680,
       "name": "Thank You for Everything",
       "url": "https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL"
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 211800,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0WJJ9OCU44CoDxs0pE6EBL"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE"
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
@@ -4244,7 +4262,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 344800,
       "name": "You Are There (Orchestral Version)",
       "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"

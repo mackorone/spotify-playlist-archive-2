@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 50231,
+  "num_followers": 50250,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Allennig II",
+        "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
+      },
+      "artists": [
+        {
+          "name": "Dani\u00ebl Lohues",
+          "url": "https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "Hier Kom Ik Weg",
+      "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Blijf Bij Mij",
         "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
-      },
-      "artists": [
-        {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 256760,
       "name": "Omarm",
       "url": "https://open.spotify.com/track/0sC7iL2mW9W2q5czQcm2XH"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -827,22 +843,6 @@
       "duration_ms": 176306,
       "name": "Kijk Omhoog",
       "url": "https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Alle 40 Goed - Hollandse Hits",
-        "url": "https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub"
-      },
-      "artists": [
-        {
-          "name": "Veldhuis & Kemper",
-          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Ik Wou Dat Ik Jou Was",
-      "url": "https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF"
     }
   ],
   "unique_name": "00's Nederlandstalig",

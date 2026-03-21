@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Sally Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,123 likes - 97 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,107 likes - 97 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

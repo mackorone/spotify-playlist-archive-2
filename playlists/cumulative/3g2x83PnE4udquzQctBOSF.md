@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-533 songs - 1 day 8 hr 25 min
+536 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
 | [Let Go](https://open.spotify.com/track/1CYsrtqOAPIS8lmfkWa6z9) | [Lucio Momo](https://open.spotify.com/artist/38gaYwGmxGHKk52MVhWMqb), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Let Go](https://open.spotify.com/album/1L0lgzWz7pvDjPwYovZ1RM) | 5:22 | 2026-03-03 |  |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
+| [Let´ s go with the first](https://open.spotify.com/track/4bnqk2vaEJSFFQRB1WOJKd) | [BEAT MOTION](https://open.spotify.com/artist/1kBrqqDw14ez06tsyOozBF) | [Let´ s go with the first](https://open.spotify.com/album/3vjEW77nDDoackyfc7TlI4) | 8:00 | 2026-03-20 |  |
 | [Liberty](https://open.spotify.com/track/64vnvKNR4XDM2DoFxBwAH0) | [Capitan Anderson](https://open.spotify.com/artist/1UhTbltbhvIH7K06oNE9H4) | [Liberty / Equanimity](https://open.spotify.com/album/39beWChJipVtYrAOzYbnT4) | 5:40 | 2026-02-14 | 2026-02-23 |
 | [Lick Lick](https://open.spotify.com/track/6gi4q4zu0rdbPqudX9dSaJ) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Lick Lick](https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA) | 5:46 | 2024-10-13 |  |
 | [Lifetime Groove](https://open.spotify.com/track/0VhMbShQW2xZbHUJDu8Ocl) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Lifetime Groove](https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B) | 6:12 | 2025-12-26 | 2026-01-03 |
@@ -331,6 +332,7 @@
 | [Most Rappers](https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Most Rappers / South London](https://open.spotify.com/album/1ToXq7qOqjdVckbdqR9kcm) | 3:00 | 2023-05-21 | 2023-06-19 |
 | [Move Left Move Right](https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Move Left Move Right](https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp) | 3:36 | 2023-04-16 | 2023-05-01 |
 | [Move to the Beat](https://open.spotify.com/track/0aGSfFcOjxzRFTYWXeiFjg) | [Simon Ricci](https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS), [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Move to the Beat](https://open.spotify.com/album/4h4yvLmNEMiPMhEnm14vC8) | 3:31 | 2023-02-19 | 2023-03-13 |
+| [Move with Me](https://open.spotify.com/track/7kUWotZqEd7Qzd9dexqVHv) | [Isaac Washington](https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE) | [Move with Me](https://open.spotify.com/album/5K1AeIkWW211ViMy2VgNho) | 5:19 | 2026-03-20 |  |
 | [Mr\. Lover](https://open.spotify.com/track/5I062SYRoWdD5RAvLPwAJY) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Mr\. Lover](https://open.spotify.com/album/4MmqnLXzJ3M8mPZPhHc2VS) | 3:38 | 2023-07-02 | 2023-07-31 |
 | [Mud Season](https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [Mud Season](https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8) | 3:19 | 2024-04-14 | 2024-05-20 |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-23 | 2023-05-15 |
@@ -417,6 +419,7 @@
 | [Shut Up!](https://open.spotify.com/track/6ptsaA8cH252mzI7eX3ycV) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI), [Jhojho](https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR) | [Shut Up EP](https://open.spotify.com/album/6wKe09h4iQcU7Okg74OPG3) | 2:41 | 2024-07-07 |  |
 | [Shut Up!](https://open.spotify.com/track/7xPoyl21zfzMCL3AF79WiI) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Shut Up!](https://open.spotify.com/album/0QsVUKTGbtYEM57fUNeivc) | 4:01 | 2023-07-02 | 2023-07-17 |
 | [Siento](https://open.spotify.com/track/1fQnM5ay0Z3FZtD4f4hBTe) | [S.A.V.E.](https://open.spotify.com/artist/2Fs5f4jCkSuhE5T3li0qVl), [Cristian Ferretti](https://open.spotify.com/artist/7C6HzjTp0dFsffscIKrPDO), [Sheyli Sax](https://open.spotify.com/artist/4z1y9m6h9NFDTb8t5qIoix) | [Siento](https://open.spotify.com/album/4jpvFlDVZZ0SQHjpkPlfmU) | 3:58 | 2026-03-09 |  |
+| [Signal Error](https://open.spotify.com/track/6M3cIY0CAvTQG2H8oBch3H) | [Isaac Washington](https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE) | [Signal Error](https://open.spotify.com/album/0uuzELEjcxc0GJyXkJfh5s) | 3:36 | 2026-03-20 |  |
 | [Sims](https://open.spotify.com/track/0DI3gCOZlviCHHRDrd6umk) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Sims](https://open.spotify.com/album/6hu1vcrEGoSbAQiuGcg0xa) | 3:22 | 2023-06-18 | 2023-07-17 |
 | [Sins and Saints](https://open.spotify.com/track/4XTN88G142KDCLnRTamGcu) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Sins and Saints](https://open.spotify.com/album/4LcwAEgO6DDhwZeQn8Gqsx) | 3:37 | 2023-08-27 | 2023-09-26 |
 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 | 2023-03-05 | 2023-03-20 |

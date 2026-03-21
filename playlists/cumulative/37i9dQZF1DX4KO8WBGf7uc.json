@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 221407,
       "name": "Ella",
       "url": "https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp"
@@ -2057,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "A\u00daN NO HE TERMINADO",
+        "url": "https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "A. Marz",
+          "url": "https://open.spotify.com/artist/6INxpC2tdmnpgKEdxYYDdA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "HIT ME UP",
+      "url": "https://open.spotify.com/track/4ErvxwjBITUS7Tfa2PrpzV"
+    },
+    {
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -2498,6 +2520,24 @@
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "album": {
+        "name": "A\u00daN NO HE TERMINADO",
+        "url": "https://open.spotify.com/album/3X2pLuaMHkjOO0sZnuEt7t"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "LLAMADA ENTRANTE",
+      "url": "https://open.spotify.com/track/1cFN9n8M34rOqejdXvDx9u"
     },
     {
       "album": {
@@ -3418,7 +3458,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204277,
       "name": "No Tenemos Nada",
       "url": "https://open.spotify.com/track/6UGc9l0tpk1xSx9KV2fOVf"

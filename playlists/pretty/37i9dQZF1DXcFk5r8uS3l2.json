@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067552,
+  "num_followers": 1067591,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
+  "snapshot_id": "AAAAACLl3iDVMtM4xmj3cLDquDuZ0uXt",
   "tracks": [
     {
       "added_at": "2026-03-04 15:51:29",
@@ -175,6 +175,22 @@
       "duration_ms": 195732,
       "name": "Honky Tonk Hell",
       "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:30",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -555,6 +571,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 180150,
       "name": "The Mule",
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 301395,
-      "name": "Upside",
-      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -635,22 +651,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -747,6 +747,38 @@
       "duration_ms": 255218,
       "name": "Drifting (feat. Marcus King)",
       "url": "https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 236219,
+      "name": "Oh Betty",
+      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -783,22 +815,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 236219,
-      "name": "Oh Betty",
-      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Out of All the Stars",
         "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 239241,
       "name": "Out of All the Stars",
       "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 247720,
       "name": "Tonight Belongs to You",
       "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -907,6 +907,22 @@
       "duration_ms": 220775,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 347674,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
       },
       "artists": [
         {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 199174,
-      "name": "I Guess I\u2019ll Get The Papers And Go Home",
-      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1159,6 +1155,26 @@
       "duration_ms": 195885,
       "name": "Love in the Lead",
       "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "What's Not To Love?",
+        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+      },
+      "artists": [
+        {
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        },
+        {
+          "name": "Mister Romantic",
+          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+        }
+      ],
+      "duration_ms": 199174,
+      "name": "I Guess I\u2019ll Get The Papers And Go Home",
+      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1347,6 +1363,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Run Out of Love (with Lisa Loeb)",
         "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
       },
@@ -1363,22 +1395,6 @@
       "duration_ms": 277026,
       "name": "Run Out of Love - with Lisa Loeb",
       "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1477,6 +1493,22 @@
       "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
     },
     {
+      "added_at": "2026-03-06 05:00:04",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "The Circle Session, 2023",
@@ -1495,22 +1527,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Bad Spell (Acoustic)",
         "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
       },
@@ -1523,6 +1539,22 @@
       "duration_ms": 194970,
       "name": "Bad Spell - Acoustic",
       "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1643,22 +1675,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Digging the Hole",
-        "url": "https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx"
-      },
-      "artists": [
-        {
-          "name": "Chris Smither",
-          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
-        }
-      ],
-      "duration_ms": 154604,
-      "name": "Digging the Hole",
-      "url": "https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "A Thousand Heartaches",
         "url": "https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj"
       },
@@ -1683,38 +1699,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Soulbreaker",
-        "url": "https://open.spotify.com/album/6qd3TJkXLe4Z39V2dOEqjN"
+        "name": "Digging the Hole",
+        "url": "https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx"
       },
       "artists": [
         {
-          "name": "Catfish",
-          "url": "https://open.spotify.com/artist/2p8vm6yajSLniQujzpMB4A"
-        },
-        {
-          "name": "When Rivers Meet",
-          "url": "https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi"
+          "name": "Chris Smither",
+          "url": "https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22"
         }
       ],
-      "duration_ms": 203234,
-      "name": "Soulbreaker",
-      "url": "https://open.spotify.com/track/2IX9xS6ccoIQrqg3GjdB6l"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2l5G5XHW8TKudAcxtgAzwU"
-      },
-      "artists": [
-        {
-          "name": "Pointy Features",
-          "url": "https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/6R8g4UJc2jYda4wmrtz09d"
+      "duration_ms": 154604,
+      "name": "Digging the Hole",
+      "url": "https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e"
     }
   ],
   "unique_name": "Blues Roots",

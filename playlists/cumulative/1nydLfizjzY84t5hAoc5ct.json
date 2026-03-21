@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
+    },
+    {
+      "album": {
         "name": "I Don't Need the Lord",
         "url": "https://open.spotify.com/album/020PK5VGFavHPpSU4nqfJ4"
       },

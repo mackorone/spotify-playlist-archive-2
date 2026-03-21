@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,488 songs - 3 day 22 hr 43 min
+2,489 songs - 3 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,7 @@
 | [coconut coffee](https://open.spotify.com/track/5a3ADzSwj3AW8T54W5fY6i) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [coconut coffee](https://open.spotify.com/album/56R9MfE2lSx6JvDe3Lhqxy) | 2:52 | 2024-06-28 | 2024-08-17 |
 | [Coconut Cup](https://open.spotify.com/track/1KdXLFsrKF4bRlWXw9skui) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Coconut Cup](https://open.spotify.com/album/6aAeUCH9XWIPsVrYLSFmA1) | 2:22 | 2022-08-19 | 2022-12-24 |
 | [cocoon](https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [cocoon](https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO) | 2:28 | 2024-08-30 |  |
-| [coffee](https://open.spotify.com/track/2C7VA1VMLDgeNjr4i3h0V1) | [Soft Illy](https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV) | [coffee](https://open.spotify.com/album/75scui9old7tKije9SEYFn) | 2:19 | 2025-08-29 |  |
+| [coffee](https://open.spotify.com/track/2C7VA1VMLDgeNjr4i3h0V1) | [Soft Illy](https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV) | [coffee](https://open.spotify.com/album/75scui9old7tKije9SEYFn) | 2:19 | 2025-08-29 | 2026-03-21 |
 | [Coffee Break](https://open.spotify.com/track/3TF8Y8OD9lpxLOfmu2SMmn) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Coffee Break](https://open.spotify.com/album/1ZK1GmOmLyr265KdL2R8Vq) | 2:02 | 2022-04-15 | 2022-08-12 |
 | [coffee club](https://open.spotify.com/track/6rYskggFhg7dnBn4XmcOzV) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [coffee club](https://open.spotify.com/album/2CoFtACN6TBdx40rkmVsAs) | 2:31 | 2025-01-17 | 2025-03-08 |
 | [Coffee Jazz](https://open.spotify.com/track/2JnVnqt3M2mUw1BJcCqI0U) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Coffee Jazz](https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u) | 2:22 | 2022-06-17 | 2022-11-19 |
@@ -2387,6 +2387,7 @@
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2023-01-20 | 2026-01-24 |
 | [Warm Breeze](https://open.spotify.com/track/39Sa33g3e6ILORXGjjQ6y0) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Warm Breeze](https://open.spotify.com/album/2QmF2hYspOaGflrbUNKi7u) | 2:01 | 2022-04-15 | 2022-08-12 |
 | [Warm Breeze](https://open.spotify.com/track/3ImIWXcDCKpQiEVn86jlF8) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Matija Lazic](https://open.spotify.com/artist/7n5I2WFL66EZNrmd1rxBnB) | [Warm Breeze](https://open.spotify.com/album/0ZheTLjYEr37k7VfztkmtG) | 1:54 | 2022-04-15 | 2022-09-02 |
+| [Warm Nest](https://open.spotify.com/track/3u4V3UEWcSoBtajoYCMfVM) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Warm Nest](https://open.spotify.com/album/5znyNSQyo7w5BfuS2sOJ4v) | 1:46 | 2026-03-20 |  |
 | [Warm Place](https://open.spotify.com/track/2a9xeM0Vv18YeNuTYQQTwA) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Warm Place](https://open.spotify.com/album/4KdkXKJmqzyV40c8WapvHY) | 2:01 | 2023-03-20 | 2024-02-09 |
 | [Warwick](https://open.spotify.com/track/3HG3Go7Yy72QSFHJ88hQuG) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Warwick](https://open.spotify.com/album/1yAZbjVVKbnrQeFaL5dcTo) | 1:39 | 2022-07-22 | 2022-12-03 |
 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 | 2024-09-06 | 2026-01-24 |

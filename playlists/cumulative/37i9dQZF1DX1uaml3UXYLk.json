@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 258967,
       "name": "4 You",
       "url": "https://open.spotify.com/track/60ItlmDoAviIi0beTYlRNQ"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 138124,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/1oiWIThUn5Ceh10XpQLJYb"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184750,
       "name": "Bath House",
       "url": "https://open.spotify.com/track/7EkUYJ9xscFH9QPwKHN77g"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 159142,
       "name": "Cold Sun",
       "url": "https://open.spotify.com/track/26M0VZ2S7JGAU6IukvsEVt"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176874,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1WGbfsJ3hLAyCJEEugKE3Q"
@@ -5961,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "In Flow",
+        "url": "https://open.spotify.com/album/4s7Sl3rCU2J3VlhzbmPf4F"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169970,
+      "name": "In Flow",
+      "url": "https://open.spotify.com/track/48Zk5GtAjm2TYyAzJt7Y5R"
+    },
+    {
+      "album": {
         "name": "In The Air",
         "url": "https://open.spotify.com/album/00wZ6R07W9BsSAm7sozAmS"
       },
@@ -6062,7 +6080,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162441,
       "name": "Infinite Groove",
       "url": "https://open.spotify.com/track/4NEDsWuhVTedyjuw2S8YMh"
@@ -6336,6 +6354,24 @@
       "duration_ms": 128313,
       "name": "Jungle Peace",
       "url": "https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/3QJ95ad48icGpP7LbTMVOt"
+      },
+      "artists": [
+        {
+          "name": "Noothing",
+          "url": "https://open.spotify.com/artist/4dHdhqjCYmzdkZUweuvbRw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4FVEktlTAaNmQRWfXMYDnb"
     },
     {
       "album": {
@@ -6746,7 +6782,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 139160,
       "name": "Lemon Slice",
       "url": "https://open.spotify.com/track/1guIF1wfih1fPRf8lQ0KX2"
@@ -6944,7 +6980,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187826,
       "name": "Livre",
       "url": "https://open.spotify.com/track/66pR9ncrh4tOz1Ox9K5dXU"
@@ -7106,7 +7142,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184913,
       "name": "lost in emotion",
       "url": "https://open.spotify.com/track/6NG1JFF9QubV3us93isSyv"
@@ -7200,7 +7236,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 138536,
       "name": "Love Is Waiting",
       "url": "https://open.spotify.com/track/3G4GnxuA6OFqZDHD09eG3Z"
@@ -7398,7 +7434,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176355,
       "name": "Make Me Nervous",
       "url": "https://open.spotify.com/track/5T8MuTsTK7EwszYR9ICNxb"
@@ -7477,6 +7513,24 @@
     },
     {
       "album": {
+        "name": "Mango n' Tonic",
+        "url": "https://open.spotify.com/album/7AXnrOwM3NsqsaZ1LRWcjP"
+      },
+      "artists": [
+        {
+          "name": "LeeDee",
+          "url": "https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148970,
+      "name": "Mango n' Tonic",
+      "url": "https://open.spotify.com/track/2C8FLSWyb5juLhWfaqWlrm"
+    },
+    {
+      "album": {
         "name": "Marbella Sun",
         "url": "https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC"
       },
@@ -7524,7 +7578,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142434,
       "name": "Marmor",
       "url": "https://open.spotify.com/track/3qqoPKOVlw0s0oiXbSGKBC"
@@ -8824,7 +8878,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 171617,
       "name": "obsession",
       "url": "https://open.spotify.com/track/2Xsm4k87cGMH4ykDX64oNK"
@@ -9062,7 +9116,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 185379,
       "name": "Only U",
       "url": "https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9"
@@ -9350,7 +9404,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162918,
       "name": "Perfect Heat",
       "url": "https://open.spotify.com/track/1QY1tXdQmtmFh0vcf6VJTc"
@@ -9458,7 +9512,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 226085,
       "name": "pieces",
       "url": "https://open.spotify.com/track/1OobTJLiPx3wIgHg0qeAT4"
@@ -9548,7 +9602,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 170431,
       "name": "play my mix",
       "url": "https://open.spotify.com/track/4OlUclPAIGIgHEjOD2OpK4"
@@ -9656,7 +9710,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184000,
       "name": "Polar Seas",
       "url": "https://open.spotify.com/track/0VtTAhkO4h7nvkkUBpXfXd"
@@ -10383,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "Ride Along",
+        "url": "https://open.spotify.com/album/6a8pOD870o1M1TuUTPieuW"
+      },
+      "artists": [
+        {
+          "name": "Loudig",
+          "url": "https://open.spotify.com/artist/1ZLdewotMg9yjbYBYAmjZL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Ride Along",
+      "url": "https://open.spotify.com/track/4kFLua1TLI2ucpJlWTbSlI"
+    },
+    {
+      "album": {
         "name": "Right Days",
         "url": "https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E"
       },
@@ -10722,7 +10794,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 134198,
       "name": "Salt & Beaches",
       "url": "https://open.spotify.com/track/13ZuEu0I6Zjy67BuxYLiMt"
@@ -12452,7 +12524,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 134400,
       "name": "Sunset Mojito",
       "url": "https://open.spotify.com/track/2brvmVNVJOx8O5Pxr0YGZg"
@@ -12492,6 +12564,24 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "album": {
+        "name": "Sunset Warehouse",
+        "url": "https://open.spotify.com/album/5FgeAWJghZQlqyHiIpmjns"
+      },
+      "artists": [
+        {
+          "name": "Oskarr Starr",
+          "url": "https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "Sunset Warehouse",
+      "url": "https://open.spotify.com/track/2k8eYGsgcVA5PrjMn5fRzP"
     },
     {
       "album": {
@@ -12794,7 +12884,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187152,
       "name": "Tall Lines",
       "url": "https://open.spotify.com/track/3cVipzP2GCyV4PeX7uY0oJ"
@@ -14032,7 +14122,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151794,
       "name": "Vista",
       "url": "https://open.spotify.com/track/38J1VYhn5pFUoBWtqMAZvL"
@@ -14068,7 +14158,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142372,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5fvfSFJgElOl3a6DhX7JCd"
@@ -14234,6 +14324,24 @@
       "duration_ms": 417216,
       "name": "Weighted",
       "url": "https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo"
+    },
+    {
+      "album": {
+        "name": "Weightless Whispers",
+        "url": "https://open.spotify.com/album/4xfxGUgHPGjENyI1h3O7s6"
+      },
+      "artists": [
+        {
+          "name": "Nordsky",
+          "url": "https://open.spotify.com/artist/0yixcVWpULGQAcURRVLxRr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134608,
+      "name": "Weightless Whispers",
+      "url": "https://open.spotify.com/track/2ChrITIxiIAjacjhHIwwIt"
     },
     {
       "album": {
@@ -14626,7 +14734,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 146548,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/6UZ8vkpOmjHPiWs0SPxNd8"
@@ -14662,7 +14770,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 148702,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/04sFd9QqXpYkxoI4uEChAh"

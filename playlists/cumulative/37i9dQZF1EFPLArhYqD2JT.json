@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "The World's Favourite Instrumentals - 20 All Time Favourites",
+        "url": "https://open.spotify.com/album/5EIGUv62lnPL23S0YRbDf1"
+      },
+      "artists": [
+        {
+          "name": "Anton Karas",
+          "url": "https://open.spotify.com/artist/1N6hAy84Nd6KdUhr4BjXWS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132573,
+      "name": "'The Third Man' Theme (Harry Lime)",
+      "url": "https://open.spotify.com/track/3jkApQvikb2XC6s84ZjNcn"
+    },
+    {
+      "album": {
         "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 10",
         "url": "https://open.spotify.com/album/2lyBf4gsQR1Do7XOJvhLBb"
       },
@@ -6458,7 +6476,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173706,
       "name": "Roses Of Yesterday",
       "url": "https://open.spotify.com/track/2TEa83m2lXEvfspv1Iy8nh"

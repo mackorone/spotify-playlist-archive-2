@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Cadeado No Dedo",
+        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+      },
+      "artists": [
+        {
+          "name": "Ruan e Davi",
+          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125970,
+      "name": "Cadeado No Dedo",
+      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "album": {
         "name": "Cad\u00ea Voc\u00ea?",
         "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "Brand new music from Luke Combs, RAYE, Hans Zimmer,  The Jungle Giants, DMA's, Ella Langley + more",
-  "num_followers": 445848,
+  "description": "Brand new music from Luke Combs, RAYE, Hans Zimmer, BTS, The Jungle Giants, DMA's, Ella Langley + more",
+  "num_followers": 446392,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLmjze4nYI1WD8QboOnIfCBlvL4",
+  "snapshot_id": "AAAAAPGSpzHm0rOyJEBjSbOID5WSmbAG",
   "tracks": [
     {
       "added_at": "2026-03-19 22:07:00",
@@ -43,6 +43,22 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-03-20 04:00:58",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "added_at": "2026-03-19 22:07:00",
@@ -107,6 +123,26 @@
       "duration_ms": 210048,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
+      "added_at": "2026-03-20 04:00:58",
+      "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
       "added_at": "2026-03-19 22:07:00",
@@ -243,7 +279,7 @@
     {
       "added_at": "2026-03-19 22:07:00",
       "album": {
-        "name": "Love You Right (feat. Clara La San)",
+        "name": "Love You Right",
         "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
@@ -257,7 +293,7 @@
         }
       ],
       "duration_ms": 165818,
-      "name": "Love You Right (feat. Clara La San)",
+      "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
@@ -317,6 +353,46 @@
       "url": "https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y"
     },
     {
+      "added_at": "2026-03-20 04:00:58",
+      "album": {
+        "name": "Lighter (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 179149,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
+    },
+    {
+      "added_at": "2026-03-20 04:00:58",
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
+    },
+    {
       "added_at": "2026-03-19 22:07:00",
       "album": {
         "name": "Ultra Dundee",
@@ -328,8 +404,8 @@
           "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 258818,
+      "name": "Night Shooting",
       "url": "https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD"
     },
     {
@@ -585,6 +661,22 @@
       "url": "https://open.spotify.com/track/2IKIlZ4epdAuFnsytqZrJN"
     },
     {
+      "added_at": "2026-03-20 04:00:58",
+      "album": {
+        "name": "ONE HIT WONDER",
+        "url": "https://open.spotify.com/album/0esMTM0ix53P0vQRvsEEK1"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "ONE HIT WONDER",
+      "url": "https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U"
+    },
+    {
       "added_at": "2026-03-19 22:07:00",
       "album": {
         "name": "Wings",
@@ -612,8 +704,8 @@
           "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 212276,
+      "name": "Block (I'm Not What You Need)",
       "url": "https://open.spotify.com/track/1Urz5TQBN9HGUl1iTDBwqJ"
     },
     {
@@ -644,8 +736,8 @@
           "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 264900,
+      "name": "Warzone",
       "url": "https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ"
     },
     {
@@ -1131,6 +1223,22 @@
     {
       "added_at": "2026-03-19 22:07:00",
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 191437,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
+    },
+    {
+      "added_at": "2026-03-19 22:07:00",
+      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/2R5X7MxlPMmkYxPgYiO9Bq"
       },
@@ -1351,7 +1459,7 @@
     {
       "added_at": "2026-03-19 22:07:00",
       "album": {
-        "name": "Girls",
+        "name": "GIRLS",
         "url": "https://open.spotify.com/album/6YMlyjamsjGdfFsHuc64de"
       },
       "artists": [
@@ -1361,7 +1469,7 @@
         }
       ],
       "duration_ms": 180845,
-      "name": "Girls",
+      "name": "GIRLS",
       "url": "https://open.spotify.com/track/4hHPnwQYR0kuJzNHRkDvbC"
     },
     {
@@ -1431,6 +1539,26 @@
       "duration_ms": 140970,
       "name": "It's You",
       "url": "https://open.spotify.com/track/2hG1oc9fQj6yIfx2q8eLtq"
+    },
+    {
+      "added_at": "2026-03-19 22:07:00",
+      "album": {
+        "name": "i go hard",
+        "url": "https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "i go hard",
+      "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
     },
     {
       "added_at": "2026-03-19 22:07:00",

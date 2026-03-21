@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Always On my Mind",
+        "url": "https://open.spotify.com/album/4iWqXsLXYskVYQEhrgqpkY"
+      },
+      "artists": [
+        {
+          "name": "Golden Steps Trio",
+          "url": "https://open.spotify.com/artist/6C2dhn7pnRikQAFFajcyY7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197404,
+      "name": "Always On my Mind",
+      "url": "https://open.spotify.com/track/0LI0rsq1p8nw9EovQIiKRx"
+    },
+    {
+      "album": {
         "name": "Amble",
         "url": "https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s"
       },
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 220571,
       "name": "Blue Lavender",
       "url": "https://open.spotify.com/track/5YtBxc8IHmVA9oKdTwl8RW"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 214186,
       "name": "Chasing Raindrops",
       "url": "https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU"
@@ -7690,6 +7708,24 @@
       "duration_ms": 181249,
       "name": "Fading Skies",
       "url": "https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn"
+    },
+    {
+      "album": {
+        "name": "Failure to Exist",
+        "url": "https://open.spotify.com/album/3UPrpDHbuepzIysdkU7FFj"
+      },
+      "artists": [
+        {
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213587,
+      "name": "Failure to Exist",
+      "url": "https://open.spotify.com/track/2fOMqKlzIREduamkKPVbFY"
     },
     {
       "album": {
@@ -11562,7 +11598,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 232148,
       "name": "If I Knew You",
       "url": "https://open.spotify.com/track/5OClBgfVkx8S7S9xh8Gzkr"
@@ -12452,7 +12488,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 240455,
       "name": "It All Begins With You",
       "url": "https://open.spotify.com/track/0482q4DGv0BR5aEMZuQMw3"
@@ -13490,6 +13526,24 @@
       "duration_ms": 236250,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/7gAcEQbdMQBXOpq0hRIqnP"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Quartet",
+          "url": "https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/1s3mLzP4UNwwFbfNxrmneL"
     },
     {
       "album": {
@@ -18639,6 +18693,24 @@
     },
     {
       "album": {
+        "name": "On a Road to Nowhere",
+        "url": "https://open.spotify.com/album/2lhiYKgXulitWYfMrYu2ID"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Archer",
+          "url": "https://open.spotify.com/artist/4Syv4sTnGc2Kq3gWqGGdJ3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238015,
+      "name": "On A Road To Nowhere",
+      "url": "https://open.spotify.com/track/5nDpC1oqtsVETQsgjMHr8H"
+    },
+    {
+      "album": {
         "name": "On Green Avenue",
         "url": "https://open.spotify.com/album/6XMQ0vWE9PNnNns83HpJvQ"
       },
@@ -19288,7 +19360,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202500,
       "name": "Palimpsest",
       "url": "https://open.spotify.com/track/1ZESaHNckWdVgL0DoGP8tz"
@@ -21744,6 +21816,24 @@
       "duration_ms": 199974,
       "name": "Six Copies",
       "url": "https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8"
+    },
+    {
+      "album": {
+        "name": "Skating",
+        "url": "https://open.spotify.com/album/0ZrbloJJ2ydZEyycVtlb5U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/3243Z1KdvJ2EUGhOooqk6Q"
     },
     {
       "album": {
@@ -25790,7 +25880,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 189864,
       "name": "Then You Spoke",
       "url": "https://open.spotify.com/track/5Q1pJ2MCj4FlcDf6TCsL9Y"
@@ -26820,7 +26910,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195697,
       "name": "Travelling Story",
       "url": "https://open.spotify.com/track/35U8EnZgLHlBzREzo6UGpC"
@@ -27040,6 +27130,24 @@
       "duration_ms": 189637,
       "name": "Umbrella Melody",
       "url": "https://open.spotify.com/track/0pCrOFHl6cEM11lQSrZd3B"
+    },
+    {
+      "album": {
+        "name": "Under a Blanket of Blue",
+        "url": "https://open.spotify.com/album/22FIG7MozDFZA5OGLFoKld"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "Under A Blanket Of Blue",
+      "url": "https://open.spotify.com/track/0R6ksDbUC4KmqNLr9Y2kvO"
     },
     {
       "album": {
@@ -28826,6 +28934,24 @@
       "duration_ms": 203482,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/3K7okDLoeWIb1BxsGDVrNl"
+    },
+    {
+      "album": {
+        "name": "Where The Moon Meets The Water",
+        "url": "https://open.spotify.com/album/5NmTvPZdrtLvSlhPC5BqEl"
+      },
+      "artists": [
+        {
+          "name": "Bernina Quartet",
+          "url": "https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308755,
+      "name": "Where The Moon Meets The Water",
+      "url": "https://open.spotify.com/track/61fJR9KxW03laKrVUGCRGt"
     },
     {
       "album": {

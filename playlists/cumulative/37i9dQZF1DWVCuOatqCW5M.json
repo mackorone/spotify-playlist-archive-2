@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Josh Brar, Shashwat Singh and more.",
+  "description": "Latest music from Aditya Rikhari, Ravator, Akashdeep Sengupta and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "Ae Ajnabee | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/7idAWWOCszU8zkCAffYZx8"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Kutle Khan",
+          "url": "https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259636,
+      "name": "Ae Ajnabee | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1"
+    },
+    {
+      "album": {
         "name": "Ae Chand",
         "url": "https://open.spotify.com/album/5WPXUm3pI5vaxRvalWAlM4"
       },
@@ -2234,7 +2260,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230000,
       "name": "Ankhiyaan",
       "url": "https://open.spotify.com/track/6X8fO4Y3zYv7VJdgw0Av1H"
@@ -6300,7 +6326,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 203695,
       "name": "Chan Varga",
       "url": "https://open.spotify.com/track/24qzWQshzUIhXSoEo717mi"
@@ -16198,7 +16224,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 163136,
       "name": "Jee Nai Lagda",
       "url": "https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E"
@@ -16272,7 +16298,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154213,
       "name": "Jeene De",
       "url": "https://open.spotify.com/track/5pPye0s2W7aVkHGDKeO1NM"
@@ -20679,6 +20705,28 @@
     },
     {
       "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/35YOrHWgpUOe6DTnzOO8xj"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Last Night On Earth",
+      "url": "https://open.spotify.com/track/1uQPMFQqh9TZAHZhAZLTgZ"
+    },
+    {
+      "album": {
         "name": "Laut Aao Na",
         "url": "https://open.spotify.com/album/0KdlC1GChvtlBGIGsQY6dK"
       },
@@ -23382,7 +23430,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 167195,
       "name": "Mil Lena",
       "url": "https://open.spotify.com/track/08VXv7aK05NwxMpGBZQLb2"
@@ -24182,6 +24230,28 @@
       "duration_ms": 185524,
       "name": "Na Ja Tu Aise Door",
       "url": "https://open.spotify.com/track/1tQx3ZFJtG6HgAqg8iSRj0"
+    },
+    {
+      "album": {
+        "name": "Na Kabhi",
+        "url": "https://open.spotify.com/album/5ENRqe80xV7uIDWM1xvoEm"
+      },
+      "artists": [
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291078,
+      "name": "Na Kabhi",
+      "url": "https://open.spotify.com/track/2YV2Q8k3PMVN5xZ7TRxF28"
     },
     {
       "album": {
@@ -27824,7 +27894,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186893,
       "name": "QURBAT",
       "url": "https://open.spotify.com/track/1ETXN1gCDZIRUi9lc4sC3U"
@@ -28804,6 +28874,32 @@
       "duration_ms": 173831,
       "name": "Ro Rahi Hu",
       "url": "https://open.spotify.com/track/2CnTYJ4VMeUzmB2y5977xb"
+    },
+    {
+      "album": {
+        "name": "Rooh",
+        "url": "https://open.spotify.com/album/1YfpkWEeGONzsnd3hbi3s2"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Ozo Studio",
+          "url": "https://open.spotify.com/artist/3FHrMnVmgAWympeJUGps53"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202092,
+      "name": "Rooh",
+      "url": "https://open.spotify.com/track/4Zd2zHGhX3EcahGSd9vpWQ"
     },
     {
       "album": {
@@ -32706,6 +32802,36 @@
     {
       "album": {
         "name": "Taare",
+        "url": "https://open.spotify.com/album/5q2sil8JDxEPVhjF79hMo3"
+      },
+      "artists": [
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Akbar Wasif",
+          "url": "https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/77HNS6a0sOMZxgF5Jv3I3m"
+    },
+    {
+      "album": {
+        "name": "Taare",
         "url": "https://open.spotify.com/album/0MBhtO0M46aexQWmqzq6sY"
       },
       "artists": [
@@ -33422,6 +33548,32 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
+        "name": "Tera Pata",
+        "url": "https://open.spotify.com/album/0QVxE5FCwbaeQUFgnKhsMW"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Priyankaa Bhattacharya",
+          "url": "https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5"
+        },
+        {
+          "name": "Saaveri Verma",
+          "url": "https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272592,
+      "name": "Tera Pata",
+      "url": "https://open.spotify.com/track/6Nr9idrCtzmK0S03xU42bW"
     },
     {
       "album": {
@@ -38300,7 +38452,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 257763,
       "name": "Yaad Sajan Ki Aaye",
       "url": "https://open.spotify.com/track/5uf4WIA2QAQJhHUIzJinyH"

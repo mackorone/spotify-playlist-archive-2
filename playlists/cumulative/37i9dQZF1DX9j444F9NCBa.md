@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-668 songs - 1 day 9 hr 54 min
+670 songs - 1 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Let me love you](https://open.spotify.com/track/2I7NvGmHkgxrXp3FziqJGj) | [Tindra Rosenlind](https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4) | [Let me love you](https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o) | 4:12 | 2023-04-28 | 2026-03-05 |
 | [Let somebody go](https://open.spotify.com/track/2qDVma0LKZAQTf2JQA58UK) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Let somebody go](https://open.spotify.com/album/1c31HkBc3ogWX2yBcuoT11) | 2:41 | 2023-01-20 | 2025-10-25 |
 | [Levitating](https://open.spotify.com/track/5W6rrixE9nBnfcLpxUkoOH) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:13 | 2022-12-02 | 2023-06-03 |
-| [Life On Mars](https://open.spotify.com/track/7rpfeJPCSCXQl0GpI17aQN) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Life On Mars](https://open.spotify.com/album/3gUfcGqtY2bRh9jRi8mK7Q) | 3:52 | 2024-07-12 |  |
+| [Life On Mars](https://open.spotify.com/track/7rpfeJPCSCXQl0GpI17aQN) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Life On Mars](https://open.spotify.com/album/3gUfcGqtY2bRh9jRi8mK7Q) | 3:52 | 2024-07-12 | 2026-03-21 |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-01-21 | 2023-04-14 |
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-12-02 | 2023-06-03 |
 | [Light Switch](https://open.spotify.com/track/7cKAjHhKnrewhzSxk26C18) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Blinding Lights](https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v) | 2:55 | 2022-10-14 | 2023-02-24 |
@@ -451,6 +451,7 @@
 | [Right Here Waiting](https://open.spotify.com/track/6ULMLA6uLwvbMMYprohGHH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Right Here Waiting](https://open.spotify.com/album/5QeI18uS9Z91uqZzpVnDcH) | 3:08 | 2023-01-06 | 2026-03-05 |
 | [Ring of Fire](https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Ring of Fire](https://open.spotify.com/album/7wZzq2moVmJn9zbljYIVKE) | 2:54 | 2026-02-13 |  |
 | [Riptide](https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Riptide](https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k) | 2:12 | 2023-10-06 |  |
+| [Risk It All](https://open.spotify.com/track/7vCv6VMg0PUQHTiVFHlcqN) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Risk It All](https://open.spotify.com/album/4Ws4t94Ln5VgNKCZbJoL3C) | 2:35 | 2026-03-20 |  |
 | [River](https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Christmas Lights](https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx) | 4:10 | 2022-10-28 | 2023-03-18 |
 | [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 | 2025-10-25 |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-10 | 2026-03-05 |
@@ -585,7 +586,7 @@
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-20 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/22pfvS6erjOrnAWrPpKyaO) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [Too Good At Goodbyes](https://open.spotify.com/album/7qqJJIUinG6YGnTqsRiFuc) | 3:04 | 2022-09-30 | 2025-10-25 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0IUnaP0Oov12pWc6xkFN9u) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Too Good At Goodbyes](https://open.spotify.com/album/25L7uxEVbeCdbo3sTQCtXh) | 3:07 | 2025-06-03 |  |
-| [Too Sweet](https://open.spotify.com/track/6ToeI6gnf3q6fc4xvF34KV) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Too Sweet](https://open.spotify.com/album/2rHYdgvnqvqthF196EN4eE) | 3:14 | 2025-10-24 |  |
+| [Too Sweet](https://open.spotify.com/track/6ToeI6gnf3q6fc4xvF34KV) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Too Sweet](https://open.spotify.com/album/2rHYdgvnqvqthF196EN4eE) | 3:14 | 2025-10-24 | 2026-03-21 |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-30 | 2023-02-10 |
 | [Top Gun Anthem](https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Top Gun Anthem](https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf) | 2:40 | 2023-04-14 | 2023-06-16 |
 | [Torn](https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Torn](https://open.spotify.com/album/5xmSaUNIPXxsjg8hZLyPPj) | 2:55 | 2023-04-14 | 2023-06-09 |
@@ -647,6 +648,7 @@
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-04-14 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/1XxKCjktvwlG0oaTLvn1aY) | [Jax Mullen](https://open.spotify.com/artist/1lbgMwCwS9vi4FU78sx3zg) | [Relaxing Covers \(Volume 1\)](https://open.spotify.com/album/4mf9XVzCHnRVkPqh2nr7Qe) | 2:52 | 2022-12-02 | 2023-06-03 |
 | [Wonderful Tonight](https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Wonderful Tonight](https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR) | 2:11 | 2022-10-28 | 2023-06-09 |
+| [Wonderwall](https://open.spotify.com/track/0027gfhSBPbqBGIKNJwIdc) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Wonderwall](https://open.spotify.com/album/1f4vkDIye2mfFSKxvmr1Go) | 3:48 | 2026-03-20 |  |
 | [Wonderwall](https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Wonderwall](https://open.spotify.com/album/5nBdxHBN2bSn9XlqEvtAks) | 2:54 | 2022-01-21 | 2023-06-03 |
 | [Wonderwall](https://open.spotify.com/track/3Gu5Ei9OVuXCVoILrSq7pR) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Wonderwall](https://open.spotify.com/album/74FjDXGyxjU8gSMKTt5st0) | 3:28 | 2023-04-14 | 2025-08-30 |
 | [Wooden Heart](https://open.spotify.com/track/7I8w2tPNmrgsopg92u7Vzx) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Wooden Heart](https://open.spotify.com/album/1ojOQWXVZPnHltSUnwlFBf) | 1:47 | 2022-12-16 | 2023-04-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Haute & Freddy",
-  "num_followers": 560134,
+  "num_followers": 560178,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjAHtDGvL8il/nI2dboKd4aKojE",
+  "snapshot_id": "AAAAAPXQWwOPNRHVy3ID7/rZGX9i2pUH",
   "tracks": [
     {
       "added_at": "2026-03-13 00:00:08",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
       "added_at": "2026-02-27 05:00:49",
       "album": {
         "name": "ALICE",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR"
     },
     {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Phone Sick",
+        "url": "https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 168284,
+      "name": "Phone Sick",
+      "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
+    },
+    {
       "added_at": "2025-12-05 05:00:09",
       "album": {
         "name": "Carnival",
@@ -185,20 +217,20 @@
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
     },
     {
-      "added_at": "2026-03-17 01:24:31",
+      "added_at": "2026-03-20 04:00:49",
       "album": {
-        "name": "Dolomites",
-        "url": "https://open.spotify.com/album/3xXGw52jV1FoN6qxOntSNn"
+        "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
       },
       "artists": [
         {
-          "name": "Ella Clayton",
-          "url": "https://open.spotify.com/artist/1ZByOuc2TRBPaHWXl8Nyem"
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
         }
       ],
-      "duration_ms": 156030,
-      "name": "Dolomites",
-      "url": "https://open.spotify.com/track/6JRmBFYjeT7lmrM6asXkPx"
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2"
     },
     {
       "added_at": "2025-11-14 05:00:24",
@@ -311,6 +343,22 @@
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-03-17 01:24:31",
+      "album": {
+        "name": "Dolomites",
+        "url": "https://open.spotify.com/album/3xXGw52jV1FoN6qxOntSNn"
+      },
+      "artists": [
+        {
+          "name": "Ella Clayton",
+          "url": "https://open.spotify.com/artist/1ZByOuc2TRBPaHWXl8Nyem"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Dolomites",
+      "url": "https://open.spotify.com/track/6JRmBFYjeT7lmrM6asXkPx"
     },
     {
       "added_at": "2025-06-20 04:00:48",

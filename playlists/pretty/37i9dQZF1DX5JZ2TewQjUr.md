@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,048 likes - 108 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,059 likes - 108 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 107 | [實況模擬異聞錄](https://open.spotify.com/track/7I05vjD4cgadVzjRuYdmnU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Persona Within](https://open.spotify.com/album/3dJE2QifQalKMeysswX2mc) | 3:23 |
 | 108 | [二都夜想曲 \- 一人幻想篇](https://open.spotify.com/track/69hnrKn1Tqc4sQFy7AHn4C) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [Revery](https://open.spotify.com/artist/6RvZ5IrpCh6dKzd5qwBg8Z) | [二都夜想曲 \(一人幻想篇\)](https://open.spotify.com/album/2u3SGETwUfHNDbgcWjOkDT) | 4:09 |
 
-Snapshot ID: `AAAAAHLMvvi6LnSwI3CvfyDi7WJ8ro/L`
+Snapshot ID: `AAAAAPGQGxS/FN5a8T/oaVOzi2tZn+eH`

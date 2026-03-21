@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-500 songs - 1 day 5 hr 12 min
+501 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [I Can’t Party](https://open.spotify.com/track/31gtPpV9n1BA6gPEWvTSwe) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:25 | 2023-04-28 | 2023-05-20 |
 | [I Can’t Party](https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 2:25 | 2023-04-28 | 2023-06-03 |
 | [I Can’t Party](https://open.spotify.com/track/4pFrDeqwMlqbrwDldsrrFY) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2V1CcJjn3BnrSgHAhwqdjV) | 2:25 | 2023-04-28 | 2023-05-27 |
-| [I Can’t Party](https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [I Can’t Party](https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz) | 2:25 | 2023-04-28 |  |
+| [I Can’t Party](https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [I Can’t Party](https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz) | 2:25 | 2023-04-28 | 2026-03-21 |
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn) | 2:50 | 2023-09-01 | 2024-11-16 |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |
@@ -335,6 +335,7 @@
 | [Old Skool Funk](https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Warrior Princess](https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N) | 4:33 | 2025-06-06 |  |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 | 2024-03-15 |  |
+| [One More Hit](https://open.spotify.com/track/72aGI2Ou1FxGFRUEaLzoFQ) | [Brother Strut](https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg) | [One More Hit](https://open.spotify.com/album/4Xvfd1guvTrWHj1vKaa5v8) | 2:55 | 2026-03-20 |  |
 | [Online](https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Digital Nightmare](https://open.spotify.com/album/4qkSsAWMPhXTEwXZIDnlJv) | 4:14 | 2024-03-22 | 2025-08-30 |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 | 2022-08-27 |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2020-11-20 | 2022-04-09 |

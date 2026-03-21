@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: CA7RIEL & Paco Amoroso & Jack Black",
+  "description": "Fresh Latin Indie you should know. Cover: Sofia Thompson",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 149888,
       "name": "Chevrolet, Mercedes-Benz",
       "url": "https://open.spotify.com/track/1tIiTQUkUsZjQMVdGEpn4K"
@@ -4587,6 +4587,24 @@
     },
     {
       "album": {
+        "name": "DESAYUNO",
+        "url": "https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147001,
+      "name": "DESAYUNO",
+      "url": "https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE"
+    },
+    {
+      "album": {
         "name": "desde arriba",
         "url": "https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX"
       },
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192631,
       "name": "Dmentes",
       "url": "https://open.spotify.com/track/4JCXV1hCrHFV0YiAe6KhV3"
@@ -5372,7 +5390,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 219163,
       "name": "echar el vuelo",
       "url": "https://open.spotify.com/track/4pdwknmiUujyfOE3wgmlOo"
@@ -6264,6 +6282,24 @@
       "duration_ms": 141818,
       "name": "Enculado - feat. Nsqk",
       "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
+    },
+    {
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "album": {
@@ -7194,7 +7230,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 280446,
       "name": "Frecuencias - Spotify Sessions",
       "url": "https://open.spotify.com/track/2uFr0p183WqZRDOdZH1hXX"
@@ -9056,7 +9092,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 189077,
       "name": "La L\u00ednea",
       "url": "https://open.spotify.com/track/1gmTrmmwVLz2lpSkecpAa5"
@@ -11364,7 +11400,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 189598,
       "name": "ME TEN\u00cdA QUE PASAR",
       "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
@@ -16191,6 +16227,24 @@
     },
     {
       "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164105,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ"
+    },
+    {
+      "album": {
         "name": "Rayito",
         "url": "https://open.spotify.com/album/6CmU8vDnqClALZUd8P2Zli"
       },
@@ -16795,6 +16849,24 @@
     },
     {
       "album": {
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171224,
+      "name": "se fue",
+      "url": "https://open.spotify.com/track/1KCz0aKX8syLE5bDxo7jmE"
+    },
+    {
+      "album": {
         "name": "Se siente bien",
         "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
       },
@@ -17368,7 +17440,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 136000,
       "name": "SOL Y LUNA",
       "url": "https://open.spotify.com/track/5ORqmPHKaLiacFBfYqIhkm"
@@ -17832,6 +17904,24 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
+    },
+    {
+      "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0BQwKDc2K4PdXlMFXG7mYM"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81850,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/4twvBCWtpjoSox01KMfgMB"
     },
     {
       "album": {
@@ -20459,6 +20549,24 @@
     },
     {
       "album": {
+        "name": "FREE SPIRITS",
+        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155255,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"
+    },
+    {
+      "album": {
         "name": "Vida Nueva",
         "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
       },
@@ -20676,6 +20784,24 @@
       "duration_ms": 242000,
       "name": "Volv\u00e9s",
       "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
+    },
+    {
+      "album": {
+        "name": "Vol\u00e1ndose De Ti",
+        "url": "https://open.spotify.com/album/3q9RIPGOFxPwQK6Z7DLWoj"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141789,
+      "name": "Vol\u00e1ndose De Ti",
+      "url": "https://open.spotify.com/track/4lBcbMwhoZG14ia29oiVPP"
     },
     {
       "album": {

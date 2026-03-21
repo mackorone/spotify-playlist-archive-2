@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Gilsons",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Gabriel Gonti, Anna P\u00eago",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -4179,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "C\u00e9u Rosa",
+        "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150383,
+      "name": "C\u00e9u Rosa",
+      "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
+    },
+    {
+      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -5020,6 +5038,28 @@
       "duration_ms": 188518,
       "name": "DESCOBRIDOR",
       "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+    },
+    {
+      "album": {
+        "name": "Descomplica",
+        "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Descomplica",
+      "url": "https://open.spotify.com/track/5EtFeOIW4qKLYlMKnE343d"
     },
     {
       "album": {
@@ -8805,6 +8845,28 @@
     },
     {
       "album": {
+        "name": "MARIA, MEDUSA",
+        "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161386,
+      "name": "MARIA, MEDUSA",
+      "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Popular Brasadelic",
         "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
       },
@@ -10235,6 +10297,24 @@
     },
     {
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "album": {
         "name": "No Teu Mar",
         "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
       },
@@ -10578,7 +10658,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 155205,
       "name": "N\u00e3o Presta",
       "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
@@ -12068,7 +12148,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 174817,
       "name": "Poder Amar",
       "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
@@ -14964,7 +15044,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186465,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
@@ -16670,7 +16750,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"

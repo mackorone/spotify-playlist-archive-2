@@ -1,13 +1,117 @@
 {
-  "description": "New jazz for open minds. Cover: Walter Smith III",
-  "num_followers": 1047071,
+  "description": "New jazz for open minds. Cover: SPINALL",
+  "num_followers": 1047107,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+zLUvbPUvCfS8l9ARCPUswtxAW",
+  "snapshot_id": "AAAAAMWTSoUkYTNOcN/dmyXX9VMXDOsi",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:54",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/3ehJxu0Y4xuXMJyaYCpv0a"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
+    },
+    {
+      "added_at": "2026-03-20 04:00:54",
+      "album": {
+        "name": "When Lagos Sleeps",
+        "url": "https://open.spotify.com/album/3MTAJWcFRUAfH3FF4E96wp"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Metric Rules",
+      "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
+    },
+    {
+      "added_at": "2026-03-20 04:00:54",
+      "album": {
+        "name": "Sister Annie",
+        "url": "https://open.spotify.com/album/6NXYfUiqNJl5sOIYxovlox"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Rane Moore",
+          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
+        },
+        {
+          "name": "Zekkereya El-Magharbel",
+          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "duration_ms": 350295,
+      "name": "Sister Annie",
+      "url": "https://open.spotify.com/track/3asAyVx1OdynBHNWGRiQis"
+    },
+    {
+      "added_at": "2026-03-20 04:00:54",
+      "album": {
+        "name": "Alkebulan",
+        "url": "https://open.spotify.com/album/34NGzvrsgf0tpVyGILN9sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Nero",
+          "url": "https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m"
+        },
+        {
+          "name": "Sean Jones",
+          "url": "https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6"
+        },
+        {
+          "name": "Warren Wolf",
+          "url": "https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 489093,
+      "name": "Alkebulan",
+      "url": "https://open.spotify.com/track/5fTIxOm94RyAgkKtmSzdUB"
+    },
     {
       "added_at": "2026-03-06 05:00:24",
       "album": {
@@ -261,66 +365,6 @@
       "url": "https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1"
     },
     {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "Osawatomie Brown",
-        "url": "https://open.spotify.com/album/02rPLF67JWO8SnymQdqDT4"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Burniss Travis",
-          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Rane Moore",
-          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
-        },
-        {
-          "name": "Zekkereya El-Magharbel",
-          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
-        },
-        {
-          "name": "Sara Caswell",
-          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
-        }
-      ],
-      "duration_ms": 452533,
-      "name": "Osawatomie Brown",
-      "url": "https://open.spotify.com/track/6xwyZfZeXe5mMi3vg91qxe"
-    },
-    {
-      "added_at": "2026-02-20 05:00:38",
-      "album": {
-        "name": "Body Flows",
-        "url": "https://open.spotify.com/album/1IPUqYUEmBsnKABRdjpAzk"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "eniola",
-          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Body Flows",
-      "url": "https://open.spotify.com/track/7upfL0aBLyS0Et87s2dhP0"
-    },
-    {
       "added_at": "2026-02-20 05:00:38",
       "album": {
         "name": "hollyweird",
@@ -449,30 +493,6 @@
       "url": "https://open.spotify.com/track/11tFXzLezhHKquc1Bz3f63"
     },
     {
-      "added_at": "2026-02-13 05:34:15",
-      "album": {
-        "name": "Who Does She Hope to Be?",
-        "url": "https://open.spotify.com/album/1sKugJFD1PO33rTr8XVC99"
-      },
-      "artists": [
-        {
-          "name": "Matthew Stevens",
-          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
-        },
-        {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        },
-        {
-          "name": "Jeff Parker",
-          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
-        }
-      ],
-      "duration_ms": 352986,
-      "name": "Who Does She Hope to Be?",
-      "url": "https://open.spotify.com/track/4bm49j9mk23myMntpAdx88"
-    },
-    {
       "added_at": "2026-01-09 05:00:24",
       "album": {
         "name": "Saturday Spin",
@@ -519,26 +539,6 @@
       "duration_ms": 676374,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
-    },
-    {
-      "added_at": "2026-01-09 05:00:24",
-      "album": {
-        "name": "Red Herring",
-        "url": "https://open.spotify.com/album/4t4goUpjyk86iqV8HVTJkH"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Red Herring",
-      "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
     },
     {
       "added_at": "2025-11-21 05:47:14",

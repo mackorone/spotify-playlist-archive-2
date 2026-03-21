@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 77591,
+  "num_followers": 77602,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
+        "name": "Ghalta",
+        "url": "https://open.spotify.com/album/0geJTiK5HGDu4C5XLR20XH"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 212876,
+      "name": "Ghalta",
+      "url": "https://open.spotify.com/track/3AqxIuMAi2dzwxRJ7JYjl9"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
         "name": "Ahwak ( Version)",
         "url": "https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 94432,
       "name": "Ahwak - Acoustic",
       "url": "https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
-        "name": "Best of Cameleon",
-        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "Walleh",
-      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
     },
     {
       "added_at": "2025-10-06 14:50:07",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Ghalta",
-        "url": "https://open.spotify.com/album/0geJTiK5HGDu4C5XLR20XH"
+        "name": "Best of Cameleon",
+        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
       },
       "artists": [
         {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
         }
       ],
-      "duration_ms": 212876,
-      "name": "Ghalta",
-      "url": "https://open.spotify.com/track/3AqxIuMAi2dzwxRJ7JYjl9"
+      "duration_ms": 295266,
+      "name": "Walleh",
+      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
     },
     {
       "added_at": "2025-10-06 14:50:07",

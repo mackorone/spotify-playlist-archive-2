@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Jxggi",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Tegi Pannu",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 185000,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 234947,
       "name": "GTA Mohali",
       "url": "https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk"
@@ -3404,6 +3404,32 @@
       "duration_ms": 151218,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp"
+    },
+    {
+      "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT"
+      },
+      "artists": [
+        {
+          "name": "Tegi Pannu",
+          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        },
+        {
+          "name": "Kahlon",
+          "url": "https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137049,
+      "name": "JDP",
+      "url": "https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq"
     },
     {
       "album": {
@@ -6762,6 +6788,32 @@
       "duration_ms": 200258,
       "name": "Tutor",
       "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"
+    },
+    {
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/50NTaDj02AgmPuRKBaJXXA"
+      },
+      "artists": [
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "UNDERTAKER (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/40KKnNrh0mkxhqQEUfhFYU"
     },
     {
       "album": {

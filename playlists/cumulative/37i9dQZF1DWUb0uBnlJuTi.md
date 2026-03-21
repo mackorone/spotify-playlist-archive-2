@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-453 songs - 1 day 10 hr 22 min
+454 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 | 2023-04-14 |  |
 | [Free Angela \(Thoughts… And All I've Got To Say\)](https://open.spotify.com/track/1VUnI5Inw1b7ZyVw5jnkaq) | [Bayete](https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4) | [Jazz Dispensary: Cosmic Stash](https://open.spotify.com/album/0740sT0ZV7SBbkQscLSYM5) | 5:17 | 2020-10-09 | 2022-07-14 |
 | [Freeman Square](https://open.spotify.com/track/7aWuAaepHToCUIMROd80Ze) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Freeman Square](https://open.spotify.com/album/1mJmd8HI5eo9hmKwKqLv8X) | 5:14 | 2023-06-16 | 2023-07-15 |
+| [Func and Sync](https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Biblion](https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj) | 5:38 | 2026-03-20 |  |
 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 | 2020-10-09 | 2023-03-11 |
 | [Funk in the Hole](https://open.spotify.com/track/5i3bRLDZoGrFSaGob3Pn07) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Suol Mates : Fritz Kalkbrenner](https://open.spotify.com/album/4vzotWY7P0SK5Y0IsaHZYL) | 5:36 | 2020-10-09 | 2022-04-20 |
 | [Funkia](https://open.spotify.com/track/1SqskptrodTat0yps72Xjg) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Mickey Roker](https://open.spotify.com/artist/6zMUrKoPJzeSPf9ueaOS0j), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Michael Longo](https://open.spotify.com/artist/6bhfRQonMvDp85imcp4dI1) | [Funkia](https://open.spotify.com/album/4iiHoiAAUfNsiijVp8zpHk) | 5:47 | 2020-10-09 |  |
@@ -303,7 +304,7 @@
 | [Rumble in the Jungle](https://open.spotify.com/track/3o5ybQryQMrAG4NcT9UYth) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 5:59 | 2020-10-09 |  |
 | [Running Away](https://open.spotify.com/track/0h4r3AE752IOrp8cdpAImC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/4eY9301DYHcUr96oOXuLlL) | 6:55 | 2020-10-09 | 2026-02-28 |
 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 | 2020-10-09 | 2024-04-19 |
-| [Running In Fear From Imaginary Assailants](https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [John Ellis](https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR), [Derrek Phillips](https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x) | [Friends Seen and Unseen \(2022 Remaster\)](https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm) | 3:42 | 2022-11-11 |  |
+| [Running In Fear From Imaginary Assailants](https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [John Ellis](https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR), [Derrek Phillips](https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x) | [Friends Seen and Unseen \(2022 Remaster\)](https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm) | 3:42 | 2022-11-11 | 2026-03-21 |
 | [Rush Hour](https://open.spotify.com/track/4gZQtkTRTa1iYd58pBDTOw) | [Phoenician Blinds](https://open.spotify.com/artist/7h8xpeKN3WG7fHgj8pc7SW) | [Rush Hour](https://open.spotify.com/album/2LIUUx08Dw3IFqtDWCmTeE) | 4:12 | 2020-10-09 |  |
 | [Rushing](https://open.spotify.com/track/4ttyuisGzPrVAAfAeTmbXC) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Rushing](https://open.spotify.com/album/2xE5eptuLVhx3nBoT8D7Md) | 3:12 | 2022-04-08 | 2022-07-24 |
 | [Safely Far](https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Safely Far](https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn) | 3:05 | 2023-06-23 | 2023-09-16 |

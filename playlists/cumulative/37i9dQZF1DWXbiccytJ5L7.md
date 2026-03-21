@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-176 songs - 9 hr 17 min
+177 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Escape](https://open.spotify.com/track/3dqB7rcjQOck6MbWfV4Nhd) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [Since Birth](https://open.spotify.com/album/00TQLFYMVs0VjBsHLiASzh) | 2:30 | 2023-03-17 | 2023-05-27 |
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-03-17 |  |
 | [Firewood](https://open.spotify.com/track/4jkp3lwbbXDbqiaRib0Irt) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Firewood](https://open.spotify.com/album/4Uqf1mfIBwljmWI03YjsUC) | 3:09 | 2024-08-23 |  |
+| [FKN Hate You](https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [FKN Hate You](https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ) | 2:31 | 2026-03-20 |  |
 | [For My Kinfoke](https://open.spotify.com/track/0FrSK4s7R9gNCSM9JFNOZk) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [For My Kinfoke](https://open.spotify.com/album/3eTIfdShz9mfOG4Q1Uw5R4) | 3:31 | 2023-06-30 | 2025-05-03 |
 | [Forgive Me](https://open.spotify.com/track/2mBnRpo3EECA5UB24qU2AS) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:31 | 2023-03-17 | 2023-08-21 |
 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 | 2023-06-30 | 2023-07-29 |

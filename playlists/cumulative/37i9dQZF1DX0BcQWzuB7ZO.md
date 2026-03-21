@@ -2,7 +2,7 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Fred again..
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Mall Grab
 
 506 songs - 1 day 2 hr 17 min
 

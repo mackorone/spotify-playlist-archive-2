@@ -2,9 +2,9 @@
 
 ### [Chilled Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2vYju3i0lNX)
 
-> Mellow jazz for springtime focus or unwinding.
+> Mellow jazz for focus or unwinding.
 
-1,322 songs - 3 day 5 hr 38 min
+1,325 songs - 3 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2021-12-07 | 2025-01-21 |
 | [I'll Be There](https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I'll Be There](https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH) | 3:50 | 2023-12-22 | 2024-10-22 |
 | [I'll Give You My Heartache](https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [I'll Give You My Heartache](https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE) | 3:47 | 2024-11-12 |  |
-| [I'll Never Smile Again](https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Never Smile Again](https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz) | 2:46 | 2024-02-02 |  |
+| [I'll Never Smile Again](https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Never Smile Again](https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz) | 2:46 | 2024-02-02 | 2026-03-21 |
 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 | 2023-02-16 | 2025-11-19 |
 | [I'll Remember April](https://open.spotify.com/track/2cZnKG4dSaeFUjzseX2FcJ) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I'll Remember April](https://open.spotify.com/album/69LhLZfkMImf8AL2mLhwps) | 3:27 | 2023-09-08 | 2025-11-19 |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 | 2025-05-06 |
@@ -792,6 +792,7 @@
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2021-12-07 | 2023-05-05 |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 | 2024-12-10 |
 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 | 2023-09-22 | 2025-11-19 |
+| [My side of the story](https://open.spotify.com/track/0cgt96rsp3FGmnmc3Cp10Y) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [My side of the story](https://open.spotify.com/album/5WDmMwEAgrWhmtFIsNanAr) | 2:52 | 2026-03-20 |  |
 | [My Special Waltz](https://open.spotify.com/track/2gAXDPR92WmrdhJBJWyKGY) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [My Special Waltz](https://open.spotify.com/album/5C6s63fnTb9BBMIBmJ7hvA) | 2:39 | 2024-10-07 | 2025-11-19 |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 | 2025-10-01 |
 | [My Wish](https://open.spotify.com/track/6ERqZeJqEPRgPxRMz0llJd) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [My Wish](https://open.spotify.com/album/0MsM4zn5zQaK4nEBOqiF8L) | 3:36 | 2025-07-15 |  |
@@ -996,7 +997,7 @@
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-04-27 | 2025-11-19 |
 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2021-12-07 | 2023-01-06 |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2021-12-07 | 2025-11-19 |
-| [Someone](https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Someone](https://open.spotify.com/album/7EA2dwsFpmf7ly4y6HJPuh) | 3:56 | 2024-04-16 |  |
+| [Someone](https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Someone](https://open.spotify.com/album/7EA2dwsFpmf7ly4y6HJPuh) | 3:56 | 2024-04-16 | 2026-03-21 |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2022-08-30 | 2024-12-17 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Someone To Watch Over Me](https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK) | 3:38 | 2023-08-10 | 2024-07-23 |
 | [Someone Who Cares](https://open.spotify.com/track/0eZ3jhJZ0CaJlzA2P8aFg1) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Someone Who Cares](https://open.spotify.com/album/4Rs1KWViTe3YQA4VurK36S) | 3:36 | 2025-05-05 |  |
@@ -1039,6 +1040,7 @@
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-05-09 | 2024-11-19 |
 | [Still Not Found](https://open.spotify.com/track/4HWUGeT2caYlO3busEJole) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Still Not Found](https://open.spotify.com/album/1KskVMt5yjecImxWaMp5Tx) | 3:32 | 2025-07-01 |  |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-07 | 2023-05-26 |
+| [Stillness Speaks](https://open.spotify.com/track/748OwqyAi40p9XLUU2IFji) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Stillness Speaks](https://open.spotify.com/album/63Gw114JVR9NZdI7oY1YzG) | 3:54 | 2026-03-20 |  |
 | [Stolen Moments](https://open.spotify.com/track/2lPFkEojlBdFCJLRBXNzWZ) | [Alan Perlman Band](https://open.spotify.com/artist/5kGJAOqdAbWQoN33QkJNqU) | [I Left My Heart In San Francisco](https://open.spotify.com/album/1jg1XcWBC9rbZ1Di48WR7S) | 3:14 | 2021-12-07 | 2022-05-10 |
 | [Stories We Used to Tell](https://open.spotify.com/track/5kVlZweAbWgj5hJclUFqhl) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Stories We Used to Tell](https://open.spotify.com/album/3VK0Etwl39l0FmJIBqHtUG) | 3:42 | 2025-09-30 |  |
 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 | 2022-08-30 | 2025-11-19 |
@@ -1126,6 +1128,7 @@
 | [The Still Sea](https://open.spotify.com/track/4uPFUk6X8UtLgzMO3NknL2) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The Still Sea](https://open.spotify.com/album/19lvEK9K1dlV5kzYJK53Wx) | 2:59 | 2025-03-10 |  |
 | [The Sun Descending](https://open.spotify.com/track/2Z40l10k74qcQAP88F5KEY) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [The Sun Descending](https://open.spotify.com/album/25kaAnpI8CH5ARKQQrdfPp) | 2:18 | 2021-12-07 | 2024-07-09 |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-05-11 | 2025-11-19 |
+| [The Three Of Us](https://open.spotify.com/track/0R7N2b82rZfCb574geg8J4) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [The Three of Us](https://open.spotify.com/album/73JU0L7WZYHKzskNkMhLYb) | 3:27 | 2026-03-20 |  |
 | [The Times We Almost Spoke](https://open.spotify.com/track/50XpKvY6g0lmk3RLOV9KzX) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [The Times We Almost Spoke](https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN) | 4:09 | 2024-12-16 |  |
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-06 | 2024-01-12 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 | 2025-11-19 |
@@ -1188,7 +1191,7 @@
 | [Torresdale](https://open.spotify.com/track/2K8Q1GWnm5hmK9J0Af64J1) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Torresdale](https://open.spotify.com/album/5BNKfCWraYs5eJIOW6PmiE) | 3:54 | 2024-04-10 | 2025-02-04 |
 | [Touch the Rain](https://open.spotify.com/track/3GfhoIHnXnpJpdkcIlbYMW) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Touch the Rain](https://open.spotify.com/album/2F22CZYdMUPlJewidsKPi7) | 3:41 | 2024-02-23 | 2024-10-15 |
 | [Tram No\. 3](https://open.spotify.com/track/2BMUFazVbimjPkmMfc2EzQ) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Tram No\. 3](https://open.spotify.com/album/39yBpVA2xAeOyiqbWP4kXY) | 3:15 | 2026-01-09 |  |
-| [Tranquility](https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Tranquility](https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V) | 3:26 | 2024-06-17 |  |
+| [Tranquility](https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Tranquility](https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V) | 3:26 | 2024-06-17 | 2026-03-21 |
 | [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-05-25 | 2024-06-25 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-25 | 2025-03-19 |
 | [Turn the other cheek](https://open.spotify.com/track/2Gl2AJ2xIWCTVEbzHyEXZc) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Turn the other cheek](https://open.spotify.com/album/5UQigi03bmrCbTeXt6kQY6) | 4:17 | 2024-09-02 | 2026-01-15 |

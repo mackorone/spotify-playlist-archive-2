@@ -1,38 +1,66 @@
 {
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Grupo Triunfadores, Posadas\ud83d\udcf8",
-  "num_followers": 366967,
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar \ud83d\udcf8",
+  "num_followers": 366976,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtyywm7blvYkojmVqAL4cuLsfLs",
+  "snapshot_id": "AAAAAG3AUZagCvKL/kCZWf0E31HEb3BZ",
   "tracks": [
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Se Me Sigue Olvidando",
-        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
       "artists": [
         {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        },
-        {
-          "name": "Posadas",
-          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 179566,
-      "name": "Se Me Sigue Olvidando",
-      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
+      "duration_ms": 183993,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Am\u00e9",
-        "url": "https://open.spotify.com/album/1zwhYXkqsGpFHTFoCA5dmY"
+        "name": "Rolitas Para Mis Abuelos",
+        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 230802,
+      "name": "100 Horas",
+      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "MIL RAZONES",
+        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 176597,
+      "name": "MIL RAZONES",
+      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Incompatibles",
+        "url": "https://open.spotify.com/album/7cogm05e8Q4uStWVUY2JFB"
       },
       "artists": [
         {
@@ -40,12 +68,12 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 206410,
-      "name": "Am\u00e9",
-      "url": "https://open.spotify.com/track/0Ld2aKtIASbu5EFl3rRcIp"
+      "duration_ms": 173500,
+      "name": "Incompatibles",
+      "url": "https://open.spotify.com/track/4juql59uxr41uXNRuDpm5V"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Sin Despedida",
         "url": "https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y"
@@ -65,71 +93,55 @@
       "url": "https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Mi Suerte Es Ser Mexicano",
-        "url": "https://open.spotify.com/album/6CFRm5Yl5Xs7AKfUs9l0sr"
+        "name": "Despu\u00e9s de ti",
+        "url": "https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Victor Rodhes",
+          "url": "https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk"
         }
       ],
-      "duration_ms": 183168,
-      "name": "Vamos Tarde",
-      "url": "https://open.spotify.com/track/2U1OgtH2exZnlcPvcijznV"
+      "duration_ms": 222068,
+      "name": "Despu\u00e9s de ti",
+      "url": "https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS"
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
         }
       ],
-      "duration_ms": 262499,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk"
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "No Voy a Regresar",
-        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 195922,
-      "name": "No Voy a Regresar",
-      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Contigo Quiero (A Caballo)",
         "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
@@ -145,10 +157,42 @@
       "url": "https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "La Que Se Fue, Se Fue",
+        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
       },
       "artists": [
         {
@@ -156,28 +200,12 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/2xxSZ3aezlxcuvZ5vECDYZ"
+      "duration_ms": 159621,
+      "name": "La Que Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Incompatibles",
-        "url": "https://open.spotify.com/album/7cogm05e8Q4uStWVUY2JFB"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Incompatibles",
-      "url": "https://open.spotify.com/track/4juql59uxr41uXNRuDpm5V"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
         "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
@@ -197,7 +225,39 @@
       "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
+      },
+      "artists": [
+        {
+          "name": "Horacio de Jes\u00fas",
+          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
@@ -213,7 +273,23 @@
       "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
@@ -229,39 +305,7 @@
       "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 153216,
-      "name": "Nadie Se Va Como Lleg\u00f3",
-      "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "La Que Se Fue, Se Fue",
-        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "La Que Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Me Retir\u00e9",
         "url": "https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
@@ -293,71 +337,7 @@
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "No Me S\u00e9 Rajar",
-        "url": "https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 145960,
-      "name": "No Me S\u00e9 Rajar",
-      "url": "https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "D\u00f3nde y Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "D\u00f3nde y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "As\u00ed Fue (En Vivo)",
-        "url": "https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 336785,
-      "name": "As\u00ed Fue - En Vivo",
-      "url": "https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "La Perra",
         "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
@@ -373,7 +353,39 @@
       "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "D\u00f3nde y Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
@@ -393,7 +405,7 @@
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Ley De La Atracci\u00f3n",
         "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
@@ -409,7 +421,7 @@
       "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Vives En M\u00ed",
         "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
@@ -425,23 +437,23 @@
       "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Nadie Se Va Como Lleg\u00f3",
-        "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
+        "name": "No Voy a Regresar",
+        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
         }
       ],
-      "duration_ms": 189628,
-      "name": "A Dos De Borrarte",
-      "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
+      "duration_ms": 195922,
+      "name": "No Voy a Regresar",
+      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Amarte A La Medida",
         "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
@@ -461,23 +473,7 @@
       "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "A Mi Manera (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
-        "url": "https://open.spotify.com/album/1OqwSPoKvOuB74ABgk5soy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 328301,
-      "name": "A Mi Manera - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
-      "url": "https://open.spotify.com/track/5uHGmZtbFPrrkzY0rrQtQm"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "El Hombre Que Yo Amo",
         "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
@@ -493,7 +489,7 @@
       "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Lo Que Se Dice Amor",
         "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
@@ -509,7 +505,7 @@
       "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
         "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Un Abrazo (Versi\u00f3n Regional)",
         "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
@@ -545,23 +541,7 @@
       "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Un Mill\u00f3n de Primaveras (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
-        "url": "https://open.spotify.com/album/52n0QZM9FyHHUUr8fCfGD9"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "Un Mill\u00f3n de Primaveras - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
-      "url": "https://open.spotify.com/track/3gLpE07HHc5pMToWnHnR4I"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
@@ -577,7 +557,7 @@
       "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Una Limosna",
         "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "El tiempo no pasa",
         "url": "https://open.spotify.com/album/6ne58W815mIAAhJMenMNO2"
@@ -609,39 +589,7 @@
       "url": "https://open.spotify.com/track/3T25RreM2k4tI5cNoCU11k"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
-        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 171365,
-      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
-      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
@@ -657,7 +605,7 @@
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
@@ -673,7 +621,7 @@
       "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
@@ -693,7 +641,7 @@
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "En Las Cantinas (En vivo)",
         "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
@@ -709,7 +657,7 @@
       "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Retumbando En El Cora",
         "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
@@ -725,39 +673,7 @@
       "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 259144,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Nunca Hab\u00eda Amado As\u00ed",
-        "url": "https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222711,
-      "name": "Nunca Hab\u00eda Amado As\u00ed",
-      "url": "https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/1SrgjuCekkVs95avp3jG2I"
@@ -773,7 +689,43 @@
       "url": "https://open.spotify.com/track/1vXiscTkiwtQR9pAE35Qwy"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Nunca Hab\u00eda Amado As\u00ed",
+        "url": "https://open.spotify.com/album/3IdfDl8gfoQIyPRitAFcvK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222711,
+      "name": "Nunca Hab\u00eda Amado As\u00ed",
+      "url": "https://open.spotify.com/track/7LVYiFrrWZA0Ui2fVT7z4p"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Se Me Sigue Olvidando",
+        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        },
+        {
+          "name": "Posadas",
+          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+        }
+      ],
+      "duration_ms": 179566,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Mi M\u00e9xico Mestizo",
         "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
@@ -789,7 +741,7 @@
       "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
@@ -805,7 +757,7 @@
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
@@ -821,7 +773,7 @@
       "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
@@ -837,23 +789,7 @@
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
@@ -873,7 +809,23 @@
       "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Bailando De A Cart\u00f3n",
         "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
@@ -889,7 +841,7 @@
       "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Pagar\u00e9 Condena",
         "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
@@ -905,7 +857,7 @@
       "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "As\u00ed Son Las Cosas",
         "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
@@ -921,23 +873,7 @@
       "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "No Puedo Dormir Sin Ti",
-        "url": "https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "No Puedo Dormir Sin Ti",
-      "url": "https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
@@ -953,7 +889,7 @@
       "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/2Ml3uMdJW2Dzub5GkfTSUp"
@@ -977,7 +913,7 @@
       "url": "https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
@@ -997,43 +933,7 @@
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
-        }
-      ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 286820,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Los Laureles",
         "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
@@ -1057,7 +957,27 @@
       "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
+        }
+      ],
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Traigan Las Otras",
         "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
@@ -1073,7 +993,7 @@
       "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
@@ -1089,23 +1009,7 @@
       "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "No Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "No Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
@@ -1125,7 +1029,7 @@
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
@@ -1141,7 +1045,7 @@
       "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Le Voy a Pedir a Dios",
         "url": "https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic"
@@ -1157,7 +1061,7 @@
       "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
@@ -1173,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
@@ -1189,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Se te olvid\u00f3",
         "url": "https://open.spotify.com/album/4a7YeSO2gi7cJmDt64QHpm"
@@ -1205,7 +1109,7 @@
       "url": "https://open.spotify.com/track/2q2721jaXxxjYGDonXN1u3"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Nadie Me Escribe La Vida",
         "url": "https://open.spotify.com/album/100q2avXshpAXbj9djyoaz"
@@ -1221,7 +1125,7 @@
       "url": "https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Los Amigos Asi",
         "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
@@ -1237,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
@@ -1253,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Juro Que Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP"
@@ -1269,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Mariachi y Norte\u00f1o",
         "url": "https://open.spotify.com/album/24ssNJt1pKcLkG6CadBw02"
@@ -1285,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2tGXd9lzFREBUdWwcoA48V"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Mi gran pa\u00eds",
         "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
@@ -1301,7 +1205,7 @@
       "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
@@ -1317,23 +1221,7 @@
       "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "SE\u00d1ORA HITS",
-        "url": "https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 196934,
-      "name": "La Gata Bajo La Lluvia",
-      "url": "https://open.spotify.com/track/4w1jKE1NhrfkEct3sWCABv"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Se\u00f1or Dios",
         "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
@@ -1349,23 +1237,7 @@
       "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
-        "name": "Carita de Cielo",
-        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Carita de Cielo",
-      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Esta vez te digo adios",
         "url": "https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA"
@@ -1381,7 +1253,23 @@
       "url": "https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Carita de Cielo",
+        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Carita de Cielo",
+      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "#RANCHICAN",
         "url": "https://open.spotify.com/album/7yUCGDx0gG1T0kOH1Po7R0"
@@ -1397,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4GbBqCjhsc2NmWkzfqi0RX"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Si Ya Te Valgo",
         "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
@@ -1413,7 +1301,7 @@
       "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Por Un Amor",
         "url": "https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf"
@@ -1429,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Ay\u00fadame A Creer",
         "url": "https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH"
@@ -1445,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL"
     },
     {
-      "added_at": "2026-03-13 06:00:13",
+      "added_at": "2026-03-20 06:00:09",
       "album": {
         "name": "Diferentes",
         "url": "https://open.spotify.com/album/70KakLAZ82chHwTzdHU020"

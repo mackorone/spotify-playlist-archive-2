@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9075,
+  "num_followers": 9079,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAPtA7pY+P+q7tm8ftyBkOSQCXop9YT",
+  "snapshot_id": "AAAPwtl+3Ly58v0j7oxlEw90ZdalSVu5",
   "tracks": [
+    {
+      "added_at": "2026-03-20 18:54:46",
+      "album": {
+        "name": "An Undying Love for a Burning World",
+        "url": "https://open.spotify.com/album/6R9JG8pkMHdGz031ceugiM"
+      },
+      "artists": [
+        {
+          "name": "Neurosis",
+          "url": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+        }
+      ],
+      "duration_ms": 339501,
+      "name": "Mirror Deep",
+      "url": "https://open.spotify.com/track/6bEPtGlc4sixMMcsG0nPHT"
+    },
+    {
+      "added_at": "2026-03-20 18:54:35",
+      "album": {
+        "name": "Mizery",
+        "url": "https://open.spotify.com/album/1VeKZ4tkfo7t3G6ulLxYc1"
+      },
+      "artists": [
+        {
+          "name": "Mizery",
+          "url": "https://open.spotify.com/artist/1jtr0Jugsg69AGlDW4cqsX"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Renegade Rhythm",
+      "url": "https://open.spotify.com/track/7GfxdRuest3shHqkiXldSj"
+    },
+    {
+      "added_at": "2026-03-20 18:54:24",
+      "album": {
+        "name": "Skies cast amber black",
+        "url": "https://open.spotify.com/album/3ZAcZtZ0QRXCArDQ6kCe3P"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Skies cast amber black",
+      "url": "https://open.spotify.com/track/4fs3UmbirsadoeW8yd8S1M"
+    },
+    {
+      "added_at": "2026-03-20 18:54:58",
+      "album": {
+        "name": "Peace In Place",
+        "url": "https://open.spotify.com/album/5vbfeag2sYQY1x22N6W49y"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Weeping Tones",
+      "url": "https://open.spotify.com/track/37XMFAhSFodQI6ww050xHt"
+    },
+    {
+      "added_at": "2026-03-20 18:54:11",
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 263161,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
+    },
+    {
+      "added_at": "2026-03-20 18:56:26",
+      "album": {
+        "name": "Chain of Command",
+        "url": "https://open.spotify.com/album/27kHdOgIWgnNqaJxj1fWPO"
+      },
+      "artists": [
+        {
+          "name": "Flatwounds",
+          "url": "https://open.spotify.com/artist/6AK2oY9yLixWsafASkLKtz"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/5lhwPGLgMGdTN12qyuteS2"
+    },
     {
       "added_at": "2026-03-13 19:28:08",
       "album": {

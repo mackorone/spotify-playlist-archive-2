@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok, Khalid
 
-5,620 songs - 11 day 5 hr 20 min
+5,621 songs - 11 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4417,6 +4417,7 @@
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/3qZIDnYxLaUl19z0Bjam6C) | [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/album/5x26HLjeouBhHPgNoSlsuh) | 2:50 | 2025-05-22 | 2025-06-13 |
 | [Sinners](https://open.spotify.com/track/4ThPeTmt3I8Q5w1GZ4FbCv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL) | [Sinners](https://open.spotify.com/album/3xNaUHRZ8aH7JpJfrxnEw2) | 2:51 | 2025-10-10 | 2025-10-17 |
 | [Sippin'](https://open.spotify.com/track/3CfnOZGonCritVZnVJZS4c) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Sippin'](https://open.spotify.com/album/6KVevBpcClwEuNdvRheN6u) | 1:55 | 2025-10-16 | 2025-10-24 |
+| [SIREN SOUND](https://open.spotify.com/track/236HJKgm0TuMoKi3YjrwZd) | [Adrian Mills](https://open.spotify.com/artist/6H9sRmDCsXzsWK7jEg1thF), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [PROBANDO PROBANDO](https://open.spotify.com/album/0vHTBr3n4EWs4Y1Qij7zJK) | 5:12 | 2026-03-20 |  |
 | [Sirena](https://open.spotify.com/track/0kosBh0bxnBn4Et2yaxPGG) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Sirena](https://open.spotify.com/album/5gyxCh4tbPavXqWdHiVbFn) | 3:26 | 2024-08-15 | 2024-08-23 |
 | [Sirens](https://open.spotify.com/track/14tDY4UrwhZbhRktMhZ2v5) | [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Sirens](https://open.spotify.com/album/1ChFVtLHg6lqEm0ceWBe3p) | 3:26 | 2023-12-14 | 2023-12-22 |
 | [sirens](https://open.spotify.com/track/4b59ZMkJPIKsKz2LLmepll) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [sirens](https://open.spotify.com/album/5gJpAVPyilKipRivGREwYo) | 3:40 | 2025-05-15 | 2025-05-23 |

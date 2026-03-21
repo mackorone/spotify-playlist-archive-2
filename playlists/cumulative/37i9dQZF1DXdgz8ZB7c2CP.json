@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>  \ud83d\ude08 featuring msft",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring MAYV",
   "name": "creamy",
   "tracks": [
     {
@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "2 u",
+        "url": "https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "2 u",
+      "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
+    },
+    {
+      "album": {
         "name": ".wav",
         "url": "https://open.spotify.com/album/55G3rxvjqebzSyHapheVF3"
       },
@@ -240,6 +258,28 @@
       "duration_ms": 180408,
       "name": "3",
       "url": "https://open.spotify.com/track/14Sx9jobXCdDXBlFYERMe3"
+    },
+    {
+      "album": {
+        "name": "3am - Nic Vans Remix",
+        "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "Nic Vans",
+          "url": "https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164142,
+      "name": "3am - Nic Vans Remix",
+      "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
     },
     {
       "album": {
@@ -2617,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158873,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
+    },
+    {
+      "album": {
         "name": "BORN TO DIE",
         "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
       },
@@ -2934,7 +2996,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 161699,
       "name": "Broadcast",
       "url": "https://open.spotify.com/track/1C7HaCCrTlGh58J3ChAwXX"
@@ -3700,7 +3762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198857,
       "name": "change my mind",
       "url": "https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d"
@@ -4082,7 +4144,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184477,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/39F0YpJTd8CEIQum0q2qav"
@@ -6942,7 +7004,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 167108,
       "name": "Every Storm Hardens The Earth",
       "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
@@ -8416,7 +8478,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164968,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/08IvuRiCCTUzIlGHxsDPMW"
@@ -9440,6 +9502,32 @@
       "duration_ms": 165633,
       "name": "Go Fast",
       "url": "https://open.spotify.com/track/2TLq5fijG1v1mbAYMP4LnM"
+    },
+    {
+      "album": {
+        "name": "Go Home With A Stranger",
+        "url": "https://open.spotify.com/album/5CyZR88VZhWWTlTjlxGE8P"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Go Home With A Stranger",
+      "url": "https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8"
     },
     {
       "album": {
@@ -10501,6 +10589,24 @@
     },
     {
       "album": {
+        "name": "Hold Back",
+        "url": "https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Hold Back",
+      "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
+    },
+    {
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H"
       },
@@ -11329,6 +11435,28 @@
     },
     {
       "album": {
+        "name": "i go hard",
+        "url": "https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "i go hard",
+      "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
+    },
+    {
+      "album": {
         "name": "I Guess We\u2019re Not The Same",
         "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
       },
@@ -11530,7 +11658,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176470,
       "name": "I NEED A RHYTHM (feat. ROZZZQWEEN)",
       "url": "https://open.spotify.com/track/1DtvryDmZrGEwsRRZxyEp2"
@@ -11552,6 +11680,28 @@
       "duration_ms": 216560,
       "name": "I Need For Speed",
       "url": "https://open.spotify.com/track/1ggx4wohd1La6vue2KyHK4"
+    },
+    {
+      "album": {
+        "name": "I Need The",
+        "url": "https://open.spotify.com/album/4eNcrj00dgzuo9Od6CbO2F"
+      },
+      "artists": [
+        {
+          "name": "Phrva",
+          "url": "https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "I Need The",
+      "url": "https://open.spotify.com/track/6nQs7YFkvBIR3OpnAXDfLL"
     },
     {
       "album": {
@@ -11915,6 +12065,24 @@
     },
     {
       "album": {
+        "name": "Ima go down",
+        "url": "https://open.spotify.com/album/6gYE1c7bHBjlWIKmvBCVo5"
+      },
+      "artists": [
+        {
+          "name": "Fifi",
+          "url": "https://open.spotify.com/artist/0G31cfQ16TnAGyi5AZG5qT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165590,
+      "name": "Ima go down",
+      "url": "https://open.spotify.com/track/541YFrrcNpsGHVreeXla9V"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/2c4cBfQgxCqw0FSM0Ti0XV"
       },
@@ -11974,7 +12142,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 135138,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/2QAMmh7Mv24lJw9xXa84wL"
@@ -12116,6 +12284,24 @@
       "duration_ms": 240000,
       "name": "INMYH",
       "url": "https://open.spotify.com/track/2so0hkOdT7OknXeIc5TaMW"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208378,
+      "name": "Innuendo (I Get U)",
+      "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
     },
     {
       "album": {
@@ -13794,7 +13980,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142348,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/5sNygpa288BFWcMfCFaqXQ"
@@ -14090,6 +14276,28 @@
       "duration_ms": 174935,
       "name": "LLLOVE",
       "url": "https://open.spotify.com/track/5TH5n2YgLq8IgvfAdUm4qE"
+    },
+    {
+      "album": {
+        "name": "Log On",
+        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Log On",
+      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
     },
     {
       "album": {
@@ -16810,6 +17018,28 @@
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/0gKuiLcC7WUBRzbs9WQIrW"
+      },
+      "artists": [
+        {
+          "name": "Polezsky",
+          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
+        },
+        {
+          "name": "dg.",
+          "url": "https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231609,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/115vPHfuBdih0Mbu09a7V5"
     },
     {
       "album": {
@@ -19792,7 +20022,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 243692,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/0DDPijrMHuXaZNpunoHg5q"
@@ -22190,7 +22420,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192000,
       "name": "STAY",
       "url": "https://open.spotify.com/track/4tEqzZgjRMT7HSoIAUCynd"
@@ -23183,6 +23413,24 @@
     },
     {
       "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/5iKZvUKvmB4aBQu5YRrVff"
       },
@@ -23436,7 +23684,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 213250,
       "name": "Tell Me (U Want It)",
       "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
@@ -24576,7 +24824,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 144347,
       "name": "Too Many Ghosts",
       "url": "https://open.spotify.com/track/0fWw2LjwciGDvHrAPZvskV"
@@ -25792,7 +26040,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200493,
       "name": "voltage (see you again)",
       "url": "https://open.spotify.com/track/2vfxj67f2qeZz4uofyoPvw"
@@ -27758,6 +28006,28 @@
       "duration_ms": 250434,
       "name": "Your Struggle Is Also Mine",
       "url": "https://open.spotify.com/track/7pTUnjG1e8FdiylA0EXzEe"
+    },
+    {
+      "album": {
+        "name": "type:era",
+        "url": "https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "youshouldknow (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE"
     },
     {
       "album": {

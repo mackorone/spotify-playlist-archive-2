@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Television off
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Moving and Cut
 
-162 songs - 11 hr 14 min
+163 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Back Off !!!](https://open.spotify.com/track/5mULQOKHEFBgmC6cfFFqZz) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [Back Off !!!](https://open.spotify.com/album/6Ui4GRKdLp0CVT7SODjyHr) | 4:27 | 2025-08-08 | 2025-09-06 |
 | [badbye](https://open.spotify.com/track/5td3kJel4JdbqLx5PqgVUA) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [badbye](https://open.spotify.com/album/3DpfRjFl8wgXdhkWO3GjEv) | 3:56 | 2024-07-19 | 2025-04-05 |
 | [Birdsong](https://open.spotify.com/track/2NW2wj8mEZMRJ8bmbJSIHk) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Birdsong](https://open.spotify.com/album/6hiEIwdDdUda0qm4fpX96l) | 4:12 | 2024-11-28 | 2026-02-03 |
+| [Come Back](https://open.spotify.com/track/53WPXVNz8z7vdb8WGdUpSJ) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Come Back](https://open.spotify.com/album/2iC9vz1bnIVeCEB8hqZ6nE) | 3:27 | 2026-03-20 |  |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 | 2025-05-31 |
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
 | [Fall in love too easily](https://open.spotify.com/track/0rVPjrssMtRriOlhqhlno4) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Fall in love too easily](https://open.spotify.com/album/2PujWlerF7kmr6fLeC7wBZ) | 4:12 | 2026-02-13 |  |
@@ -38,7 +39,7 @@
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 | 2025-03-22 |
 | [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 | 2026-02-02 | 2026-03-10 |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
-| [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 | 2025-12-26 |  |
+| [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 | 2025-12-26 | 2026-03-21 |
 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 | 2025-05-01 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-06-27 | 2024-11-29 |
 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 | 2025-08-08 |  |

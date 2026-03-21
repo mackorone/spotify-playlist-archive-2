@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-161 songs - 8 hr 48 min
+161 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Same Page](https://open.spotify.com/track/0J9l0Y5MEvO8e6ksy8Hv82) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:06 | 2023-06-30 | 2024-06-01 |
 | [Same Page](https://open.spotify.com/track/5brjcFMaDdlpW5bU8tf2LG) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [The Lion of Sudah](https://open.spotify.com/album/7ey1j5jjFdfDgRQoDFmpc6) | 4:06 | 2024-03-15 | 2024-04-19 |
 | [Sare Jokes](https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sare Jokes](https://open.spotify.com/album/3JZBkaigAAfmit0u0FyHR9) | 2:02 | 2024-01-26 | 2024-06-14 |
+| [Sauti Zetu](https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Indie Deep](https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI) | 2:21 | 2026-03-19 |  |
 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 | 2024-10-03 | 2025-08-22 |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2023-06-30 | 2023-12-09 |
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
@@ -151,7 +152,6 @@
 | [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 | 2023-12-08 |  |
 | [Time Oh Time](https://open.spotify.com/track/6rHJRhbbsBeMhHf0El4mze) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Time Oh Time](https://open.spotify.com/album/4xhD7WzuRZN7902flvsrAu) | 2:50 | 2025-04-15 |  |
 | [Too Strong](https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj) | [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Too Strong](https://open.spotify.com/album/1eqxzx3k5jnttq3AhOvUQ9) | 2:56 | 2023-06-30 | 2023-12-16 |
-| [Track 2](https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Indie Deep](https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI) | 0:00 | 2026-03-19 |  |
 | [Trust Nobody](https://open.spotify.com/track/1f0mXGCUH4Iw0wA6J7kEI3) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Trust Nobody](https://open.spotify.com/album/63ADqzRK71YK8BXuV8kGME) | 1:52 | 2023-06-30 | 2023-11-11 |
 | [Tugi Track](https://open.spotify.com/track/3oTCklg2zTuc2DuKaVsORp) | [Kelele Kollektiv](https://open.spotify.com/artist/09FoPL4eU26Morxu4yPkzl) | [Kelele, Vol\. 1](https://open.spotify.com/album/0fawT8nfXczFQ8b3DcOgNk) | 4:53 | 2023-06-30 | 2023-11-11 |
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |

@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Diana Meril en portada.
 
-411 songs - 23 hr 28 min
+412 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 | 2021-10-16 | 2023-02-25 |
 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 | 2024-09-13 | 2026-02-14 |
 | [Con Los Años Que Me Quedan \(feat\. Leonel García, Samo & Jesús Navarro\)](https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Habítame Siempre \(Bonus Tracks Version\)](https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI) | 4:56 | 2021-10-16 | 2025-01-18 |
+| [Consecuencias](https://open.spotify.com/track/05aiRtBCK11zTJABdHze5r) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY), [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Consecuencias](https://open.spotify.com/album/7pVt4ve6loYG6p2Yv8wGdD) | 2:56 | 2026-03-20 |  |
 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 | 2021-10-16 | 2022-04-21 |
 | [Contigo aprendí](https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El palacio de las flores](https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg) | 4:19 | 2021-10-16 |  |
 | [Contigo en la Distancia](https://open.spotify.com/track/3pPxldADloAl91RXFcFph8) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Gonzalo Rubalcaba](https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F) | [Solos](https://open.spotify.com/album/7IgRkbM38KoWmxCAwiXg5V) | 4:25 | 2021-10-26 | 2022-04-17 |
@@ -179,7 +180,7 @@
 | [La Apuesta](https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Apuesta](https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f) | 2:53 | 2026-02-13 |  |
 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 | 2022-03-18 |  |
 | [La Barca](https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [La Barca](https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj) | 3:12 | 2024-05-17 |  |
-| [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 | 2022-10-28 |  |
+| [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 | 2022-10-28 | 2026-03-21 |
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2021-10-16 | 2023-10-21 |
 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 | 2024-06-28 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2021-10-16 | 2022-07-29 |

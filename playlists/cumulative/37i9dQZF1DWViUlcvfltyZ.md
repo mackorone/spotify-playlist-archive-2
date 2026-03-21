@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 Fight Pausa in cover \(circondato da cucini\)
+> Rock, indie e punk dall'Italia 🎸 Fight Pausa in cover \(circondato da cuscini\)
 
-1,882 songs - 4 day 9 hr 23 min
+1,882 songs - 4 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [La canzone più triste](https://open.spotify.com/track/24KXWEGZLQ1FmTA44pIMIf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La canzone più triste](https://open.spotify.com/album/0oLdb4ykACnF6Ny6u5QJOK) | 3:16 | 2025-01-23 | 2025-04-25 |
 | [La Cattedrale Nel Deserto](https://open.spotify.com/track/71kg30dxjWGKKc0rDngJkq) | [ESERA](https://open.spotify.com/artist/2Dwv2D7ndjkXjjimaM5UyX) | [Levia Gravia](https://open.spotify.com/album/78DFPCuRoZxj68xkT5GxPi) | 3:01 | 2026-01-22 | 2026-03-13 |
 | [La conquista dell'inutile](https://open.spotify.com/track/56xUdrfFJsPImzP356rhjj) | [Votto](https://open.spotify.com/artist/1NPd03l2532gBF9AIVly3k) | [Gli ultimi istanti delle nostre vite precedenti](https://open.spotify.com/album/1GGWvcxu7iRhyvg9sHfbeE) | 2:26 | 2024-03-21 | 2024-04-05 |
+| [La Coscienza Della Mia Generazione](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 2:49 | 2026-03-19 |  |
 | [La Cura Ludovico](https://open.spotify.com/track/4AEIisZSxzys5ACQ4nOL6V) | [Vera Slö](https://open.spotify.com/artist/2wGbYWCrMCyKnFhsetEtWq) | [La Cura Ludovico](https://open.spotify.com/album/4Coq2ViMe5go8XJvUXct9b) | 4:08 | 2025-11-13 | 2026-02-13 |
 | [La Diavoletto](https://open.spotify.com/track/5UsjmEA6m4yRbB0Ib1hEg9) | [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL) | [La Diavoletto](https://open.spotify.com/album/3mMb3wxLlVHoxi6e3MgPdU) | 3:17 | 2025-10-16 | 2025-12-05 |
 | [La Discoteca](https://open.spotify.com/track/2hjsG4JRRGsWH7TnFUpEiJ) | [Il Triangolo](https://open.spotify.com/artist/4Cco3ONl5H31a2rE7oGfQZ) | [La Discoteca](https://open.spotify.com/album/7hoLjU6i4mAJbEYHEORgOq) | 3:18 | 2024-10-10 | 2024-11-29 |
@@ -1700,7 +1701,6 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |
-| [Track 3](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 0:00 | 2026-03-19 |  |
 | [traffico](https://open.spotify.com/track/0AW1XiRq7CN6KZtwM51v9q) | [Nostalgia/Futuro](https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n) | [traffico](https://open.spotify.com/album/4DhmacndeoSITFKELZ5JG8) | 3:21 | 2026-01-15 | 2026-02-20 |
 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 | 2023-01-26 | 2023-05-12 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-04 |  |

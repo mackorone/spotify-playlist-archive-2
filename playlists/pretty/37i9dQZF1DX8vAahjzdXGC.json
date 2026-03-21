@@ -1,13 +1,29 @@
 {
-  "description": "Rilisan baru pekan ini dari RAYE, Hans Zimmer, Wijaya 80, Sal Priadi, Niall Horran dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 235443,
+  "description": "Rilisan baru pekan ini dari BTS, RAYE, Hans Zimmer, Wijaya 80, Sal Priadi, Niall Horran dan masih banyak lagi dari dalam dan mancanegara.",
+  "num_followers": 236243,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM29oAR2xkeQaeKieML6OjTjwWCy",
+  "snapshot_id": "AAAAALHw5DB8f6fhHIhb6Ih/mbVfoPAm",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:56",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
@@ -79,22 +95,6 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "take three",
-        "url": "https://open.spotify.com/album/0R8AcFXuKhEsJ5XTZ2YIwT"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "take three",
-      "url": "https://open.spotify.com/track/67y8te5E7oYXnAq4nlhjZI"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
         "name": "Bulan Bintang, Garis Menyilang",
         "url": "https://open.spotify.com/album/2yz71Y5q037CryRvOsILS9"
       },
@@ -115,18 +115,18 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "i know u by heart",
-        "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
+        "name": "take three",
+        "url": "https://open.spotify.com/album/0R8AcFXuKhEsJ5XTZ2YIwT"
       },
       "artists": [
         {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 180923,
-      "name": "i know u by heart",
-      "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
+      "duration_ms": 173379,
+      "name": "take three",
+      "url": "https://open.spotify.com/track/67y8te5E7oYXnAq4nlhjZI"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -167,6 +167,58 @@
       "duration_ms": 229870,
       "name": "Gue Gak Mau Kawin",
       "url": "https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
+        "name": "Reel 4",
+        "url": "https://open.spotify.com/album/4d3lFppUOefm01EFhQ8AbW"
+      },
+      "artists": [
+        {
+          "name": "Zeke And The Popo",
+          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
+        },
+        {
+          "name": "Kaneko Pardede",
+          "url": "https://open.spotify.com/artist/5rBkep2MYuz4aEXzGVuW2B"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Reel 4",
+      "url": "https://open.spotify.com/track/0dVSANH9ZCILbjNOozeTEH"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
+        "name": "i know u by heart",
+        "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "i know u by heart",
+      "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
+    },
+    {
+      "added_at": "2026-03-20 04:00:56",
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -271,22 +323,18 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "Reel 4",
-        "url": "https://open.spotify.com/album/4d3lFppUOefm01EFhQ8AbW"
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
       },
       "artists": [
         {
-          "name": "Zeke And The Popo",
-          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
-        },
-        {
-          "name": "Kaneko Pardede",
-          "url": "https://open.spotify.com/artist/5rBkep2MYuz4aEXzGVuW2B"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 184545,
-      "name": "Reel 4",
-      "url": "https://open.spotify.com/track/0dVSANH9ZCILbjNOozeTEH"
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -321,6 +369,22 @@
       "url": "https://open.spotify.com/track/3qzYpnWOvJKRAqN6QBZRro"
     },
     {
+      "added_at": "2026-03-20 04:00:56",
+      "album": {
+        "name": "Business & Personal (Intro)",
+        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Business & Personal (Intro)",
+      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
+    },
+    {
       "added_at": "2026-03-19 17:00:33",
       "album": {
         "name": "You're A Superstar",
@@ -335,22 +399,6 @@
       "duration_ms": 197031,
       "name": "You're A Superstar",
       "url": "https://open.spotify.com/track/1LCZmwJojsGNAgt1wmtFUX"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -519,6 +567,22 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
+        "name": "TRUST IN YOU (MUSIC IS A REMEDY)",
+        "url": "https://open.spotify.com/album/0wDwJLBBCwurO5VAZHOUTN"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl"
+        }
+      ],
+      "duration_ms": 231272,
+      "name": "TRUST IN YOU (MUSIC IS A REMEDY)",
+      "url": "https://open.spotify.com/track/1NPv25BtkC97RcCNaik6eg"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
       },
@@ -531,6 +595,22 @@
       "duration_ms": 271213,
       "name": "So What",
       "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
+    },
+    {
+      "added_at": "2026-03-20 00:00:21",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "duration_ms": 162683,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -583,38 +663,6 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "TRUST IN YOU (MUSIC IS A REMEDY)",
-        "url": "https://open.spotify.com/album/0wDwJLBBCwurO5VAZHOUTN"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl"
-        }
-      ],
-      "duration_ms": 231272,
-      "name": "TRUST IN YOU (MUSIC IS A REMEDY)",
-      "url": "https://open.spotify.com/track/1NPv25BtkC97RcCNaik6eg"
-    },
-    {
-      "added_at": "2026-03-20 00:00:21",
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
-        }
-      ],
-      "duration_ms": 162683,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
         "name": "Die Living",
         "url": "https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl"
       },
@@ -659,6 +707,46 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
+        "name": "Satu Segala",
+        "url": "https://open.spotify.com/album/1PA0ujgs4AOeZEJwWdyl8Q"
+      },
+      "artists": [
+        {
+          "name": "2 Belas",
+          "url": "https://open.spotify.com/artist/2EuhpLe2m9v7XwoBOKvGqS"
+        },
+        {
+          "name": "Gerap Gurita",
+          "url": "https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Satu Segala",
+      "url": "https://open.spotify.com/track/1DCwrWNpKYz2fMll9G0lHX"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
+        "name": "Terbenam",
+        "url": "https://open.spotify.com/album/1t7XSHprpSImWeY3ggDK3l"
+      },
+      "artists": [
+        {
+          "name": "Our Story",
+          "url": "https://open.spotify.com/artist/0iTl9Vh7vm8gmiKwJCV3Wq"
+        },
+        {
+          "name": "Tanty",
+          "url": "https://open.spotify.com/artist/4VmukhXfuIogEznNAmSt8t"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Terbenam",
+      "url": "https://open.spotify.com/track/5cZVRgFVfne9S7rE5FUso0"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
         "name": "Go Home With A Stranger",
         "url": "https://open.spotify.com/album/5CyZR88VZhWWTlTjlxGE8P"
       },
@@ -679,6 +767,26 @@
       "duration_ms": 186461,
       "name": "Go Home With A Stranger",
       "url": "https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8"
+    },
+    {
+      "added_at": "2026-03-20 00:00:21",
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -731,46 +839,6 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "Satu Segala",
-        "url": "https://open.spotify.com/album/1PA0ujgs4AOeZEJwWdyl8Q"
-      },
-      "artists": [
-        {
-          "name": "2 Belas",
-          "url": "https://open.spotify.com/artist/2EuhpLe2m9v7XwoBOKvGqS"
-        },
-        {
-          "name": "Gerap Gurita",
-          "url": "https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Satu Segala",
-      "url": "https://open.spotify.com/track/1DCwrWNpKYz2fMll9G0lHX"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
-        "name": "Terbenam",
-        "url": "https://open.spotify.com/album/1t7XSHprpSImWeY3ggDK3l"
-      },
-      "artists": [
-        {
-          "name": "Our Story",
-          "url": "https://open.spotify.com/artist/0iTl9Vh7vm8gmiKwJCV3Wq"
-        },
-        {
-          "name": "Tanty",
-          "url": "https://open.spotify.com/artist/4VmukhXfuIogEznNAmSt8t"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Terbenam",
-      "url": "https://open.spotify.com/track/5cZVRgFVfne9S7rE5FUso0"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
         "name": "Midnight In My Room",
         "url": "https://open.spotify.com/album/4RM9KzxCSYdUBEdHGCosK4"
       },
@@ -801,26 +869,6 @@
       "url": "https://open.spotify.com/track/2Ey6skxJJPdlRFiB2kJkTQ"
     },
     {
-      "added_at": "2026-03-20 00:00:21",
-      "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
       "added_at": "2026-03-19 17:00:33",
       "album": {
         "name": "PRETTY PETTY",
@@ -839,22 +887,6 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "SEVEN : CRIMSON HORIZON",
-        "url": "https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 198237,
-      "name": "BOTTOMS UP",
-      "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
-    },
-    {
-      "added_at": "2026-03-19 17:00:33",
-      "album": {
         "name": "Ya Habibi Ya Aidilfitri",
         "url": "https://open.spotify.com/album/0QaK27oIHlBXONUCW5Vnvm"
       },
@@ -867,6 +899,22 @@
       "duration_ms": 195228,
       "name": "Ya Habibi Ya Aidilfitri",
       "url": "https://open.spotify.com/track/0UK0GzOXhkFdfYBWkELwuM"
+    },
+    {
+      "added_at": "2026-03-19 17:00:33",
+      "album": {
+        "name": "SEVEN : CRIMSON HORIZON",
+        "url": "https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 198237,
+      "name": "BOTTOMS UP",
+      "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
     },
     {
       "added_at": "2026-03-19 17:00:33",
@@ -1029,6 +1077,26 @@
       "url": "https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo"
     },
     {
+      "added_at": "2026-03-20 04:00:56",
+      "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
+    },
+    {
       "added_at": "2026-03-19 17:00:33",
       "album": {
         "name": "more than just a little bit",
@@ -1063,7 +1131,7 @@
     {
       "added_at": "2026-03-19 17:00:33",
       "album": {
-        "name": "Love You Right (feat. Clara La San)",
+        "name": "Love You Right",
         "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
@@ -1077,8 +1145,28 @@
         }
       ],
       "duration_ms": 165818,
-      "name": "Love You Right (feat. Clara La San)",
+      "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+    },
+    {
+      "added_at": "2026-03-20 04:00:56",
+      "album": {
+        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
     },
     {
       "added_at": "2026-03-19 17:00:33",

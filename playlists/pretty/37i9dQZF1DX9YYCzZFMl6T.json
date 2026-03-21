@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7825,
+  "num_followers": 7828,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Send Me Out Like Autumn",
         "url": "https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 233706,
       "name": "Send Me Out Like Autumn",
       "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232840,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Happier New Year / The Christmas Song",
-        "url": "https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 189597,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Christmas in Prison",
         "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas In A Minor Key",
-        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 194582,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Happier New Year / The Christmas Song",
+        "url": "https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 189597,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas In A Minor Key",
+        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
     }
   ],
   "unique_name": "Americana Christmas",

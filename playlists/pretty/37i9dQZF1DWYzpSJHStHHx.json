@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483774,
+  "num_followers": 483775,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Pennied Days",
         "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -391,6 +375,22 @@
       "duration_ms": 218019,
       "name": "Fish on the Sand",
       "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "III: Arcade Dynamics",
-        "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
-      },
-      "artists": [
-        {
-          "name": "Ducktails",
-          "url": "https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx"
-        }
-      ],
-      "duration_ms": 259317,
-      "name": "Killin' the Vibe",
-      "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Playful Sins",
         "url": "https://open.spotify.com/album/5LtWxH19vd7sBZUJXzozII"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222380,
       "name": "Playful Sins",
       "url": "https://open.spotify.com/track/0FODuQjDLbTaqNIYZrEE5K"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "III: Arcade Dynamics",
+        "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
+      },
+      "artists": [
+        {
+          "name": "Ducktails",
+          "url": "https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx"
+        }
+      ],
+      "duration_ms": 259317,
+      "name": "Killin' the Vibe",
+      "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Down In Heaven",
-        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
-      },
-      "artists": [
-        {
-          "name": "Twin Peaks",
-          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Walk To The One You Love",
-      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "The Way You Talk",
         "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 198420,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Down In Heaven",
+        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
+      },
+      "artists": [
+        {
+          "name": "Twin Peaks",
+          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Walk To The One You Love",
+      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Just Give In / Never Going Home",
         "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
       },
       "artists": [
         {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+          "name": "Blanco Tranco",
+          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
         }
       ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+      "duration_ms": 185699,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

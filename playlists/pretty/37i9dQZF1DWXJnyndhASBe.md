@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: MIÜ, Pezet, Bedoes 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,444 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,512 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 0:00 |
+| 1 | [fantazje](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 2:58 |
 | 2 | [PANGEA](https://open.spotify.com/track/2qmf7h3jh5kZUt7BNeIBSy) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [PANGEA](https://open.spotify.com/album/0aRScNKLWsJaqfay7ILvgP) | 3:11 |
 | 3 | [OSTATNI RAZ](https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Zabójstwo Liryczne 5](https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq) | 2:51 |
 | 4 | [ZROBIŁEM TO DLA SIEBIE](https://open.spotify.com/track/4ibqU74QTvsqguXatBlyFy) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [DOPEHOUSE](https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN), [Johny Jalapeno](https://open.spotify.com/artist/2KzOwZafQgDbTdIZkMC5rs) | [ZROBIŁEM TO DLA SIEBIE](https://open.spotify.com/album/6mB67v3QeZgGr7g15ivwEr) | 3:28 |

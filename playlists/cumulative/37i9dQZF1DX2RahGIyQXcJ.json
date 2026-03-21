@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 243667,
       "name": "7.7 Magnitude",
       "url": "https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28"
@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Apology",
+        "url": "https://open.spotify.com/album/6gMVQMNkVpzHZdLSzvOxjd"
+      },
+      "artists": [
+        {
+          "name": "aleemrk",
+          "url": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/5bCsUQ7BryZTzNDKb9xBy8"
+    },
+    {
+      "album": {
         "name": "Area 06",
         "url": "https://open.spotify.com/album/7uanSnGe72OAGYQkBRq0Hc"
       },
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 102315,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 136615,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/21foYvPWvQMVlPOz7Gw3Pd"
@@ -2873,6 +2891,32 @@
     },
     {
       "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Da Future",
+          "url": "https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR"
+        },
+        {
+          "name": "Virk Andaaz",
+          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110125,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
+    },
+    {
+      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1sa9xGrtMw8IIyZKCUr98o"
       },
@@ -3006,6 +3050,36 @@
       "duration_ms": 174381,
       "name": "Dhandho",
       "url": "https://open.spotify.com/track/1eIwEnZPmLeeA622uvG1r3"
+    },
+    {
+      "album": {
+        "name": "Didi (Sher-E-Baloch) (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/6wet2LcJVJAeySrPfdD8sE"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        },
+        {
+          "name": "Sons of Yusuf",
+          "url": "https://open.spotify.com/artist/6Vptp9yQcvtgjwFt6GDQno"
+        },
+        {
+          "name": "Nabil El Houri",
+          "url": "https://open.spotify.com/artist/53QracjfLvfuaeTXsRQnPu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152065,
+      "name": "Didi (Sher-E-Baloch) (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/3rnQfyFzUNdWKtdwUypWo5"
     },
     {
       "album": {
@@ -3208,7 +3282,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 256000,
       "name": "Downers At Dusk",
       "url": "https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA"
@@ -10928,6 +11002,24 @@
       "duration_ms": 245333,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6XmAglg07ZW7SZ9CcMOqNJ"
+    },
+    {
+      "album": {
+        "name": "Wild Ride (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/0lk4gobJwDE4bnM1thJsNq"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Wild Ride (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/4Ec2TXBQ5NMXuXfFBDkE1A"
     },
     {
       "album": {

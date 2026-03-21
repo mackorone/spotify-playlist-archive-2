@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 158716,
+  "num_followers": 158735,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5OjvEHZ7J6VJQkUBr7tudQHhbP",
+  "snapshot_id": "AAAAAB1qcda7Ox9quH8bBI+cy1DOUqaQ",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:40",
+      "album": {
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
+    },
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {

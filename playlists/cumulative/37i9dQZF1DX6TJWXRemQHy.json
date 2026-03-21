@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183896,
       "name": "Beyond the Rain",
       "url": "https://open.spotify.com/track/4gTmxVQSm5B5Cgd9mmoPSq"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176428,
       "name": "Beyond the Trees - Piano & Rain",
       "url": "https://open.spotify.com/track/6pnGZ8aMMQN5IFl80ZHz85"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235000,
       "name": "Celestial Whispers",
       "url": "https://open.spotify.com/track/1qxFr0cglsK0YXcddvelRI"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Elmrest",
+        "url": "https://open.spotify.com/album/6arVhnWwnrV4Gml1to48ml"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Elmrest",
+      "url": "https://open.spotify.com/track/6DBMR93qboDmw8c7QjjKxA"
+    },
+    {
+      "album": {
         "name": "Entering",
         "url": "https://open.spotify.com/album/3mxgspEMYHtoFtOEO6gSJi"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168695,
       "name": "Eurage",
       "url": "https://open.spotify.com/track/1IRODNKLjA8sqEAU4ITUlB"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158695,
       "name": "Flare Of Dawn",
       "url": "https://open.spotify.com/track/4Z1mHYESieMXgwc5h245YM"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 101977,
       "name": "four walls",
       "url": "https://open.spotify.com/track/47CuKxF91sAclurDwKkIQM"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 163043,
       "name": "Funnel Dreams",
       "url": "https://open.spotify.com/track/794iFGxKeatgmEx3QIm6U5"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184799,
       "name": "Heart of the Wild - Soothing Creek",
       "url": "https://open.spotify.com/track/5datskj1gKoJOm53ieynwL"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 156000,
       "name": "Knoxville Rain E Delta Sinus 80-84hz",
       "url": "https://open.spotify.com/track/5bknO2Ufk8FPQxNymqeprO"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 153920,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6s6tEgpWqPk9TCHBi7PVNB"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182500,
       "name": "Midnight Flow",
       "url": "https://open.spotify.com/track/5GMNDEnwram6JObgGGsEkr"
@@ -989,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Miss the rain",
+        "url": "https://open.spotify.com/album/4LYO9bjkhwiiLBzSFNItIF"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Miss the rain",
+      "url": "https://open.spotify.com/track/1uyL5kNPbQdqHJilGmGXY9"
+    },
+    {
+      "album": {
         "name": "Misty Layers",
         "url": "https://open.spotify.com/album/4tWrjwbnRLEpWT8PfjXTUa"
       },
@@ -1022,6 +1058,24 @@
       "duration_ms": 170624,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2UV3XeunSN2CY0lUKe467X"
+    },
+    {
+      "album": {
+        "name": "Moonfern",
+        "url": "https://open.spotify.com/album/7qgr2GjVZSHQJztIb6MSd0"
+      },
+      "artists": [
+        {
+          "name": "Silent Glade",
+          "url": "https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162247,
+      "name": "Moonfern",
+      "url": "https://open.spotify.com/track/6lSx1yuUsWFHOgmttk14RP"
     },
     {
       "album": {
@@ -1130,6 +1184,24 @@
       "duration_ms": 174947,
       "name": "Nightcode",
       "url": "https://open.spotify.com/track/0tPB61ZXoT2HqttJE4dXKR"
+    },
+    {
+      "album": {
+        "name": "no good",
+        "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "no good",
+      "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
     },
     {
       "album": {
@@ -1256,7 +1328,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142222,
       "name": "Peaceful Stillness on Titan",
       "url": "https://open.spotify.com/track/6epT4HRriml1hwTQhoj9oE"
@@ -1444,7 +1516,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195988,
       "name": "Rainy Daze",
       "url": "https://open.spotify.com/track/45rm4fo2thjiuf4qan0UE6"
@@ -1470,6 +1542,24 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+    },
+    {
+      "album": {
+        "name": "Rainy Station",
+        "url": "https://open.spotify.com/album/6XV1qQ3WLCuv24Cl5w6VzU"
+      },
+      "artists": [
+        {
+          "name": "Micheal Winds",
+          "url": "https://open.spotify.com/artist/5WNv3PnnAieLnQ01nESJsW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161541,
+      "name": "Rainy Station",
+      "url": "https://open.spotify.com/track/6Hk1lRtP9oi1xThCI4VURa"
     },
     {
       "album": {
@@ -1556,7 +1646,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/4y4NHM77aWueqCZIEhsdNs"
@@ -1718,7 +1808,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 139391,
       "name": "Starshroud",
       "url": "https://open.spotify.com/track/7cu6CWVD2u1JEL7HEIia5O"
@@ -1772,7 +1862,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204000,
       "name": "Taevas In Rain",
       "url": "https://open.spotify.com/track/1z5pbFxQdGCEkjK4Tmojl0"
@@ -1794,6 +1884,24 @@
       "duration_ms": 218181,
       "name": "take a moment to breathe. - Instrumental",
       "url": "https://open.spotify.com/track/3lQmOV3OBO7O9FR7oCC8v1"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/3AbAP422kCam0FgqqfnGwj"
+      },
+      "artists": [
+        {
+          "name": "Ophra",
+          "url": "https://open.spotify.com/artist/61PdyH832LtMa1POEJ0K1U"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/29d0kQyo21aWDZlqCeE4oQ"
     },
     {
       "album": {
@@ -1862,7 +1970,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 172889,
       "name": "Time Away",
       "url": "https://open.spotify.com/track/1Jf8DaO1UvfU2fKhr5EJbm"
@@ -1898,7 +2006,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195692,
       "name": "Tranformative Waters",
       "url": "https://open.spotify.com/track/2ZEkKBnSrzSiMlg5xdMrv8"
@@ -1916,7 +2024,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 152077,
       "name": "Tranquil Forest",
       "url": "https://open.spotify.com/track/4IQ5OvkJipRN3Uh3tIw1GE"
@@ -2078,7 +2186,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158328,
       "name": "Where The Sky Sleeps",
       "url": "https://open.spotify.com/track/2mNqIixaPXatfqQyC3fLBp"

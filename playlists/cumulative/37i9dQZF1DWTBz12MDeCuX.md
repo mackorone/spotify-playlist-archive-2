@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Lucio101, Baby B3ns
 
-3,347 songs - 6 day 12 hr 2 min
+3,347 songs - 6 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2885,7 +2885,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 3](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 0:00 | 2026-03-19 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |
@@ -3216,6 +3215,7 @@
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-05-23 | 2024-09-20 |
 | [wie du mich mochtest](https://open.spotify.com/track/5nXK0rMLRuPNSMYawoe3N2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [wie du mich mochtest](https://open.spotify.com/album/1TC2QGTmKbFgdqsdrwkTnC) | 2:43 | 2024-05-30 | 2024-06-21 |
 | [WIE KANN MAN SO SEIN?!](https://open.spotify.com/track/23wa6ozUycqiDwrwAXAAvy) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn) | [WIE KANN MAN SO SEIN?!](https://open.spotify.com/album/2lvuOgcO5DKp3GsRwVuauq) | 2:20 | 2025-02-13 | 2025-03-21 |
+| [wie lang geht das noch gut](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 2:24 | 2026-03-19 |  |
 | [Wie lässt man los?](https://open.spotify.com/track/3NNglIhmkTL8OvJ64xTLOd) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Wie lässt man los?](https://open.spotify.com/album/6qA2Iw00tU9pziYUSMq7NE) | 2:24 | 2023-04-13 | 2023-05-05 |
 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 | 2025-09-11 | 2025-11-21 |
 | [Wie weit](https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Wie weit](https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA) | 2:38 | 2024-03-14 | 2024-04-26 |

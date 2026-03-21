@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,969 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,999 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 6 | [CHANEL](https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 3:23 |
 | 7 | [DIO KARDIES](https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Michalis Karagkounis](https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [DIO KARDIES](https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z) | 3:20 |
 | 8 | [Friday 13](https://open.spotify.com/track/0HFrdPNAuPtkVGTizWcJyT) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN) | [Friday 13](https://open.spotify.com/album/7wYoDKvgmsRpE1yb1Tq3KB) | 2:46 |
-| 9 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
+| 9 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
 | 10 | [RP](https://open.spotify.com/track/0eS4UksBnRsMsS3eRH1ALh) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [Ank Beats](https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W) | [RP](https://open.spotify.com/album/3W8DrDJSd0SUhc7n3OC5AO) | 2:18 |
 | 11 | [ALCANTARA](https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [ALCANTARA](https://open.spotify.com/album/5TxLYjqyXamCUCb6z5b8B4) | 2:40 |
 | 12 | [Enoxoi Kai Athooi](https://open.spotify.com/track/6fOa9jVOwN2WoHl8qplUNr) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Nosfer](https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6) | [Enoxoi Kai Athooi](https://open.spotify.com/album/1HZgQqw1ldTIeCfPGqQMyG) | 3:13 |

@@ -7495,6 +7495,28 @@
     },
     {
       "album": {
+        "name": "Floating Away",
+        "url": "https://open.spotify.com/album/6alH3FxqsCFL2263L0on6R"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Josh Brown",
+          "url": "https://open.spotify.com/artist/0jOxvhQ47VZNeS4XPLyTNj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Floating Away",
+      "url": "https://open.spotify.com/track/3WDmjlwyMFqN2KM2U6PVwv"
+    },
+    {
+      "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
       },
@@ -7673,7 +7695,7 @@
       "artists": [
         {
           "name": "EFA",
-          "url": "https://open.spotify.com/artist/50EYBMMIVUb1MduqASXYil"
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
         },
         {
           "name": "Lacey",
@@ -16012,6 +16034,24 @@
       "duration_ms": 141521,
       "name": "Miss The Way",
       "url": "https://open.spotify.com/track/43YUXe0cscj0tGOELIWDMs"
+    },
+    {
+      "album": {
+        "name": "miss those nights",
+        "url": "https://open.spotify.com/album/4n7f8nEqGGiVtAY3YZp8zR"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcnn",
+          "url": "https://open.spotify.com/artist/1CLWdsKEaYZAiQAf8iv0vU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "miss those nights",
+      "url": "https://open.spotify.com/track/57oIvbxSqRsOAbyJ7o54fp"
     },
     {
       "album": {

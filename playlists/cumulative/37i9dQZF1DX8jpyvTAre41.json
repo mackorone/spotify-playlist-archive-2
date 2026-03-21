@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Chastity",
+  "description": "The best rock songs of the moment. Cover: Crown Lands",
   "name": "Rock Now",
   "tracks": [
     {
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187659,
       "name": "American Wet Dream",
       "url": "https://open.spotify.com/track/6JX5VcFg5FoJWwKkm5IL0q"
@@ -1590,6 +1590,24 @@
       "duration_ms": 212524,
       "name": "AN EFFORT TO FORGET (FEAT. EMILY HAINES)",
       "url": "https://open.spotify.com/track/2ZQzwBZtJHZx6edmy3I2d4"
+    },
+    {
+      "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216884,
+      "name": "An Ending In Itself",
+      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
     },
     {
       "album": {
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166730,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV"
@@ -2627,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
+    },
+    {
+      "album": {
         "name": "Beautiful People (Stay High)",
         "url": "https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd"
       },
@@ -2880,6 +2916,24 @@
       "duration_ms": 196655,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4"
+    },
+    {
+      "album": {
+        "name": "Bestby",
+        "url": "https://open.spotify.com/album/6MIDIRKr5zZGp4luwTO3i1"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121615,
+      "name": "Bestby",
+      "url": "https://open.spotify.com/track/2mtXBPzzGyIyLqqXgGTJij"
     },
     {
       "album": {
@@ -3558,7 +3612,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 161504,
       "name": "Bomb To A Knife Fight",
       "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
@@ -3598,6 +3652,24 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "album": {
+        "name": "Bones For The Crows",
+        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244638,
+      "name": "Bones For The Crows",
+      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
     },
     {
       "album": {
@@ -4741,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Caught In The Echo",
+        "url": "https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Caught In The Echo",
+      "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
+    },
+    {
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
       },
@@ -5290,7 +5380,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 207468,
       "name": "Coal Dust",
       "url": "https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq"
@@ -5582,6 +5672,24 @@
       "duration_ms": 203200,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0jDgi8JLdQdyO18wXaMSSv"
+    },
+    {
+      "album": {
+        "name": "Conflagration Mindset",
+        "url": "https://open.spotify.com/album/00iMqUkx8NtG052xwq3qar"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242483,
+      "name": "Conflagration Mindset",
+      "url": "https://open.spotify.com/track/6iW3I5wTLxsTL2CVmfeIcH"
     },
     {
       "album": {
@@ -6614,7 +6722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 212422,
       "name": "Depressed",
       "url": "https://open.spotify.com/track/1jUNEF8KHemuZZOhk2nhfs"
@@ -6730,6 +6838,24 @@
       "duration_ms": 216424,
       "name": "Diamond In The Rough (feat. Marty Friedman)",
       "url": "https://open.spotify.com/track/09wFyfVHuZRDbeFqeKeutK"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/25TFcV82Y8MnAmln55ekQG"
+      },
+      "artists": [
+        {
+          "name": "Sierra Pilot",
+          "url": "https://open.spotify.com/artist/5TEUn6N83JzMY17QPa2Wfz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0u9wYYs0jRDEUuTnVMXHLn"
     },
     {
       "album": {
@@ -13100,7 +13226,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200325,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/4csbKzdtmtojrzQfB7OPZ9"
@@ -14467,6 +14593,24 @@
     },
     {
       "album": {
+        "name": "Last Life",
+        "url": "https://open.spotify.com/album/06IIKH3uGLKgI6siCkfKwZ"
+      },
+      "artists": [
+        {
+          "name": "Thea May",
+          "url": "https://open.spotify.com/artist/6xLGFcntYI6WZdy54Qd7Ar"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Last Life",
+      "url": "https://open.spotify.com/track/7tXv1zympQDmUL8eDqfvTn"
+    },
+    {
+      "album": {
         "name": "Last Night On Earth",
         "url": "https://open.spotify.com/album/418Vd909JvhonGrSt68HwW"
       },
@@ -15718,6 +15862,24 @@
       "duration_ms": 172648,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M"
+    },
+    {
+      "album": {
+        "name": "Semi-Detached Furnished Home",
+        "url": "https://open.spotify.com/album/0yNCtSHNwrQsAodJmYR7y1"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98970,
+      "name": "Lou's Got The Flu",
+      "url": "https://open.spotify.com/track/2a8zRA9jnK4rCjvApfZkG5"
     },
     {
       "album": {
@@ -17148,7 +17310,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
@@ -20674,7 +20836,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 254446,
       "name": "Pullin' Teeth (feat. Kevin Rheault)",
       "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
@@ -20750,7 +20912,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 280924,
       "name": "Puppet Parade",
       "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
@@ -21101,6 +21263,24 @@
     },
     {
       "album": {
+        "name": "Careless Clarity (Studio)",
+        "url": "https://open.spotify.com/album/4vlreEHdqg03JJCOXZCG4c"
+      },
+      "artists": [
+        {
+          "name": "BrxkenBxy",
+          "url": "https://open.spotify.com/artist/53kxfycKPtWuSFpIuEHlGi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "reflection",
+      "url": "https://open.spotify.com/track/7402rzR1DtbfQKxeNejOLR"
+    },
+    {
+      "album": {
         "name": "20nothing",
         "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
       },
@@ -21354,6 +21534,24 @@
       "duration_ms": 175659,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y"
+    },
+    {
+      "album": {
+        "name": "Riptides",
+        "url": "https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197089,
+      "name": "Riptides",
+      "url": "https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz"
     },
     {
       "album": {
@@ -22867,6 +23065,24 @@
     },
     {
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206137,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
+    },
+    {
+      "album": {
         "name": "SKI MASK",
         "url": "https://open.spotify.com/album/1RS96e6IbsOWqj6YyRYuK5"
       },
@@ -23829,6 +24045,24 @@
     },
     {
       "album": {
+        "name": "STANDING OVATION",
+        "url": "https://open.spotify.com/album/7c7Tfwy40ySh2V9uq1GWd8"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163609,
+      "name": "STANDING OVATION",
+      "url": "https://open.spotify.com/track/58T7H7KXW0WtUY6seAEwCa"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
       },
@@ -24148,7 +24382,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 270825,
       "name": "Streets of Minneapolis - Radio Mix",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
@@ -26439,6 +26673,24 @@
     },
     {
       "album": {
+        "name": "Through the Looking Glass",
+        "url": "https://open.spotify.com/album/5Sl1SoIYATVGMDz4ctHH5Z"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224575,
+      "name": "Through the Looking Glass",
+      "url": "https://open.spotify.com/track/6VGUHFiRqbkR2ECsm2a8S5"
+    },
+    {
+      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },
@@ -26450,7 +26702,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
@@ -26552,7 +26804,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 207200,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
@@ -26970,7 +27222,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 188933,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S"
@@ -28158,7 +28410,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 229977,
       "name": "Wake Up Calling",
       "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
@@ -28508,6 +28760,24 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "album": {
+        "name": "Weight Of The Truth",
+        "url": "https://open.spotify.com/album/7gOX07sQgqrfaNyGJYTUoO"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205185,
+      "name": "Weight of The Truth",
+      "url": "https://open.spotify.com/track/2f59hMF7rBNhT400280pxe"
     },
     {
       "album": {
@@ -29524,7 +29794,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158320,
       "name": "yeah right!",
       "url": "https://open.spotify.com/track/03HG5uO77JX5O3u8r0Cn0d"

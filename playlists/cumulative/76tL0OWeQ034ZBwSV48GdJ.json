@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "One That You Love",
+        "url": "https://open.spotify.com/album/1r5YBIX5oeePjXtF9kxj4A"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "One That You Love",
+      "url": "https://open.spotify.com/track/2TmjzEaWM0NtvP9kvG2JwA"
+    },
+    {
+      "album": {
         "name": "I Talk To Water",
         "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Violet Grohl",
+  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Flatwounds",
   "name": "New Noise",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 216775,
       "name": "100-99 (feat. GoldLink)",
       "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
+    },
+    {
+      "album": {
+        "name": "14 Years",
+        "url": "https://open.spotify.com/album/3iuyxNq8Ixah5EMLrCLz3s"
+      },
+      "artists": [
+        {
+          "name": "Olive Vox",
+          "url": "https://open.spotify.com/artist/1XT9PDbUGYnNcjDnvXvBOS"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181497,
+      "name": "14 Years",
+      "url": "https://open.spotify.com/track/5beGIeLuAfR6xcTuMIwmzm"
     },
     {
       "album": {
@@ -2679,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb"
+    },
+    {
+      "album": {
         "name": "We Made Plans & God Laughed",
         "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
       },
@@ -4305,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Baby I Know You Well",
+        "url": "https://open.spotify.com/album/3p5N2OdR93y9a2JvYtF7Nz"
+      },
+      "artists": [
+        {
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Baby I Know You Well",
+      "url": "https://open.spotify.com/track/3B6RsZqdOu5oDWx2KVVJ5U"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -4468,7 +4522,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 190250,
       "name": "back to you",
       "url": "https://open.spotify.com/track/3UnkLdmeR7vV2YPeFdYQqa"
@@ -7227,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "blind",
+        "url": "https://open.spotify.com/album/7gNEH1UkR2GRgYfQXapUoq"
+      },
+      "artists": [
+        {
+          "name": "shane",
+          "url": "https://open.spotify.com/artist/328tDiwMTmuvnBGudZtb4o"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154592,
+      "name": "blind",
+      "url": "https://open.spotify.com/track/1NPWSpo3LgxTs3fvolGeh1"
+    },
+    {
+      "album": {
         "name": "BLIND BY YOUR CARESS",
         "url": "https://open.spotify.com/album/4mm6TdueORCenDZcdYSnkC"
       },
@@ -8508,7 +8580,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186483,
       "name": "Brace Yourself",
       "url": "https://open.spotify.com/track/75RBmj3FsvJaaUdKLAWnVx"
@@ -10688,7 +10760,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176901,
       "name": "Chain My Heart to Plastic",
       "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
@@ -13486,7 +13558,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 253346,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz"
@@ -16206,7 +16278,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 178083,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/35GsI9rs2Ogsqa34WyIx8w"
@@ -18626,7 +18698,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 187133,
       "name": "Emulator",
       "url": "https://open.spotify.com/track/684SXwWxyTuXI6tV2MdU7A"
@@ -24915,6 +24987,24 @@
     },
     {
       "album": {
+        "name": "Grazer",
+        "url": "https://open.spotify.com/album/4NcqO8MWjbvLaWcCAU7EeT"
+      },
+      "artists": [
+        {
+          "name": "Ain't",
+          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Grazer",
+      "url": "https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U"
+    },
+    {
+      "album": {
         "name": "Great Time To Be Human",
         "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
       },
@@ -28351,6 +28441,24 @@
     },
     {
       "album": {
+        "name": "House Baby",
+        "url": "https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "House Baby",
+      "url": "https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL"
+    },
+    {
+      "album": {
         "name": "She Reaches Out To She Reaches Out To She",
         "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
       },
@@ -30002,7 +30110,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 110101,
       "name": "I Know Where Mark Chen Lives",
       "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
@@ -30492,6 +30600,24 @@
       "duration_ms": 295560,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ"
+    },
+    {
+      "album": {
+        "name": "I Want That For You",
+        "url": "https://open.spotify.com/album/7IbMCegh1uObI9lJuQCQoD"
+      },
+      "artists": [
+        {
+          "name": "Gladie",
+          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183345,
+      "name": "I Want That For You",
+      "url": "https://open.spotify.com/track/5evwmIXLG40k1EYxbNHbBm"
     },
     {
       "album": {
@@ -31784,6 +31910,24 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
+    },
+    {
+      "album": {
+        "name": "Chain of Command",
+        "url": "https://open.spotify.com/album/27kHdOgIWgnNqaJxj1fWPO"
+      },
+      "artists": [
+        {
+          "name": "Flatwounds",
+          "url": "https://open.spotify.com/artist/6AK2oY9yLixWsafASkLKtz"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/5lhwPGLgMGdTN12qyuteS2"
     },
     {
       "album": {
@@ -36301,6 +36445,24 @@
     },
     {
       "album": {
+        "name": "Limb From Limb / Mechanically Separated",
+        "url": "https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Limb From Limb",
+      "url": "https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY"
+    },
+    {
+      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/7Czb25p0hcxTFM50c52fju"
       },
@@ -38423,6 +38585,24 @@
     },
     {
       "album": {
+        "name": "Make It Out",
+        "url": "https://open.spotify.com/album/3YW0I40pqUzTXGwcRA28aR"
+      },
+      "artists": [
+        {
+          "name": "Trueblood",
+          "url": "https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1"
+    },
+    {
+      "album": {
         "name": "Make It Through the Night",
         "url": "https://open.spotify.com/album/2i3DtxhPYBg3CNEx81rkEI"
       },
@@ -39838,6 +40018,24 @@
       "duration_ms": 165728,
       "name": "Midnight Ferry",
       "url": "https://open.spotify.com/track/5w98idOMOIFLAtdD0tZesi"
+    },
+    {
+      "album": {
+        "name": "Midnight Hour",
+        "url": "https://open.spotify.com/album/3e3mYEOPAB4kFQ7p4F6LB2"
+      },
+      "artists": [
+        {
+          "name": "Seahaven",
+          "url": "https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191286,
+      "name": "Midnight Hour",
+      "url": "https://open.spotify.com/track/3Ctok1mQ74zbA4mvvL6EGJ"
     },
     {
       "album": {
@@ -43638,7 +43836,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 170238,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
@@ -48126,7 +48324,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200441,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/6P5pDG0Nb9Q67GauzEfYq0"
@@ -52938,7 +53136,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 185200,
       "name": "Se Llama (Tell Me What You Want)",
       "url": "https://open.spotify.com/track/17s4U1JzeV3N8asbVLkRj1"
@@ -54956,6 +55154,24 @@
       "duration_ms": 149388,
       "name": "SILYMI",
       "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
+    },
+    {
+      "album": {
+        "name": "Brink",
+        "url": "https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Simple Life",
+      "url": "https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo"
     },
     {
       "album": {
@@ -57616,7 +57832,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 112452,
       "name": "Standing In The Downpour",
       "url": "https://open.spotify.com/track/6hwLFNlFUCWOVjwP8Athpy"
@@ -63488,7 +63704,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 97001,
       "name": "Thumb",
       "url": "https://open.spotify.com/track/3fh3MPjzJ8znS8SyJN3tVY"
@@ -69755,6 +69971,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3BB0xOQPvpn5Amjh3TFBfI"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227242,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l"
+    },
+    {
+      "album": {
         "name": "with you in spirit",
         "url": "https://open.spotify.com/album/1RFWfUCApeMpu1nEizytkr"
       },
@@ -70018,7 +70252,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 239952,
       "name": "Worry Angel",
       "url": "https://open.spotify.com/track/2KbsdGIrImQKjWGCAxWgQ5"

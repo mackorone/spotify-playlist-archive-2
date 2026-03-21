@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo Frontera y Silvestre Dangond",
-  "num_followers": 130769,
+  "num_followers": 130781,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJsSKY9HqlNsnikmXi8haUkvUxoh",
+  "snapshot_id": "AAAAAA5vbHp0i7SSQ/evAuMkUzdnAfs7",
   "tracks": [
     {
       "added_at": "2026-03-13 04:59:24",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-03-13 04:59:24",
       "album": {
+        "name": "El Baile de la Serpiente",
+        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Juraste Querrerme",
+      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+    },
+    {
+      "added_at": "2026-03-13 04:59:24",
+      "album": {
         "name": "Nuestros 30 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2026-03-13 04:59:24",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+        "name": "\u00c1mame Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
       },
       "artists": [
         {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+          "name": "El Encanto De Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+      "duration_ms": 256255,
+      "name": "Loco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
     },
     {
       "added_at": "2026-03-13 04:59:24",
@@ -555,22 +571,6 @@
       "duration_ms": 191085,
       "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
       "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
-    },
-    {
-      "added_at": "2026-03-13 04:59:24",
-      "album": {
-        "name": "\u00c1mame Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
-      },
-      "artists": [
-        {
-          "name": "El Encanto De Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Loco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
     },
     {
       "added_at": "2026-03-13 04:59:24",

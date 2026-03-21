@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-4,269 songs - 9 day 9 hr 55 min
+4,270 songs - 9 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3716,6 +3716,7 @@
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2022-09-09 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/677KBsV3TouvfOk4czlRzc) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe), [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/52BzGjZdplumzayfhwd5iy) | 4:04 | 2022-07-13 | 2022-07-21 |
 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-12 | 2024-01-18 |
+| [Tem Dias Que o Mundo Pesa](https://open.spotify.com/track/5zfRTAXpyLVJjgJBWJOjuP) | [FERNANDO JUNIOR](https://open.spotify.com/artist/4EjvmEhFFZFnhuuxQ4gH55) | [Tem Dias Que o Mundo Pesa](https://open.spotify.com/album/5gpViT7apLXrwsPQdyEIZD) | 2:00 | 2026-03-20 |  |
 | [Tempo](https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [734](https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF) | 3:11 | 2023-11-07 | 2023-11-29 |
 | [Tengo](https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:09 | 2023-08-29 | 2023-09-20 |
 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 | 2023-12-19 | 2024-01-30 |
@@ -4186,7 +4187,7 @@
 | [Would've, Could've, Should've](https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 4:20 | 2022-11-17 | 2022-11-23 |
 | [Wouldn't Change a Thing \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:23 | 2025-08-18 | 2025-08-20 |
 | [Wtf](https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW), [H4axxi](https://open.spotify.com/artist/1Pe2bSGGnlBB19BzevKijn) | [Wtf](https://open.spotify.com/album/28IkNpZUMyuaWaADQAcwaS) | 1:49 | 2023-06-06 | 2023-06-21 |
-| [Wuthering Heights](https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/0d2Els0A5zzfPMqY6TkqmS) | 4:39 | 2026-03-01 |  |
+| [Wuthering Heights](https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/0d2Els0A5zzfPMqY6TkqmS) | 4:39 | 2026-03-01 | 2026-03-21 |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2022-06-05 | 2022-06-12 |
 | [Xangai](https://open.spotify.com/track/1DzURS5tMXFwOnrHbEwdIK) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Percalços](https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK) | 2:05 | 2023-08-07 | 2023-08-16 |
 | [Xerecation](https://open.spotify.com/track/69B1LNCFR2kjrJczNeQdRf) | [DJ Nardini](https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E), [Jhona!](https://open.spotify.com/artist/2kIEoK0Iqz5kyMZlKWhWY0) | [Xerecation](https://open.spotify.com/album/4EiSA9hWTEKnJDx73oLJwc) | 3:02 | 2022-09-11 | 2022-10-19 |

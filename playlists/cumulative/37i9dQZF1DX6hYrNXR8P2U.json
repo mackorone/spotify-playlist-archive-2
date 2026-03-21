@@ -8589,6 +8589,28 @@
     },
     {
       "album": {
+        "name": "A Todo Ritmo",
+        "url": "https://open.spotify.com/album/5To2OCrmbKGiTmJO0YhqrS"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Peque\u00f1a",
+          "url": "https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C"
+        },
+        {
+          "name": "Sir\u00ffa",
+          "url": "https://open.spotify.com/artist/5IAu4qGafIVgRR4LryUGpW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Quedateloo-O",
+      "url": "https://open.spotify.com/track/0KU2sqzPNNU8I4LhKO2D5g"
+    },
+    {
+      "album": {
         "name": "QUEREME",
         "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
       },
@@ -8706,6 +8728,24 @@
       "duration_ms": 183000,
       "name": "Quieto",
       "url": "https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5"
+    },
+    {
+      "album": {
+        "name": "QUISIERA CHOCAR DESPACIO",
+        "url": "https://open.spotify.com/album/0cFElNdosDKPNGpv0qiTQ6"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233518,
+      "name": "QUISIERA CHOCAR DESPACIO",
+      "url": "https://open.spotify.com/track/5V0tSROru0adtqgwFP29v5"
     },
     {
       "album": {

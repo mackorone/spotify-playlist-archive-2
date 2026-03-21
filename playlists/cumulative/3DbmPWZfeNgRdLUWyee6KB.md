@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-813 songs - 1 day 23 hr 47 min
+819 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Aftermath](https://open.spotify.com/track/0QFWUGJlrJipjq3S6IXJLw) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:30 | 2026-02-08 | 2026-03-07 |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-09-23 | 2025-11-29 |
 | [Ahhh](https://open.spotify.com/track/2vxr60lrZFVBxq1UmyTX1d) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto Animal](https://open.spotify.com/album/1J7Dz8Fw98iGdyc5zkVqBy) | 2:50 | 2025-11-24 | 2026-01-05 |
+| [Al Borde De La Belleza](https://open.spotify.com/track/6I4RtHCbbsmzIx9RwE4wPZ) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Al Borde De La Belleza](https://open.spotify.com/album/5KEALFSgtC1UzVWZ38dnSV) | 3:23 | 2026-03-20 |  |
 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 | 2026-01-20 | 2026-02-20 |
 | [All The Right Moves](https://open.spotify.com/track/5R8u2wIpO2OKg2EhSygZne) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 3:54 | 2026-03-09 |  |
 | [All The Time](https://open.spotify.com/track/7E2MmQgEzRorBQZYx853RD) | [Tathan](https://open.spotify.com/artist/02MtYbPPmiILqyRJ8ftJfV) | [All The Time](https://open.spotify.com/album/5kEJxEoZytKnaoQpr76M73) | 2:34 | 2026-02-28 |  |
@@ -147,6 +148,7 @@
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 |  |
 | [Could It Be Love](https://open.spotify.com/track/0lfjkpY9AZq0Qs2Bwn09tu) | [James A\. Rocco](https://open.spotify.com/artist/6smo6fpEJijfZN27dFbaoL), [Heidi Karol Johnson](https://open.spotify.com/artist/4ySm3RS7l7jOfxpLZ3UPN0) | [Could It Be Love](https://open.spotify.com/album/4ddfDIzblId9xdTm0oK3Oz) | 3:57 | 2026-02-27 |  |
+| [Country Girl Stomp](https://open.spotify.com/track/7vWRJxZfm7fwLRoTJZhDhT) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Boots in the City](https://open.spotify.com/album/5dbWKfGkd1vwPEeBhNIPIi) | 3:09 | 2026-03-20 |  |
 | [Covenant](https://open.spotify.com/track/1BHqn3D5VSRVyNOXwMkmtw) | [Kristina Lynn](https://open.spotify.com/artist/1EDIKX5hJdPKg4RhNLTIwK) | [Covenant](https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA) | 4:17 | 2026-02-03 | 2026-03-07 |
 | [Crash Out](https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v) | [Scilence](https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp) | [Crash Out](https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA) | 4:12 | 2026-01-24 | 2026-02-28 |
 | [Crawl](https://open.spotify.com/track/0COUEawGGxO0lHL3Yf4FV9) | [Alice Isabella](https://open.spotify.com/artist/7mJxghz6FKmBNKQoi73xXA) | [Crawl](https://open.spotify.com/album/5AdzIhovQDWt5L1JT7o40e) | 3:28 | 2025-12-16 | 2026-01-15 |
@@ -171,6 +173,7 @@
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-03-16 |  |
+| [Desnudos](https://open.spotify.com/track/0YhRvQRdUPS5CTTr271yxK) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Desnudos](https://open.spotify.com/album/7xZRApMEokpFziQCuMdchm) | 4:40 | 2026-03-20 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 |  |
 | [Devour / The Performer](https://open.spotify.com/track/5FDV4uoXH08RdtWYK59TJv) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [Devour / The Performer](https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj) | 4:00 | 2025-11-17 | 2025-12-21 |
 | [Di una donna](https://open.spotify.com/track/6yECICIZ8PrA3fBfsATvig) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Di una donna](https://open.spotify.com/album/5o1y7J95FKsNNRdqJgaydO) | 3:55 | 2026-01-02 | 2026-02-03 |
@@ -349,6 +352,7 @@
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-04 | 2026-03-09 |
+| [Konnichiwa \(Love\)](https://open.spotify.com/track/2Ffgq6OfCVlwimWtDmf4Hm) | [Azeul Beats](https://open.spotify.com/artist/38NVSbyC4Zw57vgXhImYAC) | [Konnichiwa \(Love\)](https://open.spotify.com/album/0nNAz4kDdJXgHAd3cf6rct) | 2:54 | 2026-03-20 |  |
 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 | 2025-12-26 | 2026-01-24 |
 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 | 2026-03-04 |  |
 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-01-30 | 2026-02-28 |
@@ -508,6 +512,7 @@
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [Open Road](https://open.spotify.com/track/4qmM0P0zPzuk02vS0zwzVL) | [Melaku](https://open.spotify.com/artist/0pg8optqAPmdNYyiksFIJs) | [Open Road](https://open.spotify.com/album/2NaqfH12sP2B48uo1GyOUT) | 3:05 | 2026-03-10 |  |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 | 2026-02-28 |
+| [Our Lady Sanctuary](https://open.spotify.com/track/7GQ0PEFA3ZMTV5xn3Az7WX) | [Claude.ink](https://open.spotify.com/artist/1IbT88ZSG7qOieJEjrdfU2) | [Hermit](https://open.spotify.com/album/1XC0EQs1kvFxon3FFlsmYt) | 4:00 | 2026-03-21 |  |
 | [Our Man in Rajasthan](https://open.spotify.com/track/5fN3GfmiP4a47NbWkJFSxo) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Our Man in Rajasthan](https://open.spotify.com/album/75pV5uJWF3Ne8TBBjrFsnL) | 3:59 | 2024-05-23 | 2025-12-28 |
 | [Out of My Head](https://open.spotify.com/track/6c16RwgUzrrRRipIKkEE3k) | [Oh Bummer!](https://open.spotify.com/artist/1bNbOpDn0Ah4derpXO4sZ7), [Nick theKidd](https://open.spotify.com/artist/0f63uayGUf981mspv4bS4w), [SimpleSib](https://open.spotify.com/artist/6Rg8nObt0dnspHkP4NqQVi) | [Out of My Head](https://open.spotify.com/album/4XC4ELZOBzltBurwYx7d9f) | 2:49 | 2026-03-09 |  |
 | [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-17 | 2026-02-20 |
@@ -759,6 +764,7 @@
 | [Vicio Favorito](https://open.spotify.com/track/09PGUcOsWZY0nZLoRCikpo) | [Teira](https://open.spotify.com/artist/7fWf4IrlJOQNK0Fahnw7Bc) | [Vicio Favorito](https://open.spotify.com/album/4pVgIni9YHTfXF3JEejarD) | 3:06 | 2026-03-08 |  |
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-11-21 | 2026-01-05 |
 | [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 | 2026-02-05 | 2026-03-07 |
+| [Vivo e rinasco](https://open.spotify.com/track/10dVUOSkQQlpGNOXM8TIkU) | [Sabrina Cor](https://open.spotify.com/artist/30LQQ8lsO1RO4N3GzzDudl) | [Vivo e rinasco](https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB) | 2:57 | 2026-03-20 |  |
 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 | 2025-12-29 | 2026-01-24 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-12-22 | 2026-01-24 |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2025-12-22 | 2026-01-24 |

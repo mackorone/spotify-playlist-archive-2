@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Nona
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,907 likes - 88 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,878 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Letters To My Habits](https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln) | 0:00 |
+| 1 | [What A Way To Die](https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Letters To My Habits](https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln) | 2:45 |
 | 2 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
 | 3 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 |
 | 4 | [Won’t Fall](https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Won’t Fall](https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek) | 3:48 |

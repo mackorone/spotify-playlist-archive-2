@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+    },
+    {
+      "album": {
         "name": "Ser T\u00e3o Eu - Parte 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/22bVPTAJLywADdmwbyA60a"
       },
@@ -6988,7 +7006,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 149779,
       "name": "Minha Gata",
       "url": "https://open.spotify.com/track/3V2LWPOBUqtzKcsCDtCMIj"
@@ -7608,6 +7626,28 @@
       "duration_ms": 158769,
       "name": "NEM A\u00cd",
       "url": "https://open.spotify.com/track/7CHfDDYWBiRH609GKdWgif"
+    },
+    {
+      "album": {
+        "name": "Nem Pagando",
+        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
+      },
+      "artists": [
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142286,
+      "name": "Nem Pagando",
+      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
     },
     {
       "album": {
@@ -10768,7 +10808,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173375,
       "name": "Sinal Disfar\u00e7ado - El\u00e9trico",
       "url": "https://open.spotify.com/track/0J7XlUfjtMmokwCrzlmJIr"

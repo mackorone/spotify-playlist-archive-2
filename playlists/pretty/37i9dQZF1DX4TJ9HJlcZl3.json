@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 20222,
+  "num_followers": 20229,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnHxUkrTo15RMF+4BlYA435n4JR",
+  "snapshot_id": "AAAAAP+O/7x8jnkLLoWHlWWwuin8H6n2",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "The Understudy",
+        "url": "https://open.spotify.com/album/5sEuEM1OXuOWFP01dqICQs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "The Hate You See",
+      "url": "https://open.spotify.com/track/058ob80FuFEq1XdoSaW8Ov"
+    },
     {
       "added_at": "2025-11-21 05:00:25",
       "album": {
@@ -651,26 +667,6 @@
       "duration_ms": 247789,
       "name": "Le Parapluie",
       "url": "https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Just My Type",
-        "url": "https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W"
-      },
-      "artists": [
-        {
-          "name": "Swoodeasu",
-          "url": "https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD"
-        },
-        {
-          "name": "TSUYO",
-          "url": "https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Just My Type",
-      "url": "https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7"
     },
     {
       "added_at": "2023-09-01 04:00:00",

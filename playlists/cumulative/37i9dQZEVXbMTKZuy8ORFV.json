@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 277635,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/2H5wRgIzqqUS7s5MpXBwlg"
@@ -13938,7 +13938,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230824,
       "name": "En Mil Pedazos",
       "url": "https://open.spotify.com/track/5VeB7mrGwIpHFA3NooAWio"
@@ -18172,7 +18172,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 126160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2Ya55JpsLWKJUWFulImAJy"
@@ -20702,7 +20702,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
@@ -35107,6 +35107,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Ni\u00f1os y Ni\u00f1as!",
+        "url": "https://open.spotify.com/album/3U7DKZtjePm3GzEWoQQKUq"
+      },
+      "artists": [
+        {
+          "name": "Topo Gigio",
+          "url": "https://open.spotify.com/artist/4VRf73oEPQ4kniW6RuuypG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Quiero Parecerme a Mi Pap\u00e1",
+      "url": "https://open.spotify.com/track/6xkxhSqeASr0JcfLyu6gmz"
+    },
+    {
+      "album": {
         "name": "Cancer de Amor (Vol. 3)",
         "url": "https://open.spotify.com/album/6Qxwu3k7EXWNvHEpZB2Gii"
       },
@@ -48036,7 +48054,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "YO QUIERO",
       "url": "https://open.spotify.com/track/47sQ0h1xhlDWJ3nHbwYPrg"

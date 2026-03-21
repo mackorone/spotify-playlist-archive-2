@@ -1,28 +1,60 @@
 {
-  "description": "a little indie, a little pop, soda featuring Presley Regier",
-  "num_followers": 229133,
+  "description": "a little indie, a little pop, soda featuring Kevian Kraemer",
+  "num_followers": 229188,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMM/NmdC8jchF9AvUjJi22xJ/XF",
+  "snapshot_id": "AAAAAEtoCR4EJGr+bNzJGAclBYpO7RRb",
   "tracks": [
     {
-      "added_at": "2026-02-27 05:00:34",
+      "added_at": "2026-03-20 04:00:49",
       "album": {
-        "name": "If I Was With You",
-        "url": "https://open.spotify.com/album/4hIcCrnVwbklpJy14UhCuN"
+        "name": "down under",
+        "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
       },
       "artists": [
         {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
         }
       ],
-      "duration_ms": 205789,
-      "name": "If I Was With You",
-      "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
+      "duration_ms": 204557,
+      "name": "down under",
+      "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
+    },
+    {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Make It Out",
+        "url": "https://open.spotify.com/album/3YW0I40pqUzTXGwcRA28aR"
+      },
+      "artists": [
+        {
+          "name": "Trueblood",
+          "url": "https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1"
+    },
+    {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 164105,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ"
     },
     {
       "added_at": "2026-03-16 20:04:39",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7"
     },
     {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "the nostalgia tapes",
+        "url": "https://open.spotify.com/album/3SO3u6dMOH9criZfNzeLmG"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 151552,
+      "name": "deja blues",
+      "url": "https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q"
+    },
+    {
       "added_at": "2026-03-16 20:52:03",
       "album": {
         "name": "auburn",
@@ -55,6 +103,54 @@
       "duration_ms": 209591,
       "name": "auburn",
       "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/1QmYG5rDwfQFjtWFOMv6Kh"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Sleeping In My Car",
+      "url": "https://open.spotify.com/track/1z72b1oJqfdDbS3jnWcKjN"
+    },
+    {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
+    },
+    {
+      "added_at": "2026-02-27 05:00:34",
+      "album": {
+        "name": "If I Was With You",
+        "url": "https://open.spotify.com/album/4hIcCrnVwbklpJy14UhCuN"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 205789,
+      "name": "If I Was With You",
+      "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -445,22 +541,6 @@
       "url": "https://open.spotify.com/track/49t87UaGyvXM2CJVXNwOsQ"
     },
     {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
-        "name": "you woke me up",
-        "url": "https://open.spotify.com/album/3bgwaKuJ00y0DWB9eqeA71"
-      },
-      "artists": [
-        {
-          "name": "Kevian Kraemer",
-          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "you woke me up",
-      "url": "https://open.spotify.com/track/55hBQyyUNR5j2pZYGj9lj0"
-    },
-    {
       "added_at": "2026-01-30 05:01:03",
       "album": {
         "name": "White Keys",
@@ -735,86 +815,6 @@
       "duration_ms": 199373,
       "name": "Bite The Bullet",
       "url": "https://open.spotify.com/track/1tBQNVylJHS9gg5EVTT5nQ"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "(how could i be)honest?",
-        "url": "https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "(how could i be)honest?",
-      "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
-    },
-    {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/0LoVo5gwblY0FCEnsbLXzb"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6DXCdk7JVkB7PsjmhRkJEe"
-    },
-    {
-      "added_at": "2025-11-07 05:51:47",
-      "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
-    },
-    {
-      "added_at": "2025-11-22 18:15:54",
-      "album": {
-        "name": "UNDONE",
-        "url": "https://open.spotify.com/album/3FDeTfdo6brAijMp6GKRM1"
-      },
-      "artists": [
-        {
-          "name": "verygently",
-          "url": "https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "UNDONE",
-      "url": "https://open.spotify.com/track/4LSBkHIZSeV4u4ZMGeEstK"
-    },
-    {
-      "added_at": "2025-12-05 05:01:27",
-      "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 260435,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M"
     }
   ],
   "unique_name": "soda",

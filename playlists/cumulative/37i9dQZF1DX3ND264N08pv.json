@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 125647,
       "name": "CHUCKY",
       "url": "https://open.spotify.com/track/22kteI2xVP12pKh6djmqHP"
@@ -1660,6 +1660,28 @@
       "duration_ms": 222272,
       "name": "DEQUINOX 100",
       "url": "https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW"
+    },
+    {
+      "album": {
+        "name": "DEVIL INSIDE",
+        "url": "https://open.spotify.com/album/1Im7NFmi9GqoTIS7zIIPLb"
+      },
+      "artists": [
+        {
+          "name": "Redlinerz",
+          "url": "https://open.spotify.com/artist/1p72X351s3VusuGu9gtcZh"
+        },
+        {
+          "name": "Abrade",
+          "url": "https://open.spotify.com/artist/0NWK35yicnrb7InQsWtFCv"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188872,
+      "name": "DEVIL INSIDE",
+      "url": "https://open.spotify.com/track/7vkGe1arXPoiWjhXAWXmUK"
     },
     {
       "album": {
@@ -3007,6 +3029,28 @@
     },
     {
       "album": {
+        "name": "Hardcore Bass",
+        "url": "https://open.spotify.com/album/1vTB6AtM6rfXboi0YylIhh"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168855,
+      "name": "Hardcore Bass",
+      "url": "https://open.spotify.com/track/4EChaoF30M64Bb43eSyGFt"
+    },
+    {
+      "album": {
         "name": "Hardcore By Nature",
         "url": "https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ"
       },
@@ -3511,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "Hot (Like a Woman)",
+        "url": "https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        },
+        {
+          "name": "Schlot",
+          "url": "https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162742,
+      "name": "Hot (Like a Woman)",
+      "url": "https://open.spotify.com/track/24dzulqnPdsw339OOT2sas"
+    },
+    {
+      "album": {
         "name": "HUSTLING",
         "url": "https://open.spotify.com/album/7LoYny56xOCivnclKkPgX7"
       },
@@ -3650,7 +3716,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164571,
       "name": "I Don't Follow Trends",
       "url": "https://open.spotify.com/track/5uG8svfj2Aw6gOo6xlejhj"
@@ -4254,7 +4320,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 298666,
       "name": "Lead By Example (Official Dominator 2025 Anthem)",
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
@@ -4554,6 +4620,24 @@
       "duration_ms": 194742,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/5NK6a73PWXffL6PzUeMNIf"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix"
     },
     {
       "album": {
@@ -6118,7 +6202,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 334545,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
@@ -6312,6 +6396,28 @@
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
     },
     {
       "album": {
@@ -6587,6 +6693,28 @@
     },
     {
       "album": {
+        "name": "Shut Me Down",
+        "url": "https://open.spotify.com/album/1dK1n2RteD15PIT0Xx3Mpg"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180634,
+      "name": "Shut Me Down",
+      "url": "https://open.spotify.com/track/6nkzdH6eKTDCBlNydpTBUx"
+    },
+    {
+      "album": {
         "name": "Sick And Tired",
         "url": "https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d"
       },
@@ -6632,6 +6760,24 @@
       "duration_ms": 186273,
       "name": "Side Fx's",
       "url": "https://open.spotify.com/track/7fwYN5u0dYRNqshCjhJWDF"
+    },
+    {
+      "album": {
+        "name": "Sikam Szampan Techno",
+        "url": "https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188562,
+      "name": "Sikam Szampan Techno",
+      "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"
     },
     {
       "album": {
@@ -7508,7 +7654,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186002,
       "name": "The Nightmare Man",
       "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
@@ -8306,7 +8452,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 175113,
       "name": "Voice Of The Underground",
       "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
@@ -8548,7 +8694,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 141346,
       "name": "WE DONT PLAY",
       "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"

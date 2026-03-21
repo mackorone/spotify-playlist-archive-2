@@ -4693,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5001QUmSIYtq9hKisNjdXI"
+      },
+      "artists": [
+        {
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2eCIuJf0knqLiVc8nMFVPJ"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -5166,7 +5184,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 189974,
       "name": "Herbaciana",
       "url": "https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE"
@@ -6901,6 +6919,24 @@
     },
     {
       "album": {
+        "name": "lie to me better",
+        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160795,
+      "name": "lie to me better",
+      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
+    },
+    {
+      "album": {
         "name": "Life Is A Game",
         "url": "https://open.spotify.com/album/5EcDYFP87JwM371HNyEAWK"
       },
@@ -7522,7 +7558,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183586,
       "name": "Maski",
       "url": "https://open.spotify.com/track/0tzcI6JCl5XYPuuSHzFzDv"
@@ -7820,6 +7856,24 @@
       "duration_ms": 185192,
       "name": "Miodowe Lata",
       "url": "https://open.spotify.com/track/3AEpsuPJXtPwEJMpptFwsn"
+    },
+    {
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "album": {
@@ -10341,6 +10395,24 @@
     },
     {
       "album": {
+        "name": "pierrot",
+        "url": "https://open.spotify.com/album/60yGJ4qCSE5KGymOkCTseR"
+      },
+      "artists": [
+        {
+          "name": "Coals",
+          "url": "https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202389,
+      "name": "pierrot",
+      "url": "https://open.spotify.com/track/0aBBKcJVZ2jmN1ox9zHti7"
+    },
+    {
+      "album": {
         "name": "Znajd\u017a mnie w tym",
         "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
       },
@@ -11126,6 +11198,28 @@
       "duration_ms": 183881,
       "name": "przypadkiem",
       "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
+    },
+    {
+      "album": {
+        "name": "Przyznaj\u0119 si\u0119",
+        "url": "https://open.spotify.com/album/17AkqGecFF8vua4QWA5F8B"
+      },
+      "artists": [
+        {
+          "name": "PAULA ROMA",
+          "url": "https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs"
+        },
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176259,
+      "name": "Przyznaj\u0119 si\u0119",
+      "url": "https://open.spotify.com/track/0vCV6156MOjWP86s5tssbY"
     },
     {
       "album": {
@@ -13126,7 +13220,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 206843,
       "name": "Sztorm",
       "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
@@ -14300,7 +14394,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 224146,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8"
@@ -15726,7 +15820,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158823,
       "name": "wszystko mam",
       "url": "https://open.spotify.com/track/4BmBjbRt4EnSJGN3HHp3JF"

@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200000,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7"
@@ -2000,6 +2000,24 @@
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK"
+    },
+    {
+      "album": {
+        "name": "The Understudy",
+        "url": "https://open.spotify.com/album/5sEuEM1OXuOWFP01dqICQs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "The Hate You See",
+      "url": "https://open.spotify.com/track/058ob80FuFEq1XdoSaW8Ov"
     },
     {
       "album": {

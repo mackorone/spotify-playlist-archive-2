@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 227680,
       "name": "At We Feet (with Damian Marley)",
       "url": "https://open.spotify.com/track/6DM5avm0wR2u3o4JytFHW2"
@@ -1927,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "Egyptian Musk",
+        "url": "https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Egyptian Musk",
+      "url": "https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd"
+    },
+    {
+      "album": {
         "name": "Eh",
         "url": "https://open.spotify.com/album/2Cib8n91qqK0FthCEE1NOX"
       },
@@ -2306,6 +2328,28 @@
       "duration_ms": 153848,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206741,
+      "name": "Goddess (with Shenseea)",
+      "url": "https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV"
     },
     {
       "album": {
@@ -3118,7 +3162,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 228882,
       "name": "Lanton (Lantern)",
       "url": "https://open.spotify.com/track/33aOP7SekoZj6SCDdd8Yto"
@@ -3325,6 +3369,32 @@
     },
     {
       "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Love Sick Crazy",
+      "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
+    },
+    {
+      "album": {
         "name": "Love The Way (Feat. Yung Bredda & Lejuh)",
         "url": "https://open.spotify.com/album/4i4Dxw2Wie4ejyjvL73crN"
       },
@@ -3372,7 +3442,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 232180,
       "name": "Many Mourn For Bob",
       "url": "https://open.spotify.com/track/0bYPMrLUMFwFRuzgTe6XOW"
@@ -4140,6 +4210,24 @@
       "duration_ms": 165250,
       "name": "Old Topic",
       "url": "https://open.spotify.com/track/3YGx1cYn9VHTPBPGCJDjfd"
+    },
+    {
+      "album": {
+        "name": "On The Boulevard",
+        "url": "https://open.spotify.com/album/6HzlK2QtcPFMsaU28V1yTS"
+      },
+      "artists": [
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "On The Boulevard",
+      "url": "https://open.spotify.com/track/4Xn30YPhWTv48MI3szcLjq"
     },
     {
       "album": {
@@ -6906,6 +6994,24 @@
       "duration_ms": 263408,
       "name": "You Remind Me (feat. Vybz Kartel, Buju Banton, Bounty Killer, Mavado, Rorystonelove & Kaylan Arnold)",
       "url": "https://open.spotify.com/track/0arUL8gBetEOvzbfEsf56o"
+    },
+    {
+      "album": {
+        "name": "Your Bad Luck (Hurricane Riddim)",
+        "url": "https://open.spotify.com/album/6nv3ZRWct80EoYEuQ8aqQf"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213564,
+      "name": "Your Bad Luck - Hurricane Riddim",
+      "url": "https://open.spotify.com/track/3vxkiTZMgljY7HQNhDXZwx"
     },
     {
       "album": {

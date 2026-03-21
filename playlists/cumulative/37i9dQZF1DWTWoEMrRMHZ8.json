@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/6A5mRdyV0cPvsMPZlpMHuu"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Ainda",
+      "url": "https://open.spotify.com/track/7eruJrFFk6bToBSxEzC1x7"
+    },
+    {
+      "album": {
         "name": "PERDURAR (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
       },
@@ -8542,7 +8560,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
@@ -10008,6 +10026,24 @@
       "duration_ms": 196810,
       "name": "ladoAlado",
       "url": "https://open.spotify.com/track/251SKepsXZizogAxHaV8K3"
+    },
+    {
+      "album": {
+        "name": "Lagartixa Tropical",
+        "url": "https://open.spotify.com/album/7pjVgFgPsSH8afoxbhHUJl"
+      },
+      "artists": [
+        {
+          "name": "Arthur Diniz",
+          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126195,
+      "name": "Lagartixa Tropical",
+      "url": "https://open.spotify.com/track/1KQdl4gntICsLUAMa3x2qw"
     },
     {
       "album": {
@@ -12514,7 +12550,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204680,
       "name": "Nada Por Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/1mVrGsjVhqWGqLia5c0XN0"
@@ -16108,6 +16144,28 @@
       "duration_ms": 194408,
       "name": "Pra Ningu\u00e9m",
       "url": "https://open.spotify.com/track/6Ss8ip2es8NcUyl2EPZjbg"
+    },
+    {
+      "album": {
+        "name": "Pra Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Pra Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "album": {
@@ -19970,7 +20028,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 268364,
       "name": "S\u00f3 Quem Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"

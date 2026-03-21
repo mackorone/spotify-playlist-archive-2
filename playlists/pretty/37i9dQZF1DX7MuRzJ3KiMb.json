@@ -427,22 +427,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "len\u00e7\u00f3is maranhenses",
-        "url": "https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "len\u00e7\u00f3is maranhenses",
-      "url": "https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Bodhiria",
         "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 145151,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "len\u00e7\u00f3is maranhenses",
+        "url": "https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "len\u00e7\u00f3is maranhenses",
+      "url": "https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195300,
       "name": "Eres",
       "url": "https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "4LIFE",
-        "url": "https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 212091,
-      "name": "4LIFE",
-      "url": "https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 205669,
       "name": "El acuerdo",
       "url": "https://open.spotify.com/track/1LLWnqc93bK8DgWxmYvARN"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "4LIFE",
+        "url": "https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 212091,
+      "name": "4LIFE",
+      "url": "https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "C.A.P.S",
+        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "No estaba tan mal",
+      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Quiz\u00e1 no es para tanto",
         "url": "https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 236130,
       "name": "pens\u00e9 en ti (feat. Caloncho) (feat. Caloncho)",
       "url": "https://open.spotify.com/track/46Z3waLIm9pBhiI5dA6dyt"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "C.A.P.S",
-        "url": "https://open.spotify.com/album/6HlzENT5LIAZoVq8LjP0iR"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "No estaba tan mal",
-      "url": "https://open.spotify.com/track/3xSBUtVPeIxD9kiLHcKxx7"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "V\u00e1ndalos",
+        "url": "https://open.spotify.com/album/4sPqEkPXMrI8DoxnuOKWhT"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 309880,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/6cZaunet5DpuYtLbLecHli"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "R\u00d8Z \u2013 Spotify Sessions",
         "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 293166,
       "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
       "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "V\u00e1ndalos",
-        "url": "https://open.spotify.com/album/4sPqEkPXMrI8DoxnuOKWhT"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 309880,
-      "name": "El Ritmo",
-      "url": "https://open.spotify.com/track/6cZaunet5DpuYtLbLecHli"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "PUERTA DEL SOL",
-      "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 153707,
       "name": "En Tu Marea",
       "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 220964,
+      "name": "PUERTA DEL SOL",
+      "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Se\u00fal / Matarme con vos",
-        "url": "https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 144155,
-      "name": "Se\u00fal",
-      "url": "https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Desde Que La Vi",
         "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 168749,
       "name": "Desde Que La Vi",
       "url": "https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Se\u00fal / Matarme con vos",
+        "url": "https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 144155,
+      "name": "Se\u00fal",
+      "url": "https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Au",
-        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 158812,
-      "name": "pijama.",
-      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "La Cruz De Mi Conciencia",
         "url": "https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 216014,
       "name": "Entre Sombras",
       "url": "https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Au",
+        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 158812,
+      "name": "pijama.",
+      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "POST POP",
-        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
-      },
-      "artists": [
-        {
-          "name": "Homog\u00e9nica",
-          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "Fan",
-      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Antes de Ti",
         "url": "https://open.spotify.com/album/47R3I7GRYUM6Zuum51wl6m"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 123297,
       "name": "\u00c1cido!",
       "url": "https://open.spotify.com/track/3prWKUEpsSgS8EkK6SmXkN"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "POST POP",
+        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
     },
     {
       "added_at": "2025-12-03 13:16:51",

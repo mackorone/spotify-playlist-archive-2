@@ -8100,7 +8100,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 139691,
       "name": "coffee",
       "url": "https://open.spotify.com/track/2C7VA1VMLDgeNjr4i3h0V1"
@@ -44744,6 +44744,24 @@
       "duration_ms": 114418,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/3ImIWXcDCKpQiEVn86jlF8"
+    },
+    {
+      "album": {
+        "name": "Warm Nest",
+        "url": "https://open.spotify.com/album/5znyNSQyo7w5BfuS2sOJ4v"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Warm Nest",
+      "url": "https://open.spotify.com/track/3u4V3UEWcSoBtajoYCMfVM"
     },
     {
       "album": {

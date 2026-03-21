@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: Snelle, Ronnie Flex & Rolf Sanchez, RAYE, OYSTER en meer..\n",
-  "num_followers": 291480,
+  "num_followers": 291842,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxkzKVF5QWcs4IpmvlUB6SGJ84A",
+  "snapshot_id": "AAAAACtbGeQOB7VjBjo/cnDg6b4FwGLu",
   "tracks": [
     {
       "added_at": "2026-03-19 23:01:09",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
+    },
+    {
+      "added_at": "2026-03-19 23:01:09",
+      "album": {
         "name": "Komt Goed",
         "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
       },
@@ -247,7 +263,7 @@
     {
       "added_at": "2026-03-19 23:01:09",
       "album": {
-        "name": "Pongo",
+        "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
       "artists": [
@@ -265,7 +281,7 @@
         }
       ],
       "duration_ms": 189197,
-      "name": "Pongo",
+      "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
@@ -300,8 +316,8 @@
           "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 165785,
+      "name": "What A Way To Die",
       "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
     },
     {
@@ -924,8 +940,8 @@
           "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 178854,
+      "name": "PIJNSTILLER",
       "url": "https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA"
     },
     {
@@ -1392,8 +1408,8 @@
           "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 187010,
+      "name": "Oh Het Leven",
       "url": "https://open.spotify.com/track/70PS56qImgWyqHzUE56R6p"
     },
     {

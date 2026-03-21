@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Los 2 de la S en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,122 likes - 125 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,228 likes - 125 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 124 | [Pongamonos de Acuerdo \(En Vivo\)](https://open.spotify.com/track/2HO9zqs79FIww8Fr2ntSY9) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/0rYJq4WZGAeNCorqFaLSKO) | 2:45 |
 | 125 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 
-Snapshot ID: `AAAAAOEZ8CA9j1LDfiSLbqwjG5FBfXBi`
+Snapshot ID: `AAAAAGhU9EwavHBrdFkxAbYlvi1w0gUk`

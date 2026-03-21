@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,789 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,791 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 9 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
 | 10 | [Tranquilão Speed](https://open.spotify.com/track/6WpanZKjU4JEqJlG2D9mrM) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [L30](https://open.spotify.com/artist/1BxVqY0zR8ymT4bLg6abA3), [Real Gutti](https://open.spotify.com/artist/7agWCX0Q1FjITmRtM89zAI) | [Tranquilão Speed](https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn) | 2:19 |
 | 11 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 |
-| 12 | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs) | 1:55 |
-| 13 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
+| 12 | [Brotei No Baile Da Matinha \- Tiktok](https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Dj Cabelão Do Turano](https://open.spotify.com/artist/06E0qNGr33u2Dlxy21C3Rb), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotei No Baile Da Matinha \(Tiktok\)](https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo) | 1:46 |
+| 13 | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/track/7lG1hPJSoCm9Z8Yu4B4H25) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Faz Striptease \(Versão Tik Tok\)](https://open.spotify.com/album/1XrLdD2DZ8n6hA6mxGWVTs) | 1:55 |
 | 14 | [Bora Bill \( Speed Up \)](https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL) | [neri´s](https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ) | [Bora Bill \( Speed Up \)](https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn) | 1:44 |
 | 15 | [Aff \- Speed Up](https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena \(Deluxe\)](https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX) | 2:26 |
 | 16 | [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:49 |

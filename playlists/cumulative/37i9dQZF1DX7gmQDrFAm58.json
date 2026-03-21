@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 87214,
       "name": "Big Momma Bear",
       "url": "https://open.spotify.com/track/59D9llE0eKpUEe4VPQjcpa"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168250,
       "name": "Bruce the Goat",
       "url": "https://open.spotify.com/track/47IJNymEVbgixhvSxFKC2Z"
@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Celestial Bridge",
+        "url": "https://open.spotify.com/album/0B9uoaxw6fMzDnqLpGPttO"
+      },
+      "artists": [
+        {
+          "name": "Chuan Mistwood",
+          "url": "https://open.spotify.com/artist/5k7BIUTw9E9E7Jwtt7sqTu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85013,
+      "name": "Celestial Bridge",
+      "url": "https://open.spotify.com/track/0PUuGatK0b7gjGZ4EL7eP3"
+    },
+    {
+      "album": {
         "name": "Climbing up the Cherry Tree",
         "url": "https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 112296,
       "name": "Cozy Clouds",
       "url": "https://open.spotify.com/track/571IvO3bum9HLKPQOShGfi"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 90000,
       "name": "Dreamland Promenade",
       "url": "https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN"
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195718,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo"
@@ -2108,6 +2126,24 @@
       "duration_ms": 107500,
       "name": "Finger Painting My House",
       "url": "https://open.spotify.com/track/3qg3B0g4y5eNdlo8TTYaU6"
+    },
+    {
+      "album": {
+        "name": "Firefly Waltz",
+        "url": "https://open.spotify.com/album/0YAJCMUn9EsVaLIuKpIxHZ"
+      },
+      "artists": [
+        {
+          "name": "Willow Fern",
+          "url": "https://open.spotify.com/artist/3xEUt2CVoVYmfIfVElfWN2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127960,
+      "name": "Firefly Waltz",
+      "url": "https://open.spotify.com/track/4fDQyPlEj45lfXvWvjFNd0"
     },
     {
       "album": {
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 103763,
       "name": "Fluff & The Stars",
       "url": "https://open.spotify.com/track/7gqJ0no0EH3gM5iCzwn8J7"
@@ -2598,6 +2634,24 @@
       "duration_ms": 122285,
       "name": "Goodnight Already",
       "url": "https://open.spotify.com/track/19FaaBATMkInVrmtwIltiX"
+    },
+    {
+      "album": {
+        "name": "Goodnight Kiss",
+        "url": "https://open.spotify.com/album/2QDVfieOsw2Z2tzD4fIYez"
+      },
+      "artists": [
+        {
+          "name": "Rowan Finch",
+          "url": "https://open.spotify.com/artist/4vyY2vkBJJVbKXFaA8N2Ad"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109245,
+      "name": "Goodnight Kiss",
+      "url": "https://open.spotify.com/track/6bSc4N2qaaN2qi2yzafcEE"
     },
     {
       "album": {
@@ -4113,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "Little Moonlight",
+        "url": "https://open.spotify.com/album/6ZkzMNaif8Z3b2Py5Mbm5W"
+      },
+      "artists": [
+        {
+          "name": "Teddy Bloom",
+          "url": "https://open.spotify.com/artist/5ktlc5VH3glWhwmka4pU10"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108653,
+      "name": "Little Moonlight",
+      "url": "https://open.spotify.com/track/6EzErXd8RAyP2aqzeaEYFh"
+    },
+    {
+      "album": {
         "name": "Little Peter Rabbit",
         "url": "https://open.spotify.com/album/5uN4LwuBjajB5LsX6D81Pu"
       },
@@ -4182,6 +4254,24 @@
       "duration_ms": 129298,
       "name": "Little Wishes",
       "url": "https://open.spotify.com/track/7laOWFGSkSfseUDroRD9vH"
+    },
+    {
+      "album": {
+        "name": "Loftet",
+        "url": "https://open.spotify.com/album/6bEa4sL87umFbdPYPgWG4g"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Forest",
+          "url": "https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86374,
+      "name": "Loftet",
+      "url": "https://open.spotify.com/track/5XUQSbnVTDbxzHjgQlgzkE"
     },
     {
       "album": {
@@ -5150,7 +5240,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 92272,
       "name": "My Village",
       "url": "https://open.spotify.com/track/29RA6Jwwksfnop8VKIlsPQ"
@@ -5226,6 +5316,24 @@
       "duration_ms": 91000,
       "name": "Nightingales Are Singing",
       "url": "https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq"
+    },
+    {
+      "album": {
+        "name": "Nighty Night",
+        "url": "https://open.spotify.com/album/1QLbONEMvzsGQyt8v2tX8x"
+      },
+      "artists": [
+        {
+          "name": "Theo Lys",
+          "url": "https://open.spotify.com/artist/0nHV91IIEtRHdTIWTNesev"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103108,
+      "name": "Nighty Night",
+      "url": "https://open.spotify.com/track/4KJ24fXf5dJphAE3KyJmud"
     },
     {
       "album": {
@@ -5636,7 +5744,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 105052,
       "name": "Peaceful Moments",
       "url": "https://open.spotify.com/track/5lZJ5F3CllKKCUZll7OhMe"
@@ -5834,7 +5942,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 88521,
       "name": "Puppie Joe",
       "url": "https://open.spotify.com/track/5fwazm4P46cCDxqvipbJtB"
@@ -5874,6 +5982,24 @@
       "duration_ms": 147500,
       "name": "Pyjamas And Pedals",
       "url": "https://open.spotify.com/track/4DQPR6ySAu99taJ81SJRo5"
+    },
+    {
+      "album": {
+        "name": "Quiet Love",
+        "url": "https://open.spotify.com/album/5USSIjBHs0LS48wAFYJv4r"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lund",
+          "url": "https://open.spotify.com/artist/1MgohlJcGnJQ8YHutASnnt"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112705,
+      "name": "Quiet Love",
+      "url": "https://open.spotify.com/track/5KsDvwjhVfW1SHh4jwxYrz"
     },
     {
       "album": {
@@ -6331,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Sleep All Night",
+        "url": "https://open.spotify.com/album/2yoHUEgj5Fcs2xwe6CLPoa"
+      },
+      "artists": [
+        {
+          "name": "August C. Olsson",
+          "url": "https://open.spotify.com/artist/6njl9Jpof162rpYREuz3o9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126473,
+      "name": "Sleep All Night",
+      "url": "https://open.spotify.com/track/5Wugk70sSinM1EmXd4GPuo"
+    },
+    {
+      "album": {
         "name": "Sleep Cure",
         "url": "https://open.spotify.com/album/2yHEWgTkftVFLPNJYtvvi0"
       },
@@ -6774,7 +6918,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 123708,
       "name": "Slowly Falling Asleep",
       "url": "https://open.spotify.com/track/2iETLGEsj6YumvVaN8wGlK"
@@ -6868,6 +7012,24 @@
       "duration_ms": 130250,
       "name": "Smiling In My Sleep",
       "url": "https://open.spotify.com/track/4k2xVaV0x3RdW3vUoL68h3"
+    },
+    {
+      "album": {
+        "name": "Snuggle Song",
+        "url": "https://open.spotify.com/album/6OIy5cBFQeguhO5wECZ4IN"
+      },
+      "artists": [
+        {
+          "name": "Leandro Bellucci",
+          "url": "https://open.spotify.com/artist/2WkL0WSx2twpiCsZuWCFCP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110660,
+      "name": "Snuggle Song",
+      "url": "https://open.spotify.com/track/10vi9Hu1efETCqa6tM0u5S"
     },
     {
       "album": {
@@ -7260,7 +7422,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 109557,
       "name": "Teddy Bear's Dream",
       "url": "https://open.spotify.com/track/4SPWjiq9chzlTL7oVtETwF"
@@ -7426,6 +7588,24 @@
       "duration_ms": 75103,
       "name": "The Colours",
       "url": "https://open.spotify.com/track/0ccOxQa7k63uCjFieGYbx5"
+    },
+    {
+      "album": {
+        "name": "The Dreaming Nest",
+        "url": "https://open.spotify.com/album/0HcipvGVchGxcAHA68a01Y"
+      },
+      "artists": [
+        {
+          "name": "Victor Arvelin",
+          "url": "https://open.spotify.com/artist/5VyoEyAN6aeO1aTntbYZwQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91966,
+      "name": "The Dreaming Nest",
+      "url": "https://open.spotify.com/track/6PGcpY0J3UHOGCwGgT89ST"
     },
     {
       "album": {
@@ -7764,7 +7944,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 101954,
       "name": "The Working Maid",
       "url": "https://open.spotify.com/track/0CI7cneIkhr9E3qHMAMwS0"
@@ -8023,6 +8203,24 @@
     },
     {
       "album": {
+        "name": "Tiny Toes",
+        "url": "https://open.spotify.com/album/7CRS5X8RDXafgabbAJuwfc"
+      },
+      "artists": [
+        {
+          "name": "Alexis Montague",
+          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103333,
+      "name": "Tiny Toes",
+      "url": "https://open.spotify.com/track/1es3gqKBZBUtvqCP1NuWQK"
+    },
+    {
+      "album": {
         "name": "Tiny Toes, Big Adventures",
         "url": "https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px"
       },
@@ -8088,7 +8286,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 111611,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/2ZZgdJVqWoCM7QX4ps9JiR"
@@ -8401,6 +8599,24 @@
     },
     {
       "album": {
+        "name": "Velvet Heart",
+        "url": "https://open.spotify.com/album/0Pvod0o1nNsxs2OAmwNW87"
+      },
+      "artists": [
+        {
+          "name": "MarziTan",
+          "url": "https://open.spotify.com/artist/3X3yOD24ercZv7oDqGtWER"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117177,
+      "name": "Velvet Heart",
+      "url": "https://open.spotify.com/track/0bCUzg7u2ik7W8BDKOzdSA"
+    },
+    {
+      "album": {
         "name": "Warm Breeze",
         "url": "https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf"
       },
@@ -8632,6 +8848,24 @@
       "duration_ms": 64000,
       "name": "When You Opened Up Your Eyes",
       "url": "https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB"
+    },
+    {
+      "album": {
+        "name": "Whispering Pines",
+        "url": "https://open.spotify.com/album/0y4WwEegdWReG3EnLshYBr"
+      },
+      "artists": [
+        {
+          "name": "Willow Fern",
+          "url": "https://open.spotify.com/artist/3xEUt2CVoVYmfIfVElfWN2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116052,
+      "name": "Whispering Pines",
+      "url": "https://open.spotify.com/track/0D1vWrmhOLpMMPSkvjTySo"
     },
     {
       "album": {

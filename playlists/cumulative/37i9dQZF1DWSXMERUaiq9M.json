@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
@@ -10638,6 +10638,28 @@
       "duration_ms": 178377,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2"
+    },
+    {
+      "album": {
+        "name": "PROBANDO PROBANDO",
+        "url": "https://open.spotify.com/album/0vHTBr3n4EWs4Y1Qij7zJK"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mills",
+          "url": "https://open.spotify.com/artist/6H9sRmDCsXzsWK7jEg1thF"
+        },
+        {
+          "name": "DJ Cringey",
+          "url": "https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312525,
+      "name": "SIREN SOUND",
+      "url": "https://open.spotify.com/track/236HJKgm0TuMoKi3YjrwZd"
     },
     {
       "album": {

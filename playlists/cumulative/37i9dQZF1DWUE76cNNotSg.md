@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-656 songs - 1 day 16 hr 15 min
+657 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Fading Youth](https://open.spotify.com/track/0JyNb6hPiBcy9ZYB85cXYq) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Fading Youth \- EP](https://open.spotify.com/album/6DQcgbMuDzVzCVWyBCx432) | 4:48 | 2020-12-22 | 2022-07-29 |
 | [Fais rien \(Petit Biscuit Remix\)](https://open.spotify.com/track/4zu6g7gsPwiATpb4VKS9FO) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Fabrique Club](https://open.spotify.com/album/3cMqUTOYVLlZAhFlhSqW4q) | 3:47 | 2020-12-22 | 2022-04-20 |
 | [Fais rien \(Petit Biscuit Remix\)](https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Fabrique Club](https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E) | 3:47 | 2020-12-22 | 2024-04-19 |
+| [Fall Into The Sky](https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC) | [Marinus](https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX) | [Fall Into The Sky](https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS) | 2:50 | 2026-03-20 |  |
 | [Fallin' 4 U](https://open.spotify.com/track/3kVh9i8HrYnUN2lm0XrE3O) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Fallin' 4 U](https://open.spotify.com/album/0Rcstk3ow2NjRvAjBra1aC) | 3:24 | 2020-12-22 | 2022-04-21 |
 | [Falling for You](https://open.spotify.com/track/06QGDM31PNF0MBD2WOBfef) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [Falling for You](https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh) | 2:44 | 2024-08-16 | 2024-09-07 |
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-16 |  |
@@ -424,7 +425,7 @@
 | [Onewish](https://open.spotify.com/track/4gQMYhluJXtB10cEXdymYL) | [Michael David](https://open.spotify.com/artist/5C1YLUNAIIJEU0Zrl251QX) | [Onewish](https://open.spotify.com/album/7A7W44SGbNRuJjzSO8FXXy) | 5:57 | 2020-12-22 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/0A9fNzuRa0WqaCmxY7FOLK) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Only](https://open.spotify.com/album/1XuuSIOYNqPcZSlgkl9H06) | 4:23 | 2020-12-22 | 2022-04-21 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-16 | 2024-12-07 |
-| [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-12 |  |
+| [open this wall](https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 2:36 | 2024-07-12 | 2026-03-21 |
 | [Orange Wine](https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Lynden](https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv) | [Orange Wine](https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1) | 3:10 | 2026-01-23 |  |
 | [Orbit](https://open.spotify.com/track/5mkvS4pcwZ9z4PmBhPY77l) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Orbit](https://open.spotify.com/album/22ndlEBAiIq2WuF7kEVdRP) | 3:04 | 2026-02-20 |  |
 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 | 2024-10-04 | 2025-04-16 |

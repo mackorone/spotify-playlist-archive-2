@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-572 songs - 1 day 6 hr 30 min
+573 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [All The Things She Said](https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All The Things She Said](https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ) | 2:50 | 2026-01-16 | 2026-03-04 |
 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-03-03 | 2026-03-06 |
 | [american baddie](https://open.spotify.com/track/4Z2sXKeE9DmBgrvF4pdSa4) | [sayso](https://open.spotify.com/artist/12Av8CCJTyPhv7Uk6yG5Lh) | [american baddie](https://open.spotify.com/album/4ZXkIcruW59fGdvVOEBaGt) | 2:11 | 2025-12-04 | 2025-12-14 |
-| [An Eater](https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [Going Normal](https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP) | 2:27 | 2026-03-13 |  |
-| [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 | 2026-03-10 |  |
+| [An Eater](https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [Going Normal](https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP) | 2:27 | 2026-03-13 | 2026-03-21 |
+| [An Eater](https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9) | [Going Normal](https://open.spotify.com/album/79TP0nVbW71q4zYVeqrd7a) | 2:27 | 2026-03-20 |  |
+| [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 | 2026-03-10 | 2026-03-21 |
 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 | 2026-03-07 | 2026-03-18 |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-02-10 | 2026-02-18 |
 | [As Long As You're Mine](https://open.spotify.com/track/2pHClPIG7C5v9Qhd1LHS2y) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Leo Norbert Butz](https://open.spotify.com/artist/4FLAGAmlaOUyMvOfMnhjw5), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Defying Gravity: Songs from Wicked](https://open.spotify.com/album/2mliDr6sxkiwblGq6yZHHQ) | 3:45 | 2025-11-23 | 2025-11-25 |
@@ -462,7 +463,7 @@
 | [Stay](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA) | [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg) | [Stay](https://open.spotify.com/album/1UANyBGhXuLjNZ5qeclpdA) | 3:36 | 2026-01-15 | 2026-01-28 |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2025-11-24 | 2026-01-02 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-02-03 | 2026-02-11 |
-| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-03 | 2026-03-20 |
+| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-03 |  |
 | [Stop Acting](https://open.spotify.com/track/6QqztHi8TDUFwNm9d9LKID) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Stop Acting](https://open.spotify.com/album/0B1is4OnSA5orNi4hhipQO) | 2:57 | 2026-01-20 | 2026-02-18 |
 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 | 2025-11-15 | 2026-01-03 |
 | [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 | 2025-12-14 | 2026-01-15 |

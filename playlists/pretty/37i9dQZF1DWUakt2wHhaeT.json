@@ -1,13 +1,53 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Lea Michele in CHESS the Musical",
   "num_followers": 112305,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G",
+  "snapshot_id": "AAAAAN9CAcAJgQZWKvkGAU2kOJQywAjS",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Nobody\u2019s Side (CHESS the Musical)",
+        "url": "https://open.spotify.com/album/6vwKPBzBcdJmob9aiuK06K"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "CHESS 2025 Broadway Company",
+          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+        }
+      ],
+      "duration_ms": 215399,
+      "name": "Nobody\u2019s Side (CHESS the Musical)",
+      "url": "https://open.spotify.com/track/6u2NMX3kxpMzhF2lrv5qLk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:16",
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "duration_ms": 256444,
+      "name": "For The Gaze",
+      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
     {
       "added_at": "2025-07-18 04:00:02",
       "album": {
@@ -27,6 +67,30 @@
       "duration_ms": 164146,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
+    },
+    {
+      "added_at": "2025-03-11 05:00:06",
+      "album": {
+        "name": "Something To Shout About",
+        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Something To Shout About",
+      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -121,26 +185,6 @@
       "url": "https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L"
     },
     {
-      "added_at": "2025-02-21 05:00:16",
-      "album": {
-        "name": "Death Becomes Her - Broadway Sneak Preview",
-        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
-      },
-      "artists": [
-        {
-          "name": "Megan Hilty",
-          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
-        },
-        {
-          "name": "'Death Becomes Her' Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
-        }
-      ],
-      "duration_ms": 256444,
-      "name": "For The Gaze",
-      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
-    },
-    {
       "added_at": "2025-06-16 02:48:49",
       "album": {
         "name": "Real Women Have Curves: The Musical (Original Broadway Cast Recording)",
@@ -171,30 +215,6 @@
       "duration_ms": 223333,
       "name": "Real Women Have Curves",
       "url": "https://open.spotify.com/track/6n0QCWBSvicnbepDHsar4S"
-    },
-    {
-      "added_at": "2025-03-11 05:00:06",
-      "album": {
-        "name": "Something To Shout About",
-        "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Amy Rogers",
-          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
-        },
-        {
-          "name": "David Foster",
-          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
-        },
-        {
-          "name": "Original Broadway Cast of Boop! The Musical",
-          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Something To Shout About",
-      "url": "https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g"
     },
     {
       "added_at": "2025-07-11 10:18:46",
@@ -1191,22 +1211,6 @@
       "duration_ms": 352875,
       "name": "Tulsa '67",
       "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "The Notebook (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
-      },
-      "artists": [
-        {
-          "name": "Joy Woods",
-          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "My Days",
-      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
     }
   ],
   "unique_name": "Broadway Rising",

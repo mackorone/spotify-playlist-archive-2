@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "Our favorite Jazz House selections \ud83d\ude0c featuring Kareem Ali ",
+  "description": "the glorious sounds of Jazz House, from Lagos & beyond \ud83d\udd4a\ufe0f featuring SPINALL",
   "name": "Jazz House",
   "tracks": [
     {
@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Black Patterns",
+        "url": "https://open.spotify.com/album/1tcQO3FBKp0zGptbrg55Sp"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "DJ Bone",
+          "url": "https://open.spotify.com/artist/5nAtXl2yhbQubn2gT9lhIg"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246265,
+      "name": "Black Patterns",
+      "url": "https://open.spotify.com/track/4EK267kkQX5ZegOGukcYmm"
+    },
+    {
+      "album": {
         "name": "Blanc",
         "url": "https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1"
       },
@@ -328,7 +350,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 378122,
       "name": "Blanc",
       "url": "https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ"
@@ -2173,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "When Lagos Sleeps",
+        "url": "https://open.spotify.com/album/3MTAJWcFRUAfH3FF4E96wp"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "Metric Rules",
+      "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
+    },
+    {
+      "album": {
         "name": "Metropolis",
         "url": "https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9"
       },
@@ -2184,7 +2224,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 234000,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI"
@@ -2849,6 +2889,36 @@
     },
     {
       "album": {
+        "name": "Postcard from 2023 (TABLE Flip)",
+        "url": "https://open.spotify.com/album/6xa0z7RibBesSocjKRp2NG"
+      },
+      "artists": [
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137744,
+      "name": "Postcard from 2023 (TABLE Flip)",
+      "url": "https://open.spotify.com/track/45xJZ2o05IZflfJGZche9z"
+    },
+    {
+      "album": {
         "name": "D\u00e9rive Asphalte",
         "url": "https://open.spotify.com/album/4oNqNhyWRG9T0oKNVlPygO"
       },
@@ -3219,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Sof\u00eda y yo",
+        "url": "https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131596,
+      "name": "Sof\u00eda y yo",
+      "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
+    },
+    {
+      "album": {
         "name": "SOMEWHERE IN MANHATTAN",
         "url": "https://open.spotify.com/album/6fAfX2xL2iNUSapSs32lOa"
       },
@@ -3484,7 +3572,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 140000,
       "name": "The night is enough.",
       "url": "https://open.spotify.com/track/79Kwx4OYNai6LmS7KggGcT"
@@ -3780,7 +3868,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 177500,
       "name": "Ways of Jazz",
       "url": "https://open.spotify.com/track/6oy9r5m8vFxKivwtgLN5hs"

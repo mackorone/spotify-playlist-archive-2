@@ -6,8 +6,76 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPZ6VZge5iIPhAfyMWwek9J4imQ/",
+  "snapshot_id": "AAAAAGyIK9lFCG3OTdTDInOTGmm+GlwC",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
+        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 211382,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "It's Not Going to be Okay",
+        "url": "https://open.spotify.com/album/6AsWzHfb8cfeQbebqChYeo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "It's Not Going to be Okay",
+      "url": "https://open.spotify.com/track/7CqcAoZywRveplkSLe3PQE"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/3LanvkcdxbnFSRS1BWAGZm"
+      },
+      "artists": [
+        {
+          "name": "Jillian Lake",
+          "url": "https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY"
+        }
+      ],
+      "duration_ms": 244238,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7tWc9N4ccqkRScvnbERjcW"
+    },
     {
       "added_at": "2026-03-13 15:29:59",
       "album": {
@@ -23,6 +91,118 @@
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "a million",
+        "url": "https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 166674,
+      "name": "a million",
+      "url": "https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Shadow Child",
+        "url": "https://open.spotify.com/album/4EtascluhmKr8QbmFeJ3GN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Shadow Child",
+      "url": "https://open.spotify.com/track/0FFKYIhuZemAM4eJpEwoSz"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Time of Fallow",
+        "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "duration_ms": 234887,
+      "name": "Silent Water",
+      "url": "https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Not Your Fault",
+        "url": "https://open.spotify.com/album/5wsOK1AxkxgkA4fsf6RCTl"
+      },
+      "artists": [
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "duration_ms": 207345,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/0PtaFE2n5Pm4iyghmmDBAN"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "added_at": "2026-03-13 15:29:59",
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/5oFeXV2HqSoLuFbPHOAIXt"
+      },
+      "artists": [
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "duration_ms": 248437,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Hard to be Human",
+        "url": "https://open.spotify.com/album/3UfxE1ZxRaFoVhORIJY6nq"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 209444,
+      "name": "Hard to be Human",
+      "url": "https://open.spotify.com/track/0d6wMI2L9O1h5mHySumYOF"
     },
     {
       "added_at": "2026-03-13 15:29:59",
@@ -55,22 +235,6 @@
       "duration_ms": 232790,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
-    },
-    {
-      "added_at": "2026-03-13 15:29:59",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/5oFeXV2HqSoLuFbPHOAIXt"
-      },
-      "artists": [
-        {
-          "name": "Michaela Slinger",
-          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
-        }
-      ],
-      "duration_ms": 248437,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
     },
     {
       "added_at": "2026-03-13 15:29:59",
@@ -2323,174 +2487,6 @@
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Together on a Rock",
-        "url": "https://open.spotify.com/album/7L4SdEaxhnF0LdbBZM0tX1"
-      },
-      "artists": [
-        {
-          "name": "The Pairs",
-          "url": "https://open.spotify.com/artist/0lHbro7ngdrxRknqRzR9E9"
-        }
-      ],
-      "duration_ms": 146021,
-      "name": "Honey I",
-      "url": "https://open.spotify.com/track/5cH3XBB6GgVYK1ruuLxhq9"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "OK Buddy",
-        "url": "https://open.spotify.com/album/7HXh4huf1PdCDt1KC0sbkk"
-      },
-      "artists": [
-        {
-          "name": "Kieran Campbell",
-          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
-        }
-      ],
-      "duration_ms": 151459,
-      "name": "Act Your Age",
-      "url": "https://open.spotify.com/track/5Xgk4IXXn1LWMOOcSyXLjK"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Swimming Towards The Sand",
-        "url": "https://open.spotify.com/album/6U8XJUnZOHN2F2SDp678k0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 171022,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/4LdnH4bMlHEn3nt9xb8Khk"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Fluorescent Light + Boars",
-        "url": "https://open.spotify.com/album/2Cr6Ys4sCsknBXqQZ1G9pB"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        },
-        {
-          "name": "Max Garc\u00eda Conover",
-          "url": "https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Fluorescent Light",
-      "url": "https://open.spotify.com/track/1bhOhI3xUf89gDYoHMd5WX"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Call Me Anytime / A.I.",
-        "url": "https://open.spotify.com/album/128ohKalv5qOQqE1ZkXU2y"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 258882,
-      "name": "Call Me Anytime",
-      "url": "https://open.spotify.com/track/6ewll8ZzIhvBEMHy79nRV3"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/6bZc0iqcDgXV6KXoNpVbEs"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 214307,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/7g2RfJadwlq4GQkBYqc8Dz"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Another Tangerine",
-        "url": "https://open.spotify.com/album/4C5UWdlzMyFyBcch7mjck1"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 178872,
-      "name": "Another Tangerine",
-      "url": "https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7r8PDebvBrmEoJQnCyiXny"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 179759,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
-    },
-    {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Caught Light",
-        "url": "https://open.spotify.com/album/0JnBkAx6y0lyBcJ8WSSzOI"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 230507,
-      "name": "For You To Come Around",
-      "url": "https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Piece of Mind",
-        "url": "https://open.spotify.com/album/39fwua4qgbVlvktxc9WLHE"
-      },
-      "artists": [
-        {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
-        },
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 235247,
-      "name": "Piece of Mind",
-      "url": "https://open.spotify.com/track/5NKS1vZJLvKNT7wNRxq42s"
     }
   ],
   "unique_name": "Folk & Friends",

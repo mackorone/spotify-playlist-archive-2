@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 303441,
       "name": "Pocket Call",
       "url": "https://open.spotify.com/track/17aROgSF4U5S2QbZmdaKKr"
@@ -5083,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Pulsar",
+        "url": "https://open.spotify.com/album/4du6KEDjr61h43yVf2NiBm"
+      },
+      "artists": [
+        {
+          "name": "Philipp Lake",
+          "url": "https://open.spotify.com/artist/1O6uzBR9eeNjNx7tDDXsZH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/1wEMzejntun2yKdUIvVqRc"
+    },
+    {
+      "album": {
         "name": "Puls",
         "url": "https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 206769,
       "name": "Red In The Desert",
       "url": "https://open.spotify.com/track/2h7WCMGmGeNDQRhw40qHUc"
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 411774,
       "name": "The Road To Myself - Prevision Remix",
       "url": "https://open.spotify.com/track/0QyAKZ7pcIHmDFlC386NDX"

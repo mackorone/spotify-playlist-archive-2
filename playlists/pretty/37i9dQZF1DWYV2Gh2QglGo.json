@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Owen Riegling",
-  "num_followers": 83681,
+  "description": "The home of Canadian country music. Cover: Tenille Townes",
+  "num_followers": 83679,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPKIcDwSYL7goIyS9ZFr5R3/C+LQ",
+  "snapshot_id": "AAAAAAvA47ETN0n8ZrOBj0T/yhw0/dLx",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "we could use a little more",
+        "url": "https://open.spotify.com/album/4OoBAByMLtXKP2J1wjf89f"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 212715,
+      "name": "we could use a little more",
+      "url": "https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
+    },
     {
       "added_at": "2026-03-13 04:01:34",
       "album": {
@@ -25,6 +57,102 @@
       "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
     },
     {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Growing Down (Into the Roots)",
+        "url": "https://open.spotify.com/album/7dYkPGocr36968CTYM3wG6"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 211774,
+      "name": "Growing Down (Into the Roots)",
+      "url": "https://open.spotify.com/track/1nDLfDERfvlmj9k6TZqFRH"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/0wOzFmT1XMIKiSqs1Hs9VJ"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "duration_ms": 217690,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/5WDxgMzBzalu5QpWlKZa9b"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Jukebox Money",
+        "url": "https://open.spotify.com/album/7C2VfIRIUTNB4HlbtXKX5p"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Jukebox Money",
+      "url": "https://open.spotify.com/track/47Gg68xcAlqJAvPy1Q6XUb"
+    },
+    {
+      "added_at": "2026-03-06 05:00:29",
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 204825,
+      "name": "Fools",
+      "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
+    },
+    {
+      "added_at": "2026-03-06 05:00:29",
+      "album": {
+        "name": "A Man Without A Woman",
+        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "A Man Without A Woman",
+      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Have You Seen Her",
+        "url": "https://open.spotify.com/album/55YfxVi8AL9uLovRiA0NUa"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Have You Seen Her",
+      "url": "https://open.spotify.com/track/4uIcP2VNylqEtSNt2f1Mwv"
+    },
+    {
       "added_at": "2026-03-06 05:00:29",
       "album": {
         "name": "You and Me",
@@ -39,6 +167,86 @@
       "duration_ms": 166173,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Call Away",
+        "url": "https://open.spotify.com/album/5XkdpVTVEk2wBJfgshX3Id"
+      },
+      "artists": [
+        {
+          "name": "Paige Somerville",
+          "url": "https://open.spotify.com/artist/6bjnHLfTbPN6DrEAqC3LW6"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "Call Away",
+      "url": "https://open.spotify.com/track/2wAgvPoHjOoG4669OsRZ8X"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/0wbOLe7cvBJIjtv1RKroXE"
+      },
+      "artists": [
+        {
+          "name": "Flaysher",
+          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/7u5HdT7oEXUBCwgrvuYSnQ"
+    },
+    {
+      "added_at": "2026-02-27 05:01:26",
+      "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/1AH1KHsUwPWxRe0tGOjy0N"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "duration_ms": 218383,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/6a4lUHHTBXUunpOuraoEnz"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Workin' Man",
+        "url": "https://open.spotify.com/album/4zLV7FqYuOlLZz3hSRc25I"
+      },
+      "artists": [
+        {
+          "name": "Melissa Livingstone",
+          "url": "https://open.spotify.com/artist/4g9kvG3h1g9Y8EIAnuzzTY"
+        }
+      ],
+      "duration_ms": 166596,
+      "name": "Workin' Man",
+      "url": "https://open.spotify.com/track/6dtzMGfCtQvYMfn5O46Bmb"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "The Wagon",
+        "url": "https://open.spotify.com/album/2H0ZigsLZGAyFolNHVjwxN"
+      },
+      "artists": [
+        {
+          "name": "Cameron Nickerson",
+          "url": "https://open.spotify.com/artist/6GrNz0Cuzpd36vJflYPfIr"
+        }
+      ],
+      "duration_ms": 226837,
+      "name": "Weldin' on a Wheel",
+      "url": "https://open.spotify.com/track/3FzyGFG36Inji58td1WV0k"
     },
     {
       "added_at": "2026-02-27 05:01:26",
@@ -61,22 +269,6 @@
       "url": "https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R"
     },
     {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "Paradise & Hurricanes",
-        "url": "https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        }
-      ],
-      "duration_ms": 204825,
-      "name": "Fools",
-      "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
-    },
-    {
       "added_at": "2026-03-13 04:01:34",
       "album": {
         "name": "Dancing With The Devil",
@@ -91,38 +283,6 @@
       "duration_ms": 216550,
       "name": "Dancing With The Devil",
       "url": "https://open.spotify.com/track/20pH1gxBPwX7Bq85bX6mj2"
-    },
-    {
-      "added_at": "2026-03-06 05:00:29",
-      "album": {
-        "name": "A Man Without A Woman",
-        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 215002,
-      "name": "A Man Without A Woman",
-      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "I Don't",
-        "url": "https://open.spotify.com/album/1AH1KHsUwPWxRe0tGOjy0N"
-      },
-      "artists": [
-        {
-          "name": "Brandi Caroline",
-          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
-        }
-      ],
-      "duration_ms": 218383,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/6a4lUHHTBXUunpOuraoEnz"
     },
     {
       "added_at": "2026-03-13 04:01:34",

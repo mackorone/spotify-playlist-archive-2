@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "A collection of the best Metal covers out there. Cover: Frayle",
+  "description": "A collection of the best Metal covers out there. Cover: Ghost",
   "name": "Metal Covers",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 226800,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
@@ -770,6 +770,24 @@
       "duration_ms": 210573,
       "name": "Don\u2019t Let Me Down",
       "url": "https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK"
+    },
+    {
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko"
+      },
+      "artists": [
+        {
+          "name": "Maphra",
+          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275102,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
     },
     {
       "album": {
@@ -1682,6 +1700,24 @@
       "duration_ms": 169296,
       "name": "Into The Pit",
       "url": "https://open.spotify.com/track/3cJqCKXyclrgrglUvgGOB6"
+    },
+    {
+      "album": {
+        "name": "It's A Sin",
+        "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280786,
+      "name": "It's A Sin",
+      "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
     },
     {
       "album": {
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 249818,
       "name": "SHATTERED DREAMS",
       "url": "https://open.spotify.com/track/5dOfJ0XfW7hTt6VsvUKc4s"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: FUUDGE",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: zouz",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Best of me",
+        "url": "https://open.spotify.com/album/1PMx3zo3dXFQIvYndnoQwK"
+      },
+      "artists": [
+        {
+          "name": "IDHEM",
+          "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91611,
+      "name": "Best of me",
+      "url": "https://open.spotify.com/track/4iGdlBxdvAYLs118rcuveD"
+    },
+    {
+      "album": {
         "name": "The Broken Balladeer",
         "url": "https://open.spotify.com/album/2og9h9PQh1ZsZvVBYxNSy1"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 191155,
       "name": "Bleed Me Back to Yesterday",
       "url": "https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198960,
       "name": "CAM",
       "url": "https://open.spotify.com/track/6pgWrHesm9CcgnojYVNfIT"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186000,
       "name": "Cheval blanc",
       "url": "https://open.spotify.com/track/1BWsOxDlyQ6diRvSmea5D2"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 367104,
       "name": "City on Fire",
       "url": "https://open.spotify.com/track/5EUhwzzD2x9ayNjemKDGIZ"
@@ -1567,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Conflagration Mindset",
+        "url": "https://open.spotify.com/album/00iMqUkx8NtG052xwq3qar"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242483,
+      "name": "Conflagration Mindset",
+      "url": "https://open.spotify.com/track/6iW3I5wTLxsTL2CVmfeIcH"
+    },
+    {
+      "album": {
         "name": "Cool et branch\u00e9e",
         "url": "https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz"
       },
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 213921,
       "name": "Cuticules",
       "url": "https://open.spotify.com/track/1kHYEYtQKAYww9p8D3nDIX"
@@ -3601,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "Kill",
+        "url": "https://open.spotify.com/album/0cDEyMaf68HsTOGte8PJZz"
+      },
+      "artists": [
+        {
+          "name": "17sport",
+          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Kill",
+      "url": "https://open.spotify.com/track/4WN5VZDsmxViXaBqEhkCvJ"
+    },
+    {
+      "album": {
         "name": "L'abomination",
         "url": "https://open.spotify.com/album/3pm7felj4C6KzFa2LslxxL"
       },
@@ -4059,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "Le Monstre",
+        "url": "https://open.spotify.com/album/7rtHoWvUA7jRdzpSvw83Yi"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183280,
+      "name": "Le Monstre",
+      "url": "https://open.spotify.com/track/5JCkJaMwK4TR9D9MBH0aqH"
+    },
+    {
+      "album": {
         "name": "Exposition individuelle",
         "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
       },
@@ -4092,6 +4164,24 @@
       "duration_ms": 286675,
       "name": "Le th\u00e9 est pr\u00eat",
       "url": "https://open.spotify.com/track/1AiWcCcG0JjyfryFPPOIX3"
+    },
+    {
+      "album": {
+        "name": "Le vice et le culte",
+        "url": "https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177212,
+      "name": "Le vice et le culte",
+      "url": "https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc"
     },
     {
       "album": {
@@ -4783,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/0Rt4oJOb49KGY3w9j2Meol"
+      },
+      "artists": [
+        {
+          "name": "Poolgirl",
+          "url": "https://open.spotify.com/artist/4r7lJzAvoKL3paDpt7Ve62"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0ZvDfA12ehsFThhPsdEJUS"
+    },
+    {
+      "album": {
         "name": "Mont Royal (Alternate Version)",
         "url": "https://open.spotify.com/album/4VVwRqoxuC0w7s0xxj4l3G"
       },
@@ -4794,7 +4902,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 197000,
       "name": "Mont Royal (Alternate Version)",
       "url": "https://open.spotify.com/track/27x9xpfeAuQW0aKS6eoZo2"
@@ -4960,7 +5068,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 145950,
       "name": "Nice Run Bird",
       "url": "https://open.spotify.com/track/4l8fvJGyoKvw44gJAvUgH5"
@@ -5076,7 +5184,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 141680,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/4nTwtkAMW0CVRAcA1uLKCR"
@@ -5842,7 +5950,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198327,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/4CaiChiTaeg9gZzqtmTYC4"
@@ -5962,6 +6070,24 @@
       "duration_ms": 246140,
       "name": "Qu'est-ce tu fais l\u00e0?",
       "url": "https://open.spotify.com/track/7sx4Oa7bNUPs1tBq8JYRLK"
+    },
+    {
+      "album": {
+        "name": "QUATRE CLOCHES",
+        "url": "https://open.spotify.com/album/7Mhma6bTKHJoaeKTkbitOO"
+      },
+      "artists": [
+        {
+          "name": "Valery Vaughn",
+          "url": "https://open.spotify.com/artist/2Sv6uFaaSPtXbINLmXJVEr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159240,
+      "name": "QUATRE CLOCHES",
+      "url": "https://open.spotify.com/track/4q7D8M8y02h5Yd6WLmHnr4"
     },
     {
       "album": {
@@ -6506,7 +6632,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 389973,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/65Ls0sroscrlK2RBlF9HXZ"
@@ -7183,6 +7309,28 @@
     },
     {
       "album": {
+        "name": "U Need Me (distraction4ever's version)",
+        "url": "https://open.spotify.com/album/6NNIpRxU0tix8NLPY67wGY"
+      },
+      "artists": [
+        {
+          "name": "Bouvier Normal",
+          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+        },
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152069,
+      "name": "U Need Me - distraction4ever's version",
+      "url": "https://open.spotify.com/track/3EOcABQGdYHdNK3XK2vbpq"
+    },
+    {
+      "album": {
         "name": "Uh Oh",
         "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
@@ -7436,6 +7584,24 @@
       "duration_ms": 263600,
       "name": "Vouloir Tomber (Pour se permettre d'exister)",
       "url": "https://open.spotify.com/track/1sSoHAp4TnJFhKQBvI2W2D"
+    },
+    {
+      "album": {
+        "name": "WAIT 2 LONG",
+        "url": "https://open.spotify.com/album/0sGrPDGscDZYFri7qsLJBa"
+      },
+      "artists": [
+        {
+          "name": "Marmosette",
+          "url": "https://open.spotify.com/artist/67ScItnEJa8Fl1c5r1CkdI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "WAIT 2 LONG",
+      "url": "https://open.spotify.com/track/4sFh6Mps17QPQwXsIKbuVK"
     },
     {
       "album": {
@@ -7760,6 +7926,24 @@
       "duration_ms": 180426,
       "name": "\u00c9toiles",
       "url": "https://open.spotify.com/track/6QZ5o7B9K0umjgPJSe8bFa"
+    },
+    {
+      "album": {
+        "name": "\u00cele-montagne",
+        "url": "https://open.spotify.com/album/3Bw7iOnObBG7fSnnF1VBru"
+      },
+      "artists": [
+        {
+          "name": "Oktoplut",
+          "url": "https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231436,
+      "name": "\u00cele-montagne",
+      "url": "https://open.spotify.com/track/4LlMYWDn8F0PyufgL0V1la"
     },
     {
       "album": {

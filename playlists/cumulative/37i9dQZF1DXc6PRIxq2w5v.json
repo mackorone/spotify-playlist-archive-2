@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Derxan",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166422,
       "name": "Bora!",
       "url": "https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk"
@@ -1486,6 +1486,32 @@
       "duration_ms": 406442,
       "name": "Cada um Com uma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW"
+    },
+    {
+      "album": {
+        "name": "Caindo em si",
+        "url": "https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Manel Beats",
+          "url": "https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170927,
+      "name": "Caindo em si",
+      "url": "https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT"
     },
     {
       "album": {

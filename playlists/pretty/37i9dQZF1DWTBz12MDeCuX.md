@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Lucio101, Baby B3ns
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,324 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,294 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 27 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 28 | [Prom Queen](https://open.spotify.com/track/04nVCPqCJTIrJ1O3NKHVZO) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/7oQvw6CNKE70rKqPSX9CvQ) | 2:16 |
 | 29 | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/album/1cuITNhAFG8ycP1y2QnXh9) | 2:08 |
-| 30 | [Track 3](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 0:00 |
+| 30 | [wie lang geht das noch gut](https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kids](https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P) | 2:24 |
 | 31 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 32 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 33 | [kalender](https://open.spotify.com/track/1Yg7BRQvrOXKJAiLogfh9e) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [kalender](https://open.spotify.com/album/2BKUoV2aVZ9QsFhM7B9Sqz) | 3:39 |

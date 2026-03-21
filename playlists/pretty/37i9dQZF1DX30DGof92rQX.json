@@ -1,13 +1,101 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
-  "num_followers": 17133,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - NAYEL",
+  "num_followers": 17211,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADAQ6oGqH5a65d6iTIi7yc46MY9a",
+  "snapshot_id": "AAAAAIRZxOvcl2olvQpoCX53/lEt8jXm",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "W84ME",
+        "url": "https://open.spotify.com/album/3d3ApXbXVxcjuUyKSIaEAb"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "W84ME",
+      "url": "https://open.spotify.com/track/2UKckEKuTbywEvB9V2cyyC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/2kOh2qepK6MCitjXIMXBs5"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "dotxb",
+          "url": "https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/3kSZD2wG2z2tCgCYPaBGe9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "bachpan",
+        "url": "https://open.spotify.com/album/5xY2knxXqY1JjQusUWJTPK"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khan",
+          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "bachpan",
+      "url": "https://open.spotify.com/track/5QeRDqS37U8ZvzfZJpFLfS"
+    },
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "Hoor",
+        "url": "https://open.spotify.com/album/05N8fK1tvOOSOUA8owy9n7"
+      },
+      "artists": [
+        {
+          "name": "Qasim Virk",
+          "url": "https://open.spotify.com/artist/3fgWQfCWOIB5CAcGXfR2fX"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Hoor",
+      "url": "https://open.spotify.com/track/5BYYkRatTk3RiIkEAHxRyi"
+    },
+    {
+      "added_at": "2026-03-20 04:00:47",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3SlBKAsqU0tOBjH1salewg"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/50d7m7QfLq1whkBzBe7Ctv"
+    },
     {
       "added_at": "2026-02-20 06:20:19",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 60924,
+  "num_followers": 60938,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abnrAAAAAABmf6jE6WvUg1QDHV2mOgYA",
+  "snapshot_id": "abs8gAAAAADV/PiMzg9bDbtITQ/QLPZA",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
       "duration_ms": 199762,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
+        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/0sKNoLJV5oM40O3RySRFVR"
     },
     {
       "added_at": null,

@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Strip Me Away",
+        "url": "https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/4hjuUelurEBKlqpJPJ77Iw"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 204753,
       "name": "Stop",
       "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"

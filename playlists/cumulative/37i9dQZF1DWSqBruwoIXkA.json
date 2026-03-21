@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 194583,
       "name": "break your own heart",
       "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
@@ -18402,6 +18402,24 @@
       "duration_ms": 236426,
       "name": "Wish I Would",
       "url": "https://open.spotify.com/track/74L8tOCvVdsJWNVdITjCMs"
+    },
+    {
+      "album": {
+        "name": "Wish You Nothing At All",
+        "url": "https://open.spotify.com/album/244OcCUW46je35eO0luM3R"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184370,
+      "name": "Wish You Nothing At All",
+      "url": "https://open.spotify.com/track/6uAardyUXoFatwGReSALCr"
     },
     {
       "album": {

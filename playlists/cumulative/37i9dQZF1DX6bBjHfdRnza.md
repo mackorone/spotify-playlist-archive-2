@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring Jackyboom\. Curated by human Spotify editors.
 
-3,451 songs - 9 day 8 hr 24 min
+3,453 songs - 9 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,7 @@
 | [Charmer](https://open.spotify.com/track/3gEprJnfnSRucBaQmUVwHd) | [Monaco](https://open.spotify.com/artist/02V1n6R9YCKCWCPW0RchfB) | [Charmer](https://open.spotify.com/album/6hnnkqLWEr7q1TkEVKyS3F) | 3:16 | 2023-05-17 | 2023-06-22 |
 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 | 2022-03-11 | 2022-05-12 |
 | [Chase The Sun](https://open.spotify.com/track/2eNHV5sPdEVIlZn71pYCZN) | [Jimi Latifi](https://open.spotify.com/artist/6ij0hQn6zLdWnysPie6qK0) | [Chase The Sun](https://open.spotify.com/album/2Rvu0U87UkAIV2npJGNfNy) | 3:58 | 2024-11-06 | 2024-12-05 |
-| [Chasing Dreams](https://open.spotify.com/track/1uz2NgyOzF3j3Z8sx5BBVo) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz), [TITVS](https://open.spotify.com/artist/4Qnu2j0nJ0OuaNiHO7RgS7) | [Chasing Dreams](https://open.spotify.com/album/0vpBzWbIKYQVSYGGvjxPIU) | 4:08 | 2026-02-06 |  |
+| [Chasing Dreams](https://open.spotify.com/track/1uz2NgyOzF3j3Z8sx5BBVo) | [KELLAR](https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz), [TITVS](https://open.spotify.com/artist/4Qnu2j0nJ0OuaNiHO7RgS7) | [Chasing Dreams](https://open.spotify.com/album/0vpBzWbIKYQVSYGGvjxPIU) | 4:08 | 2026-02-06 | 2026-03-21 |
 | [chasing highs](https://open.spotify.com/track/4TGQC8Yscxh6f9KJLlwktA) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [chasing highs](https://open.spotify.com/album/6UioWnaMVfNNgeSXYsRM49) | 2:26 | 2024-05-03 | 2024-06-15 |
 | [Chasing Rush](https://open.spotify.com/track/7y8wA3pddCab0JULlglVV1) | [Tony Metric](https://open.spotify.com/artist/3jNo8kSqxXoHTiMUuLWG8O) | [Chasing Rush](https://open.spotify.com/album/5Fe1zgjuc175Wza3bchdvu) | 3:16 | 2022-11-09 | 2022-12-01 |
 | [cheap sunset](https://open.spotify.com/track/5eDYhm8wmwu36e7BBvjLnr) | [foyn](https://open.spotify.com/artist/0MSrBB3HIgO3n2xdmxJYJy) | [cheap sunset](https://open.spotify.com/album/2PrPJggT9T4jIccc8qTLkI) | 3:36 | 2024-03-27 | 2024-05-11 |
@@ -1407,6 +1407,7 @@
 | [Hive](https://open.spotify.com/track/72y2OPKwT8q0k0lXySHAkt) | [Eternal Entropy](https://open.spotify.com/artist/3xSMqrU40AOjt6i5vkfEes) | [Hive](https://open.spotify.com/album/1RY0wiB6x5ZOCChQ3Qlz6r) | 2:18 | 2024-09-26 | 2024-11-07 |
 | [Hol' Up](https://open.spotify.com/track/7mEsEz3dRIAGFRH4YoO9L3) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 3:57 | 2025-08-01 | 2025-09-13 |
 | [Hold](https://open.spotify.com/track/30TWgLQhlAOlacJWemobEB) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Give Me Monaco](https://open.spotify.com/artist/3bb7Zscs7LiGtqtzVJ7pYy), [Emily Marks](https://open.spotify.com/artist/1sMMH7GkHrs33QBYdh8D64) | [Parenthesis](https://open.spotify.com/album/1agEynHCgqeMdMBAq97Fkb) | 4:39 | 2023-03-01 | 2023-04-06 |
+| [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 | 2026-03-20 |  |
 | [Hold Me](https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg) | [cutback!](https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg), [COD](https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw) | [Hold Me](https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H) | 3:29 | 2026-01-15 |  |
 | [Hold Me](https://open.spotify.com/track/0XdDuFh2Ei42bQSEzdej4v) | [Mikey Jubbly](https://open.spotify.com/artist/73c1utHLFmVmj4xV6acYN2) | [Hold Me](https://open.spotify.com/album/0hSwx1BnsJCIi1ea5M2xeE) | 2:57 | 2022-09-14 | 2022-10-27 |
 | [Hold Me](https://open.spotify.com/track/6iEe1C3rLAB8CXfBH4rrlU) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Hold Me](https://open.spotify.com/album/0u8UYcvGL3pKeT1FQw9SuA) | 5:19 | 2023-10-04 | 2023-11-30 |
@@ -1451,7 +1452,7 @@
 | [Hot In The Party](https://open.spotify.com/track/0MVBT2XUKmRJmvOX8GngyJ) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n), [KAISUI](https://open.spotify.com/artist/3nw02QhDsR9kPXfPlptEbs) | [Hot In The Party](https://open.spotify.com/album/5d4VFFHF06KIbDfcRufGTM) | 3:35 | 2025-08-27 | 2025-10-18 |
 | [Hot Point](https://open.spotify.com/track/4pGaOdCzcsEdHP8rf2oBh3) | [Ed Hodge](https://open.spotify.com/artist/3ZhNhH1ZI8Ao8J5k1HAb81) | [Virtual Resistance EP](https://open.spotify.com/album/70OcboZF1QOgC1FTL6g1EA) | 6:05 | 2022-01-19 | 2022-02-24 |
 | [HOT2GETHER](https://open.spotify.com/track/42xIZe5NvQfivd1DibNP4i) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [HOT2GETHER](https://open.spotify.com/album/7bx6e0mDVEojuWgE5R8WbR) | 3:47 | 2026-03-13 |  |
-| [HOT4U](https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [HOT4U](https://open.spotify.com/album/0HNVud7oN6KPaF4FqolRYY) | 2:53 | 2026-02-06 |  |
+| [HOT4U](https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [HOT4U](https://open.spotify.com/album/0HNVud7oN6KPaF4FqolRYY) | 2:53 | 2026-02-06 | 2026-03-21 |
 | [Hotdog Technology](https://open.spotify.com/track/569uMJNH5GQiY4BnxsIpPk) | [DJ Life](https://open.spotify.com/artist/04BIVyq0BJcYluY7n3Mz0t) | [Guardian](https://open.spotify.com/album/7hWlh6VCsaWkvzukc86AHn) | 5:23 | 2023-06-28 | 2023-08-10 |
 | [Hotseat](https://open.spotify.com/track/00A964vqL89PR17bm3YUOg) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [Hotseat](https://open.spotify.com/album/73oNHD8gUH0nY7tEWqNpqU) | 3:22 | 2022-02-16 | 2022-04-14 |
 | [Hotwing](https://open.spotify.com/track/38GxnU3s0zz0VGUwQrjBYS) | [Kidoo](https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD) | [Hotwing](https://open.spotify.com/album/5zm2geNIo2m4uhN5E01SCE) | 6:38 | 2023-09-27 | 2023-11-16 |
@@ -2899,6 +2900,7 @@
 | [Take You High](https://open.spotify.com/track/0gOfgG4VQl5nsvQIQbO6MM) | [Gianni Keys](https://open.spotify.com/artist/64bY4jhUqYh1B0rdkZX6Yz) | [Take You High](https://open.spotify.com/album/1OHdcouDNkxLQ0r2jmbJbg) | 3:27 | 2022-06-15 | 2022-08-11 |
 | [Take You Higher](https://open.spotify.com/track/3gtBhvqccLeNmnHylfYF6m) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Take You Higher](https://open.spotify.com/album/7iA9Qb9uhKsT6uDgM0juHm) | 4:51 | 2025-06-06 | 2025-08-02 |
 | [Take Your Pants Off](https://open.spotify.com/track/4nZ9EgYqbkInGTNTJZJRuB) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Take Your Pants Off](https://open.spotify.com/album/3O5rg3CGsGHRtXkY6IEleT) | 3:31 | 2025-05-07 | 2025-06-13 |
+| [TAKIN PICTURES](https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW) | [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [TAKIN PICTURES](https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC) | 2:51 | 2026-03-20 |  |
 | [TAKINAKI](https://open.spotify.com/track/1HrV3v5WFSI1r6vA1YWyKM) | [Tidis](https://open.spotify.com/artist/382RN83tXiZzt5v4hbvFN7) | [RESPIRANDO](https://open.spotify.com/album/2PxAGjevVAxTu0K0RyIEz1) | 4:47 | 2023-08-16 | 2023-09-21 |
 | [Taking My Time](https://open.spotify.com/track/1IPMQ44rGvmsW669en627l) | [JOSSA](https://open.spotify.com/artist/13X34zKdY9gaYUEb2Jnsm9) | [Taking My Time](https://open.spotify.com/album/42DQxXy13VXrrjCJdSkOBg) | 3:30 | 2025-07-09 | 2025-09-06 |
 | [TAKIS](https://open.spotify.com/track/6vErDum5Vq5UnT2vFJieX1) | [Skalman](https://open.spotify.com/artist/0DIKLkIpoFlwGL0xJMwGID) | [TAKIS](https://open.spotify.com/album/5367hkONQg2OMZgqwXMjU3) | 3:56 | 2025-11-07 | 2025-12-04 |

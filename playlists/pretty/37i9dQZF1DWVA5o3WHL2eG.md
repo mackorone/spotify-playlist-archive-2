@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,207 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,211 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
 | 43 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 44 | [BLICKE](https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [BLICKE](https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O) | 2:11 |
-| 45 | [Real Face](https://open.spotify.com/track/3iP0ip5Z4P8s9SXiSECPZs) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Chasing Dreams](https://open.spotify.com/album/25DsF8SFndSpdjjGT9zEc4) | 2:51 |
-| 46 | [Pusher](https://open.spotify.com/track/0lf3KYqbj5unpsc4Oc1MIU) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [With My Eyes Closed EP](https://open.spotify.com/album/6Qu8ZxzKX8M9Oi1UuHtRyf) | 5:25 |
-| 47 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 45 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |
+| 46 | [Real Face](https://open.spotify.com/track/3iP0ip5Z4P8s9SXiSECPZs) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Chasing Dreams](https://open.spotify.com/album/25DsF8SFndSpdjjGT9zEc4) | 2:51 |
+| 47 | [Pusher](https://open.spotify.com/track/0lf3KYqbj5unpsc4Oc1MIU) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [With My Eyes Closed EP](https://open.spotify.com/album/6Qu8ZxzKX8M9Oi1UuHtRyf) | 5:25 |
 | 48 | [switch places](https://open.spotify.com/track/5f9lBYomdenoiOavfabNjO) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [switch places](https://open.spotify.com/album/4ew6fl7tuoj0xxq6NZtEzN) | 3:02 |
 | 49 | [Hideaway](https://open.spotify.com/track/2UDu6Xfvy0CmaauTVPwjxq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [WILLPOWER](https://open.spotify.com/album/5ww58uFQd1fC2MkUaoA4AT) | 4:19 |
 | 50 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 |

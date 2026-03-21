@@ -2,9 +2,9 @@
 
 ### [New Music Friday UK](https://open.spotify.com/playlist/37i9dQZF1DX4W3aJJYCDfV)
 
-> Brand new music from RAYE, Niall Horan and more!
+> Brand new music from BTS, RAYE, Niall Horan and more!
 
-21,010 songs - 47 day 9 hr 1 min
+21,012 songs - 47 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4924,6 +4924,7 @@
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-21 | 2025-08-29 |
 | [Don’t Look At Me](https://open.spotify.com/track/1DyazOIbbmnMUSdrgNabRT) | [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Don't Look At Me](https://open.spotify.com/album/5rDDG2Gx7uX9qWzVMg1oRH) | 3:36 | 2023-03-03 | 2023-03-10 |
 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 | 2025-08-01 | 2025-08-09 |
+| [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 | 2026-03-20 |  |
 | [Don’t Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-01-24 |
 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 | 2026-02-13 | 2026-02-20 |
 | [Doo Doo Doo Doo Doo](https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Doo Doo Doo Doo Doo](https://open.spotify.com/album/3fJ4KUWT9PzqXfVqUrt9i2) | 3:18 | 2025-11-28 | 2025-12-05 |
@@ -11161,7 +11162,7 @@
 | [Love You Like a Rainbow](https://open.spotify.com/track/5n2yojSdwu1ClUByBFp24R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean \(Extended Version\)](https://open.spotify.com/album/5CnkossieD4tmC9sYwUNRV) | 3:01 | 2025-12-05 | 2025-12-12 |
 | [Love You Like That \- 1047 Tapes](https://open.spotify.com/track/5drNVM029CuHfcQDnLgysv) | [Say Sorry](https://open.spotify.com/artist/3PmxgpILpTamNf9QJ9Q59m) | [Love You Like That \- 1047 Tapes](https://open.spotify.com/album/3XSsD0pDgCEaijKqagZTrv) | 2:52 | 2023-11-24 | 2023-12-01 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2022-12-24 |
-| [Love You Right \(feat\. Clara La San\)](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right \(feat\. Clara La San\)](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 | 2026-03-20 |  |
+| [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 | 2026-03-20 |  |
 | [Love You Till Tomorrow](https://open.spotify.com/track/6IKujTZgwUur3VTNJOM38T) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Love You Till Tomorrow](https://open.spotify.com/album/72NH9Th0pAIbgAHgUHJvWw) | 2:51 | 2024-05-02 | 2024-05-10 |
 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 | 2023-10-05 | 2023-10-13 |
 | [Love, Friends, Music](https://open.spotify.com/track/7korNX0QjcdKVybGTeLf9b) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Love, Friends, Music](https://open.spotify.com/album/4txF9OCiF9oulkLbjtwDP2) | 3:27 | 2024-09-12 | 2024-09-20 |
@@ -17479,6 +17480,7 @@
 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-10 | 2025-04-18 |
 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 | 2024-04-25 | 2024-05-03 |
 | [Swerve It](https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Swerve it](https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME) | 2:47 | 2023-11-03 | 2023-11-10 |
+| [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-20 |  |
 | [Swim](https://open.spotify.com/track/1AiHWeg5sKdI4ZguyJn4dN) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Swim](https://open.spotify.com/album/6C8v7CKuLRbgRNa9YUWWk8) | 4:29 | 2024-09-19 | 2024-09-27 |
 | [Swim Back](https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Swim Back](https://open.spotify.com/album/4oAb0GaGkYtX3N9h89FpKt) | 4:34 | 2023-03-03 | 2023-03-10 |
 | [Swim with the Tide](https://open.spotify.com/track/3PxXualbMiesR9dWJTPlbc) | [Child Of The Parish](https://open.spotify.com/artist/0Ts7cCLH53aCD2WE3PHdMn) | [Swim with the Tide](https://open.spotify.com/album/7iOii7DrcHd90SJQcRc3lU) | 3:02 | 2024-07-04 | 2024-07-12 |
@@ -18938,7 +18940,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-08 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2025-09-26 |
-| [Track 8](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 0:00 | 2026-03-20 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-07-25 |
 | [Tracy Beaker](https://open.spotify.com/track/2Etf8bGyqQ0gWkNcWpNFJX) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Tracy Beaker](https://open.spotify.com/album/3A3XsZiLS8jXO8TnTTU9lE) | 2:40 | 2024-01-05 | 2024-01-12 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
@@ -19022,6 +19023,7 @@
 | [Trouble](https://open.spotify.com/track/56Df4vsQXgHGv2G7SW0wMj) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Trouble](https://open.spotify.com/album/3bUl4d1lZE4k9cQL9dxmg1) | 2:03 | 2025-07-17 | 2025-07-25 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-02 | 2024-02-09 |
 | [Trouble](https://open.spotify.com/track/0KxTUGzVVI2HOrYO0hwK7y) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Bad Behaviour](https://open.spotify.com/album/6KKXC69rkVFOnVYEi9SnUB) | 3:17 | 2023-05-11 | 2023-05-19 |
+| [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 | 2026-03-20 |  |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 | 2025-04-11 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-08-28 | 2025-09-06 |
 | [Trouble](https://open.spotify.com/track/0CjaxtWJXDPxuIc2vF28jd) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Trouble](https://open.spotify.com/album/78d7vHOKAddR9gJf9sAMkI) | 3:01 | 2024-08-22 | 2024-08-30 |

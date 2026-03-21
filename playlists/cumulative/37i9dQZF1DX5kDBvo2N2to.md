@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-519 songs - 1 day 3 hr 25 min
+520 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-02-27 |
 | [cherry flip](https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [cherry flip](https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR) | 3:29 | 2026-02-12 | 2026-03-03 |
 | [Clairvoyant](https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0ALaWiL8Sp3cQm2DBEnS7n) | 3:33 | 2026-02-12 |  |
+| [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 |  |
 | [Closer To You](https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Closer To You](https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V) | 2:33 | 2024-06-28 | 2024-09-20 |
 | [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-16 | 2025-06-27 |
 | [Cutting Ties](https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Cutting Ties](https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp) | 4:21 | 2025-10-09 |  |
@@ -296,7 +297,7 @@
 | [Limoncello](https://open.spotify.com/track/4f2aHUOH106PE2ZD2FUzMe) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Limoncello](https://open.spotify.com/album/7AEW3httXe5eAFYwsYPBkj) | 2:48 | 2025-06-26 | 2025-07-04 |
 | [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-02-27 | 2025-04-06 |
 | [Lost My Mind](https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g) | [Pink Butter](https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM), [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Can We Go Back](https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4) | 3:45 | 2025-07-31 | 2025-09-14 |
-| [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 | 2025-12-18 |  |
+| [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 | 2025-12-18 | 2026-03-21 |
 | [Louder](https://open.spotify.com/track/42Obtr1XEYyJGymYW3MIEW) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Louder](https://open.spotify.com/album/1bECZOtl5rXMMJutsWrf6M) | 2:19 | 2024-06-28 | 2024-08-16 |
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 | 2025-05-09 |
 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 | 2025-08-21 | 2026-02-17 |
@@ -327,6 +328,7 @@
 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 | 2026-02-20 |
 | [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 | 2024-10-25 |
 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 | 2026-01-29 |  |
+| [Min barndoms sång](https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag håller hjärtat i min hand](https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2) | 3:15 | 2026-03-19 |  |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-10-05 |
 | [Min Till Slut](https://open.spotify.com/track/1Q2KjEBrfko2pDnFnrAsUg) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Min Till Slut](https://open.spotify.com/album/3A2IXQNnLr7el2B9r7FdF7) | 2:38 | 2025-09-11 | 2025-10-05 |
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
@@ -361,6 +363,7 @@
 | [Nån annan tar smällen](https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Nån annan tar smällen](https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim) | 3:00 | 2025-10-09 |  |
 | [OKEJ](https://open.spotify.com/track/7c2lgsV1U2bWUoNMmctf0A) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [OKEJ](https://open.spotify.com/album/6fah1g2OizBaCkgx4NbZBj) | 3:02 | 2025-03-27 | 2025-04-04 |
 | [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 | 2024-09-13 | 2025-03-28 |
+| [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 | 2026-03-19 |  |
 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 | 2025-10-16 |  |
 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 | 2025-11-20 |  |
 | [Only When In Motion](https://open.spotify.com/track/6SFkms2HCS6J5vpZkKlv2m) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Only When In Motion](https://open.spotify.com/album/5wgzTlfZpVgaaQN9r3g7wB) | 4:16 | 2026-02-19 |  |
@@ -482,8 +485,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2026-01-01 |  |
-| [Track 11](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 0:00 | 2026-03-19 |  |
-| [Track 5](https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag håller hjärtat i min hand](https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2) | 0:00 | 2026-03-19 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Tro på en ängel](https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Tro på en ängel](https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH) | 2:40 | 2026-02-19 |  |

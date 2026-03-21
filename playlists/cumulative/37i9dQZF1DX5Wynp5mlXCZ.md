@@ -2,7 +2,7 @@
 
 ### [ТОП ПОП 2026](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Поп треки, якими захоплюється Україна та світ! Обкладинка: Dracula & JENNIE + харизма Пабло Ескабара
+> Поп треки, якими захоплюється Україна та світ! Обкладинка: Tame Impala & JENNIE
 
 516 songs - 1 day 2 hr 10 min
 

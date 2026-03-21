@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 151423,
       "name": "A Beautiful Night",
       "url": "https://open.spotify.com/track/7xuW6jPJwCiGs2VJIqOBHm"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 104500,
       "name": "A House on the Prairie",
       "url": "https://open.spotify.com/track/0d9XVdHfqT8HDxK1dVK4yy"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 88000,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/4erta4Bwop9S1LjYfj1m4d"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 110061,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/08FWkkXnC9Orj3NCVyWtay"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200062,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI"
@@ -5578,10 +5578,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 77570,
       "name": "My Favourite Pillow",
       "url": "https://open.spotify.com/track/29l4of3MD72ipWWlP9VTqB"
+    },
+    {
+      "album": {
+        "name": "My Little Dreamer",
+        "url": "https://open.spotify.com/album/0NEjsmv9LTXOZpL8QoO3nJ"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Rae",
+          "url": "https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76490,
+      "name": "My Little Dreamer",
+      "url": "https://open.spotify.com/track/6DqaHpKBPQ6wQlx81jZ6fu"
     },
     {
       "album": {
@@ -5744,6 +5762,24 @@
       "duration_ms": 75135,
       "name": "Napping Rabbit",
       "url": "https://open.spotify.com/track/67kuEnFkonVepzIAxrmuZ8"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7KwzQaYqCvySokOydn0CJ5"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79634,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/24tmkp9uNEZuADfZiiMvlb"
     },
     {
       "album": {
@@ -5927,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "On the Bridge of Avignon",
+        "url": "https://open.spotify.com/album/2V5PxPCjdAzfZBSHwO6qkn"
+      },
+      "artists": [
+        {
+          "name": "Zane Heart",
+          "url": "https://open.spotify.com/artist/4thSm74qyd3wxZ2pqh3YPW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65351,
+      "name": "On the Bridge of Avignon",
+      "url": "https://open.spotify.com/track/3TRwiQQT0v3xY2a9iHKyyK"
+    },
+    {
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45"
       },
@@ -5938,7 +5992,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 108856,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw"
@@ -6190,7 +6244,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 133234,
       "name": "Quiet Stars, Gentle Strums",
       "url": "https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC"
@@ -6298,7 +6352,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 75580,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN"
@@ -6536,6 +6590,24 @@
       "duration_ms": 93429,
       "name": "She'll Be Coming Around the Mountain",
       "url": "https://open.spotify.com/track/0kPaGsgbXPS0rOZiSHTRf9"
+    },
+    {
+      "album": {
+        "name": "Silver Tinkle",
+        "url": "https://open.spotify.com/album/0KQhMQgzCz0mzFHWkXPccU"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "Silver Tinkle",
+      "url": "https://open.spotify.com/track/2Iw6DXMPJruP4EeaLlBn0F"
     },
     {
       "album": {
@@ -7648,7 +7720,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 122312,
       "name": "Swing Low, Sweet Chariot",
       "url": "https://open.spotify.com/track/4gLXCiJEJjqzvGq9kmtTYI"
@@ -7720,7 +7792,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 175003,
       "name": "Tender",
       "url": "https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh"
@@ -8602,7 +8674,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 101837,
       "name": "Un grand cerf",
       "url": "https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV"
@@ -8980,7 +9052,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 121220,
       "name": "When All is Still",
       "url": "https://open.spotify.com/track/5wlqpvyKm7gB9wApVgaIB5"
@@ -9088,7 +9160,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 112368,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/6GyQot0rZameLKzOHMWM0Z"

@@ -3983,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Decompress",
+        "url": "https://open.spotify.com/album/3bgqF1wb2MA8N3y6LG5faF"
+      },
+      "artists": [
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Decompress",
+      "url": "https://open.spotify.com/track/3BNoMy0u092OajyerwYxOb"
+    },
+    {
+      "album": {
         "name": "deep cracks",
         "url": "https://open.spotify.com/album/248nZk1KGE2d5Jbv9nwEfy"
       },
@@ -15099,6 +15117,24 @@
     },
     {
       "album": {
+        "name": "Reflections at 7PM",
+        "url": "https://open.spotify.com/album/1QCRY6zezVAKdAET5Q5UKP"
+      },
+      "artists": [
+        {
+          "name": "Slow Koi",
+          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134259,
+      "name": "Reflections at 7PM",
+      "url": "https://open.spotify.com/track/0rXGaV3C2iFJxQXLyqWgc0"
+    },
+    {
+      "album": {
         "name": "Regular Guy",
         "url": "https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru"
       },
@@ -18744,6 +18780,24 @@
       "duration_ms": 182250,
       "name": "Surf Tiger",
       "url": "https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg"
+    },
+    {
+      "album": {
+        "name": "Surface Level",
+        "url": "https://open.spotify.com/album/1vVSHIj1nTEbseKAPdn6Uk"
+      },
+      "artists": [
+        {
+          "name": "Strehlow",
+          "url": "https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108813,
+      "name": "Surface Level",
+      "url": "https://open.spotify.com/track/7yfGIqM3BZcP6AmAb9q1KQ"
     },
     {
       "album": {

@@ -2962,6 +2962,24 @@
     {
       "album": {
         "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186633,
+      "name": "Una Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3WShEgcSur5BNOdf7BUsbZ"
+    },
+    {
+      "album": {
+        "name": "Una Explicaci\u00f3n",
         "url": "https://open.spotify.com/album/7hcCoLffWR5b8LT1ILZPDt"
       },
       "artists": [
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186633,
       "name": "Una Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/4kg65BjXUvaw8tUTQLFiBg"

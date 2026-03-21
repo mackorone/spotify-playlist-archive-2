@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-153 songs - 8 hr 43 min
+154 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 | 2023-09-22 | 2023-09-30 |
 | [Buen Viaje](https://open.spotify.com/track/53Jf3ChStU9gJy69jUYRVw) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/4SgkWnlMfXsXPJcYArOYTl) | 3:33 | 2026-03-18 |  |
 | [Calle En El Cielo](https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Calle En El Cielo](https://open.spotify.com/album/18kXCaZTQf6DsREJvRia2f) | 4:27 | 2024-10-18 | 2026-03-19 |
+| [Cambio de Piel](https://open.spotify.com/track/7zG21QuMjxgOsNDICOEVwt) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Cambio de Piel](https://open.spotify.com/album/0o7AxT8PzjkFRS0Z9qxXBC) | 2:52 | 2026-03-20 |  |
 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 | 2026-03-18 |  |
 | [Caída Intermitente](https://open.spotify.com/track/2GT7YO160gC7YNxSJIFNmE) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Caída Intermitente](https://open.spotify.com/album/4dOagt8G7sjIIQpwyOweQu) | 2:13 | 2025-03-07 | 2026-03-19 |
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-17 | 2026-03-19 |

@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "ARP2600 (LOVE ME/LEFT ME)",
+        "url": "https://open.spotify.com/album/5O0XsQ1eKwlavtlaaLnifX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Elj\u00e9",
+          "url": "https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "ARP2600 (LOVE ME/LEFT ME)",
+      "url": "https://open.spotify.com/track/7g3v49dMpiB5jXxYYhzy3F"
+    },
+    {
+      "album": {
         "name": "Ascension.png",
         "url": "https://open.spotify.com/album/6leH5SGo1FQlJCWy7jsIyz"
       },
@@ -348,7 +370,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 312000,
       "name": "Ascension.png",
       "url": "https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC"
@@ -968,7 +990,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 280601,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3YrsjzxSlmE0x7PS5k4hqG"
@@ -2005,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "Good 4 U",
+        "url": "https://open.spotify.com/album/6gwOfz4KvL5DJj6Y4Pf557"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/14adSqEokEObi3GqxMTeMJ"
+    },
+    {
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/2lhKgb2A2HgRo86GJSBU6C"
       },
@@ -2276,7 +2320,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 183839,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
@@ -2458,7 +2502,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 284137,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X"
@@ -2640,6 +2684,24 @@
       "duration_ms": 232000,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/01GrjAucVKqnh3xdu3ug0Q"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/14hyyDrTyFbV2umwwtwex2"
+      },
+      "artists": [
+        {
+          "name": "In:Most",
+          "url": "https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231824,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2AyaFUe6AJl03eVTdQDY21"
     },
     {
       "album": {
@@ -3507,6 +3569,36 @@
     },
     {
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/5u5QYucmlBwD2CG5Xcd892"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Jony Beats",
+          "url": "https://open.spotify.com/artist/6zcclxl1u4kjY6nMOIpy9z"
+        },
+        {
+          "name": "TomInTheChamber",
+          "url": "https://open.spotify.com/artist/66a7ASj4mXl12zjpT96cr3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/44n5iu9DumPH2J63zPDl8z"
+    },
+    {
+      "album": {
         "name": "Other Life / Peyote",
         "url": "https://open.spotify.com/album/57Q6AFmiPHaGrp5OW0HLmi"
       },
@@ -3584,7 +3676,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 227346,
       "name": "Over & Done (feat. Pip Millett)",
       "url": "https://open.spotify.com/track/27e5hiyHSRTs7E6SMqSRCn"
@@ -3722,7 +3814,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 225595,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/0Dojurrtsx8ehnfD3TkU8z"
@@ -3868,7 +3960,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 306453,
       "name": "Rest Assured",
       "url": "https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY"
@@ -3930,7 +4022,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 302000,
       "name": "Rolling With Fabio",
       "url": "https://open.spotify.com/track/7kMKRx0asqUV31x3fckSlj"
@@ -4813,6 +4905,28 @@
     },
     {
       "album": {
+        "name": "Time (Nu:Tone Remix)",
+        "url": "https://open.spotify.com/album/1kX2nhwX2PebPYl06D3BZ9"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        },
+        {
+          "name": "Nu:Tone",
+          "url": "https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320100,
+      "name": "Time - Nu: Tone Remix",
+      "url": "https://open.spotify.com/track/4fVU6IM0HNStUA3Qkp9Brb"
+    },
+    {
+      "album": {
         "name": "Time On Our Side",
         "url": "https://open.spotify.com/album/0hlGGYXFt0Uq3v46vffDQz"
       },
@@ -4930,7 +5044,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 219411,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6bTYEIDkgZXD0SelMg24aE"

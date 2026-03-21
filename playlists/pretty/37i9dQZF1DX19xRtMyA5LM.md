@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: OYSTER \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,402 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,401 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 |
 | 2 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 |
 | 3 | [VISION](https://open.spotify.com/track/39zPho7cnFZQK2SZa1Rb80) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [VISION](https://open.spotify.com/album/6chaqpkGyhU1lo7onzuhac) | 3:06 |
-| 4 | [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 |
-| 5 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 |
+| 4 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 |
+| 5 | [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 |
 | 6 | [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 |
 | 7 | [Maffia Rap](https://open.spotify.com/track/4CEoXJsqsdlAKzULXJqttA) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Maffia Rap](https://open.spotify.com/album/4Fqx17uV0ZIruAPMO4uey6) | 1:59 |
 | 8 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAANfBJLP11PftsrWnTq0bo0TQmkz0`
+Snapshot ID: `AAAAALH3PG6AEdhXJY8YZZU/xywN9NS/`

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Sheepdogs
 
-406 songs - 1 day 2 hr 14 min
+407 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 | 2024-05-03 |
 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 | 2022-06-10 |  |
 | [All I've Got is You](https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [All I've Got is You](https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA) | 2:41 | 2020-10-16 | 2024-06-22 |
-| [All Night Long](https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Promised Land](https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU) | 3:31 | 2024-05-03 |  |
+| [All Night Long](https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Promised Land](https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU) | 3:31 | 2024-05-03 | 2026-03-21 |
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 |  |
 | [Ancient Heart](https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ancient Heart](https://open.spotify.com/album/5SgcE7rpDVcQ5lCszvTNmg) | 4:12 | 2024-12-06 |  |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 | 2023-03-04 |
@@ -35,7 +35,7 @@
 | [Backstabber](https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Backstabber](https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ) | 3:54 | 2024-01-12 | 2024-02-24 |
 | [Bad For Your Health](https://open.spotify.com/track/1yqEr1wbrKeDQzoVr4kvnB) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Keep Out of the Storm](https://open.spotify.com/album/4zVep3YJysMh3gyQmCNKRr) | 4:26 | 2026-02-27 |  |
 | [Bad Luck & The Blues](https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p) | 4:09 | 2023-06-23 | 2023-08-26 |
-| [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 | 2023-11-17 |  |
+| [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 | 2023-11-17 | 2026-03-21 |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 | 2024-07-13 |
 | [Ball And Chain](https://open.spotify.com/track/0QQIcQzNDvqgiVhIpIQegS) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Ball And Chain](https://open.spotify.com/album/4d4u7hmfuqvEmuXEQXONnk) | 5:04 | 2021-04-09 | 2022-07-29 |
 | [Ballad of a Thin Man](https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is..\. 25](https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m) | 6:33 | 2022-11-04 | 2023-08-26 |
@@ -120,6 +120,7 @@
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2026-01-31 |
 | [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 |  |
 | [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 | 2026-01-30 |  |
+| [Future Soul](https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Future Soul](https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI) | 3:19 | 2026-03-20 |  |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
 | [Get Your Head Right](https://open.spotify.com/track/0iPRmHlbc2egmnpS1GEz4I) | [Jim Suhler & Monkey Beat](https://open.spotify.com/artist/60iSiwrXbu8RweNR6ZvAG6) | [Get Your Head Right](https://open.spotify.com/album/4Y6VXXguQxpZz2vY79fg5u) | 3:27 | 2023-02-03 |  |
 | [Gets Me so High](https://open.spotify.com/track/0OZOk21ZTDXptdd1X6ki6p) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 4:43 | 2023-05-26 |  |

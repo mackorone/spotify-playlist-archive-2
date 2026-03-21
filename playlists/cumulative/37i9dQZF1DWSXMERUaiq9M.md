@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: Hannah Laing
 
-661 songs - 1 day 16 hr 1 min
+662 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-03-03 |  |
 | [Diamonds on My Neck](https://open.spotify.com/track/00HVImziSu4MZSdpBgDGZz) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Antonym](https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5) | [Diamonds on My Neck](https://open.spotify.com/album/2ccgTXhav6Xs6mF7oA1j27) | 2:51 | 2026-01-22 | 2026-02-06 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 | 2025-05-23 |
-| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 |  |
+| [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-06-05 | 2026-03-21 |
 | [Dikke Beat](https://open.spotify.com/track/1C5mmdbWD5ksvTU0gHPfao) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Dikke Beat](https://open.spotify.com/album/5IDtEkSGRVQX358ShCkQHQ) | 5:00 | 2024-10-17 | 2025-01-07 |
 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |
 | [Discotheque](https://open.spotify.com/track/52QTHhxqFtON5jEaPj0AsJ) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [Davyboi](https://open.spotify.com/artist/6P4o2FYfdS5rI309RFzm9m) | [Discotheque](https://open.spotify.com/album/7n6ms4cNbejSry3W9xdOPg) | 2:52 | 2025-08-14 | 2025-08-23 |
@@ -526,6 +526,7 @@
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-12-28 | 2025-04-12 |
 | [Silence](https://open.spotify.com/track/73fb8ruS8vEYXKVLvrEeWm) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Silence](https://open.spotify.com/album/3bYiL28JV1UpdyEt6s6f7z) | 2:33 | 2025-10-16 | 2026-01-15 |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-10 | 2024-06-28 |
+| [SIREN SOUND](https://open.spotify.com/track/236HJKgm0TuMoKi3YjrwZd) | [Adrian Mills](https://open.spotify.com/artist/6H9sRmDCsXzsWK7jEg1thF), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [PROBANDO PROBANDO](https://open.spotify.com/album/0vHTBr3n4EWs4Y1Qij7zJK) | 5:12 | 2026-03-20 |  |
 | [SISTEM ERROR](https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV) | [GIØ](https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M) | [SISTEM ERROR](https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1) | 4:02 | 2025-06-05 |  |
 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-14 | 2025-06-16 |
 | [Small Steps](https://open.spotify.com/track/4zYLzlHjNsAylibEcKq9RK) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Small Steps](https://open.spotify.com/album/3J9RFPDX3NfQeiq0VoA3Rq) | 4:27 | 2024-08-22 | 2025-01-07 |

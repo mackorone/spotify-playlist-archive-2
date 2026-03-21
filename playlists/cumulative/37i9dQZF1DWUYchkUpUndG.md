@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Marizu
 
-7,637 songs - 23 day 11 hr 18 min
+7,638 songs - 23 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3773,6 +3773,7 @@
 | [Legodimong](https://open.spotify.com/track/4gpCIgsUmcqs3Y2OSWWCYB) | [ProfkayG](https://open.spotify.com/artist/1zgNCLCgzh2KoCMCbraX6O), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Legodimong](https://open.spotify.com/album/1h9wX4hcgrNCPJB3lS3SIm) | 6:02 | 2025-03-07 | 2025-03-14 |
 | [Lekeni Nsefye](https://open.spotify.com/track/6ilLOg3c5m1vvhq5P5IFok) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ), [TEMWANI](https://open.spotify.com/artist/7xmLBPXtxB7iL5TjpLA8ZQ) | [Lekeni Nsefye](https://open.spotify.com/album/4ms6Ea6MOjaalf4M5sbmPe) | 8:08 | 2024-06-28 | 2024-07-12 |
 | [Lele](https://open.spotify.com/track/4bVtiW5R5mr9b5sCMhjGI9) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Lele](https://open.spotify.com/album/5k69vdLz3lQwYpQziYSqA5) | 2:21 | 2025-08-08 | 2025-08-22 |
+| [Lenience](https://open.spotify.com/track/0a1c8Jf47dXDgA09z7IiPg) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Ama Agbo](https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5) | [Lenience](https://open.spotify.com/album/1WJYqQNONhennFSfHzObAE) | 3:53 | 2026-03-20 |  |
 | [Lerato](https://open.spotify.com/track/2X4nwlZRCu7hnZGEDFXLjf) | [Caramelized Music](https://open.spotify.com/artist/5JrDSHIrgbVZgLpp3P8Blx), [Teddy Moloi](https://open.spotify.com/artist/5wUKUU2sP1hhiZtzRH8tOm), [Prawd Wunder](https://open.spotify.com/artist/6jeGYm9MdaRntgprc83DOw), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [The Next Chapter](https://open.spotify.com/album/2vDb5YuPXOcHLhCMBS1jho) | 6:25 | 2025-11-21 | 2025-12-05 |
 | [Les bontés de l'Eternel](https://open.spotify.com/track/6QbCDmEKuyAsDI6ftfMXS4) | [Jean\-Marie et Hanne Niangoran](https://open.spotify.com/artist/68fvBP3vDb3IJyUAC8VRLv) | [Les bontés de l'Eternel](https://open.spotify.com/album/2sStYQAwHLEfNXFfWAOLiW) | 5:10 | 2025-12-12 | 2025-12-20 |
 | [Let Am](https://open.spotify.com/track/1w6kzcoGzbQA2FKfANMm94) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Let Am](https://open.spotify.com/album/3MoPLe3kJYnQWylD4neccT) | 1:56 | 2024-07-05 | 2024-07-19 |

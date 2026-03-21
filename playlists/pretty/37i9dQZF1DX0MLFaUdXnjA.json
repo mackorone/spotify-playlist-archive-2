@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Hikaru Utada & Charlie Puth",
-  "num_followers": 1802311,
+  "description": "Sit back and relax to the chillest pop.  Cover: Ruel",
+  "num_followers": 1802135,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwY+XVTPcjqnFup64I2tp2iKYFQ",
+  "snapshot_id": "AAAAAKWG77WhWwYlcL/MooHLq62mjuqn",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:39",
+      "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
+      "added_at": "2026-03-20 04:00:39",
+      "album": {
+        "name": "better late than not at all",
+        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 177862,
+      "name": "if i'm lucky",
+      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
+    },
     {
       "added_at": "2026-03-13 04:00:45",
       "album": {
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
+      "added_at": "2026-03-20 04:00:39",
+      "album": {
+        "name": "F.I.G",
+        "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
+    },
+    {
       "added_at": "2026-03-06 05:00:07",
       "album": {
         "name": "Wonderful Thing",
@@ -91,6 +139,22 @@
       "duration_ms": 162666,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
+    },
+    {
+      "added_at": "2026-03-20 04:00:39",
+      "album": {
+        "name": "Light as a Feather",
+        "url": "https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 216637,
+      "name": "Light as a Feather",
+      "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
     },
     {
       "added_at": "2026-02-27 18:35:08",
@@ -315,22 +379,6 @@
       "duration_ms": 183569,
       "name": "Trust Myself",
       "url": "https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q"
-    },
-    {
-      "added_at": "2026-03-06 05:00:07",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32"
-      },
-      "artists": [
-        {
-          "name": "December 10",
-          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
-        }
-      ],
-      "duration_ms": 147505,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -729,22 +777,6 @@
       "url": "https://open.spotify.com/track/3zw5VNP6TiCdjTsPdWaUuu"
     },
     {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "Is This Love??",
-        "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Is This Love??",
-      "url": "https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M"
-    },
-    {
       "added_at": "2026-02-27 18:35:08",
       "album": {
         "name": "So Many Ways",
@@ -1105,22 +1137,6 @@
       "url": "https://open.spotify.com/track/4hEIjVe4S6EZJtdZqODBlC"
     },
     {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
-    },
-    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Chronic",
@@ -1479,22 +1495,6 @@
       "duration_ms": 199896,
       "name": "WANTCHU",
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Backstage at The Tropicana",
-        "url": "https://open.spotify.com/album/6n0q71K7sdU00uqKFh4LNS"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 171595,
-      "name": "Skin Tight Jeans",
-      "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"
     },
     {
       "added_at": "2025-11-08 16:45:50",

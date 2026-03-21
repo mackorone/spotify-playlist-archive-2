@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "KITA",
+        "url": "https://open.spotify.com/album/7pINUha5DItOZwyLzS4e0Y"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113225,
+      "name": "KITA",
+      "url": "https://open.spotify.com/track/3xa9RHdADxgYIBA6vUi4Rs"
+    },
+    {
+      "album": {
         "name": "LA BAMBA",
         "url": "https://open.spotify.com/album/37bCAy0bu0XHCaVd9TOcUa"
       },

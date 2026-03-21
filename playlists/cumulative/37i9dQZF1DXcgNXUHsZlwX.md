@@ -2,7 +2,7 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. ❄️
+> De la douceur pour accompagner votre journée\. 🌷
 
 572 songs - 1 day 10 hr 8 min
 

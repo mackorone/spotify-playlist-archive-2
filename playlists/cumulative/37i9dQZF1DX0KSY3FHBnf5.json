@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "a long road",
+        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "a long road",
+      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
+    },
+    {
+      "album": {
         "name": "a long time ago, i was happy",
         "url": "https://open.spotify.com/album/61Clg3C1ZG8AdbXprYZJw5"
       },
@@ -242,6 +260,24 @@
       "duration_ms": 132923,
       "name": "absent.",
       "url": "https://open.spotify.com/track/0aMboMFt9w6Fj0RH9pzxrC"
+    },
+    {
+      "album": {
+        "name": "wish you never left",
+        "url": "https://open.spotify.com/album/3gRQwEezEN6mYORR8WnYdq"
+      },
+      "artists": [
+        {
+          "name": "Rok Nardin",
+          "url": "https://open.spotify.com/artist/7ArkPxPSwZoQw5ESuxt4oG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119700,
+      "name": "after you left",
+      "url": "https://open.spotify.com/track/2qKn7x9ptzTJeIEbpwzgsu"
     },
     {
       "album": {
@@ -438,6 +474,24 @@
       "duration_ms": 104502,
       "name": "back then",
       "url": "https://open.spotify.com/track/3mxJVcqphi44zXxGhZVqne"
+    },
+    {
+      "album": {
+        "name": "back to that memory",
+        "url": "https://open.spotify.com/album/1rz6D27FOA8WIo55N8nXBw"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103089,
+      "name": "back to that memory",
+      "url": "https://open.spotify.com/track/6lCRAmtq6ngEllEGSB0xdc"
     },
     {
       "album": {
@@ -696,6 +750,28 @@
       "duration_ms": 98126,
       "name": "burning memories",
       "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
+    },
+    {
+      "album": {
+        "name": "burnout",
+        "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
+      },
+      "artists": [
+        {
+          "name": "ist",
+          "url": "https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka"
+        },
+        {
+          "name": "Raouf",
+          "url": "https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "burnout",
+      "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
     },
     {
       "album": {
@@ -983,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "crescent moon",
+        "url": "https://open.spotify.com/album/6FJaKp1rFNdfQiPLfieLJc"
+      },
+      "artists": [
+        {
+          "name": "hireath.wav",
+          "url": "https://open.spotify.com/artist/08laFFwrcpMPN4JswMjyDw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "crescent moon",
+      "url": "https://open.spotify.com/track/159TihFL6sP8X9i9mBDC8n"
+    },
+    {
+      "album": {
         "name": "Hope Never Dies",
         "url": "https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4"
       },
@@ -1153,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "displaced memories",
+        "url": "https://open.spotify.com/album/75uQQF1QYAj3Xpm2UR4cIz"
+      },
+      "artists": [
+        {
+          "name": "slipdream",
+          "url": "https://open.spotify.com/artist/4dVNhXv8UM1MVeDzswLb80"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108837,
+      "name": "displaced memories",
+      "url": "https://open.spotify.com/track/0SA8ZkSdOUjijxRwJd8rzZ"
+    },
+    {
+      "album": {
         "name": "distorted love",
         "url": "https://open.spotify.com/album/2FoV94PWVc29lPrx3Ct07n"
       },
@@ -1211,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "do you love me?",
+        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "do you love me?",
+      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
+    },
+    {
+      "album": {
         "name": "don't cry",
         "url": "https://open.spotify.com/album/7yBKwlVI3Oaq1cAi6Qu8Ul"
       },
@@ -1230,6 +1360,28 @@
       "duration_ms": 145035,
       "name": "don't cry",
       "url": "https://open.spotify.com/track/390pDDdZhxnt4ND9t0th86"
+    },
+    {
+      "album": {
+        "name": "downfall",
+        "url": "https://open.spotify.com/album/0qmtAjDiDSMKCVxFkHUGEe"
+      },
+      "artists": [
+        {
+          "name": "EVILTIME",
+          "url": "https://open.spotify.com/artist/3VRpmxzM9ZUMvE7R32ZW5q"
+        },
+        {
+          "name": "Domnxn",
+          "url": "https://open.spotify.com/artist/6kzTei4hZg663YoTr7BbN5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "downfall",
+      "url": "https://open.spotify.com/track/1VGXBDF4ARh7r0Ofedrbku"
     },
     {
       "album": {
@@ -1764,6 +1916,28 @@
       "duration_ms": 117446,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
+    },
+    {
+      "album": {
+        "name": "faith",
+        "url": "https://open.spotify.com/album/5CxocrVEp6aDqdPiRe6Hn1"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "ankiiyo",
+          "url": "https://open.spotify.com/artist/4yPuVkZ2p8q37O8p7SgFA9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75543,
+      "name": "faith",
+      "url": "https://open.spotify.com/track/4M2fCQRL0FXTkBtkNglCC3"
     },
     {
       "album": {
@@ -2417,6 +2591,42 @@
     },
     {
       "album": {
+        "name": "her story",
+        "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
+      },
+      "artists": [
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "her story",
+      "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
+    },
+    {
+      "album": {
+        "name": "here with you",
+        "url": "https://open.spotify.com/album/0EaHPTxfTakFT7wgoR15x2"
+      },
+      "artists": [
+        {
+          "name": "saddenex",
+          "url": "https://open.spotify.com/artist/2nUd3WQGSzP0rPMFwSE4UR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114148,
+      "name": "here with you",
+      "url": "https://open.spotify.com/track/438im1tGVNnJ3Jv6Ia9ZN4"
+    },
+    {
+      "album": {
         "name": "Het Wed",
         "url": "https://open.spotify.com/album/63EnNcLoZCCKPv3zHrETr0"
       },
@@ -2432,6 +2642,24 @@
       "duration_ms": 236000,
       "name": "Het Wed",
       "url": "https://open.spotify.com/track/5c5bwSNhKewBJgtxKhVhjy"
+    },
+    {
+      "album": {
+        "name": "Hideout",
+        "url": "https://open.spotify.com/album/5AJ7A1u6wScf0nmkbGMBfe"
+      },
+      "artists": [
+        {
+          "name": "Holem",
+          "url": "https://open.spotify.com/artist/51qSuC2fSbksAZ19P1m45B"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/2k1UmGM2FrhrqhilJROb8F"
     },
     {
       "album": {
@@ -2642,6 +2870,24 @@
       "duration_ms": 99310,
       "name": "i still see you",
       "url": "https://open.spotify.com/track/5CPDo29ApERmFG1ZV6Y7Zx"
+    },
+    {
+      "album": {
+        "name": "i was far from you",
+        "url": "https://open.spotify.com/album/5ncjMN8pDTD5TeO1bqCfVn"
+      },
+      "artists": [
+        {
+          "name": "altered sigh",
+          "url": "https://open.spotify.com/artist/5ZymRYYNzW02mJmhAqUSC5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "i was far from you",
+      "url": "https://open.spotify.com/track/5LnikhHZulh05uAEaXbgck"
     },
     {
       "album": {
@@ -3945,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "of folded photographs",
+        "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "of folded photographs",
+      "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
+    },
+    {
+      "album": {
         "name": "Old Dream",
         "url": "https://open.spotify.com/album/14omTB3Kcd5DUtpH3NE6rh"
       },
@@ -4362,6 +4626,28 @@
       "duration_ms": 116687,
       "name": "regrets",
       "url": "https://open.spotify.com/track/392wSTVT2YtUpWyZ1D2wzr"
+    },
+    {
+      "album": {
+        "name": "Restless (Ambient Rework)",
+        "url": "https://open.spotify.com/album/3mAFi8izH5YgrdbaizEDix"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        },
+        {
+          "name": "GLO",
+          "url": "https://open.spotify.com/artist/7Drw6lC1DS5vthQvomrt4r"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83785,
+      "name": "Restless (Ambient Rework)",
+      "url": "https://open.spotify.com/track/22b2vRuQp1cBoaPSLWlkHK"
     },
     {
       "album": {
@@ -5239,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "the hardest part",
+        "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "the hardest part",
+      "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
+    },
+    {
+      "album": {
         "name": "the light in your eyes",
         "url": "https://open.spotify.com/album/3OrVPqyuqLPUVnDVZdJrHV"
       },
@@ -5467,6 +5771,32 @@
     },
     {
       "album": {
+        "name": "twelve",
+        "url": "https://open.spotify.com/album/7iG26jA12qfv8ZM9VlaaxI"
+      },
+      "artists": [
+        {
+          "name": "conccrete",
+          "url": "https://open.spotify.com/artist/26cQCjvC8vfZqIuNjjACJF"
+        },
+        {
+          "name": "CADYY",
+          "url": "https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118991,
+      "name": "twelve",
+      "url": "https://open.spotify.com/track/2FSCVQd1fMEOmMABoGmb1D"
+    },
+    {
+      "album": {
         "name": "twilight",
         "url": "https://open.spotify.com/album/2d8lPwf4BY48egKSiTz3E2"
       },
@@ -5583,6 +5913,24 @@
     },
     {
       "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "album": {
         "name": "walking through water",
         "url": "https://open.spotify.com/album/0Il7YiZt5QYTjBGj5I38dh"
       },
@@ -5645,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "we'll meet someday",
+        "url": "https://open.spotify.com/album/0HxOJ39F4YvKr2m4PaYoFm"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "we'll meet someday",
+      "url": "https://open.spotify.com/track/2pjszxnMJbfgC7PiE1VPXK"
+    },
+    {
+      "album": {
         "name": "Recommence (I/VII)",
         "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
       },
@@ -5696,6 +6062,24 @@
       "duration_ms": 167847,
       "name": "what if this is the real nightmare",
       "url": "https://open.spotify.com/track/04TytKkLCqwM4VuojaOnmW"
+    },
+    {
+      "album": {
+        "name": "what if...?",
+        "url": "https://open.spotify.com/album/0YT9Rzi2NxSxLPQN6hQggJ"
+      },
+      "artists": [
+        {
+          "name": "jakub.",
+          "url": "https://open.spotify.com/artist/7hUhXAakX6BPEcosMTAPUI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100363,
+      "name": "what if...?",
+      "url": "https://open.spotify.com/track/6bdM3vHRGOnIjanPFQgutk"
     },
     {
       "album": {

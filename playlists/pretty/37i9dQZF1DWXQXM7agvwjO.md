@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Noridogam \(Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,896 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,969 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 5 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 |
 | 6 | [sunrise](https://open.spotify.com/track/5o8TBqGcHjBcBfZGnU4ObF) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [one dream, one star](https://open.spotify.com/album/46RPLwDuUYeWLqg9mtSKCz) | 5:51 |
 | 7 | [Night Bloom](https://open.spotify.com/track/61e3yAb92msUp08gkryt2D) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Night Bloom](https://open.spotify.com/album/4bj5Sz2HFCIgWNwjEWk4I6) | 4:35 |
-| 8 | [Track 5](https://open.spotify.com/track/6DOFJOTBsO1YxZKaacmY8f) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tirakat \(Habibi Funk 034\)](https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs) | 0:00 |
+| 8 | [Mata Api](https://open.spotify.com/track/6DOFJOTBsO1YxZKaacmY8f) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4), [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Tirakat \(Habibi Funk 034\)](https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs) | 6:41 |
 | 9 | [平凡的一天](https://open.spotify.com/track/5w5nJJ0KKgzolaeyA97VTx) | [紙鳶](https://open.spotify.com/artist/05delKph4l4CQoZ5seRwW9), [知更](https://open.spotify.com/artist/5L84ifCEkzPSo2pE0FQ6KE) | [平凡的一天](https://open.spotify.com/album/0ZoOP9WP31TUzusrD1nnjz) | 4:38 |
 | 10 | [kessel run \(for the rebellion\)](https://open.spotify.com/track/7uM22MGDe4LaPept5PwW2D) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [cinema paradiso](https://open.spotify.com/album/6jA92hAUuFO6lXKqrj1dFq) | 3:00 |
 | 11 | [Midnight In My Room](https://open.spotify.com/track/3JfjVkfbqbKqLAZh6016Fk) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Midnight In My Room](https://open.spotify.com/album/4RM9KzxCSYdUBEdHGCosK4) | 3:21 |

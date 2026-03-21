@@ -6011,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "Queen Of The Damned (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5Y7jGzXsLLm5vXDdtX18p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Gordon",
+          "url": "https://open.spotify.com/artist/08I5arPdBfbrzaLTdipFSy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329773,
+      "name": "Slept so Long",
+      "url": "https://open.spotify.com/track/7AUjDtvBKzMif7i9rBH6o9"
+    },
+    {
+      "album": {
         "name": "The Open Door",
         "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
       },

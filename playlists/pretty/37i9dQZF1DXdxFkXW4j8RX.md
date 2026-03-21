@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,790 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,789 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 3 | [Tipa fina](https://open.spotify.com/track/5gYKRb0DnVZNecEJlYzCDY) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [Tipa fina](https://open.spotify.com/album/31fuCxNFAucjkTaFRQ03pH) | 2:31 |
 | 4 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 |
 | 5 | [Como Huele](https://open.spotify.com/track/42bc3CpCMNo7TTiicv3YMD) | [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Como Huele](https://open.spotify.com/album/2gu9WZaTJLMsNHxyVE7fSW) | 2:44 |
-| 6 | [Canción de una canción](https://open.spotify.com/track/2R0p96ZTDMrxo3I8wCCIhA) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F) | [Canción de una canción](https://open.spotify.com/album/7Lt5SqNInwkBBuscCKV6iz) | 2:58 |
+| 6 | [Canción de una canción](https://open.spotify.com/track/2R0p96ZTDMrxo3I8wCCIhA) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A), [Matiah Chinaski](https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F) | [Canción de una canción](https://open.spotify.com/album/7Lt5SqNInwkBBuscCKV6iz) | 2:55 |
 | 7 | [Estás Acá](https://open.spotify.com/track/5S7D4nHIgs2oYIafo95xso) | [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Estás Acá](https://open.spotify.com/album/214OzPY6Hrhgafv9t4rAoY) | 2:26 |
 | 8 | [Belize](https://open.spotify.com/track/0yo9e9TdaDq6Evjuhne3CO) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Nosecuenta](https://open.spotify.com/artist/4MnlgZ36oltRkkBsEsRXV8) | [Belize](https://open.spotify.com/album/4pqwyhTr7IasEsMxAlvpB1) | 3:02 |
 | 9 | [Ying](https://open.spotify.com/track/4FFrdBXCfICCQj5xKhCVps) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Audio Directo](https://open.spotify.com/artist/6ItsKWiNwjY8cTVTU7wxPH) | [Ying](https://open.spotify.com/album/4f15LvLrcgw2Z47Hlfo0Ju) | 2:45 |

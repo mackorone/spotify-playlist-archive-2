@@ -4,7 +4,7 @@
 
 > marrakech season
 
-129 songs - 8 hr 29 min
+130 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,12 +92,13 @@
 | [Out In The Streets](https://open.spotify.com/track/2uxqdKyl1zTx1KGv9FUZ0w) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Out In The Streets](https://open.spotify.com/album/7d194iurh335XjLVGe0IRq) | 3:16 | 2025-06-27 |  |
 | [Party People](https://open.spotify.com/track/3VHAGhdqkSJ6uMZIyosMeU) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [Party People](https://open.spotify.com/album/2E06sSZVIQMhd6zO3GRGWc) | 3:15 | 2025-09-04 | 2025-11-23 |
 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2025-06-27 |  |
-| [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2025-06-27 |  |
+| [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2025-06-27 | 2026-03-21 |
 | [Reborn](https://open.spotify.com/track/5vdwM9imM15OBwcYE0Id9G) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Healing EP](https://open.spotify.com/album/2rWjO6Nqe0EcT51Mpg321Z) | 7:10 | 2025-06-27 | 2025-07-14 |
 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 | 2025-06-27 |  |
 | [Rwina](https://open.spotify.com/track/73CKzmFl0HBDVh28xOEHU6) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Itri Boy](https://open.spotify.com/album/2yPV0QKx8KtNwceNQ5gQ9r) | 3:06 | 2025-06-27 | 2025-07-25 |
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-06-27 | 2025-08-25 |
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2025-06-27 | 2026-03-06 |
+| [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 | 2026-03-20 |  |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2025-06-27 |  |
 | [See That](https://open.spotify.com/track/4wYwe4DGpBdyDNf2xTCPar) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [See That](https://open.spotify.com/album/6qpLGCyg0Jxbjk2xLTBbZa) | 6:55 | 2025-06-27 |  |
 | [September 31st](https://open.spotify.com/track/5r1cTCi0jtzJeiMPPDQLLM) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Máximo](https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX) | [September 31st](https://open.spotify.com/album/7ufC3doGHGTVT5CJSLDKVq) | 4:39 | 2026-02-03 |  |

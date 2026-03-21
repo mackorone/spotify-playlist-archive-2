@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Bhoomi, rohh, Shashwat Singh and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Saahel, Mary Ann Alexander and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 138556,
       "name": "Bas Ek Tu",
       "url": "https://open.spotify.com/track/5NzRCrABY45HtdDXMrHOyL"
@@ -8614,7 +8614,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 138155,
       "name": "Gulabi Hawa",
       "url": "https://open.spotify.com/track/1s3JFBIpuBuRqLP8dBuUeY"
@@ -10978,7 +10978,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 129350,
       "name": "Jaane Na Tu (Male Version)",
       "url": "https://open.spotify.com/track/1HS4N8cv1P1EmSiKBpzcFC"
@@ -19521,6 +19521,32 @@
     },
     {
       "album": {
+        "name": "Parchhaiyan",
+        "url": "https://open.spotify.com/album/5XdV9tpYLzz5NvnV6IM9CS"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Phosphenes",
+          "url": "https://open.spotify.com/artist/2HISYRhPoA9lFTL7c32l3Q"
+        },
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197659,
+      "name": "Parchhaiyan",
+      "url": "https://open.spotify.com/track/2PvoucU5Pm9SeLN9neuJpX"
+    },
+    {
+      "album": {
         "name": "Pari",
         "url": "https://open.spotify.com/album/4bbDMLY1J0y6PD41fOcJF4"
       },
@@ -22810,7 +22836,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 285009,
       "name": "Sard",
       "url": "https://open.spotify.com/track/3PgKWgz35HhKgWWSvwKbWx"
@@ -25646,7 +25672,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 249062,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw"
@@ -25906,6 +25932,24 @@
       "duration_ms": 289523,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4g6t0kLwutBuv05ZOcBvvN"
+    },
+    {
+      "album": {
+        "name": "Love or a Lesson",
+        "url": "https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Too Much?",
+      "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
     },
     {
       "album": {
@@ -28914,6 +28958,28 @@
       "duration_ms": 182000,
       "name": "Zindagi Meri",
       "url": "https://open.spotify.com/track/1xlSWJqfdHp0vZm1kLEZ59"
+    },
+    {
+      "album": {
+        "name": "Zulfe",
+        "url": "https://open.spotify.com/album/46guavxrNdZddtM3XouUli"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Zulfe",
+      "url": "https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv"

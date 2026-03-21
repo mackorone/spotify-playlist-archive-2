@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Niall Horan, RAYE, Alok & Khalid , Paris Paloma and more!",
+  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002BTS, CA7RIEL & Paco Amoroso, Niall Horan, RAYE and more!",
   "name": "New Music Friday Japan",
   "tracks": [
     {
@@ -22979,6 +22979,28 @@
     },
     {
       "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
+    },
+    {
+      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
       },
@@ -32464,6 +32486,24 @@
       "duration_ms": 141951,
       "name": "Business",
       "url": "https://open.spotify.com/track/20EF6W7Egi1d1rUEboe5MB"
+    },
+    {
+      "album": {
+        "name": "Business & Personal (Intro)",
+        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Business & Personal (Intro)",
+      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
     },
     {
       "album": {
@@ -54953,6 +54993,28 @@
     },
     {
       "album": {
+        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
+    },
+    {
+      "album": {
         "name": "FILM NOIR",
         "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
       },
@@ -56350,6 +56412,24 @@
       "duration_ms": 250980,
       "name": "Don\u2019t Look Down",
       "url": "https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "album": {
@@ -125889,7 +125969,7 @@
     },
     {
       "album": {
-        "name": "Love You Right (feat. Clara La San)",
+        "name": "Love You Right",
         "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
@@ -125906,7 +125986,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165818,
-      "name": "Love You Right (feat. Clara La San)",
+      "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
@@ -131694,6 +131774,28 @@
       "duration_ms": 184437,
       "name": "Mechakucha Iiyo (feat. Candee & MIKADO)",
       "url": "https://open.spotify.com/track/7jOnzJmFBpE5Dr2kPp9ues"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Medell\u00edn Takai",
+      "url": "https://open.spotify.com/track/7BHV1xSknMCuPlZnEql1xz"
     },
     {
       "album": {
@@ -153087,6 +153189,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167589,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
+    },
+    {
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
       },
@@ -162847,7 +162967,7 @@
     },
     {
       "album": {
-        "name": "Pongo",
+        "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
       "artists": [
@@ -162868,7 +162988,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189197,
-      "name": "Pongo",
+      "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
@@ -197947,6 +198067,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3MfdMWTZISbYjbHadrSzwi"
       },
@@ -215807,7 +215945,7 @@
     },
     {
       "album": {
-        "name": "Tumblr Girls (feat. Christoph Andersson)",
+        "name": "Tumblr Girls (Remix)",
         "url": "https://open.spotify.com/album/4QPSnuHCsCWiweUlwrIfve"
       },
       "artists": [
@@ -215828,7 +215966,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237859,
-      "name": "Tumblr Girls (feat. Christoph Andersson)",
+      "name": "Tumblr Girls (feat. Christoph Andersson) - Remix",
       "url": "https://open.spotify.com/track/4RY5NfVeKqsd3gDGdIAgt2"
     },
     {
@@ -246206,6 +246344,24 @@
       "duration_ms": 263306,
       "name": "\u30d5\u30a3\u30e9\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5dGooipYRVJl9ekI5XzkRo"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30c4\u30fc\u3063\u3066\u4f55\uff1f",
+        "url": "https://open.spotify.com/album/2xzxpCqQbo5TyO4iKEe8YJ"
+      },
+      "artists": [
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333834,
+      "name": "\u30d5\u30c4\u30fc\u3063\u3066\u4f55\uff1f",
+      "url": "https://open.spotify.com/track/7B2gNfG6maRaaCwelVohdU"
     },
     {
       "album": {

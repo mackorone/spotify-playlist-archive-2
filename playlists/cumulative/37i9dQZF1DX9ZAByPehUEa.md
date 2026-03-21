@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-757 songs - 1 day 21 hr 19 min
+758 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Baby Wants to Disco \- Radio Edit](https://open.spotify.com/track/1Ofhyr05vsIOMyjxrw2arv) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO), [Seamus Haji](https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz) | [Baby Wants To Disco](https://open.spotify.com/album/2qP60bpTetqj1xyZgu5eXl) | 2:42 | 2025-09-05 |  |
 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 | 2024-07-19 | 2025-05-13 |
 | [Back On My Love](https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Back On My Love](https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv) | 2:53 | 2024-08-23 | 2025-05-03 |
-| [Back To You](https://open.spotify.com/track/2n73M8x5gTt51ZLWQ099GO) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Back To You](https://open.spotify.com/album/1x33VlJuKSEfmkn954gzhV) | 2:56 | 2025-10-10 |  |
+| [Back To You](https://open.spotify.com/track/2n73M8x5gTt51ZLWQ099GO) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Back To You](https://open.spotify.com/album/1x33VlJuKSEfmkn954gzhV) | 2:56 | 2025-10-10 | 2026-03-21 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 |  |
 | [Balance \- Radio\-Edit](https://open.spotify.com/track/5GQ0SVBusQDy0rJev7TQqe) | [Zemyu](https://open.spotify.com/artist/2tVbTOwMJMnXrlEIih1aYO), [Alyssa Jane](https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9) | [Balance](https://open.spotify.com/album/6N4IIaWvkkpSJeYV4Zd6qz) | 2:18 | 2025-09-26 |  |
 | [Balearic Sundance](https://open.spotify.com/track/7ktryZfHtLegbFHDFnkoQT) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE) | [Balearic Sundance](https://open.spotify.com/album/43QZcuDgjZPKTQZlB9IG2N) | 5:51 | 2022-04-06 | 2022-07-06 |
@@ -116,6 +116,7 @@
 | [Chicago](https://open.spotify.com/track/2sJLAv6morhsfspLyV6XeS) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Chicago](https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs) | 6:36 | 2022-06-09 | 2022-07-29 |
 | [Chicago Disco Circus, Vol 1: Disko Night](https://open.spotify.com/track/3A4HtqlXHdUvrpJW8K5hg0) | [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Chicago Disco Circus, Vol 1: Disko Night](https://open.spotify.com/album/7lAIxtdwBfqvNGZGZIsFyB) | 3:04 | 2026-02-20 |  |
 | [CHIKI](https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [STARLIGHT](https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8) | 2:50 | 2024-07-26 | 2025-09-27 |
+| [Clap Your Hands](https://open.spotify.com/track/3nguT92oaDLnqUTwhMLAYr) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Clap Your Hands](https://open.spotify.com/album/3SiGH2gzxcVurxZj9dg8Qm) | 3:35 | 2026-03-20 |  |
 | [Clap Your Hands \(Rap\-O\-Clap\-O\)](https://open.spotify.com/track/4BhWxWUfQUh7NkHcytqZYq) | [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Clap Your Hands \(Rap\-O\-Clap\-O\)](https://open.spotify.com/album/1MoCYe9db0hOLpMvRANuG1) | 3:34 | 2025-05-12 | 2025-05-17 |
 | [Close 2 You](https://open.spotify.com/track/0TcZAw5Xs5JwdqE5nRzAbQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Close 2 You](https://open.spotify.com/album/6Bw3whl0I4WGKjZW8b3pr3) | 3:18 | 2024-03-29 |  |
 | [Close To You](https://open.spotify.com/track/2JsH4kKxABzVTRmAlQSl4n) | [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ) | [Close To You](https://open.spotify.com/album/5clVIiHCxco71LlMMgnjRv) | 2:54 | 2025-05-12 | 2025-07-26 |

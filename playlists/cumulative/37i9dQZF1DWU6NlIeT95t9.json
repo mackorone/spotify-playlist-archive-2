@@ -579,6 +579,32 @@
     },
     {
       "album": {
+        "name": "Khushboo",
+        "url": "https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Baig",
+          "url": "https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8"
+        },
+        {
+          "name": "JANI",
+          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+        },
+        {
+          "name": "Parveen Shakir",
+          "url": "https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Dekh Sakti Hun",
+      "url": "https://open.spotify.com/track/4XKsxIDjNxUwfqGTk5Mq9F"
+    },
+    {
+      "album": {
         "name": "DESIRE / DAYLIGHT",
         "url": "https://open.spotify.com/album/3kcB8jkIK8WtXaOR08wwP3"
       },

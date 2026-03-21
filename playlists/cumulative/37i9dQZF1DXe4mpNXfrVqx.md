@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mari Raia, Muse Maya
 
-234 songs - 10 hr 22 min
+235 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Ginga \- Bem vindo a Party](https://open.spotify.com/track/4dawKCBsHpalmKzB7G1sAq) | [Inza Princess](https://open.spotify.com/artist/7fTIgiXmMVCpCrzdkfmO3D), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Ginga \(Bem vindo a Party\)](https://open.spotify.com/album/0volOaNCpImkXaytDiVTiB) | 2:11 | 2024-05-03 | 2024-06-22 |
 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
 | [GROUPIES](https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [GROUPIES](https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1) | 2:04 | 2023-09-15 | 2024-09-03 |
-| [GUAPO](https://open.spotify.com/track/4GqXEvdILHr1eArHd6Ht97) | [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [GUAPO](https://open.spotify.com/album/5TusX6p1gI1VqTij2BwExA) | 2:12 | 2025-09-19 |  |
+| [GUAPO](https://open.spotify.com/track/4GqXEvdILHr1eArHd6Ht97) | [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [GUAPO](https://open.spotify.com/album/5TusX6p1gI1VqTij2BwExA) | 2:12 | 2025-09-19 | 2026-03-21 |
 | [Hater](https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Hater](https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy) | 2:17 | 2023-03-31 |  |
 | [Haters And Snakes](https://open.spotify.com/track/0GrH8cHTWShAdjaQtS9yBy) | [Casa De Musique](https://open.spotify.com/artist/0hZopCUa9lvzrv2GGsHfxz), [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters And Snakes](https://open.spotify.com/album/1ezQ47LA8hNsUdZafyOUSY) | 2:28 | 2022-07-08 | 2023-11-11 |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 | 2022-07-29 |
@@ -155,6 +155,7 @@
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 | 2023-02-11 |
 | [MEU NOME](https://open.spotify.com/track/00CL3XybVZREa07x1jOrG0) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [MEU NOME](https://open.spotify.com/album/71OxfGMf96TyHmfw59FsR3) | 2:01 | 2024-09-13 | 2024-10-12 |
 | [MEU NÍVEL \(Olha Pra Minha Cara\)](https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:32 | 2024-07-26 | 2024-10-12 |
+| [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 | 2026-03-20 |  |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [Mulheres de Luta](https://open.spotify.com/track/0RQmTHZpn4NPjmRUemHaY5) | [Quelynah](https://open.spotify.com/artist/4se0veHz8HFHw07oIWNDBn), [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr), [Kiko de Sousa](https://open.spotify.com/artist/2NA6u5A9JtHxwmBydfRDdu), [MxM](https://open.spotify.com/artist/4aPJtQduDm1E21WI3LgiF6) | [Íntimo](https://open.spotify.com/album/2aRfDbj0LB2FwPdVXY9ihP) | 2:41 | 2025-06-13 | 2025-11-07 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |

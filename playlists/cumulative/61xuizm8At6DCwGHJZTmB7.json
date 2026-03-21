@@ -2683,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "COME OUT LAZARUS!",
+        "url": "https://open.spotify.com/album/3oIhCa6it0WZLx84B71eMW"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218624,
+      "name": "COME OUT LAZARUS!",
+      "url": "https://open.spotify.com/track/1SGXOCaASMx518upOnT7Gw"
+    },
+    {
+      "album": {
         "name": "Come To Jesus",
         "url": "https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe"
       },
@@ -6732,6 +6750,32 @@
       "duration_ms": 228845,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg"
+    },
+    {
+      "album": {
+        "name": "Sing! From Generation To Generation",
+        "url": "https://open.spotify.com/album/2XpeUhRUx1ONSU23lwDsTy"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Sing!",
+          "url": "https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "I Set My Hope On Jesus (Come Thou Fount Of Every Blessing)",
+      "url": "https://open.spotify.com/track/0JrBCXJHnPP2VyKGdrhkvu"
     },
     {
       "album": {

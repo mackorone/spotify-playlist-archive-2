@@ -81705,6 +81705,24 @@
     },
     {
       "album": {
+        "name": "Tem Dias Que o Mundo Pesa",
+        "url": "https://open.spotify.com/album/5gpViT7apLXrwsPQdyEIZD"
+      },
+      "artists": [
+        {
+          "name": "FERNANDO JUNIOR",
+          "url": "https://open.spotify.com/artist/4EjvmEhFFZFnhuuxQ4gH55"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120895,
+      "name": "Tem Dias Que o Mundo Pesa",
+      "url": "https://open.spotify.com/track/5zfRTAXpyLVJjgJBWJOjuP"
+    },
+    {
+      "album": {
         "name": "734",
         "url": "https://open.spotify.com/album/2P6mi8tsokPdCozUzsGMUF"
       },
@@ -92188,7 +92206,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 279733,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J"

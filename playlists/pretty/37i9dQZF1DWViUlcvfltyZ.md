@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 Fight Pausa in cover \(circondato da cucini\)
+> Rock, indie e punk dall'Italia 🎸 Fight Pausa in cover \(circondato da cuscini\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,903 likes - 105 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,891 likes - 105 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 22 | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9) | [Ozone Dehumanizer](https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0) | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/album/0seOmBNpbD8jUMYvnmvdyT) | 2:38 |
 | 23 | [Villa](https://open.spotify.com/track/2DNrCPimliGqfMHNTs5PDZ) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Villa](https://open.spotify.com/album/13bbVV3gIvdNGwxVGgqJUZ) | 4:28 |
 | 24 | [PUPILLE](https://open.spotify.com/track/4MoM1T728DkSUTCsSjz1eT) | [Frisàri](https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN) | [PUPILLE](https://open.spotify.com/album/6XD8iIUVoLiw7SP9qlZMRd) | 2:48 |
-| 25 | [Track 3](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 0:00 |
+| 25 | [La Coscienza Della Mia Generazione](https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt) | [Mauro Ermanno Giovanardi](https://open.spotify.com/artist/0D7v7fZ06niESi9HqqKvTl) | [E Poi Scegliere Con Cura Le Parole](https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO) | 2:49 |
 | 26 | [Un canto nuovo](https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Un canto nuovo](https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV) | 3:47 |
 | 27 | [Tornado](https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Anime Storte](https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo) | 3:29 |
 | 28 | [Prove d'esistenza/Il gesto](https://open.spotify.com/track/2pUSAvWIx9rW02g6FuR22o) | [Bono / Burattini](https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw) | [Prove d'esistenza/Il gesto](https://open.spotify.com/album/1Oml85X4GIo8WQNTbSNBXN) | 4:04 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 104 | [Workaholica](https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Workaholica](https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm) | 3:16 |
 | 105 | [Intanto](https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Temporale](https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4) | 2:53 |
 
-Snapshot ID: `AAAAANL3avd88FUP3gYu1/yLx1TwbR4H`
+Snapshot ID: `AAAAAEuBF+U5v/A3I/qzoxckt734+L01`

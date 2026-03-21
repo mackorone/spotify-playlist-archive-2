@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,414 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,457 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 6 | [Terrestrials](https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/7Jka6HCeAYcU6Glrzb9r3f) | 3:59 |
 | 7 | [sunrise](https://open.spotify.com/track/5o8TBqGcHjBcBfZGnU4ObF) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [one dream, one star](https://open.spotify.com/album/46RPLwDuUYeWLqg9mtSKCz) | 5:51 |
 | 8 | [Reel 4](https://open.spotify.com/track/0dVSANH9ZCILbjNOozeTEH) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j), [Kaneko Pardede](https://open.spotify.com/artist/5rBkep2MYuz4aEXzGVuW2B) | [Reel 4](https://open.spotify.com/album/4d3lFppUOefm01EFhQ8AbW) | 3:04 |
-| 9 | [Track 8](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 0:00 |
+| 9 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 |
 | 10 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 |
 | 11 | [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 |
 | 12 | [If You Change](https://open.spotify.com/track/25JwuQuID6TFelmbUr9vgy) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [If You Change](https://open.spotify.com/album/6mom0BjN9nyY1aQaCDgNtk) | 4:41 |

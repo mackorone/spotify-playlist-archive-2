@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,763 likes - 85 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,828 likes - 85 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 84 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
 | 85 | [Maple](https://open.spotify.com/track/35JoXVdT9UjxPrrnralvTL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Maple](https://open.spotify.com/album/05g58vC8XlX2niuDkz3TTq) | 1:25 |
 
-Snapshot ID: `AAAAAH+m71AR8QPc7lR855Sw1RVnJqM7`
+Snapshot ID: `AAAAAC5ydW+qQN0WXqJHtNKDZb5CTZtg`

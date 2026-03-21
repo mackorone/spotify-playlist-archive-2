@@ -4,7 +4,7 @@
 
 > Meet the future ♥️ Cover: Shae Gill
 
-143 songs - 7 hr 50 min
+144 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 | 2023-07-31 |  |
 | [COME THROUGH \(feat\. Abdullah Maharvi & Talha Anjum\)](https://open.spotify.com/track/4yNtO1F3flXZ4v3Ry1MzuP) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:17 | 2024-07-22 |  |
 | [COMPETITION & CURRENCY \(feat\. Talha Anjum\)](https://open.spotify.com/track/3wGp1azIVCBN1wzsph3f2m) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:58 | 2024-07-22 | 2026-01-15 |
+| [Dekh Sakti Hun](https://open.spotify.com/track/4XKsxIDjNxUwfqGTk5Mq9F) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:32 | 2026-03-20 |  |
 | [DESIRE](https://open.spotify.com/track/2eSukmpblBGGf5Iyq7cM4e) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [DESIRE / DAYLIGHT](https://open.spotify.com/album/3kcB8jkIK8WtXaOR08wwP3) | 2:10 | 2023-07-31 | 2024-01-06 |
 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 | 2023-07-31 | 2025-09-18 |
 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2023-07-31 |  |

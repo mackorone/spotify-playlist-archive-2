@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 231750,
       "name": "L2ML",
       "url": "https://open.spotify.com/track/6q8AwQ8TIEOONpdRPKHWYc"
@@ -3904,6 +3904,24 @@
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5v7DRYCe759w9lZ6zHN2Tt"
+      },
+      "artists": [
+        {
+          "name": "Dave Kull",
+          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "On This Special Day (Wedding Song)",
+      "url": "https://open.spotify.com/track/1mwVdUrh672eGb7rxnxgfm"
     },
     {
       "album": {

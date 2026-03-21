@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,100 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,763 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Bandeya \- From "Dil Juunglee"](https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Bandeya \(From "Dil Juunglee"\)](https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h) | 3:04 |
 | 75 | [Jee Liya \- From "Tu Yaa Main"](https://open.spotify.com/track/0H545XfNvoSu9THGf8mBnd) | [Adarsh Gourav](https://open.spotify.com/artist/6fckyXLMXdnYbkMutc4pJj), [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Chakori Dwivedi](https://open.spotify.com/artist/5rm5jniMvphOzPNEn2QF6s) | [Jee Liya \(From "Tu Yaa Main"\)](https://open.spotify.com/album/5U8ehxq5GgvrP0R8pZEhQe) | 3:07 |
 
-Snapshot ID: `AAAAAC1hKHD4bpkrfWOeTDb09DXbRjVT`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

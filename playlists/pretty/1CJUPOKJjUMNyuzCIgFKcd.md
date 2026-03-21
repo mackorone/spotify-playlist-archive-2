@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,175 likes - 36 songs - 1 hr 40 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,173 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 3 | [S/O Alysa Liu](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O Alysa Liu](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 |
 | 4 | [UP IN HEA](https://open.spotify.com/track/0zwZAVXsEvfVKVTC6LrJzy) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [UP IN HEA](https://open.spotify.com/album/6TcbhclP0iL4I4kgAAdGk0) | 2:24 |
 | 5 | [Geek Time](https://open.spotify.com/track/3wmiP90sLXkiT6eRrOIOZS) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Out On Bond Again](https://open.spotify.com/album/1o5ENTNPcko1wx4h1kZTlP) | 2:05 |
-| 6 | [Way I Live](https://open.spotify.com/track/4h542Q3dGPmPaH31eIyWoG) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Way I Live](https://open.spotify.com/album/6lg8w6SfMH9jLZZduEbqKj) | 2:20 |
+| 6 | [WAY I LIVE](https://open.spotify.com/track/4h542Q3dGPmPaH31eIyWoG) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [WAY I LIVE](https://open.spotify.com/album/6lg8w6SfMH9jLZZduEbqKj) | 2:20 |
 | 7 | [Passion fruit](https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Passion fruit](https://open.spotify.com/album/1mL7H8MnqzXNul0pqgnaLt) | 1:40 |
 | 8 | [L.I.E.](https://open.spotify.com/track/1GJ0PJM9oHsJ8LrUySdNID) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [L.I.E \( Loyalty Is Everything \)](https://open.spotify.com/album/7opUfvueBUE0wLKcO1f9fW) | 2:24 |
 | 9 | [New Cut](https://open.spotify.com/track/1KOIabKFs5kDUuQH2LkuG0) | [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [New Cut](https://open.spotify.com/album/0IOZtY3nT3pFhhNKV5fuar) | 3:48 |
 | 10 | [NOT ME](https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:35 |
 | 11 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |
 | 12 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 |
-| 13 | [Call Em'](https://open.spotify.com/track/29CE94tSoofGUJQkwBItAi) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Call Em'](https://open.spotify.com/album/0SZVqOIEWfRoO7DE6hSkiT) | 2:41 |
+| 13 | [CALL EM'](https://open.spotify.com/track/29CE94tSoofGUJQkwBItAi) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [CALL EM'](https://open.spotify.com/album/0SZVqOIEWfRoO7DE6hSkiT) | 2:41 |
 | 14 | [Pretty \(feat\. Lil Yee\)](https://open.spotify.com/track/4kqytEv5y0VaSw6xCi7Yf8) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:33 |
 | 15 | [Visions](https://open.spotify.com/track/1NkgJ5U5Rb46t34Io9OGaJ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Visions](https://open.spotify.com/album/2FWrzqmke6PXcX2QhmRdg2) | 2:44 |
 | 16 | [Fake Jeezy](https://open.spotify.com/track/5LJ6CVeQyUve7oOrRpwO8x) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/5kTFAxmZ6wNljlyAkXvSYC) | 2:40 |

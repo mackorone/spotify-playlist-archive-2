@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Kaya Imani
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,823 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,811 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gedroomd](https://open.spotify.com/track/2hDgIwdNGWa4AWI7Thpurw) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Just A Girl](https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5) | 2:09 |
 | 2 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
-| 3 | [Track 9](https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [FANTASMA](https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It) | 0:00 |
+| 3 | [PIJNSTILLER](https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [FANTASMA](https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It) | 2:58 |
 | 4 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 |
 | 5 | [Vertrouw Niemand](https://open.spotify.com/track/6OWhm03iyWFTX6UM8FGzcY) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Vertrouw Niemand](https://open.spotify.com/album/6Kkxkrjci5izGVL4q5ekag) | 2:45 |
 | 6 | [Falling 4 Ya](https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Gemengde Gevoelens](https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK) | 3:24 |

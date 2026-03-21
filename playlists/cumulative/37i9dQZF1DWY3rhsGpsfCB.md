@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-906 songs - 1 day 22 hr 37 min
+907 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 | 2026-03-20 |
 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2024-10-13 |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-05 |
-| [Bad and Boujee \(feat\. taves\)](https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:56 | 2026-02-06 |  |
+| [Bad and Boujee \(feat\. taves\)](https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:56 | 2026-02-06 | 2026-03-21 |
 | [Bad Bad](https://open.spotify.com/track/0LZTxc87IDRNYPF1PafR7D) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:53 | 2024-10-25 | 2025-03-15 |
 | [Bad Belle](https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad Belle](https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d) | 3:26 | 2025-03-14 | 2025-09-26 |
 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 | 2024-11-22 |  |
@@ -622,6 +622,7 @@
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-06-24 | 2023-02-11 |
 | [Please Don't Go](https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Cheekychizzy](https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1) | [Please Don't Go](https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm) | 2:28 | 2023-08-03 | 2023-09-15 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-15 |
+| [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 |  |
 | [pop n olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 | 2025-03-07 | 2025-07-05 |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-04 | 2025-07-05 |
 | [pour it onto me](https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [pour it onto me](https://open.spotify.com/album/6UUfR3AnGM3bZn3mE3UARk) | 2:21 | 2025-05-30 | 2025-07-11 |

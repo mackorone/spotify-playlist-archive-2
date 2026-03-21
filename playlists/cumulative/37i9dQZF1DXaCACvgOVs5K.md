@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaCACvgOVs5K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaCACvgOVs5K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaCACvgOVs5K)
 
-### [Ibiza 2025](https://open.spotify.com/playlist/37i9dQZF1DXaCACvgOVs5K)
+### [Ibiza 2026](https://open.spotify.com/playlist/37i9dQZF1DXaCACvgOVs5K)
 
-> Get ready for Ibiza season 2025\. See you on the dancefloor.
+> Get ready for Ibiza season 2026\. See you on the dancefloor.
 
 439 songs - 1 day 2 hr 6 min
 

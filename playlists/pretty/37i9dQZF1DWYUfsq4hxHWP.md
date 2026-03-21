@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Erin Kinsey, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,042 likes - 68 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,077 likes - 68 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

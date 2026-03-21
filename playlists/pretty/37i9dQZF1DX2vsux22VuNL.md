@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Big Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,321 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,326 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 53 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
 | 54 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
 | 55 | [Casal de Uma Noite Só](https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw) | [Casal de Uma Noite Só](https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL) | 2:29 |
-| 56 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 |
-| 57 | [Naquele Pique](https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Naquele Pique](https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn) | 3:10 |
+| 56 | [Naquele Pique](https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Naquele Pique](https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn) | 3:10 |
+| 57 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 |
 | 58 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 |
 | 59 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
 | 60 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |

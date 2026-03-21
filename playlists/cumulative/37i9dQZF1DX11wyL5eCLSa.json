@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Margaritas Podridas en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Z\u00f6elle en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "album": {
         "name": "Cae La Lluvia",
         "url": "https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184055,
       "name": "Como la Vez Primera",
       "url": "https://open.spotify.com/track/7w6xeCLBFcetKIj5yPDHD1"
@@ -2740,6 +2758,24 @@
       "duration_ms": 235068,
       "name": "Crimson Mask",
       "url": "https://open.spotify.com/track/4qfFALsZju3E00uHZ58Ddu"
+    },
+    {
+      "album": {
+        "name": "Es Un Dolor Inexplicable",
+        "url": "https://open.spotify.com/album/1SjA0GCE5X8nWVEAtoQv6Y"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128455,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/2NQjmOgMynS5t1Q0tlaYJj"
     },
     {
       "album": {
@@ -4818,6 +4854,24 @@
       "duration_ms": 365260,
       "name": "Esa Palabra",
       "url": "https://open.spotify.com/track/5wkflnlId9hD0xpU84KKr6"
+    },
+    {
+      "album": {
+        "name": "Dime Lo Que No Se Habla",
+        "url": "https://open.spotify.com/album/0b0OmpXEycuAEOY6IN6FwV"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164760,
+      "name": "Escultura",
+      "url": "https://open.spotify.com/track/1TFDhoMpJo62nKJbYKtKkr"
     },
     {
       "album": {
@@ -8101,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Me Decid\u00ed",
+        "url": "https://open.spotify.com/album/4ZQpM4FIMRXmasjWE1fCEb"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211384,
+      "name": "Me Decid\u00ed",
+      "url": "https://open.spotify.com/track/2PG2rc1AOwtbG0VibwkCZ1"
+    },
+    {
+      "album": {
         "name": "Putas Canciones",
         "url": "https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF"
       },
@@ -10242,7 +10314,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235476,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/7BAopsEfBOaFt4NenCLYQT"
@@ -11828,7 +11900,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 231218,
       "name": "San Felices",
       "url": "https://open.spotify.com/track/14PtHJrZV6xy2iFqImmFA8"
@@ -13356,7 +13428,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 89429,
       "name": "Torreta",
       "url": "https://open.spotify.com/track/4mCVL6ScNCjvftMsydugz6"
@@ -13910,7 +13982,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 188666,
       "name": "Un Segundo en el Tiempo",
       "url": "https://open.spotify.com/track/6PZ8hOEk9Qdkhhyl4pCjUp"
@@ -14186,6 +14258,24 @@
       "duration_ms": 209593,
       "name": "Vespa",
       "url": "https://open.spotify.com/track/7INcpSg0DEDdtm5DWmmYX9"
+    },
+    {
+      "album": {
+        "name": "Da\u00f1os Luz",
+        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231625,
+      "name": "Vida En El Espectro",
+      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
     },
     {
       "album": {

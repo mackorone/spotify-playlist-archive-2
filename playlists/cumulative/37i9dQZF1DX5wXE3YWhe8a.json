@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "Above the clouds",
+        "url": "https://open.spotify.com/album/4zM0j0yaaHIw1tHu2qnhiH"
+      },
+      "artists": [
+        {
+          "name": "irons",
+          "url": "https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn"
+        },
+        {
+          "name": "Jason Masoud",
+          "url": "https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1"
+        },
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104307,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/4r7d8awdjYXihm0E9lyrHg"
+    },
+    {
+      "album": {
         "name": "Avocado",
         "url": "https://open.spotify.com/album/2f8vHjixXb5pKCkB9G9Ts6"
       },
@@ -74,7 +100,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 137142,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/164ax96RIZvbBaf13Hbhxy"
@@ -114,7 +140,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 119959,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5SN2efcnmRW4c1mTpzS6kC"
@@ -132,7 +158,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173913,
       "name": "breathe",
       "url": "https://open.spotify.com/track/5ViGmbaqgNv3JlqbSoOldR"
@@ -154,6 +180,24 @@
       "duration_ms": 149508,
       "name": "Breezy Squeeze",
       "url": "https://open.spotify.com/track/04qKPUB4wx0ZmJ1C64RQ7x"
+    },
+    {
+      "album": {
+        "name": "bubblegum",
+        "url": "https://open.spotify.com/album/1Uz1ZlcZLkylqzYfJkyRGY"
+      },
+      "artists": [
+        {
+          "name": "Lush Lime",
+          "url": "https://open.spotify.com/artist/6W3OIb36yf8ViP1vtpq6j9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112727,
+      "name": "bubblegum",
+      "url": "https://open.spotify.com/track/2Sc8hpGvBjCIw7xQ2ZP0fG"
     },
     {
       "album": {
@@ -295,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Coffee Steam",
+        "url": "https://open.spotify.com/album/3mufIIpDBs2ytN2a8y5mlF"
+      },
+      "artists": [
+        {
+          "name": "shawn pink",
+          "url": "https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99324,
+      "name": "Coffee Steam",
+      "url": "https://open.spotify.com/track/4K88K74eBfixvIhnZRCDcM"
+    },
+    {
+      "album": {
         "name": "crispy chicken",
         "url": "https://open.spotify.com/album/1NOegygg4fe71eIIlMxrjz"
       },
@@ -306,7 +368,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 130117,
       "name": "crispy chicken",
       "url": "https://open.spotify.com/track/5c5LmzPH8zG62iym0TsaGb"
@@ -350,6 +412,24 @@
       "duration_ms": 108292,
       "name": "Early Bird",
       "url": "https://open.spotify.com/track/6ChTadHDU68gvfG3tCAMOy"
+    },
+    {
+      "album": {
+        "name": "for real",
+        "url": "https://open.spotify.com/album/19ravPXTw4L3vPBoh2aS4R"
+      },
+      "artists": [
+        {
+          "name": "agn3tic",
+          "url": "https://open.spotify.com/artist/22Jx8EtnRgBjw15Er37uUz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131592,
+      "name": "for real",
+      "url": "https://open.spotify.com/track/3iDzhsXctKOLAmhL2brogX"
     },
     {
       "album": {
@@ -838,7 +918,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 150857,
       "name": "Too Lazy",
       "url": "https://open.spotify.com/track/7eiECJwwVX2oWZVjkk3Osq"
@@ -878,6 +958,28 @@
       "duration_ms": 121519,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/3IEve6hDT2DA95RrRiJS8g"
+    },
+    {
+      "album": {
+        "name": "Verve",
+        "url": "https://open.spotify.com/album/6ReSNt3f77vgtROIaLBPJ3"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103846,
+      "name": "Verve",
+      "url": "https://open.spotify.com/track/7xR7CAwdQRjlbbbH3LXApm"
     },
     {
       "album": {

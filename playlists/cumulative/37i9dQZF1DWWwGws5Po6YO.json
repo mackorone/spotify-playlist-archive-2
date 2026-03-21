@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166784,
       "name": "blue hour",
       "url": "https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ"
@@ -3734,6 +3734,24 @@
       "duration_ms": 180000,
       "name": "silent aurora",
       "url": "https://open.spotify.com/track/0bCzY6WZD7SEpnw7E9iYSq"
+    },
+    {
+      "album": {
+        "name": "Earth Expressions",
+        "url": "https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301322,
+      "name": "Silent Tree",
+      "url": "https://open.spotify.com/track/79sDBnfCLopeckeVkrRN96"
     },
     {
       "album": {

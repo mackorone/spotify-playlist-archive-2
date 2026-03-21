@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Pond
 
-890 songs - 2 day 1 hr 59 min
+890 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [New Day](https://open.spotify.com/track/4vtgGDaTTaOroje4hqnpG7) | [Summer Flake](https://open.spotify.com/artist/2oPPuIRXZ5gCKBtbt3dcsb) | [New Day](https://open.spotify.com/album/0oUN13Dr10JPewYeHxEl87) | 4:33 | 2024-06-13 | 2024-08-16 |
 | [New Leaf](https://open.spotify.com/track/49zSGc0saqGp4x1S5XwIqS) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [New Leaf](https://open.spotify.com/album/2HPraiTLNZwRFs99OmZiAt) | 4:19 | 2025-05-29 | 2025-08-29 |
 | [Night Like This](https://open.spotify.com/track/7bmLVtyAYDp7lls6PW2mtM) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Night Like This](https://open.spotify.com/album/0EC3EWmtNxh0POqOwbjzAp) | 3:36 | 2025-09-18 | 2025-11-28 |
+| [Night Shooting](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 4:18 | 2026-03-19 |  |
 | [NIGHTCHILLS](https://open.spotify.com/track/0ol9nUJwdlPfuZebW4Hjbx) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [NIGHTCHILLS](https://open.spotify.com/album/6rlvnoGPPxQ8Rj41ARaKOn) | 3:02 | 2024-06-27 | 2024-07-27 |
 | [ninezero](https://open.spotify.com/track/1TzuF0wtfTOLRjSc7mhN8w) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [ninezero](https://open.spotify.com/album/1AwW3NwX8d3REYfLA9R3fl) | 2:55 | 2024-08-29 | 2024-10-11 |
 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 | 2024-11-28 | 2025-02-28 |
@@ -826,8 +827,6 @@
 | [Tonight, I](https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Novel](https://open.spotify.com/album/0wrWV4wYGC2QXcp3wIDpus) | 3:47 | 2024-05-24 | 2024-07-12 |
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 4](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 0:00 | 2026-03-19 |  |
-| [Track 5](https://open.spotify.com/track/1QkRA2Pt0imWuf3Jf3RIFD) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Ultra Dundee](https://open.spotify.com/album/2AEaSIsAeVAFl8eQjs847F) | 0:00 | 2026-03-19 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |
 | [Trip Hazard](https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Trip Hazard](https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h) | 2:49 | 2024-05-24 | 2024-07-27 |
@@ -857,6 +856,7 @@
 | [want your luv](https://open.spotify.com/track/1rLVxCmNdaKlPfacFHwOcU) | [luv4her](https://open.spotify.com/artist/0B0whKnPkjxBUQ3FdtQtJz) | [want your luv](https://open.spotify.com/album/3GUp5s5Yyd2gQLjDX7W5hh) | 3:02 | 2026-01-08 | 2026-03-20 |
 | [Want/Need](https://open.spotify.com/track/5KKYS2niLOoZTsbW0IDjsT) | [Ceres](https://open.spotify.com/artist/6ignu1FESsoUapE3EnbCFL) | [Want/Need](https://open.spotify.com/album/4g3P3GVh1k6BbRmGcjIvaU) | 3:10 | 2024-05-24 | 2024-07-19 |
 | [Warning Signs](https://open.spotify.com/track/0xA9lVFIMEVMx3XY6B9DVj) | [Dream on Dreamer](https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v), [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Warning Signs](https://open.spotify.com/album/28mVerBpwjb8Mt18DyvO5j) | 4:14 | 2026-03-19 |  |
+| [Warzone](https://open.spotify.com/track/0TNLgJnAepOj8PK5oWTJoQ) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Colonial Drift](https://open.spotify.com/album/5FENX07FeHYYcfNOtZ8LoI) | 4:24 | 2026-03-19 |  |
 | [Wasted Days](https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Wasted Days](https://open.spotify.com/album/4CV0mSYKXJsLW8ZEfNZ04E) | 3:19 | 2024-12-05 | 2025-03-21 |
 | [Wasting Time](https://open.spotify.com/track/5HDYxR2djkR6rV1Zz9NaF9) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [Wasting Time](https://open.spotify.com/album/5asqa3CTzD6EOJG3JSfWOS) | 3:04 | 2024-06-13 | 2024-07-12 |
 | [wayside](https://open.spotify.com/track/6l9uIAlxpVuOr70A4uBIKn) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [wayside](https://open.spotify.com/album/2NuQsYDb3JGEtDu0TuaG8M) | 3:28 | 2024-06-06 | 2024-08-02 |

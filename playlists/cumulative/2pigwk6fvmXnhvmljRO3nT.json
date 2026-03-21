@@ -119435,6 +119435,24 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30c8\u30d0\u30a2\u30bd\u30d3",
+        "url": "https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N"
+      },
+      "artists": [
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273568,
+      "name": "Storyteller",
+      "url": "https://open.spotify.com/track/0WVHhHvi9gRXWOi0LicH0S"
+    },
+    {
+      "album": {
         "name": "Foreground Eclipse",
         "url": "https://open.spotify.com/album/56ePpIyeJW76X5JepEm7uY"
       },
@@ -158344,6 +158362,24 @@
       "duration_ms": 247774,
       "name": "\u663c\u9593\u304b\u3089\u591c",
       "url": "https://open.spotify.com/track/1x5HafUXAfDRxBEWkI1Fhh"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "\u6669\u9910\u6b4c - Bansanka",
+      "url": "https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ"
     },
     {
       "album": {

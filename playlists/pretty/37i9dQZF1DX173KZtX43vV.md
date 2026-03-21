@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Asake, DJ Snake
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,628 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,651 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 8 | [Valley](https://open.spotify.com/track/0HH3uVsAUpi8gwh64LY9i5) | [THIAGO](https://open.spotify.com/artist/2FJfmQKv4jm8Zfi5K9uaUO), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Valley](https://open.spotify.com/album/5fYnfkNEBp3GQF6eIPQXYg) | 3:05 |
 | 9 | [Soul](https://open.spotify.com/track/02rwWyN3w5hneOnazVbEuW) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Soul](https://open.spotify.com/album/2Q2rBfuEHKEvlFpeMqx438) | 2:21 |
 | 10 | [Better Days](https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Better Days](https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9) | 3:10 |
-| 11 | [Love You Right \(feat\. Clara La San\)](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right \(feat\. Clara La San\)](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
+| 11 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
 | 12 | [Citrus](https://open.spotify.com/track/2C4vHzE0k8sLh3CqMffZMF) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Citrus](https://open.spotify.com/album/6L0LzVtCdS9dtkzPkeaxuY) | 2:01 |
 | 13 | [Good Advice](https://open.spotify.com/track/7g35Dr9YkIqY09z0TpJMn3) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ) | [Good Advice](https://open.spotify.com/album/3DM6FfFtxIFNJtTfcn0uuF) | 4:32 |
 | 14 | [Saviour](https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Saviour](https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf) | 3:00 |

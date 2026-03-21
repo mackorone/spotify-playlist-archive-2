@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,194 songs - 2 day 18 hr 32 min
+1,195 songs - 2 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [GTFU](https://open.spotify.com/track/201b8a3HSC9WHc5tNOeRex) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [GTFU](https://open.spotify.com/album/17WQneMS2G9Dv9aGO6d0ji) | 3:09 | 2026-02-13 |  |
 | [Guesses](https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Guesses](https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6) | 3:21 | 2023-02-17 | 2023-05-13 |
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 | 2022-09-10 |
+| [Gumraah](https://open.spotify.com/track/5CAYoLs7vrGVMT29o5acCL) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Gumraah](https://open.spotify.com/album/2Rnslkb4HWAUsgn0wvALHf) | 3:47 | 2026-03-20 |  |
 | [Happiness \(Just A Pursuit\)](https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Happiness \(Just A Pursuit\)](https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk) | 2:44 | 2022-07-12 | 2022-09-23 |
 | [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-05-26 | 2023-08-20 |
 | [Hardcore Riddim](https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Hardcore Riddim](https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM) | 4:09 | 2024-07-15 | 2024-10-08 |

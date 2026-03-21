@@ -500,7 +500,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 220186,
       "name": "Aidilfitri",
       "url": "https://open.spotify.com/track/0vxPY5zo69nPxKmmRRx2fQ"
@@ -5968,7 +5968,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -9337,6 +9337,36 @@
     },
     {
       "album": {
+        "name": "Hari Raya",
+        "url": "https://open.spotify.com/album/2rFUqa6tW9zSRsRtWeNWcS"
+      },
+      "artists": [
+        {
+          "name": "IamNeeta",
+          "url": "https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg"
+        },
+        {
+          "name": "Najwa Latif",
+          "url": "https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt"
+        },
+        {
+          "name": "Mimie Haris",
+          "url": "https://open.spotify.com/artist/4K49jbUZ1mf1vaA6S88YOk"
+        },
+        {
+          "name": "Deanna Hussin",
+          "url": "https://open.spotify.com/artist/4Du4XSeOI3UEIhy7Jx96dB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164450,
+      "name": "Hari Raya",
+      "url": "https://open.spotify.com/track/10uaVIBFN0Xur2eaSc3nNm"
+    },
+    {
+      "album": {
         "name": "Hurey! Raya",
         "url": "https://open.spotify.com/album/2tDIojUILkustiyFGqcpB3"
       },
@@ -12302,7 +12332,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 225533,
       "name": "Kepulangan Yang Di Nanti",
       "url": "https://open.spotify.com/track/5eI3a4RJ5Qfum61vdQMy6B"
@@ -17070,7 +17100,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
@@ -18318,7 +18348,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -19920,7 +19950,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 152853,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/4R3BqGWGboh1b6RaRVXxWE"
@@ -20156,6 +20186,24 @@
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
+    },
+    {
+      "album": {
+        "name": "Sepasang Kurung Biru",
+        "url": "https://open.spotify.com/album/5M5J2ea0DXDsYLqYMOfHCN"
+      },
+      "artists": [
+        {
+          "name": "Khairil Johari Johar",
+          "url": "https://open.spotify.com/artist/5zwOFEgl0YcJG2RXJTwFdS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "Sepasang Kurung Biru",
+      "url": "https://open.spotify.com/track/3sGn74bHO14lznKAftyJID"
     },
     {
       "album": {
@@ -21154,7 +21202,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -22184,7 +22232,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 190746,
       "name": "Suasana Riang Di Hari Raya",
       "url": "https://open.spotify.com/track/7uvKupP8xo3uq17ObZvbZz"
@@ -22710,7 +22758,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 274381,
       "name": "TABOLA BALE",
       "url": "https://open.spotify.com/track/7mqG8I1JG0iQAejC53qpbU"
@@ -26076,7 +26124,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

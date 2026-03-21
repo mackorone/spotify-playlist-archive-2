@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Angelica Gallegos ",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Las Mar\u00edas",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 201225,
       "name": "Abr\u00e1zame y B\u00e9same",
       "url": "https://open.spotify.com/track/0TgPDefC35FX19wUjcoo6s"
@@ -490,6 +490,24 @@
       "duration_ms": 198533,
       "name": "Al Olvido",
       "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
+    },
+    {
+      "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
     },
     {
       "album": {
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218000,
       "name": "Bebiendo L\u00e1grimas",
       "url": "https://open.spotify.com/track/1JLc36BPeiaB0JM16JG0MC"
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "album": {
         "name": "Con Todo y Mi Tristeza (Live)",
         "url": "https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL"
       },
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164124,
       "name": "Contigo Me Clav\u00e9",
       "url": "https://open.spotify.com/track/77OMMe0pVx4B7adPMkmRpW"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 260302,
       "name": "Crazy For You",
       "url": "https://open.spotify.com/track/5P7NBYTfGR5IXAmf9TgCTG"
@@ -2817,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "album": {
         "name": "El Honor",
         "url": "https://open.spotify.com/album/1oXdwFUoYH9IyTpPzTf268"
       },
@@ -3132,7 +3186,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195851,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
@@ -4795,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "La Novia Del Pajarillo (En Vivo)",
+        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235434,
+      "name": "La Novia Del Pajarillo (En Vivo)",
+      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
+    },
+    {
+      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -5780,7 +5852,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 165685,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
@@ -8042,7 +8114,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 180096,
       "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/4o0VYl7x6VAlWVxGA4P7UJ"
@@ -9045,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "Quisiera ser Ella",
+        "url": "https://open.spotify.com/album/3nKJFjupZzpCMvur1ZYI9D"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Paniagua",
+          "url": "https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Quisiera ser Ella",
+      "url": "https://open.spotify.com/track/1s3FlXg5zGkzKyopHhHjUA"
+    },
+    {
+      "album": {
         "name": "Quisieran Tener Mi Lugar",
         "url": "https://open.spotify.com/album/0kg1rb7cl4qpi5jidLc1aT"
       },
@@ -10010,7 +10100,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 179569,
       "name": "somos peligro",
       "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
@@ -10886,6 +10976,24 @@
       "duration_ms": 229200,
       "name": "T\u00fa Lo Decidiste",
       "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Me Juraste",
+        "url": "https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207307,
+      "name": "T\u00fa Me Juraste",
+      "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
     },
     {
       "album": {
@@ -11962,6 +12070,24 @@
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "album": {

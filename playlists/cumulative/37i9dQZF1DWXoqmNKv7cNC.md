@@ -2,7 +2,7 @@
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas a todo volumen! The Warning en portada 💚
+> ¡Mujeres mexicanas a todo volumen! FLVCKKA en portada 💚
 
 1,539 songs - 3 day 11 hr 59 min
 

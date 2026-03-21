@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176593,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/2n73M8x5gTt51ZLWQ099GO"
@@ -2242,6 +2242,28 @@
       "duration_ms": 170357,
       "name": "CHIKI",
       "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
+    },
+    {
+      "album": {
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/3SiGH2gzxcVurxZj9dg8Qm"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215905,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/3nguT92oaDLnqUTwhMLAYr"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, Mc Davi
+> Entre os versos e beats, a palavra do Senhor\. Foto: Derxan
 
-514 songs - 1 day 2 hr 36 min
+515 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,14 @@
 | [Boaz e Rute](https://open.spotify.com/track/2VW0QXMRuK4gLnJw94gt00) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [RAMON EL BRABO](https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI) | [Boaz e Rute](https://open.spotify.com/album/6P5wzuo9oWlAl6QWswi157) | 3:31 | 2024-04-05 | 2024-08-23 |
 | [Bom Filho](https://open.spotify.com/track/67ygE3MZD0moqgzQBpz5Wa) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Victor Lucass](https://open.spotify.com/artist/62fvNS9LwWUINTSzvJO5a6), [Blackkgus](https://open.spotify.com/artist/5Vq6rJhiyv3zqiCPPY61TG) | [Bom Filho](https://open.spotify.com/album/2wXWvVENP2QkGe2Dh77DWJ) | 3:26 | 2025-02-07 | 2025-07-20 |
 | [Bom Samaritano](https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Bom Samaritano](https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn) | 2:13 | 2023-12-22 | 2024-08-30 |
-| [Bora!](https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Bora!](https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK) | 2:46 | 2026-01-30 |  |
+| [Bora!](https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Bora!](https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK) | 2:46 | 2026-01-30 | 2026-03-21 |
 | [Bota Fé no Pai](https://open.spotify.com/track/0XYJiHecvwpRqmKbsBc7V5) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Bota Fé no Pai](https://open.spotify.com/album/5GusdgenYep0VWXQpH220I) | 2:48 | 2023-10-06 | 2023-10-23 |
 | [Braço Forte](https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Braço Forte](https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X) | 2:48 | 2024-05-31 |  |
 | [BRKD F4IL3D D6VIL](https://open.spotify.com/track/1L4mG07jrTj6r7Rd7MuAlw) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y), [Victtor](https://open.spotify.com/artist/2FSSM8hRAWQjyfQnvmPgcz), [Mu4ilo](https://open.spotify.com/artist/1ETlAm5JDgJxuYj7XbSSK9) | [BRKD F4IL3D D6VIL](https://open.spotify.com/album/7yMuK0UQgt3jaf372dzHwu) | 3:26 | 2024-09-13 | 2024-10-08 |
 | [Buscando a Paz](https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Buscando a Paz](https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs) | 2:39 | 2025-12-15 |  |
 | [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 | 2024-05-17 |  |
 | [Cada um Com uma História](https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Cada um Com uma História](https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv) | 6:46 | 2023-03-03 | 2023-04-29 |
+| [Caindo em si](https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Caindo em si](https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea) | 2:50 | 2026-03-20 |  |
 | [Calma](https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Calma](https://open.spotify.com/album/1c1UsM1NjxmLxlqV9RmPlU) | 3:40 | 2023-09-25 | 2023-10-07 |
 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 | 2022-06-17 | 2022-08-20 |
 | [Calma Filho](https://open.spotify.com/track/73dmTrHDOKT0BA2IK0LPAR) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Calma Filho](https://open.spotify.com/album/6bAGlW13q0y5jvLd6tFGKY) | 4:11 | 2025-10-03 | 2026-01-31 |

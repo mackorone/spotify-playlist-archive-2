@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Nhâm Phương Nam
 
-2,270 songs - 5 day 12 hr 55 min
+2,272 songs - 5 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [Gió](https://open.spotify.com/track/1GgySLIYZ6JMi3M9q0hK7D) | [Jank](https://open.spotify.com/artist/04iRGluzxLz3aZmKTjOvBp) | [Gió](https://open.spotify.com/album/3VeSsUYwi60FAOmFwDMay5) | 4:33 | 2024-12-04 | 2025-01-25 |
 | [Gió \- Official](https://open.spotify.com/track/4YrI4tUJTzqi1hfvICCJPD) | [JanK x N2L](https://open.spotify.com/artist/4o52B6GZw0oZrxVTzfO3hV) | [Gió \(Official\)](https://open.spotify.com/album/1N6qUEJau1cE4DJ7PRKnGg) | 4:37 | 2023-03-20 | 2024-05-15 |
 | [Gió Mùa Đông](https://open.spotify.com/track/288Wft4BXaDqSJtXhytldY) | [Rice](https://open.spotify.com/artist/5cIsqgf4Cd841QGK9jAPMq), [Ringo](https://open.spotify.com/artist/71ykFKqbsq4IHRirOLVrIW) | [Gió Mùa Đông](https://open.spotify.com/album/3nds9fp5RbPDEF6KC9vZjF) | 3:54 | 2025-11-20 |  |
+| [Gió Thoảng Mây Bay](https://open.spotify.com/track/4ztwP2ieonTKCt61gzfPHK) | [NAM](https://open.spotify.com/artist/5coIu2kR2L7OO7YnRcCDWr), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Gió Thoảng Mây Bay](https://open.spotify.com/album/4DxBCsTkhbBguXPyubffI8) | 4:14 | 2026-03-19 |  |
 | [Gió Đông Về](https://open.spotify.com/track/2DEHCbXNbdmYG9vRrj7pWg) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Gió Đông Về](https://open.spotify.com/album/6pbRiPyv3jyWNHRThHAsXf) | 2:50 | 2022-09-22 | 2022-09-30 |
 | [Giả Vờ Yêu](https://open.spotify.com/track/75MrfFS6k8sWflAWjUucSK) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Taki](https://open.spotify.com/artist/3S02OuFY2tDT8xq9eluV3f), [shi](https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ) | [Giả Vờ Yêu](https://open.spotify.com/album/34bmpc00dedXf1xLdAzKNU) | 2:28 | 2023-11-16 | 2023-11-30 |
 | [GIẤC MƠ](https://open.spotify.com/track/6i51QeC3ks08i7vhuyltWR) | [MiQ](https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C) | [GIẤC MƠ](https://open.spotify.com/album/298mMq8CJdmqYPUoGmlvAw) | 1:53 | 2023-10-11 | 2023-11-30 |
@@ -2017,6 +2018,7 @@
 | [Vẽ](https://open.spotify.com/track/5VFDQ3ZVyFMJQUjDOw8otJ) | [LGKH](https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i), [Mouse T](https://open.spotify.com/artist/5aVn5DcjTAe6LMKzgCBMLv) | [Vẽ](https://open.spotify.com/album/6pSPnQyjqp1G5LQsFQPzML) | 3:12 | 2022-02-15 | 2022-03-01 |
 | [Vẽ Em Trong Đầu](https://open.spotify.com/track/3IPeNRdoJ0eLjeGbWkjyab) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Vẽ Em Trong Đầu](https://open.spotify.com/album/5KVPXca8zgqIIqTfcHOdtu) | 2:38 | 2024-02-22 | 2025-03-21 |
 | [vết thương](https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [vết thương](https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF) | 4:21 | 2023-06-29 | 2025-03-28 |
+| [Về](https://open.spotify.com/track/4fPbaClaSzEQTRQ1mILgZb) | [Hạc](https://open.spotify.com/artist/52aq0foMGtr8kyNuhUhZVf) | [Về](https://open.spotify.com/album/206Wzy00E9EDpoONRLBwYk) | 4:43 | 2026-03-19 |  |
 | [Về Nhà](https://open.spotify.com/track/6wzFyW5UiOW7yImf8Z2Jjl) | [Lê Thúy Chi](https://open.spotify.com/artist/6cJGIB6gVKlnrs7n8agF3D) | [Về Nhà](https://open.spotify.com/album/41quo8HdwT5QEZOWsONg7c) | 3:28 | 2025-01-16 | 2025-03-15 |
 | [về nhà ăn cơm](https://open.spotify.com/track/0p5IsaYs1NORTYm9sGdoVE) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Phanh nèe](https://open.spotify.com/artist/7Gw2yW6mWrj0IEDhW9WOQE) | [về nhà ăn cơm](https://open.spotify.com/album/6G0NSG8Qhh94UlJypARzFx) | 4:20 | 2022-06-16 | 2023-01-06 |
 | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/track/2hm0zneWHp95ahOp3tZ4id) | [Bơ](https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi), [D Aces](https://open.spotify.com/artist/60tSwWmk52m7UJXoVDLqYa) | [Về Năm Tháng Sau Này \(feat\. D Aces\)](https://open.spotify.com/album/0DdZXBHIEpZL9wSw876uM4) | 4:39 | 2023-06-07 | 2023-06-30 |

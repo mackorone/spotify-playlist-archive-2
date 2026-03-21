@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: オトコの子育てよももやまばなし\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 12 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 12 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

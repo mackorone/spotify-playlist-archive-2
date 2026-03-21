@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: YUNG DSA
+> Best of Hindi Hip\-Hop! Cover: Encore ABJ
 
-314 songs - 15 hr 54 min
+315 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [KR L$DA SIGN](https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KR L$DA SIGN](https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz) | 8:12 | 2025-01-06 | 2025-02-15 |
 | [KTMN](https://open.spotify.com/track/6FF062JZ63dZnan3kYdfU0) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:36 | 2025-05-16 | 2025-06-28 |
 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 | 2023-03-10 | 2023-10-12 |
+| [Kya Mai Yaha](https://open.spotify.com/track/5ZLmECGuQqlxFBxnQHuTES) | [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [EE](https://open.spotify.com/album/4niW0sRJO9LJMlV3VX4ejd) | 3:45 | 2026-03-20 |  |
 | [Kya Total ?](https://open.spotify.com/track/0OcuQDCk6kiiDKToCAQyJo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kya Total ?](https://open.spotify.com/album/1DaTKK0BBsmC5r6X9f7ztP) | 2:14 | 2025-01-17 | 2025-05-24 |
 | [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2023-12-18 | 2024-10-08 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 | 2025-01-07 |
@@ -228,7 +229,7 @@
 | [PEW PEW!](https://open.spotify.com/track/7zpmshT8nkJEgPnR8XfUdW) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [PEW PEW!](https://open.spotify.com/album/1jTyUrUnZexu0WPbx1tmi0) | 2:21 | 2023-03-10 | 2023-10-12 |
 | [Pilado](https://open.spotify.com/track/4QBZaByPrqWnqe1KzBgHOn) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols) | [Pilado](https://open.spotify.com/album/1cjCwATFB1KNQ5LanBS9CP) | 3:28 | 2024-09-30 | 2024-12-12 |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2024-06-08 |
-| [PISHA](https://open.spotify.com/track/4bJWn4e2WDJrEv1kJrO0WC) | [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [PentHouse Tapes, Vol\. 1](https://open.spotify.com/album/0UxThxnp2R4wDnrJFEWGzP) | 3:05 | 2026-02-13 |  |
+| [PISHA](https://open.spotify.com/track/4bJWn4e2WDJrEv1kJrO0WC) | [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [PentHouse Tapes, Vol\. 1](https://open.spotify.com/album/0UxThxnp2R4wDnrJFEWGzP) | 3:05 | 2026-02-13 | 2026-03-21 |
 | [Podcast](https://open.spotify.com/track/6SorIaYYy2gcxL6ii2ZTWB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:48 | 2025-05-23 |  |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-09-01 | 2025-05-31 |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 | 2025-01-22 |

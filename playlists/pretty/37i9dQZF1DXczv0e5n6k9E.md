@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,814 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,850 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SANKARA](https://open.spotify.com/track/0YJSqoXGkJrnUgV9t8ln4e) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [SANKARA](https://open.spotify.com/album/40pMN8dHtoda3RaBBTf2ma) | 2:30 |
 | 2 | [Enoxoi Kai Athooi](https://open.spotify.com/track/6fOa9jVOwN2WoHl8qplUNr) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Nosfer](https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6) | [Enoxoi Kai Athooi](https://open.spotify.com/album/1HZgQqw1ldTIeCfPGqQMyG) | 3:13 |
 | 3 | [GKD](https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [GKD](https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg) | 3:44 |
-| 4 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
+| 4 | [S 500](https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [S 500](https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7) | 2:47 |
 | 5 | [VROXI](https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:47 |
 | 6 | [NFL](https://open.spotify.com/track/5H8VwlKbwORU3icDM947rK) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [NFL](https://open.spotify.com/album/7x80qM9bLE6TTxUoF8LtpJ) | 2:19 |
 | 7 | [ZELJKO](https://open.spotify.com/track/4TiuDw2IxnpGAYtLDODAbG) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Misk](https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx) | [ZELJKO](https://open.spotify.com/album/4lR1PUDNmeHgR3WwA4GZpv) | 3:29 |

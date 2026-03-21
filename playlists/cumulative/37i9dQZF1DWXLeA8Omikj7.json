@@ -3085,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Civilian World",
+        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456373,
+      "name": "Civilian World",
+      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY"
       },
@@ -20400,7 +20418,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184922,
       "name": "Un pomeriggio di sole mi sono accorto che stavo correndo",
       "url": "https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8"

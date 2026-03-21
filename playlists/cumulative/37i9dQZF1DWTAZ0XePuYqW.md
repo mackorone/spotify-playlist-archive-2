@@ -4,7 +4,7 @@
 
 > Buddy's got that big energy.
 
-629 songs - 1 day 7 hr 24 min
+630 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [6 Million](https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [6 Million](https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL) | 2:34 | 2025-12-05 |  |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-03-15 | 2024-07-27 |
 | [95 South](https://open.spotify.com/track/45Nc6oQkbwLOQ3Os3wTghx) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv) | [95 South](https://open.spotify.com/album/2vq6pGthUZehQCtrToxqYX) | 3:09 | 2025-09-19 |  |
-| [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 | 2025-10-17 |  |
+| [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 | 2025-10-17 | 2026-03-21 |
 | [A7X](https://open.spotify.com/track/7fywVRxevIbDGLWeNEz77I) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [A7X](https://open.spotify.com/album/0IsfDSHweRg9g6AsZYhjFW) | 2:31 | 2024-07-12 | 2024-08-24 |
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2024-07-05 | 2025-01-01 |
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-08-09 | 2025-08-16 |
@@ -337,6 +337,7 @@
 | [Lucky U](https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Lucky U](https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ) | 2:50 | 2025-02-07 | 2025-03-08 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-08-18 | 2023-10-21 |
 | [Mad Dawgs](https://open.spotify.com/track/3kEgs2Z7fv0IUxBtTjnAyl) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Mad Dawgs](https://open.spotify.com/album/6vFcul1OLKllwf1UTfgwKs) | 2:14 | 2023-09-22 | 2023-09-30 |
+| [Make A Sound](https://open.spotify.com/track/7uILpaosUV5mor0ptAyeqg) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Make A Sound](https://open.spotify.com/album/2BTyrkD32cGpsGJ61jjVLZ) | 3:24 | 2026-03-20 |  |
 | [Make It Look Easy](https://open.spotify.com/track/6GyNuUc8zHLQZ2CjLZc2jw) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/1saMPePnFjo76UCp3SxZuN) | 2:19 | 2024-10-04 | 2025-01-01 |
 | [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 | 2024-03-22 | 2024-04-13 |
 | [Make You Mine](https://open.spotify.com/track/3toVjdlPnJzbBhh6qUnyoK) | [Errol Bangz](https://open.spotify.com/artist/4PImuHocsE9Dw18JzVmAgs), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Make You Mine](https://open.spotify.com/album/6P9ZOQhTWV1IPlWjCKMcGZ) | 3:22 | 2026-02-20 | 2026-03-14 |

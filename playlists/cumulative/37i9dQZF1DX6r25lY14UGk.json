@@ -950,7 +950,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 72771,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/3IgubLqJjsarPaI5ZpeWGv"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 122461,
       "name": "Birthday Bonanza - Skye's Music Party",
       "url": "https://open.spotify.com/track/0q4hkNaMQ6B0F8IdFc01mr"
@@ -2338,6 +2338,28 @@
       "duration_ms": 72002,
       "name": "Bubbles Everywhere",
       "url": "https://open.spotify.com/track/1WUJuH92wHK8Zfsvd4myl4"
+    },
+    {
+      "album": {
+        "name": "Buckle Up",
+        "url": "https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Buckle Up",
+      "url": "https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ"
     },
     {
       "album": {
@@ -5432,7 +5454,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 144609,
       "name": "Floor Is Lava",
       "url": "https://open.spotify.com/track/6MjNU15BCzdgQBGLV717Rn"
@@ -7170,7 +7192,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 207859,
       "name": "Head, Shoulders, Knees and Toes (New Version)",
       "url": "https://open.spotify.com/track/04y6e776AppMg4ewT6aX0f"
@@ -8368,7 +8390,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 153692,
       "name": "I Love My Bed",
       "url": "https://open.spotify.com/track/0niSSSl6lQq3eDEbSxoQRO"
@@ -9729,6 +9751,24 @@
     },
     {
       "album": {
+        "name": "The Land Down Under: Australian Children's Songs & Singalongs",
+        "url": "https://open.spotify.com/album/0iELd8eq78xXtbpLCZfmeV"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107530,
+      "name": "Kookaburra (Sits in the Old Gum Tree)",
+      "url": "https://open.spotify.com/track/0ukdvzQmbNnaGYHVWUoEK4"
+    },
+    {
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/5d6LDEZxtzD33l9m6HR2zM"
       },
@@ -10620,7 +10660,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 119801,
       "name": "Little Bird!",
       "url": "https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56"
@@ -12463,6 +12503,24 @@
     },
     {
       "album": {
+        "name": "Oh Susanna",
+        "url": "https://open.spotify.com/album/5sk09uxmlKW3wLaWxv5V4e"
+      },
+      "artists": [
+        {
+          "name": "Martin and Rose Music",
+          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90283,
+      "name": "Oh Susanna",
+      "url": "https://open.spotify.com/track/3B4MnKHd5uWAkKMx9IvVse"
+    },
+    {
+      "album": {
         "name": "Ode To Winter",
         "url": "https://open.spotify.com/album/6ds7LeX71RayLQIj0J0hlL"
       },
@@ -12963,6 +13021,24 @@
     },
     {
       "album": {
+        "name": "Our Floyd",
+        "url": "https://open.spotify.com/album/7vRd0ntz2RWs6fkDCNWbdb"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43454,
+      "name": "Our Floyd",
+      "url": "https://open.spotify.com/track/0sQrQWStlJ4LQdP4cWLa7u"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0DMdkUii6hbvBUPIVEP6XO"
       },
@@ -13036,7 +13112,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 61592,
       "name": "Paint the Alphabet",
       "url": "https://open.spotify.com/track/14bInemKM2sAdy68piV0gK"
@@ -14708,7 +14784,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198232,
       "name": "Shapes Are Fun (Shape Song)",
       "url": "https://open.spotify.com/track/4lSLpzBkFy2rvn3MMYUQ5j"
@@ -14886,6 +14962,36 @@
       "duration_ms": 153400,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/623mhijjASUaftZdCv2jkx"
+    },
+    {
+      "album": {
+        "name": "Show Me Your Sparkle",
+        "url": "https://open.spotify.com/album/1y5cHYfmpJdx5PaKDRub3D"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113266,
+      "name": "Show Me Your Sparkle",
+      "url": "https://open.spotify.com/track/6zMwGSltB57fQ1UmlNQZrm"
     },
     {
       "album": {
@@ -16222,6 +16328,28 @@
       "duration_ms": 208019,
       "name": "Take You With Me",
       "url": "https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud"
+    },
+    {
+      "album": {
+        "name": "Learning Songs for Little Helpers-2-in-1 Vacuum",
+        "url": "https://open.spotify.com/album/0P3EjBi5tbFb8HREHUIKwu"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63974,
+      "name": "Team Up to Cleanup!",
+      "url": "https://open.spotify.com/track/7epkXmNM2c9gJxAU0npxnv"
     },
     {
       "album": {
@@ -17776,6 +17904,24 @@
       "duration_ms": 124370,
       "name": "This is My Face",
       "url": "https://open.spotify.com/track/5c5PPNBpmWLCLQy4VLIi27"
+    },
+    {
+      "album": {
+        "name": "This Is The Way We Wash The Bus",
+        "url": "https://open.spotify.com/album/3zlsMmNU8pbqtRi13cHUcO"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112080,
+      "name": "This Is The Way We Wash The Bus",
+      "url": "https://open.spotify.com/track/6CIyi1uYjBtBm6sFluxEWa"
     },
     {
       "album": {
@@ -19600,7 +19746,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202728,
       "name": "Where is Pumpkin?",
       "url": "https://open.spotify.com/track/4vPaEyJdPLsc1MaAfJotss"

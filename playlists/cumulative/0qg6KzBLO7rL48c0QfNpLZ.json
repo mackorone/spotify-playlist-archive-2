@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/70hKBo3cY1pZtkJ7dpcG95"
+      },
+      "artists": [
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7"
+        },
+        {
+          "name": "Moody Violet",
+          "url": "https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/2Dp4mSIpKt8v8PGu1TvYWk"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/2u5AfWM0K28d6adWEvMOA6"
       },
@@ -3370,7 +3392,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 142142,
       "name": "burn me down",
       "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
@@ -4234,6 +4256,24 @@
       "duration_ms": 144000,
       "name": "Catching Vibes",
       "url": "https://open.spotify.com/track/53FQA7FlsOF9l9azv6nWGu"
+    },
+    {
+      "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
     },
     {
       "album": {
@@ -7856,7 +7896,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -8788,7 +8828,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142105,
       "name": "Feel It Coming",
       "url": "https://open.spotify.com/track/21IoGPoLq9kDAa613Obl7T"
@@ -8854,6 +8894,28 @@
       "duration_ms": 149032,
       "name": "Feeling The Same",
       "url": "https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq"
+    },
+    {
+      "album": {
+        "name": "feelings",
+        "url": "https://open.spotify.com/album/4QxClbii74lGW9dEkRUGKN"
+      },
+      "artists": [
+        {
+          "name": "elloquil",
+          "url": "https://open.spotify.com/artist/1yM3W5PJsXI2CrDC5D59HJ"
+        },
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/3185gG6BldQVBj9RrpDHQH"
     },
     {
       "album": {
@@ -9360,6 +9422,28 @@
       "duration_ms": 170256,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5vl7lho5HYGYCquZL7NUc1"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4zi08V0S2GFuup7mEel0zh"
+      },
+      "artists": [
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130875,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/7clEjhyJm1FD8s0LJ8nC1N"
     },
     {
       "album": {
@@ -12752,7 +12836,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 171262,
       "name": "I like me better",
       "url": "https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ"
@@ -16250,7 +16334,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154285,
       "name": "Lost Inside Your Soul",
       "url": "https://open.spotify.com/track/7w5P4i9uaaGJE5ID7Vo51V"
@@ -17470,6 +17554,24 @@
       "duration_ms": 141521,
       "name": "Miss The Way",
       "url": "https://open.spotify.com/track/43YUXe0cscj0tGOELIWDMs"
+    },
+    {
+      "album": {
+        "name": "miss those nights",
+        "url": "https://open.spotify.com/album/4n7f8nEqGGiVtAY3YZp8zR"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcnn",
+          "url": "https://open.spotify.com/artist/1CLWdsKEaYZAiQAf8iv0vU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "miss those nights",
+      "url": "https://open.spotify.com/track/57oIvbxSqRsOAbyJ7o54fp"
     },
     {
       "album": {
@@ -21728,7 +21830,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 177000,
       "name": "Remember the Days",
       "url": "https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F"
@@ -22442,7 +22544,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -27200,7 +27302,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 118987,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/0YcWHKlu5Oww4XVqmXRqBl"
@@ -28692,7 +28794,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183333,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/4v23Rc1zkB0272ZZHdVnbE"

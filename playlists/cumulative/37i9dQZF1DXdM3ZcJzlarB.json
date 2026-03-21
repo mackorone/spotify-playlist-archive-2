@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Ezequiel Arias",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Mariano Mellino",
   "name": "(AR)",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183870,
       "name": "Attention - Hernan Cattaneo & Mercurio Remix",
       "url": "https://open.spotify.com/track/30DM7ulLASrlTCJFtB624S"
@@ -920,6 +920,28 @@
       "duration_ms": 314543,
       "name": "Bitters and Bread - Agustin Giri Remix",
       "url": "https://open.spotify.com/track/5HK9Tcv2G4Fa37O7b55YaF"
+    },
+    {
+      "album": {
+        "name": "Black Angel",
+        "url": "https://open.spotify.com/album/26GRxOipn8STZRLDUxbEG9"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        },
+        {
+          "name": "Gio Santi",
+          "url": "https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385791,
+      "name": "Black Angel",
+      "url": "https://open.spotify.com/track/3zD7Ae4euGM0lKczQu9fFB"
     },
     {
       "album": {
@@ -4062,7 +4084,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 372000,
       "name": "Mashamba - Zetter Remix",
       "url": "https://open.spotify.com/track/0292XlbvymufABxI846hAH"
@@ -6421,6 +6443,28 @@
     },
     {
       "album": {
+        "name": "The Insanity of Infinity",
+        "url": "https://open.spotify.com/album/3C6C6bs2PBcdurxWS57ewv"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272185,
+      "name": "The Insanity of Infinty - Edit",
+      "url": "https://open.spotify.com/track/2iIpsPRoHMGGjzY4ydEzwz"
+    },
+    {
+      "album": {
         "name": "Unicron | Dominus | the Range",
         "url": "https://open.spotify.com/album/2nLS9mHCj9SlionGnXPOn6"
       },
@@ -6436,7 +6480,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 394000,
       "name": "The Range",
       "url": "https://open.spotify.com/track/5LctNQgYEqdfbRdNLvTsyR"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Kill Safari",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring beastboi.",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154285,
       "name": "6 Million",
       "url": "https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "BIG BANK",
+        "url": "https://open.spotify.com/album/2JW2tcd25LPmcdeuYpzp2d"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "BIG BANK",
+      "url": "https://open.spotify.com/track/2qP8UqVkrnIWxRyotMMlhy"
+    },
+    {
+      "album": {
         "name": "Big Boss (Zomboy Remix)",
         "url": "https://open.spotify.com/album/3DX9xoviUg09WYAVb88dIL"
       },
@@ -2742,6 +2760,24 @@
       "duration_ms": 256000,
       "name": "Big Boss - Zomboy Remix",
       "url": "https://open.spotify.com/track/22HbOaQNUoOQ9jQ5TRpvkD"
+    },
+    {
+      "album": {
+        "name": "Big Sip",
+        "url": "https://open.spotify.com/album/1xXJCK3Dx1l3t2tqP5DOXR"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149172,
+      "name": "Big Sip",
+      "url": "https://open.spotify.com/track/3SoMMKpm0eB3BghB3b5wyM"
     },
     {
       "album": {
@@ -4052,6 +4088,24 @@
       "duration_ms": 166875,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/77elxudyDSnfEGEoEwI5Ix"
+    },
+    {
+      "album": {
+        "name": "BURN ME DOWN",
+        "url": "https://open.spotify.com/album/5a9e9AThAv54dDRZNDBTFU"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "BURN ME DOWN",
+      "url": "https://open.spotify.com/track/2OrxKVkjOlbM19UN2dn4Iu"
     },
     {
       "album": {
@@ -5668,7 +5722,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 216214,
       "name": "Count That",
       "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
@@ -5810,7 +5864,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 214372,
       "name": "CRASH OUT",
       "url": "https://open.spotify.com/track/37SWlw7MnjwthyjTJZKGoy"
@@ -6398,6 +6452,24 @@
       "duration_ms": 267433,
       "name": "Dead To Rights",
       "url": "https://open.spotify.com/track/3xk4odE5KMjlQIDcprWmlO"
+    },
+    {
+      "album": {
+        "name": "LOUD AND FEAR",
+        "url": "https://open.spotify.com/album/6a1F9BtwaSfRCyevrSG2Tl"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223767,
+      "name": "DEATH OF THE WITCH",
+      "url": "https://open.spotify.com/track/1e4l7IbE71XctLch8Shs7i"
     },
     {
       "album": {
@@ -7458,7 +7530,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195692,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/23zzImIajKFyKPlg6vKsbY"
@@ -8332,6 +8404,28 @@
       "duration_ms": 175448,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf"
+    },
+    {
+      "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Echo Chamber",
+      "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
     },
     {
       "album": {
@@ -11761,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "Haunt U",
+        "url": "https://open.spotify.com/album/68S3jN4ql9b8BeyKAHYT5e"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Haunt U",
+      "url": "https://open.spotify.com/track/6BfUa7fkPvlnouBD2oo4yZ"
+    },
+    {
+      "album": {
         "name": "Haxo (Sharks Remix)",
         "url": "https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj"
       },
@@ -12466,7 +12578,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 157714,
       "name": "Hot",
       "url": "https://open.spotify.com/track/58NBDN9oDMisgSlQADVfVA"
@@ -12642,6 +12754,24 @@
       "duration_ms": 187038,
       "name": "Humanoid",
       "url": "https://open.spotify.com/track/1retGwEQw5T9eiQ2Xeo5kJ"
+    },
+    {
+      "album": {
+        "name": "Humid",
+        "url": "https://open.spotify.com/album/0i6hLWaeMkzw4pz4t7DZ4x"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257648,
+      "name": "Humid",
+      "url": "https://open.spotify.com/track/0ZYi6XTTjoOQSDWy8Ubx5x"
     },
     {
       "album": {
@@ -14050,6 +14180,24 @@
       "duration_ms": 153600,
       "name": "JUMP ROPE",
       "url": "https://open.spotify.com/track/6Gqwvd4dxycoKWSJlDtqtz"
+    },
+    {
+      "album": {
+        "name": "JUMPJUMPJUMP",
+        "url": "https://open.spotify.com/album/3pedPU5GGlKmKkEjJOnyaj"
+      },
+      "artists": [
+        {
+          "name": "Flozone",
+          "url": "https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "JUMPJUMPJUMP",
+      "url": "https://open.spotify.com/track/5qr6XkFTvEWX3JnxZJJG3L"
     },
     {
       "album": {
@@ -15784,7 +15932,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 281600,
       "name": "MandelBrock",
       "url": "https://open.spotify.com/track/1Ptnrndbn8iPp4YXFj6VpL"
@@ -15802,7 +15950,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -16134,7 +16282,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 240839,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/38XE264pSJZAwH64l699at"
@@ -16570,6 +16718,24 @@
       "duration_ms": 157808,
       "name": "MOSHPIT",
       "url": "https://open.spotify.com/track/2XV4F7YxRJJLvNpzdobbnB"
+    },
+    {
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/1ezXJ1nqnk8rAJ5jw1r4cZ"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/030zYsWAND0mbLSxPmBuPN"
     },
     {
       "album": {
@@ -17394,6 +17560,24 @@
       "duration_ms": 547285,
       "name": "No Rules",
       "url": "https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1"
+    },
+    {
+      "album": {
+        "name": "No Signal",
+        "url": "https://open.spotify.com/album/1k7yZdnuKtsURDAIcCNH09"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/6vZ36EEaMNq9jGZBrDWFe4"
     },
     {
       "album": {
@@ -19393,6 +19577,32 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4fF88xNdllQSf2CtR7pQiD"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Gardella",
+          "url": "https://open.spotify.com/artist/3CCAetE0sFpegAh0V8xJLf"
+        },
+        {
+          "name": "Al Kapone",
+          "url": "https://open.spotify.com/artist/56LhGRiEVAKCOT162NIQIs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2xbEZ4SVXvjfC7Pmv4MOTP"
+    },
+    {
+      "album": {
         "name": "HOTFIX",
         "url": "https://open.spotify.com/album/1P8X0ymmj8kfLMmxMSfWhB"
       },
@@ -20206,7 +20416,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158082,
       "name": "Real Shit",
       "url": "https://open.spotify.com/track/6mdTEdRhJAvzBcGPsVdLfe"
@@ -20578,7 +20788,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7EMWUzqM2DcnKAiM0iabR1"
@@ -21472,7 +21682,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 243692,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/0DDPijrMHuXaZNpunoHg5q"
@@ -22873,6 +23083,32 @@
     },
     {
       "album": {
+        "name": "SO FAR SO FAKE",
+        "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Manly",
+          "url": "https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX"
+        },
+        {
+          "name": "SweetTooth",
+          "url": "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "SO FAR SO FAKE",
+      "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
+    },
+    {
+      "album": {
         "name": "Sofa Soup",
         "url": "https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs"
       },
@@ -23136,7 +23372,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 245142,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2PFb529GawSghUq9dFJULp"
@@ -23170,6 +23406,24 @@
       "duration_ms": 142000,
       "name": "SOUL - VIP",
       "url": "https://open.spotify.com/track/0lXmfQgODj6QRrKhoU2r3z"
+    },
+    {
+      "album": {
+        "name": "Feral",
+        "url": "https://open.spotify.com/album/5517XF1y4UN5ETOhPz8Ac1"
+      },
+      "artists": [
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/4yfBWFGg46U5zE3WfFst3h"
     },
     {
       "album": {
@@ -24546,6 +24800,24 @@
       "duration_ms": 262805,
       "name": "Take A Trip",
       "url": "https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
     },
     {
       "album": {
@@ -27198,7 +27470,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198857,
       "name": "VILE",
       "url": "https://open.spotify.com/track/4lOT4a0TZ4GadFXgbWJgTe"
@@ -27238,7 +27510,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166714,
       "name": "Voicenote Violence",
       "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
@@ -27440,6 +27712,24 @@
       "duration_ms": 228413,
       "name": "Walk On Water (Wooli & Trivecta Remix)",
       "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
+    },
+    {
+      "album": {
+        "name": "Walk With Giants EP",
+        "url": "https://open.spotify.com/album/2JE1ovKWUdlgRaZL7tFZVA"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Walk With Giants",
+      "url": "https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT"
     },
     {
       "album": {
@@ -28210,10 +28500,28 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 188571,
       "name": "WITCH KING",
       "url": "https://open.spotify.com/track/7k9wcWVeFTJqA0Ahm1OPGL"
+    },
+    {
+      "album": {
+        "name": "Within Cells Interlinked",
+        "url": "https://open.spotify.com/album/1EHRn6t1SjqHmNU0yPnE3B"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282065,
+      "name": "Within Cells Interlinked",
+      "url": "https://open.spotify.com/track/2ZIq0taozbe81UbqyB9yWV"
     },
     {
       "album": {

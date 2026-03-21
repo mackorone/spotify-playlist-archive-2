@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Lihle Xhakaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,542 likes - 98 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,676 likes - 98 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

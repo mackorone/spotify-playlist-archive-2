@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75227,
+  "num_followers": 75231,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
         "name": "Violence",
         "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 161034,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
-        "name": "Left 2 Right",
-        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Left 2 Right",
-      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
-        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
-      },
-      "artists": [
-        {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        },
-        {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
-      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
+        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
+      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Barbera 2026",
-        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
         }
       ],
-      "duration_ms": 243921,
-      "name": "Barbera 2026",
-      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+        "name": "Barbera 2026",
+        "url": "https://open.spotify.com/album/22Nd35GHcvvu4zWZ4Q6WeV"
       },
       "artists": [
         {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+      "duration_ms": 243921,
+      "name": "Barbera 2026",
+      "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
     },
     {
       "added_at": "2026-03-12 13:34:51",

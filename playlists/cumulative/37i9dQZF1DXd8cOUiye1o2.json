@@ -8148,10 +8148,6 @@
         {
           "name": "Jasmine Sandlas",
           "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
       "date_added": "2026-03-17",
@@ -9868,7 +9864,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 279068,
       "name": "O' Romeo",
       "url": "https://open.spotify.com/track/4GbLKY7KHuFOHxSK9xSogs"
@@ -12797,6 +12793,36 @@
     },
     {
       "album": {
+        "name": "Taare",
+        "url": "https://open.spotify.com/album/5q2sil8JDxEPVhjF79hMo3"
+      },
+      "artists": [
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Akbar Wasif",
+          "url": "https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/77HNS6a0sOMZxgF5Jv3I3m"
+    },
+    {
+      "album": {
         "name": "Tabaahi (From \"Toxic\")",
         "url": "https://open.spotify.com/album/3DP9Ds4OfCIkacLBsmJYOg"
       },
@@ -14522,10 +14548,6 @@
         {
           "name": "Jasmine Sandlas",
           "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
       "date_added": "2026-03-19",

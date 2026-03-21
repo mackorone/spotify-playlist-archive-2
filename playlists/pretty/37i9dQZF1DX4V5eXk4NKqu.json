@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168096,
+  "num_followers": 168088,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "BABIECA!",
         "url": "https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 166068,
       "name": "BABIECA!",
       "url": "https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "ULTRA SODADE",
-        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "ya no me llames",
-      "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "El Ritmo",
         "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 169375,
       "name": "Vida Nueva",
       "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "ULTRA SODADE",
+        "url": "https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "ya no me llames",
+      "url": "https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi"
     },
     {
       "added_at": "2026-03-13 04:00:54",

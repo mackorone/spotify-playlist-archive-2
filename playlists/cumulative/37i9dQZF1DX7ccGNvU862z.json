@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SURIYA MQT",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 234000,
       "name": "2 OF 2",
       "url": "https://open.spotify.com/track/7nOvY6HiSQ3vwQBtPWmVjO"
@@ -810,6 +810,32 @@
       "duration_ms": 197787,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/3gDBGo4nC5O7N67FbWt86P"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2egCHcbfk77n0i7sBdglxj"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "FATBOII MQT",
+          "url": "https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O"
+        },
+        {
+          "name": "Migbizzy",
+          "url": "https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219900,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1IKpptd5E4WFpUKbBpmqTl"
     },
     {
       "album": {
@@ -3004,7 +3030,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 203190,
       "name": "Honey Lemon",
       "url": "https://open.spotify.com/track/3RgrQtfdHZTMNrgjWKh6SV"
@@ -7973,6 +7999,28 @@
     },
     {
       "album": {
+        "name": "YSL GIRL",
+        "url": "https://open.spotify.com/album/5ytE3dBSHCAZ1SFIvLeY7p"
+      },
+      "artists": [
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212967,
+      "name": "YSL GIRL",
+      "url": "https://open.spotify.com/track/3VfV03FETvqZ8nlt993mes"
+    },
+    {
+      "album": {
         "name": "Zindaria",
         "url": "https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V"
       },
@@ -9426,7 +9474,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 180500,
       "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e16\u0e36\u0e07\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c",
       "url": "https://open.spotify.com/track/1xlBUoNWzVCWmNyc01wRuM"
@@ -11342,6 +11390,24 @@
       "duration_ms": 202970,
       "name": "\u0e1b\u0e30\u0e1b\u0e4a\u0e32\u0e1b\u0e25\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/6OVeKF5FfqwFywMxu76AyA"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49\u0e19\u0e32\u0e23\u0e35",
+        "url": "https://open.spotify.com/album/2LGm4rBgniJm6u7GrjQJgg"
+      },
+      "artists": [
+        {
+          "name": "IRONBOY",
+          "url": "https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e35\u0e49\u0e19\u0e32\u0e23\u0e35",
+      "url": "https://open.spotify.com/track/3j4d6dkckPIaeU6WOUB2AM"
     },
     {
       "album": {

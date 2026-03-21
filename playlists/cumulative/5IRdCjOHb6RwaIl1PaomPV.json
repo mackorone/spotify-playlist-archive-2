@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Thaiboy Digital, DJ_Dave, Ms* Gloom, MRD, + more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Parris Goebel, Eera, Thaiboy Digital, Thaiboy Digital, + more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186666,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4FruossVF98i2rAN40buon"
@@ -1378,6 +1378,28 @@
       "duration_ms": 121411,
       "name": "As I Break Apart",
       "url": "https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG"
+    },
+    {
+      "album": {
+        "name": "Needle Guy",
+        "url": "https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179986,
+      "name": "Ashley",
+      "url": "https://open.spotify.com/track/09xawpsoP99JGP32qd91oS"
     },
     {
       "album": {
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 344565,
       "name": "choke enough (jamesjamesjames remix)",
       "url": "https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk"
@@ -3796,7 +3818,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218482,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED"
@@ -3998,6 +4020,24 @@
       "duration_ms": 202494,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/4Ji5pXYxvpxIAR87YGGx3Q"
+    },
+    {
+      "album": {
+        "name": "40 De Fiebre",
+        "url": "https://open.spotify.com/album/6dCzLqBhBtf7Blp9oEEDME"
+      },
+      "artists": [
+        {
+          "name": "PETERBLUE",
+          "url": "https://open.spotify.com/artist/1gyRea2i4KWngzrniV5CXz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "DEMBOTRONIC",
+      "url": "https://open.spotify.com/track/4OmwYlWTnSMuHhTkPZBkud"
     },
     {
       "album": {
@@ -4240,6 +4280,24 @@
       "duration_ms": 181346,
       "name": "dirty little secret",
       "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Live Forever",
+        "url": "https://open.spotify.com/album/7Cw8W87SsNb07cTAqBwOwp"
+      },
+      "artists": [
+        {
+          "name": "Erisan",
+          "url": "https://open.spotify.com/artist/2LcjVIPrPkjLpmEa7o2spR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102468,
+      "name": "DJ Boys Chamber",
+      "url": "https://open.spotify.com/track/2qAngdGoqaBmQZ1RchkvjO"
     },
     {
       "album": {
@@ -4702,10 +4760,32 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186266,
       "name": "DONT BREAK MY HEART BABY",
       "url": "https://open.spotify.com/track/3bhUSSXeiOCfcNkKnZ1pvQ"
+    },
+    {
+      "album": {
+        "name": "DONT BREAK MY HEART BABY REMIX",
+        "url": "https://open.spotify.com/album/5jnYMFeZN5PCABegrViuaF"
+      },
+      "artists": [
+        {
+          "name": "Parris Goebel",
+          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190686,
+      "name": "DONT BREAK MY HEART BABY REMIX",
+      "url": "https://open.spotify.com/track/3LE7R0xkfLI6PlCDR5ZUwb"
     },
     {
       "album": {
@@ -4768,6 +4848,24 @@
       "duration_ms": 198906,
       "name": "Double Dip",
       "url": "https://open.spotify.com/track/4FgnMYSKYxYmOrg36Kblqt"
+    },
+    {
+      "album": {
+        "name": "Down Again",
+        "url": "https://open.spotify.com/album/02nfJQ9a1Qrjuajqz63ebB"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Down Again",
+      "url": "https://open.spotify.com/track/5EbVSY9Ftx8kxelsUXDhHf"
     },
     {
       "album": {
@@ -7784,7 +7882,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 330373,
       "name": "i fall apart - Tiga Remix",
       "url": "https://open.spotify.com/track/6TL8tZLvAb72lc1ZYqdRfT"
@@ -9082,7 +9180,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 219317,
       "name": "L.L.L",
       "url": "https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE"
@@ -9862,6 +9960,28 @@
       "duration_ms": 188307,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6"
+    },
+    {
+      "album": {
+        "name": "The Velvet Underground & Rowan",
+        "url": "https://open.spotify.com/album/49DyveBbRwP91OrmnVosdf"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        },
+        {
+          "name": "Rowan Please",
+          "url": "https://open.spotify.com/artist/5h8WnKGTQVO9PUOZ97lZl8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215331,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/7rgWNlWTf1vFpsLZ7Grxn3"
     },
     {
       "album": {
@@ -10821,6 +10941,28 @@
     },
     {
       "album": {
+        "name": "Bleached",
+        "url": "https://open.spotify.com/album/3fm5uEHogwcjhaWsR4RboN"
+      },
+      "artists": [
+        {
+          "name": "R\u00eaves",
+          "url": "https://open.spotify.com/artist/1krXBnKRxsQB20MElmeQJX"
+        },
+        {
+          "name": "losers!",
+          "url": "https://open.spotify.com/artist/6zGZKTlP4qZ2sVivbxO3KO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133072,
+      "name": "my world",
+      "url": "https://open.spotify.com/track/6SKx1auoeFDF3MKkDYw5gZ"
+    },
+    {
+      "album": {
         "name": "N.U.M.T.E.",
         "url": "https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS"
       },
@@ -10970,7 +11112,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 179560,
       "name": "Needle Guy",
       "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
@@ -12260,7 +12402,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 109736,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/1omEOI34eOMZ1ycCUvFijv"
@@ -14472,7 +14614,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 229253,
       "name": "Sinai Ray",
       "url": "https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ"
@@ -14938,6 +15080,28 @@
       "duration_ms": 241133,
       "name": "Spelling",
       "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "album": {
+        "name": "Bleached",
+        "url": "https://open.spotify.com/album/3fm5uEHogwcjhaWsR4RboN"
+      },
+      "artists": [
+        {
+          "name": "R\u00eaves",
+          "url": "https://open.spotify.com/artist/1krXBnKRxsQB20MElmeQJX"
+        },
+        {
+          "name": "eleno",
+          "url": "https://open.spotify.com/artist/69uQb8icTABExmglGqQ9fS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120294,
+      "name": "SSRI",
+      "url": "https://open.spotify.com/track/2F6WDzqAk24IvRtfj7A6Lm"
     },
     {
       "album": {
@@ -18062,6 +18226,24 @@
       "duration_ms": 191484,
       "name": "\u6c92\u95dc\u4fc2 it\u2019s okay!!",
       "url": "https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO"
+    },
+    {
+      "album": {
+        "name": "di\u01ceo",
+        "url": "https://open.spotify.com/album/6PIK0ovNBOChRZwfIrGa1N"
+      },
+      "artists": [
+        {
+          "name": "Billionhappy",
+          "url": "https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132064,
+      "name": "\u9634\u6697B",
+      "url": "https://open.spotify.com/track/2a8q7i7CkOL5PyrlIA1i9H"
     },
     {
       "album": {

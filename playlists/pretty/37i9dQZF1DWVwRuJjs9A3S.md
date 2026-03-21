@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Augustine
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,937 likes - 262 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,963 likes - 262 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somewhere](https://open.spotify.com/track/33GhS4aDA3036FKlzHUu1q) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Somewhere](https://open.spotify.com/album/5LwoJZrIwyx1y88Cj2Al6S) | 3:12 |
 | 2 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
 | 3 | [Longing To Miss You](https://open.spotify.com/track/4f9COiymGtHKXm8ViDzHMf) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Longing To Miss You](https://open.spotify.com/album/1IIz4fmRzdzjBRrmAjMP8z) | 3:51 |
-| 4 | [Track 2](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 0:00 |
+| 4 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 5 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
 | 6 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
 | 7 | [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 |

@@ -2,9 +2,9 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Ezzy R
+> Los éxitos del Dembow.
 
-418 songs - 19 hr 44 min
+419 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [PAM](https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAM](https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U) | 3:21 | 2021-11-19 | 2022-03-18 |
 | [PAM](https://open.spotify.com/track/7uF2XRp2srFB1mvTMEChoh) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:21 | 2023-02-09 | 2023-08-04 |
 | [PANTI Y COLALE](https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM) | [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [PANTI Y COLALE](https://open.spotify.com/album/3gufpvtEIFABgDJZjAvgzw) | 2:32 | 2026-01-23 |  |
+| [PANTI Y COLALE 2.0](https://open.spotify.com/track/11mDIi9MNeOXoeSqiYQnWI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu), [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX) | [PANTI Y COLALE 2.0](https://open.spotify.com/album/4uG8w5nxJNBtZnQ9VFP3ep) | 4:39 | 2026-03-20 |  |
 | [Papi Abusa](https://open.spotify.com/track/5OIk9Zys8phUxhhiicRJE4) | [La Demente](https://open.spotify.com/artist/7C56RAv2RXvLeRc8r9Yz7o), [La Sadica](https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A) | [Papi Abusa](https://open.spotify.com/album/0xC7uU6R7xFSFpnCAFcC6X) | 2:46 | 2023-05-26 | 2023-08-04 |
 | [Perra](https://open.spotify.com/track/3xD6kwkNjCTEKvMT5zgHAx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Perra](https://open.spotify.com/album/1CXKTe16rgSx0qBxdbtRlh) | 2:38 | 2021-11-19 | 2022-03-18 |
 | [Perrita](https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Perrita](https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd) | 2:31 | 2023-05-26 | 2023-06-28 |

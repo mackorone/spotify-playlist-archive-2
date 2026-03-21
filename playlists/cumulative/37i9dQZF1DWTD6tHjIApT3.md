@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 吉澤嘉代子 Kayoko Yoshizawa
 
-3,731 songs - 9 day 21 hr 47 min
+3,732 songs - 9 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Aru Ennichi No Hanashi](https://open.spotify.com/track/0rUwTNGUlST1AEGJS8q81W) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Aru Ennichi No Hanashi](https://open.spotify.com/album/45O6TYieduf75UshtMfvZr) | 4:40 | 2025-09-03 | 2025-09-10 |
 | [Ashes](https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Ashes](https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo) | 3:20 | 2023-11-07 | 2025-07-09 |
 | [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Ashita Tenki Ni Nare \(Cover\)](https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR) | 4:29 | 2023-11-14 | 2023-11-22 |
+| [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/album/6KkZytxXWIr5t9d45H1bih) | 3:25 | 2026-03-17 |  |
 | [At the End of the Live](https://open.spotify.com/track/5f789mmiPS5TCKixFZ2U8y) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [At the End of the Live](https://open.spotify.com/album/09vz9pVxdpUF6LraBsUSbM) | 4:31 | 2023-08-08 | 2023-08-16 |
 | [Atashi no Koibito](https://open.spotify.com/track/4XSwEre2dU71LqISpVQyS0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Atashi no Koibito](https://open.spotify.com/album/18co3GDmsoL1A2frzjnihF) | 5:00 | 2025-11-11 | 2025-11-26 |
 | [Attitude](https://open.spotify.com/track/2QkUMY3sJQHcc6IR4PcaFy) | [NENE](https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo), [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK), [4410](https://open.spotify.com/artist/2VSV6W0KsQIHrbw7elJUZm) | [Attitude](https://open.spotify.com/album/5qQunsrqH33znkPtAzflcK) | 3:22 | 2024-01-16 | 2024-01-24 |
@@ -3025,7 +3026,7 @@
 | [命にふさわしい](https://open.spotify.com/track/6oPxAp4sGNnWnd1BNNQp1J) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate\(Special Edition\)](https://open.spotify.com/album/4Ct6sYCEbQHNkMiBk3zV3J) | 5:52 | 2023-02-28 | 2023-05-24 |
 | [命日](https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [命日](https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui) | 3:21 | 2023-08-10 | 2024-12-05 |
 | [問.1](https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [問.1](https://open.spotify.com/album/6rceF7Zl8hpcZYiXGNIgg4) | 3:51 | 2024-02-13 | 2024-02-15 |
-| [喫茶ドエル](https://open.spotify.com/track/1fW0qkyx8uHG7NsRh5GmtI) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [喫茶ドエル](https://open.spotify.com/album/75J0VDy8yNgc00CbsiRzv1) | 4:35 | 2026-02-17 |  |
+| [喫茶ドエル](https://open.spotify.com/track/1fW0qkyx8uHG7NsRh5GmtI) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [喫茶ドエル](https://open.spotify.com/album/75J0VDy8yNgc00CbsiRzv1) | 4:35 | 2026-02-17 | 2026-03-21 |
 | [嘘](https://open.spotify.com/track/4OG5eKOHXUAYRKluAeXU8p) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [嘘](https://open.spotify.com/album/4ZVmsubmaVI5uFvOUs52kk) | 5:06 | 2025-07-15 | 2025-07-23 |
 | [嘘つき](https://open.spotify.com/track/0CaK41fIguCATIPHV2Yau1) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [嘘つき](https://open.spotify.com/album/2rfCdxN23vdebt3daHiK5X) | 3:37 | 2023-01-10 | 2023-01-12 |
 | [嘘つき。](https://open.spotify.com/track/5Qaeq2bvHc1xzuuaCB3xDF) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [嘘つき。](https://open.spotify.com/album/1UzF6LsgGWXsWisnnXSyfC) | 3:27 | 2025-07-08 | 2025-07-15 |

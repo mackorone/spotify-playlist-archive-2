@@ -2,7 +2,7 @@
 
 ### [poses](https://open.spotify.com/playlist/37i9dQZF1DWYL0r9y5K9qt)
 
-> time to strike a couple of poses\. cover: HANA
+> time to strike a couple of poses\. cover: no na
 
 50 songs - 2 hr 30 min
 

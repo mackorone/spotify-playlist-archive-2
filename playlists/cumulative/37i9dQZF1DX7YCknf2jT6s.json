@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Walter Smith III",
+  "description": "New jazz for open minds. Cover: SPINALL",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1364,6 +1364,36 @@
       "duration_ms": 222741,
       "name": "Alien Love Call",
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "album": {
+        "name": "Alkebulan",
+        "url": "https://open.spotify.com/album/34NGzvrsgf0tpVyGILN9sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Nero",
+          "url": "https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m"
+        },
+        {
+          "name": "Sean Jones",
+          "url": "https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6"
+        },
+        {
+          "name": "Warren Wolf",
+          "url": "https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489093,
+      "name": "Alkebulan",
+      "url": "https://open.spotify.com/track/5fTIxOm94RyAgkKtmSzdUB"
     },
     {
       "album": {
@@ -5318,7 +5348,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186493,
       "name": "Body Flows",
       "url": "https://open.spotify.com/track/7upfL0aBLyS0Et87s2dhP0"
@@ -22523,6 +22553,24 @@
     },
     {
       "album": {
+        "name": "When Lagos Sleeps",
+        "url": "https://open.spotify.com/album/3MTAJWcFRUAfH3FF4E96wp"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "Metric Rules",
+      "url": "https://open.spotify.com/track/2IF9pQyd0K1BV7OC0Z2a0n"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA"
       },
@@ -26480,7 +26528,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 452533,
       "name": "Osawatomie Brown",
       "url": "https://open.spotify.com/track/6xwyZfZeXe5mMi3vg91qxe"
@@ -28998,7 +29046,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 254200,
       "name": "Red Herring",
       "url": "https://open.spotify.com/track/3IpC0acr0nUhVtyud4Obj5"
@@ -31668,6 +31716,48 @@
       "duration_ms": 190357,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV"
+    },
+    {
+      "album": {
+        "name": "Sister Annie",
+        "url": "https://open.spotify.com/album/6NXYfUiqNJl5sOIYxovlox"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Burniss Travis",
+          "url": "https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Rane Moore",
+          "url": "https://open.spotify.com/artist/2J8IfJdj7z7BwB1SwLlNBe"
+        },
+        {
+          "name": "Zekkereya El-Magharbel",
+          "url": "https://open.spotify.com/artist/7KimbJw1zGH4bOmvKt6BaF"
+        },
+        {
+          "name": "Sara Caswell",
+          "url": "https://open.spotify.com/artist/5vWTZJJWBwmB2b5Nl2FWxm"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350295,
+      "name": "Sister Annie",
+      "url": "https://open.spotify.com/track/3asAyVx1OdynBHNWGRiQis"
     },
     {
       "album": {
@@ -37841,6 +37931,28 @@
     },
     {
       "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/3ehJxu0Y4xuXMJyaYCpv0a"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
+    },
+    {
+      "album": {
         "name": "Three Over Steel",
         "url": "https://open.spotify.com/album/71LycHvB1Bi0sCQM1ka5z1"
       },
@@ -41144,7 +41256,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 352986,
       "name": "Who Does She Hope to Be?",
       "url": "https://open.spotify.com/track/4bm49j9mk23myMntpAdx88"

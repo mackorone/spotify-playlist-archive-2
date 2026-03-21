@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Alex Sampson",
+  "description": "Featuring that new vintage. Cover: KELS",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 232957,
       "name": "4321",
       "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
+    },
+    {
+      "album": {
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
     },
     {
       "album": {
@@ -756,7 +774,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 188708,
       "name": "Big Dipper",
       "url": "https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr"
@@ -2397,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
+      "album": {
         "name": "Those Days Are Over",
         "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
       },
@@ -2986,7 +3022,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 153147,
       "name": "Gloves Off",
       "url": "https://open.spotify.com/track/5nQ2G1VANbt39RrsLAPU5k"
@@ -5287,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Game",
+        "url": "https://open.spotify.com/album/1hfihH9BfIrUxpueRVvUL9"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198971,
+      "name": "Love Is A Game",
+      "url": "https://open.spotify.com/track/3SlQR2O64JKUr15Kc69QJ2"
+    },
+    {
+      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -5334,7 +5388,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 175040,
       "name": "LOVE NEVER FELT LIKE THIS",
       "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
@@ -6392,10 +6446,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182777,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
+    },
+    {
+      "album": {
+        "name": "One Man Show",
+        "url": "https://open.spotify.com/album/6oscsOnAngFyFbJdWCBN0t"
+      },
+      "artists": [
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122011,
+      "name": "One Man Show",
+      "url": "https://open.spotify.com/track/4HjHoX3EAOmqlx6Ewo05JE"
     },
     {
       "album": {
@@ -6724,6 +6796,24 @@
       "duration_ms": 228300,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV"
+    },
+    {
+      "album": {
+        "name": "Phone Sick",
+        "url": "https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168284,
+      "name": "Phone Sick",
+      "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
     },
     {
       "album": {
@@ -7566,7 +7656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168169,
       "name": "Slippin' (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"

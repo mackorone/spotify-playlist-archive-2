@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-666 songs - 1 day 1 hr 20 min
+668 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-05-20 | 2023-01-18 |
 | [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 | 2024-11-30 |
 | [Coffee Break](https://open.spotify.com/track/23UKeemGHRBC176rqCdXFf) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Coffee Break](https://open.spotify.com/album/1sSjxVFT7qGDpAXtvsIwzc) | 2:25 | 2022-06-24 | 2022-08-12 |
-| [Coffee Shop](https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Coffee Shop](https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy) | 2:15 | 2023-11-17 |  |
+| [Coffee Shop](https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Coffee Shop](https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy) | 2:15 | 2023-11-17 | 2026-03-21 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2022-05-20 | 2022-07-28 |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-05-20 | 2022-05-27 |
 | [Concrete Jungle](https://open.spotify.com/track/1KVGi88GgnpBrzMyxQ294K) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Concrete Jungle](https://open.spotify.com/album/4NB4pDVROwqFP8NapsjNQa) | 2:05 | 2022-05-20 | 2023-12-14 |
@@ -154,6 +154,7 @@
 | [Days and Daze](https://open.spotify.com/track/6W1OgysIrz7HEHskFh9mZo) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Days and Daze](https://open.spotify.com/album/3TqZsarn2tKEZAlini4bUa) | 2:33 | 2022-10-07 | 2023-11-11 |
 | [days spent](https://open.spotify.com/track/2GquJbENhdzM0oz7RC4f6z) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [days spent](https://open.spotify.com/album/1LUbMxU9pgwgJmA3dXbf62) | 2:12 | 2026-02-27 |  |
 | [December Memories](https://open.spotify.com/track/2PAM3f7fOnrhD2tPBTFRMK) | [Lowe's Retreat](https://open.spotify.com/artist/78KJQ43QeEkGH3o3M15nmc) | [December Memories](https://open.spotify.com/album/2ejaixxctPnzJaRvyFeYv0) | 2:30 | 2026-02-27 |  |
+| [Decompress](https://open.spotify.com/track/3BNoMy0u092OajyerwYxOb) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Decompress](https://open.spotify.com/album/3bgqF1wb2MA8N3y6LG5faF) | 2:41 | 2026-03-20 |  |
 | [Dewdrop Lemonade](https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Dewdrop Lemonade](https://open.spotify.com/album/1sn5fGZMA3XAEp7rSv9GMY) | 3:26 | 2022-05-20 | 2023-01-18 |
 | [disentanglement](https://open.spotify.com/track/5aA8y3w8ePaPHKXga359os) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [disentanglement](https://open.spotify.com/album/1SnLjMh0VEMhNy1vNV6sDG) | 2:51 | 2022-05-20 | 2023-01-18 |
 | [Distance](https://open.spotify.com/track/42wsxrrkw6FYYxr01zcNjr) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2) | [Distance](https://open.spotify.com/album/2VkH7cE7KaixemQDFy3nkU) | 2:34 | 2022-10-28 | 2026-02-28 |
@@ -412,6 +413,7 @@
 | [Nightlife](https://open.spotify.com/track/5pNymjpdXwHQT5OGySLBY2) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/65ucCggEYsbO8WD7S1IRv0) | 2:28 | 2022-11-11 | 2023-09-26 |
 | [Nightlife](https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Nightlife](https://open.spotify.com/album/3jg7PqzDvVpYXHVBiTEuSg) | 2:28 | 2022-08-05 | 2022-11-24 |
 | [Nightride](https://open.spotify.com/track/04ZygyV7zj4h9rdsGzA9gY) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Love Garden](https://open.spotify.com/album/0t7ZFdtrYUYRoRSi2Hoi86) | 2:48 | 2023-09-04 | 2023-09-09 |
+| [Nights Alone](https://open.spotify.com/track/02rjCBbqDQNqylHggqpl3s) | [moat](https://open.spotify.com/artist/7CBHODCZmzwYesarlSnT2I), [oxinym](https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3) | [Nights Alone](https://open.spotify.com/album/2j6E6lD60Baf1XRDHSE7Nh) | 1:50 | 2026-03-20 |  |
 | [Nighttime](https://open.spotify.com/track/2lCvlRPnecviTrOhgBpSV5) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Nighttime](https://open.spotify.com/album/1TFgsZLJn3vXjIBIBh9BA8) | 2:05 | 2023-04-11 | 2026-02-28 |
 | [nighttimez](https://open.spotify.com/track/6j5nBipBPT7wS8p8p2QZme) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [nighttimez](https://open.spotify.com/album/26o8cVWkrGSR55JnJSZxuo) | 1:51 | 2022-11-11 | 2026-02-28 |
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-09-13 |  |
@@ -566,7 +568,7 @@
 | [Spring](https://open.spotify.com/track/6cJfHtuwlYUWGjTOX043nO) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Spring](https://open.spotify.com/album/7kFlSTK73VozCSMqFrgViG) | 2:04 | 2023-03-27 | 2023-09-26 |
 | [STAY](https://open.spotify.com/track/4AkYE76Uj7dKOxMIwhAvzM) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [STAY](https://open.spotify.com/album/59JQndLzvvgsUofRCI9AFz) | 2:28 | 2022-09-30 | 2026-02-28 |
 | [Stay On the Couch](https://open.spotify.com/track/4GbNa88PqcIrsAfKcxV2SF) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:22 | 2022-06-10 | 2022-09-09 |
-| [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 | 2023-09-22 |  |
+| [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 | 2023-09-22 | 2026-03-21 |
 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 | 2024-11-21 |  |
 | [Stormy Weather](https://open.spotify.com/track/48RlLNUMdp0CLXxwvGvwYh) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Stormy Weather](https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG) | 2:15 | 2022-08-12 | 2023-09-26 |
 | [Subway Signs](https://open.spotify.com/track/0xchuOuU0MqjKaUrzIPrCv) | [Pepper and Po](https://open.spotify.com/artist/5lLoKN0MlrFNTK3feEZPkR) | [Breaking News](https://open.spotify.com/album/1tiSY3V1uZ4lCkdqArnV5N) | 3:03 | 2022-05-20 | 2022-09-17 |

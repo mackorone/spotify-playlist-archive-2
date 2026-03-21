@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 277523,
       "name": "2AM Massive",
       "url": "https://open.spotify.com/track/3KDy3CGmtaRNsSRF8rhe5a"
@@ -11429,6 +11429,24 @@
     },
     {
       "album": {
+        "name": "Music Is Moving / Kataklisma",
+        "url": "https://open.spotify.com/album/2OUpnjcRCKNX9k44J2bUtr"
+      },
+      "artists": [
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278838,
+      "name": "Music Is Moving",
+      "url": "https://open.spotify.com/track/6dgQdSWXtRENcRv4t05lFA"
+    },
+    {
+      "album": {
         "name": "Must Be Dead",
         "url": "https://open.spotify.com/album/3A3Bs0yt2n4u0WepLtlX76"
       },
@@ -12372,7 +12390,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 355890,
       "name": "Onda",
       "url": "https://open.spotify.com/track/4tHMwlnLreWjSR3rPQ2Vsr"
@@ -13439,6 +13457,24 @@
     },
     {
       "album": {
+        "name": "Telling The Time",
+        "url": "https://open.spotify.com/album/4ZMPCliv4FkxkJaD9d7LK4"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280388,
+      "name": "Proximity Warning",
+      "url": "https://open.spotify.com/track/2lioB3iZCVAqe41HMjI6EQ"
+    },
+    {
+      "album": {
         "name": "Pulgueiro Baile",
         "url": "https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz"
       },
@@ -14398,7 +14434,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 226590,
       "name": "RUFFEST",
       "url": "https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE"
@@ -17929,6 +17965,32 @@
     },
     {
       "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/6c71BuL3MOkmWkbheuufOq"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        },
+        {
+          "name": "ReniGAD",
+          "url": "https://open.spotify.com/artist/57sumTgxSpKI0Su0ggOtl3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/2u2HSZRnDeS3mTT5rij0Pu"
+    },
+    {
+      "album": {
         "name": "Club Soda, Vol. 2",
         "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
       },
@@ -18534,6 +18596,24 @@
       "duration_ms": 288158,
       "name": "Werk It Out",
       "url": "https://open.spotify.com/track/4bMqLGgyCXd8dOhUucRGaq"
+    },
+    {
+      "album": {
+        "name": "Wetlands",
+        "url": "https://open.spotify.com/album/0fZuTmaZYlVqHNxZbfD7bR"
+      },
+      "artists": [
+        {
+          "name": "Neida",
+          "url": "https://open.spotify.com/artist/6B19mPGcc9M5LmRwJLVhys"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297931,
+      "name": "Wetlands",
+      "url": "https://open.spotify.com/track/02P4KiZ1Z0tujN6TjheJn3"
     },
     {
       "album": {
@@ -19316,7 +19396,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 372355,
       "name": "You Should Think Ahead",
       "url": "https://open.spotify.com/track/545JYgtVRRFHf9EcYovxGC"

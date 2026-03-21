@@ -2,9 +2,9 @@
 
 ### [Dance Paradise](https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT)
 
-> Eletrônico do momento para curtir onde estiver\. Foto: Gabss
+> Eletrônico do momento para curtir onde estiver\. Foto: Alok, Khalid
 
-862 songs - 1 day 23 hr 36 min
+864 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Acid Britney](https://open.spotify.com/track/0BrT12hdMJx2ypBjEAnCEo) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [Acid Britney](https://open.spotify.com/album/6DG3I41RW6nabMl3TWiCcn) | 3:45 | 2026-03-06 |  |
 | [Acid Peppers](https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Acid Peppers](https://open.spotify.com/album/6oka5q4Rg2o2wOWQ2Jzzei) | 2:49 | 2023-10-20 | 2024-02-24 |
 | [Act Up \(Bad Boy\)](https://open.spotify.com/track/5JZEGDRku2HNfcGohxRp7o) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Act Up \(Bad Boy\)](https://open.spotify.com/album/7DtNrZ86VI4vPXloVlmZGs) | 3:00 | 2025-10-03 | 2026-01-24 |
+| [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-20 |  |
 | [Activated](https://open.spotify.com/track/1Ns2Ucfg64nvKFLZ7KtY9h) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Sifa](https://open.spotify.com/artist/7q1ExqmvA5vWGGmkXs1rL3), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [Activated](https://open.spotify.com/album/5n8hYQR4wuXgVxkVxSz8kh) | 3:05 | 2024-01-26 | 2024-02-24 |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-03-29 | 2024-04-27 |
 | [Addicted \- Argy & Omnya Remix](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(Argy & Omnya Remix\)](https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ) | 2:22 | 2025-04-01 | 2025-07-12 |
@@ -97,7 +98,7 @@
 | [Beggin' \- ZAC Remix](https://open.spotify.com/track/1NpBHGPBlC191Nx40nWAU4) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Beggin' \(ZAC Remix\)](https://open.spotify.com/album/33YxPl0rbDdi1tp4yQBmXE) | 3:06 | 2025-06-20 | 2025-10-03 |
 | [Begging For Healing](https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Patrus](https://open.spotify.com/artist/6B3adjXTdWVjypvXfYnR8D) | [Begging for Healing](https://open.spotify.com/album/2FH3Uiw6KBcTpSiFYtXeMQ) | 3:39 | 2024-04-19 | 2024-07-13 |
 | [Believe](https://open.spotify.com/track/6k7jFZVd514FE8EjMIcosg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Believe](https://open.spotify.com/album/2WYyVhWlTNxhjhOdl2DEq1) | 3:05 | 2024-09-27 | 2025-01-25 |
-| [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 | 2025-12-12 |  |
+| [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 | 2025-12-12 | 2026-03-21 |
 | [BENDAI](https://open.spotify.com/track/54f3sDAW39cx4gp49yvOte) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [BENDAI](https://open.spotify.com/album/53vV4VGldrLsNgcPwh6FRW) | 4:33 | 2024-03-22 | 2024-06-15 |
 | [Better Together](https://open.spotify.com/track/4l3oc6geC2DGxqt4G1KvQQ) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL) | [Better Together](https://open.spotify.com/album/6FbJYgs69DIOjy0rGFHnI6) | 2:51 | 2024-03-22 | 2024-04-06 |
 | [Bhajare \- Juicce Remix](https://open.spotify.com/track/69gW5UK6fhWE7j2tAkGgOz) | [Pandora](https://open.spotify.com/artist/1vkTF1jlPj9F6rTj9MGE4z), [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Bhajare \(Juicce Remix\)](https://open.spotify.com/album/5jC8jdB25j99s5eHomgGkJ) | 2:47 | 2025-06-13 | 2025-09-26 |
@@ -202,6 +203,7 @@
 | [Disco Shit](https://open.spotify.com/track/6Od1L6369vboOOofSij7mj) | [Vittor](https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud), [ONNE](https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X) | [Disco Shit](https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo) | 2:52 | 2024-10-04 | 2025-02-04 |
 | [Discoteca](https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1) | [Discoteca](https://open.spotify.com/album/7tIAvslj952cLo668DGrW0) | 3:16 | 2026-03-13 |  |
 | [Discoteka](https://open.spotify.com/track/3tUiMhJqIAdOkSGOpShMvM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Discoteka](https://open.spotify.com/album/54fmNFU9dyORi1EsiEAlwP) | 3:21 | 2026-02-20 |  |
+| [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 | 2026-03-20 |  |
 | [DJ Do Baile](https://open.spotify.com/track/3XBzkhOKknT5ZNRckkd7Ss) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [DJ Do Baile](https://open.spotify.com/album/4QOWUDSQxL5eNxVLjXQTcf) | 3:19 | 2024-03-22 | 2024-06-15 |
 | [DNA](https://open.spotify.com/track/4BpJJMVKSVn0YTmuiivZEQ) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Future Skies](https://open.spotify.com/artist/2QsiOG21qF7v7rmQUqt3gB) | [DNA](https://open.spotify.com/album/530W67dkT14ITyrTAy1kcO) | 2:55 | 2025-05-02 | 2025-08-15 |
 | [Do You](https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Do You EP](https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb) | 3:41 | 2025-07-25 | 2025-10-10 |

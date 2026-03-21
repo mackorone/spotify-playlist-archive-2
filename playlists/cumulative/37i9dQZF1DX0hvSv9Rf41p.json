@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Chase & Status + Pozer",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Rezz",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -994,6 +994,24 @@
       "duration_ms": 257118,
       "name": "ALL I NEED",
       "url": "https://open.spotify.com/track/5veuEV1GRASKLad3lJwQxJ"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6ORndvIKBEyjyYkvauXtMq"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/00PY9WzRFF4inMX6Fg0iwd"
     },
     {
       "album": {
@@ -4409,6 +4427,28 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158873,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
+    },
+    {
+      "album": {
         "name": "BORN TO DIE",
         "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
       },
@@ -4508,7 +4548,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 143355,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6vHfUI3h2F3PLc359w6Lwv"
@@ -5159,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "BURN ME DOWN",
+        "url": "https://open.spotify.com/album/5a9e9AThAv54dDRZNDBTFU"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "BURN ME DOWN",
+      "url": "https://open.spotify.com/track/2OrxKVkjOlbM19UN2dn4Iu"
+    },
+    {
+      "album": {
         "name": "CHIAROSCURO",
         "url": "https://open.spotify.com/album/4WZZKZdnofkrCK6oKVGM0h"
       },
@@ -5466,7 +5524,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 226285,
       "name": "Camden Town",
       "url": "https://open.spotify.com/track/4TJ9I70nxKFjNKZCditijv"
@@ -5594,6 +5652,28 @@
       "duration_ms": 150110,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
+    },
+    {
+      "album": {
+        "name": "Candy P",
+        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Mr Candy Kazu",
+          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146517,
+      "name": "Candy P",
+      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
     },
     {
       "album": {
@@ -7823,6 +7903,24 @@
     },
     {
       "album": {
+        "name": "LOUD AND FEAR",
+        "url": "https://open.spotify.com/album/6a1F9BtwaSfRCyevrSG2Tl"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223767,
+      "name": "DEATH OF THE WITCH",
+      "url": "https://open.spotify.com/track/1e4l7IbE71XctLch8Shs7i"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -8846,7 +8944,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
@@ -9898,6 +9996,28 @@
       "duration_ms": 175448,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5MTVFDootgaqUVyUourtIf"
+    },
+    {
+      "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Echo Chamber",
+      "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
     },
     {
       "album": {
@@ -15248,7 +15368,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 168000,
       "name": "hey lil mama",
       "url": "https://open.spotify.com/track/5Rv4GkCbfSfCADhXO4fmQf"
@@ -16514,6 +16634,28 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "album": {
+        "name": "i go hard",
+        "url": "https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "i go hard",
+      "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
     },
     {
       "album": {
@@ -18060,7 +18202,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 195200,
       "name": "Keep Your Hands Up",
       "url": "https://open.spotify.com/track/1XbM0X7ZhS9qMcW6ddKyuo"
@@ -20008,7 +20150,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 256285,
       "name": "Lotis Eater",
       "url": "https://open.spotify.com/track/4RV0l2NdRR6cZ6SWqneFvx"
@@ -21615,6 +21757,24 @@
     },
     {
       "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/1ezXJ1nqnk8rAJ5jw1r4cZ"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/030zYsWAND0mbLSxPmBuPN"
+    },
+    {
+      "album": {
         "name": "Move Back",
         "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
       },
@@ -22798,7 +22958,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 192000,
       "name": "Nobody Else (with Kaleena Zanders)",
       "url": "https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs"
@@ -24922,7 +25082,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 144000,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/4aYB6rQFGFLwQLMiM5OSJC"
@@ -25874,7 +26034,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182758,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3nGa8a9cYTLCpLrhpoAOoV"
@@ -29365,6 +29525,24 @@
     },
     {
       "album": {
+        "name": "SICK FUCK",
+        "url": "https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153818,
+      "name": "SICK FUCK",
+      "url": "https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ"
+    },
+    {
+      "album": {
         "name": "Breakdown / Side2Side",
         "url": "https://open.spotify.com/album/2gJB3z8HdE0Oy2Qz9sVRlc"
       },
@@ -30362,7 +30540,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 178285,
       "name": "SPIRAL",
       "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
@@ -31862,7 +32040,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 135692,
       "name": "T.A.S.T.E.",
       "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
@@ -31958,6 +32136,24 @@
       "duration_ms": 228800,
       "name": "Take 2",
       "url": "https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
     },
     {
       "album": {
@@ -33882,7 +34078,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 229714,
       "name": "Train Tune",
       "url": "https://open.spotify.com/track/6K2uj25CgAqyvq1b3YpOMU"
@@ -35351,6 +35547,24 @@
     },
     {
       "album": {
+        "name": "Walk With Giants EP",
+        "url": "https://open.spotify.com/album/2JE1ovKWUdlgRaZL7tFZVA"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Walk With Giants",
+      "url": "https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT"
+    },
+    {
+      "album": {
         "name": "Walked Through Fire",
         "url": "https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn"
       },
@@ -36428,6 +36642,24 @@
       "duration_ms": 200598,
       "name": "with vengeance",
       "url": "https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU"
+    },
+    {
+      "album": {
+        "name": "Within Cells Interlinked",
+        "url": "https://open.spotify.com/album/1EHRn6t1SjqHmNU0yPnE3B"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282065,
+      "name": "Within Cells Interlinked",
+      "url": "https://open.spotify.com/track/2ZIq0taozbe81UbqyB9yWV"
     },
     {
       "album": {

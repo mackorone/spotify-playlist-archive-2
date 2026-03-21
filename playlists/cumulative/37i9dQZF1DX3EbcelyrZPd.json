@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5SmlZOCS526S8SRueOK38H"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3ANHY5EdhMkLPlBuI3TH7w"
+    },
+    {
+      "album": {
         "name": "Hayanogi",
         "url": "https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS"
       },

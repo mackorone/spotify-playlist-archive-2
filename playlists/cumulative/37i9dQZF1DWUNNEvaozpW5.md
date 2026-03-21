@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Revolver.
 
-761 songs - 2 day 0 hr 38 min
+762 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Lloraré](https://open.spotify.com/track/0T74LiMmqOu1rUlpEhEdzp) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Lloraré](https://open.spotify.com/album/2aGiGNGM3rIQJVDXIuxjsr) | 4:16 | 2025-10-02 | 2025-12-12 |
 | [Llorón](https://open.spotify.com/track/4XJkCr8zfwNGNXMEjrACDJ) | [Andrea Buenavista](https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU), [Usted](https://open.spotify.com/artist/4eCXIvZLqWk7ivGXuUgECa) | [Llorón](https://open.spotify.com/album/1thKyYUvfZsEmONb3n8Wqz) | 3:13 | 2024-05-30 | 2024-06-21 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 |  |
+| [Lo mejor de mí](https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Lo mejor de mí](https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ) | 4:30 | 2026-03-20 |  |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 | 2022-10-28 |
 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-01 | 2022-09-30 |
 | [Lobo hombre en París \- Versión EP](https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Lobo hombre en París](https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5) | 4:09 | 2024-08-12 |  |
@@ -536,7 +537,7 @@
 | [Nosotros sí](https://open.spotify.com/track/3NDgvziOHntnsMf5XmN0T7) | [Durden](https://open.spotify.com/artist/1yDmWUrmHWA7zyCXghkdrT) | [Nosotros sí](https://open.spotify.com/album/2G00vCurpjUunq6NPpgBqi) | 3:41 | 2022-10-20 | 2022-10-28 |
 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 | 2023-08-21 |  |
 | [Nubes de Papel](https://open.spotify.com/track/34T0QDCgw3Rqhk7lKFCXEx) | [La Sombra del Grajo](https://open.spotify.com/artist/7fmqc78do1eu7j750fkiPO) | [Nubes de Papel](https://open.spotify.com/album/4e2lgOPRRho6gHRYn8QavF) | 3:43 | 2025-11-06 | 2025-11-21 |
-| [Nuestra Canción](https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [Nuestra Canción](https://open.spotify.com/album/0Re0PIjmK9dEdFbbY8i2yv) | 3:33 | 2025-11-13 |  |
+| [Nuestra Canción](https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [Nuestra Canción](https://open.spotify.com/album/0Re0PIjmK9dEdFbbY8i2yv) | 3:33 | 2025-11-13 | 2026-03-21 |
 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 | 2023-05-25 | 2023-06-23 |
 | [Nunca Me Despedí](https://open.spotify.com/track/37O7x9O4QdXM1ODCDw1Dgl) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Nunca Me Despedí](https://open.spotify.com/album/18SGnUI9y1q7Iwi8GsVD3q) | 3:10 | 2022-05-19 | 2022-05-27 |
 | [Náufragos](https://open.spotify.com/track/25EHp7xNOglzpW5FgNk6WP) | [Rodri Bold](https://open.spotify.com/artist/0sUl9A3GMpHMXNfACgelDs) | [Náufragos](https://open.spotify.com/album/0olb4h7poEB6G9zqc50EqO) | 1:39 | 2025-03-28 | 2025-04-04 |

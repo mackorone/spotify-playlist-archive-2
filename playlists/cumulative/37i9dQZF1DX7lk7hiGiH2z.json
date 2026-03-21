@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 336386,
       "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
       "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
@@ -7420,7 +7420,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
@@ -8274,6 +8274,28 @@
       "duration_ms": 164375,
       "name": "S\u00fc\u00dfes, sonst gibt's Saures",
       "url": "https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B"
+    },
+    {
+      "album": {
+        "name": "Kuhle Muuuh-sik f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3fsJrf3L2ioYp30aKVhuFl"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126988,
+      "name": "Tagstarter",
+      "url": "https://open.spotify.com/track/25nZfBLtrA51kdqobidn2m"
     },
     {
       "album": {
@@ -9626,6 +9648,28 @@
       "duration_ms": 206693,
       "name": "Wunderbar, der Herbst ist da",
       "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
+    },
+    {
+      "album": {
+        "name": "Wunderland",
+        "url": "https://open.spotify.com/album/70AEUDbbEWcN3B1tKNcWcY"
+      },
+      "artists": [
+        {
+          "name": "Ena Kinderlieder",
+          "url": "https://open.spotify.com/artist/7BWj0quGHpkdSx9HZnD3CN"
+        },
+        {
+          "name": "Senta",
+          "url": "https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137798,
+      "name": "Wunderland",
+      "url": "https://open.spotify.com/track/7JwXszsGwerxyXDw9UNDBa"
     },
     {
       "album": {

@@ -57643,24 +57643,6 @@
     },
     {
       "album": {
-        "name": "kids",
-        "url": "https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
-    },
-    {
-      "album": {
         "name": "TRACKIES",
         "url": "https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne"
       },
@@ -64226,6 +64208,28 @@
       "duration_ms": 140624,
       "name": "WIE KANN MAN SO SEIN?!",
       "url": "https://open.spotify.com/track/23wa6ozUycqiDwrwAXAAvy"
+    },
+    {
+      "album": {
+        "name": "kids",
+        "url": "https://open.spotify.com/album/4KPZYkTLkeAx3EZDdruK4P"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144859,
+      "name": "wie lang geht das noch gut",
+      "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
     },
     {
       "album": {

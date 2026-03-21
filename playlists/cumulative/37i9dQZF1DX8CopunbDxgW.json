@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the heron waits patiently \ud83d\udc26 metropolis is your home for the best indie dance",
+  "description": "Avalon Emerson gifts a lovely new album \ud83c\udf81 metropolis is your home for the best indie dance",
   "name": "metropolis",
   "tracks": [
     {
@@ -2347,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "Anywhere, Anyway EP",
+        "url": "https://open.spotify.com/album/24lbiEbHBl2T1OrtziUrVo"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177302,
+      "name": "Anywhere, Anyway (Feat. Life on Planets)",
+      "url": "https://open.spotify.com/track/2THs1tNoo9GTzBwNF2RNPI"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -3355,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Be Loved",
+        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253214,
+      "name": "Be Loved",
+      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
+    },
+    {
+      "album": {
         "name": "Arriving Home Elsewhere",
         "url": "https://open.spotify.com/album/1UUvVbMhwZbh8sk9E5NAQ5"
       },
@@ -3554,7 +3594,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 139493,
       "name": "Beatback",
       "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
@@ -4068,7 +4108,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 216393,
       "name": "Better She Knows",
       "url": "https://open.spotify.com/track/5h7drOCLfsNbb0Fyu47Ezp"
@@ -5204,7 +5244,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 210434,
       "name": "Brew Boy - Bella Boo Remix",
       "url": "https://open.spotify.com/track/4NaFbzQxRbxobtkriXzfpg"
@@ -10807,6 +10847,24 @@
     },
     {
       "album": {
+        "name": "Dying To Know",
+        "url": "https://open.spotify.com/album/6GCwhZP4QmlHNOvW0MvPU6"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "Dying To Know",
+      "url": "https://open.spotify.com/track/2iVs3TXOPad8n7YWY5pzqg"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 Vu",
         "url": "https://open.spotify.com/album/6lk6qAKg7sIIXdXejLDWuz"
       },
@@ -12276,6 +12334,24 @@
       "duration_ms": 224493,
       "name": "Fall Fall Fall",
       "url": "https://open.spotify.com/track/1Nok3E21YSs8TifkIJgbFv"
+    },
+    {
+      "album": {
+        "name": "Fall Into The Sky",
+        "url": "https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS"
+      },
+      "artists": [
+        {
+          "name": "Marinus",
+          "url": "https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Fall Into The Sky",
+      "url": "https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC"
     },
     {
       "album": {
@@ -13956,10 +14032,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235149,
       "name": "Found a Love",
       "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
+    },
+    {
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/5oRY3pj7s5WuQCeeZ8i1tv"
+      },
+      "artists": [
+        {
+          "name": "RUSH AVENUE",
+          "url": "https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149886,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/5kekimKJDI3gib9efP8Duu"
     },
     {
       "album": {
@@ -15922,6 +16016,24 @@
       "duration_ms": 212909,
       "name": "Hang",
       "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
+    },
+    {
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
     },
     {
       "album": {
@@ -19038,7 +19150,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 176666,
       "name": "I Won\u2019t Let You Go (feat. Eight9FLY)",
       "url": "https://open.spotify.com/track/2rPC0QvHTDT7qnUGZIrGxc"
@@ -28033,6 +28145,28 @@
     },
     {
       "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+    },
+    {
+      "album": {
         "name": "OFF / ON",
         "url": "https://open.spotify.com/album/6WGJ3kSNHsiIdSb1WoeoMG"
       },
@@ -29311,6 +29445,28 @@
     },
     {
       "album": {
+        "name": "Our Way (Pablo Versace Remix)",
+        "url": "https://open.spotify.com/album/0zFWMo74BwEee9k1ksWN7c"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        },
+        {
+          "name": "Pablo Versace",
+          "url": "https://open.spotify.com/artist/3ibKP9iukyMBXXrpVZmDfE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Our Way (Pablo Versace Remix)",
+      "url": "https://open.spotify.com/track/6EgHNLI5ZoS5ZBIchlR9FG"
+    },
+    {
+      "album": {
         "name": "Our World",
         "url": "https://open.spotify.com/album/3K9XyoRSNqgFkksxKLxycX"
       },
@@ -29808,7 +29964,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142501,
       "name": "Paris",
       "url": "https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52"
@@ -31443,6 +31599,24 @@
     },
     {
       "album": {
+        "name": "Red Planet",
+        "url": "https://open.spotify.com/album/6X4cnJl3hYd5xpTMb99BHw"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/0ZdNdFc20fTFJbT2RQibOx"
+    },
+    {
+      "album": {
         "name": "REGRESO (warner case Remix)",
         "url": "https://open.spotify.com/album/1sM6L8knIz2qufXE6wi9TD"
       },
@@ -32680,7 +32854,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 228000,
       "name": "Same As I Do",
       "url": "https://open.spotify.com/track/4CMcKFSCIAjeJJ3t70BvJC"
@@ -41044,7 +41218,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 212859,
       "name": "UP",
       "url": "https://open.spotify.com/track/2iSdsWyALI9ePGsGx5c2d1"
@@ -41092,6 +41266,28 @@
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "album": {
+        "name": "UPTOWN",
+        "url": "https://open.spotify.com/album/0NDjDXnjNuSqx3hNwX6bhT"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "Goldy",
+          "url": "https://open.spotify.com/artist/1hEQfKwsKDpgusFOfNiYv0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "UPTOWN",
+      "url": "https://open.spotify.com/track/7xQww70YxA98pCuW7miGI0"
     },
     {
       "album": {
@@ -41670,6 +41866,24 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "album": {
+        "name": "wufwufwuf",
+        "url": "https://open.spotify.com/album/63z15ti2NcOWeKbxD3jd5J"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "wakeup",
+      "url": "https://open.spotify.com/track/0nlGLO5KSuoxZgevcjKAKv"
     },
     {
       "album": {
@@ -43990,7 +44204,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230438,
       "name": "You're Not Alone - Dance Review",
       "url": "https://open.spotify.com/track/4sTeXE85vlMftYDfnBApN3"
@@ -44132,7 +44346,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 193533,
       "name": "Your Direction - Chromeo Remix",
       "url": "https://open.spotify.com/track/0FxV2wrRn84KSHNLllhaqp"

@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 258661,
+  "num_followers": 258865,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -310,55 +310,11 @@
         {
           "name": "Jasmine Sandlas",
           "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
       "duration_ms": 249047,
       "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
-        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-        "url": "https://open.spotify.com/album/13xOJZYU04lZIIHL8OQZEl"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Shahzad Ali",
-          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
-        },
-        {
-          "name": "Subhadeep Das Chowdhury",
-          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
-        },
-        {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        },
-        {
-          "name": "Roshan",
-          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Sahir Ludhianvi",
-          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
-        }
-      ],
-      "duration_ms": 250860,
-      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -455,8 +411,8 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/13xOJZYU04lZIIHL8OQZEl"
       },
       "artists": [
         {
@@ -464,21 +420,33 @@
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
         },
         {
-          "name": "Bappi Lahiri",
-          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
         },
         {
-          "name": "Indiwar",
-          "url": "https://open.spotify.com/artist/7qVxwI8H0tjjMhYY2eGvBE"
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
         }
       ],
-      "duration_ms": 161793,
-      "name": "Ramba Ho",
-      "url": "https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn"
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -583,6 +551,34 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Indiwar",
+          "url": "https://open.spotify.com/artist/7qVxwI8H0tjjMhYY2eGvBE"
+        }
+      ],
+      "duration_ms": 161793,
+      "name": "Ramba Ho",
+      "url": "https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -655,34 +651,6 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -747,6 +715,34 @@
       "duration_ms": 226696,
       "name": "Dil Chori",
       "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -1095,30 +1091,6 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "Mayur Puri",
-          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
         "name": "Jab Koi Baat - Recreated",
         "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
@@ -1139,6 +1111,30 @@
       "duration_ms": 192228,
       "name": "Jab Koi Baat - Recreated",
       "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
+        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -1215,34 +1211,6 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Heer Aasmani (From \"Fighter\")",
-        "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
-      },
-      "artists": [
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 204110,
-      "name": "Heer Aasmani (From \"Fighter\")",
-      "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
         "name": "Loveyatri - A Journey Of Love",
         "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
       },
@@ -1267,6 +1235,34 @@
       "duration_ms": 249741,
       "name": "Chogada",
       "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
+        "name": "Heer Aasmani (From \"Fighter\")",
+        "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 204110,
+      "name": "Heer Aasmani (From \"Fighter\")",
+      "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
     },
     {
       "added_at": "2026-03-19 09:42:36",

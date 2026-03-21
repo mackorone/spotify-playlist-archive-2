@@ -1,13 +1,33 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7897,
+  "num_followers": 7899,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAO5QW1MIPR0tkm6wrP/qUBTt9UD56z",
+  "snapshot_id": "AAAO8V2RzrjB0coKGSwqrsnvA4RExkzr",
   "tracks": [
+    {
+      "added_at": "2026-03-20 09:25:14",
+      "album": {
+        "name": "Play This Game",
+        "url": "https://open.spotify.com/album/4Ra78y57ZG407CNhvwocON"
+      },
+      "artists": [
+        {
+          "name": "Kolombo",
+          "url": "https://open.spotify.com/artist/4nZBJZHavxcUzGeK2k6fL9"
+        },
+        {
+          "name": "Elekfantz",
+          "url": "https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv"
+        }
+      ],
+      "duration_ms": 232073,
+      "name": "Play This Game - Radio Edit",
+      "url": "https://open.spotify.com/track/0oveoZQfJL1hEwNsUkQ4IF"
+    },
     {
       "added_at": "2026-03-16 11:06:06",
       "album": {
@@ -55,6 +75,110 @@
       "duration_ms": 495500,
       "name": "1002b",
       "url": "https://open.spotify.com/track/4le367YOPh9cDR3qFFo15Z"
+    },
+    {
+      "added_at": "2026-03-20 09:27:18",
+      "album": {
+        "name": "winterswell",
+        "url": "https://open.spotify.com/album/61zNe9jlQRyVAxfgrFIB9U"
+      },
+      "artists": [
+        {
+          "name": "Kat Davids",
+          "url": "https://open.spotify.com/artist/10qOd2JJ8dbn0SfzkHIUYs"
+        },
+        {
+          "name": "Ben Kaczor",
+          "url": "https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL"
+        }
+      ],
+      "duration_ms": 444597,
+      "name": "Baby I know what you want - Ben Kaczor Remix",
+      "url": "https://open.spotify.com/track/6G1tFiVApfZiUALXnAjwh3"
+    },
+    {
+      "added_at": "2026-03-20 09:28:47",
+      "album": {
+        "name": "Poppies",
+        "url": "https://open.spotify.com/album/6dszBrFxvtS1utgiN6VR0C"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+        }
+      ],
+      "duration_ms": 347166,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4xmZWY6DbLoZT2STS0KiJi"
+    },
+    {
+      "added_at": "2026-03-20 09:27:42",
+      "album": {
+        "name": "Sir\u0101t - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/674hSR0oJq5jQeVOmiVGbw"
+      },
+      "artists": [
+        {
+          "name": "Kangding Ray",
+          "url": "https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26"
+        }
+      ],
+      "duration_ms": 258118,
+      "name": "Sir\u0101t",
+      "url": "https://open.spotify.com/track/2BKZEFkZPintUKeMy3KI9k"
+    },
+    {
+      "added_at": "2026-03-20 09:29:05",
+      "album": {
+        "name": "Blade EP",
+        "url": "https://open.spotify.com/album/1UCDKxEFd7dkMgdfhHhJab"
+      },
+      "artists": [
+        {
+          "name": "Terence Fixmer",
+          "url": "https://open.spotify.com/artist/54yHcfvcrKO91U46rnzHkc"
+        }
+      ],
+      "duration_ms": 398453,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/411Bm1Q5ZWmh5nURATtArB"
+    },
+    {
+      "added_at": "2026-03-20 09:26:27",
+      "album": {
+        "name": "California Space Craft",
+        "url": "https://open.spotify.com/album/6wVCGitP9Y2WOmTN5MpmVq"
+      },
+      "artists": [
+        {
+          "name": "Rejoicer",
+          "url": "https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "A Traveling Light",
+      "url": "https://open.spotify.com/track/3cntzPV6ymDoEOC3qQA3Se"
+    },
+    {
+      "added_at": "2026-03-20 09:28:30",
+      "album": {
+        "name": "Tirakat (Habibi Funk 034)",
+        "url": "https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        },
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+        }
+      ],
+      "duration_ms": 254177,
+      "name": "Bandar Batavia",
+      "url": "https://open.spotify.com/track/5FIgPs77JyNNn0dgTPvVMy"
     },
     {
       "added_at": "2026-03-16 11:01:37",

@@ -1335,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "FKN Hate You",
+        "url": "https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        },
+        {
+          "name": "JaYy Wick",
+          "url": "https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151042,
+      "name": "FKN Hate You",
+      "url": "https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG"
+    },
+    {
+      "album": {
         "name": "For My Kinfoke",
         "url": "https://open.spotify.com/album/3eTIfdShz9mfOG4Q1Uw5R4"
       },

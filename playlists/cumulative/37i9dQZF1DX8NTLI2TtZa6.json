@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154119,
       "name": "A place to rest",
       "url": "https://open.spotify.com/track/4KVimA013KuiiMWHbSft1q"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 157993,
       "name": "Bastione",
       "url": "https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 135779,
       "name": "Chimera",
       "url": "https://open.spotify.com/track/05WnKb5zsyWOQksKqU7LQ9"
@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Distant Hills",
+        "url": "https://open.spotify.com/album/4oEH5w6o63s8tiqvkOz2IO"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128176,
+      "name": "Distant Hills",
+      "url": "https://open.spotify.com/track/4txWzPrmAcXCxr61ZLXPMJ"
+    },
+    {
+      "album": {
         "name": "Dominoes",
         "url": "https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 200843,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
@@ -2785,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Falling Softly",
+        "url": "https://open.spotify.com/album/1PMQZOnqkiCJcTBQ25L5zu"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aria",
+          "url": "https://open.spotify.com/artist/3qpSThwNv7Jdfo1FLFaRKr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147856,
+      "name": "Falling Softly",
+      "url": "https://open.spotify.com/track/2ztGXs1faF8d42FMZ5bk2q"
+    },
+    {
+      "album": {
         "name": "Falling Trees",
         "url": "https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3"
       },
@@ -2911,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Fields Of Blue",
+        "url": "https://open.spotify.com/album/6a5Yzc2P6pV3k3KAxfpEIC"
+      },
+      "artists": [
+        {
+          "name": "Milo Gabriel",
+          "url": "https://open.spotify.com/artist/6BSMI1xQvknMq0fzmUKF5o"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139425,
+      "name": "Fields Of Blue",
+      "url": "https://open.spotify.com/track/4CeQU71JXOt8Jk4HRqGsk3"
+    },
+    {
+      "album": {
         "name": "Finding Hope",
         "url": "https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs"
       },
@@ -3016,6 +3070,24 @@
       "duration_ms": 119436,
       "name": "Floating with the tide",
       "url": "https://open.spotify.com/track/1GJsvAFYG341M9F98JiLQz"
+    },
+    {
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/6n98KgidTx2eyy1nfKtGgM"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124531,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/6njtQNqzHNxooOv8piBOiG"
     },
     {
       "album": {
@@ -4006,7 +4078,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 164905,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/7bi0PH9ZauH2jZHPwJgGZY"
@@ -4154,6 +4226,24 @@
       "duration_ms": 160261,
       "name": "In Between",
       "url": "https://open.spotify.com/track/3m9L0yTxcDY4OddxsApK5L"
+    },
+    {
+      "album": {
+        "name": "In Passing",
+        "url": "https://open.spotify.com/album/2jcdyqdRM16vteRDQVKjkq"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "In Passing",
+      "url": "https://open.spotify.com/track/6YaGAulioPMaUspmlfZwnj"
     },
     {
       "album": {
@@ -4456,7 +4546,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 132037,
       "name": "Joue Douce",
       "url": "https://open.spotify.com/track/6tYzIf57ubnzKLJ48O9Vf3"
@@ -4906,7 +4996,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 137242,
       "name": "Les yeux",
       "url": "https://open.spotify.com/track/3Hse4yS1QfDHzq7lVEwarD"
@@ -5826,7 +5916,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173203,
       "name": "Mondes S\u00e9par\u00e9s",
       "url": "https://open.spotify.com/track/5ahumDIhhAggyOmPzPMscT"
@@ -5844,7 +5934,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 153591,
       "name": "Monfalcone",
       "url": "https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh"
@@ -6154,7 +6244,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 198000,
       "name": "Nachmittag",
       "url": "https://open.spotify.com/track/2I0cK8R8nSyKUv53Ct4rz2"
@@ -6298,7 +6388,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 155132,
       "name": "Nightbloom",
       "url": "https://open.spotify.com/track/7s7Ls7wTmiyogFLL9q6xyj"
@@ -7108,7 +7198,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 146534,
       "name": "Past",
       "url": "https://open.spotify.com/track/13iDwwDxbDCDhgqAKcGkaq"
@@ -7238,7 +7328,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142932,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg"
@@ -9677,6 +9767,24 @@
     },
     {
       "album": {
+        "name": "Through the Whispering Trees",
+        "url": "https://open.spotify.com/album/3h0lm1G0XOd7Ew4lLmudOZ"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185178,
+      "name": "Through the Whispering Trees",
+      "url": "https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI"
+    },
+    {
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/6li4NlfLqtrRB8ietKYaTL"
       },
@@ -10502,6 +10610,24 @@
       "duration_ms": 112750,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
+    },
+    {
+      "album": {
+        "name": "When We Get There",
+        "url": "https://open.spotify.com/album/3D4f9jGAiv3ytZs7ANIb6A"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125775,
+      "name": "When We Get There",
+      "url": "https://open.spotify.com/track/6Xz0YfdMVuztsrnvP5q05w"
     },
     {
       "album": {

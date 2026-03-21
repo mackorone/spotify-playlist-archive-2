@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 211469,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 185271,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp"
@@ -2070,6 +2070,24 @@
       "duration_ms": 194666,
       "name": "Freedom - Single Version",
       "url": "https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL"
+    },
+    {
+      "album": {
+        "name": "Future Soul",
+        "url": "https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199288,
+      "name": "Future Soul",
+      "url": "https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Marizu",
-  "num_followers": 50135,
+  "num_followers": 50236,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLK9v7sYofmHYZsxCzvdO3+fqSW",
+  "snapshot_id": "AAAAACHyTnNiz4OrrIzt4laVFUBmPWxO",
   "tracks": [
     {
       "added_at": "2026-03-20 00:01:37",
@@ -95,6 +95,26 @@
       "duration_ms": 339207,
       "name": "Highly Lifted",
       "url": "https://open.spotify.com/track/7B4o2XhrtS0kvWpkxqsP9Q"
+    },
+    {
+      "added_at": "2026-03-20 00:01:37",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
       "added_at": "2026-03-20 00:01:37",
@@ -251,26 +271,6 @@
     {
       "added_at": "2026-03-20 00:01:37",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
-    },
-    {
-      "added_at": "2026-03-20 00:01:37",
-      "album": {
         "name": "At the Center",
         "url": "https://open.spotify.com/album/36WJbEECUUs1eKODqniDrT"
       },
@@ -387,6 +387,38 @@
       "duration_ms": 143142,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2AhmFyKuWPEMoie3RbT0Gg"
+    },
+    {
+      "added_at": "2026-03-20 00:01:37",
+      "album": {
+        "name": "Lenience",
+        "url": "https://open.spotify.com/album/1WJYqQNONhennFSfHzObAE"
+      },
+      "artists": [
+        {
+          "name": "Emino Music",
+          "url": "https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a"
+        },
+        {
+          "name": "Emino",
+          "url": "https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy"
+        },
+        {
+          "name": "Mckelv",
+          "url": "https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia"
+        },
+        {
+          "name": "Joebee",
+          "url": "https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1"
+        },
+        {
+          "name": "Ama Agbo",
+          "url": "https://open.spotify.com/artist/1pTtCVB1Iaq6JYauGxefL5"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Lenience",
+      "url": "https://open.spotify.com/track/0a1c8Jf47dXDgA09z7IiPg"
     },
     {
       "added_at": "2026-03-13 00:01:17",

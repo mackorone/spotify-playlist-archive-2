@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: Hearts2Hearts\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-189 songs - 10 hr 28 min
+196 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |
 | [ASAP](https://open.spotify.com/track/1zhULUXEKRUis8u4umC4TO) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/2UaodruL7eqPlQ1UrwtCEN) | 2:51 | 2025-07-15 | 2025-08-20 |
 | [ATTITUDE](https://open.spotify.com/track/6gvEiMMXUoumTPlE9Bf7sF) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ATTITUDE](https://open.spotify.com/album/7h3zFyuLEfqFp0zNJRs9di) | 3:26 | 2025-07-15 | 2025-08-20 |
+| [Baby, Honey](https://open.spotify.com/track/4aScgS59UgkUjZsnYYfGHT) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/53YWR2QYfULvJSuh2FOJSC) | 2:30 | 2026-03-20 |  |
 | [Back to Life](https://open.spotify.com/track/25McmaHvco0apX3blisYct) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3jv3vrNtHF2fVMSJOS03RO) | 4:26 | 2025-12-03 |  |
 | [Back to Life](https://open.spotify.com/track/77ooqrLCZf4BNv3IroN49X) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3KEEBXaOJPzdBj6adRlMIw) | 4:26 | 2025-12-03 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/2NXIhvX7tEhHjRXi7zhhs0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND) | 2:46 | 2025-07-15 |  |
@@ -36,6 +37,7 @@
 | [BURNING UP](https://open.spotify.com/track/3U6SySIVxzwcoxvhqFHrOD) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/25xFJJPHTjDB9ampLnzguA) | 2:55 | 2025-10-24 |  |
 | [BURNING UP](https://open.spotify.com/track/4vQvy3BbuPMSazfjXR2sar) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/5QVHgA8EsUSdEYHjLjQhWk) | 2:55 | 2025-10-24 |  |
 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/album/7bfjfcnBeCXsHXJcPr8q4o) | 3:27 | 2025-07-15 |  |
+| [Butterfly Doors](https://open.spotify.com/track/6cVX3erP5UU9cHYpC6UVJJ) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/4WPErVKWqTuMYA9S5MFOHj) | 2:55 | 2026-03-20 |  |
 | [CEREMONY](https://open.spotify.com/track/5TRfYSktaV8K4p6fUmUcRZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CEREMONY](https://open.spotify.com/album/0OOYcoLr4AXuLkAxEFmYXp) | 2:51 | 2025-10-24 |  |
 | [CEREMONY](https://open.spotify.com/track/5b6isns0yhJT6A5W2dExb9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/6o9wjgySRts32qfi7CQBQP) | 2:51 | 2025-10-24 |  |
 | [CHA CHA CHA](https://open.spotify.com/track/25H9SitJmkod39X0L2j5h2) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/2pHZQcpWYyboipOtpVJ2Am) | 3:03 | 2025-10-24 |  |
@@ -92,6 +94,7 @@
 | [HOT](https://open.spotify.com/track/7fP3shmsikBUs6T3zb1Rjt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/7gnwr4YOfrLOEPU1skJrfB) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [HUNTER](https://open.spotify.com/track/18kHW2mhGfcId0uQwgtYbI) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER](https://open.spotify.com/album/6QpzWf1z5xdTWKTyXWGyIb) | 3:00 | 2025-08-13 |  |
 | [I DO ME](https://open.spotify.com/track/1bGdt5Fo9akCUN2vk2fj4g) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/1k8g31cGLQtyOTTQ6cjZbh) | 3:20 | 2025-07-15 | 2025-08-20 |
+| [I DON'T BARGAIN](https://open.spotify.com/track/0KTym6MHSmlfXYKrwtfGHQ) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/1sEhPdw88BoROmJeijHBFZ) | 2:55 | 2026-03-20 |  |
 | [I Feel Good](https://open.spotify.com/track/5AP8DwNug6FEIT1N2W6lzW) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [I Feel Good](https://open.spotify.com/album/6QhUisCryDNbiW76yx630U) | 3:13 | 2025-07-15 |  |
 | [I'll Be There](https://open.spotify.com/track/5AWhWkXI2N124dAh5cVbLo) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/4qHj1TjoaZ2ZGVKLWDFtVQ) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Ice On My Teeth](https://open.spotify.com/track/3BF9ocYbjnntrh7kNnvChi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ice On My Teeth](https://open.spotify.com/album/0FAJNe9ryBqwz4OX54Fk9g) | 3:23 | 2025-07-15 | 2025-08-20 |
@@ -167,6 +170,8 @@
 | [Summer Was You](https://open.spotify.com/track/3lM3PaTT8YhB4Tg7lqzLDg) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Summer Was You](https://open.spotify.com/album/5AupM0jo6m6ZTgbamHUi1o) | 3:49 | 2025-07-15 |  |
 | [Supersonic](https://open.spotify.com/track/6MgrUUsEO2e17ESSp3iqf3) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1CAVxhbmoPHHpZEb5fDOsT) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/7kNbvAcTd6uiA4yWc5eOMr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/6p4huDF8rJ4HVPQD3TF3iJ) | 3:38 | 2025-07-15 | 2025-08-20 |
+| [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 | 2026-03-20 |  |
+| [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:58 | 2026-03-20 |  |
 | [The Reason](https://open.spotify.com/track/2byNQPJUMOmyKdaQSw0k15) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason](https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw) | 3:08 | 2025-12-13 |  |
 | [THIS IS FOR](https://open.spotify.com/track/5D3yEO19Qolv5NNK4WUyDL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/62742xRMCVA32EzRjyie94) | 2:13 | 2025-07-15 |  |
 | [THRILLER](https://open.spotify.com/track/0pKZGh1aecHm3JwouoKTdU) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/6g6IrJ9NH4WzXeegihzWjI) | 2:57 | 2025-10-24 |  |
@@ -174,9 +179,11 @@
 | [THUNDER](https://open.spotify.com/track/4S9OkX4V06u1dnr9aT5Cea) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [THUNDER](https://open.spotify.com/album/1RXgOXRdYXozyHD2RTCCKu) | 3:05 | 2025-07-15 |  |
 | [Tick\-Tack](https://open.spotify.com/track/5oedjtQyoPTEJhUnHTguBz) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Tick\-Tack](https://open.spotify.com/album/6Jk6wX6HHfenDr1OlEaJAO) | 2:56 | 2025-07-15 | 2025-08-20 |
 | [TOO BAD \(feat\. Anderson .Paak\)](https://open.spotify.com/track/0vG5TNf1YGMTtqgaVw04Oc) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TOO BAD](https://open.spotify.com/album/7rZRKrdT6HJ4rvSxeRLF2w) | 2:39 | 2025-07-15 | 2025-08-20 |
+| [TOUGH LOVE](https://open.spotify.com/track/7r8rcxbKcAE5EAb4lvrMPS) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/4rDmV4gUqWCfJBnA88Rb8o) | 3:37 | 2026-03-20 |  |
 | [TOXIC](https://open.spotify.com/track/3eXhM2BpZx3vL9yFIl69El) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/7gGo6eHRpn6hwkU2NIB6KQ) | 3:14 | 2025-07-15 | 2025-08-20 |
 | [toxic till the end](https://open.spotify.com/track/5m38Ga84E7jUIGL7Ungmqb) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [toxic till the end](https://open.spotify.com/album/1oujnhVOqWo1namwQZ1h4V) | 3:55 | 2025-07-15 | 2025-08-20 |
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/6zIBr28UYGgoMHb0LK5iQq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Truman \(HAN & Felix\)](https://open.spotify.com/album/6cJdx8CdQKbj147TBEzl9p) | 3:23 | 2025-07-15 | 2025-08-20 |
+| [Twenty](https://open.spotify.com/track/7niaoLueEhilX5iDealwyJ) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3ecSoyC5AXuhoAHyCC89ZU) | 4:06 | 2026-03-20 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq) | 2:49 | 2025-08-13 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q) | 2:49 | 2025-08-13 |  |
 | [Vivid LaLa Love](https://open.spotify.com/track/2gAEC8aeWT84JmlGzFa4gj) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Vivid LaLa Love](https://open.spotify.com/album/71cbXCsqKnzZAGkjnpU351) | 4:00 | 2025-07-15 |  |

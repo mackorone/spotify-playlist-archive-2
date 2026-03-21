@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Yokez
+> Listen to the future\. Cover: Dominic Chin
 
-265 songs - 14 hr 33 min
+271 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 | 2025-09-08 | 2025-11-06 |
 | [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 | 2025-04-16 |
 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 | 2025-04-15 |  |
+| [ijustneedtogetovermyself](https://open.spotify.com/track/4Zrakfu1tRUbPm9sDtg1vJ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [PRETTY PETTY](https://open.spotify.com/album/32T1x9lZobELmZms2YgrBU) | 0:45 | 2026-03-20 |  |
 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-05-01 |  |
 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 | 2024-06-27 | 2024-12-05 |
 | [Infatuated](https://open.spotify.com/track/5e9ecyMtZkutM6KpFrqbv2) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say](https://open.spotify.com/album/6ZPOaniWpQLMPp6YTmi8Td) | 3:46 | 2025-09-08 | 2025-10-17 |
@@ -208,6 +209,7 @@
 | [RADAR](https://open.spotify.com/track/0hxNOnPCbJzKmohmpDGa2K) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [RADAR](https://open.spotify.com/album/4WhSgbkRVqiOyMH9Qkf1kD) | 2:40 | 2025-04-15 | 2025-09-09 |
 | [RADAR](https://open.spotify.com/track/4F1DxAbWqa5Z8jouWmvTGO) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:40 | 2025-12-03 | 2026-01-17 |
 | [RAVIOLI](https://open.spotify.com/track/3bm8yMrciHdHZWUp1Nzoog) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [RAVIOLI](https://open.spotify.com/album/0JGlJaPgMJK6qBywAJ6Td0) | 2:39 | 2025-05-15 |  |
+| [Restu Raya](https://open.spotify.com/track/6sAk01jVavSMzLWyY6mK5P) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Restu Raya](https://open.spotify.com/album/5WRL8OW9917I6jpxgj632t) | 2:39 | 2026-03-20 |  |
 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 | 2025-09-19 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 | 2025-04-16 |
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 | 2024-12-05 |
@@ -223,9 +225,11 @@
 | [selamanya](https://open.spotify.com/track/6Lpb8uAjtqW0p05vaQCnNS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:05 | 2025-11-27 |  |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 | 2025-04-16 |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 | 2025-04-16 |
+| [SHOW YOUR LOVE](https://open.spotify.com/track/2gosyc6Y3NrVJiiE0eSP5D) | [Maia](https://open.spotify.com/artist/1ma5eSgw4el6YDXfhfZ3JC), [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [SHOW YOUR LOVE](https://open.spotify.com/album/58ck8JaQilltGtwQd98XUv) | 3:12 | 2026-03-20 |  |
 | [so in love \(tonight\)](https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [so in love \(tonight\)](https://open.spotify.com/album/0Q4t7FACl7vtiMYAsgjCxR) | 2:28 | 2025-09-08 | 2025-10-17 |
 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 | 2025-09-08 | 2025-10-17 |
 | [Song No\. 2](https://open.spotify.com/track/4v34de6hult90cQjAGxugf) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 4:24 | 2025-03-27 | 2025-04-16 |
+| [STARTING ALL OVER](https://open.spotify.com/track/49q5sJWxe2XBt2H1SwjqcG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [PRETTY PETTY](https://open.spotify.com/album/32T1x9lZobELmZms2YgrBU) | 4:13 | 2026-03-20 |  |
 | [sudah sudahlah](https://open.spotify.com/track/19h9j4tn2D4ohewnG2Bxls) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [sudah sudahlah](https://open.spotify.com/album/3EIk3BdfKl6BCZPpXhsc6n) | 4:21 | 2025-04-15 |  |
 | [SUN MOON](https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [SUN MOON](https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4) | 2:27 | 2024-06-27 | 2024-12-05 |
 | [SWITCH](https://open.spotify.com/track/4ZlSLmFui5nI80OMvDOGxr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [SWITCH](https://open.spotify.com/album/3LpXennZJYBZlJiWJEhmoC) | 2:11 | 2024-06-27 | 2025-04-16 |
@@ -244,7 +248,9 @@
 | [THRU THE ROOF](https://open.spotify.com/track/5N1SgEuIi1rC22q58Yj3IO) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [THRU THE ROOF](https://open.spotify.com/album/1cuyM7IwnEw6VV63RjZ98k) | 3:54 | 2025-06-19 |  |
 | [Tiap Kali Bertemu](https://open.spotify.com/track/6mmLZi96biKSGiIfXOATwm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:14 | 2024-08-08 | 2024-12-05 |
 | [Time](https://open.spotify.com/track/6XxN0arhVahVrq0JLX4K43) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Time](https://open.spotify.com/album/4kgKn7ydkHXSHQoqIStObO) | 2:43 | 2024-06-27 | 2025-04-16 |
+| [Ting Tang Raya](https://open.spotify.com/track/2LEeHghDTUIRDCUPp7qA51) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Ewal](https://open.spotify.com/artist/1qM3N86kXp85fgj9eJE88O) | [Ting Tang Raya](https://open.spotify.com/album/0Qctzr846ys97tTdmeyaBs) | 2:52 | 2026-03-20 |  |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2025-09-08 | 2025-10-17 |
+| [two6](https://open.spotify.com/track/79WsiHq3MECac1NzpzlW42) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Kalou](https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu) | [two6](https://open.spotify.com/album/5lzP7mWrt4aAoeWEkJNTDU) | 3:22 | 2026-03-20 |  |
 | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/track/6657DgGU1WPHIopNQ6O4B8) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Udara \(From Astro Originals "FRAMED"\)](https://open.spotify.com/album/4Zxcug5c4qmcsYg52BH2yM) | 3:28 | 2025-04-15 | 2025-09-09 |
 | [us being us](https://open.spotify.com/track/4iZmZsFgvJqqmKtVnIrjlS) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [us being us](https://open.spotify.com/album/5poydfb1GnLEeNNn9RIjqr) | 3:34 | 2025-04-15 |  |
 | [venus](https://open.spotify.com/track/0x6wSM6ixlhKPZ9QpaUyyu) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 4:10 | 2024-12-04 | 2025-04-16 |

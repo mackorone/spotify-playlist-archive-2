@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Eileen Alister
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,623 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,630 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 48 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 |
 | 49 | [arsch der welt](https://open.spotify.com/track/5Biw0sdkjcyNxBRdA2gkvy) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [arsch der welt](https://open.spotify.com/album/2axT5MfRsRkkldQcXMhVGB) | 2:37 |
 
-Snapshot ID: `AAAAAPVKidE7RI3VygF7yAdc8flV6L1u`
+Snapshot ID: `AAAAAJU9K57C6wpHjgv25/TjEToxxKwR`

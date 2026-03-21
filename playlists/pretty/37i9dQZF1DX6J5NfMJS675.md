@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,659,731 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,659,866 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 14 | [In Berlin](https://open.spotify.com/track/6PYkcjJAUpkR3p4iM3RvaE) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [In Berlin](https://open.spotify.com/album/2xTlFb68oh7P3Uu2rD88hH) | 3:14 |
 | 15 | [Nox](https://open.spotify.com/track/5PZ7J6gQ45Qwe5yI6RlP7l) | [Paula van Klar](https://open.spotify.com/artist/6v3Yy6vkCyGfwk0teqsymt), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Nox](https://open.spotify.com/album/5pDDmI55p4KaSxt1zkFWNp) | 2:58 |
 | 16 | [Your Mind \- HNTR Remix](https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Your Mind \(HNTR Remix\)](https://open.spotify.com/album/02YQrPMD5VcaisSzijQyuD) | 3:41 |
-| 17 | [Lose Control](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3), [HYBRD](https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC) | [Lose Control](https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW) | 3:11 |
+| 17 | [Lose Control](https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3), [HYBRD](https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC), [Rawfox](https://open.spotify.com/artist/0fIbSfGT21N4THLOmBk9LT) | [Lose Control](https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW) | 3:11 |
 | 18 | [Dance All Night](https://open.spotify.com/track/1WQRZOXfnHiqwJk6DTrKLj) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Dance All Night](https://open.spotify.com/album/21kuJMcVzUi5jSzra5Nrpq) | 4:38 |
 | 19 | [Forsaken](https://open.spotify.com/track/0wwg3hxmNMX2askrmogOb8) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Forsaken](https://open.spotify.com/album/5EypxMBJYtG9CDlXUPNTJy) | 3:58 |
 | 20 | [People Are Strange](https://open.spotify.com/track/1JZTOdIWnFFeAcJf0k7nYL) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [People Are Strange](https://open.spotify.com/album/3FGoyELhn8ohJIfcviVxXe) | 3:38 |

@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC"
+      },
+      "artists": [
+        {
+          "name": "Lucca Saettone",
+          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW"
+    },
+    {
+      "album": {
         "name": "Everytime We",
         "url": "https://open.spotify.com/album/5Gvd6QNbrltG9uc7SLe7m0"
       },

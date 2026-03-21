@@ -1,12 +1,12 @@
 {
   "description": "\u0445\u0456\u0442\u0438 \u0442\u0430 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Tik Tu",
-  "num_followers": 38356,
+  "num_followers": 38359,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQPdo/0np+37vFRv9ci4Xgbq/Nz",
+  "snapshot_id": "AAAAAOu8uDrlehRfrFBgnWi4o8/JSDOG",
   "tracks": [
     {
       "added_at": "2026-03-13 15:22:33",
@@ -967,38 +967,6 @@
     {
       "added_at": "2026-03-13 15:22:33",
       "album": {
-        "name": "\u041d\u0430\u043c\u0430\u043b\u044e\u0439",
-        "url": "https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN"
-      },
-      "artists": [
-        {
-          "name": "\u043f\u0430\u043b\u0456\u043d\u0434\u0440\u043e\u043c",
-          "url": "https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "\u041d\u0430\u043c\u0430\u043b\u044e\u0439",
-      "url": "https://open.spotify.com/track/2Umyi3slF7uXgLQFu33RMS"
-    },
-    {
-      "added_at": "2026-03-13 15:22:33",
-      "album": {
-        "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
-        "url": "https://open.spotify.com/album/3AhfPM37N6nxUlL7ewPFGd"
-      },
-      "artists": [
-        {
-          "name": "Berliner D\u00f6ner",
-          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
-      "url": "https://open.spotify.com/track/2krMvok5fEOlQR3cjvjr9t"
-    },
-    {
-      "added_at": "2026-03-13 15:22:33",
-      "album": {
         "name": "\u0422\u0438\u0445\u0438\u0439 \u0448\u0442\u043e\u0440\u043c",
         "url": "https://open.spotify.com/album/70WwAZcLLwOPUe11NEMlst"
       },
@@ -1023,6 +991,38 @@
     {
       "added_at": "2026-03-13 15:22:33",
       "album": {
+        "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
+        "url": "https://open.spotify.com/album/3AhfPM37N6nxUlL7ewPFGd"
+      },
+      "artists": [
+        {
+          "name": "Berliner D\u00f6ner",
+          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "\u043c\u0430\u0448\u0438\u043d\u0430\u043c-\u0432\u0443\u043b\u0438\u0446\u044f\u043c",
+      "url": "https://open.spotify.com/track/2krMvok5fEOlQR3cjvjr9t"
+    },
+    {
+      "added_at": "2026-03-13 15:22:33",
+      "album": {
+        "name": "\u041d\u0430\u043c\u0430\u043b\u044e\u0439",
+        "url": "https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN"
+      },
+      "artists": [
+        {
+          "name": "\u043f\u0430\u043b\u0456\u043d\u0434\u0440\u043e\u043c",
+          "url": "https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "\u041d\u0430\u043c\u0430\u043b\u044e\u0439",
+      "url": "https://open.spotify.com/track/2Umyi3slF7uXgLQFu33RMS"
+    },
+    {
+      "added_at": "2026-03-13 15:22:33",
+      "album": {
         "name": "\u043d\u0430\u0448\u0435 \u043b\u0456\u0442\u043e",
         "url": "https://open.spotify.com/album/5MFXUl5341lXYKyjWQek54"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 171250,
       "name": "\u043d\u0430\u0448\u0435 \u043b\u0456\u0442\u043e",
       "url": "https://open.spotify.com/track/2tosOWRINYN5opgwhZIDFl"
-    },
-    {
-      "added_at": "2026-03-13 15:22:33",
-      "album": {
-        "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
-        "url": "https://open.spotify.com/album/5poYOMNs33FOUy49Tu8Tfj"
-      },
-      "artists": [
-        {
-          "name": "Do Sliz",
-          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
-        },
-        {
-          "name": "Nervacia",
-          "url": "https://open.spotify.com/artist/5bweqL28y47qImzlzp7IyW"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
-      "url": "https://open.spotify.com/track/5ipHXEO6huR9GXel3WgTxg"
     },
     {
       "added_at": "2026-03-13 15:22:33",
@@ -1075,6 +1055,26 @@
       "duration_ms": 176335,
       "name": "\u0434\u0430\u043b\u0435\u043a\u0435 \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0454",
       "url": "https://open.spotify.com/track/5MZc08wudCcGMAAVm6IzTV"
+    },
+    {
+      "added_at": "2026-03-13 15:22:33",
+      "album": {
+        "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
+        "url": "https://open.spotify.com/album/5poYOMNs33FOUy49Tu8Tfj"
+      },
+      "artists": [
+        {
+          "name": "Do Sliz",
+          "url": "https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03"
+        },
+        {
+          "name": "Nervacia",
+          "url": "https://open.spotify.com/artist/5bweqL28y47qImzlzp7IyW"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "\u0413\u043e\u0442\u0435\u043b\u044c \u0412\u0430\u0440\u0430\u0448",
+      "url": "https://open.spotify.com/track/5ipHXEO6huR9GXel3WgTxg"
     },
     {
       "added_at": "2026-03-13 15:22:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-13 15:22:33",
       "album": {
-        "name": "\u043d\u0435 \u0432 \u043e\u0431\u0456\u0439\u043c\u0430\u0445",
-        "url": "https://open.spotify.com/album/1hCAWb75bOiQivVyZv8kuy"
-      },
-      "artists": [
-        {
-          "name": "\u0406\u0433\u043e\u0440 \u041a\u0430\u0439\u0434\u0430\u0448",
-          "url": "https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "\u043d\u0435 \u0432 \u043e\u0431\u0456\u0439\u043c\u0430\u0445",
-      "url": "https://open.spotify.com/track/0tMR5fQNwUrHd2i3dyH7Kt"
-    },
-    {
-      "added_at": "2026-03-13 15:22:33",
-      "album": {
         "name": "\u043f\u0440\u0438\u0432\u0456\u0442-\u043f\u0440\u0438\u0432\u0456\u0442",
         "url": "https://open.spotify.com/album/3CnTKG4sM5cKSet4kVr6iD"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2026-03-13 15:22:33",
       "album": {
-        "name": "\u044f \u0432\u0456\u0434\u0447\u0443\u0432\u0430\u044e \u0432\u0441\u0435?",
-        "url": "https://open.spotify.com/album/3O8R1u0M1ucKbvpTwWHkcx"
+        "name": "\u043d\u0435 \u0432 \u043e\u0431\u0456\u0439\u043c\u0430\u0445",
+        "url": "https://open.spotify.com/album/1hCAWb75bOiQivVyZv8kuy"
       },
       "artists": [
         {
-          "name": "\u043b\u0435\u0432\u043a\u043e",
-          "url": "https://open.spotify.com/artist/54ryTnyS5XuzQoPEXiLqoy"
-        },
-        {
-          "name": "sucilna_nevdacha.exe",
-          "url": "https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8"
+          "name": "\u0406\u0433\u043e\u0440 \u041a\u0430\u0439\u0434\u0430\u0448",
+          "url": "https://open.spotify.com/artist/1DBbudkd4BL8QyVK79E3qj"
         }
       ],
-      "duration_ms": 210955,
-      "name": "\u0432\u0441\u0435?",
-      "url": "https://open.spotify.com/track/11jTlnoVeugOsh9wIpWlV6"
+      "duration_ms": 235102,
+      "name": "\u043d\u0435 \u0432 \u043e\u0431\u0456\u0439\u043c\u0430\u0445",
+      "url": "https://open.spotify.com/track/0tMR5fQNwUrHd2i3dyH7Kt"
     },
     {
       "added_at": "2026-03-13 15:22:33",
@@ -1231,6 +1211,26 @@
       "duration_ms": 225675,
       "name": "\u041d\u0430 \u0412\u0435\u0440\u0448\u0438\u043d\u0456",
       "url": "https://open.spotify.com/track/3ObHaVH2Wb4OtkTEMKjaTo"
+    },
+    {
+      "added_at": "2026-03-13 15:22:33",
+      "album": {
+        "name": "\u044f \u0432\u0456\u0434\u0447\u0443\u0432\u0430\u044e \u0432\u0441\u0435?",
+        "url": "https://open.spotify.com/album/3O8R1u0M1ucKbvpTwWHkcx"
+      },
+      "artists": [
+        {
+          "name": "\u043b\u0435\u0432\u043a\u043e",
+          "url": "https://open.spotify.com/artist/54ryTnyS5XuzQoPEXiLqoy"
+        },
+        {
+          "name": "sucilna_nevdacha.exe",
+          "url": "https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8"
+        }
+      ],
+      "duration_ms": 210955,
+      "name": "\u0432\u0441\u0435?",
+      "url": "https://open.spotify.com/track/11jTlnoVeugOsh9wIpWlV6"
     },
     {
       "added_at": "2026-03-13 15:22:33",

@@ -4,7 +4,7 @@
 
 > 
 
-245 songs - 23 hr 6 min
+246 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [On My Knees](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:21 | 2023-05-31 |  |
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2023-05-31 |  |
 | [Once in a Blue Moon \- Extended Mix](https://open.spotify.com/track/25RerHohoUYK9oUuyzVYac) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Once in a Blue Moon](https://open.spotify.com/album/6ScQtnePixkdetBscAO1v1) | 6:16 | 2022-04-20 |  |
+| [One That You Love](https://open.spotify.com/track/2TmjzEaWM0NtvP9kvG2JwA) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [One That You Love](https://open.spotify.com/album/1r5YBIX5oeePjXtF9kxj4A) | 3:05 | 2026-03-20 |  |
 | [Only Get Better](https://open.spotify.com/track/5KxUNPX2MSgqmMMsrZVIQ1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:43 | 2023-11-13 |  |
 | [Orca](https://open.spotify.com/track/3gA3UvnTI1r7p37pCWQrLM) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:33 | 2022-02-04 |  |
 | [Outomorrow](https://open.spotify.com/track/1uP4NxIrmoZvBje2JOKr3d) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [A Magic World](https://open.spotify.com/album/3uW3PwT40SJKQDfhrLvwNY) | 4:11 | 2021-10-22 |  |

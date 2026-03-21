@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-839 songs - 1 day 14 hr 19 min
+841 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Break from Toronto](https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH) | 1:39 | 2022-04-04 | 2022-05-20 |
 | [breakup coach](https://open.spotify.com/track/6j5ex8QlOzNLCGeOrJ3y3Y) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW), [Kyle Wildfern](https://open.spotify.com/artist/63dhAdS8jXmuo3qZFXhIb7), [Seago](https://open.spotify.com/artist/7INCVxr6SY7yDACtHqLwpA) | [i cried my eyes out](https://open.spotify.com/album/7nljgc8zqjPRaZd8hU9eCM) | 3:03 | 2023-11-14 | 2024-06-01 |
 | [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 | 2022-06-10 | 2022-06-29 |
+| [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-20 |  |
 | [Broccoli](https://open.spotify.com/track/3rZhRBdVQ2fTEM2ULOAwUL) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 3:45 | 2022-04-04 | 2022-05-20 |
 | [Brokenhearted](https://open.spotify.com/track/3dsdUkF3ms4ORWKtEvNLEp) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 3:16 | 2022-10-21 | 2022-11-30 |
 | [Brokenhearted](https://open.spotify.com/track/48CPdX34zpCEvlJoALYvhO) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Brokenhearted / Ready](https://open.spotify.com/album/2UUiCulADu8RPldHHm6icj) | 3:16 | 2022-10-21 | 2022-11-12 |
@@ -179,7 +180,7 @@
 | [dancing on the edge](https://open.spotify.com/track/0gEoT7N1BBTK42pdzGL6FW) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [dancing on the edge](https://open.spotify.com/album/710p7FOrLGToB5XDoS7i0e) | 2:11 | 2022-05-20 | 2022-05-25 |
 | [dancinwithsomebawdy](https://open.spotify.com/track/5v7oj9PosKdE39x9uwDs6C) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [DOA](https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP) | 2:23 | 2024-01-22 | 2024-06-01 |
 | [Danny Phantom](https://open.spotify.com/track/2pytZMsJ05YzfXXGjCLfIz) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Danny Phantom](https://open.spotify.com/album/6C5f8MYuhUCBT2i4kyOIbL) | 2:14 | 2021-11-16 | 2022-02-26 |
-| [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-04-29 |  |
+| [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-04-29 | 2026-03-21 |
 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 | 2022-09-09 | 2022-11-30 |
 | [Decide](https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 2:38 | 2023-02-17 | 2023-04-15 |
 | [deep end](https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [deep end](https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w) | 2:24 | 2023-04-04 | 2023-06-17 |
@@ -649,7 +650,7 @@
 | [serotonin highs \(feat\. Allen Haley\)](https://open.spotify.com/track/20GbyJrUmAAZIt2x180YUF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w), [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 2:34 | 2023-04-26 | 2023-05-06 |
 | [Shalotto](https://open.spotify.com/track/0bPl4vRtF2gJlIUQ6revK1) | [Josue Janv'ier](https://open.spotify.com/artist/4xSGCBuWuAg2sZPLC02j9U), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Shalotto](https://open.spotify.com/album/7hPxFQOn0hi6a1E3EoU433) | 2:40 | 2022-07-01 | 2022-07-13 |
 | [Shania Twain](https://open.spotify.com/track/7EwTWFcQCOfXGyu5suJOXC) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Shania Twain](https://open.spotify.com/album/16QW96rEtlT2Z4ecuDGA9Q) | 2:32 | 2021-12-03 | 2022-02-26 |
-| [Shark](https://open.spotify.com/track/4YtaJwgTLXE5d3Xk2zUOaH) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shark](https://open.spotify.com/album/6zxkjrLqxfREH55izexxDn) | 2:49 | 2025-09-15 |  |
+| [Shark](https://open.spotify.com/track/4YtaJwgTLXE5d3Xk2zUOaH) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Shark](https://open.spotify.com/album/6zxkjrLqxfREH55izexxDn) | 2:49 | 2025-09-15 | 2026-03-21 |
 | [She Loves Me Not](https://open.spotify.com/track/5OGs76lkPNEcoSgoj3gUFK) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [She Loves Me Not](https://open.spotify.com/album/7FcTfHu4oJn91APGixkK4o) | 3:30 | 2022-11-25 | 2023-04-09 |
 | [she's wild'](https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [she's wild'](https://open.spotify.com/album/4C9KqRDbBuRxXApiIXBtNM) | 2:34 | 2023-12-01 | 2024-06-01 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-07-12 | 2023-09-09 |
@@ -764,6 +765,7 @@
 | [Top Tier](https://open.spotify.com/track/5jmBbkBYN9Zxbr8oYQEuUE) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Top Tier](https://open.spotify.com/album/4C47vc9dpvndlfRPPAWsP0) | 2:52 | 2024-03-15 | 2024-10-19 |
 | [Touristy Places](https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Touristy Places](https://open.spotify.com/album/6egT3yssUm6XR99QLGiNQ7) | 2:39 | 2023-06-30 | 2024-06-01 |
 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 | 2022-05-06 | 2022-06-04 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-20 |  |
 | [Trap \(feat\. Lil Baby\)](https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:04 | 2022-04-04 | 2022-11-22 |
 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 | 2025-08-18 |  |
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-09 | 2024-02-03 |

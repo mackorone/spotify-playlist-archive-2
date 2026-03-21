@@ -2,7 +2,7 @@
 
 ### [Wicked: For Good Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbjEq7Z199Si)
 
-> Experience the epic conclusion of Wicked: For Good with the official playlist.
+> Be changed for good with the official playlist to Wicked: For Good\. Now streaming on Peacock.
 
 43 songs - 3 hr 0 min
 

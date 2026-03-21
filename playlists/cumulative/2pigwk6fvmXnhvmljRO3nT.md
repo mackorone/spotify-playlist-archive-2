@@ -4,7 +4,7 @@
 
 > 
 
-8,518 songs - 21 day 16 hr 39 min
+8,520 songs - 21 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5995,6 +5995,7 @@
 | [Stories Untold](https://open.spotify.com/track/5HT3i1xRoD4FFyRuUv62bH) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Islands of the Lost and Forgotten \(Original Game Soundtrack\)](https://open.spotify.com/album/2rdPLD1XUQ6iN1KeQ0wrzu) | 2:21 | 2025-11-29 |  |
 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 | 2025-01-04 |  |
 | [Story: No Title](https://open.spotify.com/track/737gwrDNwTCAwAjy02FSMO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 2:48 | 2025-01-03 |  |
+| [Storyteller](https://open.spotify.com/track/0WVHhHvi9gRXWOi0LicH0S) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:33 | 2026-03-20 |  |
 | [Storytellers](https://open.spotify.com/track/2U8B6DZVnfMCUYuWRM8hz6) | [Foreground Eclipse](https://open.spotify.com/artist/6LBmnCJRD52HLRdGGxowaX) | [Foreground Eclipse](https://open.spotify.com/album/56ePpIyeJW76X5JepEm7uY) | 3:57 | 2025-01-03 |  |
 | [Storytellers](https://open.spotify.com/track/4dLNyPz58eSwVQz6K1JmDQ) | [Foreground Eclipse](https://open.spotify.com/artist/133ZFcHur9ckcKLnJ0XNJS) | [Stories That Last Through The Sleepless Nights](https://open.spotify.com/album/3QWB22qBGpDSwALq5mxnvQ) | 3:57 | 2025-11-14 |  |
 | [Str8 Ballin](https://open.spotify.com/track/3FzmWEUMpn2j2M5NCQK0WP) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 4:09 | 2025-01-15 |  |
@@ -7971,6 +7972,7 @@
 | [春擬き](https://open.spotify.com/track/6oRkyKWLFWYaE6aNanUlV3) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Follow My Tracks](https://open.spotify.com/album/511isn1s0l2ew087btkxFC) | 4:31 | 2025-01-15 |  |
 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 | 2025-01-15 |  |
 | [昼間から夜](https://open.spotify.com/track/1x5HafUXAfDRxBEWkI1Fhh) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Ampersands](https://open.spotify.com/album/7MEXEZjjGIXTLRul5JEA4x) | 4:07 | 2025-01-04 |  |
+| [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 | 2026-03-20 |  |
 | [暗く黒く](https://open.spotify.com/track/3IzKR3VsEZ7aWXhGAapMyO) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [暗く黒く](https://open.spotify.com/album/5JZiWMDnRcvLilUVYCnh7f) | 4:10 | 2025-01-15 |  |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2025-01-15 |  |
 | [木ノ葉の午後](https://open.spotify.com/track/1jFCwPNOLl9Ry6jCnVtyEw) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\-　オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/6dfygmKJzKiTCJJY7qpTnA) | 1:42 | 2025-09-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Mellow jazz for springtime focus or unwinding.",
+  "description": "Mellow jazz for focus or unwinding.",
   "name": "Chilled Jazz",
   "tracks": [
     {
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 166975,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
@@ -14153,6 +14153,24 @@
     },
     {
       "album": {
+        "name": "My side of the story",
+        "url": "https://open.spotify.com/album/5WDmMwEAgrWhmtFIsNanAr"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "My side of the story",
+      "url": "https://open.spotify.com/track/0cgt96rsp3FGmnmc3Cp10Y"
+    },
+    {
+      "album": {
         "name": "My Special Waltz",
         "url": "https://open.spotify.com/album/5C6s63fnTb9BBMIBmJ7hvA"
       },
@@ -17840,7 +17858,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 236151,
       "name": "Someone",
       "url": "https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe"
@@ -18600,6 +18618,24 @@
       "duration_ms": 167270,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N"
+    },
+    {
+      "album": {
+        "name": "Stillness Speaks",
+        "url": "https://open.spotify.com/album/63Gw114JVR9NZdI7oY1YzG"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234727,
+      "name": "Stillness Speaks",
+      "url": "https://open.spotify.com/track/748OwqyAi40p9XLUU2IFji"
     },
     {
       "album": {
@@ -20169,6 +20205,24 @@
     },
     {
       "album": {
+        "name": "The Three of Us",
+        "url": "https://open.spotify.com/album/73JU0L7WZYHKzskNkMhLYb"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207233,
+      "name": "The Three Of Us",
+      "url": "https://open.spotify.com/track/0R7N2b82rZfCb574geg8J4"
+    },
+    {
+      "album": {
         "name": "The Times We Almost Spoke",
         "url": "https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN"
       },
@@ -21300,7 +21354,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 206000,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"

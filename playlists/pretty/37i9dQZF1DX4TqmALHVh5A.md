@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Mitty
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,700 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [Internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
+| 1 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 2 | [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 |
 | 3 | [Seulement cette fois](https://open.spotify.com/track/517lGwcYzVNjzkAbkjTss4) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Cavalcades "ce que la nuit ne dit pas"](https://open.spotify.com/album/0foQKSbp4ES8LtHLliblDm) | 2:56 |
 | 4 | [Autisme](https://open.spotify.com/track/2LDmzuSF1E6EeUiHBrj7OK) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Autisme](https://open.spotify.com/album/0MKIA5SiY1FzMZuYDoJ9Mz) | 2:00 |

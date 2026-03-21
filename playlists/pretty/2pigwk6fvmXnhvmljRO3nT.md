@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,364 songs - 21 day 7 hr 29 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,366 songs - 21 day 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8372,5 +8372,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8362 | [ひとりぼっちのモノローグ](https://open.spotify.com/track/4dKhZSRaGchgvu0IZnYPrS) | [一里ぼっち\(CV:森下千咲\)](https://open.spotify.com/artist/6p4Tw99DCzxDqV8JzqdDaM), [砂尾なこ\(CV:田中美海\)](https://open.spotify.com/artist/0SSwOXwkE34oj9f3lvHDDu), [本庄アル\(CV:鬼頭明里\)](https://open.spotify.com/artist/1zEfPkUngW2LgjHqEWcGl9), [ソトカ・ラキター\(CV:黒瀬ゆうこ\)](https://open.spotify.com/artist/7oXm22Dn3pTQRPfl49nldS) | [TVアニメ「ひとりぼっちの○○生活」オープニングテーマ「ひとりぼっちのモノローグ」](https://open.spotify.com/album/1VE4tcskd1H1teLZm70TXa) | 4:28 |
 | 8363 | [ね、いっしょにかえろ。](https://open.spotify.com/track/7xgp7x9TGXvn86GKn3tjR6) | [一里ぼっち\(CV:森下千咲\)](https://open.spotify.com/artist/6p4Tw99DCzxDqV8JzqdDaM) | [TVアニメ「ひとりぼっちの○○生活」エンディングテーマ「ね、いっしょにかえろ。」](https://open.spotify.com/album/5vTmNHIXsVwVfFlYEyo6gQ) | 3:38 |
 | 8364 | [WONDERFUL WONDER](https://open.spotify.com/track/0w3nm3bkkaUv03AQ2AReSt) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [NEWS](https://open.spotify.com/album/3i29DkI1BQr8lp0gdgYnRl) | 3:05 |
+| 8365 | [Storyteller](https://open.spotify.com/track/0WVHhHvi9gRXWOi0LicH0S) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:33 |
+| 8366 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 |
 
-Snapshot ID: `AAALRWK5SNyNptPSgdYYtyjnTlDSaoVF`
+Snapshot ID: `AAALR95cFCJli8sKi+GYvYtVTBiSzsR8`

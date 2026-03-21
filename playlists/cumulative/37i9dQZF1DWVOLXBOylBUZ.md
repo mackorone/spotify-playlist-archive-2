@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Dalex y Boza.
 
-1,386 songs - 2 day 23 hr 49 min
+1,387 songs - 2 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,12 +1142,13 @@
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 | 2022-11-05 |
 | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/track/1p39fLrejm3vWAnGFGIYvC) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/album/5mQ6bzqHYKHofu8Dj5Ftw7) | 2:48 | 2022-03-18 | 2022-06-17 |
 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-07-29 | 2023-03-04 |
+| [Sin Tanto Visaje](https://open.spotify.com/track/36IKCXv76JFmwH4Ud5ZZAP) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Sin Tanto Visaje](https://open.spotify.com/album/01Xj3ZB8X0i8ZFL6vYZL7B) | 2:08 | 2026-03-20 |  |
 | [Sin Waze](https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:05 | 2023-06-16 | 2023-08-26 |
 | [SINALOA](https://open.spotify.com/track/3DN5cqnNcrhZ8udxcywiG8) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SINALOA](https://open.spotify.com/album/2HfGfq6diPlFqvpkdDaZFi) | 3:18 | 2022-01-07 | 2022-03-19 |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-11-10 | 2024-05-11 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-14 | 2022-07-01 |
 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 | 2025-06-06 |  |
-| [Sismo](https://open.spotify.com/track/6m8oq4GQfN35fJKkbWCxaf) | [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Toby Letra](https://open.spotify.com/artist/0ajO1JGM7C2V3wisDVrMai) | [Sismo](https://open.spotify.com/album/1P65gU6xn36UM2TKaUW5BG) | 2:37 | 2026-02-28 |  |
+| [Sismo](https://open.spotify.com/track/6m8oq4GQfN35fJKkbWCxaf) | [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Toby Letra](https://open.spotify.com/artist/0ajO1JGM7C2V3wisDVrMai) | [Sismo](https://open.spotify.com/album/1P65gU6xn36UM2TKaUW5BG) | 2:37 | 2026-02-28 | 2026-03-21 |
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 | 2023-06-24 |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-01 | 2022-05-14 |
 | [Socios](https://open.spotify.com/track/6akOd56SylaQz9qHRxZk9a) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Mazorkeo.com](https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId) | 1:49 | 2024-11-22 | 2025-03-08 |

@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 273084,
       "name": "Esto Es Amor",
       "url": "https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 202492,
       "name": "Me Diste la Espalda",
       "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
@@ -8420,6 +8420,28 @@
       "duration_ms": 181094,
       "name": "Viernes a la noche",
       "url": "https://open.spotify.com/track/2DyGyloSGjMMvQK2IS528I"
+    },
+    {
+      "album": {
+        "name": "vivir al mar",
+        "url": "https://open.spotify.com/album/382w7w8LmbsB4D2Xit5m62"
+      },
+      "artists": [
+        {
+          "name": "Mery Granados",
+          "url": "https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1"
+        },
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "vivir al mar",
+      "url": "https://open.spotify.com/track/39CaUKbSRMrePjnvTSstIv"
     },
     {
       "album": {

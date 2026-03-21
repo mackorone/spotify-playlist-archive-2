@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Dean Turnley
 
-3,841 songs - 8 day 18 hr 24 min
+3,842 songs - 8 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Bliss](https://open.spotify.com/track/4vQFoLRc4QfK7v3YRQucLg) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Bliss](https://open.spotify.com/album/4aQKj9CwqPZ4E8BTlWOIyO) | 3:26 | 2025-08-14 | 2025-09-19 |
 | [Blisters on My Feet](https://open.spotify.com/track/1lshJx941qq57U0OSWw6qH) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/7cJdhK0qniYWKodYxK6LPP) | 2:56 | 2023-07-27 | 2023-08-09 |
 | [Blisters on My Feet](https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Club Rompas](https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF) | 2:56 | 2023-08-07 | 2023-08-18 |
+| [Block \(I'm Not What You Need\)](https://open.spotify.com/track/1Urz5TQBN9HGUl1iTDBwqJ) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Next Summer](https://open.spotify.com/album/232W2B36OKylmkdziCPDF9) | 3:32 | 2026-03-19 |  |
 | [Block Party](https://open.spotify.com/track/7hyYBmS8LeIhXjMhzHG4Ar) | [Shapeshifter](https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf) | [Block Party](https://open.spotify.com/album/5FfL0kreP6wtkZrUruTCbn) | 3:12 | 2025-05-01 | 2025-06-13 |
 | [Block Rockin](https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Block Rockin](https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf) | 4:58 | 2023-08-31 | 2023-09-22 |
 | [Bloodsucker](https://open.spotify.com/track/2pcmGa6kXN2BYqnib77129) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Bloodsucker](https://open.spotify.com/album/1G3vQZOUQxuXEdiE3J9XwE) | 3:23 | 2025-09-11 | 2025-10-24 |
@@ -1652,6 +1653,7 @@
 | [I Feel So Damn Good](https://open.spotify.com/track/1Qbkm6FxJgiuTmsOTtxSZp) | [Yuto.](https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg) | [I Feel So Damn Good](https://open.spotify.com/album/3eScmGqZtSpPNNdxFGIKoz) | 3:10 | 2025-03-20 | 2025-04-25 |
 | [I Feel The Love](https://open.spotify.com/track/4EFiddelscAtM5atK22z61) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [I Feel The Love](https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4) | 2:33 | 2026-03-12 |  |
 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 | 2025-01-30 | 2025-03-21 |
+| [i go hard](https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [i go hard](https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W) | 3:22 | 2026-03-19 |  |
 | [I Got Love \(feat\. Nate Dogg\)](https://open.spotify.com/track/573wEbtTrCoyZFm3HaZg1d) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [I Got Love \(feat\. Nate Dogg\)](https://open.spotify.com/album/0os5qVVj0b7pFt2ctmGMCR) | 2:12 | 2025-09-18 | 2025-11-07 |
 | [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 | 2023-12-08 | 2024-01-12 |
 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 | 2025-02-13 | 2025-03-28 |
@@ -3474,7 +3476,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-05-02 |
 | [Toxic](https://open.spotify.com/track/0ZEI0seiT4dTdaeAG0Elpm) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Kormak](https://open.spotify.com/artist/2bPjd3e5EW7GfP6shz0Py5) | [Toxic](https://open.spotify.com/album/2IQ0X4YEGvqn9WPddpOxQp) | 2:48 | 2023-12-01 | 2024-01-12 |
 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 | 2024-04-11 | 2024-05-10 |
-| [Track 3](https://open.spotify.com/track/1Urz5TQBN9HGUl1iTDBwqJ) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Next Summer](https://open.spotify.com/album/232W2B36OKylmkdziCPDF9) | 0:00 | 2026-03-19 |  |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-09 | 2023-03-10 |
 | [Transport God](https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [Transport God](https://open.spotify.com/album/5IGurSLvJs2ZOPBqdZtuUF) | 2:12 | 2023-01-12 | 2023-02-17 |
 | [Trapped](https://open.spotify.com/track/28byfmQCZ3hJggUIFuaPiK) | [Tina Says](https://open.spotify.com/artist/4NStEEdNYCLBx2jwKGQhju) | [Trapped / Unreal](https://open.spotify.com/album/7uJvuYmxYopKjIDbO3TFKZ) | 3:29 | 2024-03-07 | 2024-04-05 |

@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Famous Pluto, Mavo
 
-149 songs - 7 hr 16 min
+150 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ayaya](https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Ayaya](https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm) | 2:35 | 2026-02-13 | 2026-02-20 |
 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2025-10-24 |  |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2025-10-24 |  |
+| [Bad Guyz](https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG) | [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68) | [Young Poet](https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q) | 2:33 | 2026-03-20 |  |
 | [Baddi Ah](https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Mega EJ](https://open.spotify.com/artist/0sac58AQB9s0LOKuzxZ4LO), [P.M.F](https://open.spotify.com/artist/4Q3f5yoExJeuxMn9ahhXDX) | [Baddi Ah](https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV) | 3:48 | 2025-12-19 | 2026-03-17 |
 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-10-24 | 2026-03-17 |
 | [Beautiful](https://open.spotify.com/track/1xHsqXJ8WZmPFvBELDxmzD) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Metal Hearts](https://open.spotify.com/album/6b8wauCqk5Qspur5xLizjQ) | 3:32 | 2025-11-14 | 2025-12-05 |
@@ -77,7 +78,7 @@
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2025-10-24 | 2026-01-15 |
 | [In A Mustang ​\(​feat\. Qing Madi​\)](https://open.spotify.com/track/0i7alEmjtOHLQLWmRXbjiH) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 3:15 | 2025-10-24 | 2025-12-05 |
 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 | 2026-03-13 |  |
-| [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2026-03-16 |  |
+| [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2026-03-16 | 2026-03-21 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2025-10-24 |  |
 | [Jujupiano](https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Richiemusic](https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG) | [Jujupiano La Presido](https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg) | 2:09 | 2025-10-24 |  |
 | [JUMP](https://open.spotify.com/track/3RkVf1OldUGYKfhsnE35AC) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [JUMP](https://open.spotify.com/album/1gJOBSFTxIuJ2pwYRa7cmJ) | 2:41 | 2026-02-27 |  |

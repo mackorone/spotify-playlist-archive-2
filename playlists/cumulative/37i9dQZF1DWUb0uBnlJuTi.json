@@ -2873,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Biblion",
+        "url": "https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj"
+      },
+      "artists": [
+        {
+          "name": "DEZOLVE",
+          "url": "https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338881,
+      "name": "Func and Sync",
+      "url": "https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6"
+    },
+    {
+      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -6486,7 +6504,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 222044,
       "name": "Running In Fear From Imaginary Assailants",
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"

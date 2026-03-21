@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Indie Deep",
+        "url": "https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141330,
+      "name": "Sauti Zetu",
+      "url": "https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8"
+    },
+    {
+      "album": {
         "name": "SAYSHEDO",
         "url": "https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW"
       },
@@ -2892,24 +2910,6 @@
       "duration_ms": 176326,
       "name": "Too Strong",
       "url": "https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj"
-    },
-    {
-      "album": {
-        "name": "Indie Deep",
-        "url": "https://open.spotify.com/album/2TfG4mWoaE0xhsM7mYZMaI"
-      },
-      "artists": [
-        {
-          "name": "Ochiko",
-          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
-        }
-      ],
-      "date_added": "2026-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4LSlYUvb6C815POmrSwLT8"
     },
     {
       "album": {

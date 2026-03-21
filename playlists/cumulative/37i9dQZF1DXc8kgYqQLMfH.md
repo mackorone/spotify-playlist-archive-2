@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,312 songs - 2 day 2 hr 12 min
+1,314 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Evening Walk](https://open.spotify.com/track/0M5UurbUntOyAWboXeYAp3) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Here and Now](https://open.spotify.com/album/2q7hkNQMnJWZiwM07Gb40O) | 2:08 | 2024-09-27 | 2025-07-16 |
 | [Evenings](https://open.spotify.com/track/3L6REEaOHHguItfa4RgYfx) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Evenings](https://open.spotify.com/album/69TWnZEGKfjfGDzIS39J1R) | 2:30 | 2025-11-05 | 2026-01-31 |
 | [evergreen](https://open.spotify.com/track/0AXHwu7A7Rmj64CCXmkyv5) | [wide awake](https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a) | [evergreen](https://open.spotify.com/album/6vAgu3x7RDVzT4aWV81JBr) | 1:51 | 2022-06-24 | 2022-09-09 |
+| [everything goes on](https://open.spotify.com/track/5MgY74ns68pXVHxO9IHaKo) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [everything goes on](https://open.spotify.com/album/6f5kuYnqwjTUNIG6J7BVd7) | 2:27 | 2026-03-20 |  |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-11-10 | 2024-07-21 |
 | [Exhale](https://open.spotify.com/track/4kbjW7PdqSvKwKhe9NBVuD) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Exhale](https://open.spotify.com/album/3K5P8toBo5aA71JfIDcIKe) | 2:14 | 2022-04-08 | 2022-12-10 |
 | [Exploration](https://open.spotify.com/track/4ywkLKWKctyPjjHDnG8JgK) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Exploration](https://open.spotify.com/album/1LskKx2NR2ZcKintqhPMml) | 2:30 | 2022-04-15 | 2022-12-10 |
@@ -701,7 +702,7 @@
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2021-11-10 | 2023-03-02 |
 | [mariposas](https://open.spotify.com/track/2OEiGdcYERflPWGTau38WC) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [sunday mornings](https://open.spotify.com/album/1kd235cgVh0bdUEsx2wDlB) | 2:24 | 2021-11-10 | 2022-10-01 |
 | [Markwood](https://open.spotify.com/track/1IlgyO5jzXby1OYeEl8lL1) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Markwood](https://open.spotify.com/album/1WUZxQa3ZqMrA1ifSOwr13) | 3:12 | 2024-05-13 | 2024-07-19 |
-| [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 |  |
+| [Massiv](https://open.spotify.com/track/4v7qUBLz0u5AnSRRcRyNyD) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Knowh3r3](https://open.spotify.com/artist/0NlaY8zuh9hjpOPSRL3yOG) | [Massiv](https://open.spotify.com/album/1zYbe3XZCBebHnDtZ5FPEt) | 2:03 | 2023-04-03 | 2026-03-21 |
 | [Maypop](https://open.spotify.com/track/2Qv56D7vDQr1p2mjIivW2o) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Maypop](https://open.spotify.com/album/7IgT3NALeMrMkHPMHaayra) | 2:13 | 2022-10-01 | 2023-10-06 |
 | [Meanwhile](https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [Meanwhile](https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf) | 2:22 | 2023-02-17 |  |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-02-18 | 2025-07-16 |
@@ -776,6 +777,7 @@
 | [Must've Been the Wind](https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Must've Been the Wind](https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT) | 2:17 | 2024-02-09 |  |
 | [My Lazy Day](https://open.spotify.com/track/5QH4LPBdzy8T6kzlFVSqJs) | [LazyLofi Boy](https://open.spotify.com/artist/6JdbBiVmstveo09InLdoWR) | [My Lazy Day](https://open.spotify.com/album/1cL9HMrbLpIu1cqyWcJUgA) | 2:21 | 2022-06-17 | 2023-09-22 |
 | [My Pond](https://open.spotify.com/track/3dRnbYBfxx1dXbHEpI7Ayt) | [Finn Horizon](https://open.spotify.com/artist/4y19AUiBySss0zxq6dqNve) | [My Pond](https://open.spotify.com/album/0Ht2STMgFBaApzQSmj4hYQ) | 2:27 | 2025-11-14 |  |
+| [my safe place](https://open.spotify.com/track/2ZJpn9zfmI50N1mzcyBSUJ) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [my safe place](https://open.spotify.com/album/0mkfPXG6Eac9kUOKP6SWPv) | 1:36 | 2026-03-20 |  |
 | [My Secret Glade](https://open.spotify.com/track/32tT51UcINiBPpJ7qqR20p) | [Slow Fidelity](https://open.spotify.com/artist/30g2s6KY7QIvSy004P2ZbX) | [My Secret Glade](https://open.spotify.com/album/7ko9nDoYvNvzKivkk0cyvp) | 2:06 | 2021-11-10 | 2023-05-20 |
 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-09-02 | 2024-09-28 |
 | [Mystic River](https://open.spotify.com/track/6uEgRQIdNPhZ3wG04k7uor) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Mystic River](https://open.spotify.com/album/4zq8b76Dwg1GMqBDJ40Zou) | 2:20 | 2022-10-28 | 2023-10-06 |
@@ -1049,7 +1051,7 @@
 | [Snow Cat](https://open.spotify.com/track/0xFmEZEGo8Coz5CL1EiEDP) | [Easy Deviance](https://open.spotify.com/artist/5nwDk2qZ6uzdaQ7Rz5aNZr), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Snow Cat](https://open.spotify.com/album/7dC9t5Fo2Q1fBPjx1iwwWJ) | 2:34 | 2022-12-09 | 2025-07-16 |
 | [Snowfall](https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Snowfall](https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt) | 2:32 | 2025-12-12 |  |
 | [snowfall](https://open.spotify.com/track/6gL2kWpjufrrAJTyOxhw13) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [snowfall](https://open.spotify.com/album/1hzh8mBqoEkUYzBh1TBvSj) | 2:36 | 2024-03-08 | 2024-12-14 |
-| [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 | 2022-12-09 |  |
+| [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 | 2022-12-09 | 2026-03-21 |
 | [snowy day](https://open.spotify.com/track/3D0Bq5DyCqMzb1NxOh8XDR) | [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [snowy day](https://open.spotify.com/album/7k0sSABmhBwNBu9WGcjvMW) | 3:04 | 2023-01-20 | 2025-07-16 |
 | [so much more](https://open.spotify.com/track/6Jq3HoQx6j0hWHJ52hoN5W) | [sinnr](https://open.spotify.com/artist/4rgy5K4lHDLbaSC1MMuY5m) | [so much more](https://open.spotify.com/album/5W945XNOGdKQ774ChcWOpN) | 1:52 | 2022-05-13 | 2022-05-27 |
 | [So Unique](https://open.spotify.com/track/2pir3lGD2dNsBjPRCN5Xxt) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum](https://open.spotify.com/album/73gM76gHJIEXqrY1idyLIG) | 2:39 | 2021-11-10 | 2025-07-16 |

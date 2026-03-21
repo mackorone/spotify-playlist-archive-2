@@ -1,12 +1,12 @@
 {
   "description": "Aysel Yakupo\u011flu ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 307847,
+  "num_followers": 308335,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKjffXUdm9wkur00lHq2sMWfEVGn",
+  "snapshot_id": "AAAAALpUYAAzmB3mkRlYEVQKXWFqz3eZ",
   "tracks": [
     {
       "added_at": "2026-03-19 21:00:16",
@@ -63,6 +63,22 @@
       "duration_ms": 250726,
       "name": "KORKAK",
       "url": "https://open.spotify.com/track/4XqfG0novYyoshk2JW3Ypr"
+    },
+    {
+      "added_at": "2026-03-20 06:00:06",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "added_at": "2026-03-19 21:00:16",
@@ -215,6 +231,26 @@
     {
       "added_at": "2026-03-19 21:00:16",
       "album": {
+        "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/3acTIVKKjNRDH3gnwD7afc"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "DON'T EVEN CALL (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
+    },
+    {
+      "added_at": "2026-03-19 21:00:16",
+      "album": {
         "name": "LORD OF THE MICS, Vol. 3",
         "url": "https://open.spotify.com/album/6fb0783jzddpTY6JkinTIi"
       },
@@ -291,6 +327,22 @@
       "duration_ms": 226105,
       "name": "Sirtaki",
       "url": "https://open.spotify.com/track/4NLbzDNhum8ikBME3pXb9e"
+    },
+    {
+      "added_at": "2026-03-20 07:54:44",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "added_at": "2026-03-19 21:00:16",
@@ -390,10 +442,14 @@
         {
           "name": "Franz Schubert",
           "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 480611,
+      "name": "Schubert: Piano Sonata No. 21 in B-Flat Major, D. 960: IV. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/103phSTOEABJS0rXYjLOh2"
     },
     {
@@ -444,7 +500,7 @@
           "url": "https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP"
         }
       ],
-      "duration_ms": 174000,
+      "duration_ms": 140589,
       "name": "bittin bende",
       "url": "https://open.spotify.com/track/5w6ZTxbNx62RN7ivYhNEYy"
     },
@@ -1819,6 +1875,22 @@
     {
       "added_at": "2026-03-19 21:00:16",
       "album": {
+        "name": "Yan y\u00fcregim yan",
+        "url": "https://open.spotify.com/album/5n8rJLtsgdvN6pumcJGXps"
+      },
+      "artists": [
+        {
+          "name": "Nurdan \u0130pek",
+          "url": "https://open.spotify.com/artist/19dcjm3bmQ4fdZWNLCMF7M"
+        }
+      ],
+      "duration_ms": 272317,
+      "name": "Yan y\u00fcregim yan",
+      "url": "https://open.spotify.com/track/5ZnYDac8GQChlgUtHZsySr"
+    },
+    {
+      "added_at": "2026-03-19 21:00:16",
+      "album": {
         "name": "K\u00f6r Kuyular",
         "url": "https://open.spotify.com/album/5Uyc9VTLrFN598GP66apJg"
       },
@@ -1863,6 +1935,22 @@
       "duration_ms": 70722,
       "name": "Atardamar Operasyonu",
       "url": "https://open.spotify.com/track/0WvRkADvjzHwWQcGFGASv4"
+    },
+    {
+      "added_at": "2026-03-19 21:00:16",
+      "album": {
+        "name": "Sensizlik Zor Ama",
+        "url": "https://open.spotify.com/album/0dBZ9Gc8oBar7tPhmYYNUQ"
+      },
+      "artists": [
+        {
+          "name": "Lokkiey",
+          "url": "https://open.spotify.com/artist/3sSwnEEQONMpvXT7ouxUSb"
+        }
+      ],
+      "duration_ms": 104840,
+      "name": "Sensizlik Zor Ama",
+      "url": "https://open.spotify.com/track/6JVB63g4DJ6pNOgX0bJpiT"
     },
     {
       "added_at": "2026-03-19 21:00:16",
@@ -2027,6 +2115,22 @@
       "duration_ms": 151578,
       "name": "AYAR OLUYORUM",
       "url": "https://open.spotify.com/track/0jO4We4FHkbH54wkHbpU3T"
+    },
+    {
+      "added_at": "2026-03-19 21:00:16",
+      "album": {
+        "name": "Dans\u00f6z D\u00fcnya",
+        "url": "https://open.spotify.com/album/1m2Vrstmv0vnnZnQ3NhikV"
+      },
+      "artists": [
+        {
+          "name": "Alya Aslan",
+          "url": "https://open.spotify.com/artist/7aqGphpaUwkxhyb1y3HQad"
+        }
+      ],
+      "duration_ms": 156900,
+      "name": "Dans\u00f6z D\u00fcnya",
+      "url": "https://open.spotify.com/track/0GbPtBWpwyHatuh2xRMMQb"
     },
     {
       "added_at": "2026-03-19 21:00:16",

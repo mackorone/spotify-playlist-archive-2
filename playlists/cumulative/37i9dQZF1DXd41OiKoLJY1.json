@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Paul Monseratte\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Paul Monserrate\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -23424,6 +23424,24 @@
       "duration_ms": 198870,
       "name": "GF",
       "url": "https://open.spotify.com/track/7zjUEvHCRcDhObm5Y7OXZF"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/214QLtS7MSBF0QuPU9LiMq"
+      },
+      "artists": [
+        {
+          "name": "$aucepekt",
+          "url": "https://open.spotify.com/artist/3cvXSs5bZ9sEOGsPhm7LFd"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121503,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/47Gwomwr86hlKugrPN7VbN"
     },
     {
       "album": {

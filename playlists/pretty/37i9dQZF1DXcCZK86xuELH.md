@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,648 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,659 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 43 | [Rudeboy Sound](https://open.spotify.com/track/6f8IUjZxKhQkXzPfJ0c01b) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [JODIAN NATTY](https://open.spotify.com/artist/6pibD7qPgbAdzEeDSv3N58) | [Rudeboy Sound](https://open.spotify.com/album/0mU2cgfFNEjKi99abp60re) | 3:15 |
 | 44 | [Mix Up](https://open.spotify.com/track/7r7RamKxBVIy0GMhZdV7lV) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Inqus](https://open.spotify.com/artist/3phW70eP8wr52b8HaDSdUf) | [Troublesome Bubblers EP](https://open.spotify.com/album/264E73xcKhFFObUadgix4f) | 3:44 |
 | 45 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
-| 46 | [Music 4 Da Soul \- ISHEN Remix](https://open.spotify.com/track/7Bdd3pNphNm7zYSgGyyPnN) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Courtney Melody](https://open.spotify.com/artist/2blo9rfxtArgRU5bGeJBiO), [ISHEN](https://open.spotify.com/artist/6HFwgj6rzXMsAVrFVnAgNX) | [Music 4 da Soul \(Ishen Remix\)](https://open.spotify.com/album/7cdpcjNWmVftXgrD6G1NzU) | 4:57 |
+| 46 | [Music 4 Da Soul \- ISHEN Remix](https://open.spotify.com/track/7Bdd3pNphNm7zYSgGyyPnN) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [ISHEN](https://open.spotify.com/artist/6HFwgj6rzXMsAVrFVnAgNX), [Courtney Melody](https://open.spotify.com/artist/2blo9rfxtArgRU5bGeJBiO) | [Music 4 da Soul \(Ishen Remix\)](https://open.spotify.com/album/7cdpcjNWmVftXgrD6G1NzU) | 4:57 |
 | 47 | [Blank Pages](https://open.spotify.com/track/2aUrM2EbVx2XGTalUh6Zco) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Atlas / 1](https://open.spotify.com/album/56Gcw4yzUceZQmMrPt3fTw) | 4:59 |
 | 48 | [I'll Be There](https://open.spotify.com/track/2kphJV5Rpi7iCjJTlQEdod) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [I'll Be There](https://open.spotify.com/album/0EaxICyiFSuU2HPVv1QRFP) | 4:49 |
 | 49 | [Conversations \- Breakage Remix](https://open.spotify.com/track/2CUAOXnbR2U6iPEm8Zee9Q) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Cleveland Watkiss](https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Conversations \(Breakage Remix\)](https://open.spotify.com/album/32W45dDXBd174iqglCqT5c) | 3:51 |

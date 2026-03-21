@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Phil Wickham",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Tiffany Hudson & Davide Mutendji",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2074,6 +2074,28 @@
       "duration_ms": 324486,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/0Me2VvbdQoSVn9YaVqWUKg"
+    },
+    {
+      "album": {
+        "name": "Blessed Assurance",
+        "url": "https://open.spotify.com/album/3g36eqRmsayvByOsOwqNA8"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279752,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/1P9bxxgW8O5AVfWXU7kic7"
     },
     {
       "album": {
@@ -6190,7 +6212,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 289972,
       "name": "He Arose",
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
@@ -7540,6 +7562,24 @@
       "duration_ms": 390666,
       "name": "Hurry - Live",
       "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "album": {
+        "name": "Hymn For Communion",
+        "url": "https://open.spotify.com/album/6zDRzv92WgTr8mnzYWnr6P"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208392,
+      "name": "Hymn For Communion",
+      "url": "https://open.spotify.com/track/64PpOJZIEAcExkljmLsfDM"
     },
     {
       "album": {
@@ -9441,6 +9481,28 @@
     },
     {
       "album": {
+        "name": "Jesus The Only (feat. Davide Mutendji)",
+        "url": "https://open.spotify.com/album/7Etjqgbb5o3rQqtJBgCPEo"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Davide Mutendji",
+          "url": "https://open.spotify.com/artist/6lteH2fZlwBBu1qyDc1Rs1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408773,
+      "name": "Jesus The Only (feat. Davide Mutendji)",
+      "url": "https://open.spotify.com/track/1gVCOo3SKqbFlD57JMPm5P"
+    },
+    {
+      "album": {
         "name": "Jesus Victorious (Jezus Overwinnaar)",
         "url": "https://open.spotify.com/album/5dt12Hf53YydCqmQT5hnEq"
       },
@@ -9646,7 +9708,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 217614,
       "name": "Just That Good",
       "url": "https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7"
@@ -16465,6 +16527,24 @@
     },
     {
       "album": {
+        "name": "That's How I Know",
+        "url": "https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219836,
+      "name": "That's How I Know",
+      "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
+    },
+    {
+      "album": {
         "name": "That's My King",
         "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
       },
@@ -16582,7 +16662,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 324000,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/34fPzDUWItvqb2UKDIdT82"
@@ -20172,7 +20252,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 585750,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/07MKT2Vgw2MPq3eUmgorc0"

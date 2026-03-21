@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di nayt, IvanBi, Marte, Promessa, Aira e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,089 likes - 104 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,104 likes - 104 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 25 | [Karabà](https://open.spotify.com/track/3O1l7cF7KrXTFJDS4fX0zA) | [Latif Monet](https://open.spotify.com/artist/6dUCay5HvgpMOKrjQWooKl), [Dr\. Cream](https://open.spotify.com/artist/1Infwqx3BhCS1iVbJxWdKw) | [Karabà](https://open.spotify.com/album/46JB7oc0qSuczdSS4EwdhT) | 2:52 |
 | 26 | [Playlist](https://open.spotify.com/track/66Qfg11thuq907TtiX4hH7) | [Biggie Paul](https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE), [Danti](https://open.spotify.com/artist/4zAJfp9POACU7sGK8EoMrl) | [Playlist](https://open.spotify.com/album/4uccMMCX7QS0mbrD0Fjgmo) | 3:05 |
 | 27 | [SOTTO I PALAZZI](https://open.spotify.com/track/3J6ECA2F0jhHHJzS99TDPT) | [Sosa B2](https://open.spotify.com/artist/0UNg8AkBt7FfOsNPbWgodk) | [SOTTO I PALAZZI](https://open.spotify.com/album/1kgLXvwT3o686zwUwFeyLN) | 1:42 |
-| 28 | [BANDIERA N50](https://open.spotify.com/track/2xbfq8NeUvUVob8VenuDdr) | [Deka](https://open.spotify.com/artist/4biDjFHoa96UfH4wy24PXJ), [settembre7k](https://open.spotify.com/artist/5xHVW8pcJwvD1kHVamLbJO), [Edozzk](https://open.spotify.com/artist/158LrGhX1qpwVBxcnSBXPc) | [Bandiera](https://open.spotify.com/album/7tCwi0W4GvmB1Ew2zE7RQb) | 2:26 |
+| 28 | [BANDIERA N50](https://open.spotify.com/track/2xbfq8NeUvUVob8VenuDdr) | [Deka](https://open.spotify.com/artist/4biDjFHoa96UfH4wy24PXJ), [settembre7k](https://open.spotify.com/artist/5xHVW8pcJwvD1kHVamLbJO), [Edozzk](https://open.spotify.com/artist/158LrGhX1qpwVBxcnSBXPc) | [BANDIERA N50](https://open.spotify.com/album/7tCwi0W4GvmB1Ew2zE7RQb) | 2:26 |
 | 29 | [Non è Poesia \(feat\. DJ Shocca\)](https://open.spotify.com/track/5OAgtemRYCkks3PL3K40qT) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Presa Bene](https://open.spotify.com/album/3BRaqh46FPzuzacFwLInn5) | 3:02 |
 | 30 | [Solo per un attimo](https://open.spotify.com/track/3kgUZsCmWUhBmAqBh4GzBb) | [ELIA27](https://open.spotify.com/artist/4M0i7lqHtD8aIztaNI3dt5) | [Solo per un attimo](https://open.spotify.com/album/19jLSNPx4VXC9zD4lJOrAa) | 3:00 |
 | 31 | [Da zero \(feat\. Tedua\)](https://open.spotify.com/track/3KAQXWJOVEYmq2GdsWCsVx) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [VT3SOR](https://open.spotify.com/album/55QEon5ZPCIoRdKn2q54iI) | 2:24 |

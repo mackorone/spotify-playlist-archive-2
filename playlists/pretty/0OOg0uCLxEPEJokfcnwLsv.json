@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 813,
+  "num_followers": 827,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFZjtjbYZnv/4QoQKn/cADxysguqg+",
+  "snapshot_id": "AAAFboq8/SO+X6Sqm6VfWDZqVMYp0EXF",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1471,6 +1471,134 @@
       "duration_ms": 208457,
       "name": "Wolves Of E-Street",
       "url": "https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS"
+    },
+    {
+      "added_at": "2026-03-20 02:06:08",
+      "album": {
+        "name": "El Despertar",
+        "url": "https://open.spotify.com/album/2SKEGvt1F2dUGLfRywQ3Jm"
+      },
+      "artists": [
+        {
+          "name": "Rober Mateos",
+          "url": "https://open.spotify.com/artist/0b914nKij88tAr6TkZ93ml"
+        }
+      ],
+      "duration_ms": 208708,
+      "name": "El Despertar",
+      "url": "https://open.spotify.com/track/065JBPwhEMyodKOZhmrWI0"
+    },
+    {
+      "added_at": "2026-03-20 02:13:34",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2XnDsmaRabXtnnGFOs6JW8"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse Riding",
+          "url": "https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL"
+        }
+      ],
+      "duration_ms": 229411,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1TwapdaPvDJ1ABCDDMMQ1f"
+    },
+    {
+      "added_at": "2026-03-20 02:21:57",
+      "album": {
+        "name": "Almas Crueles",
+        "url": "https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE"
+      },
+      "artists": [
+        {
+          "name": "MARSEYA",
+          "url": "https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "Almas Crueles",
+      "url": "https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo"
+    },
+    {
+      "added_at": "2026-03-20 02:31:14",
+      "album": {
+        "name": "It Never Rains in Southern California",
+        "url": "https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs"
+      },
+      "artists": [
+        {
+          "name": "Darow",
+          "url": "https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l"
+        }
+      ],
+      "duration_ms": 232354,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V"
+    },
+    {
+      "added_at": "2026-03-20 22:02:07",
+      "album": {
+        "name": "Last Chance",
+        "url": "https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D"
+      },
+      "artists": [
+        {
+          "name": "StainTown",
+          "url": "https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o"
+        }
+      ],
+      "duration_ms": 189331,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh"
+    },
+    {
+      "added_at": "2026-03-20 22:06:07",
+      "album": {
+        "name": "Demo Cracia",
+        "url": "https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe"
+      },
+      "artists": [
+        {
+          "name": "Ladr\u00e3o",
+          "url": "https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W"
+        }
+      ],
+      "duration_ms": 163140,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf"
+    },
+    {
+      "added_at": "2026-03-20 22:11:20",
+      "album": {
+        "name": "Cold, Drunk & Stoned",
+        "url": "https://open.spotify.com/album/1T7O1DrMZ7QmAAN9p16YN2"
+      },
+      "artists": [
+        {
+          "name": "Elfrida",
+          "url": "https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/73bDmL5oyycUsoeUWoNQQv"
+    },
+    {
+      "added_at": "2026-03-21 00:40:19",
+      "album": {
+        "name": "Differentiation",
+        "url": "https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "Out of Deep Waters",
+      "url": "https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq"
     }
   ],
   "unique_name": "Unsigned Rock",

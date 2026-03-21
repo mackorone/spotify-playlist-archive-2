@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval \ud83d\udcf8",
-  "num_followers": 1299687,
+  "num_followers": 1299737,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,18 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -651,34 +647,22 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Sentimental (En Vivo)",
-        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sentimental - En Vivo",
-      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
-        "name": "Habla Tu Ex",
-        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
-      },
-      "artists": [
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
         {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 193103,
-      "name": "Habla Tu Ex",
-      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -695,6 +679,22 @@
       "duration_ms": 159929,
       "name": "En Coma Inducido",
       "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Habla Tu Ex",
+        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Habla Tu Ex",
+      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 183565,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
         "name": "N\u00famero Equivocado",
         "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 204365,
       "name": "N\u00famero Equivocado",
       "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
-        "name": "La Dama",
-        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 183565,
-      "name": "La Dama",
-      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Aunque Nos Tiren Hate",
-        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "Cada D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Lo Veras de Lejos",
-        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Lo Veras de Lejos",
-      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 182376,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Lo Veras de Lejos",
+        "url": "https://open.spotify.com/album/3PLZxog7HczHnG85g3VIks"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Lo Veras de Lejos",
+      "url": "https://open.spotify.com/track/0V4mvvjtI2q72Z9gPKDzj3"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 204396,
       "name": "El secuestro del cachorro - En Vivo",
       "url": "https://open.spotify.com/track/5vRXMsQS8lVlscTZarrMP3"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
     },
     {
       "added_at": "2026-03-13 06:00:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-13 06:00:08",
       "album": {
-        "name": "Los Que Amo",
-        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 206878,
-      "name": "Los Que Amo",
-      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:08",
-      "album": {
         "name": "Por Amarte As\u00ed",
         "url": "https://open.spotify.com/album/02qvlGPV2ZH3TUV7dzKKhi"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 219054,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/3r2CRSr3taDGieaONQJ1HT"
+    },
+    {
+      "added_at": "2026-03-13 06:00:08",
+      "album": {
+        "name": "Los Que Amo",
+        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 206878,
+      "name": "Los Que Amo",
+      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
     },
     {
       "added_at": "2026-03-13 06:00:08",

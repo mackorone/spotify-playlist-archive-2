@@ -836,7 +836,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 173419,
       "name": "Alcoholic Party",
       "url": "https://open.spotify.com/track/2azcPNq64j4Lj8Rpbavx62"
@@ -6171,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
+    },
+    {
+      "album": {
         "name": "Children of the Sky",
         "url": "https://open.spotify.com/album/0J3kzIYnTBsrZINk7ZZAen"
       },
@@ -9729,6 +9751,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5DbSP7WR7NNB02GTF0tUQd"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186193,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6DO6cIyF85KXJSOjjiKv5v"
+    },
+    {
+      "album": {
         "name": "ECHOES OF DESTRUCTION",
         "url": "https://open.spotify.com/album/005J8ZQKouU2XlM61VO3w3"
       },
@@ -11981,6 +12021,24 @@
     },
     {
       "album": {
+        "name": "Fire In Me",
+        "url": "https://open.spotify.com/album/7d3zRbvb4eOEjUT625n6cc"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189648,
+      "name": "Fire In Me",
+      "url": "https://open.spotify.com/track/06zFHdrqnUu0i1sDdT16p4"
+    },
+    {
+      "album": {
         "name": "Fire In The Sky",
         "url": "https://open.spotify.com/album/4DrcAtagCHnh2wTB97MaYa"
       },
@@ -13374,6 +13432,32 @@
       "duration_ms": 170620,
       "name": "GIMMELOVE",
       "url": "https://open.spotify.com/track/31MA2613XA9UWoAW2l925R"
+    },
+    {
+      "album": {
+        "name": "Ravers Revolution",
+        "url": "https://open.spotify.com/album/0km8gzufVembWHRMzjku2j"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/7ACQePF9b8X2b4vIjAOxdx"
     },
     {
       "album": {
@@ -19347,6 +19431,24 @@
     },
     {
       "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173516,
+      "name": "Let Yourself Go",
+      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
+    },
+    {
+      "album": {
         "name": "Let's Go Insane (Into The Madness 2023 OST)",
         "url": "https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2"
       },
@@ -19524,6 +19626,24 @@
       "duration_ms": 220434,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/11iTb8iDCuX4UiFAtAjY1v"
+    },
+    {
+      "album": {
+        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
+        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193889,
+      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
+      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
     },
     {
       "album": {
@@ -22762,7 +22882,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 183100,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/2gXVv1VwNIDtBNbMDl7pxL"
@@ -23848,7 +23968,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 149117,
       "name": "No Escape",
       "url": "https://open.spotify.com/track/4uUbAVcvoCJuNA6yjMWt0w"
@@ -24810,6 +24930,28 @@
       "duration_ms": 174503,
       "name": "Oldschool",
       "url": "https://open.spotify.com/track/4JaGfWxUe3OpcwjUIjQG1I"
+    },
+    {
+      "album": {
+        "name": "Oldschool Lovers",
+        "url": "https://open.spotify.com/album/2vv4RKI5LWNqjQsxQxqRW4"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Oldschool Lovers",
+      "url": "https://open.spotify.com/track/0Y9dj2bHlzKU2D5nUhsyvJ"
     },
     {
       "album": {
@@ -26522,6 +26664,28 @@
       "duration_ms": 186750,
       "name": "Pills & Potions",
       "url": "https://open.spotify.com/track/5tv2IPbF3xZqfX7dAzwYKA"
+    },
+    {
+      "album": {
+        "name": "PILLS, DRUGS AND MF KICKROLLS",
+        "url": "https://open.spotify.com/album/6XTFifLTtSCGciKNfel1AF"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "PILLS, DRUGS AND MF KICKROLLS",
+      "url": "https://open.spotify.com/track/0fGwprPVUyI1niUQ2MwJ97"
     },
     {
       "album": {
@@ -29121,6 +29285,28 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7aoMTCPDdw4pTlWG5mwima"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188245,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3rgc96C9Ou7qA32hS2FZ6x"
+    },
+    {
+      "album": {
         "name": "Rise Again (Defqon.1 2022 Closing Theme)",
         "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
       },
@@ -29846,7 +30032,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 130875,
       "name": "Running Around - Outlined Remix",
       "url": "https://open.spotify.com/track/27zoGOyQJJrIQ8aBUITDuZ"
@@ -31586,7 +31772,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 208421,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0jz6VwmfsWFtsUFWBB5wlp"
@@ -33394,6 +33580,36 @@
       "duration_ms": 172538,
       "name": "Take Me Away (Into The Night)",
       "url": "https://open.spotify.com/track/6b5WVqhA21dAGBqoKimxGd"
+    },
+    {
+      "album": {
+        "name": "Take Me Away (Third Trip)",
+        "url": "https://open.spotify.com/album/5uPVCnbPRipdGxwjyOAjP3"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Hennes & Cold",
+          "url": "https://open.spotify.com/artist/28YpPFQdSt3PLttM808p2g"
+        },
+        {
+          "name": "Scot Project",
+          "url": "https://open.spotify.com/artist/39zQTkZegu3XxkHNRbQmaG"
+        },
+        {
+          "name": "SHOWTEKNO",
+          "url": "https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248250,
+      "name": "Take Me Away (Third Trip)",
+      "url": "https://open.spotify.com/track/6BfEVZkM5xs8VxtU3IoQul"
     },
     {
       "album": {
@@ -35780,7 +35996,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 158684,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/2TWW4cq8w6WTASpMinaip4"
@@ -37916,7 +38132,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 157500,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/28FdQUDTPobmmpL2BOq3QG"
@@ -40346,7 +40562,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218709,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1rFlpdaPT8NrBK7p3vHbZY"
@@ -41154,7 +41370,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 146250,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX"
@@ -41380,7 +41596,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162750,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/3ykJiLmkTcXrO5PpH5eFQ5"

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-591 songs - 1 day 11 hr 27 min
+592 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Making Up Making Love](https://open.spotify.com/track/7wrmrF5iU0lGSlYkTsaNGW) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 4:18 | 2023-06-23 | 2023-10-21 |
 | [Mama I Really Love You](https://open.spotify.com/track/7bWe4daPY3z357WjP6Xu7p) | [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [You Had Your Chance..\. Bad Attitude!](https://open.spotify.com/album/5xVj3HpB047Vppiwx92ncZ) | 3:15 | 2025-05-16 |  |
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 | 2025-09-27 |
+| [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Shea Givens](https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB) | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/album/1eU6rYcckrC0PmsP4lsjri) | 4:21 | 2026-03-20 |  |
 | [Maybe It's You](https://open.spotify.com/track/7kFgKExxDFZJghA6Q4kCUR) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Maybe It's You](https://open.spotify.com/album/2K52HJlE1DOY5JgVMAr4Xz) | 3:54 | 2025-05-09 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
 | [Mercy \(That's What I Need\)](https://open.spotify.com/track/4YVWELbeGxouolTFosIh1Q) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Mercy \(That's What I Need\)](https://open.spotify.com/album/6YMz645x19HGzD92sLbuR6) | 3:09 | 2025-07-16 | 2025-10-18 |
@@ -577,7 +578,7 @@
 | [Woman \(Single Edit\)](https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8) | 3:02 | 2023-09-01 | 2024-04-19 |
 | [Woman \- Single Edit](https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/2G3KsJiBi8yJXwoeBG6V4N) | 3:02 | 2023-01-27 | 2024-08-03 |
 | [Won't Be Lonely](https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Won't Be Lonely](https://open.spotify.com/album/0oO6jj0i5sZQJS3rI5E3TF) | 3:45 | 2024-09-06 |  |
-| [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 | 2026-02-27 |  |
+| [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 | 2026-02-27 | 2026-03-21 |
 | [Wonderland](https://open.spotify.com/track/2ABBvCK4TnSOv8wKJSCVcR) | [Wonder 45](https://open.spotify.com/artist/6k1Qbba3pn2wHLu7A2m95Q), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wonderland](https://open.spotify.com/album/3PRqDNpAzwzxAJqHWhL0cS) | 5:40 | 2022-05-06 | 2024-04-19 |
 | [Workin' Man Blues](https://open.spotify.com/track/3oS3jewBr4kDcMbBe4XkSq) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 3:37 | 2022-05-06 | 2024-04-19 |
 | [Workin' Man Blues](https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Workin' Man Blues](https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK) | 3:37 | 2022-05-06 | 2024-08-17 |

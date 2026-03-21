@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Bela Lugosi's Dead..\. Bauhaus on cover.
+> Release the bats..\. The Cure on cover.
 
 306 songs - 22 hr 55 min
 
@@ -98,7 +98,7 @@
 | [Fell in Love with a Mermaid](https://open.spotify.com/track/5f7LcNx09lzvvRYQx4Dkt3) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Fell in Love with a Mermaid](https://open.spotify.com/album/1AFRlFvmQOVgbuL9V52xat) | 3:31 | 2022-06-03 | 2022-07-01 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7abc6Xc7EVLFmSzPVli4u7) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/6deZe9K7HL6s5GqptuXQWM) | 4:39 | 2022-04-01 | 2022-05-07 |
 | [Flowers](https://open.spotify.com/track/64M5ClXAgxTxmujhWN75XY) | [Rozz Williams and Gitane D...](https://open.spotify.com/artist/2yZHZ21tq76N2oc3G4zScF) | [Dream Home Heartache](https://open.spotify.com/album/3gJiXAaXhHgInF3spF1d3m) | 6:07 | 2021-10-15 | 2022-07-08 |
-| [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 |  |
+| [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 | 2026-03-21 |
 | [For Her Light](https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE) | 3:01 | 2021-10-15 | 2022-07-29 |
 | [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 | 2023-11-21 |
 | [From Her to Eternity \- 2009 Remastered Version](https://open.spotify.com/track/7nAx6FMrysqM88U48kc6i9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:35 | 2021-10-15 | 2022-07-20 |
@@ -252,7 +252,7 @@
 | [Spirit Walker](https://open.spotify.com/track/0NLuyHeITS20TXkA46R4Vn) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Gothic Rock 3 \- Black on Black](https://open.spotify.com/album/4BHezhva1YJlprHRgdssPp) | 3:36 | 2021-10-15 | 2022-07-07 |
 | [Spiritual Cramp \- 1](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 | 2021-10-15 |  |
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2021-10-15 | 2022-11-14 |
-| [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 | 2021-10-15 | 2022-07-29 |
+| [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 | 2021-10-15 |  |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-20 | 2023-03-30 |
 | [Strangers](https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9) | [Then Comes Silence](https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy) | [III \- Nyctophilian](https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM) | 3:58 | 2021-10-15 | 2022-07-28 |
 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 | 2025-02-04 |

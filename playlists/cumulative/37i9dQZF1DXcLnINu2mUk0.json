@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "10 MINUTOS",
+        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
+      },
+      "artists": [
+        {
+          "name": "ATJ",
+          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300333,
+      "name": "10 MINUTOS",
+      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
+    },
+    {
+      "album": {
         "name": "100 Maneiras",
         "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 182876,
       "name": "23:40",
       "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 209162,
       "name": "Auto-Estima",
       "url": "https://open.spotify.com/track/05T4W8jxTpLfzlKzGOVSEy"
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 154924,
       "name": "HORAS",
       "url": "https://open.spotify.com/track/6JKN4hhG8P9P6qbg9Z6cyW"
@@ -7898,7 +7916,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 476337,
       "name": "Kataleya",
       "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
@@ -15378,7 +15396,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 145945,
       "name": "TKT",
       "url": "https://open.spotify.com/track/0PvVkuO5QxckApBrHpYtr6"
@@ -15933,6 +15951,24 @@
     },
     {
       "album": {
+        "name": "T\u00e3o Longe",
+        "url": "https://open.spotify.com/album/4nd52S5gpNtdWBEwekty53"
+      },
+      "artists": [
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148651,
+      "name": "T\u00e3o Longe",
+      "url": "https://open.spotify.com/track/6V4WNhMcXDH9TYugaWUc3P"
+    },
+    {
+      "album": {
         "name": "T\u00e3o Perto",
         "url": "https://open.spotify.com/album/2nu3SwyyAdtxLzIUmywury"
       },
@@ -16108,6 +16144,24 @@
       "duration_ms": 236814,
       "name": "underwater",
       "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
+    },
+    {
+      "album": {
+        "name": "UNIVERSO",
+        "url": "https://open.spotify.com/album/7953aKGtpXmJpBIrjN5BOp"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "UNIVERSO",
+      "url": "https://open.spotify.com/track/4Hf1fvy3UbgAAYDiV1kp9A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 167 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 167 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 85 | [i'm fine](https://open.spotify.com/track/2Ff84Bm75EdzfM0KOT3pn7) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:40 |
 | 86 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
 | 87 | [ON THE MOON](https://open.spotify.com/track/12A3iqsBa70rozVTjXx4r6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 1:52 |
-| 88 | [Lovergirl](https://open.spotify.com/track/5u58jnNglxz5EeaDgb4K6v) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:32 |
-| 89 | [Bad Cameo](https://open.spotify.com/track/1n7DZlKSbu6rQ0WHS7IZb7) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 3:51 |
+| 88 | [Bad Cameo](https://open.spotify.com/track/1n7DZlKSbu6rQ0WHS7IZb7) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 3:51 |
+| 89 | [Lovergirl](https://open.spotify.com/track/5u58jnNglxz5EeaDgb4K6v) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:32 |
 | 90 | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC) | 3:37 |
 | 91 | [OUTSIDE](https://open.spotify.com/track/3MMDqI7L2fM1NWZYs6FY53) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [FALCON OF THE MILLENNIUM \- FALCONIA \(DELUXE\)](https://open.spotify.com/album/7bdY8HOG5stSpuoQqa8lnW) | 2:45 |
-| 92 | [can't fight the devil](https://open.spotify.com/track/3ZXOE3r6EP8EqWz40uuyIr) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 3:29 |
-| 93 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 92 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 93 | [can't fight the devil](https://open.spotify.com/track/3ZXOE3r6EP8EqWz40uuyIr) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 3:29 |
 | 94 | [only thing on my mind](https://open.spotify.com/track/6dY6ahXqNkLuiOfCUdse1K) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2AtPEetSZOglaAP9KPVt1i) | 2:42 |
 | 95 | [Knights](https://open.spotify.com/track/7B3vxbu42Z0eR8EveO5q8N) | [AQ](https://open.spotify.com/artist/6rYTTx9HCMsfRL3GBecubd) | [Knights](https://open.spotify.com/album/4ey9tfEfPkIniJn5SP61mU) | 2:48 |
 | 96 | [Selfish](https://open.spotify.com/track/3AzHSTcdSGexQjV5Uu512n) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 3:18 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 141 | [Awake](https://open.spotify.com/track/5rUIMX544uJUMYJ3ibuGY5) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:00 |
 | 142 | [Ain't Shit](https://open.spotify.com/track/2NPi3iQsP41qKzCX1VMKy5) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Ain't Shit](https://open.spotify.com/album/6AxS2i3Khsq8EtiIPwsjBs) | 2:31 |
 | 143 | [Life B Changin](https://open.spotify.com/track/0WqhI3MKygdmcuRC9yDu3F) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Joony](https://open.spotify.com/artist/0p1TgVWKr0kT2N7RJChAd0) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/56zJMbW6YominpuxrywIjr) | 2:56 |
-| 144 | [Wild](https://open.spotify.com/track/0HQkNYuExxqtYMHfPBexOR) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Wild](https://open.spotify.com/album/6RQZUVur7VDCgdFQ7rRUph) | 2:36 |
-| 145 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 144 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 145 | [Wild](https://open.spotify.com/track/0HQkNYuExxqtYMHfPBexOR) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Wild](https://open.spotify.com/album/6RQZUVur7VDCgdFQ7rRUph) | 2:36 |
 | 146 | [simulation](https://open.spotify.com/track/1UTm9oNUaVqukwpfp5XUYA) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 0:51 |
 | 147 | [Real Issues](https://open.spotify.com/track/1MZavt51KHokyEEQzZFMHz) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [MIGH\-X](https://open.spotify.com/artist/2ITDAAFADIl8zBdcde92wL) | [October 2018](https://open.spotify.com/album/6b9ksDCJw1dUCVd2svduNW) | 2:36 |
 | 148 | [Show Haters \(feat\. Quavo\)](https://open.spotify.com/track/18iPv8CGSmpz8mry9hK887) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:44 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 166 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 167 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcMlNAAAAAC4lKgKpJPlfkzk5oevicIX`
+Snapshot ID: `AcMqmAAAAAByHYlUGANa0NjOeWXjED9s`

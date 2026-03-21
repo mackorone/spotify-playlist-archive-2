@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Noridogam \(Korea\)
 
-2,458 songs - 6 day 5 hr 2 min
+2,458 songs - 6 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [Margarita](https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Margarita](https://open.spotify.com/album/14QSWeqDCKgesoarHCKntL) | 3:36 | 2022-11-24 | 2023-02-17 |
 | [maria](https://open.spotify.com/track/7AsX8NQe8HSh3bgeuDycYr) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 2:30 | 2023-08-03 | 2023-08-18 |
 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 | 2023-04-07 | 2024-01-17 |
+| [Mata Api](https://open.spotify.com/track/6DOFJOTBsO1YxZKaacmY8f) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4), [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Tirakat \(Habibi Funk 034\)](https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs) | 6:41 | 2026-03-20 |  |
 | [mata\(hari\)](https://open.spotify.com/track/7v8Z8KGRCFhhJra1LLGTh2) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [mata\(hari\)](https://open.spotify.com/album/3gHn4g5n51P4XTXT0OCv47) | 4:06 | 2025-05-15 | 2025-06-07 |
 | [Matahari](https://open.spotify.com/track/3gdqotXTAfRcBgCMP9fQ0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Album Vakansi](https://open.spotify.com/album/6pwO0FlmvK6Ny1zXJpYv6P) | 4:11 | 2023-08-31 | 2023-09-16 |
 | [Material Girl](https://open.spotify.com/track/4Eq2ai0gdPGaqA3iBvnrau) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Material Girl](https://open.spotify.com/album/3oZXrPKNeIvFucxvCOQ8Q7) | 3:37 | 2022-04-21 | 2022-05-13 |
@@ -1991,7 +1992,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 5](https://open.spotify.com/track/6DOFJOTBsO1YxZKaacmY8f) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tirakat \(Habibi Funk 034\)](https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs) | 0:00 | 2026-03-20 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |

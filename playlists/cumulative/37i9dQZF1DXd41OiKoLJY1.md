@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Paul Monseratte
+> Fresh releases from your future favorite artists\. Cover: Paul Monserrate
 
-4,061 songs - 9 day 21 hr 11 min
+4,062 songs - 9 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,6 +1227,7 @@
 | [getaway](https://open.spotify.com/track/3JAR2lGvb5ekvlQZzVOayO) | [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg) | [getaway](https://open.spotify.com/album/2KbvMXDb1u0vKuGxqRnZ9h) | 3:15 | 2023-07-27 | 2023-08-18 |
 | [Gets?](https://open.spotify.com/track/3yJ1ObH78P9SOdGUyeYDLU) | [Jabe](https://open.spotify.com/artist/2LFI0AL75hQzxB1uI2cNyH) | [Gets?](https://open.spotify.com/album/5Rx2SSb0AoD4UbGWEwdFVT) | 3:42 | 2025-08-21 | 2025-11-07 |
 | [GF](https://open.spotify.com/track/7zjUEvHCRcDhObm5Y7OXZF) | [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [GF](https://open.spotify.com/album/7ml4aUNQd5cwAJIc7Raw89) | 3:18 | 2025-05-30 | 2025-07-11 |
+| [GHOST](https://open.spotify.com/track/47Gwomwr86hlKugrPN7VbN) | [$aucepekt](https://open.spotify.com/artist/3cvXSs5bZ9sEOGsPhm7LFd) | [GHOST](https://open.spotify.com/album/214QLtS7MSBF0QuPU9LiMq) | 2:01 | 2026-03-19 |  |
 | [Ghosts](https://open.spotify.com/track/1dxItRTxSOfrrdJQSRsmRM) | [The Breed](https://open.spotify.com/artist/5FCoHblkKSBRKvyMXzV5uw) | [Ghosts](https://open.spotify.com/album/6QyosTqdLau4HOC9dv1nU5) | 3:39 | 2022-11-03 | 2023-02-03 |
 | [GIATAY!](https://open.spotify.com/track/3AFdGlKCjHJAW4rwPsDrt1) | [YooGo](https://open.spotify.com/artist/0C2UMiL7SHWJFBvrdGzdn7), [Rolly Pionilla](https://open.spotify.com/artist/6BXp5LwecVNIqgPHhgtZhd) | [GIATAY!](https://open.spotify.com/album/5gNfmKi3CdGYNIiobW6WkD) | 2:46 | 2024-09-19 | 2024-10-11 |
 | [Gigil](https://open.spotify.com/track/1W1SVgJHokg7PeLEqKX7Lm) | [Mikee](https://open.spotify.com/artist/48rxnfZyO2oDLWaSaqgocx) | [Gigil](https://open.spotify.com/album/7GhlyvuwdPUVaA5nWwBBKV) | 3:20 | 2023-06-08 | 2023-06-23 |

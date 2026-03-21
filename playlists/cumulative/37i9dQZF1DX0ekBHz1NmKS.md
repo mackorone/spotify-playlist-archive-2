@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,202 songs - 4 day 18 hr 13 min
+2,203 songs - 4 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,6 +1267,7 @@
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-03 | 2025-09-05 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
 | [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 | 2025-11-05 |
+| [Min barndoms sång](https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag håller hjärtat i min hand](https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2) | 3:15 | 2026-03-19 |  |
 | [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 | 2026-02-26 |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
@@ -1424,6 +1425,7 @@
 | [Om du vill](https://open.spotify.com/track/4xG2nTPEzzVISmzk7sepJd) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Om du vill](https://open.spotify.com/album/6gV3WwnZQMkyiFBMTp3jTd) | 3:03 | 2024-03-14 | 2024-03-20 |
 | [Om du visste om](https://open.spotify.com/track/4ngUG0Nswt92xrvmjhaNTk) | [NESS](https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3) | [Om du visste om](https://open.spotify.com/album/2ypCfxJ9szCzpRvbCtpSE7) | 2:14 | 2024-05-02 | 2024-05-10 |
 | [Om himlen faller ner](https://open.spotify.com/track/7AVS4yQPccA0fthHXOqxTB) | [Hanna Raf](https://open.spotify.com/artist/0wJIlyUsEBrhbWh97uyqwW) | [Om himlen faller ner](https://open.spotify.com/album/7pax0m39RlOuPwOHzMnohI) | 2:58 | 2024-05-23 | 2024-06-21 |
+| [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 | 2026-03-19 |  |
 | [Om Jag Inte Kan Leva Med Dig Varför Dör Jag Då Utan Dig](https://open.spotify.com/track/3AF9kWf3FsXv6aUzUOc5zb) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Om Jag Inte Kan Leva Med Dig Varför Dör Jag Då Utan Dig](https://open.spotify.com/album/3OUOtceoVcpY04gJcErxts) | 2:42 | 2024-04-04 | 2024-05-10 |
 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 | 2025-10-16 | 2026-01-23 |
 | [On and On](https://open.spotify.com/track/28tvB0Wj8RjpGeGW0pgE3q) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [On and On](https://open.spotify.com/album/1dHXJErcUGgS8R5Awig6VS) | 3:09 | 2024-05-16 | 2024-06-14 |
@@ -1805,7 +1807,8 @@
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 | 2023-07-07 |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
 | [Superhjältar](https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Superhjältar](https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm) | 2:24 | 2025-10-09 | 2026-02-13 |
-| [Superlim & silvertejp](https://open.spotify.com/track/1rGZrsEvLR2DcOgMjueSm2) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Blåögd](https://open.spotify.com/album/7230b9mUY4ARtRBygL0Byh) | 3:13 | 2026-03-19 |  |
+| [Superlim & silvertejp](https://open.spotify.com/track/1rGZrsEvLR2DcOgMjueSm2) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Blåögd](https://open.spotify.com/album/7230b9mUY4ARtRBygL0Byh) | 3:13 | 2026-03-19 | 2026-03-21 |
+| [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-03-20 |  |
 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 | 2025-05-01 | 2025-10-17 |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU) | 3:15 | 2024-03-14 | 2024-04-19 |
 | [Supersonic P\*$$y](https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Supersonic P\*$$y](https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN) | 2:47 | 2024-05-03 | 2024-06-01 |
@@ -1950,8 +1953,6 @@
 | [Toulouse](https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Toulouse](https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc) | 3:00 | 2024-08-29 | 2024-10-06 |
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-04-03 | 2025-06-06 |
-| [Track 11](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 0:00 | 2026-03-19 |  |
-| [Track 5](https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag håller hjärtat i min hand](https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2) | 0:00 | 2026-03-19 |  |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-06-27 |
 | [Trasiga Skor](https://open.spotify.com/track/2oui1x8hu3GY3FQDxFADbe) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Trasiga Skor](https://open.spotify.com/album/3DI1AW6MIBUL1pgDRAsBew) | 2:33 | 2024-05-09 | 2024-06-07 |

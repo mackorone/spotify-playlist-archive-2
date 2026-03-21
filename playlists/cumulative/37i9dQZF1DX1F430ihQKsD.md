@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> 100 % chill, 100 % Montréal\. Photo: Lewis Dice
+> 100 % chill, 100 % Montréal\. Photo: Moses Bélanger
 
-828 songs - 1 day 23 hr 0 min
+833 songs - 1 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 | 2023-05-19 | 2024-08-03 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2023-09-16 |
 | [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 | 2025-11-28 |  |
+| [A Smile With Scars](https://open.spotify.com/track/13kE6kjKyOjLhW0QxFtnaL) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [A Smile With Scars](https://open.spotify.com/album/0UQYzo6O3qie6bAFkr9vbV) | 3:57 | 2026-03-20 |  |
 | [Abigail](https://open.spotify.com/track/1Btgfga2Sh4ApTTzFaZ5P5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Running With Scissors](https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act) | 2:40 | 2025-12-03 | 2026-02-21 |
 | [Abigail](https://open.spotify.com/track/46ub00quUTby9VKlkcxtro) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Abigail](https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape) | 2:40 | 2025-07-25 | 2025-11-01 |
 | [Actress](https://open.spotify.com/track/0jhruq62eOzLG3tH2haDVh) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Desire Days](https://open.spotify.com/album/5icDh0mJkNBgAC89IlGZg2) | 4:46 | 2025-06-23 | 2026-01-17 |
@@ -169,6 +170,7 @@
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2022-03-25 | 2022-05-28 |
 | [Cross Control Patrol](https://open.spotify.com/track/5GhOmSUneOKUaFwEOjWYTC) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [Cross Control Patrol](https://open.spotify.com/album/2RZT8iKshF9BlBOrVwXMdE) | 2:39 | 2025-10-01 | 2025-11-08 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-09-27 | 2024-10-19 |
+| [Cupid](https://open.spotify.com/track/3wnk6cVBfBxO0HB7n3XGIu) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Cupid](https://open.spotify.com/album/2XPoZXewYmtVB6uaDKL6Xx) | 2:44 | 2026-03-20 |  |
 | [Cycle délicat](https://open.spotify.com/track/12Lrxdw1iIjQJT4y2VT436) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cycle délicat](https://open.spotify.com/album/5sehiJueG6OFg1EYJ9dm9B) | 3:14 | 2025-07-18 | 2025-11-08 |
 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 | 2024-08-23 | 2024-10-26 |
 | [Côte à côte](https://open.spotify.com/track/0HOam65TS747Pobhfj8qai) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Côte à côte](https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v) | 2:46 | 2022-03-25 | 2022-09-17 |
@@ -315,6 +317,7 @@
 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 | 2023-04-07 | 2024-06-08 |
 | [Hirondelle](https://open.spotify.com/track/07u2B4PIbpqUdB15kqf7eo) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Hirondelle](https://open.spotify.com/album/1iPQItze8nNwmUasepxcCK) | 4:29 | 2026-01-16 |  |
 | [Hiver](https://open.spotify.com/track/78Inxr9wSYfWnnh7kalVJD) | [Floraison Tardive](https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz) | [Radeau Capharnaüm](https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf) | 3:30 | 2025-12-03 | 2026-01-17 |
+| [HOLD ON](https://open.spotify.com/track/7nK8G1zc8hegcyZkkHqxuT) | [ZIMBA](https://open.spotify.com/artist/3x0CRCfeyuclCerBLKt3ZD) | [HOLD ON](https://open.spotify.com/album/1LbHo45fmt3UG6bbWoyLv5) | 3:00 | 2026-03-20 |  |
 | [Hold You](https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Hold You EP](https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt) | 4:25 | 2024-08-30 | 2025-10-18 |
 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 | 2022-03-25 | 2023-04-01 |
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 | 2025-10-25 |
@@ -425,6 +428,7 @@
 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 | 2024-10-11 | 2025-10-18 |
 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 | 2022-08-26 | 2023-10-14 |
 | [Le p'tit fou](https://open.spotify.com/track/7DEZSbFnPI4r8uli6rNQ5w) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'aimais mieux les maquettes](https://open.spotify.com/album/0O02fy8CyneFsi7DcFp1OK) | 2:23 | 2022-10-21 | 2023-03-18 |
+| [Le prix de la paix](https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Combien de fois](https://open.spotify.com/album/3jr8O02969iZU43rdaPuyo) | 3:07 | 2026-03-20 |  |
 | [Le Restaurant](https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf) | [childhood friend](https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu) | [Like I did for Tommy](https://open.spotify.com/album/5GEPVScpkAWDUsmh3poaGc) | 3:18 | 2025-11-07 |  |
 | [Le temps fait bien les choses](https://open.spotify.com/track/0yytZtr5NI3vzM0KK3KEOM) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le temps fait bien les choses](https://open.spotify.com/album/4ClswQtnkH4uj0nHS3jhrH) | 2:57 | 2024-08-16 | 2025-05-17 |
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-03-25 | 2022-06-18 |
@@ -545,6 +549,7 @@
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2023-05-13 |
 | [Oiseau migrateur](https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [tout me quitte / tout vient à moi](https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn) | 4:37 | 2026-01-30 |  |
 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 | 2026-02-13 |  |
+| [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 | 2026-03-20 |  |
 | [On My Own](https://open.spotify.com/track/4UNJNgzUePpE8ph0r10Dbg) | [Amber Days](https://open.spotify.com/artist/2jNpmcKcRtfzxxKgaMsOmb) | [On My Own](https://open.spotify.com/album/4WREdL8RikGhcfRdCs7iP9) | 3:34 | 2026-02-13 |  |
 | [On s'aime jusqu'à quand ?](https://open.spotify.com/track/4ueRX7t3Sa860JWwrbIJyJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [On s'aime jusqu'à quand ?](https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF) | 3:21 | 2024-05-03 | 2024-08-31 |
 | [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 | 2024-08-10 |

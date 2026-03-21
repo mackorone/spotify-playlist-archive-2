@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Aldo Trujillo en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Antonin Padilla, Cheko MG en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 189279,
       "name": "25 de Diciembre - En Vivo",
       "url": "https://open.spotify.com/track/2SyJ32t7e2Nqx9yPEjfnIx"
+    },
+    {
+      "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224785,
+      "name": "29:11",
+      "url": "https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV"
     },
     {
       "album": {
@@ -498,7 +516,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 201604,
       "name": "7 BESOS",
       "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
@@ -4575,6 +4593,28 @@
     },
     {
       "album": {
+        "name": "Chambeandole Macizo",
+        "url": "https://open.spotify.com/album/26MfI6t7C2cYyn0hPQWtbP"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        },
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220874,
+      "name": "Chambeandole Macizo",
+      "url": "https://open.spotify.com/track/6rF3EcMniPSGzOn5CFVMvJ"
+    },
+    {
+      "album": {
         "name": "Changuito Me Apodaron",
         "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
       },
@@ -4648,6 +4688,24 @@
       "duration_ms": 209037,
       "name": "Chevrolet 4X4",
       "url": "https://open.spotify.com/track/4IL0PX4FwnM2s0l6r8fl5o"
+    },
+    {
+      "album": {
+        "name": "V - EP",
+        "url": "https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121360,
+      "name": "Chevrolet 90",
+      "url": "https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY"
     },
     {
       "album": {
@@ -5286,7 +5344,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 206504,
       "name": "Como La Espuma",
       "url": "https://open.spotify.com/track/2ROXhSpgypPfeXOjM0rbuK"
@@ -5596,6 +5654,28 @@
       "duration_ms": 167381,
       "name": "Corleone",
       "url": "https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo"
+    },
+    {
+      "album": {
+        "name": "Coronar",
+        "url": "https://open.spotify.com/album/2BknozLsYjG4bpp4I36INW"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185501,
+      "name": "Coronar",
+      "url": "https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL"
     },
     {
       "album": {
@@ -7376,6 +7456,24 @@
       "duration_ms": 149664,
       "name": "Don R",
       "url": "https://open.spotify.com/track/2qkzRsnFh9bPtN4On5wcxK"
+    },
+    {
+      "album": {
+        "name": "Don Roque",
+        "url": "https://open.spotify.com/album/67smUCRvjQhS4lGlJ9N5dt"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187358,
+      "name": "Don Roque",
+      "url": "https://open.spotify.com/track/5S1KatP6OI1kldBcCo2Jtz"
     },
     {
       "album": {
@@ -16935,6 +17033,24 @@
     },
     {
       "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+    },
+    {
+      "album": {
         "name": "Frente A Frente",
         "url": "https://open.spotify.com/album/3ksd8u0oarspgILMXxAXYX"
       },
@@ -17272,7 +17388,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 152466,
       "name": "GALLARDO",
       "url": "https://open.spotify.com/track/25hihXErV9c9vnyVgd2GRp"
@@ -18125,6 +18241,28 @@
     },
     {
       "album": {
+        "name": "Ra\u00edces de Acero",
+        "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166556,
+      "name": "Haciendo Dinero",
+      "url": "https://open.spotify.com/track/1zBlMaPQfjDHJGMI9GlPag"
+    },
+    {
+      "album": {
         "name": "Haciendo Memoria",
         "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
       },
@@ -18396,7 +18534,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 193891,
       "name": "Herencia Mexicana",
       "url": "https://open.spotify.com/track/2KCEjuFAZLclRoQ35MNMMh"
@@ -20220,7 +20358,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 184981,
       "name": "La Capital",
       "url": "https://open.spotify.com/track/6nTPS5QcEz1AZ1IOfIOxbR"
@@ -20438,7 +20576,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 256241,
       "name": "La Contadora",
       "url": "https://open.spotify.com/track/6R2WlAqZDOuE7rKWjxBXPx"
@@ -23274,7 +23412,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 230242,
       "name": "Lolo Felix - En Vivo",
       "url": "https://open.spotify.com/track/5DDh6vErqpXSFBsn2Jetha"
@@ -25116,7 +25254,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142578,
       "name": "Me Pegu\u00e9 Un Pase",
       "url": "https://open.spotify.com/track/7qGBTUrqWcHgGqMSP2SCrv"
@@ -26370,6 +26508,24 @@
       "duration_ms": 195223,
       "name": "Mono Verde",
       "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
+    },
+    {
+      "album": {
+        "name": "Ra\u00edces de Acero",
+        "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164436,
+      "name": "Monta\u00f1as y Cerros",
+      "url": "https://open.spotify.com/track/6p2CkKPGBbYxpIJtywqvC0"
     },
     {
       "album": {
@@ -28858,7 +29014,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 211421,
       "name": "Playas Y Blones",
       "url": "https://open.spotify.com/track/2pykB1zqstSLQ21w12gm0Q"
@@ -32635,6 +32791,28 @@
     },
     {
       "album": {
+        "name": "Soy De Agiabampo",
+        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Soy De Agiabampo",
+      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
+    },
+    {
+      "album": {
         "name": "Soy de Parral (En Vivo)",
         "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
       },
@@ -33643,6 +33821,24 @@
     },
     {
       "album": {
+        "name": "ESSENCE #10 (Deluxe)",
+        "url": "https://open.spotify.com/album/4nASxlfNNftOBjAdIhqA4F"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Tirabalas",
+      "url": "https://open.spotify.com/track/1Q4bEb1FY92Vf2nB9Tesjq"
+    },
+    {
+      "album": {
         "name": "Tirando Flow Sesh #9",
         "url": "https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO"
       },
@@ -33698,7 +33894,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 132480,
       "name": "Titi",
       "url": "https://open.spotify.com/track/7khljrwL1dO6sZDAClVeLF"
@@ -33720,6 +33916,28 @@
       "duration_ms": 175466,
       "name": "Toca Batear",
       "url": "https://open.spotify.com/track/0EL55H47sEoiuwaRoOC68O"
+    },
+    {
+      "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180756,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
     },
     {
       "album": {
@@ -33876,7 +34094,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 181920,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2"

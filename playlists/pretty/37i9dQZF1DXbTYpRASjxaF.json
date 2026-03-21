@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Oklin, NandaTsunami",
-  "num_followers": 135018,
+  "num_followers": 135019,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
+        "name": "Cop\u00e3o",
+        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 157850,
+      "name": "Cop\u00e3o",
+      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
         "name": "Voc\u00ea Precisa do \u00c1libi",
         "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 126533,
       "name": "MULHER BRASILEIRA",
       "url": "https://open.spotify.com/track/6aFF2C009Wc6CGftyJcRkG"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
-        "name": "Cop\u00e3o",
-        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 157850,
-      "name": "Cop\u00e3o",
-      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2026-03-13 03:01:11",
@@ -575,6 +575,26 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
+        "name": "loira de medicina",
+        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 153472,
+      "name": "loira de medicina",
+      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
         "name": "Mentiras pro KayG",
         "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 195555,
       "name": "Mentiras pro kayg",
       "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
-        "name": "loira de medicina",
-        "url": "https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 153472,
-      "name": "loira de medicina",
-      "url": "https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg"
     },
     {
       "added_at": "2026-03-13 03:01:11",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
-        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
-        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "AMAPIANO",
-      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
         "name": "Mistura de Sotaque",
         "url": "https://open.spotify.com/album/5c0DY72KgbpzSR8k9gDRL7"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 198101,
       "name": "Mistura de Sotaque",
       "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
+        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
+        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "AMAPIANO",
+      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
     },
     {
       "added_at": "2026-03-13 03:01:11",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/7eUepdWZLeKfvudVFmLmDY"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Dennix",
+          "url": "https://open.spotify.com/artist/2956ruMVOp7gOncwSU9cC4"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "NU",
+      "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 133064,
       "name": "Atemporal",
       "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/7eUepdWZLeKfvudVFmLmDY"
-      },
-      "artists": [
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Dennix",
-          "url": "https://open.spotify.com/artist/2956ruMVOp7gOncwSU9cC4"
-        }
-      ],
-      "duration_ms": 131764,
-      "name": "NU",
-      "url": "https://open.spotify.com/track/6IiZ9VESqTIkOIND0WMk0h"
     },
     {
       "added_at": "2026-03-13 03:01:11",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
-        "name": "BANDIDIN",
-        "url": "https://open.spotify.com/album/0EpvbA2BJKoIYRQa14bzY7"
-      },
-      "artists": [
-        {
-          "name": "Ramaciote",
-          "url": "https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk"
-        },
-        {
-          "name": "PS",
-          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        }
-      ],
-      "duration_ms": 158270,
-      "name": "BANDIDIN",
-      "url": "https://open.spotify.com/track/68JuEQAcgqaC5XtzGgRIQh"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
         "name": "YeYeYe / N\u00e3o Solta Minha M\u00e3o",
         "url": "https://open.spotify.com/album/69jfklmT8EO7ECOy5HkX7R"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 190534,
       "name": "Yeyeye",
       "url": "https://open.spotify.com/track/4ES5UTfWHbd2fgXFdrNdTR"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
+        "name": "BANDIDIN",
+        "url": "https://open.spotify.com/album/0EpvbA2BJKoIYRQa14bzY7"
+      },
+      "artists": [
+        {
+          "name": "Ramaciote",
+          "url": "https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "duration_ms": 158270,
+      "name": "BANDIDIN",
+      "url": "https://open.spotify.com/track/68JuEQAcgqaC5XtzGgRIQh"
     },
     {
       "added_at": "2026-03-13 03:01:11",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Isabèl Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,752 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,758 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Komt Goed](https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Komt Goed](https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs) | 2:28 |
-| 2 | [Voor de straten](https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Voor de straten](https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD) | 2:33 |
-| 3 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 |
+| 2 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 |
+| 3 | [Voor de straten](https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Voor de straten](https://open.spotify.com/album/4LpLWzuQmZD581Z1NPyQtD) | 2:33 |
 | 4 | [Halverwege](https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Halverwege](https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt) | 2:50 |
 | 5 | [Champie & Sashimi](https://open.spotify.com/track/2oLSkJFtbH4OFQMWeXnhoL) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Champie & Sashimi](https://open.spotify.com/album/4EH2rYlWPsrWHvPXDyLJYe) | 2:36 |
 | 6 | [Beter Zo](https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Beter Zo](https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [dit is later.](https://open.spotify.com/track/3Z94R5TBHyNSwSQseHSQPD) | [YUKI](https://open.spotify.com/artist/612yT1I01LbUQMbc1kU9yw) | [dit is later.](https://open.spotify.com/album/4OV7Ht8x6XthcREzYKaabg) | 2:42 |
 | 80 | [Huis Van Een Vreemde \- live](https://open.spotify.com/track/4rKnLgR1a8MjPOwKAyHIns) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Huis Van Een Vreemde \(live\)](https://open.spotify.com/album/1h7dc9m6aAZDFOA7TD7NXc) | 2:37 |
 
-Snapshot ID: `AAAAALJ5YpR7yA1FSxqRTop08WyAqDEK`
+Snapshot ID: `AAAAAEjd17R+aMEf6vGUuLl747ne6byP`

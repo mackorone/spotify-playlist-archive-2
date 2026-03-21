@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Cat Clyde",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Robert Lester Folsom",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 367080,
       "name": "A Friend Like You",
       "url": "https://open.spotify.com/track/2t0s7VqkEetNbUbyPyErHq"
@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "a million",
+        "url": "https://open.spotify.com/album/6kf8tzKyYQufZu0SHRmthA"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166674,
+      "name": "a million",
+      "url": "https://open.spotify.com/track/33IjsGyaereLETeWa5NcbL"
+    },
+    {
+      "album": {
         "name": "a moment in the sun",
         "url": "https://open.spotify.com/album/57Hjcj3G2BIuJvKxuBL8IP"
       },
@@ -1016,6 +1034,24 @@
       "duration_ms": 190312,
       "name": "A song about a broken star",
       "url": "https://open.spotify.com/track/0o6vJW34SYSa3deGiSGVqF"
+    },
+    {
+      "album": {
+        "name": "YESTERDAY, TODAY",
+        "url": "https://open.spotify.com/album/4GfvOFwk7FdZjxtToWY5Rj"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "A SONG FOR SIENA",
+      "url": "https://open.spotify.com/track/20naOpFmoJzMEQTfD8WFIt"
     },
     {
       "album": {
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 160708,
       "name": "Airpark",
       "url": "https://open.spotify.com/track/0EhC9Gs7lTaptKF92NR40k"
@@ -3686,7 +3722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 219725,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
@@ -6243,6 +6279,28 @@
     },
     {
       "album": {
+        "name": "better than boston",
+        "url": "https://open.spotify.com/album/50wNaA4LXZixUhA6ZimAtT"
+      },
+      "artists": [
+        {
+          "name": "Tom Siletto",
+          "url": "https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX"
+        },
+        {
+          "name": "Jacob Wright",
+          "url": "https://open.spotify.com/artist/656RL0KU0xje87H4lmHhP5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "better than boston",
+      "url": "https://open.spotify.com/track/16sywqrzc0JwIt3kJTjfEe"
+    },
+    {
+      "album": {
         "name": "Better than the Floor",
         "url": "https://open.spotify.com/album/5zprpbKkTiYN1NO8DHfdB7"
       },
@@ -6424,6 +6482,24 @@
       "duration_ms": 298890,
       "name": "Big Sky, MT",
       "url": "https://open.spotify.com/track/4eXJ8BSMHqi3GFkeYDafKd"
+    },
+    {
+      "album": {
+        "name": "Minute Nothing",
+        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "Big Solo",
+      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
     },
     {
       "album": {
@@ -7972,6 +8048,24 @@
       "duration_ms": 240128,
       "name": "borrowed",
       "url": "https://open.spotify.com/track/7mqR25EmpUU23nzsS0jP9J"
+    },
+    {
+      "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185603,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
     },
     {
       "album": {
@@ -14471,6 +14565,24 @@
     },
     {
       "album": {
+        "name": "Demon in Me",
+        "url": "https://open.spotify.com/album/2rierMHKvXnpRV68LqSiy0"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354506,
+      "name": "Demon in Me",
+      "url": "https://open.spotify.com/track/2Oh46gHI8lhRJXrJbvV1IP"
+    },
+    {
+      "album": {
         "name": "departure time",
         "url": "https://open.spotify.com/album/4965cFIF0z594PyvYPIXyv"
       },
@@ -16458,7 +16570,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 275974,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
@@ -17274,7 +17386,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 213461,
       "name": "Edna Strange",
       "url": "https://open.spotify.com/track/6QIvpqNhl2AotxHG61wXpr"
@@ -19784,7 +19896,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 247250,
       "name": "FICTION",
       "url": "https://open.spotify.com/track/7IY4M3WEpr2LLZUETkcVIR"
@@ -20142,7 +20254,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 241000,
       "name": "first in line",
       "url": "https://open.spotify.com/track/5GtXbfbeaOwbi9HGQvFyia"
@@ -24881,6 +24993,32 @@
     },
     {
       "album": {
+        "name": "Hard Drugs",
+        "url": "https://open.spotify.com/album/4U1xJuWQjkUdoMS7R07mfX"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Hard Drugs",
+      "url": "https://open.spotify.com/track/4Ma8xvKcDu1LUqLkxiPqpd"
+    },
+    {
+      "album": {
         "name": "Hard Things",
         "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
@@ -25080,7 +25218,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 186879,
       "name": "hate me too",
       "url": "https://open.spotify.com/track/0tUlhKNeSosXCmzMG8H5Zd"
@@ -27630,6 +27768,24 @@
     {
       "album": {
         "name": "Honest",
+        "url": "https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219190,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty"
+    },
+    {
+      "album": {
+        "name": "Honest",
         "url": "https://open.spotify.com/album/4n4q83AjyMVQdV8x1b3KR3"
       },
       "artists": [
@@ -28683,6 +28839,24 @@
     },
     {
       "album": {
+        "name": "I Know A Garden",
+        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Hymn for a Dragonfly",
+      "url": "https://open.spotify.com/track/2jkzij7wooU3mU0EO1XFkY"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3pBDTOjkxOKziMq71oXorJ"
       },
@@ -29220,7 +29394,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 223375,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/4u06LZm20MDDeU1QYjQIgr"
@@ -29404,7 +29578,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 231913,
       "name": "I Envy The Wind",
       "url": "https://open.spotify.com/track/1Ms7Gac09KbhtpaIptsxFC"
@@ -30144,7 +30318,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 210430,
       "name": "I Talk About You",
       "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
@@ -31032,6 +31206,24 @@
       "duration_ms": 240819,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/1Aepp4YzacHrpRM92k0zDd"
+    },
+    {
+      "album": {
+        "name": "Pumpkin",
+        "url": "https://open.spotify.com/album/1oyQLu3dZxTUaRT7jbuFBx"
+      },
+      "artists": [
+        {
+          "name": "Georgia Parker",
+          "url": "https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219260,
+      "name": "If I Could, I Would Try Again",
+      "url": "https://open.spotify.com/track/4S8i56ybCTUu0myPHzligZ"
     },
     {
       "album": {
@@ -32272,7 +32464,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 249253,
       "name": "In Violet",
       "url": "https://open.spotify.com/track/7h5NWdC81hmCd4XHFV8HYO"
@@ -33083,6 +33275,24 @@
     },
     {
       "album": {
+        "name": "It's Not Going to be Okay",
+        "url": "https://open.spotify.com/album/6AsWzHfb8cfeQbebqChYeo"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "It's Not Going to be Okay",
+      "url": "https://open.spotify.com/track/7CqcAoZywRveplkSLe3PQE"
+    },
+    {
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
       },
@@ -33618,7 +33828,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 240451,
       "name": "Joy and Despair",
       "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
@@ -36494,7 +36704,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 122000,
       "name": "little love",
       "url": "https://open.spotify.com/track/4pkTPnM1S09o1xMEqRp0U9"
@@ -41106,7 +41316,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 223303,
       "name": "Morning Gum",
       "url": "https://open.spotify.com/track/3qwfR7rsNDkrTFoJcSjFu5"
@@ -43335,6 +43545,24 @@
     },
     {
       "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "album": {
         "name": "Nightvisions",
         "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
       },
@@ -45310,6 +45538,24 @@
       "duration_ms": 223095,
       "name": "one more",
       "url": "https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN"
+    },
+    {
+      "album": {
+        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
+        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211382,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
     },
     {
       "album": {
@@ -48344,6 +48590,24 @@
       "duration_ms": 234053,
       "name": "Pretty Eyes Lorraine",
       "url": "https://open.spotify.com/track/3VcNUu5zLCMsE4QrycZTlg"
+    },
+    {
+      "album": {
+        "name": "Pretty In Blue",
+        "url": "https://open.spotify.com/album/2jWhXVmcIyv6xWtnXHxhs5"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143150,
+      "name": "Pretty In Blue",
+      "url": "https://open.spotify.com/track/385DTascyZoNkOLjXhr225"
     },
     {
       "album": {
@@ -52903,6 +53167,24 @@
     },
     {
       "album": {
+        "name": "Shadow Child",
+        "url": "https://open.spotify.com/album/4EtascluhmKr8QbmFeJ3GN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Shadow Child",
+      "url": "https://open.spotify.com/track/0FFKYIhuZemAM4eJpEwoSz"
+    },
+    {
+      "album": {
         "name": "Shadow in the Frame",
         "url": "https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6"
       },
@@ -53768,6 +54050,24 @@
       "duration_ms": 261379,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+    },
+    {
+      "album": {
+        "name": "Time of Fallow",
+        "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234887,
+      "name": "Silent Water",
+      "url": "https://open.spotify.com/track/1K8acHNZSeht0WfkJIex9B"
     },
     {
       "album": {
@@ -56780,7 +57080,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 443989,
       "name": "Stepping Out For Air",
       "url": "https://open.spotify.com/track/44kg9xfZjeGg2fSYHBSzdt"
@@ -57004,6 +57304,28 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "album": {
@@ -63182,7 +63504,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 142000,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/2lLtw3h6cRKc9711qNeYNg"

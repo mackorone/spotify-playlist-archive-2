@@ -4,12 +4,12 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-228 songs - 9 hr 52 min
+229 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 | 2026-01-15 |
-| [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2023-01-12 |  |
+| [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2023-01-12 | 2026-03-21 |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-07 |  |
 | [AI\-Music](https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [AI\-Music](https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU) | 3:35 | 2023-04-27 | 2023-06-02 |
 | [Air Castles](https://open.spotify.com/track/35UFkxj74k0NpzuLfnUYIE) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 2:05 | 2023-01-12 | 2024-11-09 |
@@ -127,6 +127,7 @@
 | [Luminism](https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk) | [Blossum](https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Luminism](https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy) | 2:20 | 2023-01-12 | 2026-01-05 |
 | [Mad Summer](https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Mad Summer](https://open.spotify.com/album/19mCcLU4lQXBCqg2XRrDF9) | 2:47 | 2023-01-12 |  |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-09-13 |  |
+| [Make it yours](https://open.spotify.com/track/6YkIFLSDDE7PbSZAhBnpZT) | [Melissa Hiroto](https://open.spotify.com/artist/4hK3cuRw1FxWyRlg0JQlmZ) | [Make it yours](https://open.spotify.com/album/474dXkkDlsOZIo5EY9Cq2Y) | 2:32 | 2025-02-21 |  |
 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 | 2023-01-12 | 2024-09-02 |
 | [Marijus](https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC) | [Colin Jubilee](https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8) | [Marijus](https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh) | 2:46 | 2023-09-29 |  |
 | [Maui Midnight](https://open.spotify.com/track/5RhzrTGuWdN9BwLrsQNK8I) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Maui Midnight](https://open.spotify.com/album/0Qi2WNmlR7BRDqgFnmMTFZ) | 1:59 | 2024-07-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 97 songs - 5 hr 41 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 95 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 |
 | 96 | [We Make](https://open.spotify.com/track/6S3fmqlDWZThCvHdf0bXLH) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [We Make](https://open.spotify.com/album/6iYX7uJB6VFEahSSuaw9JO) | 2:53 |
 | 97 | [Level of Life](https://open.spotify.com/track/6mudyCp3eCaKgnYdXKODmw) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Level of Life](https://open.spotify.com/album/2JDkUv7HpUjsNLlq9uFNTO) | 3:17 |
+| 98 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 |
+| 99 | [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 |
 
-Snapshot ID: `AAANwNFeHdLQTlqTZ3rVGTw4TofP4Usf`
+Snapshot ID: `AAANwt7lt7hjkU1rGJb7xbLUl9Eji3n1`

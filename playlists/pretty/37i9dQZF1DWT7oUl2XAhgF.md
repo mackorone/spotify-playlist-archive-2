@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,529 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,614 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
-| 2 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 |
-| 3 | [This Feelin'](https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in) | [Charlotte Colace](https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd) | [No Way But Through](https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n) | 2:09 |
-| 4 | [You Belong to Me](https://open.spotify.com/track/6aiO3yDfoyrK29s5Ks3dqe) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [You Belong to Me](https://open.spotify.com/album/0qyXrH6kgG48cFNBItTgCd) | 2:55 |
-| 5 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
-| 6 | [Lovin' Made Easy](https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Lovin' Made Easy](https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU) | 4:43 |
-| 7 | [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 |
+| 1 | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/track/0PrKi90d6J8PygGGSyUIoJ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Shea Givens](https://open.spotify.com/artist/3JrKj7XoBT5EbFJB4exFKB) | [Maybe I'm A Fool \(But I'm In Love Again\)](https://open.spotify.com/album/1eU6rYcckrC0PmsP4lsjri) | 4:21 |
+| 2 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
+| 3 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 |
+| 4 | [This Feelin'](https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in) | [Charlotte Colace](https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd) | [No Way But Through](https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n) | 2:09 |
+| 5 | [You Belong to Me](https://open.spotify.com/track/6aiO3yDfoyrK29s5Ks3dqe) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [You Belong to Me](https://open.spotify.com/album/0qyXrH6kgG48cFNBItTgCd) | 2:55 |
+| 6 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
+| 7 | [Lovin' Made Easy](https://open.spotify.com/track/2DE5u62CmddU4ct3jEoYm4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Lovin' Made Easy](https://open.spotify.com/album/47bxdJhnEQ92tIzOyqqlyU) | 4:43 |
 | 8 | [Cherry](https://open.spotify.com/track/3X68ExQpQzMCTCHsiqaQLI) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Cherry](https://open.spotify.com/album/0dVEDCqihLJ7o8eCxGg2Pu) | 4:26 |
 | 9 | [Don’t Want a Thing to Change \(Groundhog Day\)](https://open.spotify.com/track/5cIvqDrh4wSus2jySjlwfx) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Don’t Want a Thing to Change \(Groundhog Day\)](https://open.spotify.com/album/2qe0lsIDxAvJtBb00iqIaM) | 3:24 |
 | 10 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You Were Mine](https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:51 |
 | 100 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 
-Snapshot ID: `AAAAAENAe3GmMuT/tMOQvmg1G5ay8X5Q`
+Snapshot ID: `AAAAAOtrure1myEaxh+VpmWHpjXQXIsX`

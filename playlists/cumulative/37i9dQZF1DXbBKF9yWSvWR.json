@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "73",
+        "url": "https://open.spotify.com/album/6l0LsXakqHU8peFQ084TpK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "73",
+      "url": "https://open.spotify.com/track/2pUrT0mgcZEuT6sZckQgke"
+    },
+    {
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
@@ -882,6 +900,24 @@
       "duration_ms": 248933,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU"
+    },
+    {
+      "album": {
+        "name": "Apophenia",
+        "url": "https://open.spotify.com/album/5ALdQn6eUuOmBQqqYlYICN"
+      },
+      "artists": [
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "Apophenia",
+      "url": "https://open.spotify.com/track/4NYPWFsLQcNOQQc1dykMjI"
     },
     {
       "album": {
@@ -1572,6 +1608,24 @@
       "duration_ms": 146786,
       "name": "Birds Of Paradise",
       "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
+    },
+    {
+      "album": {
+        "name": "Bite my Tongue",
+        "url": "https://open.spotify.com/album/3DZLthB6OsGIDkBavRfySj"
+      },
+      "artists": [
+        {
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "Bite my Tongue",
+      "url": "https://open.spotify.com/track/4LXIWFdjyvBFeiRS4gLjNH"
     },
     {
       "album": {
@@ -3230,6 +3284,28 @@
       "duration_ms": 212565,
       "name": "Do You Want To Be Honest?",
       "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+    },
+    {
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197311,
+      "name": "Doesn't Just Happen",
+      "url": "https://open.spotify.com/track/1gU57CAIMWz4C3iO0l5P6n"
     },
     {
       "album": {
@@ -6286,7 +6362,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 197848,
       "name": "Jane",
       "url": "https://open.spotify.com/track/1uo7rtWHJQOdi7CmEPEeQQ"
@@ -6824,7 +6900,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
@@ -7992,6 +8068,24 @@
       "duration_ms": 218206,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/5NOQ8Dhk9oD8w5EBpsrmtw"
+    },
+    {
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "album": {
@@ -9814,7 +9908,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 235344,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
@@ -9890,6 +9984,24 @@
       "duration_ms": 172800,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/2X1TY6dff8ienKQQFO4CVP"
+    },
+    {
+      "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "album": {
@@ -10096,6 +10208,24 @@
       "duration_ms": 196800,
       "name": "remains",
       "url": "https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX"
+    },
+    {
+      "album": {
+        "name": "P2",
+        "url": "https://open.spotify.com/album/5iz1rSn6RE71oi9pzvciMu"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Restlessness",
+      "url": "https://open.spotify.com/track/3LNJumfT16lWilnaWb6GUf"
     },
     {
       "album": {
@@ -11459,6 +11589,28 @@
     },
     {
       "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+    },
+    {
+      "album": {
         "name": "Stonewall Riots Forever",
         "url": "https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P"
       },
@@ -12650,7 +12802,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 281988,
       "name": "The Old Law",
       "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
@@ -13032,7 +13184,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 213373,
       "name": "To Do What",
       "url": "https://open.spotify.com/track/1WVBfHU9GTNZrX9fPZlSL4"
@@ -13698,7 +13850,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 145971,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2isJ9hHrPFR9LGhJ4pwPyE"
@@ -13752,7 +13904,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 254853,
       "name": "Weak Spot",
       "url": "https://open.spotify.com/track/7IyNorLWfplKZ3MD5CrnSi"
@@ -14347,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
+    },
+    {
+      "album": {
         "name": "Youman",
         "url": "https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv"
       },
@@ -14358,7 +14528,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 216128,
       "name": "Youman",
       "url": "https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu"

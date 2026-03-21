@@ -4,7 +4,7 @@
 
 > MUY PIOLA<br/>📷 Juana Rozas
 
-586 songs - 1 day 6 hr 44 min
+588 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,12 +438,14 @@
 | [q haces?](https://open.spotify.com/track/75UAP2WWZFJQSOk06m1HPT) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [q haces?](https://open.spotify.com/album/1wBLasyWpyYSmMbkEAjhfy) | 1:11 | 2023-10-13 | 2024-06-09 |
 | [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 | 2024-04-05 | 2025-04-04 |
 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 | 2023-10-13 | 2024-03-30 |
+| [Quedateloo\-O](https://open.spotify.com/track/0KU2sqzPNNU8I4LhKO2D5g) | [Zé Pequeña](https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C), [Sirÿa](https://open.spotify.com/artist/5IAu4qGafIVgRR4LryUGpW) | [A Todo Ritmo](https://open.spotify.com/album/5To2OCrmbKGiTmJO0YhqrS) | 2:37 | 2026-03-20 |  |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2024-03-29 | 2025-04-04 |
 | [quereme](https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [quereme](https://open.spotify.com/album/1ii4MjyB8C12pqjUIyhOkS) | 2:09 | 2025-07-25 | 2026-03-07 |
 | [Querer Querernos](https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Querer Querernos](https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29) | 4:00 | 2024-03-29 | 2025-03-01 |
 | [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 | 2025-07-05 | 2025-11-20 |
 | [Quieren Rock](https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Quieren Rock](https://open.spotify.com/album/6ac8a2d1p3ZiIuh6Zlg6Mf) | 2:26 | 2025-01-24 | 2025-03-01 |
 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 | 2024-10-25 | 2025-09-02 |
+| [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/track/5V0tSROru0adtqgwFP29v5) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/album/0cFElNdosDKPNGpv0qiTQ6) | 3:53 | 2026-03-20 |  |
 | [quitate las BAPE](https://open.spotify.com/track/4CWDezkT4hk8wwOOYMn1C7) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 2:01 | 2025-08-18 | 2025-11-29 |
 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-10-13 | 2023-11-25 |
 | [RE SOLO](https://open.spotify.com/track/7Bhlkqbs8RKFHox7ZhdMV9) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [RE SOLO](https://open.spotify.com/album/5UhgRp7wwz8tWTEFSJL0Dn) | 2:01 | 2026-02-20 |  |

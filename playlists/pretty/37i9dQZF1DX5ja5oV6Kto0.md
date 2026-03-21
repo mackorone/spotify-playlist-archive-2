@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,010 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,034 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 63 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 |
 | 64 | [Pressure](https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Pressure](https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE) | 3:27 |
 | 65 | [Wait](https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64) | [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wait](https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z) | 2:58 |
-| 66 | [Dumb](https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4) | [Dumb](https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue) | 2:45 |
-| 67 | [Rudia](https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Rudia](https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk) | 3:20 |
+| 66 | [Rudia](https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Rudia](https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk) | 3:20 |
+| 67 | [Dumb](https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4) | [Dumb](https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue) | 2:45 |
 | 68 | [sexygyal.mp3](https://open.spotify.com/track/4NDYc9iZQEvTMWQYEmvGSu) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [sexygyal.mp3](https://open.spotify.com/album/08OLnMqGnQSTz6TH9kzigD) | 1:56 |
 | 69 | [Omo Igbo](https://open.spotify.com/track/779VMDlol0CDND4KTKyEfr) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm) | [Omo Igbo](https://open.spotify.com/album/1EIIU96xnk4ElwU3gjeGdH) | 2:18 |
 | 70 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 72 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 |
 | 73 | [Not There Yet](https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Not There Yet](https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c) | 3:33 |
 | 74 | [General](https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:31 |
-| 75 | [Demure II](https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE) | [T Solo](https://open.spotify.com/artist/22rhw3nUn17tlr6tlOGnRL), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Demure II](https://open.spotify.com/album/1Cvd9Iu8SlgPS0fTiJpcfK) | 2:20 |
-| 76 | [Princessa](https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh) | [Indi](https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF) | [Princessa](https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU) | 1:58 |
+| 75 | [Princessa](https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh) | [Indi](https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF) | [Princessa](https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU) | 1:58 |
+| 76 | [Demure II](https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE) | [T Solo](https://open.spotify.com/artist/22rhw3nUn17tlr6tlOGnRL), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Demure II](https://open.spotify.com/album/1Cvd9Iu8SlgPS0fTiJpcfK) | 2:20 |
 | 77 | [Novacaine](https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [DEBAYO](https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL) | [Novacaine](https://open.spotify.com/album/1Xx313px4lu947MnygS9ej) | 3:12 |
 | 78 | [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 |
 | 79 | [Gimme Ur Luv](https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP) | [Efe Oraka](https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo) | [Gimme Ur Luv](https://open.spotify.com/album/1Yjr8ett0KVRZlM2IkaviJ) | 2:25 |

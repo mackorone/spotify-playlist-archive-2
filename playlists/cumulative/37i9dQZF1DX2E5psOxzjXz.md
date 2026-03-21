@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Neha Karim Ullah
+> Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Baig
 
-442 songs - 1 day 0 hr 17 min
+444 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Daira\-e\-ufuq](https://open.spotify.com/track/0gveIug9rm2W8D9b2g3TPj) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Daud Ramay](https://open.spotify.com/artist/5vYqmhSAkPuDKbMehsoFYT) | [Daira\-e\-ufuq](https://open.spotify.com/album/6lLII5humCm7pY38qhd7RC) | 3:29 | 2021-12-06 | 2023-03-13 |
 | [DAS](https://open.spotify.com/track/65ePVCKyJRCm4wFPAzgDvF) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [DAS](https://open.spotify.com/album/3jcotcDkGWsbNyMhzG8zIK) | 2:59 | 2025-02-26 | 2025-07-25 |
 | [Dastaan](https://open.spotify.com/track/4KxLTSPAyUZY5GUochDLzr) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Dastaan](https://open.spotify.com/album/2a1fv7tSHqwVEXL62KdpEa) | 5:26 | 2024-10-18 | 2025-02-27 |
+| [Dekh Sakti Hun](https://open.spotify.com/track/4XKsxIDjNxUwfqGTk5Mq9F) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:32 | 2026-03-20 |  |
 | [desi log skateboard](https://open.spotify.com/track/4acQPTfPAbUHgdwVYeeNwc) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [ishan awasthi](https://open.spotify.com/artist/2prnxuLM3FjP4pGXTqX8xS) | [desi log skateboard](https://open.spotify.com/album/4ohzHfwdVPEAHvDWGwFaJN) | 2:45 | 2025-10-20 |  |
 | [Dhadke Jiya](https://open.spotify.com/track/1A3wI7VMCBaGn3ZTzWu3OZ) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm) | [Dhadke Jiya](https://open.spotify.com/album/2Qw531QG0bbhnEd016TrW3) | 2:28 | 2025-09-09 |  |
 | [Dheema Dheema](https://open.spotify.com/track/1Wz0yAcUO8CM9E8XoR8Rbq) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Dheema Dheema](https://open.spotify.com/album/2PQdA6JbExtudYxO9ngFkM) | 2:19 | 2025-06-13 |  |
@@ -212,6 +213,7 @@
 | [Khayal](https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 | 2023-09-15 | 2024-12-13 |
 | [Khirki](https://open.spotify.com/track/0I4ViThIJrFKDWvKclQcv5) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Khirki](https://open.spotify.com/album/0jHoXjcxySVoXdDkY0NXjw) | 3:27 | 2024-10-18 | 2025-11-08 |
 | [Kho Gaye](https://open.spotify.com/track/29ZFd9OvfK5IHUgn9gWJbF) | [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq), [Mishal Shafi](https://open.spotify.com/artist/2D5YZ7yVsVe2fzoB9osYt9), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Kho Gaye](https://open.spotify.com/album/6yVEeoy0fgTCHeaTvucbVU) | 3:40 | 2025-02-26 | 2025-09-10 |
+| [Khushboo](https://open.spotify.com/track/3c3GiH4agOLLtZazX7czYh) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:45 | 2026-03-20 |  |
 | [Khushbu](https://open.spotify.com/track/3vKIFR23DPK4lyzqxZOa01) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Khushbu](https://open.spotify.com/album/23PwR2OGh9FecmW32AVmOa) | 3:26 | 2021-12-06 | 2022-09-06 |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 | 2024-12-13 |
 | [Khuwaab Si](https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Khuwaab Si](https://open.spotify.com/album/7u8QXXiU4newYYpuhYfCQj) | 3:32 | 2026-01-23 |  |

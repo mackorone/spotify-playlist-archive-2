@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-903 songs - 2 day 10 hr 28 min
+906 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Ear Candy](https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Ear Candy](https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1) | 3:40 | 2024-10-25 |  |
 | [Earth Giants](https://open.spotify.com/track/7xeAErz9aJd30sy50j2I18) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [40 Fathoms](https://open.spotify.com/album/6RPHh8t436L4grntc4FFsF) | 4:39 | 2022-02-17 | 2022-04-29 |
 | [Eat Me \(Feel the Burn\)](https://open.spotify.com/track/5kpgmKaOgnMKKIlQzTlEcU) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [In the Realm of Hungry Ghosts](https://open.spotify.com/album/0FMV2qVrjMoGFMFKSYmU9v) | 3:12 | 2023-06-09 | 2023-10-18 |
+| [Echo Chamber](https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Echo Chamber](https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4) | 4:13 | 2026-03-20 |  |
 | [Echo Dub](https://open.spotify.com/track/30dVTxtN208UVDW3MdNwcn) | [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Echo Dub / Chain Reaction](https://open.spotify.com/album/1ImdkEEmX2atPIzWMjZBUi) | 5:03 | 2022-02-17 | 2022-04-25 |
 | [Echo Signal](https://open.spotify.com/track/37XjswcMQYGgGxEJRnqHYN) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Echo Signal EP](https://open.spotify.com/album/0W8Vug3Q9IsX5ygnbF9trW) | 3:48 | 2022-02-17 | 2022-07-30 |
 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 | 2024-11-05 | 2025-01-29 |
@@ -256,7 +257,7 @@
 | [Energy](https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Energy](https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU) | 3:32 | 2025-10-24 |  |
 | [Enlighten](https://open.spotify.com/track/5Ij9jpdHL1cqhHC3XndZHz) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [The Rose EP](https://open.spotify.com/album/2maYq0kspsmJkYjDkmgBDW) | 3:53 | 2023-07-14 | 2026-02-21 |
 | [Enter The Machine](https://open.spotify.com/track/5R4hGpNiUxoDpKx1RLHvzL) | [Pantyraid](https://open.spotify.com/artist/2mdjjabTCK9Xknzl9hakW7) | [The Sauce](https://open.spotify.com/album/2Nw9bUOlJfxIc0gMKtO1yv) | 5:30 | 2022-02-17 | 2024-07-29 |
-| [Entropy](https://open.spotify.com/track/79aYN1FVTQo365bWy8LE7D) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2) | [Entropy](https://open.spotify.com/album/66dhNLt6nlC0TPlyFlbweb) | 3:38 | 2025-11-21 |  |
+| [Entropy](https://open.spotify.com/track/79aYN1FVTQo365bWy8LE7D) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2) | [Entropy](https://open.spotify.com/album/66dhNLt6nlC0TPlyFlbweb) | 3:38 | 2025-11-21 | 2026-03-21 |
 | [Envy](https://open.spotify.com/track/5C3Ou5adqCoNtsQ9LoC2cQ) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Ft Jack Gates](https://open.spotify.com/artist/4AW8ZTIPSuHYOPvvUdkn6a) | [Seven Sins](https://open.spotify.com/album/6txOSgBXe10dhZxj8WNT6z) | 4:20 | 2022-02-17 | 2022-07-29 |
 | [Envy \(feat Ft Jack Gates\)](https://open.spotify.com/track/4fPrMSzViWb0G42wrE00Q7) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Jack Gates](https://open.spotify.com/artist/2qYOYCIhF2RkyWeecvcenN) | [Seven Sins](https://open.spotify.com/album/1raRRApxXT7BxXvKYBUS89) | 4:20 | 2022-07-08 | 2022-07-30 |
 | [Everything We Stand For](https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [The Sound of Supercharged](https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw) | 5:31 | 2023-01-20 | 2023-06-24 |
@@ -359,6 +360,7 @@
 | [Here It Comes](https://open.spotify.com/track/73C8MW3QJYNvMDFzl0GoYW) | [Blankface](https://open.spotify.com/artist/0wBTYeI6551XR1lhbxRQnV) | [Here It Comes](https://open.spotify.com/album/7vDvMVuqOkdOGtMfW4C9wE) | 2:24 | 2026-01-23 |  |
 | [Hit Em Like](https://open.spotify.com/track/4EbjiFVkAWhIC7FJT1I4JO) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Go On Soundboy](https://open.spotify.com/album/68ZInwIHdm6tKP3yPLNMni) | 4:20 | 2022-02-17 | 2022-07-30 |
 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 | 2024-08-16 |  |
+| [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 | 2026-03-20 |  |
 | [Hold Me Down](https://open.spotify.com/track/6hgwWlIP6LoMtJS4tc8NNv) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Hold Me Down](https://open.spotify.com/album/2BbmwrqeukXMa0zbRGSu2o) | 2:59 | 2025-06-06 |  |
 | [Holding On](https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR) | [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Holding On](https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p) | 2:58 | 2024-08-23 | 2026-03-07 |
 | [Hollow](https://open.spotify.com/track/2opZwPMwDdSSiNuYqaaWP6) | [B\-Say](https://open.spotify.com/artist/3UrGYaLb8EIEShffaJ62N2) | [Hollow EP](https://open.spotify.com/album/4K8fXp2F4qdkgtL215uAoF) | 4:41 | 2022-02-17 | 2022-07-29 |
@@ -487,6 +489,7 @@
 | [Luxurious](https://open.spotify.com/track/14mkG82JIFJi9CQnFfy6Rc) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Luxurious](https://open.spotify.com/album/57t09L0jx9NrkfMtyRA2hC) | 4:17 | 2022-02-17 | 2022-06-10 |
 | [Mad](https://open.spotify.com/track/22K0u5Gi1oDmdc4dc8BL9D) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Mad](https://open.spotify.com/album/2PpbW6Cdh5DK2RYIro6jMr) | 4:01 | 2025-05-16 | 2025-10-31 |
 | [Mad Cow Bell](https://open.spotify.com/track/3jD5FuCLtBjYSYrIEHSVXn) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Mad Cow Bell](https://open.spotify.com/album/6lelyt8mSpFoLtrtDnN7Nx) | 3:15 | 2024-03-15 | 2024-06-27 |
+| [Maelstrom](https://open.spotify.com/track/5UZqcRnKWhmFtoC0aRKzSr) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Maelstrom](https://open.spotify.com/album/32xArxkRR6UNMuFrpioMC5) | 4:09 | 2026-03-20 |  |
 | [Mage](https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Mage](https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H) | 3:18 | 2022-02-17 | 2025-04-02 |
 | [mail](https://open.spotify.com/track/0nqUMg3fRJCwCn21rSFlbb) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [TYNAN TIME](https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5) | 2:31 | 2026-02-13 |  |
 | [Make Em Watch](https://open.spotify.com/track/1Nc61cKRCFiFSSKUEJSRce) | [Gallium](https://open.spotify.com/artist/6qkl6b1N8RnkqJCvOIxBxi) | [Make 'Em Watch](https://open.spotify.com/album/20Pnk6RgPb7iywOnYxKqSv) | 2:10 | 2025-10-17 | 2026-01-24 |
@@ -585,9 +588,9 @@
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |
-| [Peaking](https://open.spotify.com/track/6p7B5uSORzBJG46GIGU8nl) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Danger Console](https://open.spotify.com/album/0NGN04sKoB1sRijI88GibI) | 2:46 | 2025-07-11 |  |
+| [Peaking](https://open.spotify.com/track/6p7B5uSORzBJG46GIGU8nl) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Danger Console](https://open.spotify.com/album/0NGN04sKoB1sRijI88GibI) | 2:46 | 2025-07-11 | 2026-03-21 |
 | [Pelican](https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Pelican](https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8) | 2:34 | 2025-07-11 |  |
-| [Peppermint](https://open.spotify.com/track/3oO26OMKFDDko6ouX4rQVC) | [Cool Customer](https://open.spotify.com/artist/2zP6x0auCdwbZrzWFVq1fO) | [Peppermint](https://open.spotify.com/album/0k3k2F2i1BKdZhpX2hfIn5) | 4:37 | 2025-10-17 |  |
+| [Peppermint](https://open.spotify.com/track/3oO26OMKFDDko6ouX4rQVC) | [Cool Customer](https://open.spotify.com/artist/2zP6x0auCdwbZrzWFVq1fO) | [Peppermint](https://open.spotify.com/album/0k3k2F2i1BKdZhpX2hfIn5) | 4:37 | 2025-10-17 | 2026-03-21 |
 | [Perceiver](https://open.spotify.com/track/2HMXYPAtj8liB6ywImkELU) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [CODE RED EP](https://open.spotify.com/album/3m7ox4dJaPu8SjUtbuJDFj) | 3:27 | 2023-06-23 | 2023-08-18 |
 | [Phantom Signal](https://open.spotify.com/track/2nDCB0ClNpJ4PaKwNQT7W8) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [Phantom Signal](https://open.spotify.com/album/052FqupozwX5hDNQdaEtEx) | 2:47 | 2025-09-12 |  |
 | [Pinky](https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz) | [Pigeon Hole](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) | [Pinky](https://open.spotify.com/album/0bB6HUYWFx1B40l27ABu4C) | 3:16 | 2024-03-22 | 2024-07-09 |

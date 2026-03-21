@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43513,
+  "num_followers": 43510,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abnrAAAAAABWB3vbY1dIfA5sn9sYZF6T",
+  "snapshot_id": "abs8gAAAAABFns2gNVCaceMfsDf8onEo",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 220413,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa"
+      "duration_ms": 162360,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
+      "duration_ms": 220413,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa"
     },
     {
       "added_at": null,

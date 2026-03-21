@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,834 songs - 13 day 14 hr 0 min
+5,837 songs - 13 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3565,6 +3565,7 @@
 | [Noise](https://open.spotify.com/track/33vkeGG9QbOu1OpPJ8r41F) | [Stefan Olovsson BrainZapArt](https://open.spotify.com/artist/6lltpKSCWQFsc6nRrFHoNm) | [Noise](https://open.spotify.com/album/45gu4JlJU6fLcSPrBHcC2Y) | 3:06 | 2024-06-25 | 2024-07-08 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-05-07 |  |
 | [None Of You](https://open.spotify.com/track/7zn8KFmMcJbZzeqgML8SPw) | [Brynja Rán](https://open.spotify.com/artist/4ru6DsYY6QIegPYyD0AZOt) | [SEVEN](https://open.spotify.com/album/3v6kLTwK72rSdebyv90MNJ) | 3:13 | 2025-07-08 | 2025-07-20 |
+| [Normal Stuff](https://open.spotify.com/track/34HQ797v9ONKIYaDWDGBdW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Normal Stuff](https://open.spotify.com/album/6vyJwh6gFdsvWhxK3Z3gmp) | 3:55 | 2026-03-20 |  |
 | [Northern Lights \(Norbz Remix\)](https://open.spotify.com/track/5kcUaa9CD5QCS11N15eh96) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [NORBZ](https://open.spotify.com/artist/2OXrjcnQwqvsrIiufc0Ci7) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 3:11 | 2020-07-21 | 2020-08-02 |
 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2akwgKeDWZNllzgTsQi32S) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ØZWALD Sings The Beatles](https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC) | 2:13 | 2022-10-10 | 2022-10-29 |
 | [Nos ocupamos del mar](https://open.spotify.com/track/2o4fJkvkuNFzhPI8mbVr9Z) | [Paco Álvarez](https://open.spotify.com/artist/00rNOPrK0Fy2kufnnlISzZ) | [Óleo](https://open.spotify.com/album/0ryUmtmWqdimcxDQxlJCV0) | 3:03 | 2024-03-13 | 2024-03-22 |
@@ -3818,6 +3819,7 @@
 | [Paradise](https://open.spotify.com/track/7Jp8TZMi7o5SG6fPfXUBG0) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Paradise](https://open.spotify.com/album/46UhCQy52hr3uYKpiwH8B2) | 3:52 | 2022-08-20 | 2022-09-09 |
 | [Paradise \- O.I.AM Mix](https://open.spotify.com/track/1Xfo5WQXnzzhbtKFqErGuA) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Paradise \(O.I.AM Mix\)](https://open.spotify.com/album/3UMTTYlsiWmoudw2MwfCeJ) | 2:46 | 2022-09-23 | 2022-10-09 |
 | [Paradise on My Own](https://open.spotify.com/track/74x5MbCS6kjEQ1u4VHqb3a) | [Neon Legion](https://open.spotify.com/artist/2nyYXAOSd7dGY5eqop0eeC), [Pim](https://open.spotify.com/artist/239TdCU8i8KQo4LzRrnjzK) | [Paradise on My Own](https://open.spotify.com/album/1eFJH94fTMrosfHcA61rJU) | 2:41 | 2024-12-24 | 2025-01-05 |
+| [Paradox](https://open.spotify.com/track/3wzMJWVBLgz22LCaMDXqHt) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Paradox](https://open.spotify.com/album/0UM2OUCKmJk0cOeTyCBApa) | 2:33 | 2026-03-20 |  |
 | [Parallels](https://open.spotify.com/track/3OwSL8zyXT17iv9ITaWPP6) | [TGC](https://open.spotify.com/artist/0TKIN6ssV2jhUlRm3r7U4z) | [Parallels](https://open.spotify.com/album/1a75a2Vtumz1oyeN13hDJh) | 3:46 | 2021-07-10 | 2021-07-25 |
 | [Paranoia \(I.J.D.F.W.U.\)](https://open.spotify.com/track/4UKoenydmjEDDzpqpjuyAy) | [NEW EX](https://open.spotify.com/artist/55LIzBlHP2babllqUYuUW7) | [Paranoia \(I.J.D.F.W.U.\)](https://open.spotify.com/album/0MrPz60bKxD2PbFNCKzO53) | 3:10 | 2024-03-21 | 2024-03-29 |
 | [Paraíso](https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8) | [Lotus Collective](https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Paraíso](https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq) | 5:28 | 2025-10-08 | 2025-11-08 |
@@ -3985,6 +3987,7 @@
 | [Problems](https://open.spotify.com/track/09kEIb3lhZEWMdSSwo5Zeu) | [Specific Coast](https://open.spotify.com/artist/0gnMdWLMbBdLRMMosJp9I5) | [Problems](https://open.spotify.com/album/71ijRpyWVmFGUugMG8lQAk) | 2:58 | 2024-02-06 | 2024-02-20 |
 | [Process](https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:54 | 2024-08-12 |  |
 | [Procrastinating](https://open.spotify.com/track/4sIOvktWsUIKEIUALX0ItC) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Procrastinating](https://open.spotify.com/album/7f1SovVhz80yTmo4aXSiFt) | 3:18 | 2023-04-21 | 2023-05-09 |
+| [Prominence](https://open.spotify.com/track/2dUyYX7X1HgrWF0nWXAJrP) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Prominence](https://open.spotify.com/album/6DwEflLZV10wmokjw2mQZv) | 3:16 | 2026-03-20 |  |
 | [Promise U](https://open.spotify.com/track/61HzZXOygQY5qtRgDRlDqO) | [Lando](https://open.spotify.com/artist/43U26vTfMoUUHLUMljHXav) | [Promise U](https://open.spotify.com/album/032zxZaKLzi1gJ1xVTYOP7) | 3:46 | 2019-12-25 | 2020-01-01 |
 | [Promises](https://open.spotify.com/track/1odu54XH3moZFuZScdZ92D) | [Lujza](https://open.spotify.com/artist/14lUC6NbE64ObCIHsy5jQ6) | [Promises](https://open.spotify.com/album/6G0qB1NM36mVSSW20R4xgX) | 3:38 | 2022-02-10 | 2022-02-27 |
 | [Promises \- Radio Edit](https://open.spotify.com/track/04rVVz0D8JkqxUY13mW3A5) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [Promises \(Radio Edit\)](https://open.spotify.com/album/4nMewslQ0942XkLZ8uHVnW) | 4:16 | 2022-04-08 | 2022-04-24 |

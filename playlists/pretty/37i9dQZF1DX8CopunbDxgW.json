@@ -1,13 +1,81 @@
 {
-  "description": "the heron waits patiently \ud83d\udc26 metropolis is your home for the best indie dance",
-  "num_followers": 874241,
+  "description": "Avalon Emerson gifts a lovely new album \ud83c\udf81 metropolis is your home for the best indie dance",
+  "num_followers": 874203,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmllsZLd3moRTv67tGl0zGFK/qO",
+  "snapshot_id": "AAAAAPe2LySKc3njuPyejzFSE6N9VkkA",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
+    },
+    {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Anywhere, Anyway EP",
+        "url": "https://open.spotify.com/album/24lbiEbHBl2T1OrtziUrVo"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 177302,
+      "name": "Anywhere, Anyway (Feat. Life on Planets)",
+      "url": "https://open.spotify.com/track/2THs1tNoo9GTzBwNF2RNPI"
+    },
     {
       "added_at": "2026-03-13 04:00:42",
       "album": {
@@ -23,6 +91,26 @@
       "duration_ms": 185653,
       "name": "The Heron",
       "url": "https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "UPTOWN",
+        "url": "https://open.spotify.com/album/0NDjDXnjNuSqx3hNwX6bhT"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "Goldy",
+          "url": "https://open.spotify.com/artist/1hEQfKwsKDpgusFOfNiYv0"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "UPTOWN",
+      "url": "https://open.spotify.com/track/7xQww70YxA98pCuW7miGI0"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -45,36 +133,20 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-02-27 05:00:49",
+      "added_at": "2026-03-20 04:00:55",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "Red Planet",
+        "url": "https://open.spotify.com/album/6X4cnJl3hYd5xpTMb99BHw"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-03-13 04:00:42",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+      "duration_ms": 210857,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/0ZdNdFc20fTFJbT2RQibOx"
     },
     {
       "added_at": "2026-03-13 04:00:42",
@@ -121,6 +193,22 @@
       "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
     },
     {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Dying To Know",
+        "url": "https://open.spotify.com/album/6GCwhZP4QmlHNOvW0MvPU6"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        }
+      ],
+      "duration_ms": 159111,
+      "name": "Dying To Know",
+      "url": "https://open.spotify.com/track/2iVs3TXOPad8n7YWY5pzqg"
+    },
+    {
       "added_at": "2026-02-27 05:00:49",
       "album": {
         "name": "The Cocktail Hour",
@@ -141,20 +229,36 @@
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
     },
     {
-      "added_at": "2026-03-13 04:00:42",
+      "added_at": "2026-03-20 04:00:55",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM"
+        "name": "Fall Into The Sky",
+        "url": "https://open.spotify.com/album/4Z48wBC5ExTP7smaj1HcvS"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Marinus",
+          "url": "https://open.spotify.com/artist/0PuoByZ9ODmTJfp4WOCAlX"
         }
       ],
-      "duration_ms": 134328,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA"
+      "duration_ms": 170000,
+      "name": "Fall Into The Sky",
+      "url": "https://open.spotify.com/track/5nZRKQHFHRS2Pp7KQRlYWC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Be Loved",
+        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "duration_ms": 253214,
+      "name": "Be Loved",
+      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
     },
     {
       "added_at": "2026-02-25 17:39:37",
@@ -173,6 +277,22 @@
       "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA"
+    },
+    {
       "added_at": "2026-03-06 17:10:39",
       "album": {
         "name": "I know you're hurting, everyone is hurting, everyone is trying, you have got to try",
@@ -189,6 +309,26 @@
       "url": "https://open.spotify.com/track/5YdXaCrBhHWCMe9VUBCZ91"
     },
     {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+    },
+    {
       "added_at": "2026-03-06 05:00:16",
       "album": {
         "name": "if you wanna party, come over to my house",
@@ -203,6 +343,22 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-03-20 20:26:03",
+      "album": {
+        "name": "wufwufwuf",
+        "url": "https://open.spotify.com/album/63z15ti2NcOWeKbxD3jd5J"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "wakeup",
+      "url": "https://open.spotify.com/track/0nlGLO5KSuoxZgevcjKAKv"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -279,6 +435,22 @@
       "duration_ms": 331346,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/00wXAYLSualHDbHXFtf1uG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/5oRY3pj7s5WuQCeeZ8i1tv"
+      },
+      "artists": [
+        {
+          "name": "RUSH AVENUE",
+          "url": "https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/5kekimKJDI3gib9efP8Duu"
     },
     {
       "added_at": "2026-02-20 07:35:50",
@@ -363,6 +535,26 @@
       "duration_ms": 240000,
       "name": "Watchu Say",
       "url": "https://open.spotify.com/track/3MU4fOC3qVJqDGbjomnyDm"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Our Way (Pablo Versace Remix)",
+        "url": "https://open.spotify.com/album/0zFWMo74BwEee9k1ksWN7c"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        },
+        {
+          "name": "Pablo Versace",
+          "url": "https://open.spotify.com/artist/3ibKP9iukyMBXXrpVZmDfE"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Our Way (Pablo Versace Remix)",
+      "url": "https://open.spotify.com/track/6EgHNLI5ZoS5ZBIchlR9FG"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -467,22 +659,6 @@
       "duration_ms": 158709,
       "name": "Elktorn",
       "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Beatback",
-        "url": "https://open.spotify.com/album/0nKPxS384Utr4iDBXlZBRU"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Beatback",
-      "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
     },
     {
       "added_at": "2026-02-20 07:35:50",
@@ -645,42 +821,6 @@
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "I Won't Let You Go (feat. Eight9FLY)",
-        "url": "https://open.spotify.com/album/5RqRKiJREACiGBQ3Vy4mx1"
-      },
-      "artists": [
-        {
-          "name": "RUSH AVENUE",
-          "url": "https://open.spotify.com/artist/0BuZtV1vrh5miIrx1ZPgFP"
-        },
-        {
-          "name": "Eight9FLY",
-          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "I Won\u2019t Let You Go (feat. Eight9FLY)",
-      "url": "https://open.spotify.com/track/2rPC0QvHTDT7qnUGZIrGxc"
-    },
-    {
-      "added_at": "2026-02-20 07:35:50",
-      "album": {
-        "name": "Same As I Do",
-        "url": "https://open.spotify.com/album/6BpnahDKFXSnW5BCQFEL1i"
-      },
-      "artists": [
-        {
-          "name": "Otherwish",
-          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Same As I Do",
-      "url": "https://open.spotify.com/track/4CMcKFSCIAjeJJ3t70BvJC"
-    },
-    {
       "added_at": "2026-01-30 05:01:10",
       "album": {
         "name": "Electronicity",
@@ -697,26 +837,6 @@
       "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Everything Must Go Remixed",
-        "url": "https://open.spotify.com/album/7wEz2maoDcJiBqWh0XA7lh"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Your Direction - Chromeo Remix",
-      "url": "https://open.spotify.com/track/0FxV2wrRn84KSHNLllhaqp"
-    },
-    {
       "added_at": "2026-01-16 05:00:40",
       "album": {
         "name": "L.U.C.K.Y",
@@ -731,22 +851,6 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-02-26 04:57:47",
@@ -801,26 +905,6 @@
       "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Found a Love",
-        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "The Voices of Epoch",
-          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
-        }
-      ],
-      "duration_ms": 235149,
-      "name": "Found a Love",
-      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
-    },
-    {
       "added_at": "2026-02-20 07:35:50",
       "album": {
         "name": "Can't Go On",
@@ -867,26 +951,6 @@
       "duration_ms": 254620,
       "name": "Melchior\u2019s Dance",
       "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Better She Knows",
-        "url": "https://open.spotify.com/album/2xmA7OsWuYpHq0ScqFn8dl"
-      },
-      "artists": [
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        },
-        {
-          "name": "Labit",
-          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Better She Knows",
-      "url": "https://open.spotify.com/track/5h7drOCLfsNbb0Fyu47Ezp"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1277,22 +1341,6 @@
       "url": "https://open.spotify.com/track/6liSKmKGY8mj9i52esqSNF"
     },
     {
-      "added_at": "2026-01-16 22:07:27",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy"
-      },
-      "artists": [
-        {
-          "name": "Just For Fun",
-          "url": "https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t"
-        }
-      ],
-      "duration_ms": 142501,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52"
-    },
-    {
       "added_at": "2026-01-23 05:00:29",
       "album": {
         "name": "This Is The Place",
@@ -1401,26 +1449,6 @@
       "url": "https://open.spotify.com/track/0spJ6WVrQ1HtaC8F64MVrU"
     },
     {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "You're Not Alone (Dance Review)",
-        "url": "https://open.spotify.com/album/1p4Ufp0OQqEnsGOcHy2nGU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 230438,
-      "name": "You're Not Alone - Dance Review",
-      "url": "https://open.spotify.com/track/4sTeXE85vlMftYDfnBApN3"
-    },
-    {
       "added_at": "2025-11-21 05:00:38",
       "album": {
         "name": "Rest Easy",
@@ -1439,26 +1467,6 @@
     {
       "added_at": "2026-01-16 05:00:40",
       "album": {
-        "name": "Brew Boy (Bella Boo Remix)",
-        "url": "https://open.spotify.com/album/4pGlgcDWiRBpgOzEZxzWSM"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Eberdean",
-          "url": "https://open.spotify.com/artist/23E6p7XjlcNUPPpC05oJT0"
-        },
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 210434,
-      "name": "Brew Boy - Bella Boo Remix",
-      "url": "https://open.spotify.com/track/4NaFbzQxRbxobtkriXzfpg"
-    },
-    {
-      "added_at": "2026-01-16 05:00:40",
-      "album": {
         "name": "He Needs Me",
         "url": "https://open.spotify.com/album/1mYuz5sGD07dHeLyq4dM0Y"
       },
@@ -1471,22 +1479,6 @@
       "duration_ms": 224000,
       "name": "He Needs Me",
       "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "UP",
-        "url": "https://open.spotify.com/album/0Tgy2d3U2Q23E1GZIATlHJ"
-      },
-      "artists": [
-        {
-          "name": "2D0GS",
-          "url": "https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6"
-        }
-      ],
-      "duration_ms": 212859,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/2iSdsWyALI9ePGsGx5c2d1"
     },
     {
       "added_at": "2025-11-07 05:00:48",

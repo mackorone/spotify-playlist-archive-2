@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 813 likes - 91 songs - 5 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 827 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,13 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 89 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 |
 | 90 | [Money Tied The Knot](https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 2:24 |
 | 91 | [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 |
+| 92 | [El Despertar](https://open.spotify.com/track/065JBPwhEMyodKOZhmrWI0) | [Rober Mateos](https://open.spotify.com/artist/0b914nKij88tAr6TkZ93ml) | [El Despertar](https://open.spotify.com/album/2SKEGvt1F2dUGLfRywQ3Jm) | 3:28 |
+| 93 | [Without You](https://open.spotify.com/track/1TwapdaPvDJ1ABCDDMMQ1f) | [Dead Horse Riding](https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL) | [Without You](https://open.spotify.com/album/2XnDsmaRabXtnnGFOs6JW8) | 3:49 |
+| 94 | [Almas Crueles](https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo) | [MARSEYA](https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg) | [Almas Crueles](https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE) | 5:24 |
+| 95 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 |
+| 96 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 |
+| 97 | [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 |
+| 98 | [Leave Me Alone](https://open.spotify.com/track/73bDmL5oyycUsoeUWoNQQv) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Cold, Drunk & Stoned](https://open.spotify.com/album/1T7O1DrMZ7QmAAN9p16YN2) | 3:55 |
+| 99 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 |
 
-Snapshot ID: `AAAFZjtjbYZnv/4QoQKn/cADxysguqg+`
+Snapshot ID: `AAAFboq8/SO+X6Sqm6VfWDZqVMYp0EXF`

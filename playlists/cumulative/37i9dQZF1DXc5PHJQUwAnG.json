@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Victor Mendivil y Hades66 en portada.",
+  "description": "Bienvenidx a la trampa mexa. Robot95 en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -108,6 +108,24 @@
       "duration_ms": 180800,
       "name": "222",
       "url": "https://open.spotify.com/track/7v2D1eh25nkoUnydapJBnz"
+    },
+    {
+      "album": {
+        "name": "29 D\u00edas",
+        "url": "https://open.spotify.com/album/5LlJKddxY5R1cynhMY3Fxo"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133050,
+      "name": "29 D\u00edas",
+      "url": "https://open.spotify.com/track/3nDNzYmqvjAQoSWXNDUUFw"
     },
     {
       "album": {
@@ -3213,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "GRAN MAESTRE II",
+        "url": "https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213953,
+      "name": "EN GUERRA",
+      "url": "https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4"
+    },
+    {
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/0Wa49PwMchDyJEvgZPr717"
       },
@@ -3598,7 +3638,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 218785,
       "name": "Ferragamo",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
@@ -4329,6 +4369,28 @@
     },
     {
       "album": {
+        "name": "HUNNIDS",
+        "url": "https://open.spotify.com/album/2zgR4mWjl7KZB6JJgNNRbm"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "AVIDA",
+          "url": "https://open.spotify.com/artist/0SaMMRxNxzFncj6IHV94px"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "HUNNIDS",
+      "url": "https://open.spotify.com/track/1uOZNTADpDCLZ8QHm4Z4N0"
+    },
+    {
+      "album": {
         "name": "I DON'T WANNA WAIT FOR YOU (I AIN'T GOT TIME FOR THIS)",
         "url": "https://open.spotify.com/album/2DABF8pvSgOTvrwOUnjNXw"
       },
@@ -4766,6 +4828,24 @@
       "duration_ms": 98400,
       "name": "KAWAGHI freestyle",
       "url": "https://open.spotify.com/track/1a0VN10KkRNWFlgZ9cQ7Ys"
+    },
+    {
+      "album": {
+        "name": "Kevin Rios",
+        "url": "https://open.spotify.com/album/4raCviKL3QWvN9olCiUc0e"
+      },
+      "artists": [
+        {
+          "name": "Adan JFW",
+          "url": "https://open.spotify.com/artist/6iw0GipaAI3E8kQGYtt5RR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226940,
+      "name": "Kevin Rios",
+      "url": "https://open.spotify.com/track/1aILvEJoazGRQKXxKQlbS2"
     },
     {
       "album": {
@@ -5842,7 +5922,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 182666,
       "name": "Me Desvisten 2",
       "url": "https://open.spotify.com/track/63VXHps8d3L0kEEWstR2Y9"
@@ -6808,7 +6888,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 210000,
       "name": "No MMS Wey",
       "url": "https://open.spotify.com/track/7jI8whEGdhLacH4eUDDyVe"
@@ -7388,7 +7468,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 221276,
       "name": "PARTICULAR",
       "url": "https://open.spotify.com/track/4XvKrtqV1ZUKPWQnl1FLzc"
@@ -7798,6 +7878,32 @@
       "duration_ms": 154255,
       "name": "Ponte las Pilas",
       "url": "https://open.spotify.com/track/2lVWhB8q3LpMOADDyES1RG"
+    },
+    {
+      "album": {
+        "name": "PornX",
+        "url": "https://open.spotify.com/album/5OFVossAQxSN76QfDUd6eN"
+      },
+      "artists": [
+        {
+          "name": "Rodman Baby",
+          "url": "https://open.spotify.com/artist/4UNMFNFoO6p1ZhzC7zGMv1"
+        },
+        {
+          "name": "yovngmanota",
+          "url": "https://open.spotify.com/artist/6EDVu3xVa0VFfMhxKbBxuJ"
+        },
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185944,
+      "name": "PornX",
+      "url": "https://open.spotify.com/track/7bceFr5YChXylvZhCZpSRZ"
     },
     {
       "album": {
@@ -8759,6 +8865,28 @@
     },
     {
       "album": {
+        "name": "Sin Dormir",
+        "url": "https://open.spotify.com/album/3odgJ4jRg6jwqCRjyP6Q0W"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Sour Bizel",
+          "url": "https://open.spotify.com/artist/1r7BiS4pgbZp3T9m6mURNG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151264,
+      "name": "Sin Dormir",
+      "url": "https://open.spotify.com/track/7r7mcMWr77vqIhEoBofJY6"
+    },
+    {
+      "album": {
         "name": "Sin Dudar",
         "url": "https://open.spotify.com/album/36I292qKdqno3kL01PhBkE"
       },
@@ -9008,7 +9136,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 116383,
       "name": "sussy llama a los bomberos",
       "url": "https://open.spotify.com/track/0IRrytpdPE7hpauiT9j3so"
@@ -10372,7 +10500,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 148000,
       "name": "ZO\u00cb KRAVITZ",
       "url": "https://open.spotify.com/track/7g9MVlsrSPBDQ4jbPvrknb"

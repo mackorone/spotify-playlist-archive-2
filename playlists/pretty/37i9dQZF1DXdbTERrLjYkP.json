@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Emyrson Flora",
-  "num_followers": 219056,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Cloe Wilder",
+  "num_followers": 219051,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJsiNYP8jrd0RILEWk5/TgcBtmgT",
+  "snapshot_id": "AAAAAAqZqvMbgIqelEaS/46MOCV00W0c",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Boardwalk",
+        "url": "https://open.spotify.com/album/1CsHlHoIrS2WyKCKDEOm9y"
+      },
+      "artists": [
+        {
+          "name": "Cloe Wilder",
+          "url": "https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
+    },
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
@@ -23,6 +39,134 @@
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5HiwhWP8TjCKAy3G7jh4Wa"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 161537,
+      "name": "June",
+      "url": "https://open.spotify.com/track/6Cja8mqmoef4FBxNfQlt2k"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Wish You Nothing At All",
+        "url": "https://open.spotify.com/album/244OcCUW46je35eO0luM3R"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 184370,
+      "name": "Wish You Nothing At All",
+      "url": "https://open.spotify.com/track/6uAardyUXoFatwGReSALCr"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Good Material",
+        "url": "https://open.spotify.com/album/3Y6a2ox0oKtmfiF8UyPeYd"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 210785,
+      "name": "Good Material",
+      "url": "https://open.spotify.com/track/6ayWThHJIEq12z3fuR9S5n"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Not My Friends",
+        "url": "https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK"
+      },
+      "artists": [
+        {
+          "name": "Fiona-Lee",
+          "url": "https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "Not My Friends",
+      "url": "https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "better late than not at all",
+        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 177862,
+      "name": "if i'm lucky",
+      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Happy Meaning",
+        "url": "https://open.spotify.com/album/1bdNZjZT7g7Z5d7Q9RyTSS"
+      },
+      "artists": [
+        {
+          "name": "Tonia",
+          "url": "https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx"
+        }
+      ],
+      "duration_ms": 187115,
+      "name": "Happy Meaning",
+      "url": "https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "Never Made It Out",
+        "url": "https://open.spotify.com/album/3aQU2rp2dbpBrMFe5sGlfR"
+      },
+      "artists": [
+        {
+          "name": "Shay O'Dowd",
+          "url": "https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Never Made It Out",
+      "url": "https://open.spotify.com/track/12MTn5SaP2z5aYNjAiAJvc"
+    },
+    {
+      "added_at": "2026-03-20 04:00:44",
+      "album": {
+        "name": "It Will Never Be The Right Time",
+        "url": "https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 229731,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E"
     },
     {
       "added_at": "2026-03-13 04:00:44",
@@ -553,38 +697,6 @@
       "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
       "added_at": "2026-01-06 19:25:50",
       "album": {
         "name": "All My Songs",
@@ -983,38 +1095,6 @@
       "duration_ms": 200964,
       "name": "Tomorrow's Tomorrow",
       "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
-    },
-    {
-      "added_at": "2025-10-31 04:00:38",
-      "album": {
-        "name": "In My Sleep",
-        "url": "https://open.spotify.com/album/2ceea7b3XHoKXbljZcYSbM"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 202060,
-      "name": "In My Sleep",
-      "url": "https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:29",
-      "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "added_at": "2025-10-24 04:00:29",

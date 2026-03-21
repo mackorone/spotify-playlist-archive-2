@@ -25079,6 +25079,28 @@
     },
     {
       "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Medell\u00edn Takai",
+      "url": "https://open.spotify.com/track/7BHV1xSknMCuPlZnEql1xz"
+    },
+    {
+      "album": {
         "name": "medium rare",
         "url": "https://open.spotify.com/album/7GIgQkwUrV7znTWZCytkoZ"
       },
@@ -33166,6 +33188,24 @@
       "duration_ms": 162393,
       "name": "RAP BOY pt2 (feat. MIKADO)",
       "url": "https://open.spotify.com/track/3pidFDSYwepePnl2etITtU"
+    },
+    {
+      "album": {
+        "name": "Rapper's Flow Pt.2",
+        "url": "https://open.spotify.com/album/6VzkvwnpB0PcyoUrjoAJKN"
+      },
+      "artists": [
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161917,
+      "name": "Rapper's Flow Pt.2",
+      "url": "https://open.spotify.com/track/26QYrdshGRR5oNfgez1PDK"
     },
     {
       "album": {
@@ -43825,6 +43865,28 @@
     },
     {
       "album": {
+        "name": "VYBEZ",
+        "url": "https://open.spotify.com/album/4aRnGfeDSXfrBSLyKiDlfD"
+      },
+      "artists": [
+        {
+          "name": "ISSUGI",
+          "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
+        },
+        {
+          "name": "16FLIP",
+          "url": "https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "VYBEZ",
+      "url": "https://open.spotify.com/track/0ErboO4EwcWPGO18IWqbrn"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/48KNeBoDvYOSXaaWzk27kX"
       },
@@ -48448,7 +48510,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 161853,
       "name": "\u30b9\u30fc\u30d1\u30fc\u30ec\u30a2 (feat. \u4ed9\u4eba\u638c & Daichi Yamamoto)",
       "url": "https://open.spotify.com/track/7nfBh7PkR7sWHO5kk1iPaY"
@@ -48842,6 +48904,24 @@
       "duration_ms": 130207,
       "name": "\u30d3\u30ea\u30d3\u30ea",
       "url": "https://open.spotify.com/track/75xAX1HrObH9EYqp86K2AZ"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30c4\u30fc\u3063\u3066\u4f55\uff1f",
+        "url": "https://open.spotify.com/album/2xzxpCqQbo5TyO4iKEe8YJ"
+      },
+      "artists": [
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333834,
+      "name": "\u30d5\u30c4\u30fc\u3063\u3066\u4f55\uff1f",
+      "url": "https://open.spotify.com/track/7B2gNfG6maRaaCwelVohdU"
     },
     {
       "album": {
@@ -49484,7 +49564,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 259355,
       "name": "\u4eca\u65e5\u3068\u3044\u3046\u65e5\u306f (feat. T-Pablow)",
       "url": "https://open.spotify.com/track/7CObvh64I8vCHUMgPC9wWV"

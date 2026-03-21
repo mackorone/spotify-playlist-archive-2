@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,708 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,703 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [Here, Tomorrow](https://open.spotify.com/track/1Kv8Ep17FrOkvHAINLIEgW) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Spirit Blossom Beyond \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/0mNCXeb7azjErkTqoaR4BA) | 3:07 |
 | 50 | [Fated Return](https://open.spotify.com/track/04vYq1xrpYAru7yYJ98mLN) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [H.Jen](https://open.spotify.com/artist/6exCcAqZTNtDeAOpgP3qUi), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [Fated Return](https://open.spotify.com/album/7y2xolTErkEB6jNWwYFZyp) | 1:51 |
 
-Snapshot ID: `abnrAAAAAAC4KEsMmZJr45coJvejIjnx`
+Snapshot ID: `abs8gAAAAACmG6NxEw27+RfNG45cHfNh`

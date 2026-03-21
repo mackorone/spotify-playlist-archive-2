@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 7 hr 38 min
+150 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Kiki](https://open.spotify.com/track/0TkdRKpejpwRE4r4C4DgzV) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Kiki](https://open.spotify.com/album/43e1C3XcVXK0KytOlJtg8D) | 2:11 | 2025-11-07 |  |
 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 | 2025-11-07 |  |
 | [La 65](https://open.spotify.com/track/4XnYgX8j2hqz3z8hK4QOpm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:10 | 2025-11-07 |  |
+| [La 8va Maravilla](https://open.spotify.com/track/7piytR7ElMukIQRZNpoIzy) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:03 | 2026-03-20 |  |
 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 | 2025-11-07 |  |
 | [LA CYBER](https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:30 | 2025-11-07 |  |
 | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/track/2vkP9YxIShIv2BnpxWeK09) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rapeton Approved](https://open.spotify.com/artist/2Tdsb1uIuHJrG5SllTLyCw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Glock Remix \(feat\. Yandel\)](https://open.spotify.com/album/5ICLoIxxGde3n3lvyAqoQx) | 3:19 | 2025-11-07 |  |

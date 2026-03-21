@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Campinas",
+        "url": "https://open.spotify.com/album/6QYxpo333sj2N3aUzIqDnR"
+      },
+      "artists": [
+        {
+          "name": "Rio Romario",
+          "url": "https://open.spotify.com/artist/1Q3PA55SNqwafc6UiBgx3p"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Campinas",
+      "url": "https://open.spotify.com/track/7rgAISOVKxsXECianZOq5y"
+    },
+    {
+      "album": {
         "name": "Caribbean",
         "url": "https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY"
       },
@@ -2317,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/6MGXvKnMgibhylb2w4zItv"
+      },
+      "artists": [
+        {
+          "name": "Protier",
+          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5wBDPN8kUA2x8YkelK0QFr"
+    },
+    {
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/46YVi0CuFan0r1Q6e3H8zx"
       },
@@ -2436,7 +2472,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 316363,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/5g7Bo9uSmkdQ3ErOdivaJA"
@@ -2548,6 +2584,24 @@
       "duration_ms": 173453,
       "name": "Femme",
       "url": "https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/31gZxu4PKxVc0OJtUn2QiY"
+      },
+      "artists": [
+        {
+          "name": "Velvet Noire",
+          "url": "https://open.spotify.com/artist/1AfEMeSLI0UVzwjxXGWWpO"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/3PXClChxQoqK9ZsYB6U7wp"
     },
     {
       "album": {
@@ -2868,7 +2922,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 162000,
       "name": "Fresh Chilli",
       "url": "https://open.spotify.com/track/2fdpTFzAyLzE78bnfs3XFY"
@@ -3289,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Happen to Me",
+        "url": "https://open.spotify.com/album/4vJu7XU90MbO1vREUePk1d"
+      },
+      "artists": [
+        {
+          "name": "Pello Esso",
+          "url": "https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178052,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/3ol91wEUsuMCnKTI9aRmRb"
+    },
+    {
+      "album": {
         "name": "Hauted House",
         "url": "https://open.spotify.com/album/1gaNZzo9rhuXN8qmjpGlR0"
       },
@@ -3588,7 +3660,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 169189,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/1PcsHuNrxcui7kEgX4YcZx"
@@ -4168,7 +4240,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 135929,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/3ZbtMwxCbNLiAm84ZR3H0Z"
@@ -4319,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "magenta",
+        "url": "https://open.spotify.com/album/1UvRn4oQVkcdtYc8BszB7q"
+      },
+      "artists": [
+        {
+          "name": "citron love",
+          "url": "https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128333,
+      "name": "magenta",
+      "url": "https://open.spotify.com/track/4Dm76C4z5jfU3Gz17FLwtU"
+    },
+    {
+      "album": {
         "name": "Magic Island",
         "url": "https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2"
       },
@@ -4334,6 +4424,24 @@
       "duration_ms": 137744,
       "name": "Magic Island",
       "url": "https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH"
+    },
+    {
+      "album": {
+        "name": "Malibou Fantasy",
+        "url": "https://open.spotify.com/album/22pqrQtFFMUw7WCh9DOHjG"
+      },
+      "artists": [
+        {
+          "name": "Dancing Minds",
+          "url": "https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Malibou Fantasy",
+      "url": "https://open.spotify.com/track/6oDxi9ehPG9O60UqhJVnJI"
     },
     {
       "album": {
@@ -4406,6 +4514,24 @@
       "duration_ms": 174534,
       "name": "Mellow Trouble",
       "url": "https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn"
+    },
+    {
+      "album": {
+        "name": "Membrain",
+        "url": "https://open.spotify.com/album/0C7mgjkqseBEd9gHOJzIRF"
+      },
+      "artists": [
+        {
+          "name": "Calvian",
+          "url": "https://open.spotify.com/artist/1YvCNyjRG7ZhIZXdSgDSXc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143824,
+      "name": "Membrain",
+      "url": "https://open.spotify.com/track/06ysjGtKJIZZ5ZpGy0gIQ3"
     },
     {
       "album": {
@@ -5039,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Nuv\u00e9",
+        "url": "https://open.spotify.com/album/3UwqEC6C97ay5EivcDQB0m"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mirage",
+          "url": "https://open.spotify.com/artist/7rpxtvxhE8niKR3p12vQq4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Nuv\u00e9",
+      "url": "https://open.spotify.com/track/3MtLFZiha8DQWc3szHIsdO"
+    },
+    {
+      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/7f9xFvcnWYuZGyqbllOcN2"
       },
@@ -5104,7 +5248,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 199285,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/5pAmBhagFy54lP28gwANXz"
@@ -5831,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Rand",
+        "url": "https://open.spotify.com/album/4l8DEirtDwD26dXafoO3o1"
+      },
+      "artists": [
+        {
+          "name": "Ellef Antenn",
+          "url": "https://open.spotify.com/artist/16YlFbaG2mBZH3bkV3D544"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187777,
+      "name": "Rand",
+      "url": "https://open.spotify.com/track/6cTJ6LxI3gAiJDbCx7iv7w"
+    },
+    {
+      "album": {
         "name": "re-echo - Edit",
         "url": "https://open.spotify.com/album/5oUODEgj8G9XZp6HyZgEkT"
       },
@@ -5954,6 +6116,24 @@
       "duration_ms": 164571,
       "name": "reflect",
       "url": "https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0UCYI0m537mQpGzxxy680F"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6X6UKfuotASY7HuTvzXXJf"
     },
     {
       "album": {
@@ -6706,7 +6886,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 157837,
       "name": "Slide Into Position",
       "url": "https://open.spotify.com/track/6oyYsLP4VAcppKWZFYxK6S"
@@ -7016,6 +7196,24 @@
       "duration_ms": 148000,
       "name": "Spray",
       "url": "https://open.spotify.com/track/0yvMP1CCKrB1YFEVxWAgmr"
+    },
+    {
+      "album": {
+        "name": "Spritz",
+        "url": "https://open.spotify.com/album/0AS4SsJtDqS9Vp2FftnTIv"
+      },
+      "artists": [
+        {
+          "name": "Muun Drift",
+          "url": "https://open.spotify.com/artist/0j8VxJiuUxKAf66J8ngkk5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136719,
+      "name": "Spritz",
+      "url": "https://open.spotify.com/track/10rQesLnFYDcxlYhO0y8zY"
     },
     {
       "album": {
@@ -7430,6 +7628,24 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "album": {
+        "name": "Sunshine in the Rain",
+        "url": "https://open.spotify.com/album/4mAqcec5e58qYPhj9iUvaQ"
+      },
+      "artists": [
+        {
+          "name": "Aria Kyd",
+          "url": "https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146697,
+      "name": "Sunshine in the Rain",
+      "url": "https://open.spotify.com/track/1ejyh9TU3Y1tDkTPUG5Z9G"
     },
     {
       "album": {
@@ -7930,7 +8146,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-21",
       "duration_ms": 189068,
       "name": "Turn Over",
       "url": "https://open.spotify.com/track/3dGXqiMfNpti66KcOIjBqL"
