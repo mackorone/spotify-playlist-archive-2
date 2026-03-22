@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from K.O, Lizzo, Nobuhle, RAYE,  Asake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,658 likes - 84 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,721 likes - 84 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 35 | [Houseboy](https://open.spotify.com/track/6SI6m9H51acvV0poAOvGHS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Houseboy](https://open.spotify.com/album/04lXyW1kr6xRKw89cnqNJO) | 2:18 |
 | 36 | [Impicabadala](https://open.spotify.com/track/6gU37N055QOf0KYGdn7Ryj) | [Msheke Lezinto](https://open.spotify.com/artist/6kJejiet7ijpTmHAWdbDsu), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Carnival King](https://open.spotify.com/artist/6bSHop1y1MB4YNT5a4SADH), [Nandi Ndathane](https://open.spotify.com/artist/3u0q1HjAhQHtDaP4PzlZrz), [Sinny Man'Que](https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m) | [Impicabadala](https://open.spotify.com/album/54VMK6DbhfDjhhuGLEIXG0) | 6:22 |
 | 37 | [REAL ONES NEVER DIE](https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HAVE U BN 2 HEAVEN @ NITE?](https://open.spotify.com/album/3BuIzFRRm9jeLmZlMEbwnj) | 3:01 |
-| 38 | [Mzali](https://open.spotify.com/track/5BypWTU9bN7dN6KWKU87sT) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [BlessKeys](https://open.spotify.com/artist/53LN3yROrCSfpkzFe7mEdJ), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Letters I Didn't Send](https://open.spotify.com/album/6vJ5GJo9VTgZk3fhsZq38Y) | 8:11 |
+| 38 | [Mzali](https://open.spotify.com/track/5BypWTU9bN7dN6KWKU87sT) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Letters I Didn't Send](https://open.spotify.com/album/6vJ5GJo9VTgZk3fhsZq38Y) | 8:11 |
 | 39 | [Highest](https://open.spotify.com/track/10VuwBAxEi3goN8n3AvrGS) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:56 |
 | 40 | [Omoge](https://open.spotify.com/track/6IBEAF32Fv8E8YuV6rPieG) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Omoge](https://open.spotify.com/album/0nvh8dvGy5ER2hxSQJsCjA) | 2:33 |
 | 41 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |

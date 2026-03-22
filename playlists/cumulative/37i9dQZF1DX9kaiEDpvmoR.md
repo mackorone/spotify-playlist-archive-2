@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-521 songs - 1 day 6 hr 43 min
+522 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Där hela världen väntar](https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Där hela världen väntar](https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC) | 3:02 | 2026-03-05 |  |
 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 | 2026-02-08 |  |
 | [East River Park Song](https://open.spotify.com/track/0nIxDReCiyq1DwkFdLvXbR) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Alphabet City Songs \(Lost and Found Album\)](https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw) | 3:55 | 2025-03-27 | 2025-09-19 |
-| [Echoes](https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Echoes](https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX) | 3:10 | 2026-01-01 |  |
+| [Echoes](https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Echoes](https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX) | 3:10 | 2026-01-01 | 2026-03-22 |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-29 |
 | [Eld fire fogo](https://open.spotify.com/track/6bUjuJns2EqRNhAr9HTa96) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA), [Jaqee](https://open.spotify.com/artist/31JCx1UPkfVSDBMVr1UQOR) | [Eld fire fogo](https://open.spotify.com/album/3FvqIdXrAw1CSKnLqXwWDq) | 3:28 | 2026-03-19 |  |
 | [Eller hur](https://open.spotify.com/track/7I6Su8oH5i0IUF4ONw6d7j) | [David Urwitz](https://open.spotify.com/artist/2ces6d2YsQP1RpGMYpdFy8) | [Eller hur](https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i) | 3:14 | 2025-05-15 | 2025-06-06 |
@@ -352,6 +352,7 @@
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [Passa dig](https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Passa dig](https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG) | 2:28 | 2024-10-03 | 2024-11-11 |
 | [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-06-27 | 2024-09-29 |
+| [Pillar of Davidson](https://open.spotify.com/track/39VGpgVZbYDPd4MxYYtYJv) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Pillar of Davidson](https://open.spotify.com/album/4SA8y0q3M0Dfk3M4I3G99r) | 4:57 | 2026-03-19 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Plåster](https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [Plåster](https://open.spotify.com/album/17jtloQfhJTTH4TPNCZqYm) | 3:33 | 2024-10-03 | 2024-12-25 |
 | [Plåster](https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Plåster](https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y) | 4:59 | 2024-08-15 | 2024-09-27 |

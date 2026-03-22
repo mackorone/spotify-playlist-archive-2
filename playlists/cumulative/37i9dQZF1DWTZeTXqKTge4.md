@@ -4,7 +4,7 @@
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Souldia
 
-1,097 songs - 2 day 6 hr 38 min
+1,100 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Auto](https://open.spotify.com/track/35shJ4rnJV0AmcPbTz3p7V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Auto](https://open.spotify.com/album/2NaDDH76GHFQkwgLAoZ3Va) | 2:37 | 2023-04-14 | 2023-09-09 |
 | [Avalanche](https://open.spotify.com/track/721UWUDMwFfVivaDIrEzrq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Citadelle](https://open.spotify.com/album/0fhUFpKF7jeEe8adG2cUCs) | 3:34 | 2023-11-03 | 2023-11-13 |
 | [Avalon](https://open.spotify.com/track/5WP7fIhGPXgf4bx4uipzAr) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [STILL 24](https://open.spotify.com/album/7JjSXuEKJREw2zDwI3iOb7) | 2:51 | 2022-01-07 | 2022-03-05 |
+| [Avec\*Babe](https://open.spotify.com/track/3Vivke5XRY6gQuPuNCpp03) | [Amilnizar](https://open.spotify.com/artist/2exrVXnkI6lbGcaC4njPIa), [Baby Weslow](https://open.spotify.com/artist/5dyPEQPOxskfP7qWsENux2) | [Avec\*Babe](https://open.spotify.com/album/6Omx1PpdlBlOhC20wyKfIx) | 2:48 | 2026-03-21 |  |
 | [Averse](https://open.spotify.com/track/3l3j8pFpRk7P0KjHdWuZpl) | [Ras Epsylow](https://open.spotify.com/artist/4OdWDR7Pp8eyxShTFEfPCz) | [Averse](https://open.spotify.com/album/3vcnhUJ1MlGjuTwRFGpd0m) | 2:28 | 2025-10-17 | 2025-12-04 |
 | [Ayenne](https://open.spotify.com/track/0SS8kqR1B5nw2XldAKOoiz) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Ayenne](https://open.spotify.com/album/15UWoGQBrHIVSb8fWRihZd) | 2:36 | 2023-12-08 | 2024-03-02 |
 | [B!Tch](https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi) | [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [B!Tch](https://open.spotify.com/album/7jeltOef5FnPWgCb9EPBBt) | 3:05 | 2026-01-30 |  |
@@ -110,6 +111,7 @@
 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 | 2024-05-31 | 2025-01-11 |
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-07-08 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-09-17 |
+| [Barillet](https://open.spotify.com/track/63xD9tULBmh4Z4OXHp8SZ5) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Barillet](https://open.spotify.com/album/7kSOQQTfNXq5kkR0cBkK2k) | 2:13 | 2026-03-21 |  |
 | [Barre Tendre](https://open.spotify.com/track/3T02MLKuLd4GgHZIP7sYug) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Barre Tendre](https://open.spotify.com/album/5MPKKAtsJpjFIFso3z0eof) | 2:56 | 2022-05-27 | 2022-06-11 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2023-07-01 |
 | [BE U](https://open.spotify.com/track/0Dda3qDMBqfXyh5r4euLL0) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW) | [SOUL URGE](https://open.spotify.com/album/1DfBrXghMA9GswZIyrlKJU) | 2:38 | 2023-11-03 | 2023-11-13 |
@@ -183,6 +185,7 @@
 | [ca se fait](https://open.spotify.com/track/7mx2c8ZqLPaz8mPlhaXpuP) | [willjxmes](https://open.spotify.com/artist/0BshirqPxDsi7iF6hpjxoc) | [\#FRANGLAIS](https://open.spotify.com/album/7wZI4Ovfa5uVa5pIIawD60) | 2:06 | 2026-02-27 | 2026-03-21 |
 | [Cachette](https://open.spotify.com/track/5u3TUGijryB8AHWQfju6jA) | [Izzy Scal](https://open.spotify.com/artist/1QQAK4Aln0ZyfR1xd729V9) | [Cachette](https://open.spotify.com/album/5WHs8lyAsauSF8gHujBlRR) | 2:43 | 2026-02-13 |  |
 | [CAD \- Freestyle](https://open.spotify.com/track/2lNoS6A5x6D8aVQU24VOTI) | [MTL RAP](https://open.spotify.com/artist/6ZzR5GdqiXENtm5afmfTSZ), [MK](https://open.spotify.com/artist/0rfQQsDBxgKZfoL1gIul88) | [CAD \(Freestyle\)](https://open.spotify.com/album/37h7hDOgQFA4ghOB27SnXB) | 3:30 | 2025-10-17 |  |
+| [Cadence](https://open.spotify.com/track/48Jt2LwzTduDDiqIyWqRAz) | [Cadiem](https://open.spotify.com/artist/0SHjykYVymZu6OV343kgUe), [Komēdza](https://open.spotify.com/artist/3q58PA1eYqlsTE8E9S2sMf) | [Cadence](https://open.spotify.com/album/2S17bVRP27MM7pER1mzjXh) | 2:36 | 2026-03-21 |  |
 | [Calmate](https://open.spotify.com/track/0APdg7ZldMEtLnEB6opdDV) | [McFlyy](https://open.spotify.com/artist/65hhflNXZEhgbQvnyftw0L) | [Calmate](https://open.spotify.com/album/3MPX5w5DLcq0jh8wC4zhIm) | 2:34 | 2022-03-18 | 2022-03-26 |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-08 | 2023-03-18 |
 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 | 2022-09-30 | 2023-08-05 |

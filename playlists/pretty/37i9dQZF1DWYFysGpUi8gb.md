@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,253 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,251 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Oh](https://open.spotify.com/track/1Wh0fEXzDU1my6dA6U2d0e) | [Domina](https://open.spotify.com/artist/5J4Y0TedRCY1Cx2pHOT0vP) | [Oh](https://open.spotify.com/album/4NLlsPWwJSjJEoXixvqSWQ) | 3:15 |
 | 80 | [I Heard, I Saw](https://open.spotify.com/track/1uNhpnn7iZxSCzGfVIZPuo) | [Croíthe](https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl) | [I Heard, I Saw](https://open.spotify.com/album/61RHatwLMZ5hKVMDvmOADK) | 3:01 |
 
-Snapshot ID: `AAAAAJTQ7ueHXW7mLwnG60xS41ny5jcg`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

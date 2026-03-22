@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 | 2025-09-30 |  |
-| [Addicted](https://open.spotify.com/track/15D94lrSQqwWGHUOhuc8ii) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [ADDICTED](https://open.spotify.com/album/7zObzp2PrjFPeqFVeACIFs) | 3:19 | 2026-01-14 |  |
+| [Addicted](https://open.spotify.com/track/15D94lrSQqwWGHUOhuc8ii) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [ADDICTED](https://open.spotify.com/album/7zObzp2PrjFPeqFVeACIFs) | 3:19 | 2026-01-14 | 2026-03-22 |
 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 | 2025-09-30 |  |
 | [ALL MINE](https://open.spotify.com/track/0bbrsFG5BNrJgbsKVuRRH0) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [ALL MINE](https://open.spotify.com/album/5EJ92oJ7u0HLdTfA1uED3V) | 3:32 | 2025-09-30 |  |
 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 | 2025-09-30 |  |
@@ -48,7 +48,7 @@
 | [SO DEEP](https://open.spotify.com/track/4V1t2HyTCktq2IuprZpBtV) | [mimi](https://open.spotify.com/artist/2RQc2hJpbFNCd69JH7uMVA) | [JOY LOVE HAPPINESS](https://open.spotify.com/album/4w3zlyVCyk6kE43zbtpy19) | 4:12 | 2025-09-30 |  |
 | [SOULS（Main）](https://open.spotify.com/track/19DpfD5OYkSDUsk10tLwzF) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [bird](https://open.spotify.com/album/3EOrVV22ME6Otivn1dk2Vh) | 6:29 | 2025-09-30 |  |
 | [Strange Things](https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [VISION](https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5) | 4:49 | 2025-09-30 |  |
-| [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-09-30 | 2026-03-20 |
+| [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-09-30 |  |
 | [The Joker](https://open.spotify.com/track/7gJ3QOh4SVrGXaVL5lFh3w) | [SAKURA](https://open.spotify.com/artist/4CEz4WJQ9VkNsa5JdXRE8q) | [daylight](https://open.spotify.com/album/1ns1zXYtubxZhrV5xAjC9I) | 4:11 | 2025-09-30 |  |
 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 | 2025-09-30 |  |
 | [TRUE LIES](https://open.spotify.com/track/2QVQwcNEvfBIPzji3uSeqP) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [MUSIC GREETINGS VOLUME ONE](https://open.spotify.com/album/4lNYjjTPXpjVNGTvsweTyb) | 5:27 | 2025-09-30 |  |

@@ -4,7 +4,7 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 16 min
+136 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Moving](https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:47 | 2022-08-05 |  |
 | [Mr\. Airplane Man](https://open.spotify.com/track/2WbfXzjV23ajVgNMKv5zFO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:43 | 2023-07-20 | 2023-11-11 |
 | [Mr\. Airplane Man \- Single Version](https://open.spotify.com/track/1MzF23RMnLlJQBkYM5JiJh) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:43 | 2022-08-14 | 2022-09-10 |
+| [Mr\. Highway Man](https://open.spotify.com/track/1y93HSjyPk4XuNMRnqRRd2) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:48 | 2026-03-22 |  |
 | [Mr\. Highway Man \- Single Version](https://open.spotify.com/track/2VJrD7jk3zyJRQwMlF7U7N) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 2:48 | 2022-08-06 | 2022-10-13 |
 | [My Country Sugar Mama](https://open.spotify.com/track/04gLynZwUgqOsir1nK35Fz) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:35 | 2022-08-09 | 2024-07-18 |
 | [My Last Affair](https://open.spotify.com/track/4GDubi3dxeL3F2z2k8QAm0) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames \(25 Blues Originals\)](https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM) | 2:54 | 2023-01-24 | 2023-05-13 |

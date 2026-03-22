@@ -1,12 +1,12 @@
 {
   "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1452620,
+  "num_followers": 1452712,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAAD06r1PMF+HD3aYMy+BIldA",
+  "snapshot_id": "abyOAAAAAAC9jEqqHSeV8yRgT4xFV/wn",
   "tracks": [
     {
       "added_at": null,
@@ -268,7 +268,7 @@
       "added_at": null,
       "album": {
         "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 223880,
-      "name": "Drain You",
-      "url": "https://open.spotify.com/track/0bTLGlCqwZXwJGWGE2Dywg"
+      "duration_ms": 255080,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq"
     },
     {
       "added_at": null,
@@ -332,7 +332,7 @@
       "added_at": null,
       "album": {
         "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 255080,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq"
+      "duration_ms": 223880,
+      "name": "Drain You",
+      "url": "https://open.spotify.com/track/0bTLGlCqwZXwJGWGE2Dywg"
     },
     {
       "added_at": null,

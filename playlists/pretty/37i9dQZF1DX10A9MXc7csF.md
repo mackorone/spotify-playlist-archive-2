@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\.  Kompa Marley 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,742 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,755 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 74 | [FRENESI](https://open.spotify.com/track/3DL5HZVmpGzlo8G9jrwyko) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I) | [FRENESI](https://open.spotify.com/album/6crRmbD1w0fVNd96fumPRt) | 3:03 |
 | 75 | [Los Días](https://open.spotify.com/track/58ywp1imKiUkend4q6UaSl) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh) | [Los Días](https://open.spotify.com/album/5fcsS6wbKYKVJ6cDOJN6Sy) | 3:16 |
 
-Snapshot ID: `AAAAAL5eCDeFhnevRr3062qhdUJjdPJu`
+Snapshot ID: `AAAAAP7a+YlHbqWaVsN124JWut2IO+sD`

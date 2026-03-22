@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 395106,
+  "num_followers": 395143,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "good grief!",
-        "url": "https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/4jMmHLhkvQToncD10srcty"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        },
+        {
+          "name": "Valerie Guerra",
+          "url": "https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw"
         }
       ],
-      "duration_ms": 187303,
-      "name": "good grief!",
-      "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
+      "duration_ms": 204000,
+      "name": "The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -431,22 +435,18 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/4jMmHLhkvQToncD10srcty"
+        "name": "good grief!",
+        "url": "https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        },
-        {
-          "name": "Valerie Guerra",
-          "url": "https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 204000,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL"
+      "duration_ms": 187303,
+      "name": "good grief!",
+      "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "That's who I praise (from the studio)",
+        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 193926,
+      "name": "That's who I praise - from the studio",
+      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 176600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "That's who I praise (from the studio)",
-        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 193926,
-      "name": "That's who I praise - from the studio",
-      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "not alone",
-        "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
-      },
-      "artists": [
-        {
-          "name": "Meyta",
-          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "not alone",
-      "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 178548,
       "name": "This Is How I Thank The Lord - Acoustic",
       "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "not alone",
+        "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "not alone",
+      "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Taste And See",
+        "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
+      },
+      "artists": [
+        {
+          "name": "Cether",
+          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
+        },
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Taste And See",
+      "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Childlike",
         "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 194716,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Taste And See",
-        "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
-      },
-      "artists": [
-        {
-          "name": "Cether",
-          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
-        },
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Taste And See",
-      "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1907,6 +1887,26 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 200200,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Who's My Neighbor? (Acoustic)",
-        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Who's My Neighbor? - Acoustic",
-      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1955,6 +1939,22 @@
       "duration_ms": 233437,
       "name": "Bread of Life (John 6)",
       "url": "https://open.spotify.com/track/0hBKxdCN03JCMX4Svnr47V"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Who's My Neighbor? (Acoustic)",
+        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Who's My Neighbor? - Acoustic",
+      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "I Fell in Love with You",
+        "url": "https://open.spotify.com/album/0na4OgOZsaxKrexnxddVLD"
+      },
+      "artists": [
+        {
+          "name": "Dj Jazzy D The GrooveMaster",
+          "url": "https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5"
+        }
+      ],
+      "duration_ms": 245857,
+      "name": "Dj Jazzy D the Groovemaster - I Fell in Love with You",
+      "url": "https://open.spotify.com/track/5RLMOJGi9FyhBlMLgtTU3q"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Tomorrow Mind",
         "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
       },
@@ -2347,38 +2363,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "I Fell in Love with You",
-        "url": "https://open.spotify.com/album/0na4OgOZsaxKrexnxddVLD"
-      },
-      "artists": [
-        {
-          "name": "Dj Jazzy D The GrooveMaster",
-          "url": "https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5"
-        }
-      ],
-      "duration_ms": 245857,
-      "name": "Dj Jazzy D the Groovemaster - I Fell in Love with You",
-      "url": "https://open.spotify.com/track/5RLMOJGi9FyhBlMLgtTU3q"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Miracle Service",
-        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
-      },
-      "artists": [
-        {
-          "name": "Andy Squyres",
-          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
-        }
-      ],
-      "duration_ms": 261918,
-      "name": "Gutter Punk",
-      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "ZION",
         "url": "https://open.spotify.com/album/65g94d7DbQz5slMvMlCWQI"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 280125,
       "name": "ZION",
       "url": "https://open.spotify.com/track/2PArMnrio6xPBsjVQNl3V7"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Miracle Service",
+        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
+      },
+      "artists": [
+        {
+          "name": "Andy Squyres",
+          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
+        }
+      ],
+      "duration_ms": 261918,
+      "name": "Gutter Punk",
+      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2547,6 +2547,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/4Kus9Gh8RAKBWO8uGvQdBc"
+      },
+      "artists": [
+        {
+          "name": "Emu Music",
+          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Take Heart",
+      "url": "https://open.spotify.com/track/6ifa4NEeEn5GzeL6ZqnHr4"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "The Friend & True King",
         "url": "https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a"
       },
@@ -2563,22 +2579,6 @@
       "duration_ms": 122000,
       "name": "Glory of God",
       "url": "https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Take Heart",
-        "url": "https://open.spotify.com/album/4Kus9Gh8RAKBWO8uGvQdBc"
-      },
-      "artists": [
-        {
-          "name": "Emu Music",
-          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Take Heart",
-      "url": "https://open.spotify.com/track/6ifa4NEeEn5GzeL6ZqnHr4"
     },
     {
       "added_at": "2025-12-12 22:29:55",

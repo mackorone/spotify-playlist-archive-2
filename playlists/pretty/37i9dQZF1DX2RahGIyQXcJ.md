@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,679 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,725 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 11 | [Not Guilty](https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Not Guilty](https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c) | 2:55 |
 | 12 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 13 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 |
-| 14 | [Wild Ride \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/track/4Ec2TXBQ5NMXuXfFBDkE1A) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Wild Ride \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/album/0lk4gobJwDE4bnM1thJsNq) | 2:52 |
+| 14 | [Wild Ride \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/track/4Ec2TXBQ5NMXuXfFBDkE1A) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Ellisar](https://open.spotify.com/artist/2Qez6HccErqLCsJux3g4CW) | [Wild Ride \(From "Dhurandhar The Revenge"\)](https://open.spotify.com/album/0lk4gobJwDE4bnM1thJsNq) | 2:52 |
 | 15 | [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 |
 | 16 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 |
 | 17 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 |

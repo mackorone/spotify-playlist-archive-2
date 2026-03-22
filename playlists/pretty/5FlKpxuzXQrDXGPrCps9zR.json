@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABilBonfXzE4SkIwe8kj/Axqj2+o2B",
+  "snapshot_id": "AAABjFp0cYYN6zkpV8jJAbshG4ePeymR",
   "tracks": [
     {
       "added_at": "2025-10-04 15:07:39",
@@ -487,6 +487,38 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "added_at": "2026-03-21 14:09:20",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl"
+    },
+    {
+      "added_at": "2026-03-21 14:09:24",
+      "album": {
+        "name": "Flamin\u2019 Hottie",
+        "url": "https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 108493,
+      "name": "Flamin\u2019 Hottie",
+      "url": "https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui"
     }
   ],
   "unique_name": "THE playlist",

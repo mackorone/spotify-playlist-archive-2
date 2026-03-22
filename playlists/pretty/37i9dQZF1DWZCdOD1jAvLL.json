@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269879,
+  "num_followers": 269932,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 187279,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 187279,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 233734,
       "name": "NO CAP",
       "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Bang That",
         "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 170898,
       "name": "Bang That",
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 192193,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1687,6 +1687,30 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Let It Go (feat. Nevve)",
+        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Let It Go (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "CHARIOT",
         "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
       },
@@ -1699,6 +1723,26 @@
       "duration_ms": 144000,
       "name": "move! (that body)",
       "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1723,26 +1767,6 @@
       "duration_ms": 231300,
       "name": "Rome Is Burning",
       "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1787,6 +1811,46 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 161641,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Control Myself",
+        "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Control Myself",
+      "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
@@ -1819,26 +1883,6 @@
       "duration_ms": 195310,
       "name": "Sometimes / DOPAMINE++++",
       "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Control Myself",
-        "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Control Myself",
-      "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2051,26 +2095,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 161641,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Ready Fi Dem",
         "url": "https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL"
       },
@@ -2183,6 +2207,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Break This Tension",
+        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "Break This Tension",
+      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO"
       },
@@ -2239,22 +2283,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Howweroll",
-        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "Howweroll",
-      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Ur Not Invited",
         "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
       },
@@ -2267,6 +2295,22 @@
       "duration_ms": 210909,
       "name": "Ur Not Invited",
       "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Howweroll",
+        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "Howweroll",
+      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2327,46 +2371,18 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Let It Go (feat. Nevve)",
-        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
+        "name": "Trilla",
+        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Let It Go (feat. Nevve)",
-      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Break This Tension",
-        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
-      },
-      "artists": [
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "Break This Tension",
-      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
+      "duration_ms": 132727,
+      "name": "Trilla",
+      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2387,22 +2403,6 @@
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Trilla",
-        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
-      },
-      "artists": [
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Trilla",
-      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     }
   ],
   "unique_name": "Bangers",

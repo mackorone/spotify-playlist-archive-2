@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,688 likes - 116 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,744 likes - 116 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 64 | [I Remember My Name \(Arr\. Langley for Violin & Orchestra\) \- From "Squid Game"](https://open.spotify.com/track/1UfVF2e1TvDzpLACLTzDvl) | [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr), [Jonathan Ayling](https://open.spotify.com/artist/1mB5XwYkN9sOhZumCUOCWm) | [I Remember My Name \(Arr\. Langley for Violin & Orchestra\) \[From "Squid Game"\]](https://open.spotify.com/album/2sw7w3SlkCJUy9GOs4Po48) | 4:43 |
 | 65 | [Falling into Place \(Theme\)](https://open.spotify.com/track/6RxVhdcW6IZrfsi7AHMGnQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music for Falling Into Place \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34gwRym4W9MXxOeBcEXVYI) | 1:58 |
 | 66 | [The Poet Acts](https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Hours \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil) | 3:43 |
-| 67 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 |
+| 67 | [Hello Rocks \- \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 |
 | 68 | [Someone Loves Us](https://open.spotify.com/track/0owIthsU5nNNPLK6MjdVOe) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:56 |
 | 69 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 |
 | 70 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 |

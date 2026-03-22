@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217419,
+      "name": "Maulla",
+      "url": "https://open.spotify.com/track/4qgUxeBwAMHVWrk6H9mDms"
+    },
+    {
+      "album": {
         "name": "Menorcito",
         "url": "https://open.spotify.com/album/0Hpvy6wfBd309QEQ5e3jyu"
       },
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 167659,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/2wCAFZrTjjwVyqmFC07TA8"
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 165168,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/4lIGs3YtSyB99WuOh4OLIq"

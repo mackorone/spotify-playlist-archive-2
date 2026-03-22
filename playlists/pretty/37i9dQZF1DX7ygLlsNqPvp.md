@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,234 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,267 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Stop Dey Worry Me](https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Stop Dey Worry Me](https://open.spotify.com/album/369QLSNsmpKNI6x4Hj1RsV) | 2:58 |
 | 50 | [GHRIME RIDDIM II: RHYTHM & GHRIME](https://open.spotify.com/track/3mL9b7kpStwetzxHGLaVQs) | [SAVAGE 4](https://open.spotify.com/artist/5zSR3vg92lLKODwbAaFEbT), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [GHRIME RIDDIM II: RHYTHM & GHRIME](https://open.spotify.com/album/0CcVe9piMflFXQkkqf0Y4m) | 2:05 |
 
-Snapshot ID: `AAAAAAhyPpG8u1dKqkLCDPMYaLbGh0B1`
+Snapshot ID: `AAAAACdkWuRfPAZQvbt9r2tlSfn0APG4`

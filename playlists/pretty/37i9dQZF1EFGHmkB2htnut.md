@@ -120,6 +120,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 110 | [Rollercoaster](https://open.spotify.com/track/0zfSnoHAtnVw4k8OfL0h8P) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rollercoaster](https://open.spotify.com/album/5xlEdoNb8infZZohPde7IB) | 3:12 |
 | 111 | [Hey Seventeen](https://open.spotify.com/track/2kgyTEylub11rjvxOUjdhX) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [The Heavy Kinda Feeling EP](https://open.spotify.com/album/09aNITIqqQVM6WDtLq1UPA) | 2:56 |
 | 112 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
-| 113 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
+| 113 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `AcMqmAAAAAAJcgZvFNHkNVA6Z83b+9xZ`
+Snapshot ID: `AcMwdAAAAAAWYnt1rST4TZoLrc3ee4Zh`

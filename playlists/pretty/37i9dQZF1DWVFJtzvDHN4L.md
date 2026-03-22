@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,180 likes - 88 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,211 likes - 88 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 52 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 |
 | 53 | [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 |
 | 54 | [Romantic Flight \(Arr\. Herbert for Violin & Orchestra\) \- From "How to Train Your Dragon"](https://open.spotify.com/track/10V4GVLJ6u6PaSw5U2BppR) | [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Romantic Flight \(Arr\. Herbert for Violin & Orchestra\) \[From "How to Train Your Dragon"\]](https://open.spotify.com/album/4LHXOm5EkpDU6tUTRGCNLM) | 1:55 |
-| 55 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 |
+| 55 | [Hello Rocks \- \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(From "Hoa" Video Game Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 |
 | 56 | [Time Passing II](https://open.spotify.com/track/3gGbjt2qkM89yfuilc7yKn) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [Black Mirror: Arkangel \(Original Score\)](https://open.spotify.com/album/299OZ1gzB4K4sjfzr6jcCi) | 1:17 |
 | 57 | [Mia & Sebastian's Theme \(From "La La Land"\) \- Instrumental Guitar](https://open.spotify.com/track/5RWXXrttuS0cBMzIB4tInj) | [Beyond The Guitar](https://open.spotify.com/artist/4S5AtlCYMKonu1l2G9ZIFp) | [Mia & Sebastian's Theme \(From "La La Land"\) \[Instrumental Guitar\]](https://open.spotify.com/album/1HIN88emPpvBvYc6QAffzo) | 2:20 |
 | 58 | [Come Back to Us \(From "1917" Soundtrack\)](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 |

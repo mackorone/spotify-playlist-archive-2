@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60716,
+  "num_followers": 60718,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
       },
@@ -231,6 +251,22 @@
       "duration_ms": 189351,
       "name": "Hot & Sexy",
       "url": "https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -279,22 +315,6 @@
       "duration_ms": 164212,
       "name": "04:30",
       "url": "https://open.spotify.com/track/3x1juGfcekjpWbid4jkG3v"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -475,26 +495,6 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
-        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 301674,
-      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
         "name": "Tryna make it in LA (Deluxe)",
         "url": "https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
-        "name": "New Year's Eve",
-        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
-      },
-      "artists": [
-        {
-          "name": "Ida Fiona",
-          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
-        }
-      ],
-      "duration_ms": 171248,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
         "name": "Vi som \u00e4r natten",
         "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 135978,
       "name": "Vi som \u00e4r natten",
       "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "duration_ms": 171248,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
-        "name": "Tro p\u00e5 en \u00e4ngel",
-        "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
-      },
-      "artists": [
-        {
-          "name": "Melwin Wid",
-          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Tro p\u00e5 en \u00e4ngel",
-      "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
         "name": "N\u00e5n annan tar sm\u00e4llen",
         "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 180195,
       "name": "N\u00e5n annan tar sm\u00e4llen",
       "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "om vi f\u00f6rsvann",
+        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 163269,
+      "name": "om vi f\u00f6rsvann",
+      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "Tro p\u00e5 en \u00e4ngel",
+        "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Tro p\u00e5 en \u00e4ngel",
+      "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -839,22 +855,6 @@
       "duration_ms": 127250,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
-        "name": "om vi f\u00f6rsvann",
-        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "om vi f\u00f6rsvann",
-      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
         "name": "Fartblind",
         "url": "https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 160384,
       "name": "Fartblind",
       "url": "https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
         "name": "Faller s\u00e5 l\u00e4tt",
         "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2026-03-19 23:00:57",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-19 23:00:57",
       "album": {
-        "name": "Stockholms Stad",
-        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
-      },
-      "artists": [
-        {
-          "name": "Solo",
-          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
-        }
-      ],
-      "duration_ms": 151220,
-      "name": "Stockholms Stad",
-      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
-    },
-    {
-      "added_at": "2026-03-19 23:00:57",
-      "album": {
         "name": "Byta efternamn",
         "url": "https://open.spotify.com/album/026Mwh5F4wqS9aukok9UiF"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 193026,
       "name": "Byta efternamn",
       "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
+    },
+    {
+      "added_at": "2026-03-19 23:00:57",
+      "album": {
+        "name": "Stockholms Stad",
+        "url": "https://open.spotify.com/album/0v4cbgao9WR32PilaEWexC"
+      },
+      "artists": [
+        {
+          "name": "Solo",
+          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
+        }
+      ],
+      "duration_ms": 151220,
+      "name": "Stockholms Stad",
+      "url": "https://open.spotify.com/track/09neevIioQIMtAqGsbObkg"
     },
     {
       "added_at": "2026-03-19 23:00:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Theodora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,331 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,379 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 50 | [SHOPPING CHAMPAGNE](https://open.spotify.com/track/0aPGKMuWmDPXhRH5mw1daj) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [SHOPPING CHAMPAGNE](https://open.spotify.com/album/1XBVnxM15j93o1WzCICiqE) | 1:41 |
 
-Snapshot ID: `AAAAALDuJ1savILz8xqjswB0qc02MJz4`
+Snapshot ID: `AAAAAFOems4TOhRHmspf/q9EH4bX6IkD`

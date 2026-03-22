@@ -4313,6 +4313,28 @@
     },
     {
       "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW"
+    },
+    {
+      "album": {
         "name": "What Was Ever Real Might Be Fictitious",
         "url": "https://open.spotify.com/album/7eRDi23LKlgQiaGmWguvMi"
       },

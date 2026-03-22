@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Jazeek, Leony, RAYE, RAF Camora & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,205 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,173 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 33 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
 | 34 | [Lost In Time](https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ROSY](https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P) | [Lost In Time](https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz) | 2:27 |
 | 35 | [isok](https://open.spotify.com/track/0wcAReLwvaglm6ZbnfPS5s) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [isok](https://open.spotify.com/album/51RrSy9iaD7Fj7CdZVAnBP) | 2:17 |
-| 36 | [Top Frau](https://open.spotify.com/track/6viFYzxJoRuNdf31FRberK) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [prodby7even](https://open.spotify.com/artist/6ujjyPbfFoMFmCqn1jCZjm) | [Top Frau](https://open.spotify.com/album/65AIMeFp7xMJXZLq00Hqjf) | 2:09 |
+| 36 | [Top Frau](https://open.spotify.com/track/6viFYzxJoRuNdf31FRberK) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [Y7](https://open.spotify.com/artist/1j2COzZXCbRNSIyhXNUUu5) | [Top Frau](https://open.spotify.com/album/65AIMeFp7xMJXZLq00Hqjf) | 2:09 |
 | 37 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
 | 38 | [Self Love](https://open.spotify.com/track/6RLmM7sZsHBU8Xf7AHuFjU) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Self Love](https://open.spotify.com/album/1W7Hsbohdsm7E1sPTS12cd) | 2:07 |
 | 39 | [ONE HIT WONDER](https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [ONE HIT WONDER](https://open.spotify.com/album/0esMTM0ix53P0vQRvsEEK1) | 1:42 |

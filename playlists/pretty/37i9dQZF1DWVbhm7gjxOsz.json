@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 129940,
+  "num_followers": 129991,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "The Agony And The Ecstasy",
-      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 201066,
       "name": "Didn't I (Blow Your Mind This Time)",
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "The Agony And The Ecstasy",
+      "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
-      },
-      "artists": [
-        {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+      },
+      "artists": [
+        {
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 147466,
       "name": "The One Who Really Loves You - Single Version",
       "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Turn off the Lights: Sweet Soul Music",
-        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
       "artists": [
         {
-          "name": "Linda Jones",
-          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 167146,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1339,34 +1339,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
+        "name": "Turn off the Lights: Sweet Soul Music",
+        "url": "https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g"
       },
       "artists": [
         {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+          "name": "Linda Jones",
+          "url": "https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ"
         }
       ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
-      },
-      "artists": [
-        {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
-        }
-      ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+      "duration_ms": 167146,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1383,6 +1367,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+      },
+      "artists": [
+        {
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+        }
+      ],
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Irons In The Fire",
+        "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "duration_ms": 329146,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Pure Intentions",
         "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 176879,
       "name": "Pure Intentions (feat. Gabriella)",
       "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Irons In The Fire",
-        "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
-      },
-      "artists": [
-        {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Your Love Is Gold",
-        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Louie TheSinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
-        }
-      ],
-      "duration_ms": 166842,
-      "name": "Your Love Is Gold",
-      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
         "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 200600,
       "name": "Honey Dove (OG Version)",
       "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie TheSinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "In The Still Of The Nite",
+        "url": "https://open.spotify.com/album/1isEKzUnMZ6UdXKYNznV4e"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "In The Still Of The Nite",
+      "url": "https://open.spotify.com/track/5QEJbqvNNkFWzyF1l8d2Ci"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Wish I Said I Love You",
         "url": "https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 154142,
       "name": "Wish I Said I Love You",
       "url": "https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "In The Still Of The Nite",
-        "url": "https://open.spotify.com/album/1isEKzUnMZ6UdXKYNznV4e"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "In The Still Of The Nite",
-      "url": "https://open.spotify.com/track/5QEJbqvNNkFWzyF1l8d2Ci"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 188671,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Heatwave's Greatest Hits",
+        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Always and Forever - Edit",
+      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Tonight's The Night",
         "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 163160,
       "name": "Tired Of Being Alone",
       "url": "https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Heatwave's Greatest Hits",
-        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Always and Forever - Edit",
-      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
     },
     {
       "added_at": "2025-05-23 07:54:59",

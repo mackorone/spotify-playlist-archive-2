@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Tiffany Hudson & Davide Mutendji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,370 likes - 79 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,570 likes - 79 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,771 likes - 137 songs - 9 hr 1 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,793 likes - 137 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 23 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
 | 24 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
 | 25 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 |
-| 26 | [The Water](https://open.spotify.com/track/7wA1KK75SuO4XfhfNPfbbT) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Victory](https://open.spotify.com/artist/2q4pSSRU96SvVOmLtzdvCf) | [The Water](https://open.spotify.com/album/0f7z0a9cYtbbCA69Oj9iVk) | 3:34 |
+| 26 | [The Water](https://open.spotify.com/track/7wA1KK75SuO4XfhfNPfbbT) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [The Water](https://open.spotify.com/album/0f7z0a9cYtbbCA69Oj9iVk) | 3:34 |
 | 27 | [Oh My Soul](https://open.spotify.com/track/7whei6MbtL7CvpwU0Ig8LC) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Oh My Soul](https://open.spotify.com/album/2flrdF7GTjjLqXrkJhdCG2) | 3:17 |
 | 28 | [Too Good](https://open.spotify.com/track/0q73rWQ84M1CszFeWxCGIv) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Too Good](https://open.spotify.com/album/4CdYApuFfFvZoVoIfY3IWH) | 3:55 |
 | 29 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 |

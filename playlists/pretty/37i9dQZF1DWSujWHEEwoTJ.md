@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 
 > rolitas chilas para chirotear y pegar un bailadón con Javier Rosas, Los Pikadientes de Caborca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,412 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,523 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 69 | [La Cantaleta](https://open.spotify.com/track/0A6VL91K3Ukt8rOTWa6DIj) | [Fabian Gomez](https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3) | [Ojitos Verdes](https://open.spotify.com/album/3KdYzSdkvKwY6sTFd8ob5Z) | 3:05 |
 | 70 | [La Niña Bonita](https://open.spotify.com/track/1i3hexHTCygkR5DutLOyLp) | [Juan Ortega y Su Grupo](https://open.spotify.com/artist/4t76Gt1xCVK9y0tpUMZUVv) | [Variado En Vivo, Vol\. 2](https://open.spotify.com/album/12qoyjBZgLx3kfFB7yntGI) | 1:59 |
 
-Snapshot ID: `AAAAAIHJpBqigWJ6l0GA9D7fSHGF3lsn`
+Snapshot ID: `AAAAADSFdweTPqzhcWGrAtSyuAYDAUNd`

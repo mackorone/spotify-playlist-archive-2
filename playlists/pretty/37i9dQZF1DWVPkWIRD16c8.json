@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 252066,
+  "num_followers": 252168,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Why Do You Love Me?",
-        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 248820,
-      "name": "Why Do You Love Me?",
-      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "These Are The Days (feat. Blessing Offor)",
         "url": "https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "Why Do You Love Me?",
+        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 248820,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
     },
     {
       "added_at": "2025-12-12 22:21:53",

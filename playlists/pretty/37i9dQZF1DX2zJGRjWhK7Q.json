@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 239619,
+  "num_followers": 239710,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
+        }
+      ],
+      "duration_ms": 443480,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 230573,
       "name": "El Raton",
       "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Colon Y Ruben Blades",
-          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
-        }
-      ],
-      "duration_ms": 443480,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
     },
     {
       "added_at": "2024-09-24 20:30:16",

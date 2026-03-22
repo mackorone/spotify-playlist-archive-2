@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 13 | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/track/3vF1Bk53lUz287NAu5RCpS) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heard About Me \(feat\. Nea\)](https://open.spotify.com/album/2HPdZOq2RU7j158mu4jmdy) | 2:14 |
 | 14 | [Suffer](https://open.spotify.com/track/4St0HSmeqbId4bcriS3g0R) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [We Were Young \(The Playlist\)](https://open.spotify.com/album/2uVjQvVAkLfneGroSXvJMW) | 3:29 |
 | 15 | [In the Morning](https://open.spotify.com/track/3Xp9VqusQqyWGLGSGWcBEC) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [In the Morning \(Remixes\)](https://open.spotify.com/album/5oHR3zw7gew31FjEp7iNqc) | 3:15 |
-| 16 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
-| 17 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 |
+| 16 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 |
+| 17 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
 | 18 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 19 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 |
 | 20 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 100 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 101 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcMqtgAAAABmq35MpcHjD/4GFMI7NByw`
+Snapshot ID: `AcMwVgAAAAA4YReZWxd0iAc/xR/GBEHb`

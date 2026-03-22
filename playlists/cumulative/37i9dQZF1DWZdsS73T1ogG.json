@@ -6208,6 +6208,32 @@
     {
       "album": {
         "name": "Bichote",
+        "url": "https://open.spotify.com/album/2LkRTHVDOSbEKHBuRCj8UM"
+      },
+      "artists": [
+        {
+          "name": "JS SERNA",
+          "url": "https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153473,
+      "name": "Bichote",
+      "url": "https://open.spotify.com/track/6NbFOWgjmxHgJi95VQW78p"
+    },
+    {
+      "album": {
+        "name": "Bichote",
         "url": "https://open.spotify.com/album/61ERyp8aKWnQkYEVPOk6fU"
       },
       "artists": [
@@ -8308,7 +8334,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 207984,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
@@ -18678,7 +18704,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 176000,
       "name": "Garett",
       "url": "https://open.spotify.com/track/3euM6EeeOdB4i2Wb6dVUxJ"
@@ -38620,6 +38646,40 @@
       "duration_ms": 138167,
       "name": "PTLM",
       "url": "https://open.spotify.com/track/1QmoQc8Zzu4hzcIBPA1Li6"
+    },
+    {
+      "album": {
+        "name": "PUCHAINA",
+        "url": "https://open.spotify.com/album/0WSVBL4nSknPaDJcVFuDX8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fox",
+          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
+        },
+        {
+          "name": "Acrimonny",
+          "url": "https://open.spotify.com/artist/1VUwvtNZhfi9RwXCx9lgsP"
+        },
+        {
+          "name": "Da Silence",
+          "url": "https://open.spotify.com/artist/4iA8Dt60y18k0dCMpPdFJQ"
+        },
+        {
+          "name": "Dkey_",
+          "url": "https://open.spotify.com/artist/3M1ABMlIcy1v7eXMvqEoCa"
+        },
+        {
+          "name": "Damazta",
+          "url": "https://open.spotify.com/artist/0pTID1oOL03x64wSONmzjl"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "PUCHAINA",
+      "url": "https://open.spotify.com/track/0YuON5Dv7TWnFRXJEVHom4"
     },
     {
       "album": {

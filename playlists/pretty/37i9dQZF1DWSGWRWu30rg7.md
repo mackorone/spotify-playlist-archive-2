@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: NPD
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,422 likes - 25 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,421 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 24 | [Daraku](https://open.spotify.com/track/2gOEyuHKwvMH66tGrKARKw) | [Lilo Lilo](https://open.spotify.com/artist/5J4yLOPnPFVaA39zyawZIo) | [Daraku](https://open.spotify.com/album/1FscwhdCanoSW6tWzJV6W4) | 3:22 |
 | 25 | [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 |
 
-Snapshot ID: `AAAAAKH1lA1Fy7izquivVLxRmVw55lOA`
+Snapshot ID: `AAAAAH4oay5J3bF/sgtN/UzM3Au1hZ9m`

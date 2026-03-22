@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 86636,
+  "num_followers": 86648,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAABzMEq5am+QIH0a/UU5X1Fi",
+  "snapshot_id": "abyOAAAAAABnV4njxjHNQM8RTkEe2/ty",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Struck Dead",
-        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 438552,
-      "name": "Six Walls",
-      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
+      "duration_ms": 218400,
+      "name": "Endless Night",
+      "url": "https://open.spotify.com/track/7yi6fynaCi2lWhjcOfcHz5"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Endless Night",
-      "url": "https://open.spotify.com/track/7yi6fynaCi2lWhjcOfcHz5"
+      "duration_ms": 438552,
+      "name": "Six Walls",
+      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
     },
     {
       "added_at": null,

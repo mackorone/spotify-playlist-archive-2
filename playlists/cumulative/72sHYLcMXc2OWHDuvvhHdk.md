@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,162 songs - 5 day 6 hr 25 min
+2,163 songs - 5 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2055,6 +2055,7 @@
 | [white boy i sat next to on the plane](https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [white boy i sat next to on the plane](https://open.spotify.com/album/4cDP3rmNwvZIKouMI83ZLg) | 3:24 | 2026-03-05 |  |
 | [WHO KNOWS](https://open.spotify.com/track/1GhOHrCQzhp6HOt6erNoTx) | [Nathan Oswalt](https://open.spotify.com/artist/1p3fViLAZhmYFaZu2EPAFO) | [WHO KNOWS](https://open.spotify.com/album/0NtEzNJSUQiFIAgwZEHpue) | 2:50 | 2024-08-20 |  |
 | [Why Do I Care?](https://open.spotify.com/track/2NVFCu4ZnE5yHc9l1B2JOC) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Why Do I Care?](https://open.spotify.com/album/0BxtztDcbdh5OTUVy1vhPq) | 3:19 | 2025-03-21 |  |
+| [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 | 2026-03-21 |  |
 | [Wild](https://open.spotify.com/track/0brPrvr1rKpf00sLTD1pGb) | [Eamon O'Neil](https://open.spotify.com/artist/5OImj4N1ZgR4udZgfOacTM) | [Wild](https://open.spotify.com/album/3QO6taryWDSFDXC3eDyHGb) | 2:37 | 2024-07-16 |  |
 | [Wild Wind](https://open.spotify.com/track/5DNyBR3Yvz7N5MeSpKm1tL) | [Super Greens](https://open.spotify.com/artist/7luWDnBF3PsixWmY7yT1Gn) | [Wild Wind](https://open.spotify.com/album/6bHxt4RuoUNoF4qEFkzDPU) | 3:28 | 2024-05-06 |  |
 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 | 2024-08-05 |  |

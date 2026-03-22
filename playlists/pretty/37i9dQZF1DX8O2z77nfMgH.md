@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Kenia Os
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,376 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,287 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [Magia](https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [Mi Droga](https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv) | 3:15 |
 | 56 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
 | 57 | [FOMO](https://open.spotify.com/track/2QaXq65UM9ocyJGa04yD6T) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [FOMO](https://open.spotify.com/album/09jlTg6ItjNN1vPAY1Kbcp) | 3:27 |
-| 58 | [Chevrolet 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
+| 58 | [CHEVROLET 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
 | 59 | [Se Você Quiser](https://open.spotify.com/track/7toCtaqwaEWkfjKuRiKKEO) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Se Você Quiser](https://open.spotify.com/album/6HHzUt6FDrgACP0Q2L9mdA) | 2:20 |
 | 60 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 | 61 | [De Chamaquito](https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [De Chamaquito](https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6) | 2:50 |

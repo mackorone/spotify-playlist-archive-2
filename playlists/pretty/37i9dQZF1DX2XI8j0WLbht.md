@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,246 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,270 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 78 | [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 |
 | 79 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 |
 
-Snapshot ID: `AAAAAEBj1ca4QexaMGNeqi6mFIgR6ezu`
+Snapshot ID: `AAAAAKnnj9LEZFRzgEEQijLpUdyM81zp`

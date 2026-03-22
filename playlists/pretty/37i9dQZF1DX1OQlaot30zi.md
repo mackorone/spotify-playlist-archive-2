@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di nayt, IvanBi, Marte, Promessa, Aira e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,104 likes - 104 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,106 likes - 104 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

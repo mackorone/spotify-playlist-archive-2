@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Baig
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,067 likes - 92 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,069 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

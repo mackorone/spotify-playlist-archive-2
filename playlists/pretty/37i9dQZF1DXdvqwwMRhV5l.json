@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74353,
+  "num_followers": 74366,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -191,8 +191,8 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -271,8 +271,8 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Ta-Dah",
         "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 288360,
       "name": "I Don't Feel Like Dancin'",
       "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Live It Out",
-        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
-      },
-      "artists": [
-        {
-          "name": "Alain Clark",
-          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Father & Friend",
-      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "The Best of Anastacia",
         "url": "https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 226360,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0m86OeKQHxdpygDPzGQUPK"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Live It Out",
+        "url": "https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Father & Friend",
+      "url": "https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE"
     },
     {
       "added_at": "2024-07-19 06:48:03",

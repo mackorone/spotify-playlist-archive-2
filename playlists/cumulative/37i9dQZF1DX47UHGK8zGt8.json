@@ -858,13 +858,13 @@
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
+          "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 178660,
       "name": "Banho de Chuva",
       "url": "https://open.spotify.com/track/3DYzpfpTpzSo3T82yWDzTu"
@@ -3992,7 +3992,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 278033,
       "name": "N\u00c3O ME CHAME DE AMOR",
       "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"

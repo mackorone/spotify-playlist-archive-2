@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🥊 Tech house operators, featuring Dean Turnley
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,150 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,198 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 3 | [No Lames](https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [No Lames](https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U) | 3:05 |
 | 4 | [Open Up](https://open.spotify.com/track/1ppwrJSjflOuHOnEb3LOT3) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Open Up](https://open.spotify.com/album/4emvnbE9E7wEfypWgO9lhy) | 3:23 |
 | 5 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
-| 6 | [Professor X](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
+| 6 | [Professor X feat\. Rusko](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
 | 7 | [Rich & Handsome](https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH) | [AFTER MIDNIGHT](https://open.spotify.com/artist/3tRlAO3EJRthZAot4WbSe8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [Rich & Handsome](https://open.spotify.com/album/4cFlyUXz6ZcJ5mP29vzpB9) | 2:27 |
 | 8 | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 |
 | 9 | [Rake It Up](https://open.spotify.com/track/6YNRSnDi92sAhYO8XzonVT) | [KENZ](https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L) | [Rake It Up EP](https://open.spotify.com/album/03DPTRqKQG0yrCKmRnfhnT) | 2:42 |

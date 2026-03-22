@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-378 songs - 20 hr 36 min
+379 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [La neige tombe](https://open.spotify.com/track/4LFPXxCJKckapzRBHrfjLa) | [Véronique Labbé](https://open.spotify.com/artist/5n2DEamuK1JpqzZDuGAYVQ) | [Mon Noël country](https://open.spotify.com/album/3XUQrvVGUqdC0xJi5Hmjqt) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 | 2021-12-17 |  |
 | [La parade](https://open.spotify.com/track/15VnTTNsbsVtMP64sUT6ix) | [Maryse Letarte](https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n) | [La parade](https://open.spotify.com/album/5ftndmQQiLF9QXMXW0CT6x) | 4:00 | 2021-12-17 | 2022-07-29 |
+| [La plus belle nuit du monde](https://open.spotify.com/track/1t3qRY9QZ1llGXqGYy4g02) | [Valérie Carpentier](https://open.spotify.com/artist/1FWk4iwXuVHFwTi31UvIVB) | [La plus belle nuit du monde](https://open.spotify.com/album/0Mlk0QjRez0bQ0nKdjgvhh) | 2:58 | 2025-12-12 |  |
 | [La radio me chante Noël](https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ) | [Jack Lavoie Band](https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy), [Anick Gagnon](https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi), [Hervey Hovington](https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD), [Manon Bédard](https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP), [S.V\. Ray](https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo) | [La radio me chante Noël](https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [La valse de Noël](https://open.spotify.com/track/6jztEg8eIJRvLDDwfWvWOc) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Que les fêtes commencent !](https://open.spotify.com/album/5FPBRIRMvJjNOZPDxsCaEU) | 3:50 | 2021-12-17 | 2022-07-27 |
 | [La vierge à la crèche](https://open.spotify.com/track/0VnP58YlXHUlF06WqL7LGm) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Chante Noël avec le choeur de l'Armée Rouge](https://open.spotify.com/album/6b4MmaYVVE2csxOGRLhDCw) | 3:58 | 2021-12-17 | 2022-07-28 |
@@ -331,7 +332,7 @@
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-17 | 2025-12-13 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2021-12-17 | 2025-12-13 |
 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 | 2021-12-17 | 2025-12-13 |
-| [Sauvons Noël](https://open.spotify.com/track/0BgP2tBqIZwFF6fYFbkHSv) | [Calendes](https://open.spotify.com/artist/6UOeOBIvHNAHpxQ0gpFvXg) | [Sauvons Noël](https://open.spotify.com/album/5w3kmwGkQc2u8WDCj9Skwc) | 2:50 | 2025-11-07 |  |
+| [Sauvons Noël](https://open.spotify.com/track/0BgP2tBqIZwFF6fYFbkHSv) | [Calendes](https://open.spotify.com/artist/6UOeOBIvHNAHpxQ0gpFvXg) | [Sauvons Noël](https://open.spotify.com/album/5w3kmwGkQc2u8WDCj9Skwc) | 2:50 | 2025-11-07 | 2026-03-22 |
 | [Silent Night](https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:47 | 2021-12-17 | 2025-10-30 |
 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 | 2021-12-17 |  |
 | [Silver Bells](https://open.spotify.com/track/1hpfpXbvIpMYAdL7vyGSsa) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 1:57 | 2021-12-17 | 2022-12-17 |

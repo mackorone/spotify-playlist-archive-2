@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104748,
+  "num_followers": 104739,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+        "name": "Mutta mill\u00e4 hinnalla",
+        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
       },
       "artists": [
         {
           "name": "Ares",
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
         }
       ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+      "duration_ms": 177804,
+      "name": "Mutta mill\u00e4 hinnalla",
+      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Mutta mill\u00e4 hinnalla",
-        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
           "name": "Ares",
           "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
         }
       ],
-      "duration_ms": 177804,
-      "name": "Mutta mill\u00e4 hinnalla",
-      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
+        "name": "Rallikansa",
+        "url": "https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 190025,
+      "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
+      "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
         "name": "Ajaton (feat. Gettomasa)",
         "url": "https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 187354,
       "name": "Ajaton (feat. Gettomasa)",
       "url": "https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
-        "name": "Rallikansa",
-        "url": "https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 190025,
-      "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
-      "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -719,22 +719,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "20:30 (feat. Karim B)",
-        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
+        "name": "Kuolisin sun kaa (feat. pehmoaino)",
+        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
       },
       "artists": [
         {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+          "name": "Aaro630",
+          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
         },
         {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
         }
       ],
-      "duration_ms": 171280,
-      "name": "20:30 (feat. Karim B)",
-      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
+      "duration_ms": 206999,
+      "name": "Kuolisin sun kaa (feat. pehmoaino)",
+      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Kuolisin sun kaa (feat. pehmoaino)",
-        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
+        "name": "20:30 (feat. Karim B)",
+        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
       },
       "artists": [
         {
-          "name": "Aaro630",
-          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
         },
         {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Kuolisin sun kaa (feat. pehmoaino)",
-      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
+      "duration_ms": 171280,
+      "name": "20:30 (feat. Karim B)",
+      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
     },
     {
       "added_at": "2026-03-19 22:00:25",

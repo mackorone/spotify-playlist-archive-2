@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 272492,
+  "num_followers": 272561,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,30 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "The Sounds of Nature",
-        "url": "https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp"
+        "name": "Attract",
+        "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
       "artists": [
         {
-          "name": "Forest Walks",
-          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        },
+        {
+          "name": "Ruby Chase",
+          "url": "https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq"
+        },
+        {
+          "name": "Bliss Looper",
+          "url": "https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN"
+        },
+        {
+          "name": "OPUS",
+          "url": "https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU"
         }
       ],
-      "duration_ms": 184409,
-      "name": "The Sounds of Nature",
-      "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
+      "duration_ms": 174855,
+      "name": "Integration",
+      "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -111,30 +123,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Attract",
-        "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
+        "name": "The Sounds of Nature",
+        "url": "https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp"
       },
       "artists": [
         {
-          "name": "Equanimous",
-          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
-        },
-        {
-          "name": "Ruby Chase",
-          "url": "https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq"
-        },
-        {
-          "name": "Bliss Looper",
-          "url": "https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN"
-        },
-        {
-          "name": "OPUS",
-          "url": "https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU"
+          "name": "Forest Walks",
+          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
         }
       ],
-      "duration_ms": 174855,
-      "name": "Integration",
-      "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+      "duration_ms": 184409,
+      "name": "The Sounds of Nature",
+      "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -283,22 +283,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Tragic Magic",
-        "url": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm"
+        "name": "Trees etc.",
+        "url": "https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        },
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "naran ratan",
+          "url": "https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj"
         }
       ],
-      "duration_ms": 255795,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/0giFRlECatzUl0T0iBMyhP"
+      "duration_ms": 93000,
+      "name": "Forevertime Journeys",
+      "url": "https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -319,18 +315,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Trees etc.",
-        "url": "https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI"
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm"
       },
       "artists": [
         {
-          "name": "naran ratan",
-          "url": "https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 93000,
-      "name": "Forevertime Journeys",
-      "url": "https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW"
+      "duration_ms": 255795,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/0giFRlECatzUl0T0iBMyhP"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Los Secretos De La Luz",
-        "url": "https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq"
-      },
-      "artists": [
-        {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
-        }
-      ],
-      "duration_ms": 648893,
-      "name": "El Viento Que No Sopla",
-      "url": "https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
         "name": "Finding Calmness",
         "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 241212,
       "name": "Breathing Deeper",
       "url": "https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
+        "name": "Los Secretos De La Luz",
+        "url": "https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 648893,
+      "name": "El Viento Que No Sopla",
+      "url": "https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "Film Still / The Sea",
+        "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Film Still / The Sea",
+      "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 359480,
       "name": "Future Sand",
       "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "Film Still / The Sea",
-        "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Film Still / The Sea",
-      "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "- - -",
+      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Bloom: Living World - Single",
         "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+        "name": "4T Recordings",
+        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
       },
       "artists": [
         {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 315000,
-      "name": "- - -",
-      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
+      "duration_ms": 197249,
+      "name": "4T Recordings",
+      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "4T Recordings",
-        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 197249,
-      "name": "4T Recordings",
-      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
         "name": "Bird Bath",
         "url": "https://open.spotify.com/album/75iqNBTWqvaTRymTb1RuNB"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 253090,
       "name": "Circular Motion of the Nine Muses",
       "url": "https://open.spotify.com/track/6m4urlbrwW3LkPCneYZpDe"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "Wake Me Softly",
-        "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
-      },
-      "artists": [
-        {
-          "name": "Joseph Beg",
-          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
-        }
-      ],
-      "duration_ms": 270870,
-      "name": "Wake Me Softly",
-      "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1051,6 +1035,22 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
+        "name": "Wake Me Softly",
+        "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
+      },
+      "artists": [
+        {
+          "name": "Joseph Beg",
+          "url": "https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px"
+        }
+      ],
+      "duration_ms": 270870,
+      "name": "Wake Me Softly",
+      "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Quiessence, Leaving Lower Big Basin & A Trip Into Town",
         "url": "https://open.spotify.com/album/6nf2vavXHAJlkygEMJSBKX"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1519,22 +1535,6 @@
       "duration_ms": 227357,
       "name": "Make Me Feel Loved",
       "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
+      },
+      "artists": [
+        {
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Northern Spirit",
         "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 246000,
       "name": "Northern Spirit",
       "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     }
   ],
   "unique_name": "Music for Plants",

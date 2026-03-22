@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Nona
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,878 likes - 88 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,854 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

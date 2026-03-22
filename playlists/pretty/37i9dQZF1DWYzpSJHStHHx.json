@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483775,
+  "num_followers": 483782,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
-      },
-      "artists": [
-        {
-          "name": "Famous Friend",
-          "url": "https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L"
-        }
-      ],
-      "duration_ms": 154181,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Pennied Days",
         "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 183030,
       "name": "Ballad of the Texas King",
       "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
+      },
+      "artists": [
+        {
+          "name": "Famous Friend",
+          "url": "https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L"
+        }
+      ],
+      "duration_ms": 154181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sunday Scaries",
-        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "Sunday Scaries",
-      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sunday Scaries",
+        "url": "https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "Sunday Scaries",
+      "url": "https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Dear Grandpa",
         "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2026-01-23 05:00:19",

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-396 songs - 22 hr 13 min
+397 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bags Full Of Money](https://open.spotify.com/track/6s6ycfcQBla88TX9SmTkkD) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [Bags Full Of Money](https://open.spotify.com/album/69DIxggZ7kwksKWQotolnz) | 3:55 | 2025-11-08 | 2025-12-01 |
 | [Banana Trees And Heart Deals](https://open.spotify.com/track/4hgHjUTRvAm4qAKYmkHvUN) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Banana Trees And Heart Deals](https://open.spotify.com/album/68m2WfcBHGBgA4rkWRYwFX) | 3:59 | 2025-11-17 | 2026-01-05 |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
+| [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m) | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ) | 2:22 | 2026-03-21 |  |
 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 | 2025-12-23 | 2026-01-15 |
 | [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 | 2025-12-28 | 2026-01-25 |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |

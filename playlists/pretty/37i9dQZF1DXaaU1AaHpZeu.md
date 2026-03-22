@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español con bri!!o en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,320 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,301 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 11 | [Tierra de nadie \(2/4\)](https://open.spotify.com/track/3lspOcEic2OlaoAIFyCiPF) | [Dav](https://open.spotify.com/artist/5Ypm25EKwroObJIOeAqh79) | [Tierra de nadie \(2/4\)](https://open.spotify.com/album/4GwBNtcVFoIz9pK1SkHxYK) | 2:29 |
 | 12 | [HUYENDO!](https://open.spotify.com/track/4eZQNsMLfbBQKtBOYbWOeY) | [REYPA](https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW) | [HUYENDO!](https://open.spotify.com/album/006JRk4Z7nKRFyV2A9bbUO) | 2:45 |
 | 13 | [Ahora que...](https://open.spotify.com/track/6eEUOPQx0bvgYYcazkEhS5) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Pipiolas](https://open.spotify.com/album/0mqJ9htA1wLWFzEzwXSOgs) | 2:54 |
-| 14 | [Rainforest](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Rainforest](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
+| 14 | [RAINFOREST](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RAINFOREST](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
 | 15 | [No me Sueltes](https://open.spotify.com/track/4GHDwaTDba6xlGey1pCGwo) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [No me Sueltes](https://open.spotify.com/album/2cAAtbPVtNCce1L3RDPHHh) | 2:30 |
 | 16 | [La Vida Mata](https://open.spotify.com/track/2rS5xkeehNUfFAiqBuZAqK) | [ALIS](https://open.spotify.com/artist/3yVOHNWnsCHuaaOCnflSRD), [Rafa Val](https://open.spotify.com/artist/7bEns7IOYnUg5lRDk74F3F) | [La Vida Mata](https://open.spotify.com/album/4yhukn0kXkf0r53OPobK3p) | 3:24 |
 | 17 | [bluespring](https://open.spotify.com/track/6UpTehvYdM7Ii2EtN60jJy) | [Diego Andlovin](https://open.spotify.com/artist/1chJuOnLfskX7vm5iIXZJ7) | [amor.ecstasy.amnesia](https://open.spotify.com/album/2zFu9DQMzkWqZvgz68KAGr) | 4:21 |

@@ -50,7 +50,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 170102,
       "name": "3 Way",
       "url": "https://open.spotify.com/track/0kYSdDXFL8ONB8p4XXnkgP"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "doo doo diaper",
+        "url": "https://open.spotify.com/album/4K75XSzY1kmbvfYNwCm9sG"
+      },
+      "artists": [
+        {
+          "name": "newway",
+          "url": "https://open.spotify.com/artist/2XeGO0og3X3kPUhfRT2htO"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195069,
+      "name": "doo doo diaper",
+      "url": "https://open.spotify.com/track/3YGe6473ByCXP4QZcTorzZ"
+    },
+    {
+      "album": {
         "name": "heartpacing",
         "url": "https://open.spotify.com/album/34bayAIMD6AuIEk98t9x2Z"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 195433,
       "name": "Fuck Good Business - Remix",
       "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 110545,
       "name": "Spectacular 2",
       "url": "https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf"

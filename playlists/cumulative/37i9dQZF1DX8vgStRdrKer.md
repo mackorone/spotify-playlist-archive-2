@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-748 songs - 2 day 15 hr 50 min
+749 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Let The People Sing \- Live](https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 3:59 | 2023-09-15 | 2024-02-09 |
 | [Let Us Go](https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw) | [Nomakhuze Ndabula](https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ), [Flowzbevtz](https://open.spotify.com/artist/1xdjeiB1Muh9RWJA8EvMXO), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Let Us Go](https://open.spotify.com/album/5PhmeA8VO2FCQP0e5THHo0) | 1:30 | 2024-02-09 | 2024-05-24 |
 | [Let Your Fire Fall](https://open.spotify.com/track/0JsLo39R8tVtTr4ZhGB1Jr) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Let Your Fire Fall](https://open.spotify.com/album/5Ypr1NVLf9CcH8VOJKG76I) | 5:51 | 2025-11-14 | 2026-03-21 |
+| [Levite's Creed](https://open.spotify.com/track/6fJ4kzxS1IkJiTymMNyGRC) | [Asher Ruona](https://open.spotify.com/artist/1BoUFYw1TmMEDrqpNuH3G6) | [Levite's Creed](https://open.spotify.com/album/6zR47IMQ7GVOJMcezJVj7b) | 12:10 | 2026-03-13 |  |
 | [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 | 2025-03-14 | 2025-05-09 |
 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 | 2025-05-09 | 2025-05-30 |
 | [Lifter Of Men \- Higher](https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Lifter Of Men \(Higher\)](https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH) | 7:23 | 2026-02-27 |  |
@@ -572,7 +573,7 @@
 | [Re Baeti / Pa Lweendo](https://open.spotify.com/track/63wEcQuc6bYUD4oTqxpcDs) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU), [Malcolm VX](https://open.spotify.com/artist/0ZUd7XhP6ZLBMiBEsU32jE) | [Re Baeti / Pa Lweendo](https://open.spotify.com/album/6S3pedZdhbF7ETfnJZju9O) | 3:34 | 2025-06-06 | 2025-07-11 |
 | [Ready](https://open.spotify.com/track/5xTDvjETI0M1xpqTtNqffo) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Ready](https://open.spotify.com/album/2cbzL66lCOQqfizLgD9plV) | 2:11 | 2025-05-16 | 2025-06-27 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-09-15 | 2024-03-16 |
-| [Revival Is Calling](https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW) | [Macwealth & The Seraphs](https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Revival Is Calling](https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK) | 8:58 | 2026-01-30 |  |
+| [Revival Is Calling](https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW) | [Macwealth & The Seraphs](https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Revival Is Calling](https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK) | 8:58 | 2026-01-30 | 2026-03-22 |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2024-07-23 |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-09-22 |
 | [Rise Up \(Lazarus\)](https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Rise Up \(Lazarus\)](https://open.spotify.com/album/03vhlBbQj9TOuyVVSv0D3J) | 2:45 | 2024-06-14 | 2024-07-12 |

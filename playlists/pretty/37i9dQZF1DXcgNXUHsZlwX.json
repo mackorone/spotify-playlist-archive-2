@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143290,
+  "num_followers": 143312,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Peter Peter",
           "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        },
+        {
+          "name": "Heated Rivalry",
+          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
         }
       ],
       "duration_ms": 240491,
@@ -451,22 +455,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "The Wandering",
-        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
+        "name": "Demain \u00e7a ira",
+        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
         },
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
         }
       ],
-      "duration_ms": 200466,
-      "name": "The Wandering",
-      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
+      "duration_ms": 163374,
+      "name": "Demain \u00e7a ira",
+      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -491,22 +495,38 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Demain \u00e7a ira",
-        "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
+        "name": "The Wandering",
+        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
       "artists": [
         {
-          "name": "Mah\u00e9ja",
-          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         },
         {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 163374,
-      "name": "Demain \u00e7a ira",
-      "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
+      "duration_ms": 200466,
+      "name": "The Wandering",
+      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -527,22 +547,6 @@
       "duration_ms": 174023,
       "name": "SHouLd I sMiLe?",
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Moi je t'aime",
-        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 177556,
-      "name": "Moi je t'aime",
-      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -691,18 +695,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Those Years When Everything Changed",
-        "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
       },
       "artists": [
         {
-          "name": "D R M S",
-          "url": "https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH"
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
         }
       ],
-      "duration_ms": 190373,
-      "name": "Those Years When Everything Changed",
-      "url": "https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI"
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -723,18 +727,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Dog (everybody learns)",
-        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+        "name": "Those Years When Everything Changed",
+        "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
       },
       "artists": [
         {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+          "name": "D R M S",
+          "url": "https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH"
         }
       ],
-      "duration_ms": 193212,
-      "name": "Dog (everybody learns)",
-      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
+      "duration_ms": 190373,
+      "name": "Those Years When Everything Changed",
+      "url": "https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1055,22 +1059,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj"
-      },
-      "artists": [
-        {
-          "name": "Libby Ember",
-          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/3DJJXRfe9dsPI0kKOV1wTm"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "\u00c0 toi",
         "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
@@ -1083,6 +1071,22 @@
       "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj"
+      },
+      "artists": [
+        {
+          "name": "Libby Ember",
+          "url": "https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3DJJXRfe9dsPI0kKOV1wTm"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1155,22 +1159,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1183,6 +1171,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1359,18 +1363,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1391,18 +1395,18 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1487,22 +1491,6 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
-      },
-      "artists": [
-        {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
-        }
-      ],
-      "duration_ms": 288346,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
         "name": "Islands in the Stream",
         "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
       },
@@ -1519,22 +1507,34 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Vendredi",
-        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
       },
       "artists": [
         {
-          "name": "Gabriel Desjardins",
-          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
         }
       ],
-      "duration_ms": 186546,
-      "name": "Vendredi",
-      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
+      "duration_ms": 288346,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
+      },
+      "artists": [
+        {
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+        }
+      ],
+      "duration_ms": 207318,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
+        "name": "Vendredi",
+        "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
       },
       "artists": [
         {
-          "name": "Cath Darbouze",
-          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+          "name": "Gabriel Desjardins",
+          "url": "https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
         }
       ],
-      "duration_ms": 207318,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
+      "duration_ms": 186546,
+      "name": "Vendredi",
+      "url": "https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -1635,6 +1639,22 @@
     {
       "added_at": "2026-03-20 04:01:39",
       "album": {
+        "name": "La saison est finie",
+        "url": "https://open.spotify.com/album/5QtzabOnL8EGEwM6FiFMkB"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "La saison est finie",
+      "url": "https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
         "name": "Tu ne seras jamais l\u00e0",
         "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
@@ -1651,22 +1671,6 @@
       "duration_ms": 187800,
       "name": "Tu ne seras jamais l\u00e0",
       "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "mauvais sort",
-        "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
-      },
-      "artists": [
-        {
-          "name": "Xavier Euphory",
-          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
-        }
-      ],
-      "duration_ms": 291034,
-      "name": "mauvais sort",
-      "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
     },
     {
       "added_at": "2026-03-20 04:01:39",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 16 hr 21 min
+220 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 | 2022-09-08 |  |
 | [Congo Square](https://open.spotify.com/track/6VyjJ9aklXIyIdYuNr9vMc) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Laika](https://open.spotify.com/artist/1x7QlgJUVrLv1SSyeknnJq) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:47 | 2022-09-08 |  |
 | [Day Dream](https://open.spotify.com/track/30UOF78PgVxrIY9VWubzzz) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [The Bright Mississippi](https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy) | 5:25 | 2022-09-08 | 2022-10-03 |
-| [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 | 2026-03-21 |
+| [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-09-08 |  |
 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 | 2022-10-02 |  |
 | [Dirge \- Live At Carnegie Hall, New York, NY / January 23, 1943](https://open.spotify.com/track/2KOwaaAxQdgDhVCvr1TMfh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke Ellington Carnegie Hall Concerts, January 1943](https://open.spotify.com/album/6i29InGHUJYbANFbrjYqMd) | 3:28 | 2022-09-08 |  |
 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 | 2022-09-08 |  |
@@ -108,7 +108,8 @@
 | [Lady Mac](https://open.spotify.com/track/0CZQwA5TNP1gYbyRq8v0jz) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 3:50 | 2025-09-10 |  |
 | [Lady Mac](https://open.spotify.com/track/3cMyp5HCJM5LOBLbCloR8O) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:35 | 2022-09-08 | 2023-05-15 |
 | [Lament for Javanette](https://open.spotify.com/track/1yKDOMEjp4mvH9rweDJWa4) | [Barney Bigard & Orchestra](https://open.spotify.com/artist/0islDqDRDNrcRJVlI9IgaZ), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Ellington Units](https://open.spotify.com/album/7e30t2p2PEwyMLPDkvDni4) | 2:51 | 2022-09-08 |  |
-| [Lana Turner](https://open.spotify.com/track/4VOBC9a8H7rhVXCMAegUsw) | [Terell Strafford](https://open.spotify.com/artist/0GfrwM4XQ3jhOWSG379zt7) | [This Side of Strayhorn](https://open.spotify.com/album/6k0IW93cG7Qq7FBqOFEQU8) | 8:20 | 2022-09-08 |  |
+| [Lana Turner](https://open.spotify.com/track/1F2x6EH8hD4J3FjZzrNrel) | [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [This Side of Strayhorn](https://open.spotify.com/album/13t9qAxY0gu45aye1lgXgE) | 8:20 | 2026-03-21 |  |
+| [Lana Turner](https://open.spotify.com/track/4VOBC9a8H7rhVXCMAegUsw) | [Terell Strafford](https://open.spotify.com/artist/0GfrwM4XQ3jhOWSG379zt7) | [This Side of Strayhorn](https://open.spotify.com/album/6k0IW93cG7Qq7FBqOFEQU8) | 8:20 | 2022-09-08 | 2026-03-22 |
 | [Le Sacre Supreme](https://open.spotify.com/track/1FTLzpRiRE8IEet0DSxXMt) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 5:21 | 2022-09-08 |  |
 | [Lotus Blossom](https://open.spotify.com/track/1n6WfVhvWfj6zhehLJh82q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Billy and Friends](https://open.spotify.com/album/6KYDeR2jJDrmJW544RXEV2) | 3:06 | 2022-09-08 |  |
 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 | 2024-02-17 |  |

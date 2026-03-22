@@ -1,6 +1,6 @@
 {
   "description": "Start you day with God and let these songs set you up to have a GOoD morning! ",
-  "num_followers": 121688,
+  "num_followers": 121714,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-12-12 22:14:59",
       "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
+    },
+    {
+      "added_at": "2025-12-12 22:14:59",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 171923,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn"
-    },
-    {
-      "added_at": "2025-12-12 22:14:59",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
     },
     {
       "added_at": "2025-12-12 22:14:59",

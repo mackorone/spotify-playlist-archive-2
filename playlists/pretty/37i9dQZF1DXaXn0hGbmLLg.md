@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Celebrating 5 Years of EQUAL Benelux with the Top 10 most streamed Benelux women\. Cover: Sevdaliza
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,010 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,014 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

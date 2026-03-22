@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIsNPdDvHPHMxjFRdmlnE5yPSEpuRw",
+  "snapshot_id": "AAAIsojpLsrj62sD5wi8D1Y8XjmG6Owj",
   "tracks": [
     {
       "added_at": "2026-03-18 17:33:09",
@@ -35291,6 +35291,38 @@
       "duration_ms": 198919,
       "name": "Coffee in London",
       "url": "https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f"
+    },
+    {
+      "added_at": "2026-03-21 10:06:34",
+      "album": {
+        "name": "Trattore elettrico",
+        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 219605,
+      "name": "Trattore elettrico",
+      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
+    },
+    {
+      "added_at": "2026-03-21 18:47:42",
+      "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/7MCrmOgAHpZ8pAm9f33dJO"
+      },
+      "artists": [
+        {
+          "name": "Demy DeLee",
+          "url": "https://open.spotify.com/artist/0Wp2MufD7Cprl4Xf2JQMIz"
+        }
+      ],
+      "duration_ms": 165772,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/2j2KYoqL7VYecE4sMngorf"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

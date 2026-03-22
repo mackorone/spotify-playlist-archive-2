@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 188539,
+  "num_followers": 188578,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "The Thomas Crown Affair",
+        "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "The Windmills of Your Mind (Theme from the Thomas Crown Affair ) - with Vocals by Noel Harrison",
+      "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "The Thomas Crown Affair",
-        "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "The Windmills of Your Mind (Theme from the Thomas Crown Affair ) - with Vocals by Noel Harrison",
-      "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
     },
     {
       "added_at": "2025-12-11 09:06:36",

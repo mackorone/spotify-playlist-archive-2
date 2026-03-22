@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,112 likes - 48 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,216 likes - 48 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 47 | [Roll Me Up and Smoke Me When I Die \- Live](https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Micah Nelson](https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Willie Nelson American Outlaw \(Live\)](https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp) | 2:14 |
 | 48 | [Joy](https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Blessings and Miracles](https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7) | 3:46 |
 
-Snapshot ID: `abs8gAAAAAAM0GwOZsgtXoSV/z/bwHmW`
+Snapshot ID: `abyOAAAAAADw6Foc/J4TfN5gzmqgvYU2`

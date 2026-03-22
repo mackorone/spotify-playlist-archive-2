@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,949 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,055 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 64 | [Seelenf\*cker](https://open.spotify.com/track/7fx06lQhSj6VPZyOzNPMs9) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Seelenf\*cker](https://open.spotify.com/album/6N4rnVWRSscD9bWCExrbWv) | 2:42 |
 | 65 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 |
 | 66 | [Get Ur Freak On](https://open.spotify.com/track/3ehFMmXnxE1O5Gxi3yycAw) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [NIVEK](https://open.spotify.com/artist/4LW7ATTlh6btuM3AvT1Ejp) | [Get Ur Freak On](https://open.spotify.com/album/6vJ7RuoCtdo47KWTTVMEAB) | 2:03 |
-| 67 | [4 Da Ravers](https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [4 Da Ravers](https://open.spotify.com/album/7rFjECStShUcE157PCp9z8) | 2:33 |
-| 68 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 |
+| 67 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 |
+| 68 | [4 Da Ravers](https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [4 Da Ravers](https://open.spotify.com/album/7rFjECStShUcE157PCp9z8) | 2:33 |
 | 69 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
 | 70 | [Winter \(The Four Seasons\) \- Techno Mix](https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Winter \(The Four Seasons\) \[Techno Mix\]](https://open.spotify.com/album/2yEIqIvFwLaz1WIthNjff3) | 1:55 |
 | 71 | [Country Roads](https://open.spotify.com/track/5zCEzQtMVqQPnjua0Orfyc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II) | [Country Roads](https://open.spotify.com/album/3qP68dpdi9QrNjYKNTsBP3) | 3:10 |

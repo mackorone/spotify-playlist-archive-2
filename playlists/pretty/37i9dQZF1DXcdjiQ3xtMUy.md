@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Tamta
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,717 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,713 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Pros To Paron](https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Pros To Paron](https://open.spotify.com/album/15IOPCi4iTsg9G6lenc11f) | 3:16 |
 | 50 | [Alleluia](https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Alleluia](https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5) | 3:48 |
 
-Snapshot ID: `AAAAAJZ6O36JJG7hQwaLeVSeXmb1hr/V`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

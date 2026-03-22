@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,330 likes - 102 songs - 5 hr 36 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,328 likes - 102 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 27 | [in the sea](https://open.spotify.com/track/6hShfxTdYcC7YQ3AhfRedv) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 1:06 |
 | 28 | [Butterfly Effect](https://open.spotify.com/track/0hBePBf2fdBee6w85kwYvU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:28 |
 | 29 | [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 |
-| 30 | [What's a Hero?](https://open.spotify.com/track/0OlTgTygaVsKOFBejBAvOg) | [DARUMA Rollin'](https://open.spotify.com/artist/4BnkxM1IExlpFvejiM0wKU) | [What's a Hero? \(from "Rooster Fighter" Original Series Soundtrack\)](https://open.spotify.com/album/6Q6ywXhdgAtSyPVgiXQWgt) | 1:29 |
+| 30 | [What's a Hero?](https://open.spotify.com/track/0OlTgTygaVsKOFBejBAvOg) | [DARUMA Rollin'](https://open.spotify.com/artist/4BnkxM1IExlpFvejiM0wKU), [Rooster Fighter Anime](https://open.spotify.com/artist/2wVN226Uk7ub1Q9P9h3BSf) | [What's a Hero? \(from "Rooster Fighter" Original Series Soundtrack\)](https://open.spotify.com/album/6Q6ywXhdgAtSyPVgiXQWgt) | 1:29 |
 | 31 | [Remnants \(Hikaru and Yoshiki\)](https://open.spotify.com/track/5wdRZziNxqj8fiAVgr8Tt1) | [Hikaru \(CV: Shuichiro Umeda\)](https://open.spotify.com/artist/5ofqeJFLJo3y7eVWJp0jfp), [Yoshiki Tsujinaka \(CV: Chiaki Kobayashi\)](https://open.spotify.com/artist/1ak1Lixbqh8xEqkp3PsSmQ) | [The Summer Hikaru Died \(Original Series Soundtrack\)](https://open.spotify.com/album/43L5XfWix9oq9PEKnaHZQV) | 1:30 |
 | 32 | [Balsam \-Succession\-](https://open.spotify.com/track/4ErQl70hwgLf9ufXYPaEdn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/5zpe8965MLof2cJ5ftkQpY) | 2:47 |
 | 33 | [Momentum In My Veins \(feat\. Lotus Juice\)](https://open.spotify.com/track/0MZQyncNsp7m4AWXxidLPG) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [Gachiakuta \(Original Series Soundtrack EP\)](https://open.spotify.com/album/3LNi04s4bX39q84ZJpJS40) | 3:08 |

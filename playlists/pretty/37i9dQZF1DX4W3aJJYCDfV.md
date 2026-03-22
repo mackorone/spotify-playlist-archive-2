@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from BTS, RAYE, Niall Horan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,078 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,070 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 91 | [Witching Hour](https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Butterfly](https://open.spotify.com/album/3BB0xOQPvpn5Amjh3TFBfI) | 3:47 |
 | 92 | [Love Story](https://open.spotify.com/track/3FAgUjS7OqRoXl4WjowcKS) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Love Story](https://open.spotify.com/album/7gfAIiklAXOtyfSAAnRz0C) | 3:46 |
 | 93 | [Simple Solution](https://open.spotify.com/track/69sfdnccdv6qGt8lguf0En) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Us Forever](https://open.spotify.com/album/2eLMyVmP9ywXfYMT1PA645) | 3:32 |
-| 94 | [Professor X](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
+| 94 | [Professor X feat\. Rusko](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
 | 95 | [let it all go](https://open.spotify.com/track/1HXecVoLL9EDIwDqU2ZGdX) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [let it all go](https://open.spotify.com/album/01MmCwNOP0HOHRZZeyzjp7) | 3:22 |
 | 96 | [Distance](https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Distance](https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa) | 3:14 |
 | 97 | [SFX](https://open.spotify.com/track/3IK5I4w8ca9RPZxozSC0xq) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [SFX](https://open.spotify.com/album/2RK8T9yUZVLXOcrSxlpxp2) | 2:50 |

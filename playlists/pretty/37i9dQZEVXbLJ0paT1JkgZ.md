@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,547 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,552 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [No Va a Chocar](https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk) | [Norambuena](https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP), [RealViviendo](https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH) | [No Va a Chocar](https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV) | 3:06 |
 | 50 | [Tiene](https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Tiene](https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt) | 3:45 |
 
-Snapshot ID: `MVCuwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVICmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

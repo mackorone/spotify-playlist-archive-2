@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 55437,
+  "num_followers": 55446,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAAC1a3PaDihq0mjd4QWBHcfv",
+  "snapshot_id": "abyOAAAAAACeRwrRPnCkOvyRn6k6BHzI",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
-        "url": "https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 224001,
-      "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
-      "url": "https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv"
+      "duration_ms": 242088,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI"
     },
     {
       "added_at": null,
@@ -203,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc"
+        "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
+        "url": "https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 242088,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI"
+      "duration_ms": 224001,
+      "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
+      "url": "https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 282426,
-      "name": "Comforter",
-      "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In His Presence",
         "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 329573,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 282426,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
     },
     {
       "added_at": null,

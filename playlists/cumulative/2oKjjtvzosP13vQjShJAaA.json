@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 164324,
       "name": "111 Bpm auf'm Tacho",
       "url": "https://open.spotify.com/track/5Gq5apRYRp6u84ARgrN3NF"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 170232,
       "name": "4:16 Am",
       "url": "https://open.spotify.com/track/78JJFF5Ef4nBqCP82VumG8"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 129073,
       "name": "AZADI",
       "url": "https://open.spotify.com/track/3bTCC25oTMrVLKkHA6GOTi"
@@ -358,6 +358,28 @@
       "duration_ms": 156491,
       "name": "Bauchnabel",
       "url": "https://open.spotify.com/track/1OJmySRtkYu44yNzoPAlqn"
+    },
+    {
+      "album": {
+        "name": "BELLEN",
+        "url": "https://open.spotify.com/album/1FOUU77YERlrtWQk4l8a83"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "BELLEN",
+      "url": "https://open.spotify.com/track/1y8EnkgMY5GFMTEIFljA3o"
     },
     {
       "album": {
@@ -956,7 +978,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 119000,
       "name": "Die falsche Torte",
       "url": "https://open.spotify.com/track/6wyQLXXgDRrwuBnfr9Qura"
@@ -1203,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Eines heiteren Tages",
+        "url": "https://open.spotify.com/album/5CMUtvcRbmKU8ptkZxaq9l"
+      },
+      "artists": [
+        {
+          "name": "helmuth",
+          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
+        },
+        {
+          "name": "Mc Smook",
+          "url": "https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134530,
+      "name": "Feudale F*cker",
+      "url": "https://open.spotify.com/track/5HJ884IedA966ZhXg0pAhr"
+    },
+    {
+      "album": {
         "name": "Flo Jackson",
         "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
       },
@@ -1326,6 +1370,24 @@
       "duration_ms": 151578,
       "name": "Freak Off",
       "url": "https://open.spotify.com/track/58gXJgldhgKtde9EHVR75c"
+    },
+    {
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142099,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/7s6gjcNUISsVwoqUeIl9na"
     },
     {
       "album": {
@@ -1596,7 +1658,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
@@ -2495,6 +2557,28 @@
     },
     {
       "album": {
+        "name": "Nasenbluten",
+        "url": "https://open.spotify.com/album/0u7qdXAmYsHQCOnbB5lKxw"
+      },
+      "artists": [
+        {
+          "name": "MP FRESHLY",
+          "url": "https://open.spotify.com/artist/2bdEzd2yRdFpuoShrO9gri"
+        },
+        {
+          "name": "Skew",
+          "url": "https://open.spotify.com/artist/3TcUCxQHc1tB5yCqvFD05Z"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117966,
+      "name": "Knuck If U Buck",
+      "url": "https://open.spotify.com/track/7Lwc3TcDHHeGxRfhs7ZCaw"
+    },
+    {
+      "album": {
         "name": "Komm ran",
         "url": "https://open.spotify.com/album/1DeLK1lyYaFcWIuNjrpvX5"
       },
@@ -2514,6 +2598,24 @@
       "duration_ms": 165046,
       "name": "Komm ran",
       "url": "https://open.spotify.com/track/75vdhGgVHberwmD4WO5qwc"
+    },
+    {
+      "album": {
+        "name": "Kr\u00e4hen reden nicht",
+        "url": "https://open.spotify.com/album/2p8nhWPnHq95ZgkVZsAOsj"
+      },
+      "artists": [
+        {
+          "name": "vasil",
+          "url": "https://open.spotify.com/artist/6XpzGS0D8uUiXGmQAfYgTv"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "Kr\u00e4hen reden nicht",
+      "url": "https://open.spotify.com/track/21hU8ZsFc1OBrDUrEIN3at"
     },
     {
       "album": {
@@ -2610,6 +2712,28 @@
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
+    },
+    {
+      "album": {
+        "name": "Let King Tonka Talk",
+        "url": "https://open.spotify.com/album/4ZUrfmFr1nwn0IPu2bkDav"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "King Kylie",
+          "url": "https://open.spotify.com/artist/16PVIKGOsSoCCAIBANjgil"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Let King Tonka Talk",
+      "url": "https://open.spotify.com/track/0r1YhuTLqxybeKSQjIP0Gs"
     },
     {
       "album": {
@@ -2935,6 +3059,32 @@
     },
     {
       "album": {
+        "name": "Minks In Miami",
+        "url": "https://open.spotify.com/album/5vVAfd7JRgOooDtlspNLlQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170806,
+      "name": "Minks In Miami",
+      "url": "https://open.spotify.com/track/1UC82aenDIiSaCEXp5jNpS"
+    },
+    {
+      "album": {
         "name": "Miss Irresponsible",
         "url": "https://open.spotify.com/album/3cYSoTW5N0mBD3l2WtsWX6"
       },
@@ -2990,7 +3140,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 237421,
       "name": "MUTT THAT BIH [Feat. 1900Rugrat & Key Nyata]",
       "url": "https://open.spotify.com/track/3iFNq8TcrmWdElJ7IkqHRF"
@@ -3078,7 +3228,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 125153,
       "name": "Nicht alle M\u00e4nner",
       "url": "https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0"
@@ -3100,7 +3250,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 187291,
       "name": "Nichts als die Wahrheit",
       "url": "https://open.spotify.com/track/1FcCD8wtkO32dwJD3dzRmE"
@@ -3355,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135766,
+      "name": "oooshxt!",
+      "url": "https://open.spotify.com/track/4BbNbIpxxKWYd2Lq39Gkhv"
+    },
+    {
+      "album": {
         "name": "Ozean im Cup",
         "url": "https://open.spotify.com/album/32u9puiTAyO9O9KEReH5Po"
       },
@@ -3418,6 +3586,24 @@
       "duration_ms": 121379,
       "name": "Pathos",
       "url": "https://open.spotify.com/track/0bLmcb1paswwGWNmAMwn7Q"
+    },
+    {
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/5vPnPiN1nGIHIDfdzFZuyK"
+      },
+      "artists": [
+        {
+          "name": "redd.",
+          "url": "https://open.spotify.com/artist/5t9W4dnZEMslPiOAS4OHfe"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/2YwYTyZlEZB04s6EoSHmxU"
     },
     {
       "album": {
@@ -3641,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "RAP",
+        "url": "https://open.spotify.com/album/1i0bWWLgr1pwSIzEptjEZI"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/4iuVHHilpGeiDFStdbAWcz"
+    },
+    {
+      "album": {
         "name": "Blockhaa\u00dfmocha Fm 4",
         "url": "https://open.spotify.com/album/00bVinyjZTPohx3HQAfxC0"
       },
@@ -3748,6 +3952,32 @@
       "duration_ms": 210734,
       "name": "Run It Back!!",
       "url": "https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ"
+    },
+    {
+      "album": {
+        "name": "Runclub",
+        "url": "https://open.spotify.com/album/2EEbYCNUZasxu9CvzpkdHE"
+      },
+      "artists": [
+        {
+          "name": "Lugatti",
+          "url": "https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg"
+        },
+        {
+          "name": "Traya",
+          "url": "https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M"
+        },
+        {
+          "name": "Lugatti & 9ine",
+          "url": "https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Runclub",
+      "url": "https://open.spotify.com/track/0QeaFXa7EKcBBdAk7H4JY6"
     },
     {
       "album": {
@@ -3890,7 +4120,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 135665,
       "name": "Sie werden fallen",
       "url": "https://open.spotify.com/track/6Rl5cXD3XZY6vhvt5MGIMC"
@@ -4242,7 +4472,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 146939,
       "name": "Teenager Forever",
       "url": "https://open.spotify.com/track/6SO0cyFWyNNMvwjUcNRvRQ"
@@ -4286,7 +4516,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 198260,
       "name": "Thats the Way",
       "url": "https://open.spotify.com/track/721Kjyh2LklBdMTpt4KH35"
@@ -4680,6 +4910,28 @@
       "duration_ms": 158920,
       "name": "Wo die W\u00f6lfe wohnen",
       "url": "https://open.spotify.com/track/4aiV0i0VFsfAPlL6ohkRl3"
+    },
+    {
+      "album": {
+        "name": "Eines heiteren Tages",
+        "url": "https://open.spotify.com/album/5CMUtvcRbmKU8ptkZxaq9l"
+      },
+      "artists": [
+        {
+          "name": "helmuth",
+          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
+        },
+        {
+          "name": "Mc Smook",
+          "url": "https://open.spotify.com/artist/6wsjNADP7oFba0tf4UywrP"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158687,
+      "name": "Wolfgang M. Schmitt Freestyle",
+      "url": "https://open.spotify.com/track/1io30cRpXUVbEF61Np5ZLr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 563 likes - 2,425 songs - 5 day 21 hr 38 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 563 likes - 2,427 songs - 5 day 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2433,5 +2433,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2423 | [Under Open Skies](https://open.spotify.com/track/7HtqFv70pXHBHHM1FiBRaf) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Under Open Skies](https://open.spotify.com/album/1iu755YDhynfuTx06PfA42) | 4:59 |
 | 2424 | [King of Yellowstone](https://open.spotify.com/track/5Hlqy8lUzlXpojFAxtMerm) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [King of Yellowstone](https://open.spotify.com/album/1CMfOlSI8zkWjg8imV3zYA) | 3:54 |
 | 2425 | [Tidebirds](https://open.spotify.com/track/0ZtLNjmb5YhUEHwhPdpyAc) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Songs from Tidebury](https://open.spotify.com/album/1UvyWZvCCP1konkCAV6mx0) | 3:15 |
+| 2426 | [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 |
+| 2427 | [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 |
 
-Snapshot ID: `AAAKEAHXkpwp/hnA1nngpJY+ORv8rW8I`
+Snapshot ID: `AAAKEi4im34ik8x7iOyTmW6hW64wnsCc`

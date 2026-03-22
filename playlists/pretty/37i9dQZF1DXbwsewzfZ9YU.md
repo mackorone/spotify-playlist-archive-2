@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Gouge Away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,127 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,155 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Intro / Survival](https://open.spotify.com/track/1W4bTPQdnNpvaykn5SWr3W) | [Zero Chill](https://open.spotify.com/artist/513KP9sp59G7UGL6uZkFhF) | [Rat Trap](https://open.spotify.com/album/3PELdxraf5jAskFmaZRkkZ) | 2:08 |
 | 100 | [The Fruit From Poison Trees](https://open.spotify.com/track/5jRsNpQ6hAw2zrxOSURtqG) | [Hour of Reprisal](https://open.spotify.com/artist/5cSkzPdS3qaFgejiduxQMF) | [Endless War, Endless Peace](https://open.spotify.com/album/1y3D5pcZZDLHUONK5EujjM) | 4:00 |
 
-Snapshot ID: `AAAAAPc/xFQeqbCt95jRnsmGSNW9JtmU`
+Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`

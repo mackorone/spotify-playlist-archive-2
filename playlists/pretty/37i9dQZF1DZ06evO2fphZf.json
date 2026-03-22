@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12563,
+  "num_followers": 12562,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAABjMZc1BPPrHgJ1rFlRbFUo",
+  "snapshot_id": "abyOAAAAAAB8rDLKhZ0Dma0sSfA56yWF",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 163027,
-      "name": "fairy godmother",
-      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
+      "duration_ms": 191020,
+      "name": "crash & burn",
+      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 191020,
-      "name": "crash & burn",
-      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Jentry Chau vs the Underworld",
+          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
+        }
+      ],
+      "duration_ms": 192396,
+      "name": "Sweetest Nothings",
+      "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 204000,
       "name": "distance between us",
       "url": "https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Jentry Chau vs the Underworld",
-          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
-        }
-      ],
-      "duration_ms": 192396,
-      "name": "Sweetest Nothings",
-      "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
     },
     {
       "added_at": null,

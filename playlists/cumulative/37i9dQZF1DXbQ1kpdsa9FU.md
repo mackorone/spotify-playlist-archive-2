@@ -2,7 +2,7 @@
 
 ### [Christian Classics](https://open.spotify.com/playlist/37i9dQZF1DXbQ1kpdsa9FU)
 
-> Classic Contemporary Christian songs you can always count on! Cover: TobyMac
+> Classic Contemporary Christian songs you can always count on! Cover: MercyMe
 
 368 songs - 1 day 3 hr 21 min
 
@@ -78,7 +78,7 @@
 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 | 2025-05-09 |  |
 | [El\-Shaddai](https://open.spotify.com/track/2VED4X4iTTLD4g1TQqxtAi) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Greatest Hits](https://open.spotify.com/album/7pfhRkBsKxw8mPNcVKReAT) | 4:07 | 2024-12-11 |  |
 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 | 2024-12-11 | 2026-03-15 |
-| [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 | 2024-12-11 | 2026-03-04 |
+| [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 | 2024-12-11 |  |
 | [Even Louder \(Spontaneous\) \- Live](https://open.spotify.com/track/31r3D1fQPyHvYnDSgNXWVm) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige) | [Even Louder \(Spontaneous\) \[Live\]](https://open.spotify.com/album/4RFvIjXutsFtMcLCQ0jhn2) | 7:08 | 2020-08-26 | 2022-03-16 |
 | [Even So Come \- Radio Version/Live](https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Even So Come \(Radio Version/Live\)](https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P) | 4:14 | 2023-02-18 | 2024-06-23 |
 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 | 2020-08-26 | 2024-04-19 |
@@ -96,7 +96,7 @@
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2024-12-11 |  |
 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:27 | 2024-06-23 | 2024-12-12 |
 | [Fix My Eyes](https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:35 | 2024-12-11 |  |
-| [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 | 2024-12-11 |  |
+| [Flawless](https://open.spotify.com/track/6wa4KnRz7LjGeMkpIa1mAI) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Welcome to the New](https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP) | 4:15 | 2024-12-11 | 2026-03-22 |
 | [For God Is With Us](https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:16 | 2024-06-23 | 2024-12-12 |
 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 | 2020-08-26 | 2024-06-23 |
 | [Free to Be Me](https://open.spotify.com/track/5TXwU5dCw3h6Tsr0UC3APQ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [My Paper Heart](https://open.spotify.com/album/0b8SYUXuokh2t2ZzvKEIpc) | 3:28 | 2024-12-11 |  |

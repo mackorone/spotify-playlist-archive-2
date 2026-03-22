@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira, Dankie Boi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538 likes - 79 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591 likes - 79 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [Bekungeke](https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r) | [Amatycooler](https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw) | [Bekungeke](https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ) | 5:54 |
 | 79 | [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 |
 
-Snapshot ID: `AAAAAG8lR9OfYdUPZZ7g0V2/S4EUU+xB`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

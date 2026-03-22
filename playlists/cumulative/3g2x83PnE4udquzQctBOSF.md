@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-536 songs - 1 day 8 hr 42 min
+537 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bass Xpress](https://open.spotify.com/track/4hJq68WXFjJ9NmAL4Np1k6) | [Marco Moncada](https://open.spotify.com/artist/4CEdbPWnMu8xKhZIhCxOai) | [Reissues 017](https://open.spotify.com/album/3bc8xU0hGc9zdzQvYJjJdD) | 4:55 | 2025-12-09 | 2026-01-03 |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-01-22 | 2023-02-13 |
 | [Be What You Want](https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Let's Dance / Be What You Want](https://open.spotify.com/album/7Dt5XJMCSg3hPICh3yjvA5) | 3:13 | 2023-03-31 | 2023-04-17 |
+| [Be with you, na na na na \- Remix Version 2026](https://open.spotify.com/track/63oq59PaooAbu5ucUGbGOz) | [Damasco Dj](https://open.spotify.com/artist/1VZrKUMcbLfxPFxDfTHJFb) | [Be with you, na na na na \(Remix Version 2026\)](https://open.spotify.com/album/5I73qPXycT1LNhDGgc7lA6) | 3:35 | 2026-03-21 |  |
 | [Beat](https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2) | [Jamie G](https://open.spotify.com/artist/6BDpVmQwKZSv0lQL83wN7i) | [Beat](https://open.spotify.com/album/1dQbJzsDTiMZxKwc4Xe7fv) | 3:21 | 2024-02-04 | 2024-03-11 |
 | [Been Dreaming](https://open.spotify.com/track/05aycF0iwg7oncrbAPXlvn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [GD Vandal](https://open.spotify.com/artist/1CWlv9N9hW7ugqHBRy2fqX) | [Been Dreaming](https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH) | 2:40 | 2023-04-23 | 2023-05-15 |
 | [Beg Friends](https://open.spotify.com/track/0n9fISPJ3M0PFGSVpbyr8V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Milano Downtown II EP](https://open.spotify.com/album/2Qi53oRE6agb5bC8qHgszH) | 3:39 | 2023-05-14 | 2023-06-12 |

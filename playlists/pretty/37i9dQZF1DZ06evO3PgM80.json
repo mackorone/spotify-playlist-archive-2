@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22023,
+  "num_followers": 22025,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAAB+eOJdxGH7LMwWNohgPmEi",
+  "snapshot_id": "abyOAAAAAAC4B+pCLmpYxblrZpgwRqTt",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
       },
@@ -387,38 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 346346,
       "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
       "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restaura o Teu Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 418695,
-      "name": "Restaura o Teu Altar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Abrigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+        "name": "Restaura o Teu Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+      "duration_ms": 418695,
+      "name": "Restaura o Teu Altar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 382880,
       "name": "Vem",
       "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 283365,
-      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perto Eu Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 252866,
       "name": "Perto Eu Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 283365,
+      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 110181,
+  "num_followers": 110196,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Bleu Blanc Vert",
-        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+        "name": "En amont",
+        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
       },
       "artists": [
         {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Voil\u00e0 c'est fini",
-      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
+      "duration_ms": 264720,
+      "name": "Immortels",
+      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -615,18 +615,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "En amont",
-        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
+        "name": "Bleu Blanc Vert",
+        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
       },
       "artists": [
         {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
         }
       ],
-      "duration_ms": 264720,
-      "name": "Immortels",
-      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+      "duration_ms": 308666,
+      "name": "Voil\u00e0 c'est fini",
+      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
-      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Sanson comme ils l'imaginent",
         "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 230600,
       "name": "Quelques mots d'amour",
       "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
+      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Louane",
-        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 251625,
       "name": "On fait comme si",
       "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
     },
     {
       "added_at": "2026-01-21 14:43:12",

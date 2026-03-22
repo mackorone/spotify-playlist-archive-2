@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANwt7lt7hjkU1rGJb7xbLUl9Eji3n1",
+  "snapshot_id": "AAANx5zO+ogL81xKBY3ethbZgn4njGzI",
   "tracks": [
     {
       "added_at": "2026-02-06 22:26:26",
@@ -1615,6 +1615,90 @@
       "duration_ms": 162000,
       "name": "under my skin",
       "url": "https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D"
+    },
+    {
+      "added_at": "2026-03-21 08:41:09",
+      "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY"
+      },
+      "artists": [
+        {
+          "name": "Hikado",
+          "url": "https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA"
+        }
+      ],
+      "duration_ms": 215149,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O"
+    },
+    {
+      "added_at": "2026-03-21 08:42:27",
+      "album": {
+        "name": "anything today",
+        "url": "https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 212083,
+      "name": "anything today",
+      "url": "https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ"
+    },
+    {
+      "added_at": "2026-03-21 08:42:45",
+      "album": {
+        "name": "togher",
+        "url": "https://open.spotify.com/album/1ReFEzctIfWYIzbUidlBNT"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 195051,
+      "name": "togher",
+      "url": "https://open.spotify.com/track/5Fmqxc6IvItrprHWLpEVc9"
+    },
+    {
+      "added_at": "2026-03-21 08:43:01",
+      "album": {
+        "name": "Hoping to Find",
+        "url": "https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu"
+      },
+      "artists": [
+        {
+          "name": "Empty Melon",
+          "url": "https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq"
+        },
+        {
+          "name": "Samson Wrote",
+          "url": "https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Hoping to Find",
+      "url": "https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX"
+    },
+    {
+      "added_at": "2026-03-21 08:43:32",
+      "album": {
+        "name": "Sevacabar",
+        "url": "https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm"
+      },
+      "artists": [
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+        }
+      ],
+      "duration_ms": 170772,
+      "name": "Sevacabar",
+      "url": "https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Antonin Padilla, Cheko MG en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,373 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,544 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 3 | [Coronar](https://open.spotify.com/track/6dH6PkQPzKRncIbIr3lyBL) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Coronar](https://open.spotify.com/album/2BknozLsYjG4bpp4I36INW) | 3:05 |
 | 4 | [FREESTYLE](https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 5:36 |
 | 5 | [Soy De Agiabampo](https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Soy De Agiabampo](https://open.spotify.com/album/5kht3kei1benxfOUNZWycV) | 3:34 |
-| 6 | [Chevrolet 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
+| 6 | [CHEVROLET 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
 | 7 | [Todo a Su Tiempo](https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Todo a Su Tiempo](https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i) | 3:00 |
 | 8 | [29:11](https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 3:44 |
 | 9 | [Don Roque](https://open.spotify.com/track/5S1KatP6OI1kldBcCo2Jtz) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Don Roque](https://open.spotify.com/album/67smUCRvjQhS4lGlJ9N5dt) | 3:07 |

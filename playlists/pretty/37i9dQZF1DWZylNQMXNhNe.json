@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 248842,
+  "num_followers": 248837,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-11-22 12:14:14",
       "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Sideral",
+      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
+    },
+    {
+      "added_at": "2025-11-22 12:14:14",
+      "album": {
         "name": "MUCHO SEXY",
         "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 185864,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
-    },
-    {
-      "added_at": "2025-11-22 12:14:14",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Sideral",
-      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     },
     {
       "added_at": "2025-11-22 12:14:14",

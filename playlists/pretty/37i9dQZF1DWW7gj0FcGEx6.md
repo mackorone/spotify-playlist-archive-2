@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,172 likes - 207 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,213 likes - 207 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 18 | [Mark on the Bridge](https://open.spotify.com/track/496FpOldkv4fecbTsph05C) | [Jessica Jones](https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X) | [Unfamiliar \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0R9Qny1nUc0KV0ZzT2f3O4) | 1:06 |
 | 19 | [She Said to Dream Big](https://open.spotify.com/track/1qrxNAaNunzT2O4wAXe3g3) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [GOAT \(Original Motion Picture Score\)](https://open.spotify.com/album/6DVDtMDLQs3fVi5Vslrjui) | 1:56 |
 | 20 | [Bora e Uccelli \- From 'Origin' Soundtrack](https://open.spotify.com/track/6GVu4uV3jo4ZRPHelKw5fL) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Bora e Uccelli \(From 'Origin' Soundtrack\)](https://open.spotify.com/album/2ODGQxRqs9XvyoxW5jjrug) | 1:40 |
-| 21 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
+| 21 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
 | 22 | [God's Business](https://open.spotify.com/track/0rHHmSo1z7ze9NM0u9LWjI) | [Sion Trefor](https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt) | [How To Get To Heaven From Belfast \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66LQDThXv6sqONyHFTJkNy) | 1:01 |
 | 23 | [Just Getting Started](https://open.spotify.com/track/5jM0wRsMmksPI5qoWaIETL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout: Season 2 \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/35b3GZrZd4DqEjAC2rYMj0) | 3:03 |
 | 24 | [Hail, Caesar](https://open.spotify.com/track/7eZ8vjrhVFzZr0ywUiEEdJ) | [Joseph Loduca](https://open.spotify.com/artist/7K8ZZVUXpoWs9KH9VAoVhi) | [Spartacus: House of Ashur \(Music from the STARZ Original Series\)](https://open.spotify.com/album/0Vf625UsZwbGXIl8wZJ5Dk) | 5:14 |

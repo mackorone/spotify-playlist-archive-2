@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Where faith meets R&B. Cover: Erica Campbell & Adia",
+  "description": "Where faith meets R&B. Cover: Taylor Hill",
   "name": "Rhythm & Praise",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 186000,
       "name": "All",
       "url": "https://open.spotify.com/track/6xemNUN2wxRHxu5zN2d68Z"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 97081,
       "name": "Always There",
       "url": "https://open.spotify.com/track/0BzNczRVBwrLWxLOny8cRg"
@@ -1710,6 +1710,24 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
+    },
+    {
+      "album": {
+        "name": "best thing",
+        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233583,
+      "name": "best thing",
+      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
     },
     {
       "album": {
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 160604,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6oeslSuX0jrhqWWoyCd4GI"
@@ -3391,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "DIE 4 ME",
+        "url": "https://open.spotify.com/album/6BFPgJGM8UT9i0jxpadVPB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157831,
+      "name": "DIE 4 ME",
+      "url": "https://open.spotify.com/track/14IvpNAH2Dx8dDnOUy2yvs"
+    },
+    {
+      "album": {
         "name": "distracted",
         "url": "https://open.spotify.com/album/1VY8DtPk4yIBMfUQAjW9Hq"
       },
@@ -3808,7 +3844,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 143709,
       "name": "Easy",
       "url": "https://open.spotify.com/track/01Jsw5wBm2iMFhYFezlOg5"
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 131588,
       "name": "FALL DOWN",
       "url": "https://open.spotify.com/track/62LwMi0hUYAeMMjLlVDgfE"
@@ -4354,7 +4390,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 189387,
       "name": "Fe De Mami",
       "url": "https://open.spotify.com/track/5JH5z3qL0fpwDix6CrlXOW"
@@ -4576,7 +4612,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 248580,
       "name": "First Love",
       "url": "https://open.spotify.com/track/0VvatYEiQOfJYUbxEcP80o"
@@ -4854,6 +4890,24 @@
       "duration_ms": 200655,
       "name": "Found Missing",
       "url": "https://open.spotify.com/track/3759iYIAp9ItiKE8RDxCma"
+    },
+    {
+      "album": {
+        "name": "FR",
+        "url": "https://open.spotify.com/album/48K37huDRtsFe47ofP0buM"
+      },
+      "artists": [
+        {
+          "name": "taylor charmayne",
+          "url": "https://open.spotify.com/artist/6iEKnPF41oa4jXXOmOnvWS"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181834,
+      "name": "FR",
+      "url": "https://open.spotify.com/track/0YoP6hmI5QtuXfrgVgmahR"
     },
     {
       "album": {
@@ -6412,7 +6466,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 190553,
       "name": "Him",
       "url": "https://open.spotify.com/track/0u0XHTFjpQ3DYhWsreYxtQ"
@@ -7008,7 +7062,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 256500,
       "name": "I Kept On",
       "url": "https://open.spotify.com/track/5IZGhoh2iSRqQ3ENl8LTgi"
@@ -8137,6 +8191,32 @@
     },
     {
       "album": {
+        "name": "KOKORO",
+        "url": "https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173932,
+      "name": "KOKORO",
+      "url": "https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z"
+    },
+    {
+      "album": {
         "name": "L.H.U.Y (LET HIM USE YA)",
         "url": "https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy"
       },
@@ -8478,7 +8558,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 213243,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2pzRmH3yLl2Hii5qlN792v"
@@ -8514,7 +8594,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 173235,
       "name": "Limit",
       "url": "https://open.spotify.com/track/7JkTIzb10hjitn1ZE0HXI2"
@@ -8765,6 +8845,24 @@
     },
     {
       "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
+    },
+    {
+      "album": {
         "name": "LOVE IS KING",
         "url": "https://open.spotify.com/album/4fwcYL34sF4zQbkr5XJkQT"
       },
@@ -8850,7 +8948,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 139008,
       "name": "Love Like Yours",
       "url": "https://open.spotify.com/track/1yGO7Kc6Aa8DF9R99zUE5X"
@@ -8868,7 +8966,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 150662,
       "name": "Love Me Anyway",
       "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
@@ -9426,7 +9524,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 168922,
       "name": "Maximize My Love",
       "url": "https://open.spotify.com/track/3K1p2q74D1UrnJPHO45VKK"
@@ -10034,6 +10132,28 @@
     {
       "album": {
         "name": "Never",
+        "url": "https://open.spotify.com/album/1YpljUYEBtsPToPYkkOH0N"
+      },
+      "artists": [
+        {
+          "name": "Drea LP",
+          "url": "https://open.spotify.com/artist/57wFLw8hxfu7CVqJ7iPm8Q"
+        },
+        {
+          "name": "OnBeatMusic",
+          "url": "https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221423,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/6TLmhPB29H3TT8cKcBV4AS"
+    },
+    {
+      "album": {
+        "name": "Never",
         "url": "https://open.spotify.com/album/6if6baS5jKWHQs7OmmmrxH"
       },
       "artists": [
@@ -10392,7 +10512,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 206511,
       "name": "NO ME SUELTES",
       "url": "https://open.spotify.com/track/1RzUAfm63bOW50Oj8okuHi"
@@ -10824,7 +10944,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 154400,
       "name": "oh, sinner",
       "url": "https://open.spotify.com/track/7MPTKKwioSuhkcZQ6t9AQB"
@@ -10988,7 +11108,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 224349,
       "name": "On & On",
       "url": "https://open.spotify.com/track/4cuEDrUs35Xufb1n0pK9ox"
@@ -11534,7 +11654,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 134400,
       "name": "play my role",
       "url": "https://open.spotify.com/track/6elo3bItLg9rbKhbfqJVct"
@@ -12786,7 +12906,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 153000,
       "name": "Right There",
       "url": "https://open.spotify.com/track/2T9k2j6sZ49EYejC6vooLm"
@@ -13656,7 +13776,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 168062,
       "name": "So Far Next",
       "url": "https://open.spotify.com/track/12OM91E3E2yMc2iwO7xa08"
@@ -13808,7 +13928,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 166000,
       "name": "Soul Glow",
       "url": "https://open.spotify.com/track/5JbpiXWFCzRo3jgbalmzYw"
@@ -13888,7 +14008,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 142608,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7kyseZ7IHFT5R8hfw9Uvra"
@@ -14256,7 +14376,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 192631,
       "name": "Strength Is Overrated",
       "url": "https://open.spotify.com/track/3PHaYd1RxIM44elGF0Be10"
@@ -14546,6 +14666,24 @@
       "duration_ms": 222563,
       "name": "Taste and See",
       "url": "https://open.spotify.com/track/3h4ztvbV4XS2cHNdqlJDLN"
+    },
+    {
+      "album": {
+        "name": "Teach Me How To Wait",
+        "url": "https://open.spotify.com/album/04cOW9hx1KEr0ezsKwM7gE"
+      },
+      "artists": [
+        {
+          "name": "Samantha Howard",
+          "url": "https://open.spotify.com/artist/1xVJbLzjmb2cidpt7jZvmR"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Teach Me How To Wait",
+      "url": "https://open.spotify.com/track/0utx4J2JDyOiExE0i0TOzR"
     },
     {
       "album": {
@@ -15802,7 +15940,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 234352,
       "name": "Wade",
       "url": "https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD"
@@ -16839,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6m31OC4uyWmHKFpT2vyCaA"
+    },
+    {
+      "album": {
         "name": "WORTHY",
         "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
       },
@@ -16970,7 +17126,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 208224,
       "name": "yeah, yeah",
       "url": "https://open.spotify.com/track/219aZiTOsMkrVqkVCqGKL2"
@@ -17006,7 +17162,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 157500,
       "name": "YES U R",
       "url": "https://open.spotify.com/track/3kjOovtcgkG2tyb7az6juM"

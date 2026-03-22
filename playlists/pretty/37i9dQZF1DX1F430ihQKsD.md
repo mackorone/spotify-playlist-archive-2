@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Moses Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,287 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,318 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 61 | [Warnings](https://open.spotify.com/track/2Uv26CPjDY9vBaJq3LID0q) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Warnings](https://open.spotify.com/album/6W2dURX4jcJ3M945U1GEJe) | 2:38 |
 | 62 | [Cimetière](https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Cimetière](https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc) | 3:33 |
 | 63 | [Your Drug](https://open.spotify.com/track/0hutuRlxUnns1lLH8ZAQiU) | [Sean Nicholas Savage](https://open.spotify.com/artist/6XC2sEBXW5xqpPSbYgMnvc), [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [The Knowing](https://open.spotify.com/album/7h6wZOnF3OgeUh46ZaVqRj) | 3:19 |
-| 64 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
+| 64 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
 | 65 | [Jour férié](https://open.spotify.com/track/7clImgyLCrnGp9bIfah5oh) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Soleil mâché](https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR) | 3:47 |
 | 66 | [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 |
 | 67 | [La journée va être chaude](https://open.spotify.com/track/1V0jQDyRSPfdfYwADDkCQt) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La journée va être chaude](https://open.spotify.com/album/26eTlAVSnbt5QuaIW3dLJq) | 4:03 |

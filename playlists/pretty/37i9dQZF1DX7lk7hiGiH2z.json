@@ -1,6 +1,6 @@
 {
   "description": "Der Fr\u00fchling ist da \u2013 mit Songs f\u00fcr l\u00e4ngere Tage und fr\u00f6hliche Familienmomente.",
-  "num_followers": 58617,
+  "num_followers": 58633,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,62 @@
     {
       "added_at": "2026-03-20 10:18:35",
       "album": {
+        "name": "Encanto (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
+      },
+      "artists": [
+        {
+          "name": "Jenniffer Kae",
+          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Druck",
+      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 56745,
+      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
+      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
+        "name": "Rolfs Vogelhochzeit (Das Original in der Urfassung)",
+        "url": "https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Ein Vogel wollte Hochzeit machen - 1",
+      "url": "https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
         "name": "Boom Schakkalakka",
         "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
       },
@@ -347,62 +403,6 @@
       "duration_ms": 217323,
       "name": "Ihr kriegt uns nie mehr klein",
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 56745,
-      "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
-      "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
-        "name": "Rolfs Vogelhochzeit (Das Original in der Urfassung)",
-        "url": "https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Ein Vogel wollte Hochzeit machen - 1",
-      "url": "https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
-        "name": "Encanto (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
-      },
-      "artists": [
-        {
-          "name": "Jenniffer Kae",
-          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Druck",
-      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
     },
     {
       "added_at": "2026-03-20 10:18:35",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-03-20 10:18:35",
       "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
         "name": "Giraffenaffen",
         "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 215400,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2026-03-20 10:18:35",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-20 10:18:35",
       "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "Auf einem Baum ein Kuckuck sa\u00df",
+      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
         "name": "Kinderlieder - Fr\u00fchling & Ostern",
         "url": "https://open.spotify.com/album/5Whc7quTjPIXUT3aYsZF3z"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 124426,
       "name": "Ich liebe den Fr\u00fchling \ud83d\ude0a",
       "url": "https://open.spotify.com/track/40l8za7YRSWkNGaTdBelUB"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
     },
     {
       "added_at": "2026-03-20 10:18:35",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-20 10:18:35",
       "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 177293,
       "name": "Fr\u00fchling!",
       "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
     },
     {
       "added_at": "2026-03-20 10:18:35",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-20 10:18:35",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2026-03-20 10:18:35",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 178186,
       "name": "Fr\u00fchling, ich hab dich entdeckt!",
       "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+    },
+    {
+      "added_at": "2026-03-20 10:18:35",
+      "album": {
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
+      },
+      "artists": [
+        {
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
     },
     {
       "added_at": "2026-03-20 10:18:35",

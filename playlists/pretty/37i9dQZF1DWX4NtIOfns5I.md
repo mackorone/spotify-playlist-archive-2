@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Ellie O'Neill on the cover 💧
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,985 likes - 104 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,991 likes - 104 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 60 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
 | 61 | [Designer](https://open.spotify.com/track/1e6vuiaCZRdDpRGAFG80fp) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Jana Horn](https://open.spotify.com/album/3j3qHKhSkQzRezTYeyZqUr) | 4:03 |
 | 62 | [Anna with the Silver Arrow](https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Anna with the Silver Arrow](https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8) | 3:44 |
-| 63 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
+| 63 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
 | 64 | [Nostalgia Act](https://open.spotify.com/track/5WPMjCQevB5k2Yq5sZUCwE) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [George](https://open.spotify.com/album/7Gu7iOp9SqzKlQBMFTh0ca) | 2:56 |
 | 65 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 |
 | 66 | [Cabernet Serenade](https://open.spotify.com/track/0XG5jhNcapzOJG2GVFxwBG) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Cabernet Serenade](https://open.spotify.com/album/6jQDx5njBoC3wNmoUZ1Aso) | 4:21 |

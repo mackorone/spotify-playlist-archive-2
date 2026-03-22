@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-356 songs - 16 hr 9 min
+357 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 | 2025-05-22 |
 | [Benzin](https://open.spotify.com/track/13UTiKaRrV0yUvSQ284uzs) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Benzin](https://open.spotify.com/album/0dYNsffN16lSLauaeIPhy7) | 2:43 | 2025-10-02 | 2026-01-05 |
 | [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 | 2025-05-28 |
-| [Bete für sie](https://open.spotify.com/track/0rdA3QBJcqdjKsfK7Rk6k4) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [NKSN](https://open.spotify.com/artist/7xaDVu3YWJLnyoExZy9iWt), [RYCH](https://open.spotify.com/artist/2anAeor9hqScCy83LKyGIY) | [Bete für sie](https://open.spotify.com/album/5QF559X0atlb6R5yIgop89) | 3:23 | 2026-03-19 |  |
+| [Bete für sie](https://open.spotify.com/track/0rdA3QBJcqdjKsfK7Rk6k4) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [NKSN](https://open.spotify.com/artist/7xaDVu3YWJLnyoExZy9iWt), [RYCH](https://open.spotify.com/artist/2anAeor9hqScCy83LKyGIY) | [Bete für sie](https://open.spotify.com/album/5QF559X0atlb6R5yIgop89) | 3:23 | 2026-03-19 | 2026-03-22 |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 | 2025-06-10 |
 | [Bilder](https://open.spotify.com/track/6ouEXoutSnyv2WJORyGJyg) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Bilder](https://open.spotify.com/album/2UaAIF911R7TVY8Xlf2R4E) | 2:33 | 2025-06-09 | 2025-09-04 |
 | [Bilder gelöscht](https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Bilder gelöscht](https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w) | 2:08 | 2026-01-16 | 2026-03-13 |
@@ -55,6 +55,7 @@
 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 | 2025-07-17 |  |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
 | [Bladerunner](https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Bladerunner](https://open.spotify.com/album/60fRRwprifz4WrxAX400un) | 2:16 | 2026-03-19 |  |
+| [Blessed](https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blessed](https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7) | 2:34 | 2026-03-19 |  |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 | 2026-03-20 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
 | [Brennt wie Feuer](https://open.spotify.com/track/2KkZqA88hrFEInvbEWb6Fg) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Brennt wie Feuer](https://open.spotify.com/album/5x58mDq9I6ow9q08HmOhXY) | 2:59 | 2025-11-13 | 2026-01-24 |
@@ -130,7 +131,7 @@
 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 | 2026-01-30 |  |
 | [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 | 2025-04-13 |
-| [Haus mit Boot](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Haus mit Boot](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 | 2026-02-18 |  |
+| [HAUS MIT BOOT](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Haus mit Boot](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 | 2026-02-18 |  |
 | [Heartbreaks](https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [SANTOS](https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP) | 2:04 | 2025-10-16 | 2025-12-11 |
 | [HEARTBROKEN](https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [HEARTBROKEN](https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV) | 1:56 | 2025-08-07 | 2025-10-11 |
 | [helden](https://open.spotify.com/track/2TYB7NAnjy6zzcM9wXbEW1) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [helden](https://open.spotify.com/album/0sXdARjWxj1EhNxUBOzUXR) | 3:09 | 2026-03-19 |  |

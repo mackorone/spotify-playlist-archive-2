@@ -38059,6 +38059,24 @@
     },
     {
       "album": {
+        "name": "why?",
+        "url": "https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz"
+      },
+      "artists": [
+        {
+          "name": "Santasma",
+          "url": "https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387056,
+      "name": "why?",
+      "url": "https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/3QO6taryWDSFDXC3eDyHGb"
       },

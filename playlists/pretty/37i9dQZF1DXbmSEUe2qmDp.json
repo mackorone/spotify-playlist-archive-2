@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabi Suarez, Day & Lara",
-  "num_followers": 483698,
+  "num_followers": 483722,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Nogueira",
+          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
+        }
+      ],
+      "duration_ms": 183245,
+      "name": "Consequ\u00eancias",
+      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Ela Me Largou (Ao Vivo)",
         "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 176122,
       "name": "Ela Me Largou - Ao Vivo",
       "url": "https://open.spotify.com/track/4CGYMVrw95jgyYQllWlEyS"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Consequ\u00eancias",
-        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
-      },
-      "artists": [
-        {
-          "name": "Felipe Nogueira",
-          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
-        }
-      ],
-      "duration_ms": 183245,
-      "name": "Consequ\u00eancias",
-      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Rastros",
+        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
+      },
+      "artists": [
+        {
+          "name": "Breno & Caio Cesar",
+          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
+        }
+      ],
+      "duration_ms": 171684,
+      "name": "Rastros",
+      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Desce \u00c1lcool",
         "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Rastros",
-        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
+        "name": "Foi Bom Enquanto Durou",
+        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
       },
       "artists": [
         {
-          "name": "Breno & Caio Cesar",
-          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
+          "name": "Jennifer Scheffer",
+          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
         }
       ],
-      "duration_ms": 171684,
-      "name": "Rastros",
-      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
+      "duration_ms": 157175,
+      "name": "Foi Bom Enquanto Durou",
+      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -539,22 +555,6 @@
       "duration_ms": 161747,
       "name": "Suor de Ontem - Ao Vivo",
       "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Foi Bom Enquanto Durou",
-        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Scheffer",
-          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Foi Bom Enquanto Durou",
-      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Mulher Sabe, Mulher Sente",
+        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
+      },
+      "artists": [
+        {
+          "name": "Gabi Fernandes",
+          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
+        }
+      ],
+      "duration_ms": 166470,
+      "name": "Mulher Sabe, Mulher Sente",
+      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Show de Solteiro",
         "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Mulher Sabe, Mulher Sente",
-        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
       },
       "artists": [
         {
-          "name": "Gabi Fernandes",
-          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
         }
       ],
-      "duration_ms": 166470,
-      "name": "Mulher Sabe, Mulher Sente",
-      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -1023,22 +1039,6 @@
       "duration_ms": 198794,
       "name": "Esquec\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
-      },
-      "artists": [
-        {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
     },
     {
       "added_at": "2026-03-20 03:00:31",

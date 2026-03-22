@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,004 songs - 4 day 23 hr 15 min
+2,006 songs - 4 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1538,6 +1538,7 @@
 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 | 2024-03-04 |  |
 | [She Doesn't Text Anymore](https://open.spotify.com/track/7bor0vbDztidkuV1T1fEvC) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [She Doesn't Text Anymore](https://open.spotify.com/album/6O90FEC2InnvcfapMZp5Lg) | 2:04 | 2025-08-01 |  |
 | [She’s Not Me](https://open.spotify.com/track/4RsLQfam90aUyVSIFucWuY) | [$av](https://open.spotify.com/artist/1W7VZerq9bQnkKI7Z9YpNQ) | [$](https://open.spotify.com/album/55KUPIRKLKBlzZ7dWIKIoF) | 2:59 | 2025-11-05 |  |
+| [Shifting Sands](https://open.spotify.com/track/2j2KYoqL7VYecE4sMngorf) | [Demy DeLee](https://open.spotify.com/artist/0Wp2MufD7Cprl4Xf2JQMIz) | [Shifting Sands](https://open.spotify.com/album/7MCrmOgAHpZ8pAm9f33dJO) | 2:45 | 2026-03-21 |  |
 | [Shimmer](https://open.spotify.com/track/6UapzbH1YAoQI1wPuGwQBQ) | [Dan'G](https://open.spotify.com/artist/1IvkmplVCQqVz7Ee2oISef) | [Ear the Worm](https://open.spotify.com/album/5xPWIGOvtnTeMIj0Au40va) | 3:38 | 2025-07-20 |  |
 | [Sho v Tvoij Dushi \- Що В Твоїй Душі](https://open.spotify.com/track/2ZqAeJmlQC8vSIIjTAbAd0) | [Benedict Jay](https://open.spotify.com/artist/2uGkdjNOi2sRL4t6YozXo3), [Volkov D.](https://open.spotify.com/artist/6qAyrKEFRmupvQSgZAKyh7) | [Sho v Tvoij Dushi \(Що В Твоїй Душі\)](https://open.spotify.com/album/3VN3GuELYkDEzPk0JlhGLl) | 3:28 | 2025-05-10 |  |
 | [Short King](https://open.spotify.com/track/2MaO6hMEl2YnufiA2kLgZ6) | [mustbejaded](https://open.spotify.com/artist/1RAF92q2syMTD9NRAi7jT0) | [Short King](https://open.spotify.com/album/06eLzM6e55B9zp8ZIfWCo5) | 3:11 | 2025-08-15 |  |
@@ -1801,6 +1802,7 @@
 | [TRAIN](https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [TRAIN](https://open.spotify.com/album/5pOw1eegWGypFu63gvhYcN) | 3:48 | 2025-10-21 |  |
 | [Tranquil Garden](https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:10 | 2026-03-03 |  |
 | [Transient Transmission \(Intercept's retwist of Adrian Sherwood's Iota Remix\)](https://open.spotify.com/track/0Z5gLLSWTgGSw7YG0f9SIa) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:18 | 2024-08-31 |  |
+| [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-03-21 |  |
 | [Trees](https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP) | [Felt Zen](https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ) | [Trees](https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9) | 2:38 | 2026-03-06 |  |
 | [Treino Disco \(HIIT 30\-10\)](https://open.spotify.com/track/1KgJoRTyRN5PX2NBEHzGVZ) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [70s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/38vFZ0KaLfZlEtQwUXDM6l) | 1:20 | 2024-03-08 |  |
 | [Treino Para HIIT \(HIIT 30\-10\)](https://open.spotify.com/track/2Cee7siNEt2nwso4L98FhS) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [HIIT BRASIL 30\-10](https://open.spotify.com/album/4fLeywEPeRMgra2PDYpAcN) | 1:20 | 2024-03-08 |  |

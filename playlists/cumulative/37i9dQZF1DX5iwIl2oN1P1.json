@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "All new Gospel songs on the rise! Cover:  RED Hands",
+  "description": "All new Gospel songs on the rise! Cover: Nia Allen & MAJOR.",
   "name": "Gospel Rising",
   "tracks": [
     {
@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5lXCVs0faKNtZtoaCFSWMJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts & the Levites Assembly",
+          "url": "https://open.spotify.com/artist/06E8bQ7iJzLmK4X6XuiYei"
+        },
+        {
+          "name": "Victor Solomon",
+          "url": "https://open.spotify.com/artist/1X8Gx4jX1T2x9moF8gfqhy"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/40nKO2znhwdYGavaibZSqu"
+    },
+    {
+      "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/3BcTk2Iqm01sOoKoNXuhO3"
       },
@@ -364,6 +386,28 @@
       "duration_ms": 222082,
       "name": "Already Good (Tasha Slide)",
       "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/45f99hzvsRGJzug3gsjH5M"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285281,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1CPjfoP4nxvHoxGZD6ZEXt"
     },
     {
       "album": {
@@ -608,6 +652,32 @@
       "duration_ms": 297094,
       "name": "Arise",
       "url": "https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk"
+    },
+    {
+      "album": {
+        "name": "OPHANIM",
+        "url": "https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259465,
+      "name": "ARMOR (FEAT. ZACARDI CORTEZ)",
+      "url": "https://open.spotify.com/track/4rHdX9H2xb4f0PoPDkSZVR"
     },
     {
       "album": {
@@ -2845,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Have Your Way",
+        "url": "https://open.spotify.com/album/6m83ch2IOht2wITUganQ6h"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196083,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/3PmmcOdktlWIkAvBvmXTox"
+    },
+    {
+      "album": {
         "name": "He Can",
         "url": "https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar"
       },
@@ -2896,6 +2984,24 @@
       "duration_ms": 217426,
       "name": "He Sees You",
       "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
+    },
+    {
+      "album": {
+        "name": "He'll Never Fail (Live in Atlanta)",
+        "url": "https://open.spotify.com/album/55PhlsxAh30smFnut4lf9B"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lewis & One Voice",
+          "url": "https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463370,
+      "name": "He'll Never Fail - Live in Atlanta",
+      "url": "https://open.spotify.com/track/37K4Q4KNXSAmpG22WeEFMa"
     },
     {
       "album": {
@@ -3122,7 +3228,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 249160,
       "name": "Holy, Holy, Holy (Radio Edit) (feat. Alvin Slaughter) - Live",
       "url": "https://open.spotify.com/track/4kQILEer0VN9mOOxIyW9zQ"
@@ -3140,7 +3246,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 225936,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/228LTnxM3tOcex7KCQJUip"
@@ -4251,6 +4357,28 @@
     },
     {
       "album": {
+        "name": "Just You Wait",
+        "url": "https://open.spotify.com/album/600Xk7fA5TfQqOlAXzkXQg"
+      },
+      "artists": [
+        {
+          "name": "Nia Allen",
+          "url": "https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg"
+        },
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Just You Wait",
+      "url": "https://open.spotify.com/track/00NMDqRarf5FuOQzzmYpjK"
+    },
+    {
+      "album": {
         "name": "Keep Me",
         "url": "https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5"
       },
@@ -4698,6 +4826,24 @@
       "duration_ms": 219794,
       "name": "Mighty Good",
       "url": "https://open.spotify.com/track/4nIJcdjVVQNJC5loKZsvfJ"
+    },
+    {
+      "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
       "album": {
@@ -5837,6 +5983,24 @@
     },
     {
       "album": {
+        "name": "The Stories We Sing Vol. 1",
+        "url": "https://open.spotify.com/album/0Xrkm7Y5PsmQkkXvIiQEUF"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386266,
+      "name": "Rest In Me",
+      "url": "https://open.spotify.com/track/1Ln7GJFOmnvdJOTlsvz4Lf"
+    },
+    {
+      "album": {
         "name": "Revival (Live In Detroit)",
         "url": "https://open.spotify.com/album/67Y4zIjD4CIGkGki9348oI"
       },
@@ -6497,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Sure Of (Live)",
+        "url": "https://open.spotify.com/album/3ntL5US10wXJVRezfRPN1z"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285754,
+      "name": "Sure Of - Live",
+      "url": "https://open.spotify.com/track/64ZOXlG7V4dXpz3zTelk7z"
+    },
+    {
+      "album": {
         "name": "Sweet, Sweet Spirit",
         "url": "https://open.spotify.com/album/7wroq6zvI9ZCAa7B0ReAoI"
       },
@@ -6802,6 +6984,32 @@
       "duration_ms": 172564,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/4k1AK6YmmMYrqs5pPAVjgG"
+    },
+    {
+      "album": {
+        "name": "The King of Glory",
+        "url": "https://open.spotify.com/album/1MaoOl9mCBEpDtiqn1T9Lk"
+      },
+      "artists": [
+        {
+          "name": "The Hill City Collective",
+          "url": "https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "STOUT",
+          "url": "https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "The King of Glory",
+      "url": "https://open.spotify.com/track/5PdHrwjKW9Yo8zTeTilChz"
     },
     {
       "album": {
@@ -7571,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171158,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl"
+    },
+    {
+      "album": {
         "name": "Whatever It Is",
         "url": "https://open.spotify.com/album/2sT29VSDrZJudOYit9K65L"
       },
@@ -7888,6 +8114,28 @@
       "duration_ms": 274000,
       "name": "Working On Me",
       "url": "https://open.spotify.com/track/3rRfnW6MmzofJGFFMybqCh"
+    },
+    {
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "album": {

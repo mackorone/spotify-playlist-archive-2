@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-942 songs - 2 day 8 hr 58 min
+943 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Queen Majesty](https://open.spotify.com/track/6q8BTWNtC7T3eMyhbluIZx) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Classics](https://open.spotify.com/album/6KgY1PUeQP7wjwiQPTVpK6) | 3:12 | 2025-09-10 | 2025-11-15 |
 | [Quit Your Job, Runaway!](https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Quit Your Job, Runaway!](https://open.spotify.com/album/6027fNILSRndfej1CldyP4) | 2:46 | 2024-05-16 | 2024-07-12 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
+| [Radio Love](https://open.spotify.com/track/0Wjlg4pMxRFOLDkg4Ci2XI) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [The Sun Shines Here: The Roots Of Indie\-Pop 1980\-1984](https://open.spotify.com/album/7G4CGjxbKfdmUyNTxyle96) | 4:06 | 2026-03-21 |  |
 | [Rain Down \- Purelink's Say Less Mix](https://open.spotify.com/track/6Zl2cwzL5NRTXt2ZzAIzpZ) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 4:55 | 2025-04-29 | 2025-05-09 |
 | [Ralome](https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Mason Bee](https://open.spotify.com/artist/6cKYviKIX45Vu7a7UlhVLw) | [Rest Proof Clockwork](https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7) | 4:29 | 2025-09-16 | 2025-11-15 |
 | [Real Thing](https://open.spotify.com/track/70oLoBhpHsNEDVLsMDlheU) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:18 | 2025-07-19 | 2025-09-11 |

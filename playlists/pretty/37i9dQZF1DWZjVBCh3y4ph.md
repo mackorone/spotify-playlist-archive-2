@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,615 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,628 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Coups pour coups](https://open.spotify.com/track/5m4amDdAFosi09upf23b4G) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Coups pour coups](https://open.spotify.com/album/5SM61NhTQLzTlDJP6g69rV) | 2:36 |
 | 40 | [Doucement](https://open.spotify.com/track/7vLzfxOSF2jf4wggjTLLwx) | [Jessye Belleval](https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T) | [Doucement](https://open.spotify.com/album/1bsobJeL9AiGj1L7e6kogD) | 2:21 |
 
-Snapshot ID: `AAAAAIQSV+LkeSR3VQpYVap+ZxMJ5YrI`
+Snapshot ID: `AAAAAKpUF8pCwvSa4GYifYS1+6vZhTbu`

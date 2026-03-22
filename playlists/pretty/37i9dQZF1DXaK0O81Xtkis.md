@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Kevian Kraemer
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,188 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,204 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [down under](https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [down under](https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3) | 3:24 |
 | 2 | [Make It Out](https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1) | [Trueblood](https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG) | [Make It Out](https://open.spotify.com/album/3YW0I40pqUzTXGwcRA28aR) | 2:17 |
-| 3 | [Rainforest](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Rainforest](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
+| 3 | [RAINFOREST](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RAINFOREST](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
 | 4 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 | 5 | [deja blues](https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes](https://open.spotify.com/album/3SO3u6dMOH9criZfNzeLmG) | 2:31 |
 | 6 | [auburn](https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [auburn](https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn) | 3:29 |

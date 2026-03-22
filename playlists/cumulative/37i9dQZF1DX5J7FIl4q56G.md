@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Black Veil Brides
 
-11,218 songs - 31 day 0 hr 42 min
+11,219 songs - 31 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6087,6 +6087,7 @@
 | [Memento Mori](https://open.spotify.com/track/3828VluUAGp9mN3qb6CvAe) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Memento Mori](https://open.spotify.com/album/0t3le0BbtBuQmpf1jLWuf8) | 4:10 | 2022-09-16 | 2022-09-24 |
 | [Mementos](https://open.spotify.com/track/30YlwlaVbrrCUuXjM4tdRa) | [Bosse\-de\-Nage](https://open.spotify.com/artist/7o1sULgHxbBDdUnK95tewd) | [Hidden Fires Burn Hottest](https://open.spotify.com/album/32iPziU6tr4vKKYz29Vv0q) | 7:09 | 2026-03-06 |  |
 | [Memorial](https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Memorial](https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2) | 4:38 | 2023-07-14 | 2023-07-22 |
+| [Memorias](https://open.spotify.com/track/2iWralMgCV2HWg99ZmCYFS) | [The Silver](https://open.spotify.com/artist/5QiZcvaXvmysudyL8pUIDQ) | [Memorias](https://open.spotify.com/album/2dJDJ1kMZenhZ0PokuFnPR) | 4:19 | 2026-03-22 |  |
 | [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-05-05 | 2023-05-20 |
 | [Memories](https://open.spotify.com/track/5EcubEgvyrgNM13YS95sRB) | [Out of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Memories](https://open.spotify.com/album/1stbHs1J4hDYLhHFyTMFx4) | 4:09 | 2024-10-25 | 2024-11-02 |
 | [Memory Never Dies](https://open.spotify.com/track/1Vtx0w3sQfQfPP3uyXUbsi) | [Kaosis](https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7), [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Memory Never Dies](https://open.spotify.com/album/4WDtBWZVDkt1HWxZFbOytR) | 5:44 | 2024-04-05 | 2024-04-13 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-572 songs - 1 day 10 hr 8 min
+573 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 | 2023-06-22 | 2023-10-24 |
 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:33 | 2023-10-20 | 2025-02-25 |
 | [it takes 2](https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [it takes 2](https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn) | 3:40 | 2024-04-05 | 2026-01-15 |
-| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 |  |
+| [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 |  |
 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 | 2023-06-30 | 2025-09-03 |
 | [J'ai demandé à la lune](https://open.spotify.com/track/7ALLe4yro3cKzvMndHc5kX) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [Louis\-Étienne Santais](https://open.spotify.com/artist/0ZAl5PmCoUqY1PIuTYAghz) | [J'ai demandé à la lune](https://open.spotify.com/album/00oVQCf6moCjdGGiU2pIAg) | 3:25 | 2021-02-26 | 2021-05-03 |
 | [j'ai oublié mon nom](https://open.spotify.com/track/6MsGCYZ4ygiOVzOODgusMu) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [j'ai oublié mon nom](https://open.spotify.com/album/7cmAn9WKrzm8MfnhCUordH) | 2:40 | 2025-06-13 | 2026-01-04 |
@@ -257,6 +257,7 @@
 | [La porte de l'hôpital](https://open.spotify.com/track/4yx36ceDtSEuPjvl5lwGlo) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [La porte de l'hôpital](https://open.spotify.com/album/3RKhAG0hro25cTVL8EXocG) | 4:16 | 2021-08-31 | 2021-09-28 |
 | [la rivière](https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 4:25 | 2022-11-11 | 2024-04-19 |
 | [la rivière](https://open.spotify.com/track/34TsmGq0ibmXtJAcfl7W5o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:26 | 2022-09-23 | 2022-11-25 |
+| [La saison est finie](https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [La saison est finie](https://open.spotify.com/album/5QtzabOnL8EGEwM6FiFMkB) | 3:37 | 2026-03-20 |  |
 | [La tireuse de cartes](https://open.spotify.com/track/0WAkPP6fVnKOoyK9Mxu9tx) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [L'Album de Boue](https://open.spotify.com/album/3y1Otdwrdze1bbukisaxeg) | 4:32 | 2021-02-26 | 2021-09-29 |
 | [La tête à hier](https://open.spotify.com/track/5eembkZTkQTPiDBrikrvV6) | [Émile Gruff](https://open.spotify.com/artist/5V4tYWMSUoiENIzBUzhom6) | [Une fin heureuse ? \(2e partie\)](https://open.spotify.com/album/2g9w8I9nkUPIVoT81uCufJ) | 3:20 | 2021-02-22 | 2021-05-07 |
 | [La vallée des fantômes](https://open.spotify.com/track/0CYFSRbOBPwwdqezHQKfKQ) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Le chemin des possibles](https://open.spotify.com/album/4Ulibhn07t2Jzam0wP2tdq) | 3:26 | 2022-04-29 | 2022-07-06 |
@@ -338,7 +339,7 @@
 | [Marie](https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6) | [Les voix levées](https://open.spotify.com/album/0Yv8nEEStD392nKBLYPt36) | 3:21 | 2021-01-03\* | 2021-10-22 |
 | [Martine](https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R) | [Camaromance](https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X) | [Martine](https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE) | 4:03 | 2021-01-03\* | 2022-07-14 |
 | [Mathieu et Gloria](https://open.spotify.com/track/6PxHMyDTD2ugw6kSxNjtq6) | [Ombre!](https://open.spotify.com/artist/4RvNQrx95ubI5E1woJER6o) | [Les grands vents](https://open.spotify.com/album/2UWAAvO2RTCYRmegk0cYUp) | 4:14 | 2021-01-03\* | 2022-07-12 |
-| [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 | 2025-12-19 |  |
+| [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 | 2025-12-19 | 2026-03-22 |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2025-02-14 |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |

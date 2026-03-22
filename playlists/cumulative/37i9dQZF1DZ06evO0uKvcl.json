@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Mr. Highway Man",
+      "url": "https://open.spotify.com/track/1y93HSjyPk4XuNMRnqRRd2"
+    },
+    {
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },

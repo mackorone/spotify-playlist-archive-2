@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-413 songs - 1 day 1 hr 52 min
+414 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2021-10-28 | 2024-04-12 |
 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 | 2024-02-23 | 2024-07-27 |
 | [repeat to fade](https://open.spotify.com/track/4AddhPZvZZgZDS41YH4Q8k) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [repeat to fade](https://open.spotify.com/album/1e1rX5fl19FjR9jubh7ymg) | 2:54 | 2024-03-22 | 2025-01-17 |
+| [Retrograde](https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Retrograde](https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE) | 2:55 | 2026-03-16 |  |
 | [Ride Or Die \(feat\. Chilly Gonzales\)](https://open.spotify.com/track/1rP4GZ4eFK4W9c5QeFIn1Y) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:43 | 2021-10-28 | 2024-03-29 |
 | [Right Here](https://open.spotify.com/track/3apc7XUBxJQjIBgM5TsN6y) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Right Here](https://open.spotify.com/album/0ZpVzaA4krJNRu7Kduh1PZ) | 3:11 | 2024-05-10 | 2025-02-14 |
 | [RISE](https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [RISE](https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse) | 2:40 | 2024-05-10 | 2025-02-14 |
@@ -320,7 +321,7 @@
 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 | 2024-11-08 | 2025-01-17 |
 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 | 2024-02-23 | 2024-07-27 |
 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 | 2024-07-26 | 2025-02-14 |
-| [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-03 |  |
+| [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-03 | 2026-03-22 |
 | [Shapeshift](https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Shapeshift](https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5) | 4:50 | 2025-04-17 | 2026-02-13 |
 | [She Waits](https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [She Waits](https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d) | 2:57 | 2025-10-03 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-02-23 | 2024-07-27 |

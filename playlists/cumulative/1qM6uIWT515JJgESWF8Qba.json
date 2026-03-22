@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum"
+      },
+      "artists": [
+        {
+          "name": "Liquid Monk",
+          "url": "https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv"
+    },
+    {
+      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC"
       },
@@ -1176,6 +1194,24 @@
       "duration_ms": 255200,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D"
+    },
+    {
+      "album": {
+        "name": "Fickled",
+        "url": "https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Fickled",
+      "url": "https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5"
     },
     {
       "album": {
@@ -3168,6 +3204,28 @@
       "duration_ms": 200000,
       "name": "thought ya do",
       "url": "https://open.spotify.com/track/7gvfCu73H2PTccxVNK6Xtn"
+    },
+    {
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW"
     },
     {
       "album": {

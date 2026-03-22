@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La espera termino, ellos están de regreso! BTS en portada 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,358 likes - 89 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,849 likes - 89 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 36 | [ADN \- Remix](https://open.spotify.com/track/13pN7L51ZMYew5C2oxgZYN) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3), [Mvchoo23](https://open.spotify.com/artist/7qVTIQYjCnpu6ohojfpf3t) | [ADN \(Remix\)](https://open.spotify.com/album/2VbUsODh1DQg6jaVAhaglu) | 4:21 |
 | 37 | [Ven Mi Amor](https://open.spotify.com/track/4BEoWUDWgVQSsNHmuJlPx7) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Ven Mi Amor](https://open.spotify.com/album/0CNVabDAYDAJEkmhBFFMCa) | 3:10 |
 | 38 | [La Cagué](https://open.spotify.com/track/5ADf7kM4xc94DFzRJB4xM1) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Cagué](https://open.spotify.com/album/2biYyQDQX9EbtGG4cEMoqr) | 3:03 |
-| 39 | [Chevrolet 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
+| 39 | [CHEVROLET 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
 | 40 | [Chambeandole Macizo](https://open.spotify.com/track/6rF3EcMniPSGzOn5CFVMvJ) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [Chambeandole Macizo](https://open.spotify.com/album/26MfI6t7C2cYyn0hPQWtbP) | 3:40 |
 | 41 | [Tirabalas](https://open.spotify.com/track/1Q4bEb1FY92Vf2nB9Tesjq) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [ESSENCE \#10 \(Deluxe\)](https://open.spotify.com/album/4nASxlfNNftOBjAdIhqA4F) | 3:53 |
 | 42 | [LELELELELELE](https://open.spotify.com/track/5OeZGrFoJWm86V9LnsAM9V) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Vivo En El Tiempo \(ama\)](https://open.spotify.com/album/4vJdLNihwxvQI519SpBAMw) | 2:48 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [estoy sin ti,](https://open.spotify.com/track/6N7NrTVEf1mwDITrx0uHkf) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [estoy sin ti,](https://open.spotify.com/album/3b7QL7uFO2iymFWEWWSTMY) | 3:18 |
 | 55 | [Balandra](https://open.spotify.com/track/1yaqLkM1SZ87dTtVY3ttl6) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [Balandra](https://open.spotify.com/album/1Sr2mLj7B4TZsCK7ABhvJO) | 2:47 |
 | 56 | [Especial](https://open.spotify.com/track/7lbcJvWz26hMYHy7rxeQZa) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Especial](https://open.spotify.com/album/6oxamAhdZqnRIL9UlrlvOB) | 3:18 |
-| 57 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/6pmk2YLMMc7UwykvvZbWGA) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
+| 57 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
 | 58 | [Miercolitros](https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM) | [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Miercolitros](https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2) | 3:14 |
 | 59 | [se fue](https://open.spotify.com/track/1KCz0aKX8syLE5bDxo7jmE) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Náufrago](https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf) | 2:51 |
 | 60 | [Duras](https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Duras](https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3) | 2:39 |

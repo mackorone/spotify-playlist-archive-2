@@ -1177,6 +1177,52 @@
     },
     {
       "album": {
+        "name": "L\u00edngua dos Campe\u00f5es",
+        "url": "https://open.spotify.com/album/0il4gHNUdp6JKdBuUBSg6U"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/20Y0NYvTPR2vBSU8PKClYE"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/2AeSfFJ6Z9s8JyLluONpb5"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/5cZO41do2J58RiKjeub5m4"
+        },
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        },
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/699jDFHxgQymFQOR8jNA55"
+        },
+        {
+          "name": "Sir Scratch",
+          "url": "https://open.spotify.com/artist/2WOhglqsWA8e8ski5Lo8pn"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464853,
+      "name": "L\u00edngua dos Campe\u00f5es",
+      "url": "https://open.spotify.com/track/78l9LaLJ4xGXmOu1Dni0AV"
+    },
+    {
+      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -2596,7 +2642,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 304692,
       "name": "Um Sonho S\u00f3",
       "url": "https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1"

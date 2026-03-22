@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,314 songs - 2 day 2 hr 16 min
+1,315 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Cabin](https://open.spotify.com/track/6xqMwiObEyVRL06sGbkH79) | [Heather Home](https://open.spotify.com/artist/5QMDpXpZo7ZBshqP4v7sI6) | [Cabin](https://open.spotify.com/album/3ScBriWooI4ILcS5cBQKkp) | 2:05 | 2025-09-04 | 2025-09-20 |
 | [Calico Citrus](https://open.spotify.com/track/4lmekINZ116MuKS8lmxwCC) | [Kid Gnasher](https://open.spotify.com/artist/3Qyo0y91QA458PKIuWso2j) | [Calico Citrus](https://open.spotify.com/album/2ctF0am26hNhUGvHjGKsOa) | 2:54 | 2021-11-10 | 2022-06-10 |
 | [Caligo](https://open.spotify.com/track/3tXBdxbIq8aqrB70q5KMTJ) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Caligo](https://open.spotify.com/album/24og9ExkwGCk37GUJ3Sodd) | 2:23 | 2023-04-11 | 2023-09-29 |
+| [Calla Lily](https://open.spotify.com/track/4chbNzhe2t83w6e7leKSJd) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [Calla Lily](https://open.spotify.com/album/1R1MAt4aulqg1xTrCqDYuw) | 2:14 | 2026-03-20 |  |
 | [Calm](https://open.spotify.com/track/7b8typZKTFHbGA1jivtORb) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [Calm](https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8) | 1:58 | 2022-09-16 | 2023-10-06 |
 | [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 | 2024-03-22 |  |
 | [calm the mind](https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [calm the mind](https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S) | 2:22 | 2023-10-13 | 2025-07-16 |
@@ -1150,7 +1151,7 @@
 | [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 | 2024-01-05 | 2025-07-16 |
 | [The Kaleidoscope](https://open.spotify.com/track/22X60sGBAqAMVqxIwZnMko) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Kaleidoscope](https://open.spotify.com/album/6osPfOt5X9epMYvEgtyby6) | 1:59 | 2023-05-19 | 2023-11-18 |
 | [The Last Caress](https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK) | [Nahucast](https://open.spotify.com/artist/5PKH3iR7YxQUrVDeNsAu3S), [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [The Last Caress](https://open.spotify.com/album/04TQTvvd6i65iPy9oJck56) | 2:35 | 2022-07-08 | 2023-10-06 |
-| [The Life](https://open.spotify.com/track/3OHJwtjYZXQ8ls1DM0QeHP) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Life](https://open.spotify.com/album/2Uyc6oW1FZyJpii0JUGFkl) | 1:36 | 2023-04-27 |  |
+| [The Life](https://open.spotify.com/track/3OHJwtjYZXQ8ls1DM0QeHP) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Life](https://open.spotify.com/album/2Uyc6oW1FZyJpii0JUGFkl) | 1:36 | 2023-04-27 | 2026-03-22 |
 | [The Longest Wait](https://open.spotify.com/track/70rBwVFmUELtrzi6jVXOAn) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f) | [The Longest Wait](https://open.spotify.com/album/6rt9u981HzZ1Pv975BVcW9) | 2:10 | 2022-04-15 | 2022-12-10 |
 | [The Moon Knight Delight](https://open.spotify.com/track/7hmn9hSclwOhRyerlbAoV4) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [The Moon Knight Delight](https://open.spotify.com/album/1A1UHJJMY52jg5ut9Mp89w) | 2:16 | 2023-07-13 | 2025-07-16 |
 | [the path back home](https://open.spotify.com/track/5aF6HblsNZ55NGL1TTbrOJ) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [the path back home](https://open.spotify.com/album/5VOrizsbsSM0QlKMAzyd2J) | 2:23 | 2022-04-15 | 2022-07-22 |

@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-113 songs - 7 hr 26 min
+114 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 | 2024-10-19 |
 | [The Liar](https://open.spotify.com/track/1Gv1bR2a9JXnf79yeAhQP9) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/31q4rrYIResXCwBOyDYc7r) | 3:29 | 2025-07-25 | 2025-08-23 |
 | [The Liar](https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp) | 3:29 | 2025-08-23 | 2025-12-08 |
+| [The Liar](https://open.spotify.com/track/4pas3xK08ZIspvzdrxhERj) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [［SKA］SHOWDOWN](https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN) | 3:29 | 2026-03-22 |  |
 | [the PIRATES](https://open.spotify.com/track/6rFQ73J9wbr06uIWc9TfsB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ARKESTRA](https://open.spotify.com/album/6pAxVzwWFh3wennX9UYWgF) | 3:27 | 2026-02-22 | 2026-02-25 |
 | [to live \- feat.LEO](https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [LEO](https://open.spotify.com/artist/09SM0HFZW4tOpELk4yDF6v) | [to live \(feat.LEO\)](https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb) | 5:29 | 2025-11-01 | 2026-02-22 |
 | [Toi Toi](https://open.spotify.com/track/0xVlV62o4SjBzliahwzjsH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Murotsuyoshi](https://open.spotify.com/artist/6y4aciagKq7EfDwuc5O3UK) | [Toi Toi](https://open.spotify.com/album/3yU3LJvb6QlNhEAyfq3siV) | 3:44 | 2025-05-30 | 2025-06-26 |
@@ -77,7 +78,7 @@
 | [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 | 2025-11-01 |
 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 | 2023-12-13 |  |
 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 | 2023-01-14 |  |
-| [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 |  |
+| [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 | 2026-03-22 |
 | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/track/1iclTsAT16fR9MkzBn59PZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [習志野高校吹奏楽部](https://open.spotify.com/artist/5xbDPS7E7ywnv4av18XEd6) | [一日花 feat.imase & 習志野高校吹奏楽部](https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG) | 4:46 | 2024-07-04 |  |
 | [七人だからレインボー \- feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/track/0nJNGvNjuztRFGQWhpnQ7P) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)](https://open.spotify.com/artist/6T10nqb44WT5HRJv0xRsLH) | [七人だからレインボー \[feat\. てれび戦士\(ショウタ・ソニア・マウナ・レイ・ハルト・ミオ・メイ\)\]](https://open.spotify.com/album/4pGPV1cUop8ZSr3JQkJqhb) | 1:33 | 2023-02-05 | 2023-09-19 |
 | [世界地図](https://open.spotify.com/track/2VPXJQa5KK96QVBp3EN2Ou) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Answer](https://open.spotify.com/album/0EY003PIVH4cGYCvOXqzTE) | 4:43 | 2025-12-23 |  |

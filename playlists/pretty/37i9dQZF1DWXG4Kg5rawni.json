@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 114900,
+  "num_followers": 114912,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -851,18 +851,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
+        "name": "Chave do Amor",
+        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
       },
       "artists": [
         {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+          "name": "Kelwin Ramos",
+          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
+        },
+        {
+          "name": "Michely Manuely",
+          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
         }
       ],
-      "duration_ms": 263997,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
+      "duration_ms": 190377,
+      "name": "Chave do Amor",
+      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -883,22 +887,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Chave do Amor",
-        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
       },
       "artists": [
         {
-          "name": "Kelwin Ramos",
-          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
-        },
-        {
-          "name": "Michely Manuely",
-          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
         }
       ],
-      "duration_ms": 190377,
-      "name": "Chave do Amor",
-      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
+      "duration_ms": 263997,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
     },
     {
       "added_at": "2024-07-11 15:58:05",

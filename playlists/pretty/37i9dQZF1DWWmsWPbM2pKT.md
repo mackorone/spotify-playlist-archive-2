@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,329 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,435 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 49 | [Flinch Awake](https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g) | 5:48 |
 | 50 | [Vampiros](https://open.spotify.com/track/4xHULZdhJa6v59tNSWagsh) | [The Slashes](https://open.spotify.com/artist/5zsp4Ssqi2d4miMU9sbYmN) | [Vampiros](https://open.spotify.com/album/7zuzkihb3Ss8toBcEQGO3P) | 2:36 |
 
-Snapshot ID: `AAAAANT8t9rXUTv4sqY8pFG/d+iNEZoo`
+Snapshot ID: `AAAAAPThSE+QdXC/hOCcSvUO/N04+LSv`

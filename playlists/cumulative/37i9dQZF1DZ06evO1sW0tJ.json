@@ -439,6 +439,32 @@
     },
     {
       "album": {
+        "name": "Brahms and His Friends (Kammerchor Berlin)",
+        "url": "https://open.spotify.com/album/3gDVieNOePzO8N1SrWzvUl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Kammerchor Berlin",
+          "url": "https://open.spotify.com/artist/1uesMANco9KJcrpgX4hguq"
+        },
+        {
+          "name": "Stefan Rauh",
+          "url": "https://open.spotify.com/artist/5zlVRhJRnmSbWkyLKlQE9o"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Gemischte Ch\u00f6re No. 1-3: Gondoliera",
+      "url": "https://open.spotify.com/track/5Lp0G0KGqbt4wEyGybRsUp"
+    },
+    {
+      "album": {
         "name": "Nocturnes Part: 4",
         "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
       },

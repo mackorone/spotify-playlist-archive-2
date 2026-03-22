@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 120000,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
@@ -3052,6 +3052,24 @@
       "duration_ms": 136826,
       "name": "CLAIM IT",
       "url": "https://open.spotify.com/track/4H9iZ7RZMP3RI0DcIXNLcW"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/4NXTp3dGCeXZ3DSrdOvUAp"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104698,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/6OFVYQ9GPX8m4tVQ8p7GSx"
     },
     {
       "album": {
@@ -13012,7 +13030,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 201379,
       "name": "R U READY?",
       "url": "https://open.spotify.com/track/2ZshKa5yKsFna7WsBqiGoD"
@@ -17006,7 +17024,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 139331,
       "name": "VI. BRING A LIGHT",
       "url": "https://open.spotify.com/track/0QnjrPQAAvpJJos8z5tY4K"

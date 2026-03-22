@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 377,
+  "num_followers": 381,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABZIiBecO/jEtiL5Vfrl4JklShkmIz",
+  "snapshot_id": "AAABZ4/u9B0ph94EsW/GiKkr/xDUTCRi",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1003,6 +1003,58 @@
       "duration_ms": 324826,
       "name": "Almas Crueles",
       "url": "https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo"
+    },
+    {
+      "added_at": "2026-03-21 02:59:28",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum"
+      },
+      "artists": [
+        {
+          "name": "Liquid Monk",
+          "url": "https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv"
+    },
+    {
+      "added_at": "2026-03-21 03:36:39",
+      "album": {
+        "name": "Fickled",
+        "url": "https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i"
+      },
+      "artists": [
+        {
+          "name": "X-Rated 1994",
+          "url": "https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Fickled",
+      "url": "https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5"
+    },
+    {
+      "added_at": "2026-03-21 17:11:20",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW"
     }
   ],
   "unique_name": "Local Rock Bands",

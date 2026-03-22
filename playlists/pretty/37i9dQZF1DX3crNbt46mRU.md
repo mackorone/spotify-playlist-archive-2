@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Jazeek, Tayc, RAF Camora, Maluma & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,040 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,039 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [Tu vis, t'apprends](https://open.spotify.com/track/6ybtjbboDQn9iAUtaa1AR0) | [Richie Beats](https://open.spotify.com/artist/2wYp4hDPC6rDgn3SCvgqpB), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Tu vis, t'apprends](https://open.spotify.com/album/3fX6SeVM0H6B9LBr8PpxhY) | 2:39 |
 | 46 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 |
 | 47 | [isok](https://open.spotify.com/track/0wcAReLwvaglm6ZbnfPS5s) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [isok](https://open.spotify.com/album/51RrSy9iaD7Fj7CdZVAnBP) | 2:17 |
-| 48 | [Top Frau](https://open.spotify.com/track/6viFYzxJoRuNdf31FRberK) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [prodby7even](https://open.spotify.com/artist/6ujjyPbfFoMFmCqn1jCZjm) | [Top Frau](https://open.spotify.com/album/65AIMeFp7xMJXZLq00Hqjf) | 2:09 |
+| 48 | [Top Frau](https://open.spotify.com/track/6viFYzxJoRuNdf31FRberK) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq), [Y7](https://open.spotify.com/artist/1j2COzZXCbRNSIyhXNUUu5) | [Top Frau](https://open.spotify.com/album/65AIMeFp7xMJXZLq00Hqjf) | 2:09 |
 | 49 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
 | 50 | [Chrugeli Mugeli \(weli Hand wosch\)](https://open.spotify.com/track/1XizTVgiXcE4SwEYoe5sbQ) | [Ritschi](https://open.spotify.com/artist/2lwhoL7iV7hMYAzKy53U2G) | [Chrugeli Mugeli \(weli Hand wosch\)](https://open.spotify.com/album/6eV7cERP7PSuas52QpGQeD) | 2:53 |
 | 51 | [Self Love](https://open.spotify.com/track/6RLmM7sZsHBU8Xf7AHuFjU) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Self Love](https://open.spotify.com/album/1W7Hsbohdsm7E1sPTS12cd) | 2:07 |

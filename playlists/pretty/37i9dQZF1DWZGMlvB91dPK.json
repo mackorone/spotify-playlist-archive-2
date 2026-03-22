@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3884,
+  "num_followers": 3883,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Dressed Like Boys",
-        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 227408,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
-    },
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 212183,
       "name": "3 D\u00c9FAUTS",
       "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Dressed Like Boys",
-        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 301277,
-      "name": "Jaouad",
-      "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "25 EUROS",
         "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 124126,
       "name": "25 EUROS",
       "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 301277,
+      "name": "Jaouad",
+      "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -571,38 +571,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "eye 2 eye",
-        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "eye 2 eye",
-      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "SAM",
-        "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
-      },
-      "artists": [
-        {
-          "name": "ARTICLE15",
-          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
-        }
-      ],
-      "duration_ms": 290002,
-      "name": "SAM",
-      "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 212618,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "SAM",
+        "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "duration_ms": 290002,
+      "name": "SAM",
+      "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "eye 2 eye",
+        "url": "https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "eye 2 eye",
+      "url": "https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "INSURGENCIA",
-        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
-      },
-      "artists": [
-        {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "INSURGENCIA",
-      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Roots (Extended)",
         "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 176899,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "INSURGENCIA",
+        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
+      },
+      "artists": [
+        {
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "INSURGENCIA",
+      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
-      },
-      "artists": [
-        {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
-        }
-      ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "dealing with ghosts",
         "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 121578,
       "name": "outsider",
       "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",

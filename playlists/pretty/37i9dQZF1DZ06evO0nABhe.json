@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11903,
+  "num_followers": 11906,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAAAUyRsssmf0wMHJJB3zAI6X",
+  "snapshot_id": "abyOAAAAAADzdocpwL5eS2hWzhewxbTO",
   "tracks": [
     {
       "added_at": null,
@@ -362,15 +362,11 @@
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO"
+      "duration_ms": 207625,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
     },
     {
       "added_at": null,
@@ -439,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "The Ghost Of You and I",
-      "url": "https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -467,6 +447,22 @@
       "duration_ms": 260285,
       "name": "I Swear I'm Okay",
       "url": "https://open.spotify.com/track/5aytmxtUYILFEJ3XF2YX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "The Ghost Of You and I",
+      "url": "https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma"
     },
     {
       "added_at": null,
@@ -503,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "I'm Alive",
-      "url": "https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -531,6 +511,22 @@
       "duration_ms": 268870,
       "name": "Can Anybody Hear Me",
       "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/2QjfK1p1qzPCq0VRzx74hN"
     },
     {
       "added_at": null,
@@ -571,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -599,6 +579,22 @@
       "duration_ms": 205903,
       "name": "How Can We Go On",
       "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
     },
     {
       "added_at": null,
@@ -635,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Constant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "The Dream Is Over",
-      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -663,6 +643,22 @@
       "duration_ms": 241663,
       "name": "A Part of Me",
       "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Constant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "The Dream Is Over",
+      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
     },
     {
       "added_at": null,

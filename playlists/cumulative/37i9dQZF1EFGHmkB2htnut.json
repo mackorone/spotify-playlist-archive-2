@@ -686,6 +686,24 @@
     {
       "album": {
         "name": "Fumbling Towards Glory",
+        "url": "https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj"
+      },
+      "artists": [
+        {
+          "name": "Katie Pearlman",
+          "url": "https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226762,
+      "name": "Father Figures",
+      "url": "https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0"
+    },
+    {
+      "album": {
+        "name": "Fumbling Towards Glory",
         "url": "https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb"
       },
       "artists": [
@@ -696,7 +714,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 226762,
       "name": "Father Figures",
       "url": "https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q"

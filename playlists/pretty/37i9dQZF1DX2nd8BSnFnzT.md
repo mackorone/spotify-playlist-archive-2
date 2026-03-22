@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,715 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,658 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 49 | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 |
 | 50 | [Camadas](https://open.spotify.com/track/1FJcwfMjSB0HAbSgiv4LJW) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Camadas](https://open.spotify.com/album/3CiqBBWdpsCeEOpUIPE3yz) | 3:48 |
 
-Snapshot ID: `AAAAAMpe54QgsPPGpv9LxTBSH70LA+yH`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

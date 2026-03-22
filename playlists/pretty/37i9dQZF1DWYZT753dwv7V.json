@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103229,
+  "num_followers": 103243,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Miss Nostalgia",
         "url": "https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 244746,
       "name": "Un Giorno Mi Dirai",
       "url": "https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Per Un Milione",
-        "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
-      },
-      "artists": [
-        {
-          "name": "Boomdabash",
-          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
-        }
-      ],
-      "duration_ms": 174615,
-      "name": "Per Un Milione",
-      "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Vado al massimo (Remastered)",
         "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 243866,
       "name": "Vado al massimo",
       "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Per Un Milione",
+        "url": "https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Per Un Milione",
+      "url": "https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Dieci",
-        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 198870,
-      "name": "Dieci",
-      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Nicola Di Bari",
         "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190866,
       "name": "La prima cosa bella",
       "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Dieci",
+        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "Dieci",
+      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "L'ADDIO",
-        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "L'ADDIO",
-      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "I Grandi Successi",
         "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 240933,
       "name": "Ti lascer\u00f2",
       "url": "https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "L'ADDIO",
+        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "L'ADDIO",
+      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
     },
     {
       "added_at": "2026-01-25 23:01:06",

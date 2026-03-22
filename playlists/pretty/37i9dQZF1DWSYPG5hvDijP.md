@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Flyboy S
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,367 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,374 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 14 | [Speeches](https://open.spotify.com/track/3JD4P8JIkhiZdw6dMXlUW9) | [KAI](https://open.spotify.com/artist/5GeTLucYL2FX07U6La3Qzz), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [Speeches](https://open.spotify.com/album/7HG61NwKJWQ6BeFehriI9l) | 3:12 |
 | 15 | [NMC Ka Dagga \(with Prathamesh\)](https://open.spotify.com/track/51pdqv6Vhk8WWqRZzMAuid) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Prathamesh](https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf) | [MAMAFICATION](https://open.spotify.com/album/61p43immTbGdNHL3UBQM84) | 2:58 |
 | 16 | [Gen Z Kaand \(From "Gen Z Kaand"\)](https://open.spotify.com/track/7iAhYWVBraNE8dXaEO1mQZ) | [WHISTLE](https://open.spotify.com/artist/36LhfZLzl4QJvt3SGHkIUr), [Jee Pro Beats](https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz) | [Gen Z Kaand \(From "Gen Z Kaand"\)](https://open.spotify.com/album/0QiONb0XBynIZxp15Ui5Nn) | 1:31 |
-| 17 | [Kinare](https://open.spotify.com/track/3U5GrGFhsBrf8NauaZuvVw) | [Rudra](https://open.spotify.com/artist/44MHzAVFBiPecgQaxHNPxy), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy) | [Rudralok](https://open.spotify.com/album/4X0f9Xz2gDzDkheYWUCI4T) | 2:27 |
+| 17 | [Kinare](https://open.spotify.com/track/3U5GrGFhsBrf8NauaZuvVw) | [Rudra](https://open.spotify.com/artist/44MHzAVFBiPecgQaxHNPxy), [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy) | [Rudralok](https://open.spotify.com/album/4X0f9Xz2gDzDkheYWUCI4T) | 2:27 |
 | 18 | [Peace Of Mind](https://open.spotify.com/track/0XZRXkPzjRet1f32SmY7ro) | [Deazy](https://open.spotify.com/artist/5hcb87REpXppNOImRI2Em6), [Young K](https://open.spotify.com/artist/02wscfdrVgPfE6LhjTKfCn) | [Peace Of Mind](https://open.spotify.com/album/49oJqHzODZDAlR6JwJ4uKw) | 1:53 |
 | 19 | [AAHISTE SE](https://open.spotify.com/track/7DiMZYTI8KAoP5m37kGVWW) | [Dxvta](https://open.spotify.com/artist/3U2Z5soZpnZwLayNCzaQgo), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Nishikar Chhibber](https://open.spotify.com/artist/3FDqE6Uln8DYq40gJ66GUJ) | [AAHISTE SE](https://open.spotify.com/album/1DbT6Se4GvCe5vv7JOFfWS) | 3:48 |
 | 20 | [Daddy's Home](https://open.spotify.com/track/6Wrl4YVAyGD3SLMMNO3D1B) | [PNM](https://open.spotify.com/artist/1Kephmmdzn9A1498IX9u0E), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [Daddy's Home](https://open.spotify.com/album/772dhgTqJ7hAdfXrp3EmFP) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juan Freer, Los Chavalitos
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,274 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,331 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [Invierno En Chihuahua](https://open.spotify.com/track/7vJEYawkKmNTS6VQTalng8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Invierno En Chihuahua](https://open.spotify.com/album/7nTDhZeu856RrlPNA3veNw) | 2:37 |
 | 13 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/1O4bYUXZP5d32vV4c0NeQ1) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/1WMuU4XqJ7skcrMJSIooD4) | 2:44 |
 | 14 | [Mi gran amor](https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [Mi gran amor](https://open.spotify.com/album/35PM69zUdeLkVOvwsl8zWx) | 2:45 |
-| 15 | [Chevrolet 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
+| 15 | [CHEVROLET 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 |
 | 16 | [Miercolitros](https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM) | [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [Miercolitros](https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2) | 3:14 |
 | 17 | [Arisco](https://open.spotify.com/track/1gMRjSYihkq7gJdJp6dpsz) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc) | [Arisco](https://open.spotify.com/album/0NcXk0aPbv95XbMCp00nqS) | 2:34 |
 | 18 | [Mi Cuchicuchi](https://open.spotify.com/track/3iT8MUB4uGfSDJHBrdsQrf) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Mi Cuchicuchi](https://open.spotify.com/album/1gitcOjLieddsIneXMuK2m) | 3:07 |

@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-208 songs - 16 hr 11 min
+210 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Birth Marks](https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 2:42 | 2023-01-09 | 2025-04-03 |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2022-02-11 | 2023-01-10 |
 | [Blues](https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Blues](https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2) | 2:52 | 2025-09-05 |  |
-| [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 | 2025-03-14 |  |
+| [breath under snow](https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM) | [dunsky](https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5), [danvy](https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He) | [snowlight](https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq) | 2:47 | 2026-03-20 |  |
+| [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 | 2025-03-14 | 2026-03-22 |
 | [Buried Above Ground](https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:28 | 2022-02-11 | 2023-01-10 |
 | [burning memories](https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [burning memories](https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5) | 1:38 | 2026-02-27 |  |
 | [burnout](https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE) | [ist](https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [burnout](https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI) | 1:45 | 2026-03-20 |  |
@@ -69,7 +70,7 @@
 | [Eternity](https://open.spotify.com/track/29NbVRFjhjmMf7HzAiU6iW) | [where??](https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL) | [Eternity](https://open.spotify.com/album/09W0CdJ6JTcCu2gM1BHxfN) | 1:40 | 2025-11-06 |  |
 | [Even The Horizon Knows Its Bounds VIII](https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI), [Chris Abrahams](https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK), [Jim O'Rourke](https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f) | [Even The Horizon Knows Its Bounds](https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40) | 4:21 | 2025-02-27 |  |
 | [Fallen Down](https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w) | [Duncan Cox](https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4) | [Fallen Down](https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz) | 2:21 | 2023-01-09 | 2026-03-21 |
-| [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-11-09 |  |
+| [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-11-09 | 2026-03-22 |
 | [father´s love](https://open.spotify.com/track/6F7xtmh542Czm54izE7RIe) | [CADYY](https://open.spotify.com/artist/5XDlNHJnRBdKy3UQofUWNB), [seeparticles](https://open.spotify.com/artist/1lheefsYyfWIxsQ57sgPQE), [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [father´s love](https://open.spotify.com/album/1ComDzN2mFJDpIQv5uVt5E) | 1:33 | 2025-11-06 |  |
 | [fields of forever \- helios rework](https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [drift \(ambient remixes\)](https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH) | 3:49 | 2025-03-14 |  |
 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 | 2025-09-05 |  |
@@ -125,6 +126,7 @@
 | [My Blood Still Whispers](https://open.spotify.com/track/2z5V3tZIVIybDqlGa8uHVe) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 4:27 | 2022-02-11 | 2022-03-18 |
 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 | 2022-02-11 | 2023-01-10 |
 | [my little winter](https://open.spotify.com/track/5q0JkT1BM2vitSVjR6YzZ7) | [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [my little winter](https://open.spotify.com/album/2BRGknJNYI3ThoBZTekbKP) | 3:05 | 2025-06-20 | 2026-03-21 |
+| [Near Silence](https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K) | [knownbyC](https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb) | [Near Silence](https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe) | 3:04 | 2026-03-20 |  |
 | [Nebel](https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Nebel](https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO) | 3:14 | 2026-03-20 |  |
 | [New Dawn Fades \- 2007 Remaster](https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 4:51 | 2022-02-11 | 2023-01-10 |
 | [Night Sculpture \- Deconstructed](https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Bolted \(Deconstructed\)](https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG) | 1:31 | 2025-04-24 |  |

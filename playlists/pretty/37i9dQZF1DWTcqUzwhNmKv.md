@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Poison The Well  are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,948 likes - 82 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641,006 likes - 82 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

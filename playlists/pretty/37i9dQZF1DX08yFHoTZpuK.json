@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 24626,
+  "num_followers": 24680,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
         "name": "Shinichiro Yokota Presents Do It Again and Again",
         "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 366421,
       "name": "Quiet Town of Tokyo",
       "url": "https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-03-09 01:38:41",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
+        "name": "Nulife",
+        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        }
+      ],
+      "duration_ms": 236675,
+      "name": "Nulife",
+      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
         "name": "Attracted to you",
         "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 162711,
       "name": "Attracted to you",
       "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
-        "name": "Nulife",
-        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
-      },
-      "artists": [
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        }
-      ],
-      "duration_ms": 236675,
-      "name": "Nulife",
-      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
     },
     {
       "added_at": "2026-03-09 01:38:41",
@@ -899,22 +899,18 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
-        "name": "Big Love (feat. Liset Alea)",
-        "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
+        "name": "SynthScale",
+        "url": "https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg"
       },
       "artists": [
         {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
-        },
-        {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
         }
       ],
-      "duration_ms": 293170,
-      "name": "Big Love (feat. Liset Alea)",
-      "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
+      "duration_ms": 319452,
+      "name": "SynthScale",
+      "url": "https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b"
     }
   ],
   "unique_name": "Tokyo Club Beat",

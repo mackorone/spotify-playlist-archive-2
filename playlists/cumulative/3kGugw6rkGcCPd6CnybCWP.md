@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-238 songs - 13 hr 51 min
+242 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 |  |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 |  |
+| [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 |  |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
 | [Atychiphobia](https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Atychiphobia](https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc) | 3:44 | 2026-03-09 |  |
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 | 2026-01-17 |
@@ -103,6 +104,7 @@
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-02-28 |  |
 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-23 | 2026-03-20 |
 | [holdingontosafety](https://open.spotify.com/track/4OJBealebm7hhRuyj2xGyt) | [vixxen](https://open.spotify.com/artist/3qkdIvVd0yfwaW8VxHHxdE) | [holdingontosafety](https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR) | 2:42 | 2025-10-28 | 2025-12-12 |
+| [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 | 2026-03-21 |  |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-02-08 |  |
 | [I Gave It All For You](https://open.spotify.com/track/0I2olXnVSONShdDVSZmofa) | [Will Sims](https://open.spotify.com/artist/4VqIqqCAubwTlYYIQ2baD5) | [I Gave It All For You](https://open.spotify.com/album/5eiIXuyFyUmzcFQwbjhOFC) | 3:49 | 2026-03-10 |  |
 | [I Heard You](https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA) | [Moonsette](https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF) | [Invisible Chameleon](https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx) | 5:15 | 2026-02-09 |  |
@@ -174,6 +176,7 @@
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 |  |
 | [Serene](https://open.spotify.com/track/2n3tPMnCBMR7d1uZxrUtqT) | [Redam](https://open.spotify.com/artist/0KfO6Tzsb8sOkQ84khWyrd) | [Serene](https://open.spotify.com/album/4HyhWK0yZzMSiL1d0GNSfQ) | 3:23 | 2025-11-11 | 2026-01-17 |
+| [Sevacabar](https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Sevacabar](https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm) | 2:50 | 2026-03-21 |  |
 | [Shadows on the floor](https://open.spotify.com/track/5527T3ToohQ1PYWneOj7lF) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Shadows on the floor](https://open.spotify.com/album/4ACvbc2kkeyXHb1QC1pK56) | 3:28 | 2026-01-12 | 2026-02-20 |
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 | 2026-03-20 |
@@ -209,6 +212,7 @@
 | [They Hate The Truth](https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx) | [Sasha Jay](https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1) | [They Hate The Truth](https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1) | 1:58 | 2026-03-02 |  |
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |
+| [togher](https://open.spotify.com/track/5Fmqxc6IvItrprHWLpEVc9) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [togher](https://open.spotify.com/album/1ReFEzctIfWYIzbUidlBNT) | 3:15 | 2026-03-21 |  |
 | [Too much to ask](https://open.spotify.com/track/1wqGxEXFzZxEckptMEzwfv) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Too much to ask](https://open.spotify.com/album/6NG3y8XWY1jd2HxuOonYpY) | 4:43 | 2026-03-10 |  |
 | [Toujours Avec Toi](https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [Toujours Avec Toi](https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW) | 1:41 | 2026-02-02 | 2026-03-10 |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2026-01-25 | 2026-03-10 |

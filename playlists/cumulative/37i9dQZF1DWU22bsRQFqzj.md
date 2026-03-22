@@ -2,7 +2,7 @@
 
 ### [Hit Per Correre](https://open.spotify.com/playlist/37i9dQZF1DWU22bsRQFqzj)
 
-> Sei nella tua running era e stai preparando la tua prossima mezza maratona 🏃🏻
+> Sei nella tua running era e stai preparando a tua prossima mezza maratona 🏃🏻
 
 171 songs - 8 hr 20 min
 

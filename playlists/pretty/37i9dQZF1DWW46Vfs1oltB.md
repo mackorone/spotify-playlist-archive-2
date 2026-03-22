@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > J\-Tong & Hukky Shibaseki’s Top 10 Hip\-Hop Picks\. Catch them first at the top!
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,479 likes - 113 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,567 likes - 113 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

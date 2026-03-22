@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,190 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,186 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 | 7 | [The Kid](https://open.spotify.com/track/0G2QtlKCKNVjWV0qqaUehK) | [MISFIT](https://open.spotify.com/artist/78iiCm3WRr7dbhidSiH5wn) | [Life Is A Wreck](https://open.spotify.com/album/0PJylfQ4Uq7AYWiCnTHx2R) | 3:39 |
 | 8 | [I Know](https://open.spotify.com/track/1UNIoNxqJlhcUYZzRys7mu) | [Janine the Machine](https://open.spotify.com/artist/5e7kpnFCxD159HQyi1NyrF) | [I Know](https://open.spotify.com/album/72q556evH5PI7Wg9vI8DMV) | 2:55 |
 | 9 | [Money Life](https://open.spotify.com/track/1lxaKXyIxvmc9j9WvzdZ5o) | [B\. Stew](https://open.spotify.com/artist/6lRbYRYUPBEmPQMuzPQDjb) | [Money Life](https://open.spotify.com/album/5vz5BzTmhhKL0XV1o8P6Ep) | 2:12 |
-| 10 | [Glamorous](https://open.spotify.com/track/1V8AZk8VG8qksb9mKgxTuR) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess \(Deluxe\)](https://open.spotify.com/album/0g336nNDHGyTBZ0SJozURt) | 4:06 |
+| 10 | [Glamorous](https://open.spotify.com/track/1V8AZk8VG8qksb9mKgxTuR) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/0g336nNDHGyTBZ0SJozURt) | 4:06 |
 | 11 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 12 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
 | 13 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |

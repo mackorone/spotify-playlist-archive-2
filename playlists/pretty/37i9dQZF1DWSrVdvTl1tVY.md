@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,541 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,560 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 23 | [Ride](https://open.spotify.com/track/16M3MyMIPvRdOHGeeHHuq6) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Ride](https://open.spotify.com/album/5gLWvBzFKr7kZm2EcUaCQK) | 2:50 |
 | 24 | [After Five](https://open.spotify.com/track/0EW1GSsCSgQ9npkDtbLn5B) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [After Five](https://open.spotify.com/album/0eeTVhPSUs6M5kCLEfT6UG) | 3:13 |
 | 25 | [Just Like That](https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Just Like That EP](https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3) | 3:23 |
-| 26 | [Professor X](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
+| 26 | [Professor X feat\. Rusko](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
 | 27 | [Freaky](https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Freaky](https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC) | 2:00 |
 | 28 | [Warawara](https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Warawara](https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK) | 3:39 |
 | 29 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 |

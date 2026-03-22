@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,259 likes - 90 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,434 likes - 90 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 54 | [Acido](https://open.spotify.com/track/7AC11mYcOdZk58gfjGXqj2) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Acido](https://open.spotify.com/album/47Q7qUponqCNN16ivl3w3G) | 5:16 |
 | 55 | [Chanji](https://open.spotify.com/track/0JWNZUUdtsve3VvAVNgqcx) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Chanji](https://open.spotify.com/album/1hIhXKDt6u9KHEI6oIfLr4) | 3:36 |
 | 56 | [A Piece Of The Sun](https://open.spotify.com/track/0ZQ1OW46MFTyg8gsfw712o) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [A Piece Of The Sun](https://open.spotify.com/album/1y8BCSfSWZT5RDv2KmPIDY) | 3:27 |
-| 57 | [Feel Again](https://open.spotify.com/track/0l5epoiVK3GMiPhdc1XxuX) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL), [Amyelle](https://open.spotify.com/artist/2OkOxH50qnuqSA5wNy71Vh) | [Feel Again](https://open.spotify.com/album/5ZUFJ4z4aBBeXeyM2oqs65) | 4:27 |
+| 57 | [Feel Again](https://open.spotify.com/track/0l5epoiVK3GMiPhdc1XxuX) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL), [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Feel Again](https://open.spotify.com/album/5ZUFJ4z4aBBeXeyM2oqs65) | 4:27 |
 | 58 | [Easy To Love](https://open.spotify.com/track/0LeJe4yOEYKmKwNsSmm3yW) | [Beneau](https://open.spotify.com/artist/2ztkAFf74F4SvOiqG1FyPO) | [Easy To Love](https://open.spotify.com/album/7FyUhIxPN8Zjcy1Eo8JsW1) | 4:05 |
 | 59 | [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 |
 | 60 | [Dharma](https://open.spotify.com/track/1qGVUsQXVTh0YIBISmXYoK) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Dharma](https://open.spotify.com/album/6fn03BixBQ6hpSZ4Yw3uDY) | 3:29 |

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "anything today",
+        "url": "https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212083,
+      "name": "anything today",
+      "url": "https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ"
+    },
+    {
+      "album": {
         "name": "Ask Me Why",
         "url": "https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H"
       },
@@ -1739,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "Hoping to Find",
+        "url": "https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu"
+      },
+      "artists": [
+        {
+          "name": "Empty Melon",
+          "url": "https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq"
+        },
+        {
+          "name": "Samson Wrote",
+          "url": "https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Hoping to Find",
+      "url": "https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX"
+    },
+    {
+      "album": {
         "name": "i chose (you)",
         "url": "https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc"
       },
@@ -3025,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Sevacabar",
+        "url": "https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm"
+      },
+      "artists": [
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170772,
+      "name": "Sevacabar",
+      "url": "https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P"
+    },
+    {
+      "album": {
         "name": "Shadows on the floor",
         "url": "https://open.spotify.com/album/4ACvbc2kkeyXHb1QC1pK56"
       },
@@ -3664,6 +3722,24 @@
       "duration_ms": 189600,
       "name": "Today's Quest",
       "url": "https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If"
+    },
+    {
+      "album": {
+        "name": "togher",
+        "url": "https://open.spotify.com/album/1ReFEzctIfWYIzbUidlBNT"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195051,
+      "name": "togher",
+      "url": "https://open.spotify.com/track/5Fmqxc6IvItrprHWLpEVc9"
     },
     {
       "album": {

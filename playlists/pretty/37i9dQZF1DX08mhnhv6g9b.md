@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,972,927 likes - 311 songs - 18 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,985,728 likes - 311 songs - 18 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Saahel, Mary Ann Alexander and other exciting artists.
 
-1,381 songs - 3 day 3 hr 35 min
+1,382 songs - 3 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,7 @@
 | [Laage Re](https://open.spotify.com/track/0xVIhYZR0407dviqiPIUk6) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Laage Re](https://open.spotify.com/album/6x1vRmmbWzbMJEsYT9vI0d) | 3:01 | 2024-11-15 | 2025-02-08 |
 | [Laajawaab](https://open.spotify.com/track/2V90ZHV7HNl43uhoQmxVbQ) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Laajawaab](https://open.spotify.com/album/0ygPSooD4DA84KQ0cMdq3h) | 3:33 | 2024-11-08 | 2025-01-11 |
 | [Laayee Mohabbat](https://open.spotify.com/track/1j0WqABtu73oIgtqzGIiP4) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA), [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Laayee Mohabbat](https://open.spotify.com/album/334JZbhqXvJUdSDzXph9DN) | 3:07 | 2024-01-05 | 2024-03-02 |
-| [Laazmi](https://open.spotify.com/track/0d07oPdlPcKylURFlOZq42) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Aditya Shukla](https://open.spotify.com/artist/7CKdspuanobuVT7DzmbgYD) | [Laazmi](https://open.spotify.com/album/30uU2FImKGjdCo3LVwUaKt) | 3:34 | 2026-02-06 |  |
+| [Laazmi](https://open.spotify.com/track/0d07oPdlPcKylURFlOZq42) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Aditya Shukla](https://open.spotify.com/artist/7CKdspuanobuVT7DzmbgYD) | [Laazmi](https://open.spotify.com/album/30uU2FImKGjdCo3LVwUaKt) | 3:34 | 2026-02-06 | 2026-03-22 |
 | [Labon Se Baat](https://open.spotify.com/track/5xDzqvgJ47x3VDRQFGiVwf) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Rishabh Sharma](https://open.spotify.com/artist/6pIt9fhft1vssrtmZEM8yt) | [Labon Se Baat](https://open.spotify.com/album/4tJ5Gyq9I2RjYGcLc5Qz0D) | 4:00 | 2023-07-07 | 2023-08-11 |
 | [Lahore](https://open.spotify.com/track/2eQS6aADRwNqD5gQOF3mE6) | [Derick Nathaniel](https://open.spotify.com/artist/0vuKv6FklSPpoxyim3g1Z2), [Abhineet Singh Rathore](https://open.spotify.com/artist/1NJqH9pc27bYwTk5opCKL9) | [Lahore](https://open.spotify.com/album/5P33hIlm8z1LpMMTcMmyxq) | 4:18 | 2024-06-07 | 2024-07-06 |
 | [Lakh Chhabi](https://open.spotify.com/track/77stWOSGaJjzoCB3DvNOqe) | [Saudur](https://open.spotify.com/artist/2mg1YLOST3mNhhkP60Ni4I), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Lakh Chhabi](https://open.spotify.com/album/3eLkM77EeQScjkKjy9fTMb) | 2:15 | 2024-02-09 | 2024-03-09 |
@@ -1043,6 +1043,7 @@
 | [Saahiba](https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Saahiba](https://open.spotify.com/album/7mlb1stM6vE1g4vtHn0GBG) | 3:15 | 2024-01-12 | 2024-06-15 |
 | [Saaiyaan Ve](https://open.spotify.com/track/6gtd37ycQvDNh3tEKRnQdS) | [Abhishek Mathur](https://open.spotify.com/artist/2Mmj7hDaEvH6HhlUYKo3a3), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Saaiyaan Ve](https://open.spotify.com/album/6Crw6Uzyvt4FJ4ayhYgptR) | 3:00 | 2025-06-27 | 2025-07-06 |
 | [Saajan](https://open.spotify.com/track/7DlJqM9YWWBBx3HvqnrssC) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Saajan](https://open.spotify.com/album/1jvGQ2YVEBh1CjGT9bpf1u) | 3:43 | 2026-02-20 |  |
+| [Saajha Hua](https://open.spotify.com/track/7Ieqax5pQQmVB87IuvpS37) | [Sukrit Srivastava](https://open.spotify.com/artist/4fL2GzLhtLrapqKaYaRDj5), [Bhawnaa](https://open.spotify.com/artist/5nkoN9c6RPk5sBFByfpbLq), [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Saajha Hua](https://open.spotify.com/album/1NKhmTR9rxeXXFqOT3L3N9) | 3:22 | 2026-03-20 |  |
 | [Saajna](https://open.spotify.com/track/6pZa09ix3b8neGcd2npWVx) | [Ramya Ramkumar](https://open.spotify.com/artist/5mZttQqxgmGllfUyl4LSmQ) | [Saajna](https://open.spotify.com/album/60TbH0VAHFH6y6cat7rAuN) | 2:33 | 2026-02-06 |  |
 | [Saalo Se](https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Saalo Se](https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p) | 2:41 | 2024-09-13 | 2024-10-04 |
 | [Saans Bharlu](https://open.spotify.com/track/0mKEM8JHj0GfFcstcASLqb) | [Raghvansh](https://open.spotify.com/artist/5GmdJXkk970lvGZ94UNBSl) | [Saans Bharlu](https://open.spotify.com/album/6WSjY7WP5xxG8gojnmjnEQ) | 3:17 | 2026-01-30 |  |

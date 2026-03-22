@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 2,072 songs - 5 day 3 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 2,074 songs - 5 day 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2080,5 +2080,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2070 | [Place of Gods](https://open.spotify.com/track/7vNAnwOPK4NjIZRShR9iv9) | [SHA\-N](https://open.spotify.com/artist/06WMwT5suuRVkNuADN1nJ7) | [5TH DIMENSION](https://open.spotify.com/album/2raSu29sR5ZtJDTeOZEZJ0) | 4:12 |
 | 2071 | [Pizza Margherita](https://open.spotify.com/track/4kgnunK2B5xNufsIe8LOMX) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Margherita](https://open.spotify.com/album/4Hh5YJKxTxrKu2Nab4mhJz) | 2:10 |
 | 2072 | [Coffee in London](https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in London](https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR) | 3:18 |
+| 2073 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 |
+| 2074 | [Shifting Sands](https://open.spotify.com/track/2j2KYoqL7VYecE4sMngorf) | [Demy DeLee](https://open.spotify.com/artist/0Wp2MufD7Cprl4Xf2JQMIz) | [Shifting Sands](https://open.spotify.com/album/7MCrmOgAHpZ8pAm9f33dJO) | 2:45 |
 
-Snapshot ID: `AAAIsNPdDvHPHMxjFRdmlnE5yPSEpuRw`
+Snapshot ID: `AAAIsojpLsrj62sD5wi8D1Y8XjmG6Owj`

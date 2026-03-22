@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "BARRAS MUERTAS VOLUMEN I Bombazos y drones",
+        "url": "https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ"
+      },
+      "artists": [
+        {
+          "name": "YWES VETERANO",
+          "url": "https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "BARRAS MUERTAS VOLUMEN I Bombazos y drones",
+      "url": "https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd"
+    },
+    {
+      "album": {
         "name": "Basic",
         "url": "https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo"
       },

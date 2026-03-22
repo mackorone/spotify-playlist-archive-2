@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "4YOU",
+        "url": "https://open.spotify.com/album/7jrzbw5xB8LFzxxL3nwJCb"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "4YOU",
+      "url": "https://open.spotify.com/track/1AEcnXDp6GjkF5mXOugTpQ"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
       },
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 210882,
       "name": "Atlantida",
       "url": "https://open.spotify.com/track/72FKwR02VdXr9XfXVQWXli"
@@ -15536,7 +15554,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 187500,
       "name": "EMMONI IDEA",
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
@@ -19336,7 +19354,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 204950,
       "name": "G63",
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
@@ -20146,7 +20164,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 246575,
       "name": "Gi Kai Nero",
       "url": "https://open.spotify.com/track/7jFbtTjXDTlENzB2iz6Smo"
@@ -20862,6 +20880,32 @@
       "duration_ms": 290705,
       "name": "Gjenovese",
       "url": "https://open.spotify.com/track/3Ip0y9quoAD4VdUkcdHWSz"
+    },
+    {
+      "album": {
+        "name": "GKD",
+        "url": "https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "GKD",
+      "url": "https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP"
     },
     {
       "album": {
@@ -22284,7 +22328,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 165282,
       "name": "Hey Shawty",
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
@@ -23566,7 +23610,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -24294,7 +24338,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 184598,
       "name": "Isos Isoun Kiria",
       "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
@@ -34626,7 +34670,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -41128,7 +41172,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 215937,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
@@ -42048,7 +42092,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Primo",
       "url": "https://open.spotify.com/track/484mTE7ETTJk74VKjTTI5f"
@@ -44941,6 +44985,24 @@
     },
     {
       "album": {
+        "name": "SANKARA",
+        "url": "https://open.spotify.com/album/40pMN8dHtoda3RaBBTf2ma"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150879,
+      "name": "SANKARA",
+      "url": "https://open.spotify.com/track/0YJSqoXGkJrnUgV9t8ln4e"
+    },
+    {
+      "album": {
         "name": "CAPO DEI CAPI",
         "url": "https://open.spotify.com/album/2Oz75fOLIhUkl7xySEZk9t"
       },
@@ -45370,7 +45432,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 233541,
       "name": "Seismos",
       "url": "https://open.spotify.com/track/0YED8m2TmqI9tocplU7ewQ"
@@ -46440,7 +46502,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 235200,
       "name": "Skies",
       "url": "https://open.spotify.com/track/0w1M4JqhbPFMW4TMbaiWF0"
@@ -49292,7 +49354,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 245000,
       "name": "Ta Sinefa Fevgoune",
       "url": "https://open.spotify.com/track/1IVcazKvyOgGf6XiI6UO2p"
@@ -54712,7 +54774,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
@@ -56334,7 +56396,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 226178,
       "name": "Xroma",
       "url": "https://open.spotify.com/track/5kejrAFX0IN2dm6VEg5Nj4"

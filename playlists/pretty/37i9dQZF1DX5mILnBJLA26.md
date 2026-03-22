@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: LeeMcKrazy, QuayR Musiq
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,523 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,135 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax) | [Dj Smallz](https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM), [ZinedinexSguche](https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39) | 5:08 |
-| 2 | [Mopepe](https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x) | [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt) | 4:32 |
+| 2 | [Mopepe](https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x) | [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt) | 4:32 |
 | 3 | [Nkosi Yomhlaba \(feat\. Tman Xpress\)](https://open.spotify.com/track/21kmOn1UCTk1QT4W0gy8MP) | [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Macala](https://open.spotify.com/album/69M9DFx8dITCjSYZAkKyQb) | 5:31 |
 | 4 | [AmaRider](https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp) | [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Officixl RSA](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv) | [AmaRider](https://open.spotify.com/album/6swCK9UtZeTTl96vYWp5Td) | 4:06 |
 | 5 | [Khanya Njalo](https://open.spotify.com/track/6cOCBVXd40NIaEMKYnj1ry) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl) | [Khanya Njalo](https://open.spotify.com/album/5jmUhicDMhaeYIacw2NpQf) | 8:29 |

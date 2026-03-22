@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,403 likes - 54 songs - 2 hr 49 min
+[tuff house music](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 15,407 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 |
-| 2 | [Professor X](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
+| 2 | [Professor X feat\. Rusko](https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Professor X](https://open.spotify.com/album/3bAZ6M5SvQBqhiPaoBmzEI) | 2:45 |
 | 3 | [Get Stupid](https://open.spotify.com/track/4SlGZwTjgOXjOK7Pqw7xGW) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Get Stupid](https://open.spotify.com/album/0pKkWIJvzspCKrd81ztjpN) | 3:10 |
 | 4 | [Go Deep](https://open.spotify.com/track/2eKTlpPoUDSZkxrMgUVMkU) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Go Deep](https://open.spotify.com/album/5603mFkdEKzWAD9eXMgdn6) | 3:21 |
 | 5 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |

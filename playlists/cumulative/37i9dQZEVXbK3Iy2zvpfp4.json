@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 102666,
       "name": "6 Little Eggs",
       "url": "https://open.spotify.com/track/5TKlp6Wjqdi0XjK78jTRAU"
@@ -7274,6 +7274,24 @@
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
+      "album": {
+        "name": "Caribe Mix 2020",
+        "url": "https://open.spotify.com/album/7HF9K66wV02mg2vBa52YBq"
+      },
+      "artists": [
+        {
+          "name": "As Tequileiras do Funk",
+          "url": "https://open.spotify.com/artist/0U6hvUluJi171VXiY3oU9E"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "Bass da da da (Sentad\u00e3o)",
+      "url": "https://open.spotify.com/track/3zroO4K2iA1NUE47GrLTGQ"
     },
     {
       "album": {
@@ -25830,6 +25848,28 @@
       "duration_ms": 144057,
       "name": "Gerard",
       "url": "https://open.spotify.com/track/5Wq2dXRkrrBcXIVaU7cejY"
+    },
+    {
+      "album": {
+        "name": "Get a Grip",
+        "url": "https://open.spotify.com/album/0DjGpdiWSwRts2Az0DebnE"
+      },
+      "artists": [
+        {
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Get a Grip",
+      "url": "https://open.spotify.com/track/0QzlVsUCN8UMPBmVNX7PVS"
     },
     {
       "album": {
@@ -54790,7 +54830,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 280033,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"

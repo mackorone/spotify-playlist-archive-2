@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Sleeping With Sirens
 
-867 songs - 2 day 1 hr 14 min
+868 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Cardinal In The Crossfire](https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cardinal In The Crossfire](https://open.spotify.com/album/6zWgy4sI3UGqFTp7t4dK2w) | 2:45 | 2025-10-30 | 2026-01-15 |
 | [carnage](https://open.spotify.com/track/1WzuEQ4Iwk1YdclU7KS7AI) | [Neumatic Parlo](https://open.spotify.com/artist/77osebGi21LV8GCNEzMYoO) | [carnage](https://open.spotify.com/album/3Mx4yeCppE8MhqT4SWxUui) | 3:39 | 2024-07-18 | 2024-07-27 |
 | [Casanova \- From Beyond The Abyss](https://open.spotify.com/track/6pvdo88IZIAQWfr5HafNRa) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Casanova \(From Beyond The Abyss\)](https://open.spotify.com/album/5ypY8X5KX7aGi2PuJVGz1G) | 3:44 | 2024-11-14 | 2024-11-22 |
+| [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-03-19 |  |
 | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It \(with Chrissy Costanza & Against The Current\)](https://open.spotify.com/album/1Z3anSUKuHtWWhasVAjNQW) | 2:57 | 2024-06-27 | 2024-09-28 |
 | [Cave Paintings](https://open.spotify.com/track/3pkVuZ4EX04NWRMpAd99rj) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Cave Paintings](https://open.spotify.com/album/0hWOeINsQC8GHkqguguiE8) | 4:00 | 2024-08-19 | 2024-08-23 |
 | [Chaos](https://open.spotify.com/track/4RPgbrUEf2PxdGbVXhmUtS) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [Chaos](https://open.spotify.com/album/7rcx1QnEq6VoSxkNMpfuqn) | 3:24 | 2024-11-21 | 2024-11-29 |
@@ -329,7 +330,7 @@
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-15 | 2025-06-20 |
 | [Growing Numb](https://open.spotify.com/track/2BgO2kaEPZOL0LDEPubOEF) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Soft Noise](https://open.spotify.com/album/3NhMG4t5Jt8fKwGEXeXc1A) | 3:59 | 2024-11-28 | 2024-12-13 |
 | [Grown Up](https://open.spotify.com/track/7Dp9v2Z4X8coGY1r36tJmt) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [Grown Up](https://open.spotify.com/album/2Fxdg9fTIT0tSL6mF820Y7) | 1:45 | 2025-09-11 | 2025-09-19 |
-| [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 | 2025-12-04 |  |
+| [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 | 2025-12-04 | 2026-03-22 |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-06 | 2025-12-21 |
 | [H3ART](https://open.spotify.com/track/2HwyEx4K2GQgd6qeHHwW2G) | [Generation.F](https://open.spotify.com/artist/7GeVC42xynFBkB6k4R5upa) | [H3ART](https://open.spotify.com/album/3mWCpFJ6BCujuMNFHBlLzd) | 3:41 | 2024-08-08 | 2024-08-20 |
 | [Halfway Famous](https://open.spotify.com/track/19gWJsiVulKfzXFvP4LQS7) | [No Soul Society](https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS) | ["This Isn't Real" Mixtape](https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ) | 3:21 | 2025-08-29 | 2025-09-06 |
@@ -543,7 +544,7 @@
 | [Not in a Lifetime](https://open.spotify.com/track/7MbV4ZUzUr3y19tO1Rq0DL) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [Not in a Lifetime](https://open.spotify.com/album/1tXDdPahIMhDjCuSaih1pP) | 3:06 | 2025-07-24 | 2025-08-01 |
 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-25 | 2025-10-24 |
 | [Not your Misery](https://open.spotify.com/track/3goGM8arLfU7kj3HqkCtAj) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [Not your Misery](https://open.spotify.com/album/19V5E11dqBnSzkTrOhE4KS) | 3:41 | 2025-10-23 | 2025-10-31 |
-| [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-10 |  |
+| [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 | 2025-07-10 | 2026-03-22 |
 | [Nothing Higher](https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Nothing Higher](https://open.spotify.com/album/2CKRl8oInSLvpurqiBkY5u) | 4:49 | 2024-12-19 | 2025-01-31 |
 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 | 2024-06-27 | 2024-07-13 |
 | [Obey](https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Obey](https://open.spotify.com/album/4w6LmidRk4Joz88AojOfBb) | 3:04 | 2024-11-14 | 2024-11-22 |
@@ -804,7 +805,7 @@
 | [Unhappy Hour \(with Weathers\)](https://open.spotify.com/track/4Rcte2OZhcYAAXFopuqxxe) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Unhappy Hour \(with Weathers\)](https://open.spotify.com/album/24XAIeZ1xI2lbBVWa5JC28) | 3:14 | 2025-04-03 | 2025-06-13 |
 | [Unicorns](https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu) | [257ers](https://open.spotify.com/artist/6ihLfpY3cmdGyWEnItn30w), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Freundschaft Plus](https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30) | 3:34 | 2025-05-30 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-04-25 |
-| [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 | 2026-03-20 |
+| [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 |  |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-24 |  |
 | [Up All Night](https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Up All Night](https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK) | 3:07 | 2025-07-17 | 2025-07-25 |

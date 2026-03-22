@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1276,
+  "num_followers": 1278,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAMwrMXjomVX6+9Hun/f8zS8HwOUiPZ",
+  "snapshot_id": "AAAMyb44oDs86ummj1Gs0sZUWjbEaNRe",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,22 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-03-22 01:34:34",
+      "album": {
+        "name": "Pluto Presents ULTRAVIOLENCE",
+        "url": "https://open.spotify.com/album/1K1vyxbZlzSMZPkurkHyke"
+      },
+      "artists": [
+        {
+          "name": "Kris Vango",
+          "url": "https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT"
+        }
+      ],
+      "duration_ms": 145377,
+      "name": "Shahanshah",
+      "url": "https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv"
     },
     {
       "added_at": "2026-03-20 15:40:14",
@@ -2131,22 +2147,6 @@
       "duration_ms": 175760,
       "name": "Probably Happy",
       "url": "https://open.spotify.com/track/5ov1Zo9UzfzFb0wquoz21L"
-    },
-    {
-      "added_at": "2026-02-18 08:08:32",
-      "album": {
-        "name": "Tokyo Ghost",
-        "url": "https://open.spotify.com/album/3isxaXcxV9mh7ETSnASBMr"
-      },
-      "artists": [
-        {
-          "name": "Black and White Rewrite",
-          "url": "https://open.spotify.com/artist/6ZlWrpdvGhFOvEgwGltKMr"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "Tokyo Ghost",
-      "url": "https://open.spotify.com/track/1Ng1SGItRX9ryuN2nVC0MF"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -4609,6 +4609,22 @@
       "url": "https://open.spotify.com/track/4lVunDYuBoGAfqhaa1IwXg"
     },
     {
+      "added_at": "2026-03-21 21:23:23",
+      "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/6ModzEOV5boLhHMXbRUxeS"
+      },
+      "artists": [
+        {
+          "name": "Lo Que Nunca Fuimos",
+          "url": "https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "Mi Destino",
+      "url": "https://open.spotify.com/track/21dnZ7A04HMkDp1yfh5bEm"
+    },
+    {
       "added_at": "2026-03-18 14:46:08",
       "album": {
         "name": "Ghost Track",
@@ -4705,6 +4721,22 @@
       "url": "https://open.spotify.com/track/5HDTIaxcV9fqno3TCTiWzl"
     },
     {
+      "added_at": "2026-03-21 21:21:18",
+      "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/6ModzEOV5boLhHMXbRUxeS"
+      },
+      "artists": [
+        {
+          "name": "Lo Que Nunca Fuimos",
+          "url": "https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI"
+        }
+      ],
+      "duration_ms": 115170,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/3dXXuUutyqXtk5SKGElBel"
+    },
+    {
       "added_at": "2026-03-20 22:20:08",
       "album": {
         "name": "We Need To Talk",
@@ -4783,6 +4815,22 @@
       "duration_ms": 195200,
       "name": "Ex Girlfriend",
       "url": "https://open.spotify.com/track/0AQI31tqemLkId6uicuVYh"
+    },
+    {
+      "added_at": "2026-03-21 21:22:52",
+      "album": {
+        "name": "Selva Oscura",
+        "url": "https://open.spotify.com/album/6ModzEOV5boLhHMXbRUxeS"
+      },
+      "artists": [
+        {
+          "name": "Lo Que Nunca Fuimos",
+          "url": "https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Lonko Miguel",
+      "url": "https://open.spotify.com/track/1OEuk6QrCzksjrnT7vb9LZ"
     },
     {
       "added_at": "2026-03-20 14:50:13",
@@ -4923,6 +4971,38 @@
       "duration_ms": 278620,
       "name": "higher",
       "url": "https://open.spotify.com/track/6qg7kcIeVMsGCBVFo9jMwb"
+    },
+    {
+      "added_at": "2026-03-21 21:20:49",
+      "album": {
+        "name": "Paloma",
+        "url": "https://open.spotify.com/album/1D3LUKlCurWpO7LlWovGIL"
+      },
+      "artists": [
+        {
+          "name": "Lo Que Nunca Fuimos",
+          "url": "https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI"
+        }
+      ],
+      "duration_ms": 108640,
+      "name": "Palestina",
+      "url": "https://open.spotify.com/track/3YorwdZxIXL0Q6ZeZ3sems"
+    },
+    {
+      "added_at": "2026-03-21 21:28:25",
+      "album": {
+        "name": "Lumen Del Mundo",
+        "url": "https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H"
+      },
+      "artists": [
+        {
+          "name": "23 And Beyond The Infinite",
+          "url": "https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW"
+        }
+      ],
+      "duration_ms": 198948,
+      "name": "Horsedance",
+      "url": "https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm"
     }
   ],
   "unique_name": "Shuffle Roulette",

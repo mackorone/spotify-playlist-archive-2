@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,644 likes - 200 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,874 likes - 200 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 199 | [Triangle](https://open.spotify.com/track/2focDSimk8PEiXaWdutQXR) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Triangle](https://open.spotify.com/album/5pFdclbTNaNJbFZXWpmtd0) | 2:48 |
 | 200 | [Calm Lunar](https://open.spotify.com/track/6SUhLox7Th2ve68hiMwivd) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Calm Lunar](https://open.spotify.com/album/3isZtrMCSlbxhOpJnxPDgf) | 2:30 |
 
-Snapshot ID: `AAAAAPmQQkoJ1tXd0J65kPNfnwmoQX+q`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

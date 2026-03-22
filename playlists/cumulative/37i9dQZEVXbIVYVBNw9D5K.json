@@ -5451,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13"
       },
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 155426,
       "name": "Bu G\u00fcn Bayram",
       "url": "https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2"
@@ -11508,7 +11526,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
@@ -12084,7 +12102,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 135459,
       "name": "HANIMEFEND\u0130",
       "url": "https://open.spotify.com/track/6jQHBTdXEUx7LDjrkEiCax"
@@ -12936,7 +12954,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 142680,
       "name": "herkes kendine yak\u0131\u015fan\u0131 yaps\u0131n",
       "url": "https://open.spotify.com/track/38evhex5V6BPZumBToe7SY"
@@ -13218,6 +13236,24 @@
       "duration_ms": 111901,
       "name": "HONG KONG",
       "url": "https://open.spotify.com/track/4FiDkc2woxfDbfCoSqx6pq"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182046,
+      "name": "Hooligan",
+      "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
       "album": {
@@ -16871,6 +16907,28 @@
     },
     {
       "album": {
+        "name": "K\u00fc\u00e7\u00fck Bir Yol (Red Bull Track Takeover)",
+        "url": "https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200512,
+      "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
+      "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
+    },
+    {
+      "album": {
         "name": "K\u0131l\u0131\u00e7daro\u011flu",
         "url": "https://open.spotify.com/album/2l6dmbCmOruZ5vnO3Bip9X"
       },
@@ -18618,6 +18676,10 @@
         {
           "name": "Linet",
           "url": "https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
         }
       ],
       "date_added": "2026-01-15",
@@ -19202,7 +19264,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 98437,
       "name": "nas\u0131l kurtulurum senden ?",
       "url": "https://open.spotify.com/track/5MaVEvwqF3ZxcMMVzdQdhn"
@@ -19314,6 +19376,24 @@
       "duration_ms": 201967,
       "name": "Ne Zamand\u0131r Sendeyim",
       "url": "https://open.spotify.com/track/7L45rxBLaeRsyVZWCC6CXs"
+    },
+    {
+      "album": {
+        "name": "Neden?",
+        "url": "https://open.spotify.com/album/0QW0cyb2nMRj0rW2bpLiul"
+      },
+      "artists": [
+        {
+          "name": "\u0130brahim Tatl\u0131ses",
+          "url": "https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "Neden",
+      "url": "https://open.spotify.com/track/4R6tutFbFUbxE7JSXtPTlP"
     },
     {
       "album": {
@@ -22946,6 +23026,10 @@
         {
           "name": "Semicenk",
           "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
         }
       ],
       "date_added": "2024-08-10",
@@ -23094,6 +23178,10 @@
         {
           "name": "Do\u011fu Swag",
           "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
         }
       ],
       "date_added": "2025-07-30",
@@ -24334,6 +24422,24 @@
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
       "album": {
@@ -27114,7 +27220,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 306967,
       "name": "Ya\u011fmurlar",
       "url": "https://open.spotify.com/track/6xCPxUo1OHGQpaN3CMb7DN"
@@ -27150,7 +27256,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 197304,
       "name": "Ya\u015f\u0131yoken Anla",
       "url": "https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9"
@@ -28392,6 +28498,10 @@
         {
           "name": "Semicenk",
           "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
         }
       ],
       "date_added": "2025-10-25",

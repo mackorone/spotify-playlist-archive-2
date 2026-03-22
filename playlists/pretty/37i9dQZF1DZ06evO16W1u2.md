@@ -10,16 +10,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Contéstame](https://open.spotify.com/track/4GMyg3eFll1uurR1e60IxB) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 3:38 |
 | 2 | [Lo Peor de Todo](https://open.spotify.com/track/1ExPEMHbeK9uD29T17IXTx) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 4:03 |
-| 3 | [Tu Eres Mi Princesa](https://open.spotify.com/track/1ZHcMZyJU6gb8HwXgZuSkT) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Sres\. Papis](https://open.spotify.com/album/6kSmm9DKburGy0vHaA6ovB) | 3:04 |
-| 4 | [Carol Quiere un Viaje a Londres](https://open.spotify.com/track/7FWjwef384QLdnELApZ4ci) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:25 |
+| 3 | [Carol Quiere un Viaje a Londres](https://open.spotify.com/track/7FWjwef384QLdnELApZ4ci) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:25 |
+| 4 | [Tu Eres Mi Princesa](https://open.spotify.com/track/1ZHcMZyJU6gb8HwXgZuSkT) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Sres\. Papis](https://open.spotify.com/album/6kSmm9DKburGy0vHaA6ovB) | 3:04 |
 | 5 | [Todo Estaba Bien](https://open.spotify.com/track/797DkRRBM90hjhwNnKDLxJ) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:50 |
 | 6 | [La Universidad \(cosa de Locos\)](https://open.spotify.com/track/7HmEVjPR9ryH9ZIwYMD5fu) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:36 |
-| 7 | [Algo de Ti](https://open.spotify.com/track/31CgnJWZGX7t7vuY8kW5V1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:28 |
-| 8 | [Al Norte de América](https://open.spotify.com/track/59qpCNWLSrlqJAbDLZp2nO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:38 |
+| 7 | [Al Norte de América](https://open.spotify.com/track/59qpCNWLSrlqJAbDLZp2nO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:38 |
+| 8 | [Algo de Ti](https://open.spotify.com/track/31CgnJWZGX7t7vuY8kW5V1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:28 |
 | 9 | [La Empiezo a Odiar](https://open.spotify.com/track/121Z8Kad6jL7NHNNT9bs9W) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:33 |
 | 10 | [Televidente](https://open.spotify.com/track/5y9vBsGD9XgtHRJkqQCUYr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 4:04 |
-| 11 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 |
-| 12 | [No Me Cabe Duda](https://open.spotify.com/track/2U2D67qRXbfG3TVQqtREGV) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:34 |
+| 11 | [No Me Cabe Duda](https://open.spotify.com/track/2U2D67qRXbfG3TVQqtREGV) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 3:34 |
+| 12 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 |
 | 13 | [No Quiero Verte Más](https://open.spotify.com/track/42akkxAg640f3JVxiXh86P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:20 |
 | 14 | [A la Droga Dile No](https://open.spotify.com/track/7n1tTMyv5Aqp3bwYOg0PEN) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:31 |
 | 15 | [Y Lloro](https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 |
 | 50 | [Esa Luz Se Va](https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:34 |
 
-Snapshot ID: `abs8gAAAAABA2g+YHo1C6Tq01AXwjrsk`
+Snapshot ID: `abyOAAAAAAD07oDxKdkSVM+ZwWkczhvs`

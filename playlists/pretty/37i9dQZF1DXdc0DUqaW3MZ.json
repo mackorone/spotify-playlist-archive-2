@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 374671,
+  "num_followers": 374709,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Can't Even Love Myself",
+        "url": "https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl"
+      },
+      "artists": [
+        {
+          "name": "Limelight Sound",
+          "url": "https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Can't Even Love Myself",
+      "url": "https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Can't Even Love Myself",
-        "url": "https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl"
-      },
-      "artists": [
-        {
-          "name": "Limelight Sound",
-          "url": "https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Can't Even Love Myself",
-      "url": "https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "YOU KNOW I'M DOWN",
         "url": "https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 144000,
       "name": "YOU KNOW I'M DOWN",
       "url": "https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Found a Love",
-        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "The Voices of Epoch",
-          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
-        }
-      ],
-      "duration_ms": 235149,
-      "name": "Found a Love",
-      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Found a Love",
+        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "The Voices of Epoch",
+          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
+        }
+      ],
+      "duration_ms": 235149,
+      "name": "Found a Love",
+      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
     },
     {
       "added_at": "2026-03-13 00:00:07",

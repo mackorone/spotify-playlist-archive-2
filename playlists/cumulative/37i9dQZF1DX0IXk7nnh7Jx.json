@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nlydi lynn",
+  "description": "Listen to the best songs from faith-based indie artists.  Cover: \nD\u00e2mares Gomes",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 180015,
       "name": "Calling Me Home",
       "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Find My Way Back",
+        "url": "https://open.spotify.com/album/7D4pULZd24AwY40F8DJaLo"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Find My Way Back",
+      "url": "https://open.spotify.com/track/7iDH7KhxWHGSUmOZHvM0Dr"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
       },
@@ -5006,6 +5024,24 @@
       "duration_ms": 197800,
       "name": "heaven come",
       "url": "https://open.spotify.com/track/77h1vOw1NNuCVVYoqviuXZ"
+    },
+    {
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6i2W7zVAYJFYYEb4oaVkor"
+      },
+      "artists": [
+        {
+          "name": "Eauclaire",
+          "url": "https://open.spotify.com/artist/1cSsV0wPlWa1tgosxuC6CZ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Heaven on Earth",
+      "url": "https://open.spotify.com/track/6gzHk8vfD6EFlKURQnkWo3"
     },
     {
       "album": {
@@ -7499,6 +7535,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6UcQfJvUmyZkhBNZTX6aIv"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2S5AIEWw196iYwJTIbTMk2"
+    },
+    {
+      "album": {
         "name": "Let the World Turn",
         "url": "https://open.spotify.com/album/6ta4aHnWlpplU9CHwH20DS"
       },
@@ -7630,6 +7684,28 @@
       "duration_ms": 220608,
       "name": "Light Inside You",
       "url": "https://open.spotify.com/track/0fxM1E1J7TtWkIqCFKLhMS"
+    },
+    {
+      "album": {
+        "name": "Light of the World (John 8)",
+        "url": "https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Nad\u00e8ge Nightingale",
+          "url": "https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199583,
+      "name": "Light of the World (John 8)",
+      "url": "https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp"
     },
     {
       "album": {
@@ -8014,7 +8090,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 160000,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/7HAbiaGuKiebH5AE3xSNzZ"
@@ -8054,7 +8130,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 228024,
       "name": "Made For",
       "url": "https://open.spotify.com/track/2lFSaWYpPNQ6U5SuJaO7HH"
@@ -8868,6 +8944,24 @@
       "duration_ms": 261736,
       "name": "Never Grow Tired",
       "url": "https://open.spotify.com/track/68m3fFj8up50boqi077Yr8"
+    },
+    {
+      "album": {
+        "name": "Never Not Been Okay",
+        "url": "https://open.spotify.com/album/6LlfA0AJjzMb7SNgoA7MWK"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Never Not Been Okay",
+      "url": "https://open.spotify.com/track/5OEvyJGxHbeAVHJGAtw3SG"
     },
     {
       "album": {
@@ -10716,7 +10810,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 249713,
       "name": "Running",
       "url": "https://open.spotify.com/track/5FZxmDOCN6CJZN2dlcnPJy"
@@ -11056,7 +11150,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 136363,
       "name": "set free",
       "url": "https://open.spotify.com/track/1gzNAFSCHomPwQyP0mZmwx"
@@ -11190,6 +11284,24 @@
       "duration_ms": 160000,
       "name": "SLEEPIN!",
       "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
+    },
+    {
+      "album": {
+        "name": "Slow Burn (Take Your Time)",
+        "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
+      },
+      "artists": [
+        {
+          "name": "darthy",
+          "url": "https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183205,
+      "name": "Slow Burn (Take Your Time)",
+      "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
     },
     {
       "album": {
@@ -11714,7 +11826,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 222500,
       "name": "Stay Low",
       "url": "https://open.spotify.com/track/4aq0LrPJnTB5a0uCh1OTiE"
@@ -13638,7 +13750,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 146732,
       "name": "veil",
       "url": "https://open.spotify.com/track/0TT5fYtMNU07WMrW9cbRpL"
@@ -14116,6 +14228,24 @@
       "duration_ms": 240853,
       "name": "When the Well Runs Dry",
       "url": "https://open.spotify.com/track/6MO1DKXAFW6e9L8ayo1yO8"
+    },
+    {
+      "album": {
+        "name": "herts on fire",
+        "url": "https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs"
+      },
+      "artists": [
+        {
+          "name": "svn4vr",
+          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119741,
+      "name": "where did everybody go after the show",
+      "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
     },
     {
       "album": {

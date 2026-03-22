@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di nayt, Achille Lauro, Juli e Coez, Arisa, chiello, RAYE e Hans Zimmer e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,479 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,485 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 389 songs - 19 hr 38 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 399 songs - 20 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -397,5 +397,15 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 387 | [Route of the Fate](https://open.spotify.com/track/0Sh5MvKDvtwIqVZeb36EvJ) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:02 |
 | 388 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 |
 | 389 | [Song for a Widow](https://open.spotify.com/track/0KJulYhAC3ynJqbCK9lHtm) | [Dewey Decimal](https://open.spotify.com/artist/1IHjSAFt9bS9Xw8EZJhBga) | [Song for a Widow](https://open.spotify.com/album/62Yz5trKVSULdhHRCci30T) | 3:33 |
+| 390 | [PARAD!SO](https://open.spotify.com/track/2LeJfnlZhh1xN4PFtYTPwe) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [PARAD!SO](https://open.spotify.com/album/2ttPlKrtiN67b03ufxZEeU) | 2:50 |
+| 391 | [Бейби вайб](https://open.spotify.com/track/6Fegz6FNl00h7vhAlIXc5P) | [XALIXPROD](https://open.spotify.com/artist/6DqbamfwPNfx7va3vbnugX) | [Бейби вайб](https://open.spotify.com/album/1nn0K6YFMiaIFTJ2vEHD77) | 1:35 |
+| 392 | [Estado Crítico](https://open.spotify.com/track/1ZEakGiG23TgDK2OECi51M) | [AKAImusic](https://open.spotify.com/artist/45G0iHVfUrdEc5irIMYGGH), [HCKLF](https://open.spotify.com/artist/1gpsScFkYmSw0mKCPZsWkp) | [Estado Crítico](https://open.spotify.com/album/6kIhrh341W9ypUWy6c6jU3) | 3:03 |
+| 393 | [ごはんが美味しい](https://open.spotify.com/track/5qBUoBcgyUcOUZIr85NT6n) | [coordi](https://open.spotify.com/artist/0N763tTddxNZAQWCLOBP7S) | [MY FIRST HEAVEN](https://open.spotify.com/album/34MWNAzQoj1vu8ZtOEh2zm) | 2:08 |
+| 394 | [You Know What!](https://open.spotify.com/track/6n9YgVTWnNEHXYyLpJ3TFJ) | [Bellissi](https://open.spotify.com/artist/0CjfLUKqHGuVFi6mOCNl7k) | [You Know What!](https://open.spotify.com/album/6iZlQpSl3xcspxMigAsN27) | 3:57 |
+| 395 | [Just 4 U](https://open.spotify.com/track/1QOu4Z0MRMG3G1Xs9QKEZb) | [Inside Trading](https://open.spotify.com/artist/6d9cVe6aUDxQpbclXVmzLw), [Mista Ed](https://open.spotify.com/artist/5QwfAuiGOyHkhKLAejUxGG) | [Just 4 U](https://open.spotify.com/album/2GzsZeQqWEpHjkRBKqVsjb) | 3:58 |
+| 396 | [Inspiration](https://open.spotify.com/track/322vs7OCu1ppWtXoNKT2AO) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD) | [Inspiration](https://open.spotify.com/album/6c8Bi9LfEpDEVptqy3h7IH) | 3:13 |
+| 397 | [ROCKSTAR](https://open.spotify.com/track/02uFOFVJ5ENxARYYzv2V5x) | [Lil Tweest](https://open.spotify.com/artist/0jmqZUm1FmUbILmyMVkWpZ) | [ROCKSTAR](https://open.spotify.com/album/4KHXKMGNGQtB0Yx3a6cQ8M) | 2:15 |
+| 398 | [Lost Inside the Afterglow](https://open.spotify.com/track/1mfjmEdZqVNylQoRQrdLmP) | [Low Tide Signals](https://open.spotify.com/artist/0yLzIVCnk8YeBE8UikbhFG) | [Lost Inside the Afterglow](https://open.spotify.com/album/5lKuG4M3SKcCwNVAciHvxe) | 3:02 |
+| 399 | [Marry Her](https://open.spotify.com/track/6E4qQ2uPxy8GKduJqzpU1O) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Marry Her](https://open.spotify.com/album/4ZoHq2Soy1Bq9FrV5424RB) | 3:06 |
 
-Snapshot ID: `AAAcLRCCgTLB1GbjzK0h/KTh7wOLGhV8`
+Snapshot ID: `AAAcN8BX5VWAK6MXPnywGzGQPB9QGRoi`

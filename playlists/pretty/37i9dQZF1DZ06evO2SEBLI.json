@@ -1,12 +1,12 @@
 {
   "description": "This is iu takahashi. The essential tracks, all in one playlist.",
-  "num_followers": 15,
+  "num_followers": 17,
   "original_name": "This Is iu takahashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAADawEKXPtIRd7JWrUJtm2RP",
+  "snapshot_id": "abyOAAAAAAD3dIpV4b0MrkQTSjhLXhpJ",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Foggy",
-      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Asleep / Sea",
-      "url": "https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3"
+      "duration_ms": 341999,
+      "name": "Awake / Lakeside",
+      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 390000,
+      "name": "Foggy",
+      "url": "https://open.spotify.com/track/48BaTYfr7tCqfUxAoU0ARE"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Blink / Landscape",
-      "url": "https://open.spotify.com/track/71EboK4qEUY8hCeSaSTmZe"
+      "duration_ms": 372000,
+      "name": "Asleep / Sea",
+      "url": "https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 341999,
-      "name": "Awake / Lakeside",
-      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
+      "duration_ms": 206000,
+      "name": "Blink / Landscape",
+      "url": "https://open.spotify.com/track/71EboK4qEUY8hCeSaSTmZe"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Rustle",
-      "url": "https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn"
+      "duration_ms": 278500,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "halfway",
-        "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "halfway",
-      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Interspace",
         "url": "https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA"
       },
@@ -500,9 +484,25 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 257993,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
+      "duration_ms": 337937,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "halfway",
+        "url": "https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "halfway",
+      "url": "https://open.spotify.com/track/62OveSNk3FivZZZwcadtE2"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 337937,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/3y0MWGcgTa2ITPYvn196Xi"
+      "duration_ms": 257993,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
     },
     {
       "added_at": null,

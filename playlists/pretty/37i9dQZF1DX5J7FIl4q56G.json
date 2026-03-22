@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Black Veil Brides",
-  "num_followers": 786788,
+  "num_followers": 786886,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALk+rK3l6PLrkaAEn0igXd5RQBwe",
+  "snapshot_id": "AAAAAIcmGJEkkTwje3bzy1o3xPe0MjrD",
   "tracks": [
     {
       "added_at": "2026-03-20 17:02:55",
@@ -355,6 +355,22 @@
       "duration_ms": 259132,
       "name": "Pre-Historic Metal",
       "url": "https://open.spotify.com/track/231c6K8KXsLjAdrceuHrkk"
+    },
+    {
+      "added_at": "2026-03-22 00:45:17",
+      "album": {
+        "name": "Memorias",
+        "url": "https://open.spotify.com/album/2dJDJ1kMZenhZ0PokuFnPR"
+      },
+      "artists": [
+        {
+          "name": "The Silver",
+          "url": "https://open.spotify.com/artist/5QiZcvaXvmysudyL8pUIDQ"
+        }
+      ],
+      "duration_ms": 259064,
+      "name": "Memorias",
+      "url": "https://open.spotify.com/track/2iWralMgCV2HWg99ZmCYFS"
     },
     {
       "added_at": "2026-03-20 17:02:55",

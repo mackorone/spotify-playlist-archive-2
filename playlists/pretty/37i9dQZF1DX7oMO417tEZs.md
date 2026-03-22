@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: IDHEM
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,678 likes - 83 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,857 likes - 83 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

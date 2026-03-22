@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 34 | [Delirious \(Boneless\) \(feat\. Kid Ink\)](https://open.spotify.com/track/2SSFvQBwsxeazzo7z5l9gD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 3:43 |
 | 35 | [Netzwerk \(Falls Like Rain\)](https://open.spotify.com/track/7FGho3Adev1y2hTB949PGv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk](https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2) | 3:48 |
 | 36 | [Nobody To Love \- Radio Edit](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK) | 3:09 |
-| 37 | [Shot Me Down \(feat\. Skylar Grey\) \- Radio Edit](https://open.spotify.com/track/7qfwcqfGOkQYtzjF4UzJHM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Shot Me Down \(feat\. Skylar Grey\)](https://open.spotify.com/album/4i9yM8JoAgeh6ekZjk08U1) | 3:11 |
+| 37 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1YRjRHdl0aEtzHEn1uGi8k) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:27 |
 | 38 | [Ready For Your Love](https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:18 |
 | 39 | [She Moves](https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Synesthesia](https://open.spotify.com/album/4aJZ9Dc6SRtaGYOz4d5PGd) | 3:17 |
 | 40 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 77 | [Young Again \(feat\. Chris Jones\)](https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chris Jones](https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU) | [United We Are](https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS) | 3:39 |
 | 78 | [Miami 82 \- Lucas Silow Remix](https://open.spotify.com/track/57Bz0GED2wTznnuTnMhR2Z) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Madame Buttons](https://open.spotify.com/artist/7KF7MdboLjh7O5BxomF54M), [Lucas Silow](https://open.spotify.com/artist/6beHDze0bQhGurAi7Td9iO) | [Miami 82 \(Remixes II\)](https://open.spotify.com/album/0k5THSvm4esC4onGWVSlFW) | 4:31 |
 | 79 | [Calabria \- Firebeatz Edit](https://open.spotify.com/track/08bIgTMyh9nvkrs1Ox36dz) | [Rune RK](https://open.spotify.com/artist/32ejcIBfk6cbs473H0LlBE) | [Calabria \(Firebeatz Remix\)](https://open.spotify.com/album/7khlovIMSSCAXiiV1Pzff3) | 2:18 |
-| 80 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1YRjRHdl0aEtzHEn1uGi8k) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:27 |
+| 80 | [Shot Me Down \(feat\. Skylar Grey\) \- Radio Edit](https://open.spotify.com/track/7qfwcqfGOkQYtzjF4UzJHM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Shot Me Down \(feat\. Skylar Grey\)](https://open.spotify.com/album/4i9yM8JoAgeh6ekZjk08U1) | 3:11 |
 | 81 | [Open Wide \(feat\. Big Sean\)](https://open.spotify.com/track/64j3Bd62HTe0pclk8Aq9BE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:07 |
 
 Snapshot ID: `AAAAAFYbVstLVgkMO+79QEDk/20RgcYY`

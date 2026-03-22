@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,254 likes - 231 songs - 9 hr 57 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,295 likes - 233 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,5 +239,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 229 | [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 |
 | 230 | [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 |
 | 231 | [Sun Goes Down \(feat\. Jasmine Thompson\) \- Radio Mix](https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 2:59 |
+| 232 | [I Don't Need You](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Don't Need You](https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn) | 3:00 |
+| 233 | [Close to Me](https://open.spotify.com/track/7MnPqlRg4XPv9cqHF76tbs) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi) | [Close to Me](https://open.spotify.com/album/0xYuIvQFTHmGH0SFawWFfp) | 3:31 |
 
-Snapshot ID: `AABQtiWS+kgmvSYjmFSnhgj9kKbQwqiw`
+Snapshot ID: `AABQuHdy6WjwsnF/ePxaAMoDyxnjWxif`

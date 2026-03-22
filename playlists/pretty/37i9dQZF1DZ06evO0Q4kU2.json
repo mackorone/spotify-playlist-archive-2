@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2416,
+  "num_followers": 2417,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAADxKT97VdDb0yEXQ2qPUUx7",
+  "snapshot_id": "abyOAAAAAADGERJeH5EvjD0aC2yf1Eto",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar (Ultimate)",
-        "url": "https://open.spotify.com/album/4rjesFoArMdjqT21cE56qn"
+        "name": "Ocean Variation",
+        "url": "https://open.spotify.com/album/5TfoPVjU9j0mlP5eqfgL5z"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 82381,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/2Ko0USILw3ivKoPgUykx5P"
+      "duration_ms": 108250,
+      "name": "Ocean Variation",
+      "url": "https://open.spotify.com/track/3Qr0Ny1ZksAnCBiGOM5tBG"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean Variation",
-        "url": "https://open.spotify.com/album/5TfoPVjU9j0mlP5eqfgL5z"
+        "name": "Polar (Ultimate)",
+        "url": "https://open.spotify.com/album/4rjesFoArMdjqT21cE56qn"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 108250,
-      "name": "Ocean Variation",
-      "url": "https://open.spotify.com/track/3Qr0Ny1ZksAnCBiGOM5tBG"
+      "duration_ms": 82381,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2Ko0USILw3ivKoPgUykx5P"
     },
     {
       "added_at": null,

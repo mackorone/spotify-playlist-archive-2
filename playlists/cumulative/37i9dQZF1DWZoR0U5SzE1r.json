@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Continue giving God praise with these classic worship songs! Cover: Martin Smith",
+  "description": "Continue giving God praise with these classic worship songs! Cover: Kari Jobe",
   "name": "Worship Classics",
   "tracks": [
     {
@@ -713,6 +713,36 @@
     },
     {
       "album": {
+        "name": "House of Worship",
+        "url": "https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s"
+      },
+      "artists": [
+        {
+          "name": "House of Worship",
+          "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370239,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3AcKLIYxqwVMtkVCtH3Dhr"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3DkpwZUlMVcCVsWqeo3ttj"
       },
@@ -1306,7 +1336,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 437360,
       "name": "Defender",
       "url": "https://open.spotify.com/track/7vye6MbNlJ61o97p2Ccb8r"
@@ -3323,6 +3353,28 @@
     },
     {
       "album": {
+        "name": "House of Worship",
+        "url": "https://open.spotify.com/album/2g898epfc1d7Rkq2MYlt2s"
+      },
+      "artists": [
+        {
+          "name": "House of Worship",
+          "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143796,
+      "name": "I Give You My Heart",
+      "url": "https://open.spotify.com/track/2IdPaKX12r3hNGqqG57kHp"
+    },
+    {
+      "album": {
         "name": "Endless Praise",
         "url": "https://open.spotify.com/album/5wDwYXpmXDY9K6P9yspqvC"
       },
@@ -3980,7 +4032,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 273960,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R"
@@ -5259,6 +5311,28 @@
     },
     {
       "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535991,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
+    },
+    {
+      "album": {
         "name": "The Free World, Vol. 1",
         "url": "https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg"
       },
@@ -5926,7 +6000,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
@@ -5944,7 +6018,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
@@ -6100,7 +6174,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 391893,
       "name": "Shout to the Lord",
       "url": "https://open.spotify.com/track/3QskN5Ijt0g6kTeY2irXSf"

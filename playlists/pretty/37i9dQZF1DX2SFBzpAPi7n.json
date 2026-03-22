@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc74c\uc728 (UmYull)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 249734,
+  "num_followers": 249712,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-20 09:08:49",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
-      },
-      "artists": [
-        {
-          "name": "BEOMGYU",
-          "url": "https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
-    },
-    {
-      "added_at": "2026-03-20 09:08:49",
-      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 167573,
       "name": "eight(Prod.&Feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
+    },
+    {
+      "added_at": "2026-03-20 09:08:49",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
+      },
+      "artists": [
+        {
+          "name": "BEOMGYU",
+          "url": "https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
       "added_at": "2026-03-20 09:08:49",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-03-20 09:08:49",
       "album": {
-        "name": "1st Mini Album 'MANITO'",
-        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "T.B.H",
-      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
-    },
-    {
-      "added_at": "2026-03-20 09:08:49",
-      "album": {
         "name": "Really Like You",
         "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
+    },
+    {
+      "added_at": "2026-03-20 09:08:49",
+      "album": {
+        "name": "1st Mini Album 'MANITO'",
+        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "T.B.H",
+      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
       "added_at": "2026-03-20 09:08:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-20 09:08:49",
       "album": {
-        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
-    },
-    {
-      "added_at": "2026-03-20 09:08:49",
-      "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
+    },
+    {
+      "added_at": "2026-03-20 09:08:49",
+      "album": {
+        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
       "added_at": "2026-03-20 09:08:49",

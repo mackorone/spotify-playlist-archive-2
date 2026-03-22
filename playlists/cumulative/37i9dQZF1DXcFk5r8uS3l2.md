@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-476 songs - 1 day 5 hr 52 min
+477 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 | 2024-02-10 |
 | [Devil That You Know](https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0) | [Emma Elena Grace](https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc) | [Devil That You Know](https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4) | 3:18 | 2024-06-28 |  |
-| [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 | 2024-05-03 |  |
+| [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 | 2024-05-03 | 2026-03-22 |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 | 2023-02-25 |
 | [Don't Leave Me](https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN), [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don't Leave Me](https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65) | 3:30 | 2023-07-21 |  |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |
 | [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 | 2024-05-03 |
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
+| [Everything's Fine](https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT) | [Hollie Rogers](https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Beth Nielsen Chapman](https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu) | [Everything's Fine](https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k) | 3:54 | 2026-03-20 |  |
 | [Everywhere You Go There You Are](https://open.spotify.com/track/1GFbtNQ3OFeHA00PJNphPb) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/1gPMejW0HDebAGUxXqM8Vq) | 2:43 | 2024-09-06 | 2025-01-25 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-02-10 |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2026-02-13 |  |

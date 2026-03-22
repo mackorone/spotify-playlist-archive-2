@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1289,
+  "num_followers": 1288,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAR6wW5UxonZ7ggw+1e2D2IUgufmOVo",
+  "snapshot_id": "AAAR8N1SCwsLThMiJKrt3Hmieenf3p4S",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -23,6 +23,26 @@
       "duration_ms": 249172,
       "name": "Com'eri",
       "url": "https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q"
+    },
+    {
+      "added_at": "2026-03-22 02:41:29",
+      "album": {
+        "name": "Vin-tag\u00e9",
+        "url": "https://open.spotify.com/album/6sdhZZcUOqSVsZZKoLnHEC"
+      },
+      "artists": [
+        {
+          "name": "Pseudo the Beatguy",
+          "url": "https://open.spotify.com/artist/2Dzm6zujQAWKyV9X1T8N1f"
+        },
+        {
+          "name": "Julia A",
+          "url": "https://open.spotify.com/artist/4UuZOWk0ZQuRTtCyj1PgIe"
+        }
+      ],
+      "duration_ms": 278850,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2"
     },
     {
       "added_at": "2026-03-21 01:05:55",
@@ -3099,6 +3119,70 @@
       "duration_ms": 174120,
       "name": "Konnichiwa (Love)",
       "url": "https://open.spotify.com/track/2Ffgq6OfCVlwimWtDmf4Hm"
+    },
+    {
+      "added_at": "2026-03-21 08:55:11",
+      "album": {
+        "name": "La m\u00e9lodie de tes yeux",
+        "url": "https://open.spotify.com/album/45C9UUCIFxVp74hBc32qf0"
+      },
+      "artists": [
+        {
+          "name": "Skelton",
+          "url": "https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c"
+        }
+      ],
+      "duration_ms": 207030,
+      "name": "La m\u00e9lodie de tes yeux",
+      "url": "https://open.spotify.com/track/2ujCb0j7tSxg1f6LZxmRGU"
+    },
+    {
+      "added_at": "2026-03-21 08:55:16",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 217206,
+      "name": "Candor",
+      "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
+    },
+    {
+      "added_at": "2026-03-21 08:55:43",
+      "album": {
+        "name": "Forse",
+        "url": "https://open.spotify.com/album/5z4E6o3AmQcATl52AMb3bM"
+      },
+      "artists": [
+        {
+          "name": "SlowlyMe",
+          "url": "https://open.spotify.com/artist/21EPDLk3UH7IlOQccJBoVH"
+        }
+      ],
+      "duration_ms": 175510,
+      "name": "Forse",
+      "url": "https://open.spotify.com/track/3ntC3vnaj8bxxQOOSt1EFu"
+    },
+    {
+      "added_at": "2026-03-21 09:40:15",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Cum7RJmlLoV04qNTQYzmb"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Elle",
+          "url": "https://open.spotify.com/artist/4DeO2GdonsOqpAKJSYE0QB"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/3g1Vn9PzhA3vstx5fpN5Jd"
     }
   ],
   "unique_name": "New Indie Music",

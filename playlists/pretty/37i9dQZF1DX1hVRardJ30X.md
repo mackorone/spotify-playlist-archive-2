@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Kenia OS, Feid, Maluma, CA7RIEL & Paco Amoroso & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,686 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,738 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [SU su SU](https://open.spotify.com/track/3CsV3o4DS5zoRRlLDj8dHc) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [SU su SU](https://open.spotify.com/album/1vOC7vZNCja6RW50m297hR) | 2:39 |
 | 23 | [Como Agua Para Chocolate](https://open.spotify.com/track/1YZtjspyh081ZvukdybwC8) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Como Agua Para Chocolate](https://open.spotify.com/album/7cMxjGL1ot5o7sqRDmpZno) | 3:17 |
 | 24 | [brb](https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [brb](https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl) | 2:36 |
-| 25 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/6pmk2YLMMc7UwykvvZbWGA) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
+| 25 | [La Teoría](https://open.spotify.com/track/27E6Y2wX6kqo0JiZpBq5xa) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [La Teoría](https://open.spotify.com/album/1mu6jH9g2iTjOLVrE51fpm) | 3:33 |
 | 26 | [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 |
 | 27 | [\(todo lo que haces para no acordarte de mi\)](https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(todo lo que haces para no acordarte de mi\)](https://open.spotify.com/album/5xVfYjfD6MMIg9xq9KLyvj) | 2:29 |
 | 28 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [Tan Lleno](https://open.spotify.com/track/7ql7lNTGeVEcoQrHdk92m1) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Tan Lleno](https://open.spotify.com/album/5TW4pZrjx1a5mSX94RB9IJ) | 2:21 |
 | 37 | [FANTASMA](https://open.spotify.com/track/0EjpQT7tuTSwvyNx2NJh4b) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [FANTASMA](https://open.spotify.com/album/4JKTb7vhd2oSYUiCQafhR8) | 2:58 |
 | 38 | [Cómo Te Va?](https://open.spotify.com/track/7brvp5qlx3mYCoOexLXSHw) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Cómo Te Va?](https://open.spotify.com/album/1uoUlzntZwu4gbF9HVyJpQ) | 2:35 |
-| 39 | [Rainforest](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Rainforest](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
+| 39 | [RAINFOREST](https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RAINFOREST](https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed) | 2:44 |
 | 40 | [CUANDO YA NO ESTÉ](https://open.spotify.com/track/44S23vUVVOZGk1LQl3nZAK) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [CUANDO YA NO ESTÉ](https://open.spotify.com/album/6V64nv5j2aatP0QieYDId1) | 3:22 |
 | 41 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
 

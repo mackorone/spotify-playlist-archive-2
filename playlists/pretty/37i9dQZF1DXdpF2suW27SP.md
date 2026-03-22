@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Prodígio, Bispo, Gson entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,722 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,735 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 12 | [Aplausos](https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Aplausos](https://open.spotify.com/album/6o4tdPrgwYVsaYdPPbEbHu) | 3:58 |
 | 13 | [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 |
 | 14 | [Alta Cultura \- A Sós](https://open.spotify.com/track/1X4How3b1rNIcCcxh37jzd) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Alta Cultura \- A Sós](https://open.spotify.com/album/5uLZRPLRLBHqb8952M6wO5) | 2:57 |
-| 15 | [GB4L](https://open.spotify.com/track/2al9yrM2ZkGOGfcnwevaRZ) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [MITO](https://open.spotify.com/album/6bxYjF61m2zuL5Yoxkyopn) | 1:55 |
+| 15 | [GB4L](https://open.spotify.com/track/2al9yrM2ZkGOGfcnwevaRZ) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z), [404ducce](https://open.spotify.com/artist/7HfpkgPxJSUGZ69A56Ie6R) | [MITO](https://open.spotify.com/album/6bxYjF61m2zuL5Yoxkyopn) | 1:55 |
 | 16 | [Amazónia](https://open.spotify.com/track/7yeAc1eiLyJaZ1QvX2ApyJ) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Opressionismo](https://open.spotify.com/album/0fERphbYeqR6hYAeTzyfuo) | 2:31 |
 | 17 | [Actividade](https://open.spotify.com/track/4q63amIN1eXDZrqq9dAwhU) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Actividade](https://open.spotify.com/album/34CmVFH8F1YBCwtUsmFfYt) | 3:51 |
 | 18 | [UNIVERSO](https://open.spotify.com/track/4Hf1fvy3UbgAAYDiV1kp9A) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [UNIVERSO](https://open.spotify.com/album/7953aKGtpXmJpBIrjN5BOp) | 3:13 |

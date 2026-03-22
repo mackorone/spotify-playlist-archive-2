@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 578,
+  "num_followers": 580,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADAhxRy6CkmfkdR0zGSjUraA4ZTjkJ",
+  "snapshot_id": "AAADA7EBezE4oBY3437UlzYkRlTlP2Gr",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1243,6 +1243,26 @@
       "duration_ms": 218906,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td"
+    },
+    {
+      "added_at": "2026-03-21 17:11:23",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4"
+      },
+      "artists": [
+        {
+          "name": "Alex Cherney",
+          "url": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 183409,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

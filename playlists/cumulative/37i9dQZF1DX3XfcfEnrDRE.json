@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Abbie Gamboa",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Tommee Profitt & Crowder",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "BE LIKE YOU",
+        "url": "https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8"
+      },
+      "artists": [
+        {
+          "name": "aftrthght",
+          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "BE LIKE YOU",
+      "url": "https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq"
+    },
+    {
+      "album": {
         "name": "BE THE ONE (REIMAGINED)",
         "url": "https://open.spotify.com/album/0PBYdELb4KaKS99UkYWNlG"
       },
@@ -869,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3oOSJOCqC2FkOG0TvGj1yS"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158053,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/08xjvKLz3RDTANr5YCCr91"
+    },
+    {
+      "album": {
         "name": "Charcoal Fire",
         "url": "https://open.spotify.com/album/7GMZOn7MZ9TigmTjDmcpUT"
       },
@@ -916,7 +952,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 221563,
       "name": "chemically messed up",
       "url": "https://open.spotify.com/track/1umu1IyfH4U7MHygdGvW5f"
@@ -992,6 +1028,32 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "album": {
+        "name": "closer, like a child \u2768\u2768 \u2768 \u274d \u2769 \u2769\u2769",
+        "url": "https://open.spotify.com/album/7eWp8U7FdcOJb6pAIeh587"
+      },
+      "artists": [
+        {
+          "name": "AMXNRADIO",
+          "url": "https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        },
+        {
+          "name": "Ivan Theva",
+          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298819,
+      "name": "closer, like a child \u2768\u2768 \u2768 \u274d \u2769 \u2769\u2769",
+      "url": "https://open.spotify.com/track/5OEp1yN89WLUhw9TxbdoHZ"
     },
     {
       "album": {
@@ -1557,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "some fast worship songs",
+        "url": "https://open.spotify.com/album/0BozFPvbFnJUvJd9wT1Cmn"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Endless Praise",
+      "url": "https://open.spotify.com/track/6c1IopU9CN8iIAGTNb3xd7"
+    },
+    {
+      "album": {
         "name": "Enough!",
         "url": "https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH"
       },
@@ -1568,7 +1648,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 211120,
       "name": "Enough!",
       "url": "https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ"
@@ -1680,7 +1760,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 188993,
       "name": "Everything Is Better",
       "url": "https://open.spotify.com/track/03tyAB7mjX4xMJeilL7brl"
@@ -1706,6 +1786,24 @@
       "duration_ms": 197563,
       "name": "EXPECTATIONS",
       "url": "https://open.spotify.com/track/4EC6JaV7wjpZMrx5LJ92ag"
+    },
+    {
+      "album": {
+        "name": "eyes on Him",
+        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "eyes on Him",
+      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
     },
     {
       "album": {
@@ -2280,7 +2378,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 148643,
       "name": "Get Me Outta The Way",
       "url": "https://open.spotify.com/track/68wrokN3yZVgnnH1fgcgGp"
@@ -2898,7 +2996,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 224000,
       "name": "honeydew (praise the Lord)",
       "url": "https://open.spotify.com/track/62hqdhJ06TBb9leXXl4OwP"
@@ -3036,7 +3134,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 161842,
       "name": "Human Point Of View",
       "url": "https://open.spotify.com/track/6tSkw1NNBcYevf8FU0c11i"
@@ -3388,7 +3486,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 173553,
       "name": "idk",
       "url": "https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN"
@@ -3406,7 +3504,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 168008,
       "name": "idols",
       "url": "https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h"
@@ -3641,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Jesus I Miss You",
+        "url": "https://open.spotify.com/album/4FBhiNzx2OgzQXZviCnh61"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257868,
+      "name": "Jesus I Miss You",
+      "url": "https://open.spotify.com/track/3a4Zo8KH3A5UKdYgarRt4J"
+    },
+    {
+      "album": {
         "name": "Jesus Lifted High",
         "url": "https://open.spotify.com/album/6TmcUiCSRuW2QIj1geiCg3"
       },
@@ -3826,7 +3942,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 171181,
       "name": "kerosene",
       "url": "https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95"
@@ -3994,6 +4110,28 @@
       "duration_ms": 413276,
       "name": "Lamb (feat. Tiffany Hudson) - Live",
       "url": "https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa"
+    },
+    {
+      "album": {
+        "name": "Lay my life down",
+        "url": "https://open.spotify.com/album/1CfOYPs6djUU3It39cAbCY"
+      },
+      "artists": [
+        {
+          "name": "MelonCollie",
+          "url": "https://open.spotify.com/artist/2tQucRKODJ2wbjlcCgwBSo"
+        },
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Lay my life down",
+      "url": "https://open.spotify.com/track/3z4mlTaqboBNp275B4j6oc"
     },
     {
       "album": {
@@ -4944,7 +5082,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 136839,
       "name": "oasis for my soul",
       "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
@@ -5262,7 +5400,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 230064,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte"
@@ -5628,7 +5766,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 219911,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7thKwJ6QPqtqcnxr66IWTw"
@@ -6159,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Tell It",
+        "url": "https://open.spotify.com/album/2iyRMmim7EFtUGLG3SItCY"
+      },
+      "artists": [
+        {
+          "name": "Hyland",
+          "url": "https://open.spotify.com/artist/0FCzAWZZiYkkRPTGgfjNlj"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171212,
+      "name": "Tell It",
+      "url": "https://open.spotify.com/track/5TMtrxGEWuINdxowhyevsQ"
+    },
+    {
+      "album": {
         "name": "Thank God for You",
         "url": "https://open.spotify.com/album/77Pl3q3WqTRs7zAUTFQQiH"
       },
@@ -6366,6 +6522,28 @@
       "duration_ms": 267293,
       "name": "There Is A Higher Throne",
       "url": "https://open.spotify.com/track/6ZOA7z5HY4F2sLdPMm0DKA"
+    },
+    {
+      "album": {
+        "name": "There Is Power",
+        "url": "https://open.spotify.com/album/7hBP9YBFnssyALuNkmnzYO"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201451,
+      "name": "There Is Power",
+      "url": "https://open.spotify.com/track/3E5QVGfEkKzq3GRg2n06rN"
     },
     {
       "album": {
@@ -6812,7 +6990,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 216946,
       "name": "Water",
       "url": "https://open.spotify.com/track/5Knkjy1aPJ8jy9FtrTXHbd"
@@ -7068,7 +7246,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 248820,
       "name": "Why Do You Love Me?",
       "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
@@ -7196,6 +7374,24 @@
       "duration_ms": 190764,
       "name": "Words Don\u2019t Pay",
       "url": "https://open.spotify.com/track/7mUIZS6AH2eVNhPdgPmSKz"
+    },
+    {
+      "album": {
+        "name": "World Cup",
+        "url": "https://open.spotify.com/album/6u4jMFqGGz9QRhm2s0BS3a"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133012,
+      "name": "World Cup",
+      "url": "https://open.spotify.com/track/7cjhoKoPjhMnYpW10IPBgP"
     },
     {
       "album": {
@@ -7426,7 +7622,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 222577,
       "name": "Younger Years",
       "url": "https://open.spotify.com/track/4jV2JIgIFsk4omfCHCHny6"

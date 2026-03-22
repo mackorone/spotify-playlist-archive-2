@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -4936,7 +4936,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 146086,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/1Evh2OWoESQAefl99XpFf4"
@@ -16264,7 +16264,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 136000,
       "name": "MF",
       "url": "https://open.spotify.com/track/7aj8qBq7jqoqaT6DdaykjT"
@@ -28678,6 +28678,28 @@
       "duration_ms": 155700,
       "name": "Wubcraft",
       "url": "https://open.spotify.com/track/3g8WmeSOar7RKuQEEfNhZo"
+    },
+    {
+      "album": {
+        "name": "wubmart",
+        "url": "https://open.spotify.com/album/6S64GqkOQDjIVSChmZ1GbJ"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        },
+        {
+          "name": "maddietiedt",
+          "url": "https://open.spotify.com/artist/62NjMXgX9vC7vsgFivhoKn"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108857,
+      "name": "wubmart",
+      "url": "https://open.spotify.com/track/7hSW5uK2getywODmpMn683"
     },
     {
       "album": {

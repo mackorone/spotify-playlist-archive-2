@@ -113947,6 +113947,24 @@
     },
     {
       "album": {
+        "name": "Memorias",
+        "url": "https://open.spotify.com/album/2dJDJ1kMZenhZ0PokuFnPR"
+      },
+      "artists": [
+        {
+          "name": "The Silver",
+          "url": "https://open.spotify.com/artist/5QiZcvaXvmysudyL8pUIDQ"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259064,
+      "name": "Memorias",
+      "url": "https://open.spotify.com/track/2iWralMgCV2HWg99ZmCYFS"
+    },
+    {
+      "album": {
         "name": "Memories - Never Die",
         "url": "https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn"
       },

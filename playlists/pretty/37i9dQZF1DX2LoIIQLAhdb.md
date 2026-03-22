@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,608 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,621 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Le ciel nous pardonne](https://open.spotify.com/track/4mOW7I66Fomg7XwmP5Fr7T) | [Donguti](https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf) | [Le ciel nous pardonne](https://open.spotify.com/album/3NUi3QHZZK880miCnSVqbd) | 3:03 |
 | 40 | [Méchant](https://open.spotify.com/track/3VAXp5FiiUMLFThyUqnyMp) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Méchant](https://open.spotify.com/album/5e830pG0xK0ZKrQh2AZmcK) | 2:31 |
 
-Snapshot ID: `AAAAAN0aOK7vSXQSEU2skUODLWHj0jjk`
+Snapshot ID: `AAAAAMIFzsyINRGU72J/gE6CR6tWlUpz`

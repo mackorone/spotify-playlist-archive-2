@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "Big Ten Inch Record",
       "url": "https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 217902,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF"
@@ -2004,10 +2004,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 333662,
       "name": "Train Kept a Rollin'",
       "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
+    },
+    {
+      "album": {
+        "name": "Aerosmith (Legendary Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Tv1n4rCnAzrKX0VfqnQs9"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216205,
+      "name": "Train Kept A Rollin' - Session Take",
+      "url": "https://open.spotify.com/track/1rkS3FNM5sEAecKsgbmPj3"
     },
     {
       "album": {

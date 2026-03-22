@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,310 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,314 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 2 | [Finding Her \(Kannada Version\)](https://open.spotify.com/track/3GkpEXkMibSCNIvMHT9dxa) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Finding Her \(Kannada Version\)](https://open.spotify.com/album/4BIqq9YekFVyQpOTNhIKve) | 3:31 |
 | 3 | [Awat Iwat](https://open.spotify.com/track/4JJ3C6fTzrcMk5b4E0ovjB) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Awat Iwat](https://open.spotify.com/album/7pkcKP6W4jd7n2hWLelkv4) | 2:53 |
 | 4 | [Ninna Notavu](https://open.spotify.com/track/33W4mZI2Kd4sye4K65Pf0r) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5) | [Ninna Notavu](https://open.spotify.com/album/4hOEeRjxdJ64VK5W0KwKCk) | 2:43 |
-| 5 | [BERETU](https://open.spotify.com/track/5eJOcYtmYvXDwRMv1bgIsV) | [Kavya Bhagvat](https://open.spotify.com/artist/4S3qacWfkE2NOUAD8HOnCk), [Muriel D’Souza](https://open.spotify.com/artist/2FxRVzfznFNrELtuDAWt6X), [Advait Pattanaik](https://open.spotify.com/artist/2Qd2hmd9M4F0f4hJjhFlvb), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [BERETU](https://open.spotify.com/album/7z1bG55Ptk3qQ5VQKwwNq0) | 3:26 |
+| 5 | [BERETU](https://open.spotify.com/track/5eJOcYtmYvXDwRMv1bgIsV) | [Muriel D’Souza](https://open.spotify.com/artist/2FxRVzfznFNrELtuDAWt6X), [Advait Pattanaik](https://open.spotify.com/artist/2Qd2hmd9M4F0f4hJjhFlvb), [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [BERETU](https://open.spotify.com/album/7z1bG55Ptk3qQ5VQKwwNq0) | 3:26 |
 | 6 | [THAGO BOUNCE](https://open.spotify.com/track/1M66itYNnPWtSWFJZ7xefF) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh), [Emcee Raga](https://open.spotify.com/artist/1lNWLyYD8Sb9WaPukYyosa) | [THAGO BOUNCE](https://open.spotify.com/album/6GDpFef4cUshDiCDr9Morv) | 3:21 |
 | 7 | [Aahana](https://open.spotify.com/track/3KECzIYpl6GkLltXGxwmPy) | [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Narayan Sharma](https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP) | [Aahana](https://open.spotify.com/album/69biYJzY4dYrCuwEV9Yv5M) | 4:24 |
 | 8 | [Janani](https://open.spotify.com/track/3zQ0AwRwPEnGQ3Vha2CuCE) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Janani](https://open.spotify.com/album/0hJicQHbw7PBDJDV7F85Q6) | 2:43 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 49785,
+  "num_followers": 49823,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abs8gAAAAADeHtCkOihv648bBoqzj0m4",
+  "snapshot_id": "abyOAAAAAACoxW+PcWXqXCdbESCoueFL",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 191970,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
-    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 234390,
-      "name": "Who Hurt You?",
-      "url": "https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8"
+      "duration_ms": 191970,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
     },
     {
       "added_at": null,
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw"
+      "duration_ms": 234390,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8"
     },
     {
       "added_at": null,
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 177400,
-      "name": "Convincing",
-      "url": "https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS"
+      "duration_ms": 201840,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw"
     },
     {
       "added_at": null,
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 182868,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/69CIhFjydgACEgjvP6aAW2"
+      "duration_ms": 177400,
+      "name": "Convincing",
+      "url": "https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS"
     },
     {
       "added_at": null,
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 213401,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/4JwsoOcsHk8nObYh0JVVE0"
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/69CIhFjydgACEgjvP6aAW2"
     },
     {
       "added_at": null,
@@ -378,15 +362,11 @@
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 245430,
-      "name": "I Only Miss You (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p"
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/4JwsoOcsHk8nObYh0JVVE0"
     },
     {
       "added_at": null,

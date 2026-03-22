@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,597 likes - 918 songs - 2 day 9 hr 51 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,597 likes - 925 songs - 2 day 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -926,5 +926,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 916 | [Old Jam \(HD\)](https://open.spotify.com/track/02qyvgqHhB10md2oMZsSy1) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Old Jam \(HD\)](https://open.spotify.com/album/3sLla5ezHeA4Aln2Sg4vUg) | 2:00 |
 | 917 | [Souls Reign Fire](https://open.spotify.com/track/0gcvgWBy9A87xtaeZxXyHp) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [Souls Reign Fire](https://open.spotify.com/album/2udl4XEQIVjT119ntkqqs0) | 6:52 |
 | 918 | [Spaceship L\-U\-V](https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 2:20 |
+| 919 | [All In](https://open.spotify.com/track/3Yl46JIvaG2ye2RjEKXTB6) | [The Deefons](https://open.spotify.com/artist/2F6LMhgMlj8nV04Mk93jvC) | [Sunrise](https://open.spotify.com/album/3SgVgzDJL2bOrJKns7Za6q) | 2:39 |
+| 920 | [I Almost Stayed](https://open.spotify.com/track/0Wou1SWFH4bpIGycvAw1cn) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [I Almost Stayed](https://open.spotify.com/album/6BRvwwyjvNOvBp1XEAEKrn) | 3:34 |
+| 921 | [Crownfall](https://open.spotify.com/track/0hOT7iWSbNuKxSN7wEFX6X) | [My Final Ground](https://open.spotify.com/artist/3kV2B3z1t64DKB5IV6Ru4j) | [Crownfall](https://open.spotify.com/album/0bP9lBJoGuSdiGuHpo4cDW) | 2:51 |
+| 922 | [La Princesa del viento grita](https://open.spotify.com/track/7bqP1GnCf6fCvauuY9JVa9) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:39 |
+| 923 | [SOAPBOX \- Single Version](https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [SOAPBOX](https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r) | 2:44 |
+| 924 | [The mask within](https://open.spotify.com/track/7yt8BBbKYkNMThw1sVnSoE) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Nameless Void](https://open.spotify.com/album/2OJuPNNRNWSbbBsCp95Vxs) | 3:29 |
+| 925 | [The Dark Is Home](https://open.spotify.com/track/7C5p0p3ZIG8f2zQWan7gnq) | [Imbrium](https://open.spotify.com/artist/6eiKKdVl94IPEbhkHEALKZ) | [Singularity](https://open.spotify.com/album/3KByw3W8HSJ1lkCTgy1P4i) | 5:27 |
 
-Snapshot ID: `AAADuEgjSl61+zq4Zez863gcw1k5ru9a`
+Snapshot ID: `AAADvzoIbfmNjdkrMNY4fhqFfzuT3qLR`

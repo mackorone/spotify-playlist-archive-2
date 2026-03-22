@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,451 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,445 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 68 | [El Mecedor](https://open.spotify.com/track/33Kh403s4v1rrOiOOHkja7) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:49 |
 | 69 | [Amor de Taberna](https://open.spotify.com/track/0gKg8J6gXCcQVLPbdSSKG3) | [Dueto Revelación](https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW) | [Populares del Año](https://open.spotify.com/album/3fKWgvAgkiPnDjvkNAlyJ7) | 3:15 |
 | 70 | [El vampiro](https://open.spotify.com/track/0agvwezDmaGoO5FAaUiElT) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:44 |
-| 71 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 72 | [Viviendo y Recordando](https://open.spotify.com/track/0TDZyxlTI0VRu47nhvmE0N) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 3:16 |
+| 71 | [Viviendo y Recordando](https://open.spotify.com/track/0TDZyxlTI0VRu47nhvmE0N) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 3:16 |
+| 72 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
 | 73 | [Caliventura](https://open.spotify.com/track/6m2F1jlADXgeZXD0HWMxTQ) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:36 |
 | 74 | [Lejos del Tambo](https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Los Más Grandes Éxitos](https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR) | 2:52 |
 | 75 | [El Jinete Perdido](https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9) | [Los Coyotes](https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5) | [Amandonos](https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c) | 2:33 |

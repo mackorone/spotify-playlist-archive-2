@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Asake, Joeboy,  Bees n Honey, King Promise & Mr Eazi, Salle,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,790 likes - 68 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,992 likes - 68 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 56 | [Touch](https://open.spotify.com/track/6EzISjTWOyxIOQ27fQuhWK) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j), [Bibi Daro](https://open.spotify.com/artist/3jsUfSamC1QnKxbDsV4nfR), [King Ajaa](https://open.spotify.com/artist/19QuSUAsX31HiaF98qoz4v) | [Touch](https://open.spotify.com/album/6eOSzs7YVenkxAP6Lcmery) | 3:12 |
 | 57 | [SALUT](https://open.spotify.com/track/7atFlorkN37ZD72Yk8INSp) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [SALUT](https://open.spotify.com/album/14GW2XrVgztEtqPnbfm1OI) | 2:33 |
 | 58 | [CLOSE](https://open.spotify.com/track/1kXgeD352yqLhIiiQw3YQz) | [Palm Brothers](https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq), [Selfmode](https://open.spotify.com/artist/12AEq0j5KPcuypzbbSJicX), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [CLOSE](https://open.spotify.com/album/0Rs5cWNh3a0rDO9awmYfG0) | 2:03 |
-| 59 | [Mzali](https://open.spotify.com/track/3NXx4dvuxGZMed7BOMUkXe) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [BlessKeys](https://open.spotify.com/artist/53LN3yROrCSfpkzFe7mEdJ), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Letters I Didn't Send](https://open.spotify.com/album/18XKwiaxexKYjoSVr8NSi3) | 8:11 |
+| 59 | [Mzali](https://open.spotify.com/track/3NXx4dvuxGZMed7BOMUkXe) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Letters I Didn't Send](https://open.spotify.com/album/18XKwiaxexKYjoSVr8NSi3) | 8:11 |
 | 60 | [With You](https://open.spotify.com/track/3mizL1Jt5XTqrpWFLW1dO4) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [With You](https://open.spotify.com/album/7EPl51mXa8P4QVWD7MmpC2) | 2:43 |
 | 61 | [Body Tea](https://open.spotify.com/track/2SIPNmncpm1dJhoKZGC7ON) | [Juanita](https://open.spotify.com/artist/2Itueij8fk67HWdPAJYqJ9) | [Body Tea](https://open.spotify.com/album/1PcJi8Y5AYmRW4pqPpZGot) | 3:00 |
 | 62 | [Only You](https://open.spotify.com/track/3jy09jBAS7ePayfgzijnr8) | [Mykah](https://open.spotify.com/artist/7sYtmDeQUL0QF1MunOQQ5l), [Gwannty](https://open.spotify.com/artist/6IWzqxG8LwDPy0GNhxT9Zf) | [Only You](https://open.spotify.com/album/37IpF9I24b45B2aBdMx8BF) | 2:16 |

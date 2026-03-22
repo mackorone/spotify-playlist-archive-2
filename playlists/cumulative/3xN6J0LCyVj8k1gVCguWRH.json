@@ -9421,6 +9421,32 @@
     },
     {
       "album": {
+        "name": "Paid Tha Cost To Be Da Bo$$",
+        "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+    },
+    {
+      "album": {
         "name": "A Little Crazy (Acoustic Version)",
         "url": "https://open.spotify.com/album/0O9QWDkFAYXX5xzIBc6e6K"
       },
@@ -25040,7 +25066,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 182845,
       "name": "Don't Break It",
       "url": "https://open.spotify.com/track/7Ew6pSlsAHElBr43GzeLoO"
@@ -54882,7 +54908,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 172682,
       "name": "Life's a Dream",
       "url": "https://open.spotify.com/track/2xeB3JNbJFSiaA2vE2vSgE"
@@ -86445,6 +86471,24 @@
     },
     {
       "album": {
+        "name": "SOME OTHER TIME",
+        "url": "https://open.spotify.com/album/46AmZTjiWw2keoqEjkKzxQ"
+      },
+      "artists": [
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "date_added": "2026-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "SOME OTHER TIME",
+      "url": "https://open.spotify.com/track/77rVr4DnWSFOJO29UGKonV"
+    },
+    {
+      "album": {
         "name": "Some Type of Way",
         "url": "https://open.spotify.com/album/4ZpJBa89f0orqtLoAvMztc"
       },
@@ -98796,7 +98840,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-22",
       "duration_ms": 177831,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3p9sIMB8owBoSVOPWl58iR"

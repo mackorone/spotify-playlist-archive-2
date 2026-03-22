@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-819 songs - 2 day 0 hr 8 min
+823 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Campo Libre \(Acústico\)](https://open.spotify.com/track/3uC17YEAFcSGRxl5MFLyZ9) | [Campo Libre](https://open.spotify.com/artist/2RGPouVkgRJHJl3Y0EnCIL), [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [Campo Libre](https://open.spotify.com/album/3Jfq4WislpKzf1TgbN5m8s) | 2:33 | 2025-12-17 | 2026-01-15 |
 | [Can you call?](https://open.spotify.com/track/4v4g7aRNtY7kk46Q6ihguu) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Can you call?](https://open.spotify.com/album/4KJ3VplFhO9gCQOGyhPJ5Y) | 2:45 | 2026-01-04 | 2026-02-03 |
 | [Candida Neve \- feat\. Maria Legato](https://open.spotify.com/track/4OVmWmGPrg3c6JryuwnpOf) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:25 | 2025-10-02 | 2025-11-29 |
-| [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-16 | 2026-02-03 |
+| [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-16 |  |
 | [Canzone di A](https://open.spotify.com/track/28it4WzTeD37iacjUxiKJG) | [Claudio Bassi](https://open.spotify.com/artist/5ybJ724whrlsUYrHiJAJf7) | [Canzone di A](https://open.spotify.com/album/3a2pFbCjSspfvZmP7BPBLS) | 4:59 | 2025-12-10 | 2026-01-05 |
 | [Capim](https://open.spotify.com/track/6Nwx6TfDnrUrb8LLIoeGJO) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Capim](https://open.spotify.com/album/253pommivuFv095QrEJCly) | 2:32 | 2023-04-27 | 2025-11-29 |
 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2026-02-16 | 2026-03-15 |
@@ -237,6 +237,7 @@
 | [For You](https://open.spotify.com/track/2pkaTtOzMeHZAbqMYcZtJx) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:38 | 2025-10-23 | 2025-12-21 |
 | [Forever](https://open.spotify.com/track/0Cuh5lx6TWoVLHJy36pz5T) | [Magenta Moody](https://open.spotify.com/artist/3UbIaBISNLCFdFZrTzPDbm) | [The Midnight Club](https://open.spotify.com/album/4Eo5xIuzdjeFbnmhmaYVtk) | 5:27 | 2025-08-23 | 2025-11-29 |
 | [Forever Young](https://open.spotify.com/track/49MO56FpFGj56tR8SAYIGo) | [CRUSHES](https://open.spotify.com/artist/1hKOcHvXIVFgmJdqcYJXuM) | [Forever Young](https://open.spotify.com/album/46zxO5mYLe4G5FksdFGFma) | 2:49 | 2025-12-16 | 2026-01-15 |
+| [Forse](https://open.spotify.com/track/3ntC3vnaj8bxxQOOSt1EFu) | [SlowlyMe](https://open.spotify.com/artist/21EPDLk3UH7IlOQccJBoVH) | [Forse](https://open.spotify.com/album/5z4E6o3AmQcATl52AMb3bM) | 2:55 | 2026-03-21 |  |
 | [Freedom from no tomorrow](https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR), [Tatiana](https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj) | [Freedom from no tomorrow](https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3) | 4:12 | 2025-12-24 | 2026-01-24 |
 | [Freeze the Moment](https://open.spotify.com/track/2Gcq7ptfslL7JZWQb80kxo) | [NuSkript](https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg) | [Freeze the Moment](https://open.spotify.com/album/5RjMIjmE7E6rPyPi9RNwpZ) | 4:45 | 2025-12-16 | 2026-01-15 |
 | [Frequency Rising](https://open.spotify.com/track/2Ixz3zGp3oSOz0XaCwKQzG) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Frequency Rising](https://open.spotify.com/album/7h1P6bCGqQYfrpu6kNGLfJ) | 3:09 | 2026-01-26 | 2026-02-28 |
@@ -248,6 +249,7 @@
 | [Gem](https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Gem](https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui) | 3:44 | 2026-03-03 |  |
 | [Ger\-ru](https://open.spotify.com/track/6NhjyDPvfIbR72a0aPwgpI) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb) | [Sicilian Connection](https://open.spotify.com/album/4LRnpkrPSzdcd9RY5DzeVD) | 3:31 | 2025-06-21 | 2025-12-21 |
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2026-03-02 |  |
+| [Getaway](https://open.spotify.com/track/3g1Vn9PzhA3vstx5fpN5Jd) | [Kathleen Elle](https://open.spotify.com/artist/4DeO2GdonsOqpAKJSYE0QB) | [Memory Lane](https://open.spotify.com/album/4Cum7RJmlLoV04qNTQYzmb) | 3:52 | 2026-03-21 |  |
 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-02-19 |  |
 | [Giammatteo](https://open.spotify.com/track/7rqiD3ucbslzxgY7MV8z8Q) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Giammatteo](https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd) | 3:35 | 2026-01-05 | 2026-02-03 |
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
@@ -360,6 +362,7 @@
 | [La Cultura Del Sospetto \- feat\. Gianni Moretti](https://open.spotify.com/track/3HbYEChQJrQSmkBLeX86W2) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:37 | 2025-10-06 | 2025-12-21 |
 | [La Differenza](https://open.spotify.com/track/1r9sJgMHfKhxCYZUU5VoHT) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [La Differenza](https://open.spotify.com/album/49eRo26NWTrozR0ZRh3SgZ) | 5:06 | 2025-08-23 | 2025-11-29 |
 | [La Differenza](https://open.spotify.com/track/6slMNhIM650C5PJOaGBX2K) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 5:06 | 2025-11-11 | 2025-12-21 |
+| [La mélodie de tes yeux](https://open.spotify.com/track/2ujCb0j7tSxg1f6LZxmRGU) | [Skelton](https://open.spotify.com/artist/1atVSpc9xqy2BDSoK4gN5c) | [La mélodie de tes yeux](https://open.spotify.com/album/45C9UUCIFxVp74hBc32qf0) | 3:27 | 2026-03-21 |  |
 | [La Nostalgia](https://open.spotify.com/track/0eaTPF1POdIbqEpIa1vMHn) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [La Nostalgia](https://open.spotify.com/album/78mlaTFw8UjB3ZnUwOimWe) | 4:05 | 2025-12-22 | 2026-01-24 |
 | [La Presencia de Dios \- Pop Edit](https://open.spotify.com/track/6uqSVhrtBpDnuW5xvZUfpM) | [Skeyn Moreno Lugo](https://open.spotify.com/artist/1dVltXc1mAmn8ECyrhxkAY) | [La Presencia de Dios](https://open.spotify.com/album/6pCrPTVLOjpHhwqixjnJ2C) | 3:51 | 2025-12-30 | 2026-01-15 |
 | [La Que Esperaba](https://open.spotify.com/track/51wC9MY76Aq6C2RBwZQlzn) | [Daniel Maldonado](https://open.spotify.com/artist/3hC3yjbS7MAARQM9hqsExU) | [La Que Esperaba](https://open.spotify.com/album/6y9yqzYjiUm8nClDmgEPz1) | 3:41 | 2026-01-07 | 2026-02-03 |
@@ -765,6 +768,7 @@
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-11-21 | 2026-01-05 |
 | [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 | 2026-02-05 | 2026-03-07 |
 | [Vivo e rinasco](https://open.spotify.com/track/10dVUOSkQQlpGNOXM8TIkU) | [Sabrina Cor](https://open.spotify.com/artist/30LQQ8lsO1RO4N3GzzDudl) | [Vivo e rinasco](https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB) | 2:57 | 2026-03-20 |  |
+| [Voices](https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2) | [Pseudo the Beatguy](https://open.spotify.com/artist/2Dzm6zujQAWKyV9X1T8N1f), [Julia A](https://open.spotify.com/artist/4UuZOWk0ZQuRTtCyj1PgIe) | [Vin\-tagé](https://open.spotify.com/album/6sdhZZcUOqSVsZZKoLnHEC) | 4:38 | 2026-03-22 |  |
 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 | 2025-12-29 | 2026-01-24 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-12-22 | 2026-01-24 |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2025-12-22 | 2026-01-24 |

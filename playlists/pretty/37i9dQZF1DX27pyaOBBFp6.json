@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25316,
+  "num_followers": 25322,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "20 Jaar Herman Van Veen - In Vogelvlucht",
-        "url": "https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Liefde Van Later",
-      "url": "https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van Armand",
         "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 207706,
       "name": "Ben Ik Te Min",
       "url": "https://open.spotify.com/track/5s6yU2Gfs9oCTxiX2LNbHC"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "20 Jaar Herman Van Veen - In Vogelvlucht",
+        "url": "https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Liefde Van Later",
+      "url": "https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Televisie-Vriendjes",
-        "url": "https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV"
-      },
-      "artists": [
-        {
-          "name": "Joop Doderer",
-          "url": "https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW"
-        },
-        {
-          "name": "De Damrakkertjes",
-          "url": "https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Swiebertje",
-      "url": "https://open.spotify.com/track/6ffETXUkqnGug5hev2G765"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd 2 - Top 100",
         "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
       },
@@ -775,22 +755,6 @@
       "duration_ms": 121613,
       "name": "De Ploem-Ploem Jenka",
       "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Het vlooiencircus",
-      "url": "https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -811,18 +775,38 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Mooiste Liedjes, Vol.1",
-        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
       },
       "artists": [
         {
-          "name": "Ria Valk",
-          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
         }
       ],
-      "duration_ms": 197853,
-      "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
-      "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
+      "duration_ms": 172640,
+      "name": "Het vlooiencircus",
+      "url": "https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Televisie-Vriendjes",
+        "url": "https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV"
+      },
+      "artists": [
+        {
+          "name": "Joop Doderer",
+          "url": "https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW"
+        },
+        {
+          "name": "De Damrakkertjes",
+          "url": "https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Swiebertje",
+      "url": "https://open.spotify.com/track/6ffETXUkqnGug5hev2G765"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -839,6 +823,22 @@
       "duration_ms": 195440,
       "name": "Tearoom-Tango",
       "url": "https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Mooiste Liedjes, Vol.1",
+        "url": "https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA"
+      },
+      "artists": [
+        {
+          "name": "Ria Valk",
+          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
+      "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie Liedjes van vroeger Top 100",
-        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
+        "name": "Het Beste van De Heikrekels - Instrumentaal",
+        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
       "artists": [
         {
-          "name": "Ted De Braak",
-          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
+          "name": "De Heikrekels",
+          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
         }
       ],
-      "duration_ms": 315853,
-      "name": "Een glaasje madeira",
-      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
+      "duration_ms": 171551,
+      "name": "Jij Bent Voor Mij Alleen",
+      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1051,34 +1051,34 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van De Heikrekels - Instrumentaal",
-        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
+        "name": "Hollands Glorie Liedjes van vroeger Top 100",
+        "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
       },
       "artists": [
         {
-          "name": "De Heikrekels",
-          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
+          "name": "Ted De Braak",
+          "url": "https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF"
         }
       ],
-      "duration_ms": 171551,
-      "name": "Jij Bent Voor Mij Alleen",
-      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
+      "duration_ms": 315853,
+      "name": "Een glaasje madeira",
+      "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
     },
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
-        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
       "artists": [
         {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
         }
       ],
-      "duration_ms": 137920,
-      "name": "Da Doo Ron Ron",
-      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
+      "duration_ms": 152626,
+      "name": "Ik Vraag Het Aan De Sterren",
+      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
+        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
       },
       "artists": [
         {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
         }
       ],
-      "duration_ms": 152626,
-      "name": "Ik Vraag Het Aan De Sterren",
-      "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
+      "duration_ms": 137920,
+      "name": "Da Doo Ron Ron",
+      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
     },
     {
       "added_at": "2024-07-19 06:41:15",

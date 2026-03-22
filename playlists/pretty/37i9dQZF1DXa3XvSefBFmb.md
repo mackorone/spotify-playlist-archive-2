@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > A celebrar 5 anos de EQUAL\. Cover: MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,161 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,168 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 23 | [Cuido de Mim](https://open.spotify.com/track/4NYbACjJKdFWTZQ7CryJDR) | [Rita Vian](https://open.spotify.com/artist/2F6B2QaWX7cz72kKtY8LRD) | [Cuido de Mim](https://open.spotify.com/album/7sMgfDDa2e4LGxiIIOLRhV) | 3:42 |
 | 24 | [Burn It](https://open.spotify.com/track/0PHLdDCsG9d7yl2sXoRCyH) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [Burn It](https://open.spotify.com/album/00f1nyXm3k6DFqnGCiZzo9) | 3:06 |
 | 25 | [Algo Mais](https://open.spotify.com/track/38DUG8SHze3qRmZ8ECNUm5) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Algo Mais](https://open.spotify.com/album/6Th9hsMeGTf9MKs9kwUBQh) | 3:05 |
-| 26 | [Outra vez](https://open.spotify.com/track/7A9xkQbFCU9ynZeptsMlAk) | [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [Outra vez](https://open.spotify.com/album/3yWpMdltdVtWr4IB0ZWWRU) | 3:17 |
+| 26 | [outra vez](https://open.spotify.com/track/7A9xkQbFCU9ynZeptsMlAk) | [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [outra vez](https://open.spotify.com/album/3yWpMdltdVtWr4IB0ZWWRU) | 3:17 |
 | 27 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 |
 | 28 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
 | 29 | [Wowó](https://open.spotify.com/track/0rgK8IXF8X9LjRHKkoHM7X) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Wowó](https://open.spotify.com/album/7hW3od1eNCfIm40UtLCSBP) | 2:24 |
