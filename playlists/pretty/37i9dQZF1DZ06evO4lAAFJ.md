@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,308 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,524 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 21 | [Divinize](https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:03 |
 | 22 | [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:40 |
 | 23 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
-| 24 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
-| 25 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
+| 24 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
+| 25 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 26 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 27 | [Catalina](https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:34 |
 | 28 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 38 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
 | 39 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 |
 | 40 | [A NINGÚN HOMBRE \- Cap.11: Poder](https://open.spotify.com/track/0RhO0RV0YKyF05kZ4uQOHW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 1:34 |
-| 41 | [Blinding Lights \(with ROSALÍA\) \- Remix](https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Blinding Lights \(Remix\)](https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410) | 3:36 |
-| 42 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 |
+| 41 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 |
+| 42 | [Blinding Lights \(with ROSALÍA\) \- Remix](https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Blinding Lights \(Remix\)](https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410) | 3:36 |
 | 43 | [HIGHEST IN THE ROOM \(feat\. ROSALÍA & Lil Baby\) \- REMIX](https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
 | 44 | [QUE NO SALGA LA LUNA \- Cap.2: Boda](https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 4:29 |
 | 45 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 |
 | 46 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 |
 
-Snapshot ID: `abyOAAAAAAAxswP70T+DgufVq1yAW8c9`
+Snapshot ID: `ab3fgAAAAAAc6kx6TKEUsa+490z19z/8`

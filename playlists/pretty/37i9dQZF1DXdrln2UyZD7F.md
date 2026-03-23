@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,056 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,085 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 43 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 44 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 45 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 46 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
-| 47 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
+| 46 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
+| 47 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 48 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 49 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 50 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |

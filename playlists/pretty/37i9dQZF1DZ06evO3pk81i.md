@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,282 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,283 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 11 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
 | 12 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 |
 | 13 | [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 |
-| 14 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
+| 14 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 15 | [No Hay Solución](https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:24 |
-| 16 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
+| 16 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 17 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
 | 18 | [Arrancarte](https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Despedida](https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD) | 2:43 |
 | 19 | [Que Vas a Hacer \(Version Norteña\)](https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 49 | [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 |
 | 50 | [Era Mia](https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Era Mia](https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI) | 3:46 |
 
-Snapshot ID: `abyOAAAAAABEqRKOS3LB9/flsQ+kyEE+`
+Snapshot ID: `ab3fgAAAAAAveA50s4PrIS5ASg3Y9rkY`

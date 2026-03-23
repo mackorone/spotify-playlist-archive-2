@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 403148,
+  "num_followers": 403137,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2026-03-06 05:00:13",

@@ -4,12 +4,12 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 51 min
+126 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Stoopid](https://open.spotify.com/track/4p7XmoBgBDQ3BVSbLHhAZq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [2 Stoopid](https://open.spotify.com/album/63aQt6R3E1ifV5xVOyJTgG) | 2:58 | 2022-01-09 | 2022-01-12 |
-| [A Night to Remember \(ANTR\)](https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 2:41 | 2025-10-12 |  |
+| [A Night to Remember \(ANTR\)](https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 2:41 | 2025-10-12 | 2026-03-23 |
 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 | 2025-01-19 |  |
 | [Abeg Abeg \(Remix\) \[feat\. Tuface & Timaya\]](https://open.spotify.com/track/1RkV1sgWgZOllXvsuNFVkw) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Tuface](https://open.spotify.com/artist/103VoRYJOoSKigBMkS5fNR), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/4RsttwlINL1UxDTZL2rQ6I) | 3:32 | 2021-12-28 | 2023-04-14 |
 | [Abeg Abeg \- Remix](https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA) | 3:32 | 2023-04-28 | 2024-11-26 |
@@ -32,6 +32,7 @@
 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 | 2021-12-28 |  |
 | [Born to Win](https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:53 | 2022-03-23 |  |
 | [Born to Win](https://open.spotify.com/track/7aMI3W4ZCeTe6Ehw17SCAr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Born to Win](https://open.spotify.com/album/321Mt20RKG05X44Ta4JvKF) | 2:53 | 2021-12-28 | 2022-03-24 |
+| [Bow Down](https://open.spotify.com/track/0udi5wEx1hvToZRFRRmYL7) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:06 | 2026-03-23 |  |
 | [Bow Down](https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:24 | 2021-12-28 | 2023-08-09 |
 | [Bum Bum](https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:38 | 2021-12-28 | 2023-08-20 |
 | [Bum Bum](https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE) | 3:38 | 2023-08-19 | 2023-12-14 |

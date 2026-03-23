@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 528281,
+  "num_followers": 528324,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Maquinaria (Remasterizado)",
         "url": "https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R"
       },
@@ -839,6 +819,22 @@
       "duration_ms": 313260,
       "name": "Eso Que Anda - Remasterizado",
       "url": "https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+      },
+      "artists": [
+        {
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+        }
+      ],
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     }
   ],
   "unique_name": "Salsa Cubana",

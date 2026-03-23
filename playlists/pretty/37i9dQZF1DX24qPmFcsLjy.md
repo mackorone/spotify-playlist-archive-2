@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,544 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,571 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 7 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 8 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 | 9 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
-| 10 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
-| 11 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
+| 10 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
+| 11 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 12 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 13 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 14 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 19 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 20 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 21 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
-| 22 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
-| 23 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
+| 22 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
+| 23 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 24 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 25 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 26 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 |

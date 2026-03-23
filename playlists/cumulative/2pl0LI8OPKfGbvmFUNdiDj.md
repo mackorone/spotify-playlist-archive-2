@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-397 songs - 22 hr 15 min
+398 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |
+| [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-22 |  |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-18 | 2026-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Kenia Os en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,058,409 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,057,984 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > Every summer needs a soundtrack\. 🐊🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,817 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,802 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 | 41 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 42 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 43 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:20 |
-| 44 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
-| 45 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
-| 46 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
+| 44 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
+| 45 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
+| 46 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 47 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 48 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 |
 | 49 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "description": "Here it is, the playlist for the ultimate throwback bash!",
-  "num_followers": 578414,
+  "num_followers": 578754,
   "original_name": "Throwback Party",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 210960,
       "name": "Stereo Hearts (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Planet Pit (Deluxe Version)",
         "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 227280,
       "name": "International Love (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 212960,
       "name": "Blame (feat. John Newman)",
       "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Don't Worry (feat. Ray Dalton)",
         "url": "https://open.spotify.com/album/7rtYhYGbnV4OPbqIhendi8"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 214789,
       "name": "Don't Worry (with Ray Dalton) - Radio Edit",
       "url": "https://open.spotify.com/track/63CSozvYUEudPp12679UVF"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2023,26 +2023,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Hurts",
-          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 184280,
-      "name": "Under Control (feat. Hurts)",
-      "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2083,50 +2075,26 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
         {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
         {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
         }
       ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+      "duration_ms": 184280,
+      "name": "Under Control (feat. Hurts)",
+      "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2147,18 +2115,34 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
       "artists": [
         {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
-      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2175,6 +2159,22 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2487,6 +2487,26 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
+        "name": "Push The Feeling On",
+        "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
+      },
+      "artists": [
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Push The Feeling On - Mk Dub Revisited Edit",
+      "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
         "name": "Born This Way (International Special Edition Version)",
         "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
@@ -2519,26 +2539,6 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
-        "name": "Push The Feeling On",
-        "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
-      },
-      "artists": [
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Push The Feeling On - Mk Dub Revisited Edit",
-      "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Sex & Violins",
         "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2675,18 +2675,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
-        "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
+        "name": "D-D-Don't Don't Stop The Beat",
+        "url": "https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7"
       },
       "artists": [
         {
-          "name": "Kaoma",
-          "url": "https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu"
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Lambada - Original Version 1989",
-      "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
+      "duration_ms": 181826,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
     }
   ],
   "unique_name": "Throwback Party",

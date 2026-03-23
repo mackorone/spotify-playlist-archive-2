@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2020-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2020-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"

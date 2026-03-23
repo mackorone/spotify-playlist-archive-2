@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108218,
+  "num_followers": 108229,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAByDhYpX6sBPu5uHWEy4kSH",
+  "snapshot_id": "ab3fgAAAAAAXgJi4Weu6fPzH2CB1Qdf2",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 287066,
-      "name": "Jij Bent Alles",
-      "url": "https://open.spotify.com/track/6GbvTKd2CcWta7qezSzdOJ"
+      "duration_ms": 218826,
+      "name": "Zomer",
+      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Zomer",
-      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
+      "duration_ms": 287066,
+      "name": "Jij Bent Alles",
+      "url": "https://open.spotify.com/track/6GbvTKd2CcWta7qezSzdOJ"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
+      "duration_ms": 210173,
+      "name": "'T Is Voorbij",
+      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 210173,
-      "name": "'T Is Voorbij",
-      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 952669,
+  "num_followers": 952796,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
-        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 263899,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 256971,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1255,26 +1275,6 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "El Bolero",
-      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Wildest Dreams (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "El Ritmo Mundial",
         "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 279986,
       "name": "Vasos Vac\u00edos - Remasterizado 2008",
       "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Wildest Dreams (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
     },
     {
       "added_at": "2025-11-19 18:19:27",

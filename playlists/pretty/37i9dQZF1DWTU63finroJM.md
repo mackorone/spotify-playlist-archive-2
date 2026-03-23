@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,131 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,129 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faço Acontecer](https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [Faço Acontecer](https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M) | 2:36 |
 | 2 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 |
-| 3 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
-| 4 | [JDP](https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Misunderstood](https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT) | 2:17 |
+| 3 | [JDP](https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Misunderstood](https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT) | 2:17 |
+| 4 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
 | 5 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 6 | [Without Me](https://open.spotify.com/track/4fp4bybobrFHSjpG39jG64) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Without Me](https://open.spotify.com/album/0m7SYiB2n6V3FNZumxHSwW) | 3:39 |
 | 7 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |

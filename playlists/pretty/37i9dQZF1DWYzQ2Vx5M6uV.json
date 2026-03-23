@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143060,
+  "num_followers": 143118,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Me Pasa (Piscis)",
         "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 201529,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "1+1=1",
-      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "1+1=1",
+      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "El Lugar M\u00e1s Feliz Del Mundo",
-        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "El Lugar M\u00e1s Feliz Del Mundo",
-      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 199850,
       "name": "Eva Longoria",
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "El Lugar M\u00e1s Feliz Del Mundo",
+        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "El Lugar M\u00e1s Feliz Del Mundo",
+      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Laho III",
         "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 178909,
       "name": "Laho III",
       "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Todo Se Supera",
-        "url": "https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Todo Se Supera",
-      "url": "https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Un Trip",
         "url": "https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 158010,
       "name": "Un Trip",
       "url": "https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Todo Se Supera",
+        "url": "https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Todo Se Supera",
+      "url": "https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1383,54 +1383,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Ojitos Chinos",
-        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Ojitos Chinos",
-      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "NoNoNo",
-        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "coletera",
-        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
-      },
-      "artists": [
-        {
-          "name": "Akos",
-          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
-        }
-      ],
-      "duration_ms": 97507,
-      "name": "coletera",
-      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Afro Vibes (2024-07-19)",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -1451,6 +1403,54 @@
       "duration_ms": 189500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Ojitos Chinos",
+        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Ojitos Chinos",
+      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "coletera",
+        "url": "https://open.spotify.com/album/2ZqbEY6LccdL1XaLHqb2G9"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "duration_ms": 97507,
+      "name": "coletera",
+      "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "NoNoNo",
+        "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "ohsaye",
         "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 181346,
       "name": "ohsaye",
       "url": "https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "EN EL MOMENTO",
-        "url": "https://open.spotify.com/album/66SZ21oncuE4M7b1GyBlOS"
-      },
-      "artists": [
-        {
-          "name": "Veronica Pichardo",
-          "url": "https://open.spotify.com/artist/2pJzbbdclqku9nUuKXQQjQ"
-        },
-        {
-          "name": "Ethan Morris",
-          "url": "https://open.spotify.com/artist/5bV2xk8geXdbZJvNVPprmD"
-        }
-      ],
-      "duration_ms": 156063,
-      "name": "EN EL MOMENTO",
-      "url": "https://open.spotify.com/track/4oRZXIY18vpKC7bB0CrCY4"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "C\u00f3motu",
         "url": "https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 164848,
       "name": "C\u00f3motu",
       "url": "https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "EN EL MOMENTO",
+        "url": "https://open.spotify.com/album/66SZ21oncuE4M7b1GyBlOS"
+      },
+      "artists": [
+        {
+          "name": "Veronica Pichardo",
+          "url": "https://open.spotify.com/artist/2pJzbbdclqku9nUuKXQQjQ"
+        },
+        {
+          "name": "Ethan Morris",
+          "url": "https://open.spotify.com/artist/5bV2xk8geXdbZJvNVPprmD"
+        }
+      ],
+      "duration_ms": 156063,
+      "name": "EN EL MOMENTO",
+      "url": "https://open.spotify.com/track/4oRZXIY18vpKC7bB0CrCY4"
     },
     {
       "added_at": "2026-03-20 04:00:59",

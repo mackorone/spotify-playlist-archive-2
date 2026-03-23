@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87783,
+  "num_followers": 87781,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Campesino",
-        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
-      },
-      "artists": [
-        {
-          "name": "La Doble A",
-          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
-        }
-      ],
-      "duration_ms": 278724,
-      "name": "Campesino",
-      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 263449,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Campesino",
+        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
+      },
+      "artists": [
+        {
+          "name": "La Doble A",
+          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
+        }
+      ],
+      "duration_ms": 278724,
+      "name": "Campesino",
+      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Los Kitsch de Colombia Presentan: 1/3",
-        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
       "artists": [
         {
-          "name": "The Kitsch",
-          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
         }
       ],
-      "duration_ms": 155000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+        "name": "Los Kitsch de Colombia Presentan: 1/3",
+        "url": "https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ"
       },
       "artists": [
         {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+          "name": "The Kitsch",
+          "url": "https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+      "duration_ms": 155000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj"
     },
     {
       "added_at": "2024-09-20 08:27:00",

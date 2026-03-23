@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 137573,
       "name": "End Titles",
       "url": "https://open.spotify.com/track/5dIMP9s07iyL5RXn3JsabP"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 196546,
       "name": "I Do Take You",
       "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 214040,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/3rs69Bg9MqEj1w0FXUYVSu"
@@ -1120,10 +1120,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 177626,
       "name": "Long Lost Lover",
       "url": "https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62"
+    },
+    {
+      "album": {
+        "name": "International (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Long Lost Lover",
+      "url": "https://open.spotify.com/track/2bJcjMdRl2VRJdyRGnL79l"
     },
     {
       "album": {
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 187066,
       "name": "Loving Cup",
       "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 193946,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/5Yif0s3XbfCnznoFkvbQSG"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 404080,
       "name": "MacArthur Park",
       "url": "https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r"

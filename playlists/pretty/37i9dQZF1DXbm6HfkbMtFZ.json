@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 837803,
+  "num_followers": 837859,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -871,22 +871,6 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -927,6 +911,22 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
+        "name": "Brenton Wood's 18 Best",
+        "url": "https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 138226,
+      "name": "Great Big Bundle Of Love",
+      "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Brenton Wood's 18 Best",
-        "url": "https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa"
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
       "artists": [
         {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 138226,
-      "name": "Great Big Bundle Of Love",
-      "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1131,22 +1147,6 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
         "name": "The Gold (Nick Waterhouse Remix)",
         "url": "https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 249773,
       "name": "The Gold - Nick Waterhouse Remix",
       "url": "https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Grapetooth",
-        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
-      },
-      "artists": [
-        {
-          "name": "Grapetooth",
-          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Red Wine",
-      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Grapetooth",
+        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+      },
+      "artists": [
+        {
+          "name": "Grapetooth",
+          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
     },
     {
       "added_at": "2026-03-19 20:00:23",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-03-19 20:00:23",
       "album": {
-        "name": "Thunderhead",
-        "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
-      },
-      "artists": [
-        {
-          "name": "Kinji",
-          "url": "https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "pocketwatch",
-      "url": "https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ"
-    },
-    {
-      "added_at": "2026-03-19 20:00:23",
-      "album": {
         "name": "S.O.L. EP",
         "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 268179,
       "name": "Off to the Side",
       "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2026-03-19 20:00:23",
+      "album": {
+        "name": "Thunderhead",
+        "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
+      },
+      "artists": [
+        {
+          "name": "Kinji",
+          "url": "https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "pocketwatch",
+      "url": "https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ"
     },
     {
       "added_at": "2026-03-19 20:00:23",

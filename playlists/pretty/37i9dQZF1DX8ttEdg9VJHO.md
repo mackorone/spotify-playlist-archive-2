@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,586 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,702 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 31 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 32 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
 | 33 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
-| 34 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
-| 35 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
+| 34 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
+| 35 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 36 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
 | 37 | [Giants](https://open.spotify.com/track/76OQzYqSzlprSdbP643dg9) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Giants](https://open.spotify.com/album/5N4YE3TGtPXn9iJUnDVGo0) | 3:12 |
 | 38 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 58 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
 | 59 | [Mehr davon](https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Mehr davon](https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm) | 2:55 |
 | 60 | [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 |
-| 61 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
-| 62 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
+| 61 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
+| 62 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
 | 63 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
 | 64 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
 | 65 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
-| 66 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
-| 67 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
+| 66 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
+| 67 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 68 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 69 | [Love U Again](https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Love U Again](https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M) | 2:46 |
 | 70 | [Small Steps](https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Small Steps](https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce) | 2:46 |

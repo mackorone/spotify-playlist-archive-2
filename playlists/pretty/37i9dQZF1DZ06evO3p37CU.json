@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACLgV0vLZLhpoal1my2UOaG",
+  "snapshot_id": "ab3fgAAAAAAbK6YmE0yfRK1QJFLD3vpd",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 410733,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swing (From \"Marvel's Spider-Man 2\")",
         "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 184346,
       "name": "Swing - From \"Marvel's Spider-Man 2\"",
       "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 410733,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 173589,
       "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+        "name": "Revenge Of The Dreamers III: Director's Cut",
+        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 172240,
-      "name": "Big Titties (feat. Baauer and EarthGang)",
-      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+      "duration_ms": 199706,
+      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Big Titties (feat. Baauer and EarthGang)",
+      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GHETTO GODS",
         "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
@@ -1147,34 +1175,6 @@
       "duration_ms": 240288,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge Of The Dreamers III: Director's Cut",
-        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,

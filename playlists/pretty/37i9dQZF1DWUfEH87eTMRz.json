@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 20, 21 y 22.",
-  "num_followers": 45762,
+  "num_followers": 45773,
   "original_name": "Festival Est\u00e9reo Picnic 2026",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,18 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "Coastal Grooves",
         "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Sosiego enla voz",
-        "url": "https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8"
-      },
-      "artists": [
-        {
-          "name": "Agraciada",
-          "url": "https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ"
-        }
-      ],
-      "duration_ms": 123237,
-      "name": "Sosiego enla voz",
-      "url": "https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "una casualidad",
         "url": "https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 236450,
       "name": "una casualidad",
       "url": "https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "Sosiego enla voz",
+        "url": "https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8"
+      },
+      "artists": [
+        {
+          "name": "Agraciada",
+          "url": "https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ"
+        }
+      ],
+      "duration_ms": 123237,
+      "name": "Sosiego enla voz",
+      "url": "https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ"
     },
     {
       "added_at": "2026-02-05 20:53:46",

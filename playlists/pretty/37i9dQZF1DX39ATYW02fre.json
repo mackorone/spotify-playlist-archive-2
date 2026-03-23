@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 270531,
+  "num_followers": 270557,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
         }
       ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+      "duration_ms": 238032,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -227,22 +231,18 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Brightest Lights",
-        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 238032,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2026-01-23 00:00:37",

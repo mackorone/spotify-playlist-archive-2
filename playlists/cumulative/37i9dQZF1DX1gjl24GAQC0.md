@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: BTS\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-834 songs - 1 day 21 hr 13 min
+835 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-03 | 2022-04-07 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-11 | 2024-04-24 |
 | [Body Language](https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Body Language](https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V) | 2:53 | 2025-10-13 | 2025-10-28 |
+| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-20 |  |
 | [BOMBA](https://open.spotify.com/track/4UOhWJXihWNNNaDwGSUSqP) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BOMBA](https://open.spotify.com/album/1e56g1NQaBAfERtl7az1n7) | 2:39 | 2025-08-05 | 2025-08-12 |
 | [Boogie Man](https://open.spotify.com/track/0aAXKcYMXMfWXwWoRgcIma) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Boogie Man](https://open.spotify.com/album/31nJ079frWEmOsFtYepjdw) | 3:27 | 2023-12-06 | 2023-12-13 |
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2022-01-17 | 2024-06-26 |
@@ -766,7 +767,7 @@
 | [Valkyrie](https://open.spotify.com/track/0oNFVyzwK6TFdFHSsD1dmC) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [LIGHT US](https://open.spotify.com/album/6tSOZb6wWFG8EZdcxXDyli) | 3:27 | 2022-04-04 | 2022-05-10 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2022-03-31 | 2022-04-12 |
 | [Veil](https://open.spotify.com/track/3s0eqXMoij2RmAz2qiN3Bq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Veil](https://open.spotify.com/album/245a7QKvETcXIn3iilhU3T) | 2:52 | 2025-09-13 | 2025-09-30 |
-| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 |  |
+| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2022-04-04 | 2026-03-23 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 | 2024-04-18 | 2024-08-27 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-05-09 | 2024-04-19 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 | 2023-05-01 |

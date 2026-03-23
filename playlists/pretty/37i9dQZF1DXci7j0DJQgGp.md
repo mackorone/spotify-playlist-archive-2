@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,751 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693,668 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 13 | [I Don't Know You](https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:44 |
 | 14 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 15 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
-| 16 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
-| 17 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 16 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 17 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 | 18 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 19 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
 | 20 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 45 | [Who Else Could I Be](https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:35 |
 | 46 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 47 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 48 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 |
-| 49 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
+| 48 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
+| 49 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 |
 | 50 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 51 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
 | 52 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |

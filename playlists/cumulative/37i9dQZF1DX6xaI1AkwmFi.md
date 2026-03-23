@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-553 songs - 1 day 8 hr 3 min
+554 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 | 2025-06-03 | 2025-07-02 |
 | [エヴォリューション](https://open.spotify.com/track/2l6SJgROFpqSHPw7yZuE7i) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/7rfDn22mEaa7n5pIDhB98n) | 2:50 | 2024-05-01 | 2024-05-29 |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-09 |  |
+| [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 | 2026-03-10 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-27 | 2025-11-28 |
 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2024-11-06 | 2024-12-04 |
 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 | 2025-01-21 | 2025-05-14 |
@@ -530,7 +531,7 @@
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2023-11-28 | 2024-02-13 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-04-17 | 2026-02-05 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-23 | 2023-12-04 |
-| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2024-01-09 |  |
+| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2024-01-09 | 2026-03-23 |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-23 | 2024-08-21 |
 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 | 2025-02-20 | 2025-03-19 |
 | [蜃気楼](https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [蜃気楼](https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS) | 3:29 | 2024-09-18 | 2024-10-09 |

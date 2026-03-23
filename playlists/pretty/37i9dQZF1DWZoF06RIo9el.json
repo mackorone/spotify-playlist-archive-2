@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de marzo 2026. Cover: Omar Courtz",
-  "num_followers": 1555607,
+  "num_followers": 1555567,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,26 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "Y si peleamos",
-        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+        "name": "ganga",
+        "url": "https://open.spotify.com/album/7hUNrguCnr82K3zt93l1pQ"
       },
       "artists": [
         {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Y si peleamos",
-      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+      "duration_ms": 165949,
+      "name": "ganga",
+      "url": "https://open.spotify.com/track/7gyHVcxDQ0uMnWwGTsE9YX"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -203,26 +207,22 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "ganga",
-        "url": "https://open.spotify.com/album/7hUNrguCnr82K3zt93l1pQ"
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 165949,
-      "name": "ganga",
-      "url": "https://open.spotify.com/track/7gyHVcxDQ0uMnWwGTsE9YX"
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 172157,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "SUPERARTE",
         "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 207984,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
       },
       "artists": [
         {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
         }
       ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
       },
       "artists": [
         {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "N U E V A S A M I G A S",
-        "url": "https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "N U E V A S A M I G A S",
-      "url": "https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "monumento..",
         "url": "https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 170904,
       "name": "monumento..",
       "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "N U E V A S A M I G A S",
+        "url": "https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "N U E V A S A M I G A S",
+      "url": "https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u"
     },
     {
       "added_at": "2026-03-11 13:46:35",

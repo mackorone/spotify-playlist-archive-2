@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,470 likes - 69 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,535 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 38 | [Sofa Soup](https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Sofa Soup](https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs) | 2:49 |
 | 39 | [It Wasn't Me](https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3) | [Mike Jasom](https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB) | [It Wasn't Me](https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck) | 2:14 |
 | 40 | [The Things That We Should Say](https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [The Things That We Should Say](https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv) | 2:08 |
-| 41 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
-| 42 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
+| 41 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
+| 42 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
 | 43 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 44 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
 | 45 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 60 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
 | 61 | [0114](https://open.spotify.com/track/34da62SjTFzZcaWslChNn2) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [0114](https://open.spotify.com/album/4iT15Ypd5pJTGxyGlslJUt) | 2:39 |
 | 62 | [Inside The Rider \- Darkzy Remix](https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Inside The Rider \(Darkzy Remix\)](https://open.spotify.com/album/0jeNTBGFj5lcFIdPEgTgXD) | 2:52 |
-| 63 | [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 |
-| 64 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
+| 63 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
+| 64 | [Ur Number](https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn) | [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj) | [Ur Number](https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN) | 2:35 |
 | 65 | [NO MORE PAIN](https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [NO MORE PAIN](https://open.spotify.com/album/1o1nkytV9caZFcfKOAR5RI) | 3:27 |
 | 66 | [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 |
 | 67 | [Cheat Code](https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40) | [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Cheat Code](https://open.spotify.com/album/0pPpPEkkUO8QX7OHT3xcRE) | 2:41 |

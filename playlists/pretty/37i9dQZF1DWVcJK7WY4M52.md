@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 
 > From the decade that brought us Britney, Spice Girls, Coolio and so many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,001 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,533 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 37 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 38 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 |
 | 39 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 |
-| 40 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
-| 41 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
+| 40 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
+| 41 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 42 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 | 43 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 44 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 54 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
 | 55 | [Here Comes the Hotstepper \- Heartical Mix](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5) | 4:10 |
 | 56 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
-| 57 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
-| 58 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 57 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 58 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 |
 | 59 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
 | 60 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 61 | [Just Another Day](https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcJK7WY4M52.md) - [plain]
 | 85 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 86 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
 | 87 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 |
-| 88 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
-| 89 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 88 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 89 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
 | 90 | [The Shoop Shoop Song \(It's In His Kiss\)](https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 2:50 |
 | 91 | [Emotions](https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:08 |
 | 92 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |

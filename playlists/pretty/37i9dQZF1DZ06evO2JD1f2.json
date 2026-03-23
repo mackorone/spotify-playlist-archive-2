@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13390,
+  "num_followers": 13391,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAB2XgUdZPyHsxJTVRH5hYQn",
+  "snapshot_id": "ab3fgAAAAACN/hkVxfhdBaGAQEu0HG9Y",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
       "artists": [
         {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
+      "duration_ms": 106843,
+      "name": "Can't Be Fucked With",
+      "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
     },
     {
       "added_at": null,
@@ -411,22 +407,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 106843,
-      "name": "Can't Be Fucked With",
-      "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
       "added_at": null,

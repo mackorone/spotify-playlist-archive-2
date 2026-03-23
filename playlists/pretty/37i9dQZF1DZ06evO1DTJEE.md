@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,225 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,284 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 21 | [I Just Need You](https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:03 |
 | 22 | [I Hope She's Drinkin' Tonight](https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:08 |
 | 23 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
-| 24 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
-| 25 | [Workin' On Me](https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:36 |
+| 24 | [Workin' On Me](https://open.spotify.com/track/5yW4e8NG9a14JctdIlXAFt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:36 |
+| 25 | [Bartender In Destin \- Acoustic](https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Midtown Sessions](https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT) | 3:13 |
 | 26 | [If It Wasn’t For Trucks](https://open.spotify.com/track/3wnYQrgVJO5Kse4Pq8eyoz) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp) | 3:17 |
 | 27 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
 | 28 | [Looking Back On This](https://open.spotify.com/track/0n29uT9GJvsN0cWdsVWdEK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Huntin' Land \(feat\. Riley Green\)](https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:01 |
 | 50 | [Stick to My Guns \(feat\. Riley Green\)](https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:05 |
 
-Snapshot ID: `abyOAAAAAAA79h+QdoSCHE7LWPD5kj8l`
+Snapshot ID: `ab3fgAAAAACDAg2vzFOmyvPAemlElh+v`

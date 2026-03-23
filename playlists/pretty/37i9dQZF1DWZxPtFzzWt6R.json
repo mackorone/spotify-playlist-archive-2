@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 110456,
+  "num_followers": 110494,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Voc\u00ea Vai Cantar",
-        "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
-      },
-      "artists": [
-        {
-          "name": "Samuel Vieira",
-          "url": "https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
-        }
-      ],
-      "duration_ms": 310143,
-      "name": "Voc\u00ea Vai Cantar",
-      "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Do Meu Jeito (Majestade)",
         "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+        "name": "Voc\u00ea Vai Cantar",
+        "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
       },
       "artists": [
         {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+          "name": "Samuel Vieira",
+          "url": "https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
         }
       ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+      "duration_ms": 310143,
+      "name": "Voc\u00ea Vai Cantar",
+      "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -659,6 +643,22 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -671,26 +671,6 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
-        "name": "Guerreiro Adorador",
-        "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
-      },
-      "artists": [
-        {
-          "name": "Ismael Junior",
-          "url": "https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 352085,
-      "name": "Guerreiro Adorador",
-      "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -723,6 +703,26 @@
       "duration_ms": 200562,
       "name": "A Terra e o Lavrador",
       "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Guerreiro Adorador",
+        "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
+      },
+      "artists": [
+        {
+          "name": "Ismael Junior",
+          "url": "https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 352085,
+      "name": "Guerreiro Adorador",
+      "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
     },
     {
       "added_at": "2026-02-27 03:01:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-27 03:01:13",
       "album": {
-        "name": "Assim Como Deus Quer",
-        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Assim Como Deus Quer",
-      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
-    },
-    {
-      "added_at": "2026-02-27 03:01:13",
-      "album": {
         "name": "Fora do Normal (Majestade) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225365,
       "name": "Fora do Normal (Majestade) - Ao Vivo",
       "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+    },
+    {
+      "added_at": "2026-02-27 03:01:13",
+      "album": {
+        "name": "Assim Como Deus Quer",
+        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Assim Como Deus Quer",
+      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
     },
     {
       "added_at": "2026-02-27 03:01:13",

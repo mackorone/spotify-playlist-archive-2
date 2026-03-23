@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 126446,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
@@ -2642,6 +2642,24 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Metro Station",
+        "url": "https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG"
+      },
+      "artists": [
+        {
+          "name": "Metro Station",
+          "url": "https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN"
+        }
+      ],
+      "date_added": "2025-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
     },
     {
       "album": {

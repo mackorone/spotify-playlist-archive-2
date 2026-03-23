@@ -4,7 +4,7 @@
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 40 min
+75 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Stoned](https://open.spotify.com/track/3axX67FjHMq8tVdHuB7sP5) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:08 | 2025-06-15 |  |
 | [Sunny Days](https://open.spotify.com/track/2Idq7J9Y7JwYuUgxBNJmNN) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:12 | 2025-06-29 | 2025-11-08 |
 | [Tails I Lose](https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:45 | 2025-06-15 |  |
+| [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 | 2026-03-23 |  |
 | [Things I Never Told You](https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:41 | 2025-06-15 |  |
 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 | 2025-06-15 |  |
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2025-06-15 |  |

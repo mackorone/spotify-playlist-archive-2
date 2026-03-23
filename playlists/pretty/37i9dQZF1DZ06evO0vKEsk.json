@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132836,
+  "num_followers": 132838,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABaW1K4j6ev7rapKliMQlgO",
+  "snapshot_id": "ab3fgAAAAAB/JTjcJEpwlMCxTiF7yU7n",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 285419,
+      "name": "Acima da M\u00e9dia",
+      "url": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 275875,
       "name": "Raridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Oi3FSF0PT3b5bG4ziq2U8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 285419,
-      "name": "Acima da M\u00e9dia",
-      "url": "https://open.spotify.com/track/6cMyK8RdagUw3kiKzE0olj"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321039,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321039,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 310183,
-      "name": "Meu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bruna Karla Falando de Amor",
         "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+        "name": "Meu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
+      "duration_ms": 310183,
+      "name": "Meu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 321574,
       "name": "Eu Creio (Ao Vivo)",
       "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     }
   ],
   "unique_name": "This Is Bruna Karla",

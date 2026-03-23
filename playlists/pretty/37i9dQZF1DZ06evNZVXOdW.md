@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,457 likes - 42 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 42 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 41 | [Ovid's Metamorphoses](https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 15:11 |
 | 42 | [Coming Home, Pt\. 2](https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:48 |
 
-Snapshot ID: `abyOAAAAAABP0vGz63ZWt16TkflRlB7f`
+Snapshot ID: `ab3fgAAAAAB/6/X53GqqpBkjNBDjLjDy`

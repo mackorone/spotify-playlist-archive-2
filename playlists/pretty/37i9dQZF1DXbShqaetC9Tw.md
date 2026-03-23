@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,759 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,751 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 24 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
 | 25 | [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 |
 | 26 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
-| 27 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
-| 28 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
+| 27 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
+| 28 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
 | 29 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
 | 30 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 |
 | 31 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 40 | [You](https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [You](https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd) | 3:28 |
 | 41 | [Don't Forget About Me](https://open.spotify.com/track/5Ho92lX5GVGgcJSkUA9sPi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/2qkmlxdDZxwLEhxU09LcvS) | 3:26 |
 | 42 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
-| 43 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
-| 44 | [The Night’s Window](https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 4:24 |
+| 43 | [The Night’s Window](https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 4:24 |
+| 44 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |
 | 45 | [Parched Blue](https://open.spotify.com/track/5TNLQVuprXpb48RdTTdXE0) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [My Blue has always been Shattered by the Night](https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef) | 3:32 |
 | 46 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 47 | [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 |

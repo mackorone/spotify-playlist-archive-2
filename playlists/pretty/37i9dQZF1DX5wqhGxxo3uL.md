@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,598 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,614 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 28 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 29 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 30 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
-| 31 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
-| 32 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
+| 31 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
+| 32 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 33 | [Boyfriend](https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 2:51 |
 | 34 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
 | 35 | [Old Town Road \(feat\. Billy Ray Cyrus\) \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 60 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 61 | [Olivia](https://open.spotify.com/track/5dONhl6aXFuN86UBdayF6W) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:57 |
 | 62 | [7 Things \- Single Version](https://open.spotify.com/track/5ecZWU5uQOiCVSnPxBZNmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Breakout](https://open.spotify.com/album/0Yu3czJNOQ68fZgkvpjuHL) | 3:33 |
-| 63 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 |
-| 64 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
+| 63 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
+| 64 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 |
 | 65 | [greedy](https://open.spotify.com/track/6wCv0m87EJ6kYGUi5c0kbG) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:09 |
 | 66 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 |
 | 67 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
-| 68 | [good 4 u](https://open.spotify.com/track/6P4d1NWBCNIYZjzF9k1mVN) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:58 |
-| 69 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
+| 68 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
+| 69 | [good 4 u](https://open.spotify.com/track/6P4d1NWBCNIYZjzF9k1mVN) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:58 |
 | 70 | [Feather](https://open.spotify.com/track/2ESbXlYrHN88KwqcIjsljW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/6a55CzD7q7fcHz9B8IGO0p) | 3:05 |
 | 71 | [7 rings](https://open.spotify.com/track/0nox76VxGYPIIIP7yr5I6o) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 2:58 |
 | 72 | [People You Know](https://open.spotify.com/track/5UqZDGclEuq7g3sgUFad0J) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 3:14 |
-| 73 | [deja vu](https://open.spotify.com/track/3ucQ4DLpH8RgyzqYBMnDpj) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 3:35 |
-| 74 | [Say So](https://open.spotify.com/track/0FsKQ04gn6CHHOq2ISEm0H) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/3n5Coa56i6foIGITrYGX7o) | 3:57 |
+| 73 | [Say So](https://open.spotify.com/track/0FsKQ04gn6CHHOq2ISEm0H) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/3n5Coa56i6foIGITrYGX7o) | 3:57 |
+| 74 | [deja vu](https://open.spotify.com/track/3ucQ4DLpH8RgyzqYBMnDpj) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 3:35 |
 | 75 | [About Damn Time](https://open.spotify.com/track/4a3D8glGZxhlJfOs1Czc3c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:11 |
 
 Snapshot ID: `AAAAAAR41dXDio1derixQoZewGw7wv4g`

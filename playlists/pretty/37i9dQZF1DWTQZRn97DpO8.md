@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Margane
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,900 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,898 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 48 | [Belle âme](https://open.spotify.com/track/2T1gQEwPWRAh0VLCq5YWts) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Belle âme](https://open.spotify.com/album/1nZkcUzIKldLWuYvVi5h93) | 3:07 |
 | 49 | [Ptsd](https://open.spotify.com/track/5lZ6nK0jvDKRhoJV2ha8bJ) | [Lukazam](https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD) | [Ptsd](https://open.spotify.com/album/6O7G7jMQz28dec6tfcfrFO) | 3:03 |
 
-Snapshot ID: `AAAAAKodoUTPNqpOFv5a4ThP3OC9cL7F`
+Snapshot ID: `AAAAAKk5nKUYXLUduGP5ul5IatbHcRwe`

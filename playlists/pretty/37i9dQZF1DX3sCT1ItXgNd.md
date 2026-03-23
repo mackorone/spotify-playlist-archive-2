@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop e español\. Foto: LUCYCALYS, Tony Grox
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,196 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,136 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

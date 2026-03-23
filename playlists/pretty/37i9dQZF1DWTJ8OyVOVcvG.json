@@ -1,6 +1,6 @@
 {
   "description": "Piesele potrivite pentru zilele \u0219i nop\u021bile tale chill de prim\u0103var\u0103",
-  "num_followers": 21894,
+  "num_followers": 21891,
   "original_name": "O prim\u0103var\u0103 chill",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-09 18:46:56",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2026-03-09 18:46:56",
-      "album": {
         "name": "LOVE, LOVE, LOVE",
         "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
+      "added_at": "2026-03-09 18:46:56",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2026-03-09 18:46:56",

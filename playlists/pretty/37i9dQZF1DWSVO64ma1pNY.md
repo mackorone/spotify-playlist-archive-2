@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,761 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,786 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 15 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 16 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
 | 17 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
-| 18 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
-| 19 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
+| 18 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
+| 19 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 20 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
 | 21 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
 | 22 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 43 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
 | 44 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
 | 45 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
-| 46 | [Everything I Do Is For You](https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Everything I Do Is For You](https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC) | 2:36 |
-| 47 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
+| 46 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
+| 47 | [Everything I Do Is For You](https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Everything I Do Is For You](https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC) | 2:36 |
 | 48 | [Revelations](https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:12 |
 | 49 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 |
 | 50 | [Isolation](https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86) | 4:13 |

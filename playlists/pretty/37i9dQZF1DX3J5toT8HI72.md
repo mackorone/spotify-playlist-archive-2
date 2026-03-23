@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,782 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,801 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 27 | [Menino Bonito \- Ao Vivo](https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Menino Bonito \(Ao Vivo\)](https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah) | 2:49 |
 | 28 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
 | 29 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 30 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
-| 31 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 30 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 31 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
 | 32 | [É Isso Aí \(The Blower'S Daughter\) \- Ao Vivo](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge \(Ao Vivo\)](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
 | 33 | [Luz Dos Olhos \- Ao Vivo](https://open.spotify.com/track/2evNqAoJGCTbfx9KEqzPQ9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:11 |
 | 34 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 55 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 56 | [Do Que é Feito o Amor?](https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Crisálida](https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe) | 3:43 |
 | 57 | [Estou Apaixonado \(Luiza Possi, Péricles\)](https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Estou Apaixonado \(Luiza Possi, Péricles\)](https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz) | 3:46 |
-| 58 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
-| 59 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
-| 60 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
+| 58 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
+| 59 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
+| 60 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
 | 61 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
 | 62 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 63 | [Um Amor Puro](https://open.spotify.com/track/3SdbQJS2ZS5Dc1K2Bx02bq) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 99 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
 | 100 | [Minha Flor Meu Bebê](https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:06 |
 
-Snapshot ID: `AAAAAOvohUJ3k2D8PzYkUNEpA0ejCYDJ`
+Snapshot ID: `AAAAAEmOZAWnawSz380NE53hH8VFY9/q`

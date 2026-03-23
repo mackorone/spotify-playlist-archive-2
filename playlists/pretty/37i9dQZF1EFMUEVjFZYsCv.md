@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
-| 2 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
-| 3 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:09 |
+| 2 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:09 |
+| 3 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
 | 4 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
 | 5 | [Naked](https://open.spotify.com/track/2fmyrECK6bdfoGven0UMZx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:53 |
 | 6 | [Falling Like The Stars](https://open.spotify.com/track/395KzBy0bkb57dEvg6cfzJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:32 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 97 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 98 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AcMwdAAAAADLc7T2H6w2G+8Q0x8PEWXF`
+Snapshot ID: `AcM2FAAAAAClZDF5kqVB5cjQXcZw1v2Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Jazeek, Leony, RAYE, RAF Camora & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,173 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,151 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

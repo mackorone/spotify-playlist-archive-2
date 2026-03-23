@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,580 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,579 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 38 | [Masochist](https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Death of Me](https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1) | 4:07 |
 | 39 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
 | 40 | [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 |
-| 41 | [Death](https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Lost in the Waves \(The Complete Edition\)](https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl) | 3:43 |
+| 41 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 42 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
-| 43 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
+| 43 | [Death](https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Lost in the Waves \(The Complete Edition\)](https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl) | 3:43 |
 | 44 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
 | 45 | [The Past Is Dead](https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:35 |
 | 46 | [The Truth](https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:25 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 62 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
 | 63 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 64 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
-| 65 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
-| 66 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
+| 65 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
+| 66 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
 | 67 | [Shine On](https://open.spotify.com/track/5jmyQBmDeNwGbL9iC9nWsQ) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Shine On](https://open.spotify.com/album/1muoiM2DToE92Bz0N2nObF) | 3:45 |
 | 68 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 |
 | 69 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |

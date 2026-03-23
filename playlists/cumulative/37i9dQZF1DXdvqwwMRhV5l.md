@@ -4,7 +4,7 @@
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-102 songs - 6 hr 40 min
+103 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 | 2024-07-19 |  |
 | [Mr Rock & Roll](https://open.spotify.com/track/6aX2LyT7zpTLe3iZfDeHki) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:34 | 2024-07-19 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/0eGsygTp906u18L0Oimnem) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/6TJmQnO44YE5BtTxH8pop1) | 3:42 | 2024-07-19 |  |
+| [Murder On The Dancefloor](https://open.spotify.com/track/2Za2mUwmQoSxWPscaY2vxl) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/0Mf0uNttnZvaQOKiECOBSn) | 3:50 | 2024-07-19 |  |
 | [Nine Million Bicycles](https://open.spotify.com/track/258WCBHPsUHZvyBJcY2LCw) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/4BoYXQwGGdlxKEKXNZcxjJ) | 3:15 | 2024-07-19 |  |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2024-07-19 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2024-07-19 |  |
@@ -107,7 +108,7 @@
 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2024-07-19 |  |
 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 | 2024-07-19 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2024-07-19 |  |
-| [Wonder Woman](https://open.spotify.com/track/0AbDTI17lL1WnWpHKmdQrc) | [Leaf](https://open.spotify.com/artist/1nRNvmTyMNGEgtEk7wU9CI) | [Life's A Beach](https://open.spotify.com/album/4RSyygT8Ng3Ng3b9ednI7N) | 3:38 | 2024-07-19 |  |
+| [Wonder Woman](https://open.spotify.com/track/0AbDTI17lL1WnWpHKmdQrc) | [Leaf](https://open.spotify.com/artist/1nRNvmTyMNGEgtEk7wU9CI) | [Life's A Beach](https://open.spotify.com/album/4RSyygT8Ng3Ng3b9ednI7N) | 3:38 | 2024-07-19 | 2026-03-23 |
 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 | 2024-07-19 |  |
 | [You've Got The Love](https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [You've Got The Love](https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU) | 2:48 | 2024-07-19 |  |
 

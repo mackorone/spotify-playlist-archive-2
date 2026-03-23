@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening pop that feels sunny wherever you are
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,585 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,015 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 42 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 43 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 44 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
-| 45 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
-| 46 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
+| 45 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
+| 46 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 | 47 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 48 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 49 | [I'm Alive](https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day Has Come](https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ) | 3:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 58 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 59 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 60 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
-| 61 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
-| 62 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
+| 61 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
+| 62 | [Malibu](https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger Now](https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX) | 3:51 |
 | 63 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
 | 64 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
 | 65 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |

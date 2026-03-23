@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Bigflo & Oli
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,313 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,312 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [PROCÉDURE HABITUELLE](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [MÉTHYLÈNE 1.2](https://open.spotify.com/album/45qQvdQ41ad2mQ0TUVNOEO) | 2:53 |
 | 40 | [La Panique](https://open.spotify.com/track/6UwDB2Aeo6ZzDf71uZh8Kt) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [Pato](https://open.spotify.com/artist/2Zat3kOf8SQYHkKoeNpWWZ) | [Les 11 à suivre 2026](https://open.spotify.com/album/316y2Syts5IHMvJMVTdxsA) | 2:10 |
 
-Snapshot ID: `AAAAAIJTwY5zq79BixAuoUXqrUHLZ4u6`
+Snapshot ID: `AAAAAKuGrzsQTdUHB3cEQUA7Wi5F/rZD`

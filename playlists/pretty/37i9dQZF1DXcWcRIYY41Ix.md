@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Gabriel Vidanauta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,393 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,395 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

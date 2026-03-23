@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103243,
+  "num_followers": 103246,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Magmamemoria MMXX (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
-      },
-      "artists": [
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tikibombom",
-      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Tikibombom",
+      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Pensami Per Te",
-        "url": "https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq"
-      },
-      "artists": [
-        {
-          "name": "Anna Oxa",
-          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Quando nasce un amore",
-      "url": "https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Le Robe Che Ha Detto Adriano",
         "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 255266,
       "name": "Il Ragazzo Della Via Gluck",
       "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Pensami Per Te",
+        "url": "https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq"
+      },
+      "artists": [
+        {
+          "name": "Anna Oxa",
+          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Quando nasce un amore",
+      "url": "https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Microchip Emozionale",
         "url": "https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 243320,
       "name": "Tutti I Miei Sbagli",
       "url": "https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Pazza",
-        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "Pazza",
-      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Canta En Italiano",
         "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 221865,
       "name": "Noi Ragazzi Di Oggi",
       "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Dieci",
-        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 198870,
-      "name": "Dieci",
-      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Little Tony",
         "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 170760,
       "name": "Cuore matto",
       "url": "https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Dieci",
+        "url": "https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "Dieci",
+      "url": "https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk"
     },
     {
       "added_at": "2026-01-25 23:01:06",

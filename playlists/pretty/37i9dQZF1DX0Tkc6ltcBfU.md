@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,472 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,524 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

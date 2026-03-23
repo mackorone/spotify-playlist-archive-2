@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,505 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,506 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 25 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
 | 26 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
 | 27 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
-| 28 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
-| 29 | [Belong](https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:38 |
+| 28 | [Belong](https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:38 |
+| 29 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
 | 30 | [American Oxygen](https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [American Oxygen](https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0) | 5:05 |
 | 31 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 |
 | 32 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 49 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
 | 50 | [You'll Get Yours \(feat\. X Ambassadors\)](https://open.spotify.com/track/6OabT1njOJomxRv9qhfsz9) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Atlas Underground Flood](https://open.spotify.com/album/3JOmOhRuhZvHT2fyGzKisu) | 3:08 |
 
-Snapshot ID: `abyOAAAAAADqOm8PMDON4l5K6/PjxjlW`
+Snapshot ID: `ab3fgAAAAADKb2cIhpJExc8lQlux438L`

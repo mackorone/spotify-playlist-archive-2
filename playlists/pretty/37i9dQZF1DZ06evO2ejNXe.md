@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 38 | [Muevelo Bien](https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:01 |
 | 39 | [TODO MUNDO A BAILAR](https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [TODO MUNDO A BAILAR](https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv) | 3:18 |
 | 40 | [LA PLEBADA](https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [LA PLEBADA](https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T) | 3:09 |
-| 41 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
+| 41 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
 | 42 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 |
-| 43 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
+| 43 | [Playa Sola](https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:51 |
 | 44 | [Cosa Caliente](https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Cosa Caliente](https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT) | 2:57 |
-| 45 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 |
+| 45 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
 | 46 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
-| 47 | [Playa Sola](https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:51 |
+| 47 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
 | 48 | [El Comelon](https://open.spotify.com/track/1Yf2UVpY7ps8yPdtkrZj5Z) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 2:59 |
 | 49 | [La Bomba Caliente](https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:07 |
 
-Snapshot ID: `abyOAAAAAABC/7AhFFv3q8i4HGaCtz5o`
+Snapshot ID: `ab3fgAAAAAB/ib9RWw881pSvBXT1a2H6`

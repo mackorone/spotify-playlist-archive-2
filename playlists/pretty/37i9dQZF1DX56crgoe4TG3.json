@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284818,
+  "num_followers": 284839,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "The Bluegrass Tribute to Guns n' Roses",
+        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Going to California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 250000,
       "name": "Going To California",
       "url": "https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "The Bluegrass Tribute to Guns n' Roses",
-        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
-      },
-      "artists": [
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
         "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 261413,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211546,
       "name": "Feelin' Good Again",
       "url": "https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Go Your Own Way",
-        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
-      },
-      "artists": [
-        {
-          "name": "SloCoast",
-          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
-        }
-      ],
-      "duration_ms": 247534,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The DeLorean Sisters",
         "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 209895,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
+      },
+      "artists": [
+        {
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
+        }
+      ],
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "If I Needed You",
         "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 203416,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-02-04 05:00:53",

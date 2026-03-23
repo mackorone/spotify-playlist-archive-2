@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,692 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,704 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 55 | [Eternal Love](https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [White](https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi) | 4:09 |
 | 56 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
 | 57 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
-| 58 | [너희가 힙합을 아느냐?](https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Year of The Tiger](https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0) | 3:40 |
-| 59 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
+| 58 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
+| 59 | [너희가 힙합을 아느냐?](https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Year of The Tiger](https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0) | 3:40 |
 | 60 | [Now](https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Now](https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO) | 3:31 |
 | 61 | [슬픔속에그댈지워야만해](https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC) | [Lee Hyun Woo](https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD) | [Black Rainbow](https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX) | 4:24 |
 | 62 | [Illusion](https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,514 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,505 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 40 | [Fly Move \(The Whole Time\)](https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Warmer Weather](https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x) | 3:16 |
 | 41 | [Kill or be Killed](https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I) | 3:23 |
 | 42 | [The Void](https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Void](https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb) | 2:51 |
-| 43 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 |
-| 44 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
+| 43 | [Constant Headache](https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Constant Headache](https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK) | 3:01 |
+| 44 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 |
 | 45 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 | 46 | [WORLD vs PEACE](https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [WORLD vs PEACE](https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6) | 2:58 |
 | 47 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 86 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
 | 87 | [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 |
 | 88 | [Head is Like a Sinking Stone](https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Head is Like a Sinking Stone](https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS) | 3:03 |
-| 89 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
-| 90 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
+| 89 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
+| 90 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 91 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 |
 | 92 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
 | 93 | [Bedroom Posters](https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Bedroom Posters](https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U) | 3:38 |

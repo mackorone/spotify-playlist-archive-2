@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  GUZO",
-  "num_followers": 47057,
+  "num_followers": 47054,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "Undskyld",
-        "url": "https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb"
-      },
-      "artists": [
-        {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Undskyld",
-      "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 394340,
       "name": "Ring, n\u00e5r du har tid",
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "Undskyld",
+        "url": "https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Undskyld",
+      "url": "https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
+        "name": "Ekkoer",
+        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
+      },
+      "artists": [
+        {
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+        }
+      ],
+      "duration_ms": 161195,
+      "name": "Ekkoer",
+      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
         "name": "If I",
         "url": "https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 176000,
       "name": "If I",
       "url": "https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
-        "name": "Ekkoer",
-        "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
-      },
-      "artists": [
-        {
-          "name": "Laura Vejlby",
-          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
-        }
-      ],
-      "duration_ms": 161195,
-      "name": "Ekkoer",
-      "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -875,6 +875,22 @@
       "duration_ms": 152132,
       "name": "ung og elske",
       "url": "https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "terminal for 2",
-        "url": "https://open.spotify.com/album/08pyTQMQcLV8AIdd95OOwc"
+        "name": "Minute Nothing",
+        "url": "https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz"
       },
       "artists": [
         {
-          "name": "Y\u00f6r",
-          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
         }
       ],
-      "duration_ms": 188326,
-      "name": "terminal for 2",
-      "url": "https://open.spotify.com/track/2zU76C56LbDkYKBtX09c2K"
+      "duration_ms": 218998,
+      "name": "Big Solo",
+      "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
         "name": "STEMMER",
         "url": "https://open.spotify.com/album/2yXUtoUSVUmDwF5GxrwMYN"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 176155,
       "name": "STEMMER",
       "url": "https://open.spotify.com/track/2ITRqKiP7QTCWir4Y26rLp"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
+        "name": "terminal for 2",
+        "url": "https://open.spotify.com/album/08pyTQMQcLV8AIdd95OOwc"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
+        }
+      ],
+      "duration_ms": 188326,
+      "name": "terminal for 2",
+      "url": "https://open.spotify.com/track/2zU76C56LbDkYKBtX09c2K"
     },
     {
       "added_at": "2026-03-20 09:36:41",
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2026-03-20 09:36:41",
       "album": {
+        "name": "Ham Med Paraplyen",
+        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Ham Med Paraplyen",
+      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
+    },
+    {
+      "added_at": "2026-03-20 09:36:41",
+      "album": {
         "name": "februar",
         "url": "https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 208314,
       "name": "februar",
       "url": "https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N"
-      },
-      "artists": [
-        {
-          "name": "Eros for you",
-          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
-    },
-    {
-      "added_at": "2026-03-20 09:36:41",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 182860,
-      "name": "Sang Til Min Far",
-      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
     }
   ],
   "unique_name": "ung kniv ",

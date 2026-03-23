@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > 행복하고 신나는 음악들과 함께 갓생을 시작해보세요! 출퇴근 길에 들으시면 더욱 좋습니다\. \(Kickstart your day with high\-energy vibes, the ultimate soundtrack for your hustle and commute.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,715 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,700 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 39 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 40 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 41 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
-| 42 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 |
-| 43 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 42 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
+| 43 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 |
 | 44 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 45 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 |
 | 46 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |

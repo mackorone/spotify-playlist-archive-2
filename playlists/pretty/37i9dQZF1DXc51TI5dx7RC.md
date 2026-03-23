@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Maiyarap, Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,942 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,981 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

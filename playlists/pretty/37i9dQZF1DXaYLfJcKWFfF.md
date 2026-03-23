@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 453 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 69 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
 | 70 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 71 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
-| 72 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
+| 72 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
 | 73 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
 | 74 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f) | 2:50 |
-| 75 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
-| 76 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
+| 75 | [Hallelujah](https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Hallelujah](https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz) | 3:19 |
+| 76 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
 | 77 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
 | 78 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
 | 79 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |

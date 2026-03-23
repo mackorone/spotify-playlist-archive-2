@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1288,
+  "num_followers": 1289,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAR8N1SCwsLThMiJKrt3Hmieenf3p4S",
+  "snapshot_id": "AAAR9tS+/twbJz0ve5OqmmKlEaVpDVZ/",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -43,6 +43,22 @@
       "duration_ms": 278850,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2"
+    },
+    {
+      "added_at": "2026-03-22 09:02:48",
+      "album": {
+        "name": "Saving a Song",
+        "url": "https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "duration_ms": 198283,
+      "name": "Saving a Song",
+      "url": "https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz"
     },
     {
       "added_at": "2026-03-21 01:05:55",
@@ -143,22 +159,6 @@
       "duration_ms": 181584,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/41qMG3eHjNneqPAsSiUSFr"
-    },
-    {
-      "added_at": "2026-03-11 09:55:22",
-      "album": {
-        "name": "LET ME BE",
-        "url": "https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY"
-      },
-      "artists": [
-        {
-          "name": "Michael Paul Binz",
-          "url": "https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl"
-        }
-      ],
-      "duration_ms": 169063,
-      "name": "MIGHT BE",
-      "url": "https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw"
     },
     {
       "added_at": "2026-03-06 18:31:01",
@@ -3183,6 +3183,70 @@
       "duration_ms": 232571,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3g1Vn9PzhA3vstx5fpN5Jd"
+    },
+    {
+      "added_at": "2026-03-22 10:59:57",
+      "album": {
+        "name": "A Pit Stop, Not A Home",
+        "url": "https://open.spotify.com/album/14T5E9auTa0CU6AuiOIeFA"
+      },
+      "artists": [
+        {
+          "name": "Suhendra Balada",
+          "url": "https://open.spotify.com/artist/3yradc9hnbQk2ejmsrljFZ"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "A Pit Stop, Not A Home",
+      "url": "https://open.spotify.com/track/59B7NkkjSn8Gjbauh9CgXa"
+    },
+    {
+      "added_at": "2026-03-22 11:00:01",
+      "album": {
+        "name": "You're On Fire",
+        "url": "https://open.spotify.com/album/30QoW8bs3hZzTZgYzJEipx"
+      },
+      "artists": [
+        {
+          "name": "Ali Rice",
+          "url": "https://open.spotify.com/artist/3mlAU99Yc2sacEsfSII1dS"
+        }
+      ],
+      "duration_ms": 235254,
+      "name": "You're On Fire",
+      "url": "https://open.spotify.com/track/6YibqNgzTou7LdCBrflhAs"
+    },
+    {
+      "added_at": "2026-03-22 11:00:10",
+      "album": {
+        "name": "BEAUTIFUL THINGS",
+        "url": "https://open.spotify.com/album/5lFveknfRhJv4euAt7VYo0"
+      },
+      "artists": [
+        {
+          "name": "RunAway",
+          "url": "https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp"
+        }
+      ],
+      "duration_ms": 86144,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4D5qgeBraoJAW8AJ3x2JKo"
+    },
+    {
+      "added_at": "2026-03-22 15:14:14",
+      "album": {
+        "name": "Dal Y Funud",
+        "url": "https://open.spotify.com/album/2CfpqeQinnCMdEfJwDUJWL"
+      },
+      "artists": [
+        {
+          "name": "Ci Gofod",
+          "url": "https://open.spotify.com/artist/05frSoOdiU0SeVIu5aVBPH"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Dal Y Funud",
+      "url": "https://open.spotify.com/track/3kAjBPgKnC5XLyU0DGObQy"
     }
   ],
   "unique_name": "New Indie Music",

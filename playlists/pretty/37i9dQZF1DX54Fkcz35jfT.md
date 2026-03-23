@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: THE SIXTH LIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,736 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,742 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 26 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
 | 27 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 |
 | 28 | [ICONIC](https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ICONIC](https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf) | 3:26 |
-| 29 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
+| 29 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 30 | [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 |
-| 31 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
+| 31 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
 | 32 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 |
 | 33 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 | 34 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 |
@@ -86,21 +86,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 76 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 |
 | 77 | [Against the Kings and Gods](https://open.spotify.com/track/4FsOAgejIlmrA7qvQsJn0B) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Against the Kings and Gods](https://open.spotify.com/album/76VR0jyf0FtIRFf6RxF41f) | 4:16 |
 | 78 | [BRIGHT EYES](https://open.spotify.com/track/6SM0swCv4dXsRozMjB27Pv) | [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja) | [BRIGHT EYES](https://open.spotify.com/album/5JS9x5USWSbprGHpLBlesV) | 3:27 |
-| 79 | [Neversleep \(feat\. Myke Terry\)](https://open.spotify.com/track/00RTIzyDmz5cQooU5Zbu4Z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Myke Terry](https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw) | [Neversleep](https://open.spotify.com/album/2Tyzkpt6lsahYyLXmVOVvW) | 2:49 |
+| 79 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 80 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
-| 81 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
+| 81 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
 | 82 | [Vertigo](https://open.spotify.com/track/5WqrUkIkSR3MWcJq18bJ6Y) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [XV e.p.](https://open.spotify.com/album/3XovZ522dgqvzUynQ1Ja9u) | 4:18 |
-| 83 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
+| 83 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 84 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
-| 85 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
+| 85 | [Neversleep \(feat\. Myke Terry\)](https://open.spotify.com/track/00RTIzyDmz5cQooU5Zbu4Z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Myke Terry](https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw) | [Neversleep](https://open.spotify.com/album/2Tyzkpt6lsahYyLXmVOVvW) | 2:49 |
 | 86 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
 | 87 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
 | 88 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
 | 89 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
 | 90 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
 | 91 | [開花宣言](https://open.spotify.com/track/4PvO2OtoM5j8UpuurSZiC8) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [開花宣言](https://open.spotify.com/album/1RfVbPhg2uUd8AZaKZ39OK) | 3:09 |
-| 92 | [Find the Color](https://open.spotify.com/track/76Mhc08jUzIyAAa6CuL0is) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Find the Color](https://open.spotify.com/album/3dkrBUezNTBmQqvtQjqW3i) | 4:16 |
-| 93 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
+| 92 | [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 |
+| 93 | [Find the Color](https://open.spotify.com/track/76Mhc08jUzIyAAa6CuL0is) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Find the Color](https://open.spotify.com/album/3dkrBUezNTBmQqvtQjqW3i) | 4:16 |
 | 94 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
 | 95 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 96 | [Until You Die Out](https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Until You Die Out](https://open.spotify.com/album/4oSV62VjbA1f87S0VNZqkx) | 3:26 |

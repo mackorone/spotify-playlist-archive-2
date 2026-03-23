@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,978 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,989 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/6BZaRf4Zh9Y07qnELLboGu) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:01 |
 | 2 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 |
 | 3 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/59F5qOMpqqclD21cIAxFEo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:45 |
-| 4 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
+| 4 | [Just Believe](https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Believe](https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn) | 2:41 |
 | 5 | [Holy Smokes](https://open.spotify.com/track/4HOlcDZ3xldgbIql8MZPtO) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:15 |
 | 6 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
-| 7 | [Just Believe](https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Believe](https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn) | 2:41 |
+| 7 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
 | 8 | [Never Comin' Home](https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Comin' Home](https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8) | 3:14 |
 | 9 | [Chevy Silverado](https://open.spotify.com/track/2g91Y7tUI0xBX7ZdlkSCLe) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:41 |
 | 10 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 27 | [Rockstar \(with Bailey Zimmerman\) \- Live From Nashville](https://open.spotify.com/track/2uQfe8bd43MRHIjHwaAgC8) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Live From Nashville](https://open.spotify.com/album/2WaRFVSRoYF4sW35doUmdF) | 4:41 |
 | 28 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 
-Snapshot ID: `abyOAAAAAABxCbb5fs6+sTZHGynnn8LP`
+Snapshot ID: `ab3fgAAAAABOL6OIwHc+vY4zHWqGSOCU`

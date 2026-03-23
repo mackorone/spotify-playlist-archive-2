@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 122623,
+  "num_followers": 122650,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 320654,
-      "name": "The Other Side Of Paradise",
-      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Fitz and The Tantrums",
         "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 320654,
+      "name": "The Other Side Of Paradise",
+      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+        "name": "Freetown Sound",
+        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+      "duration_ms": 225747,
+      "name": "Best to You",
+      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -287,6 +291,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Freetown Sound",
-        "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 225747,
-      "name": "Best to You",
-      "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Citizen of Glass",
         "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 235988,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "Everything You've Come To Expect (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 245727,
       "name": "Miracle Aligner",
       "url": "https://open.spotify.com/track/4iwpCp7qdDLngGI3gsVTza"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Ritual Spirit",
         "url": "https://open.spotify.com/album/7lqu3l4C1PAZx4SBUXcoJd"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 241132,
       "name": "Voodoo In My Blood",
       "url": "https://open.spotify.com/track/0vs4k1mRSs01iOR5S5sd07"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
-      },
-      "artists": [
-        {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Winterbreak",
-        "url": "https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 296533,
-      "name": "Winterbreak",
-      "url": "https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "The Hope Six Demolition Project",
         "url": "https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 338120,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Winterbreak",
+        "url": "https://open.spotify.com/album/59HB72GnzCfr9q0OKrMUfV"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 296533,
+      "name": "Winterbreak",
+      "url": "https://open.spotify.com/track/7EsTdhH4PD6MugpLXJGZLW"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1576,25 +1576,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1615,22 +1599,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
@@ -1643,6 +1611,38 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
     }
   ],
   "unique_name": "Best of Indie 2016",

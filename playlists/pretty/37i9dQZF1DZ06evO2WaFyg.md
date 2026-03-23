@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,418 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,431 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 49 | [Pipe Down \(feat\. Travis Scott\)](https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:30 |
 | 50 | [SKITZO \(feat\. Young Thug\)](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 |
 
-Snapshot ID: `abyOAAAAAABFe9CdbKAyL5OjPbHJEU4p`
+Snapshot ID: `ab3fgAAAAAB+x0+Wpk3loFTCAECYBgtZ`

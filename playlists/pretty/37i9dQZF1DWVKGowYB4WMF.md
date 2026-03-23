@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,261 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,286 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 11 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
 | 12 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 |
 | 13 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 |
-| 14 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
-| 15 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
+| 14 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
+| 15 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
 | 16 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
 | 17 | [Breakfast In America \- Remastered 2010](https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 2:39 |
-| 18 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
-| 19 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 18 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 19 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 |
 | 20 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 21 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
 | 22 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,784 likes - 35 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,828 likes - 35 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 20 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
 | 21 | [Smooth](https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:19 |
 | 22 | [Chicken Grease](https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 4:38 |
-| 23 | [Imagine](https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:42 |
-| 24 | [Break Ups 2 Make Ups](https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tical 2000: Judgement Day](https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa) | 3:53 |
+| 23 | [Break Ups 2 Make Ups](https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tical 2000: Judgement Day](https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa) | 3:53 |
+| 24 | [Imagine](https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:42 |
 | 25 | [Sugah Daddy](https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:02 |
 | 26 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 4:06 |
 | 27 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 34 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
 | 35 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 |
 
-Snapshot ID: `abyOAAAAAADEG/ec/TrBMCjYvPOsLLPs`
+Snapshot ID: `ab3fgAAAAADLlS/ig0Te09xdrxVcd+Xj`

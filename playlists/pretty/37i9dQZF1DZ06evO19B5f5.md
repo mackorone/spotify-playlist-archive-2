@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 
 > This is Lauren Aquilina\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 35 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 588 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 8 | [Time To Say Goodbye](https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Time To Say Goodbye](https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY) | 3:08 |
 | 9 | [Talk to Me](https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:28 |
 | 10 | [Wonder](https://open.spotify.com/track/2njUiGb7riXONG8HEOVQqu) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:58 |
-| 11 | [Kicks](https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:36 |
-| 12 | [Echoes \- Edeema Remix](https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Echoes \(Remixes\)](https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv) | 4:02 |
+| 11 | [Echoes \- Edeema Remix](https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Echoes \(Remixes\)](https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv) | 4:02 |
+| 12 | [Kicks](https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:36 |
 | 13 | [Irrelevant](https://open.spotify.com/track/5kDJFMwa5mfvpAZW85bNxd) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 4:32 |
 | 14 | [Lilo](https://open.spotify.com/track/1Kqd8jFne2x03rOjzlq648) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Fools](https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH) | 3:41 |
 | 15 | [Latest Ghost \- Piano Version](https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World \(Piano Versions\)](https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T) | 2:51 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 24 | [Ocean](https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 4:18 |
 | 25 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 |
 | 26 | [Fuckedupminddd](https://open.spotify.com/track/1utfH4im9foOZg7AgeMpKr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 2:54 |
-| 27 | [The Knife](https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [The Knife](https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM) | 2:56 |
+| 27 | [Low](https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:28 |
 | 28 | [How Would You Like It?](https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:59 |
-| 29 | [Broke](https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 4:07 |
+| 29 | [The Knife](https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [The Knife](https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM) | 2:56 |
 | 30 | [Swap Places](https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:24 |
-| 31 | [Low](https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:28 |
+| 31 | [Broke](https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 4:07 |
 | 32 | [Hurt Any Less](https://open.spotify.com/track/2djUFakeHHNfmpMj907vZ6) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:22 |
-| 33 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
-| 34 | [Out Of Our Depth](https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:58 |
+| 33 | [Out Of Our Depth](https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:58 |
+| 34 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
 | 35 | [Best Friend](https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:15 |
 
-Snapshot ID: `abyOAAAAAAA/yMogcu7ZBqmqzN+miccP`
+Snapshot ID: `ab3fgAAAAABQWLGALhO4QFcgkz2EXSJ8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,094 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,089 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 25 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 26 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
 | 27 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
-| 28 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
-| 29 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 28 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 29 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
 | 30 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
 | 31 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
 | 32 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |

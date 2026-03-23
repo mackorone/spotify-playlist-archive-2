@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,022 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,023 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 29 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
 | 30 | [Ya Te Rogue](https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:14 |
 | 31 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
-| 32 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
+| 32 | [La Calle 16](https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:21 |
 | 33 | [Blues del Borracho](https://open.spotify.com/track/09Laz5xAi1PJYIMhXima4r) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN) | 3:08 |
 | 34 | [Pancho Panchito](https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:19 |
 | 35 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
-| 36 | [La Calle 16](https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:21 |
+| 36 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
 | 37 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
 | 38 | [Martin Rocka](https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:49 |
 | 39 | [La Culpa](https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [Octubre 68](https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:11 |
 | 50 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
 
-Snapshot ID: `abyOAAAAAADfCMLzOOvkvWK/nfpN1fBb`
+Snapshot ID: `ab3fgAAAAAAULoAVU4cev7qQAJveayfH`

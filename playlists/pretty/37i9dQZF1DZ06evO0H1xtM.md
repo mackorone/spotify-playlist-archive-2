@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,408 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,460 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 23 | [Eres Mi Crush](https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ) | 2:40 |
 | 24 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
 | 25 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
-| 26 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
-| 27 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
+| 26 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
+| 27 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
 | 28 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
 | 29 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
 | 30 | [Sigan Atentos](https://open.spotify.com/track/6GrGeO8GtlBe3Nulkv6LMi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigan Atentos](https://open.spotify.com/album/0zLVv9rORmN7dGEqEql0rK) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Diablos](https://open.spotify.com/track/6sSXi0TxT2Mnz3IfH8ACxu) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis Pablo Lopez](https://open.spotify.com/artist/242y3NutnWpdBORlwQnbDP), [Mike Mejia](https://open.spotify.com/artist/3kSS4tP1eMfKE1Z7MZJZYR) | [Diablos](https://open.spotify.com/album/04Vo5Ym1DvutxZm8PuVj4G) | 3:10 |
 | 50 | [El Veintitantos](https://open.spotify.com/track/4G5JHiDWJFQQikkoWR6Ujw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 2:47 |
 
-Snapshot ID: `abyOAAAAAACy6WrJbYI/Mt+zHU3hsg0S`
+Snapshot ID: `ab3fgAAAAABPcsK5li89G9RY5huHVj5/`

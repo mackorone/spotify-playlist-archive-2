@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,558 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,615 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 31 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
 | 32 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
 | 33 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
-| 34 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
-| 35 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
+| 34 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
+| 35 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
 | 36 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
-| 37 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 38 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
+| 37 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
+| 38 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 39 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 40 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
 | 41 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 45 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
 | 46 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 47 | [Beste](https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Beste](https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV) | 2:08 |
-| 48 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
-| 49 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
+| 48 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
+| 49 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 | 50 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
 | 51 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
 | 52 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
-| 53 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
-| 54 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
+| 53 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
+| 54 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
 | 55 | [Tanz der Moleküle \- Single Version](https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk) | [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [Tanz Der Moleküle](https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3) | 3:58 |
 | 56 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 57 | [Meine Liebe](https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Meine Liebe](https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV) | 3:08 |
 | 58 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
-| 59 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 60 | [Für immer ab jetzt](https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Für immer ab jetzt](https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339) | 3:51 |
+| 59 | [Für immer ab jetzt](https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Für immer ab jetzt](https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339) | 3:51 |
+| 60 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
 
 Snapshot ID: `AAAAAIRhmypCKR9jfiL4MYT/BfhtE7oD`

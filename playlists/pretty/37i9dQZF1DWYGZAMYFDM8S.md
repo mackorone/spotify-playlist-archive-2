@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,148,531 likes - 125 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148,381 likes - 125 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 77 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 78 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 79 | [The Life](https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [The Life](https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw) | 2:26 |
-| 80 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 |
-| 81 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
+| 80 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
+| 81 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 |
 | 82 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 |
 | 83 | [More](https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [More](https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ) | 3:42 |
 | 84 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 97 | [call me when u get home \- acoustic](https://open.spotify.com/track/2PheVaKE7Dd7qY0NAD4VBr) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [call me when u get home \(acoustic\)](https://open.spotify.com/album/2AkstuR3cQ5RGus5nK8hnF) | 3:16 |
 | 98 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 |
 | 99 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 |
-| 100 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
-| 101 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
+| 100 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
+| 101 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
 | 102 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
 | 103 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 104 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
@@ -124,14 +124,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 114 | [The Bear \(Trio\)](https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [The Doubles](https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V) | 4:24 |
 | 115 | [Worst Day \- Stripped Version](https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Worst Day \(Stripped Version\)](https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51) | 2:48 |
 | 116 | [Rust](https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Neon](https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ) | 2:31 |
-| 117 | [Go Down River \- Acoustic](https://open.spotify.com/track/0mvml8wDmxQjbxnifxQslV) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/251B0kXoPz8dil5Miu9b4H) | 3:49 |
-| 118 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
+| 117 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
+| 118 | [Go Down River \- Acoustic](https://open.spotify.com/track/0mvml8wDmxQjbxnifxQslV) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/251B0kXoPz8dil5Miu9b4H) | 3:49 |
 | 119 | [Hearts On Fire \- Acoustic](https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Hearts On Fire](https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V) | 3:39 |
 | 120 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 |
 | 121 | [Blood Money](https://open.spotify.com/track/3OPlxnryZhFUM67URhtbMX) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Blood Money](https://open.spotify.com/album/4A0CeSpGWbvGQ57rBnTHj4) | 3:23 |
 | 122 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 123 | [the castle](https://open.spotify.com/track/1BfkVeODgeTd1sFN9iKA33) | [Kashbocks](https://open.spotify.com/artist/3oDBh0mJjAvInc5heMl7ws) | [the castle](https://open.spotify.com/album/2BFNtCmTyyrneqIAeh0FQk) | 3:17 |
-| 124 | [I'll Keep You](https://open.spotify.com/track/753h0atsE418iQyz7Jbtci) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk), [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [I'll Keep You](https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8) | 2:37 |
-| 125 | [Get Better](https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Get Better](https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq) | 5:51 |
+| 124 | [Get Better](https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Get Better](https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq) | 5:51 |
+| 125 | [I'll Keep You](https://open.spotify.com/track/753h0atsE418iQyz7Jbtci) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk), [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [I'll Keep You](https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8) | 2:37 |
 
 Snapshot ID: `AAAAALQbkaXcj5FeM3PoQPJbNWx0DUnI`

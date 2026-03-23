@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: fromis\_9 \(프로미스나인\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,848 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,864 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 22 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 23 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 24 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
-| 25 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
-| 26 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
+| 25 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
+| 26 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 27 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 |
 | 28 | [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 |
 | 29 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 35 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 36 | [Love Me More](https://open.spotify.com/track/4Byc2Hr86k9zFxaTfDlZvm) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [RE : LOVE](https://open.spotify.com/album/0ILAggqgXT6X1DCOhVuPNJ) | 3:14 |
 | 37 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
-| 38 | [XO, My Cyberlove](https://open.spotify.com/track/4fr8jAAeEw8CehOFoBdjqL) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 3:22 |
-| 39 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 |
+| 38 | [SHOOT \(Firecracker\)](https://open.spotify.com/track/0pUEewaz1L9Vt8BCEVEnxx) | [CHAEYOUNG](https://open.spotify.com/artist/0qtqWLjAkheu9MaVCQ3FXa) | [LIL FANTASY vol.1](https://open.spotify.com/album/5j07H7jnOu2gYRj1ZrPoak) | 2:48 |
+| 39 | [XO, My Cyberlove](https://open.spotify.com/track/4fr8jAAeEw8CehOFoBdjqL) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 3:22 |
 | 40 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 |
 | 41 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 42 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |

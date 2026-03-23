@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Didi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,799 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,897 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [COMBIEN DE FOIS ?](https://open.spotify.com/track/5iI15dKa3nHKOb1zg8FaZI) | [RBIB](https://open.spotify.com/artist/4igLe1UmkagupsFjyuyFL1) | [SORRY FOR THE WAIT](https://open.spotify.com/album/1fWsAhemKEksNqC9Wg56lg) | 2:25 |
 | 49 | [COCO](https://open.spotify.com/track/0BiAWtwGN5rNSjoq9WD5Qs) | [Skulio](https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ) | [COCO](https://open.spotify.com/album/2LlQhd1JWZN9eY13NZfAHE) | 2:44 |
 
-Snapshot ID: `AAAAAChv3A9i8sr8tyfVzubd3+vvP7BF`
+Snapshot ID: `AAAAAAslVL2Gs4cr+5EH0Ni0ilXIHpi/`

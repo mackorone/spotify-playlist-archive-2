@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-753 songs - 1 day 22 hr 13 min
+757 songs - 1 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 | 2025-09-05 | 2025-11-15 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2021-03-27\* | 2023-10-10 |
 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 | 2025-10-14 | 2025-12-22 |
-| [2.0](https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:49 | 2026-03-21 |  |
+| [2.0](https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:49 | 2026-03-21 | 2026-03-23 |
+| [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 | 2026-03-22 |  |
 | [25kome No Senshokutai](https://open.spotify.com/track/73BFwub5o9KwZMoVDdU2Wg) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [25kome No Senshokutai](https://open.spotify.com/album/7kI3oNus8CmrH8826sZXwV) | 5:29 | 2025-11-20 | 2025-11-29 |
 | [25コ目の染色体](https://open.spotify.com/track/0oWj7v21R5YMIJCHVCADUp) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [25コ目の染色体](https://open.spotify.com/album/5zfbtBsNrERjobaqJSokUI) | 5:29 | 2025-11-21 | 2025-12-01 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2023-12-25 |
@@ -55,7 +56,8 @@
 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-15 | 2026-02-25 |
 | [Blue Jeans](https://open.spotify.com/track/6hnk0Fesq9JOhWpck8HJsj) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:27 | 2026-02-24 |  |
 | [Bluma to Lunch](https://open.spotify.com/track/3EYWY7XBj1BkCKX3R3hoZk) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [BLOOM SQUAD](https://open.spotify.com/album/6aGYVnuwrIJY0Vy09s9CV6) | 2:39 | 2021-03-30 | 2022-03-16 |
-| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-21 |  |
+| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-21 | 2026-03-23 |
+| [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 | 2026-03-22 |  |
 | [BON](https://open.spotify.com/track/1gosofqcJ7t3IUrQpDwGVL) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/4kfczYGAHkiAIGWZOcNThu) | 3:23 | 2025-03-07 | 2025-09-24 |
 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 | 2024-05-28 | 2025-03-07 |
 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 | 2023-03-07 | 2023-04-19 |
@@ -197,8 +199,8 @@
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-07-12 | 2025-09-22 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-13 | 2025-09-29 |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 | 2026-03-20 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 | 2026-03-23 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2021-03-27\* | 2022-05-08 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-12 | 2023-09-17 |
 | [KICK BACK](https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:14 | 2025-09-23 | 2025-11-21 |
@@ -250,7 +252,8 @@
 | [Melody](https://open.spotify.com/track/621pzEeNauLzgQrmVvCMEA) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [8LOOM](https://open.spotify.com/album/3gh0vrpPVPrs4SZvdldgIC) | 3:14 | 2022-12-23 | 2023-03-08 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2022-12-25 | 2022-12-27 |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2023-12-25 | 2023-12-27 |
-| [Merry Go Round](https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:49 | 2026-03-21 |  |
+| [Merry Go Round](https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:49 | 2026-03-21 | 2026-03-23 |
+| [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-03-22 |  |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-16 | 2025-02-14 |
 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-07 | 2024-03-11 |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2023-06-06 | 2023-06-28 |
@@ -280,7 +283,7 @@
 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-16 | 2024-11-08 |
 | [Nichijo](https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Nichijo](https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze) | 5:53 | 2023-09-14 | 2023-11-28 |
 | [No\-Yes](https://open.spotify.com/track/6CGZ8022XXhjSU5qndKB5V) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 2:42 | 2024-05-31 | 2024-06-17 |
-| [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-21 |  |
+| [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-21 | 2026-03-23 |
 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2025-12-06 | 2026-02-25 |
 | [NON STOP](https://open.spotify.com/track/2q910scaHhg6GmqnUKOGHU) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:55 | 2026-02-24 |  |
 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 | 2026-03-21 |  |
@@ -388,7 +391,8 @@
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-21 | 2024-06-01 |
 | [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-08-05 |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-04-06 | 2024-05-16 |
-| [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 |  |
+| [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 | 2026-03-23 |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-22 |  |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-25 | 2025-01-03 |
 | [Take a picture](https://open.spotify.com/track/0iEzzJ3zmNQqATy2MilumS) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Take a picture](https://open.spotify.com/album/3kBl936FCNH8BLtpl21kWg) | 3:01 | 2021-04-01 | 2021-08-11 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-07-09 |
@@ -541,7 +545,7 @@
 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 | 2025-06-03 |  |
 | [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 | 2021-11-26 | 2022-08-09 |
 | [バニラ](https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [バニラ](https://open.spotify.com/album/5z81aORHET86OyFXrkugMb) | 4:11 | 2022-07-05 | 2022-12-14 |
-| [ヒロイン](https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:29 | 2023-12-25 | 2026-03-22 |
+| [ヒロイン](https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:29 | 2023-12-25 |  |
 | [ビターバカンス](https://open.spotify.com/track/6DYV1GqwCTrvfPcjeFwjLt) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ビターバカンス](https://open.spotify.com/album/3pyb3jN1Ul9xr4zifPZxCz) | 3:18 | 2024-11-29 | 2025-07-09 |
 | [ビターバカンス](https://open.spotify.com/track/6aOhyW3xoiiQSNRSsOpLcF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:20 | 2025-07-08 | 2025-09-06 |
 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 | 2024-04-05 | 2024-08-09 |

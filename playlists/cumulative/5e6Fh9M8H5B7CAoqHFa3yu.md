@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,006 songs - 4 day 23 hr 22 min
+2,007 songs - 4 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1087,6 +1087,7 @@
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
+| [Meccanismo Perfetto \- Dub Remix](https://open.spotify.com/track/7AkQ5kYj7RaHMBGWtFiWVU) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr), [NO FINGER NAILS](https://open.spotify.com/artist/4USv2qdLCmNXDvyEW65HI6) | [Meccanismo Perfetto \(Dub Remix\)](https://open.spotify.com/album/2eWP6mrgPk0FbmzbQ4TEJu) | 3:59 | 2026-03-22 |  |
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-02-20 |  |
 | [Meditation Version](https://open.spotify.com/track/4xz1AZQVP23FfxMomfYlz0) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:14 | 2024-07-06 |  |

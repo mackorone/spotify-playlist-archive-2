@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 
 > Take a trip down memory lane with these noughties classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,696 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,707 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 28 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 | 29 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 30 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
-| 31 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
-| 32 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
+| 31 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
+| 32 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
 | 33 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 | 34 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
-| 35 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 35 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
 | 36 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 |
-| 37 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
+| 37 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
 | 38 | [Lucky](https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 3:09 |
-| 39 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
-| 40 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
-| 41 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
-| 42 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
-| 43 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 39 | [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 |
+| 40 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
+| 41 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
+| 42 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 43 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 | 44 | [Dead And Gone](https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:59 |
 | 45 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 46 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 64 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 |
 | 65 | [Irreplaceable](https://open.spotify.com/track/3qim3nNFg4aSTLZDLAFXhx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp) | 3:47 |
 | 66 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 |
-| 67 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
-| 68 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
+| 67 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
+| 68 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
 | 69 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 70 | [Talk](https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 5:11 |
 | 71 | [Fight For This Love](https://open.spotify.com/track/33IQnmtJYjCcrvUUMQgi80) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 3:43 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j4KHUVrE2f.md) - [plain]
 | 77 | [Love Story](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:55 |
 | 78 | [Walking Away](https://open.spotify.com/track/3R7fjB38qajI6JR69y5k4e) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:24 |
 | 79 | [5 Years Time](https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4) | 3:34 |
-| 80 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
+| 80 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
 
 Snapshot ID: `AAAAAMZuGhSx8if3EmJezrfzXs/OcTpx`

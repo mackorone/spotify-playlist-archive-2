@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 666 likes - 65 songs - 3 hr 36 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 668 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 63 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 |
 | 64 | [Lust](https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Love/Lust](https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt) | 1:53 |
 | 65 | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m) | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ) | 2:22 |
+| 66 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 |
 
-Snapshot ID: `AAADS38gEh1mMjnj8qTSSjfUeAhseqgl`
+Snapshot ID: `AAADTCxjD4dfLpXb0mqSyXGB0TKBzOvq`

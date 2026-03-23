@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,003 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,341 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 84 | [NO PASA NADA](https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NO PASA NADA](https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau) | 2:16 |
 | 85 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
 | 86 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
-| 87 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
-| 88 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
-| 89 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
-| 90 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
+| 87 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 88 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
+| 89 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
+| 90 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 | 91 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
 | 92 | [Andamos Triunfando](https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Andamos Triunfando](https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU) | 2:28 |
 | 93 | [SC\-9](https://open.spotify.com/track/03yAV3GfB7jMAEnynZaAEe) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/2OdL2YX4jLC9Yl4oTSPdCs) | 2:45 |
 | 94 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 95 | [Disfruto Lo Malo](https://open.spotify.com/track/46DU5gYWY2vjE79mbhX4Wv) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Disfruto Lo Malo](https://open.spotify.com/album/0o1pUhqBO6zq1t0PiWVDSf) | 3:07 |
-| 96 | [LA NETA](https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [LA NETA](https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA) | 3:06 |
-| 97 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
+| 96 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
+| 97 | [LA NETA](https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [LA NETA](https://open.spotify.com/album/2bh5I7p34f5LzzXRK55gOA) | 3:06 |
 | 98 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 |
 | 99 | [Rigo Campos](https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb) | 3:47 |
 | 100 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 
-Snapshot ID: `AAAAAPOopH9sUg7SEf+TnPkWNXDJESSM`
+Snapshot ID: `AAAAACkzrMimtKLoGqd5sqyod2XJzFvR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: 딘딘 \(DINDIN\) & 조현영\(레인보우\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,118 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,119 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 44 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 45 | [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 |
 | 46 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
-| 47 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
-| 48 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
+| 47 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
+| 48 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
 | 49 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 |
 | 50 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
 

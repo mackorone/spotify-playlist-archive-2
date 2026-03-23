@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,170 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,172 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 20 | [Trouble](https://open.spotify.com/track/716irYdOvfRgpu3HeelScT) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Horoscopes](https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF) | 2:43 |
 | 21 | [Target You \(feat\. Syemca\)](https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Syemca](https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:04 |
 | 22 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
-| 23 | [Balling](https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Balling](https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx) | 2:50 |
-| 24 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
+| 23 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
+| 24 | [Balling](https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Balling](https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx) | 2:50 |
 | 25 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 |
 | 26 | [Oyi \(feat\. HI Idibia\)](https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [HI Idibia](https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:57 |
 | 27 | [Be There](https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
 | 50 | [Drunk In Love](https://open.spotify.com/track/7bMQhHaOpiZbusXlHrInM8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:39 |
 
-Snapshot ID: `abyOAAAAAACU0v69B2M2Ford9mx0uTHR`
+Snapshot ID: `ab3fgAAAAAD6SpxigGCqAcXjoBytusGk`

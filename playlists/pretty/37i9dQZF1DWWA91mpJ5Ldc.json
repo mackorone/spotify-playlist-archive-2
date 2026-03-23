@@ -95,22 +95,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 191164,
       "name": "\u00cdndia",
       "url": "https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -423,18 +423,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -451,6 +451,22 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -483,22 +499,6 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 206312,
+      "name": "Hexagrama 28",
+      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Espero Que Voc\u00ea Entenda",
         "url": "https://open.spotify.com/album/2lCmjlHLQIcRSfECaTkew8"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 206312,
-      "name": "Hexagrama 28",
-      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -731,30 +731,6 @@
       "duration_ms": 242130,
       "name": "Caju",
       "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "T\u00c1 FELIZ?!",
-        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "SAMBA DE CRIA",
-      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -787,6 +763,30 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "T\u00c1 FELIZ?!",
+        "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "SAMBA DE CRIA",
+      "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
-        }
-      ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 200000,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "A Dan\u00e7a do Mundo",
-        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 202209,
-      "name": "Tibeth\u00e2nica",
-      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "SAGRADO, Vol 2",
         "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 222834,
       "name": "Coisas do Amor (Me Chama)",
       "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "A Dan\u00e7a do Mundo",
+        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 202209,
+      "name": "Tibeth\u00e2nica",
+      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
     },
     {
       "added_at": "2025-12-05 19:00:22",

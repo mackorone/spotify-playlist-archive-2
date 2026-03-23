@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 183151,
+  "num_followers": 183157,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAD2V+ltSgUOEhR/XlhOD3Mx",
+  "snapshot_id": "ab3fgAAAAABevjEazNQAx5shW83F76Vh",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 288693,
-      "name": "Ram It Down",
-      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
+      "duration_ms": 263973,
+      "name": "Never The Heroes",
+      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 263973,
-      "name": "Never The Heroes",
-      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
+      "duration_ms": 288693,
+      "name": "Ram It Down",
+      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-223 songs - 10 hr 38 min
+224 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2025-10-20 | 2025-11-11 |
 | [Deck the Halls](https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:40 | 2024-12-09 | 2026-01-24 |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2025-10-20 |  |
-| [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
+| [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 | 2026-03-23 |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2023-11-20 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2025-04-14 | 2025-10-30 |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2025-11-24 | 2026-02-27 |
@@ -104,6 +104,7 @@
 | [In The Dark Hours](https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [In The Dark Hours](https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh) | 2:55 | 2025-11-24 |  |
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2024-07-01 | 2024-08-13 |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2023-11-20 | 2024-02-08 |
+| [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2026-02-09 |  |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2023-11-20 |  |
 | [It is a Beauteous Evening](https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [It is a Beauteous Evening](https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB) | 2:20 | 2026-01-26 | 2026-02-18 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2025-11-24 |  |

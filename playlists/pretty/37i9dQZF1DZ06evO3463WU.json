@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 158664,
+  "num_followers": 158673,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABUDdLJDL3yWje2kXmrdS7B",
+  "snapshot_id": "ab3fgAAAAABiKzoe2cu+52YWWTzr02kM",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206309,
-      "name": "Los Amantes",
-      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Campo a la Ciudad",
         "url": "https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 227950,
       "name": "Donde Andar\u00e1",
       "url": "https://open.spotify.com/track/0E8nEiE1PIVFf0Mex5NHsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206309,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Unidos Para Amarnos",
-      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido (En Vivo)",
       "url": "https://open.spotify.com/track/6qn4mgku9XyOU5IoTcrNgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220673,
+      "name": "Pasi\u00f3n de Amor - Remastered 2025",
+      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200703,
       "name": "Vuelve por Favor",
       "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 220673,
-      "name": "Pasi\u00f3n de Amor - Remastered 2025",
-      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
     },
     {
       "added_at": null,
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
     },
     {
       "added_at": null,
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN"
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,

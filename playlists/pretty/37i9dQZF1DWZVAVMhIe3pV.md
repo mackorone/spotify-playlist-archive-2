@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,943 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,098 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 67 | [Freaking Out](https://open.spotify.com/track/1OGMyqd5PKvCS45J5AyunP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:35 |
 | 68 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 |
 | 69 | [Shimmer](https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT) | [Fuel 238](https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e) | [Sunburn](https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe) | 3:34 |
-| 70 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 71 | [Money Power Fame \- Remastered](https://open.spotify.com/track/1Ue0sFVGnKM8N8PUeFYMFW) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic \(Deluxe\)](https://open.spotify.com/album/7i5dJSQHwoowIjRFxu1gnN) | 3:22 |
+| 70 | [Money Power Fame \- Remastered](https://open.spotify.com/track/1Ue0sFVGnKM8N8PUeFYMFW) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic \(Deluxe\)](https://open.spotify.com/album/7i5dJSQHwoowIjRFxu1gnN) | 3:22 |
+| 71 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
 | 72 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
 | 73 | [Remedy](https://open.spotify.com/track/2PhQfN7qTx5JxIAlIGMscf) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 2:57 |
 | 74 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |

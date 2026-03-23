@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,285 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,290 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [OUT FRONT](https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:58 |
 | 50 | [RIVER ROAD](https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 4:15 |
 
-Snapshot ID: `abyOAAAAAAD5E2tA8zoS5AO1zxYU34g6`
+Snapshot ID: `ab3fgAAAAAC5kwoOdZrH3W09HOlvUn1c`

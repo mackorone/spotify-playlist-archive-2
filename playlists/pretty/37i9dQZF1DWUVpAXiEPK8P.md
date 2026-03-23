@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,112,756 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,112,603 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
 | 2 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 |
 | 3 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
-| 4 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
-| 5 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 |
+| 4 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 |
+| 5 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 6 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 7 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 | 8 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 |

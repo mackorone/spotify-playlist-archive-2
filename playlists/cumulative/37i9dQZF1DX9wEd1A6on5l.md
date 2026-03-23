@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-835 songs - 1 day 15 hr 33 min
+836 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-15 | 2024-06-28 |
 | [OBUMNEME](https://open.spotify.com/track/5nurEQ3hUEOzSDiZicyuEN) | [DennyB](https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU) | [OBUMNEME](https://open.spotify.com/album/5OPYJYM5LW60cNE6nNbKwY) | 2:36 | 2025-03-31 | 2025-05-25 |
 | [ODESHI](https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6) | [ODESHI](https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL) | 3:12 | 2025-02-14 | 2025-03-15 |
+| [OFE NSALA](https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OFE NSALA](https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi) | 2:10 | 2026-03-20 |  |
 | [Off The Planet \(OTP\)](https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet \(OTP\)](https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4) | 2:37 | 2023-11-28 | 2024-03-01 |
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-05-31 | 2025-02-25 |
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-06-28 | 2025-02-25 |
@@ -615,7 +616,7 @@
 | [OZEBA](https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:17 | 2024-07-16 | 2025-04-01 |
 | [Pakuromo](https://open.spotify.com/track/0KvfrjkeePw6wTfHd0TtEP) | [DC Stunner](https://open.spotify.com/artist/3dMPK7MoIwfZKvLLoOr22s) | [P2](https://open.spotify.com/album/6BrjvDP9y8IwFsvxKI4WRB) | 3:06 | 2024-03-15 | 2024-04-26 |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-09 | 2023-11-09 |
-| [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-02-12 |  |
+| [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-02-12 | 2026-03-23 |
 | [Pano Tona](https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Pano Tona](https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot) | 2:54 | 2024-11-15 | 2025-08-01 |
 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 | 2026-01-14 |  |
 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 | 2023-05-19 | 2023-06-10 |

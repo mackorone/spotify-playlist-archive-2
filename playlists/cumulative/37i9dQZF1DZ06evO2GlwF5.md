@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-157 songs - 11 hr 41 min
+158 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Duet! feat\. 和田弘樹](https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [和田弘樹](https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:28 | 2022-12-29 | 2023-04-28 |
 | [eternal return](https://open.spotify.com/track/00zDrFpVH9js3GZGIX4xu9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:17 | 2026-01-30 | 2026-03-01 |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
+| [Get No Satisfaction!](https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:10 | 2026-03-23 |  |
 | [Get No Satisfaction!](https://open.spotify.com/track/6iWhliYMcrGhdZ6pOOTBSI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:14 | 2025-11-09 | 2026-01-15 |
 | [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 | 2022-12-20 |
 | [Gift 2015\-2016 Live Ver.](https://open.spotify.com/track/2yXEZ1VXw2lFfVE2HxyJiE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [LIVE TOUR 2015\-2016“FOLLOW ME UP”FINAL at 中野サンプラザ](https://open.spotify.com/album/4vXPcYYrRD6kkgI6laagi4) | 5:27 | 2025-08-13 | 2025-08-23 |
@@ -87,7 +88,7 @@
 | [まだうごく](https://open.spotify.com/track/7cLNdxNArBlr3J5ArlbyeB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [あなたを保つもの/まだうごく](https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy) | 5:48 | 2022-08-10 | 2024-09-20 |
 | [まだ遠くにいる](https://open.spotify.com/track/5moWkP9uBHnZN5qfLP33W3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 5:13 | 2023-06-26 | 2024-04-05 |
 | [まだ遠くにいる](https://open.spotify.com/track/2e6wFnPEzIgFMV23ZOhvF4) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ まだ遠くにいる / un\_mute](https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t) | 5:14 | 2023-01-26 | 2023-06-05 |
-| [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 | 2022-08-10 |  |
+| [やさしさに包まれたなら](https://open.spotify.com/track/5Hu070bWBz5I4QDLo267N1) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 3:51 | 2022-08-10 | 2026-03-23 |
 | [アルコ](https://open.spotify.com/track/4kYA4Y4D89TnnsCf0xYBRy) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:40 | 2022-08-10 | 2022-10-13 |
 | [オールドファッション](https://open.spotify.com/track/1Rd0hhKMDF2CqjgIcxYfP7) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 4:51 | 2022-10-13 | 2023-10-11 |
 | [キミドリ](https://open.spotify.com/track/5R0TzsmTbcgqe7j1yZ57MI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 5:03 | 2023-05-05 | 2023-05-20 |

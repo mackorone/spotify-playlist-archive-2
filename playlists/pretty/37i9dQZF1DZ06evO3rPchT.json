@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 85774,
+  "num_followers": 85792,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAD57s5UT47/OPVrRYSXJbdg",
+  "snapshot_id": "ab3fgAAAAAC74gGIC8O7JraZU+CoGXU6",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Met Anyone Like You (feat. HARDY)",
         "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 168417,
       "name": "Never Met Anyone Like You (feat. HARDY)",
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 201832,
+      "name": "REDNECKER",
+      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -227,28 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 220479,
-      "name": "Hide My Gun (Feat. HARDY)",
-      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
       },
       "artists": [
         {
@@ -256,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 201832,
-      "name": "REDNECKER",
-      "url": "https://open.spotify.com/track/6LLe2s3JrbawMkHzgyYeek"
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
     },
     {
       "added_at": null,
@@ -279,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
       "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 193248,
-      "name": "Favorite Country Song",
-      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+      "duration_ms": 220479,
+      "name": "Hide My Gun (Feat. HARDY)",
+      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
     },
     {
       "added_at": null,

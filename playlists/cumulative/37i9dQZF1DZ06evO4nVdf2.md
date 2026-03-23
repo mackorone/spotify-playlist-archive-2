@@ -4,7 +4,7 @@
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 26 min
+109 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,12 +40,13 @@
 | [Histéricos](https://open.spotify.com/track/0b7VF2YIpjMOtcTh2NAPX7) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:33 | 2023-12-26 |  |
 | [La Calle de las Sirenas](https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle de las Sirenas](https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi) | 4:34 | 2023-12-26 | 2024-09-09 |
 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 | 2023-12-26 |  |
-| [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 | 2023-12-26 |  |
+| [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 | 2023-12-26 | 2026-03-23 |
 | [La Vida No Es Fácil](https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 3:48 | 2024-05-10 | 2025-04-19 |
 | [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 | 2025-10-05 |  |
 | [Las Huellas \- Versión de Ximena](https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Amarte Duele \(Versiones de Ximena\)](https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0) | 3:44 | 2025-03-15 |  |
 | [Las Tormentas](https://open.spotify.com/track/0P58mFQ2GFgg0Xd2QvCvdC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:18 | 2025-10-16 | 2025-11-17 |
 | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Leaveyourlove \(with Ximena Sariñana, Rawayana\)](https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF) | 3:02 | 2024-12-01 |  |
+| [Leve](https://open.spotify.com/track/4AvK7PLWMgFTAvI22i21Bi) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Se Ha Acabado El Show](https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc) | 2:42 | 2026-03-23 |  |
 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 | 2023-12-26 |  |
 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 | 2024-01-20 | 2025-03-15 |
 | [Lo que fuera](https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Realismo Mágico](https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P) | 2:57 | 2024-05-07 | 2025-02-07 |

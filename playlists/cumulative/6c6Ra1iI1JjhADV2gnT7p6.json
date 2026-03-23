@@ -18441,6 +18441,28 @@
     },
     {
       "album": {
+        "name": "Fire & Ice / Teeth Pastes",
+        "url": "https://open.spotify.com/album/23sME79kEXCSl8iPnvZ2Sw"
+      },
+      "artists": [
+        {
+          "name": "excusemeplease",
+          "url": "https://open.spotify.com/artist/4KKXDZK7cXlO6Goc5QpJXv"
+        },
+        {
+          "name": "Wedding Guest",
+          "url": "https://open.spotify.com/artist/7hY9ANSz7Kx1csXvNu7G5x"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211539,
+      "name": "Fire & Ice (feat. Wedding Guest)",
+      "url": "https://open.spotify.com/track/1sk2n8WgG2qsdD7bhCCemn"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
       },
@@ -25999,6 +26021,24 @@
     },
     {
       "album": {
+        "name": "i want to go home",
+        "url": "https://open.spotify.com/album/1C5yst0jH56wevIOYK49Jb"
+      },
+      "artists": [
+        {
+          "name": "LaFrange",
+          "url": "https://open.spotify.com/artist/01JzjhkwqYIQXYQKZpg5hP"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200590,
+      "name": "i want to go home",
+      "url": "https://open.spotify.com/track/6I9dtvgUaYo9F8LRa19GsG"
+    },
+    {
+      "album": {
         "name": "I Want To Win",
         "url": "https://open.spotify.com/album/2zkjve4SuPJSgq738m2Z9K"
       },
@@ -32233,6 +32273,24 @@
     },
     {
       "album": {
+        "name": "Lovelorn",
+        "url": "https://open.spotify.com/album/2LDBcy4rtEtmKIVfSVISO5"
+      },
+      "artists": [
+        {
+          "name": "Date of Birth",
+          "url": "https://open.spotify.com/artist/6HryWGOaauMOMjaDMiug8R"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219158,
+      "name": "Lovelorn",
+      "url": "https://open.spotify.com/track/0odwQtJRtUMYccRjF570Vo"
+    },
+    {
+      "album": {
         "name": "Lover, where'd you go",
         "url": "https://open.spotify.com/album/6FJlS6zxw3WwTAlmAinLHo"
       },
@@ -33420,6 +33478,24 @@
       "duration_ms": 196000,
       "name": "Melea 2078",
       "url": "https://open.spotify.com/track/09WNiPPIJumA2upHP5FxbO"
+    },
+    {
+      "album": {
+        "name": "Melting Blue Lights",
+        "url": "https://open.spotify.com/album/4Yl41hZ4ntC01LXFXAabX3"
+      },
+      "artists": [
+        {
+          "name": "fern",
+          "url": "https://open.spotify.com/artist/7caUmyhu6IiUijjAEDB4h8"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197294,
+      "name": "Melting Blue Lights",
+      "url": "https://open.spotify.com/track/2Yc6xhQIOTJHjyNFJcM0S9"
     },
     {
       "album": {
@@ -45854,7 +45930,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 270466,
       "name": "Slough",
       "url": "https://open.spotify.com/track/4yJ5BwVj42dnPCwnlRoVad"
@@ -50508,7 +50584,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 246726,
       "name": "THE BLANKS",
       "url": "https://open.spotify.com/track/5aLyqpbi0g8V8F2L6PYldA"
@@ -54690,6 +54766,24 @@
       "duration_ms": 283772,
       "name": "Violent Horizon",
       "url": "https://open.spotify.com/track/41AfP8WWUHmK8SJF8qauu0"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/7wQlMYJxC6MdsguyZTYSSl"
+      },
+      "artists": [
+        {
+          "name": "Bashir Billow",
+          "url": "https://open.spotify.com/artist/5WkaOt8ljLuutoznP3PyNA"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171447,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/71Ktdoc7yDwfBqeM7UDC5i"
     },
     {
       "album": {

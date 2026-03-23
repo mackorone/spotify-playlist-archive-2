@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Triviño!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,036 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,030 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 23 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 24 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 25 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 |
-| 26 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
-| 27 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 26 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
+| 27 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 28 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 29 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 30 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 49 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 50 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 |
 
-Snapshot ID: `AAAAAEf/QJ6mwu1qmSbTAz3eMOaET+xj`
+Snapshot ID: `AAAAAFA6DzDTvWI+rgc77CHyA3Upo24z`

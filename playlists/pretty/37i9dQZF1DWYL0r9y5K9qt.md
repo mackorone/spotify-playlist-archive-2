@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,047 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,986 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 38 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 39 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 |
 | 40 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
-| 41 | [Not a Goodbye](https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 3:26 |
+| 41 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
 | 42 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 |
-| 43 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
+| 43 | [Not a Goodbye](https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 3:26 |
 | 44 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 |
 | 45 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 |
 | 46 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 47 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
 | 48 | [Girls Like Me](https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Girls Like Me](https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi) | 2:12 |
-| 49 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
-| 50 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
+| 49 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
+| 50 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 
 Snapshot ID: `AAAAAHI9+vaigDkLRFls2asv7WewH81k`

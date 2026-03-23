@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,371 likes - 100 songs - 5 hr 19 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,370 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

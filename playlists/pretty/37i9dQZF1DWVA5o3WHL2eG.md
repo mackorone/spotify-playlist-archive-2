@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,201 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,198 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [FUCK BABY I'M IN LOVE](https://open.spotify.com/track/3Ay2TKv5ouYna7iP4uRQVR) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [WORAN HÄLTST DU DICH FEST, WENN ALLES ZERBRICHT?](https://open.spotify.com/album/4xmhtPurl9t7IFDxUnyCrt) | 2:50 |
 | 39 | [Melody](https://open.spotify.com/track/0kdpQ3yq9JDvpiuOlMBqzs) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Melody](https://open.spotify.com/album/3m4FDyJe4YiXuQt4b5PxKb) | 2:46 |
 | 40 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
-| 41 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
-| 42 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
+| 41 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
+| 42 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 43 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 44 | [BLICKE](https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [BLICKE](https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O) | 2:11 |
 | 45 | [Aschenbecher](https://open.spotify.com/track/0JvPyAsLs44JTb0X77zdCR) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:48 |

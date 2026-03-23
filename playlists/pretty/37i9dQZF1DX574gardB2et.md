@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Taylor Swift
+> The hits you just keep coming back to\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,686 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,645 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 | 19 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 20 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 |
 | 21 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
-| 22 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
-| 23 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
-| 24 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 |
+| 22 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
+| 23 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 |
+| 24 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
 | 25 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 26 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 27 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 | 29 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 |
 | 30 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 31 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
-| 32 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
-| 33 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 34 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 32 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 33 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
+| 34 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 35 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
 | 36 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 37 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX574gardB2et.md) - [plain]
 | 53 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 54 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 55 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
-| 56 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 56 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 57 | [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 |
-| 58 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 59 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 58 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
+| 59 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 60 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:05 |
 
 Snapshot ID: `AAAAAF1OZN938+UBJ3n9MtZrwX0Avg1Y`

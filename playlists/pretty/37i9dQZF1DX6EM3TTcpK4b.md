@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Ana Gabriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,798 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,883 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 41 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
 | 42 | [Soy lo prohibido](https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:04 |
 | 43 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
-| 44 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
-| 45 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 1:54 |
+| 44 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 1:54 |
+| 45 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 46 | [Cuándo sale la luna](https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:27 |
 | 47 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 48 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
@@ -147,12 +147,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 137 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 138 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
 | 139 | [Camino de Guanajuato](https://open.spotify.com/track/2tPWzcW3et2X8QN53ZiMmR) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Disco de Oro](https://open.spotify.com/album/34riZ1re1oumqDvLs7z1Fg) | 3:04 |
-| 140 | [Por Tu Maldito Amor](https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [35 Anniversary Re\-mastered Series, Vol\. 7](https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE) | 3:56 |
+| 140 | [Que De Raro Tiene](https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3) | 3:21 |
 | 141 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/04kdbkyXKEGnbRxqLKjchb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 2:32 |
 | 142 | [Sombras](https://open.spotify.com/track/0va0TL9p2ObwNgP7eHjRNc) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis con Trio](https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS) | 3:26 |
 | 143 | [No](https://open.spotify.com/track/60tK9PZkMuCb5Uwv28oIJM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Grandes Exitos A La Manera De Alejandro Fernandez](https://open.spotify.com/album/3PEIsRKWPx5w1RSoOnrOoh) | 3:15 |
 | 144 | [No Hay Quinto Malo](https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Paquita La Del Barrio Con Mariachi](https://open.spotify.com/album/6mioeN7c8bV5ARR2ZgidLI) | 2:52 |
-| 145 | [Que De Raro Tiene](https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3) | 3:21 |
+| 145 | [Por Tu Maldito Amor](https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [35 Anniversary Re\-mastered Series, Vol\. 7](https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE) | 3:56 |
 | 146 | [El Rey \- En Vivo](https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:21 |
 | 147 | [Amaneci en Tus Brazos](https://open.spotify.com/track/5Mvl7WfpDGgHSilke74GQN) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Exitos](https://open.spotify.com/album/3q1SkQUwAKRGjR21Mi3sVC) | 2:59 |
 | 148 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |

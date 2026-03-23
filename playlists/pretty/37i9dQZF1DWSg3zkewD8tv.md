@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,439 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,448 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 35 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
 | 36 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 37 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
-| 38 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 |
-| 39 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
+| 38 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
+| 39 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 |
 | 40 | [Reckless \(Don't Be So...\) \- Remastered](https://open.spotify.com/track/5XKw4mezzmvfzbHTFx6AwV) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Semantics \(Remastered\)](https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o) | 5:23 |
 | 41 | [These Days](https://open.spotify.com/track/75POD9WZXaGavNVyR0LHt4) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:58 |
 | 42 | [Robbery](https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:43 |

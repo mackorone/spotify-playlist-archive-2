@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 832 likes - 85 songs - 5 hr 12 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 834 likes - 86 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 83 | [Забуте небо](https://open.spotify.com/track/2Qeo0ZXBDY5sFUFxLfNhWu) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Забуте небо](https://open.spotify.com/album/1urbhkBMZ55FmqDkfAGJUd) | 2:59 |
 | 84 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 |
 | 85 | [Gave my life for Rock'n'Roll](https://open.spotify.com/track/0CDJYw9HCLnv3IUTPSke9e) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 2:52 |
+| 86 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 |
 
-Snapshot ID: `AAAFgK63rKCyc6yIf0wFAaOq8JaLUUSc`
+Snapshot ID: `AAAFgcw5LAEW2XeKRlHlv68VAHebdRaC`

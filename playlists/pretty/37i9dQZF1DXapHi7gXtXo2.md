@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,324 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,333 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 46 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 47 | [CURSI](https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CURSI](https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd) | 3:01 |
 | 48 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 |
-| 49 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
-| 50 | [Vete De Una Vez](https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Vete De Una Vez](https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX) | 4:12 |
+| 49 | [Vete De Una Vez](https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Vete De Una Vez](https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX) | 4:12 |
+| 50 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
 | 51 | [You](https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [You](https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6) | 3:54 |
 | 52 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
 | 53 | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [El Mundo Siempre Estuvo Dividido en Dos](https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh) | 2:05 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 64 | [Me da igual](https://open.spotify.com/track/5tKX6GZWGhMomV6H4xLIQf) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Me da igual](https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV) | 2:25 |
 | 65 | [Lo que fuera](https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo que fuera](https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia) | 2:57 |
 | 66 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
-| 67 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 |
-| 68 | [Te quiero tanto](https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Te quiero tanto](https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7) | 3:33 |
+| 67 | [Te quiero tanto](https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Te quiero tanto](https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7) | 3:33 |
+| 68 | [Acto de Fe](https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Acto de Fe](https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0) | 2:49 |
 | 69 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 |
 | 70 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 71 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 85 | [Tiempo](https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:03 |
 | 86 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
 | 87 | [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 |
-| 88 | [Guitarra](https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 2:43 |
-| 89 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 |
+| 88 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 |
+| 89 | [Guitarra](https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 2:43 |
 | 90 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 | 91 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
 | 92 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |

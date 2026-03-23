@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 754647,
+  "num_followers": 754810,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
     },
     {
-      "added_at": "2024-06-14 07:39:29",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "My Love Is Your Love",
@@ -1137,20 +1121,20 @@
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
-      "added_at": "2024-03-22 07:20:24",
+      "added_at": "2024-06-14 07:39:29",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2022-08-25 12:17:17",
@@ -1171,6 +1155,22 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": "2024-03-22 07:20:24",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2022-08-02 10:25:51",

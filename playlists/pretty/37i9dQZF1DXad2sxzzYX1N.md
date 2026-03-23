@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,722 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,132 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 32 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
 | 33 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
 | 34 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
-| 35 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
-| 36 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 |
+| 35 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 |
+| 36 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
 | 37 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 38 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 |
 | 39 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 44 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
 | 45 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 46 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
-| 47 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
+| 47 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
 | 48 | [Sweet](https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:51 |
-| 49 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 49 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
 | 50 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 |
 | 51 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 |
 | 52 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 59 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 60 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
 | 61 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 62 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
-| 63 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 62 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 63 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 64 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 | 65 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 |
 | 66 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 69 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 70 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
 | 71 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 72 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
-| 73 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 72 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
+| 73 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 |
 | 74 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
 | 75 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
 | 76 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 93 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 |
 | 94 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
 | 95 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
-| 96 | [Die Your Daughter](https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM) | 2:19 |
+| 96 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
 | 97 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
-| 98 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
+| 98 | [Die Your Daughter](https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM) | 2:19 |
 | 99 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
 | 100 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 |
 

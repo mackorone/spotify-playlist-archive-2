@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,531 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,527 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 30 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
 | 31 | [Kiedy umrę kochanie \(H\. Poświatowska\)](https://open.spotify.com/track/2PB5GjIi4EC3XYsanvpysO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Kasia Kowalska](https://open.spotify.com/artist/6VKh8iOViFBI7R8Bb9AilZ) | [Dwoje ludzieńków](https://open.spotify.com/album/6LKxswBVj57QxwDfDSl22s) | 3:12 |
 | 32 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 |
-| 33 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
-| 34 | [5am](https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [5am](https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM) | 2:56 |
+| 33 | [5am](https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [5am](https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM) | 2:56 |
+| 34 | [Błękit](https://open.spotify.com/track/2MCf7Lv6OKjbozB5U1YdNC) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Błękit](https://open.spotify.com/album/6AwIsJm2zgnyojCJXvQ1xM) | 2:28 |
 | 35 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 | 36 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 37 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 57 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
 | 58 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
 | 59 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 60 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
+| 60 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 
 Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

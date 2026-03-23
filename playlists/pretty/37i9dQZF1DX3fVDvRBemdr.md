@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: André Hazes & Robert van Hemert
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,359 likes - 85 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,361 likes - 85 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

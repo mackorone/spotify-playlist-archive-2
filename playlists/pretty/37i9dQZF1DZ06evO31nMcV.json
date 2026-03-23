@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25012,
+  "num_followers": 25017,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABTEctynjB+CpVSHNIhtp6T",
+  "snapshot_id": "ab3fgAAAAAAMg4ybdrH963hJGJi3QNIG",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 197473,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
+      "duration_ms": 275662,
+      "name": "Did I Ever Tell You",
+      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Did I Ever Tell You",
-      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
+      "duration_ms": 197473,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG"
     },
     {
       "added_at": null,

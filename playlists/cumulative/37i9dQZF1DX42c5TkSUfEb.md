@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-502 songs - 1 day 6 hr 25 min
+503 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-21 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-02 | 2023-03-16 |
 | [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 | 2025-05-08 | 2025-08-03 |
-| [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2023-03-27 |  |
+| [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2023-03-27 | 2026-03-23 |
 | [Animal](https://open.spotify.com/track/6osDft2CgPE5iLoYIq6aDg) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Animal](https://open.spotify.com/album/6eoR59aezUeK5p5oJMSf2u) | 4:04 | 2025-11-20 | 2025-11-23 |
 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 | 2025-11-06 | 2025-12-05 |
 | [Annie](https://open.spotify.com/track/4tP7vMg09BCDN8P2oYVIc1) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Annie](https://open.spotify.com/album/6IyR77CjaJxhJt5vrOvM0W) | 2:40 | 2024-05-13 | 2025-01-24 |
@@ -507,6 +507,7 @@
 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 | 2023-02-21 |  |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-03-27 | 2024-05-14 |
 | [You're All I Got](https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [You're All I Got / So Long](https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz) | 3:22 | 2025-01-30 | 2025-08-22 |
+| [You're My](https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 3:41 | 2026-03-20 |  |
 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-11-25 | 2024-04-19 |
 | [à deux](https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [à deux](https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1) | 3:25 | 2025-07-03 |  |
 | [À quoi pensait\-elle](https://open.spotify.com/track/3z0s0pPM78ThThvdFEjGKH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 3:24 | 2024-04-15 | 2025-08-10 |

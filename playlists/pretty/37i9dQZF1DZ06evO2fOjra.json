@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 562660,
+  "num_followers": 562759,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABqyCdsBVPJG2kogVeEnxC9",
+  "snapshot_id": "ab3fgAAAAABYGfYYhn4GsjcKXd7wXlcN",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "You'll Never Find Me",
-      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradigm Shift (World Tour Edition)",
         "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233389,
       "name": "Hater",
       "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "You'll Never Find Me",
+      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
     },
     {
       "added_at": null,

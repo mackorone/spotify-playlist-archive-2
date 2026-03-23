@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
-  "num_followers": 137035,
+  "num_followers": 137062,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
       },
       "artists": [
         {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        },
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
         }
       ],
-      "duration_ms": 421463,
-      "name": "Suite Pour L'invisible",
-      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
+      "duration_ms": 247324,
+      "name": "Dance Of The Ghosts",
+      "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -327,22 +331,18 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/1T612bJ0MZhsHIyXX6MZ7A"
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        },
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Dance Of The Ghosts",
-      "url": "https://open.spotify.com/track/7IZtkfX0jSVlbzVzK88aq8"
+      "duration_ms": 421463,
+      "name": "Suite Pour L'invisible",
+      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
         "name": "Film Still / The Sea",
         "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
         "name": "The Smashing Machine (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 134529,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3bnG8Tl63Fg1bZ7JochUDQ"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
+        "name": "Vil'na",
+        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "duration_ms": 284219,
+      "name": "Anti-Drone Nets",
+      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -723,6 +739,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
         "name": "Unexpected Music II",
         "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
       },
@@ -743,58 +775,18 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Vil'na",
-        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
+        "name": "Lune (Ambient Reworks)",
+        "url": "https://open.spotify.com/album/1W24UQcLIlDGyX2mpgcsow"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+          "name": "PIANIKA",
+          "url": "https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC"
         }
       ],
-      "duration_ms": 284219,
-      "name": "Anti-Drone Nets",
-      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
-        "name": "When We Are Free",
-        "url": "https://open.spotify.com/album/1nHvY2jpgYdtaaWs47ADcO"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        },
-        {
-          "name": "Harbors",
-          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "In All Things",
-      "url": "https://open.spotify.com/track/4oseh0Vifbq2UMID5XSCVP"
+      "duration_ms": 187118,
+      "name": "Seven Sisters - Softer",
+      "url": "https://open.spotify.com/track/2JwROemU7cYui26FE5WMr8"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -819,18 +811,26 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Lune (Ambient Reworks)",
-        "url": "https://open.spotify.com/album/1W24UQcLIlDGyX2mpgcsow"
+        "name": "When We Are Free",
+        "url": "https://open.spotify.com/album/1nHvY2jpgYdtaaWs47ADcO"
       },
       "artists": [
         {
-          "name": "PIANIKA",
-          "url": "https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Seven Sisters - Softer",
-      "url": "https://open.spotify.com/track/2JwROemU7cYui26FE5WMr8"
+      "duration_ms": 187999,
+      "name": "In All Things",
+      "url": "https://open.spotify.com/track/4oseh0Vifbq2UMID5XSCVP"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Spicy City",
-        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy City",
-      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2GlDx3myOwcCARNtUTJkXr"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
+        "name": "Spicy City",
+        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy City",
+      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
         "name": "periferi",
         "url": "https://open.spotify.com/album/0F7Jik5LF6ol2NHsUjGCwh"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 384000,
       "name": "periferi",
       "url": "https://open.spotify.com/track/3ytorOvPTZGJr0padwLgLv"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
+        "name": "Earth Expressions",
+        "url": "https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "duration_ms": 301322,
+      "name": "Silent Tree",
+      "url": "https://open.spotify.com/track/79sDBnfCLopeckeVkrRN96"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -971,22 +987,6 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
-        "name": "Earth Expressions",
-        "url": "https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi"
-      },
-      "artists": [
-        {
-          "name": "Dianna Lopez",
-          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
-        }
-      ],
-      "duration_ms": 301322,
-      "name": "Silent Tree",
-      "url": "https://open.spotify.com/track/79sDBnfCLopeckeVkrRN96"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
+        "name": "My Light, My Massage Parlor",
+        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 311521,
+      "name": "Wormhold Music",
+      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
-        "name": "My Light, My Massage Parlor",
-        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 311521,
-      "name": "Wormhold Music",
-      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
         "name": "OUT I",
         "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 281565,
       "name": "OUT I",
       "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2026-03-20 08:52:39",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2026-03-20 08:52:39",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "T\u1ebft 41",
-        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 319554,
-      "name": "Gi\u00f3",
-      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
     },
     {
       "added_at": "2026-03-20 08:52:39",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-03-20 08:52:39",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+        "name": "T\u1ebft 41",
+        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+      "duration_ms": 319554,
+      "name": "Gi\u00f3",
+      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
     },
     {
       "added_at": "2026-03-20 08:52:39",

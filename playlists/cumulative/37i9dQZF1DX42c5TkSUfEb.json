@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 219840,
       "name": "and we\u2019ll leave it there\u2026",
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
@@ -9344,6 +9344,24 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
     },
     {
       "album": {

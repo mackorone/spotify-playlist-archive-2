@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,105 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,118 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
-| 2 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
+| 1 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
+| 2 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
 | 3 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 |
 | 4 | [SAILOR \(with Oxlade\)](https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SAILOR \(with Oxlade\)](https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB) | 3:04 |
 | 5 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 31 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
 | 32 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 33 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 |
-| 34 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
-| 35 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
+| 34 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
+| 35 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
 | 36 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 |
 | 37 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
 | 38 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
-| 39 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
-| 40 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
+| 39 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
+| 40 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 |
 | 41 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
 | 42 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 |
 | 43 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |

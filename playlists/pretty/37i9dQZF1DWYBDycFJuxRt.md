@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LANA and Ell Teresa \*👉 <a href="https://spice.eplus.jp/articles/344832">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,694 likes - 83 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,689 likes - 83 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

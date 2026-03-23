@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,974 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,973 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 28 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 |
 | 29 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
 | 30 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
-| 31 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
-| 32 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
-| 33 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
+| 31 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
+| 32 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
+| 33 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
 | 34 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 35 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
 | 36 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
 | 37 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 38 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
-| 39 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
-| 40 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
+| 39 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
+| 40 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
 | 41 | [Vertigo](https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 2:28 |
 | 42 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 |
 | 43 | [H.O.O.D \- 2025 Mix](https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [H.O.O.D 2025](https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu) | 2:52 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 67 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 68 | [Love On The Outside](https://open.spotify.com/track/1HS1Q38mPX3iAP66gTHt6E) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 3:58 |
 | 69 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
-| 70 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 |
-| 71 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 70 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 71 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 |
 | 72 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 73 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
 | 74 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |

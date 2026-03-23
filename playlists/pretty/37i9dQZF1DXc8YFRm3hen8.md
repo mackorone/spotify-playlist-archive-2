@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 NTVG
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,859 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,880 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 65 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 |
 | 66 | [Rezo por Vos](https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:29 |
 | 67 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
-| 68 | [Bicho de Ciudad \- Spotify Sessions](https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 4:46 |
-| 69 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
+| 68 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
+| 69 | [Bicho de Ciudad \- Spotify Sessions](https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 4:46 |
 | 70 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
 | 71 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
-| 72 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |
-| 73 | [Irme Lejos](https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 3:49 |
+| 72 | [Irme Lejos](https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 3:49 |
+| 73 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |
 | 74 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 |
 | 75 | [La Máquina](https://open.spotify.com/track/00RN1so6DXcJo1zFqlfezf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Máquina](https://open.spotify.com/album/7jDD7GuuMirFLeNX7ksSjw) | 2:59 |
 | 76 | [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 |

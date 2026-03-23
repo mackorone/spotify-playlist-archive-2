@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,105 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,139 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cuidado Que Te Supero](https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Cuidado Que Te Supero](https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY) | 3:45 |
 | 2 | [Entre amigos y chamamé](https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP) | [20 Grandes Éxitos](https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx) | 2:23 |
 | 3 | [El Toro](https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 2:43 |
-| 4 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
+| 4 | [Pobre Mi Caballo Bayo](https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:30 |
 | 5 | [Enganchados de Sobremesa: El toro / Jineteando en Tostado / El gatea´o](https://open.spotify.com/track/6YtQAPKwLVWOZFr6qGs0Lu) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Enganchados de Sobremesa: El toro / Jineteando en Tostado / El gatea´o](https://open.spotify.com/album/7kGHWnG2HGw1SRwVlfCW9U) | 3:57 |
-| 6 | [Pobre Mi Caballo Bayo](https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:30 |
+| 6 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
 | 7 | [El Gateao](https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [Hilvanando Recuerdos](https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS) | 2:39 |
 | 8 | [Por amarte así](https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Por amarte así](https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7) | 3:32 |
 | 9 | [Meta lonja y chamamé](https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Pastor Luna \- Chamemecero de Ley](https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C) | 2:57 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 74 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |
 | 75 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
 | 76 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
-| 77 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
-| 78 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
+| 77 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 |
+| 78 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 79 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 80 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
 | 81 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 |

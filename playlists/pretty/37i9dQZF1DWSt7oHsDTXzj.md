@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,463 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,436 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 36 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
 | 37 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 | 38 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 |
-| 39 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
+| 39 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
 | 40 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
-| 41 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
+| 41 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
 | 42 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
 | 43 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 44 | [Winter Wonderland](https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Winter Wonderland](https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf) | 3:02 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 53 | [A Little Love](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 54 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
 | 55 | [Tchotchkes](https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T), [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchkes](https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA) | 3:42 |
-| 56 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
-| 57 | [snowpool](https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [snowpool](https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs) | 3:15 |
+| 56 | [snowpool](https://open.spotify.com/track/5A8MtqsQlrBSowEtquAhOu) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [snowpool](https://open.spotify.com/album/3SfMVVm5Aro0KDirWJqcXs) | 3:15 |
+| 57 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 58 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 59 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 60 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 71 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
 | 72 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 |
 | 73 | [Blue Moon](https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Blue Moon](https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC) | 3:01 |
-| 74 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
-| 75 | [Christmas Starts Tonight \- live from a restaurant in downtown Los Angeles](https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas \(live from a restaurant in downtown Los Angeles\)](https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg) | 3:35 |
+| 74 | [Christmas Starts Tonight \- live from a restaurant in downtown Los Angeles](https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas \(live from a restaurant in downtown Los Angeles\)](https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg) | 3:35 |
+| 75 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
 
 Snapshot ID: `AAAAANSm03ud3HSMDGYwoOy+sGln7KfA`

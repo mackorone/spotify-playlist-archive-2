@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16067,
+  "num_followers": 16070,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADUp2/FuyIZeUwhJck5EEMm",
+  "snapshot_id": "ab3fgAAAAAAYmQp9ISEyvuuKVnQTyfz4",
   "tracks": [
     {
       "added_at": null,
@@ -60,7 +60,7 @@
       "added_at": null,
       "album": {
         "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Brackish XXV",
-      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
     },
     {
       "added_at": null,
@@ -124,7 +124,7 @@
       "added_at": null,
       "album": {
         "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 165022,
-      "name": "Spit XXV",
-      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+      "duration_ms": 177946,
+      "name": "Brackish XXV",
+      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
     },
     {
       "added_at": null,

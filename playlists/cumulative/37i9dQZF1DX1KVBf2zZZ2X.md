@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-325 songs - 15 hr 10 min
+326 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
+| [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-20 |  |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2026-02-27 |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-03-19 | 2026-03-21 |
 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 | 2025-09-25 |
@@ -170,7 +171,7 @@
 | [living with purpose](https://open.spotify.com/track/2TncYGmsmmSZUUdGgWzCn0) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [living with purpose](https://open.spotify.com/album/1cZ1ZBmY0zkmiszP0oS5o1) | 3:38 | 2025-06-11 | 2026-03-21 |
 | [Lonely River](https://open.spotify.com/track/3uGsLMP22til2JB675A4xc) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lonely River](https://open.spotify.com/album/6MyDgpQAQqiB7qt5RFhU9o) | 3:11 | 2025-09-24 | 2026-03-21 |
 | [Lost](https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lost](https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa) | 3:07 | 2023-03-03 | 2025-05-03 |
-| [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-03-20 | 2026-03-22 |
+| [Lumenfall](https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Lumenfall](https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ) | 2:39 | 2026-03-20 |  |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-03-03 | 2024-03-21 |
 | [Luna's Forest](https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Luna's Forest](https://open.spotify.com/album/5C6d1q0wQAzX8h724CTLl5) | 2:34 | 2025-09-04 | 2026-03-15 |
 | [Lunar Serenade 432Hz](https://open.spotify.com/track/6LjnYMLTLIlJWt2gsqabia) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Lunar Serenade 432Hz](https://open.spotify.com/album/7hJvjekmC9YgzSwhsw7deN) | 2:41 | 2025-06-11 |  |
@@ -224,7 +225,7 @@
 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-03 | 2025-05-30 |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-03-01 |  |
 | [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
-| [Preserve](https://open.spotify.com/track/6YhbiFMbQqR6gIxVAVmgVc) | [Rothko Field](https://open.spotify.com/artist/6nj5OIlIUCySoVkxI0Hkdi) | [Preserve](https://open.spotify.com/album/1hk3b0vL3gkBybeUvY8Sm0) | 3:46 | 2026-03-20 |  |
+| [Preserve](https://open.spotify.com/track/6YhbiFMbQqR6gIxVAVmgVc) | [Rothko Field](https://open.spotify.com/artist/6nj5OIlIUCySoVkxI0Hkdi) | [Preserve](https://open.spotify.com/album/1hk3b0vL3gkBybeUvY8Sm0) | 3:46 | 2026-03-20 | 2026-03-23 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
 | [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 |  |
@@ -289,7 +290,7 @@
 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 | 2023-03-03 | 2024-09-05 |
 | [The Garden](https://open.spotify.com/track/3nJvNFOPUn4lIO7BO0XNKp) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [The Garden](https://open.spotify.com/album/5LWRyizaBPnEsDo3etMFQF) | 2:30 | 2024-02-06 | 2025-01-16 |
 | [The God](https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [The God](https://open.spotify.com/album/6MvwsVG013BwEyygjQXcmZ) | 2:41 | 2025-09-24 |  |
-| [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2025-05-16 |  |
+| [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2025-05-16 | 2026-03-23 |
 | [The Golden Willow](https://open.spotify.com/track/7H4vDTB3gLpuSZAmDdMFbA) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [The Golden Willow](https://open.spotify.com/album/7f6XwQ54is0lkfZkLpeyT0) | 2:38 | 2025-09-24 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-03-03 | 2024-03-21 |
 | [The Other Side](https://open.spotify.com/track/1v6nckXVbN34PqeQ0xBFIN) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Other Side](https://open.spotify.com/album/3uRJ68qiLsiWtYWo9JLHSV) | 2:49 | 2025-05-16 | 2026-03-21 |

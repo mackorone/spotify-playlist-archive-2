@@ -4,7 +4,7 @@
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-101 songs - 5 hr 41 min
+102 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 | 2020-04-20 |  |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2020-04-20 |  |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2020-04-20 |  |
+| [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2020-04-20 |  |
 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 | 2020-04-20 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 3:23 | 2020-04-20 |  |
 | [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:43 | 2020-04-20 |  |
@@ -39,7 +40,7 @@
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2020-04-20 |  |
 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2020-04-20 |  |
 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 | 2020-04-20 |  |
-| [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 | 2020-04-20 |  |
+| [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 | 2020-04-20 | 2026-03-23 |
 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 | 2020-04-20 |  |
 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 | 2020-04-20 |  |
 | [Golden Earrings](https://open.spotify.com/track/6Y2fPMHkSeMT3a7ojGIBE6) | [Frans Krassenburg](https://open.spotify.com/artist/29iQXirYC9nAv1M7ZOqcmb) | [Golden Years Of Dutch Pop Music \- The Sixties Part 2](https://open.spotify.com/album/6YX9hisdPCAHXQmF8vh0UW) | 1:59 | 2020-04-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,950 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,952 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 36 | [Rugged Country](https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:53 |
 | 37 | [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 |
 | 38 | [Exploration \(Ruins\)](https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:10 |
-| 39 | [Ballad 0 \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 2:59 |
-| 40 | [Jane Cum](https://open.spotify.com/track/6TNDCAWdIrfmD4XCelb03V) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:31 |
-| 41 | [Sansee \(Day\)](https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:58 |
+| 39 | [Jane Cum](https://open.spotify.com/track/6TNDCAWdIrfmD4XCelb03V) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:31 |
+| 40 | [Sansee \(Day\)](https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:58 |
 
-Snapshot ID: `abyOAAAAAABI3fwMqduIMARzAyM4x8no`
+Snapshot ID: `ab3fgAAAAAB3W+j0bwta9fdaMHhNDlaV`

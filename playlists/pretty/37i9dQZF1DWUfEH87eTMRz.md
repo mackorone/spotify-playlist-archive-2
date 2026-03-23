@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,762 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,773 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 2 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 3 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 4 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
-| 5 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
+| 5 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
 | 6 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 7 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 |
+| 7 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 8 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
 | 9 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
 | 10 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
 | 11 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 |
-| 12 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
-| 13 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 |
+| 12 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 |
+| 13 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 14 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 |
 | 15 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 |
 | 16 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 67 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
 | 68 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
 | 69 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
-| 70 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
-| 71 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
+| 70 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
+| 71 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
 | 72 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
 | 73 | [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 |
 

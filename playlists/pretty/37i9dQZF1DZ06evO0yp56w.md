@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,403 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,480 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 26 | [Bliss](https://open.spotify.com/track/0j3obufLXq5toSs592dX9U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 4:11 |
 | 27 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
 | 28 | [Won’t Stand Down](https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:29 |
-| 29 | [Thoughts of a Dying Atheist](https://open.spotify.com/track/37Z46YLWkgwBoouUmyFOuM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:08 |
+| 29 | [The Dark Side](https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:47 |
 | 30 | [Space Dementia](https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:20 |
-| 31 | [The Dark Side](https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:47 |
+| 31 | [Thoughts of a Dying Atheist](https://open.spotify.com/track/37Z46YLWkgwBoouUmyFOuM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 3:08 |
 | 32 | [Assassin](https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:31 |
 | 33 | [Mercy](https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 3:51 |
 | 34 | [Survival](https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 45 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 | 46 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 47 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
-| 48 | [The 2nd Law: Isolated System](https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:59 |
-| 49 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
+| 48 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
+| 49 | [The 2nd Law: Isolated System](https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:59 |
 | 50 | [Citizen Erased](https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 7:21 |
 
-Snapshot ID: `abyOAAAAAAAqvqgQtwHDbs+B0WZg5hf8`
+Snapshot ID: `ab3fgAAAAADjYAVZ+OoUNSNZTBG5aTxx`

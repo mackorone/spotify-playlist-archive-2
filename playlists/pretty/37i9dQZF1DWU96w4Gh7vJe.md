@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,622 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,604 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 20 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 21 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
 | 22 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
-| 23 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 |
-| 24 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
+| 23 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
+| 24 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 |
 | 25 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 26 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 |
 | 27 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |

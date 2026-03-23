@@ -4288,10 +4288,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -12084,7 +12102,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
@@ -14026,7 +14044,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -17560,7 +17578,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
@@ -24784,7 +24802,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -27148,7 +27166,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 215906,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
@@ -30248,10 +30266,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {

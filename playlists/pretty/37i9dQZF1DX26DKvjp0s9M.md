@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > Everlasting indie hits, ft Clairo & Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,479 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,508 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 8 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 9 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 |
 | 10 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
-| 11 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 11 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
 | 12 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 |
 | 13 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 14 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 15 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 |
 | 16 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
-| 17 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 |
+| 17 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 18 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 |
 | 19 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 20 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 73 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
 | 74 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 75 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
-| 76 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
-| 77 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
+| 76 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
+| 77 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 |
 | 78 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
 | 79 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 80 | [Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 3:09 |
 | 81 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 82 | [Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:19 |
-| 83 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
-| 84 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
+| 83 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
+| 84 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 85 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 86 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 87 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 94 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 95 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
 | 96 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
-| 97 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
-| 98 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 97 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 98 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 99 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
 | 100 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 

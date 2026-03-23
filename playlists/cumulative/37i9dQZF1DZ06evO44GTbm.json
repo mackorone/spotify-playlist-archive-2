@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596330,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
+    },
+    {
+      "album": {
         "name": "Earth Focus (Original Score)",
         "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 698514,
       "name": "Memory of Blue",
       "url": "https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt"

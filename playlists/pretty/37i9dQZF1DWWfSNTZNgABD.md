@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,890 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,920 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 21 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
 | 22 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
 | 23 | [Nada Valgo Sin Tu Amor](https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:16 |
-| 24 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
-| 25 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
-| 26 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
-| 27 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
+| 24 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
+| 25 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
+| 26 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
+| 27 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
 | 28 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 29 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 30 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 |

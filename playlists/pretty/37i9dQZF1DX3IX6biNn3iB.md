@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,682 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,684 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 23 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 24 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
 | 25 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
-| 26 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Sablo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
-| 27 | [Yallegó](https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 2:53 |
+| 26 | [Yallegó](https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Abajo Del Sol](https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t) | 2:53 |
+| 27 | [NOS SOLTAMOS chiliado](https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [Sablo](https://open.spotify.com/artist/7JTIskra5uVup9ZyODtm0u) | [NOS SOLTAMOS chiliado](https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU) | 3:42 |
 | 28 | [cuida](https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6) | [csndra](https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe), [Jandro Blu](https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW) | [cuida](https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8) | 2:46 |
 | 29 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
 | 30 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
 | 31 | [En El Olvido](https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:26 |
 | 32 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 33 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
-| 34 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
-| 35 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
-| 36 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
+| 34 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
+| 35 | [Save Me](https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Save Me](https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3) | 3:42 |
+| 36 | [Alguien Como Tú](https://open.spotify.com/track/4RcNWE3CwwM0qOCHECOsPu) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Alguien Como Tú](https://open.spotify.com/album/6pU5Wo3Pdlu9wQpjVbGAYM) | 3:16 |
 | 37 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 38 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
 | 39 | [Truth Is so Loud](https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Truth Is so Loud](https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97) | 3:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 41 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 |
 | 42 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
 | 43 | [LOSE YOURSELF.](https://open.spotify.com/track/3uwJeidmXdX89p197EV8u2) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [LOSE YOURSELF.](https://open.spotify.com/album/2yZFXPQdnKRwnuOcZkgaCo) | 2:59 |
-| 44 | [mis viejos](https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [mis viejos](https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5) | 4:00 |
-| 45 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
+| 44 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
+| 45 | [mis viejos](https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [mis viejos](https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5) | 4:00 |
 | 46 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
 | 47 | [Me Tienes Loco](https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Me Tienes Loco](https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3) | 2:40 |
 | 48 | [cuando tú me besas](https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [cuando tú me besas](https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr) | 2:32 |
-| 49 | [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 |
-| 50 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
+| 49 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
+| 50 | [Ponte Las Pilas](https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Ponte Las Pilas](https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg) | 2:52 |
 
 Snapshot ID: `AAAAAP4XU21TQ7q/NcndOuZ9syXf3fqG`

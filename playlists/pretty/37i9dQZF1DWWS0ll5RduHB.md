@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,494 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,499 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 19 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
 | 20 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 21 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 22 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 22 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 23 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
-| 24 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 24 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 25 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 |
 | 26 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 27 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |

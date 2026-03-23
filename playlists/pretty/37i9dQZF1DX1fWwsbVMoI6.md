@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo Frontera y Silvestre Dangond
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,784 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,803 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 20 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 21 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonía 10 de Walther Lozada](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 |
 | 22 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
-| 23 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
-| 24 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 23 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 24 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
 | 25 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 26 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 27 | [Me Emborracharé](https://open.spotify.com/track/0n4QVxj2AXGpdn1RhUSo9K) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Me Emborracharé](https://open.spotify.com/album/3wXwoHLYaapEjLT7xJvSgR) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 |
 | 50 | [Tú](https://open.spotify.com/track/4VbnD5S1tZrJnlXBQZFiSZ) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI), [Dantes Cardosa](https://open.spotify.com/artist/5nzCbQIHLZDzSX1q60ObgQ) | [Tú](https://open.spotify.com/album/6w0Um2VB3AJpUSeoAUNBtC) | 3:51 |
 
-Snapshot ID: `AAAAAJsSKY9HqlNsnikmXi8haUkvUxoh`
+Snapshot ID: `AAAAAA5vbHp0i7SSQ/evAuMkUzdnAfs7`

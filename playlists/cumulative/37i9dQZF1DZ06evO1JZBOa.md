@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-162 songs - 12 hr 19 min
+163 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cielito Lindo](https://open.spotify.com/track/2FYV3YZ6ikL7NTFBnBXRqX) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:14 | 2022-04-08 |  |
 | [Cielito Lindo](https://open.spotify.com/track/4QXE4rSr52gCAgloBpo78L) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 3:14 | 2021-12-28 | 2025-03-04 |
 | [Coconut](https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:11 | 2021-12-28 |  |
-| [Cosita Linda](https://open.spotify.com/track/0QJPmPtf8aF7etipCeBu0c) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:03 | 2023-11-10 |  |
+| [Cosita Linda](https://open.spotify.com/track/0QJPmPtf8aF7etipCeBu0c) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:03 | 2023-11-10 | 2026-03-23 |
 | [Cosita Linda](https://open.spotify.com/track/2bBirdcBLswvtKiQojNFHR) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 3:06 | 2022-01-28 | 2026-01-28 |
 | [Dasiko](https://open.spotify.com/track/16tLBvLCBclgLVyFzAWwEm) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:05 | 2021-12-28 | 2022-10-13 |
 | [Dasiko \- Interprete Par Bella Bellow](https://open.spotify.com/track/3XBCla95pMHvDEE1CAeJTh) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Safari](https://open.spotify.com/album/1fSXRjeDsXDogVCQOU4nRJ) | 4:04 | 2024-01-22 | 2024-04-04 |
@@ -90,6 +90,7 @@
 | [Kwele](https://open.spotify.com/track/77mPkxBLi0zaYGorJTWs9Y) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:21 | 2024-08-03 | 2026-01-24 |
 | [Lagos Go Slow](https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:48 | 2021-12-28 | 2024-01-06 |
 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 | 2024-02-05 |  |
+| [Le Bucheron](https://open.spotify.com/track/145fFjQbOk4F9hlf0ZUOgs) | [Franklin Boukaka](https://open.spotify.com/artist/2XeTb1Zh39rA70DxAq9qxC), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [L'Immortel \- The 60's Rumba Revolution in Congo](https://open.spotify.com/album/12nK0B6YzXEb1LvBbpOJba) | 3:31 | 2026-03-23 |  |
 | [Lemba](https://open.spotify.com/track/5WwoxtB0mX4FtumB5bLJJF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Kirikou Et Les Bêtes Sauvages](https://open.spotify.com/album/3jPFCv3MmeFm529jkzUfIM) | 5:57 | 2022-01-20 | 2022-01-22 |
 | [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 | 2021-12-28 |  |
 | [Lily](https://open.spotify.com/track/22tFAxQp5YRirWV8EWU7J6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/02T4tS67RI3QbqQTVnvGkt) | 4:11 | 2021-12-28 | 2022-03-30 |

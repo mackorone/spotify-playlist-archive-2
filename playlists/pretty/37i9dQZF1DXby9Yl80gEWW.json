@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 61398,
+  "num_followers": 61406,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 329933,
       "name": "Eternal Blues",
       "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "Your Daughters & Your Sons",
         "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 257640,
       "name": "Airish",
       "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Carried Along",
-        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
-      },
-      "artists": [
-        {
-          "name": "Upstream Drifters",
-          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
-        }
-      ],
-      "duration_ms": 216388,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Carried Along",
+        "url": "https://open.spotify.com/album/64cccOqmeYXREYN26KpuVr"
+      },
+      "artists": [
+        {
+          "name": "Upstream Drifters",
+          "url": "https://open.spotify.com/artist/27UTxNP8rZVzxGRsQxWgoh"
+        }
+      ],
+      "duration_ms": 216388,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0VsLJhLnWLNQelIqhPK8rB"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Crazy Creek",
-        "url": "https://open.spotify.com/album/2JxJhhtE5BVWiiRov2rKUh"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Jake Stargel",
-          "url": "https://open.spotify.com/artist/2gGZgboSNxFbVEqX9rkqEp"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Crazy Creek",
-      "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 142652,
       "name": "Jolly Green",
       "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Crazy Creek",
+        "url": "https://open.spotify.com/album/2JxJhhtE5BVWiiRov2rKUh"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Jake Stargel",
+          "url": "https://open.spotify.com/artist/2gGZgboSNxFbVEqX9rkqEp"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Crazy Creek",
+      "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2026-02-13 05:00:31",

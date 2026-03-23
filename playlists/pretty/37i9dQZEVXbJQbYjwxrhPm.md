@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,534 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Nema Koj](https://open.spotify.com/track/4r0AjlbwbtNz7THU6ZpZbz) | [2bona](https://open.spotify.com/artist/3gsp4PXZKqOqaOK166AdMh), [Antonia Gigovska](https://open.spotify.com/artist/1P0DXnsIm6pMkUgq0aHsKa) | [Nema Koj](https://open.spotify.com/album/04nHTwduOhneANtYaYr69X) | 3:28 |
 | 50 | [Mi Amor](https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Mi Amor](https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN) | 3:18 |
 
-Snapshot ID: `MVICmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

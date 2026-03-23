@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Victor Garcia en portada ",
-  "num_followers": 834376,
+  "num_followers": 834462,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
+        "name": "IMU",
+        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 139734,
+      "name": "IMU",
+      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
         "name": "Agu\u00e1ntame",
         "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 172157,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
-        "name": "IMU",
-        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        },
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 139734,
-      "name": "IMU",
-      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
+        "name": "ESTOICISMO",
+        "url": "https://open.spotify.com/album/4qAlEESvgHKRHphbZc6QVC"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "ESTOICISMO",
+      "url": "https://open.spotify.com/track/7sF5eflbAhpo0wh5NX2jDZ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
         "name": "ESPEJO",
         "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 199114,
       "name": "ESPEJO",
       "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -771,42 +803,6 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "ESTOICISMO",
-        "url": "https://open.spotify.com/album/4qAlEESvgHKRHphbZc6QVC"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "ESTOICISMO",
-      "url": "https://open.spotify.com/track/7sF5eflbAhpo0wh5NX2jDZ"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Dime si recuerdas",
-      "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -827,18 +823,22 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
         }
       ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+      "duration_ms": 137647,
+      "name": "Dime si recuerdas",
+      "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 200254,
       "name": "Todo Es Diferente",
       "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
+        "name": "Grietas de Oro",
+        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "Grietas de Oro",
+      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
         "name": "Love To Be Loved",
         "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 170000,
       "name": "Love To Be Loved",
       "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
-        "name": "Grietas de Oro",
-        "url": "https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 197551,
-      "name": "Grietas de Oro",
-      "url": "https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
         "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 185333,
       "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
       "url": "https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "Migajero",
-        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 198421,
-      "name": "Migajero",
-      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
         "name": "Eden Vol. II",
         "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 230480,
       "name": "Tengo Que Contarte",
       "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
+        "name": "Migajero",
+        "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 198421,
+      "name": "Migajero",
+      "url": "https://open.spotify.com/track/5epbktRwPpLwYz5mnBgNPq"
     },
     {
       "added_at": "2026-03-20 06:00:04",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-03-20 06:00:04",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
-    },
-    {
-      "added_at": "2026-03-20 06:00:04",
-      "album": {
         "name": "el silencio",
         "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
+    },
+    {
+      "added_at": "2026-03-20 06:00:04",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
     }
   ],
   "unique_name": "Top M\u00e9xico",

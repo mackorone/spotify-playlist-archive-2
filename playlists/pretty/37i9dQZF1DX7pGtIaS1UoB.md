@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,142 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,158 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 8 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 |
 | 9 | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/track/2SBFE0qlDBhzus5b3qqxBM) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [小美滿 \(電影《熱辣滾燙》熱辣陪伴曲\)](https://open.spotify.com/album/5WL0s3YJehp8GqmJRZu0Sq) | 3:34 |
 | 10 | [豆漿油條](https://open.spotify.com/track/7vva2pL13vWP3XHKltJNJ7) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [第二天堂](https://open.spotify.com/album/3Hl00RKpdMnWtOal6WBlGK) | 4:14 |
-| 11 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 |
-| 12 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
+| 11 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
+| 12 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 |
 | 13 | [我喜歡你就是你](https://open.spotify.com/track/17DRxdfyP07muN0Qamxbxc) | [仙杜貝拉 Bella](https://open.spotify.com/artist/3fxnJU0wOgkHIHTpPdgpcd) | [我喜歡你就是你](https://open.spotify.com/album/145Au0ueyg0HZFioFWnk2I) | 3:29 |
 | 14 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
 | 15 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 18 | [愛上你](https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/4RsL9KnUAYttjxJxBll6pJ) | 4:01 |
 | 19 | [Make Sense](https://open.spotify.com/track/5fufhzT3tgaMEJTZel4cJT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [Make Sense](https://open.spotify.com/album/42M8HFYWPDvXyk9sXLYeQz) | 2:58 |
 | 20 | [一天 \- 電視劇《想見你》插曲](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
-| 21 | [浪漫主意](https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [浪漫主意](https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo) | 3:31 |
-| 22 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 |
-| 23 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
-| 24 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
-| 25 | [心願便利貼 \- 台視、三立《命中注定我愛你》片尾曲](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [大Q秉洛](https://open.spotify.com/artist/4RR9YZI1lrC7K0dg07RLKr) | [命中注定我愛你 電視原聲帶](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
-| 26 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 |
+| 21 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 |
+| 22 | [浪漫主意](https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [浪漫主意](https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo) | 3:31 |
+| 23 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
+| 24 | [渐暖](https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX) | [時代少年團](https://open.spotify.com/artist/6I36DXLxkJxYeq82tDH4zz) | [渐暖](https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd) | 3:10 |
+| 25 | [只對你有感覺](https://open.spotify.com/track/6WdMREn0gO76tvckO16SQu) | [飛輪海](https://open.spotify.com/artist/37Ge9MTQaJqJknImNwYhWF), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [飛輪海首張同名專輯](https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F) | 3:59 |
+| 26 | [心願便利貼 \- 台視、三立《命中注定我愛你》片尾曲](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [大Q秉洛](https://open.spotify.com/artist/4RR9YZI1lrC7K0dg07RLKr) | [命中注定我愛你 電視原聲帶](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
 | 27 | [畫沙](https://open.spotify.com/track/1FHyeleXso8kLXXNfnqWEL) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Cindy袁詠琳同名專輯](https://open.spotify.com/album/5BZIrbFiSeJgdbY96ReQPH) | 4:33 |
-| 28 | [moonlight](https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [moonlight](https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A) | 2:42 |
-| 29 | [story that never ends](https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [story that never ends](https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq) | 3:28 |
+| 28 | [story that never ends](https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [story that never ends](https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq) | 3:28 |
+| 29 | [moonlight](https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [moonlight](https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A) | 2:42 |
 | 30 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 31 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
 | 32 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 66 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事（新歌＋精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 |
 | 67 | [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 |
 | 68 | [心動拍拍](https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [心動拍拍](https://open.spotify.com/album/3nOVvGkBF4wO5eBAFEscl7) | 3:06 |
-| 69 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 |
-| 70 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 |
-| 71 | [遇上愛](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 |
-| 72 | [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 |
+| 69 | [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 |
+| 70 | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/track/69AXIAN7Wni7y7LJaZVY6e) | [何曼婷](https://open.spotify.com/artist/6exBk0p2kZ6V9sDD1Y3gsF) | [猜一猜 \(網路劇《致我們暖暖的小時光》插曲\)](https://open.spotify.com/album/17J8RqYCYwucOeGmbj89EW) | 3:47 |
+| 71 | [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 |
+| 72 | [遇上愛](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 |
 | 73 | [LIKE IT LOVE IT](https://open.spotify.com/track/2P4cC5FsYLCA5iP6AHZfQG) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [狂愛](https://open.spotify.com/album/33dS3v5pgBdFFdWa19ItzC) | 2:56 |
-| 74 | [情非得已](https://open.spotify.com/track/3HSUm30W0GQ49I2YmS2rxH) | [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [情非得已](https://open.spotify.com/album/5OUsCB2yJFyzFfAdGDN8OK) | 4:25 |
-| 75 | [我跟你不只ENFP是LOVE](https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我跟你不只ENFP是LOVE](https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l) | 3:03 |
+| 74 | [我跟你不只ENFP是LOVE](https://open.spotify.com/track/0rq5yo8UUSRUVbv841G9Um) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我跟你不只ENFP是LOVE](https://open.spotify.com/album/1I4vRJBMS58WiZZuK4af6l) | 3:03 |
+| 75 | [情非得已](https://open.spotify.com/track/3HSUm30W0GQ49I2YmS2rxH) | [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [情非得已](https://open.spotify.com/album/5OUsCB2yJFyzFfAdGDN8OK) | 4:25 |
 
 Snapshot ID: `AAAAAGB3Lg753z0Z+NxjFZ+j6HI+XuUO`

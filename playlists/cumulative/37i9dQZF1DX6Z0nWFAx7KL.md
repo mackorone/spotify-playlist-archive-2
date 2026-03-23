@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-361 songs - 17 hr 50 min
+362 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Deep Inside](https://open.spotify.com/track/1nvfSYpe6eX33syFfT1P5B) | [Under Above](https://open.spotify.com/artist/4k83yzQaZNeCZujEf03U8i), [Vertigini](https://open.spotify.com/artist/60le92YZ1Nbf59c65NQIEV) | [Deep Inside](https://open.spotify.com/album/6Nk6QdQ4gfcSGtYYdgpl1G) | 3:01 | 2024-07-26 | 2024-10-04 |
 | [Deny](https://open.spotify.com/track/3fXJI9pYmu81lQ2SKTASF5) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Deny](https://open.spotify.com/album/2VBHSnjSj54AuJ6t6Aw9bB) | 2:51 | 2024-12-12 | 2025-02-01 |
 | [Diamond Eyes](https://open.spotify.com/track/4MdSnCh3g711qZP5rFapjR) | [DanielDavid](https://open.spotify.com/artist/1pGvpksMQMPZXlC2zqvzTu) | [Diamond Eyes](https://open.spotify.com/album/1ZmBx4iCxOfrTXPmpF222q) | 2:09 | 2024-07-26 | 2024-08-31 |
+| [DISCRETION](https://open.spotify.com/track/4KuuZdd2tTJdxnUkL9IdF1) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [AV Allure](https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy) | [DISCRETION](https://open.spotify.com/album/0SiP21mn6ezK7ZTiKEakNJ) | 2:44 | 2026-03-19 |  |
 | [Dollar For A Dime](https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko) | 2:28 | 2023-09-07 | 2024-04-19 |
 | [Dollar For A Dime](https://open.spotify.com/track/5a7g0ku1G4EET2ni5iindx) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/16MDt0vtWHBsAmIoeROG71) | 2:28 | 2024-07-26 | 2024-12-13 |
 | [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 | 2023-12-21 | 2024-06-21 |
@@ -251,7 +252,7 @@
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-28 | 2024-07-27 |
 | [Perfect Crime](https://open.spotify.com/track/6BkH661tOzDMqcuyhzhVE6) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Perfect Crime](https://open.spotify.com/album/4H1PRrmGJ7vPJP4mhHwG2g) | 3:17 | 2024-07-26 | 2024-08-31 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
-| [Pink Oasis](https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Pink Oasis](https://open.spotify.com/album/4gE0gYLZdOmdYSpnnoIpET) | 2:34 | 2025-09-10 |  |
+| [Pink Oasis](https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Pink Oasis](https://open.spotify.com/album/4gE0gYLZdOmdYSpnnoIpET) | 2:34 | 2025-09-10 | 2026-03-23 |
 | [Pretender](https://open.spotify.com/track/7qPGFCBs2ATVLwzWLbTvs4) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Pretender](https://open.spotify.com/album/2HBBTubm4XQkiBNhYo20lT) | 2:32 | 2024-07-26 | 2024-08-02 |
 | [Prophecy](https://open.spotify.com/track/3esLmDNmNFBOQo4XaBxs9n) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Prophecy](https://open.spotify.com/album/7g65vIbP4x2zJYWDqMevCI) | 3:44 | 2024-07-26 | 2024-12-13 |
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 | 2023-06-02 |

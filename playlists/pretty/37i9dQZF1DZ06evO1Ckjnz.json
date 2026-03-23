@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20083,
+  "num_followers": 20084,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAgMV4vBXB84qeh8h6ccJ7j",
+  "snapshot_id": "ab3fgAAAAACZ/223UAgPv/qkD7LX/MkT",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
       },
       "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+      "duration_ms": 157293,
+      "name": "#PROUDCATOWNERREMIX",
+      "url": "https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
       "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 157293,
-      "name": "#PROUDCATOWNERREMIX",
-      "url": "https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK"
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 111733,
-      "name": "SON OF A GUN",
-      "url": "https://open.spotify.com/track/0WEttQnuVB3wntMV6HvXV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
       },
@@ -371,6 +355,38 @@
       "duration_ms": 185806,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PEPPER",
+        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "PEPPER",
+      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 111733,
+      "name": "SON OF A GUN",
+      "url": "https://open.spotify.com/track/0WEttQnuVB3wntMV6HvXV4"
     },
     {
       "added_at": null,
@@ -439,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PEPPER",
-        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "PEPPER",
-      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 131083,
       "name": "In N Out (feat. TheHxliday & Rico Nasty)",
       "url": "https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/2oqoX9JB9mjK9Aomw61kM2"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 107800,
-      "name": "WHO WANT IT",
-      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Is Better",
         "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 155657,
       "name": "High Heels (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 107800,
+      "name": "WHO WANT IT",
+      "url": "https://open.spotify.com/track/3Qp6UhTS4KO6kGvFgnxpOK"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fate of the Furious: The Album",
         "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202093,
       "name": "Mamacita (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 102386,
-      "name": "GRAVE",
-      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 91754,
       "name": "Bitch I'm Nasty",
       "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 102386,
+      "name": "GRAVE",
+      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 113986,
-      "name": "SMOKE BREAK",
-      "url": "https://open.spotify.com/track/5jOXjkSWyN5QZdZE5hg0xP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IPHONE",
         "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 158663,
       "name": "IPHONE",
       "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 113986,
+      "name": "SMOKE BREAK",
+      "url": "https://open.spotify.com/track/5jOXjkSWyN5QZdZE5hg0xP"
     },
     {
       "added_at": null,

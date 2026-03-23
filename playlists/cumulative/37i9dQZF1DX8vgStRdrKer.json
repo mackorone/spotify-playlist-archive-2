@@ -6927,6 +6927,28 @@
     },
     {
       "album": {
+        "name": "In the Name of Jesus (Live)",
+        "url": "https://open.spotify.com/album/1XnLOLfGQSwfuexXCzPdzf"
+      },
+      "artists": [
+        {
+          "name": "E-Daniels",
+          "url": "https://open.spotify.com/artist/03upCtYnA658rlthncydHW"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426700,
+      "name": "In the Name of Jesus - Live",
+      "url": "https://open.spotify.com/track/4p4Ihu04d4ox6JCEBKVExr"
+    },
+    {
+      "album": {
         "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
         "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
       },
@@ -12242,7 +12264,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 212000,
       "name": "Sound of Joy",
       "url": "https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK"

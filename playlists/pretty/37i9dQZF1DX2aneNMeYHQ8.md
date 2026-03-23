@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,770 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,755 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 59 | [Fascination in the Dark](https://open.spotify.com/track/1DsQhvmPkeqD0oTNPkV9XV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Fascination in the Dark](https://open.spotify.com/album/20D40h9RReCMF4oQGqNtUG) | 2:55 |
 | 60 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
 | 61 | [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 |
-| 62 | [In Your Ocean](https://open.spotify.com/track/1lsITIBuXbG6e6LJqWZqM1) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In Your Ocean](https://open.spotify.com/album/0bwve76sWtiZcncRo7rN5c) | 3:22 |
-| 63 | [Tanana](https://open.spotify.com/track/2eTPYfu84D0msm8ibxZ1La) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 3:19 |
+| 62 | [Tanana](https://open.spotify.com/track/2eTPYfu84D0msm8ibxZ1La) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 3:19 |
+| 63 | [In Your Ocean](https://open.spotify.com/track/1lsITIBuXbG6e6LJqWZqM1) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In Your Ocean](https://open.spotify.com/album/0bwve76sWtiZcncRo7rN5c) | 3:22 |
 | 64 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 65 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 66 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 69 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 70 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
 | 71 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
-| 72 | [Little Chaos](https://open.spotify.com/track/3aZmbEhKrTHMmNQaafA24d) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:54 |
-| 73 | [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 |
+| 72 | [Ultraviolet](https://open.spotify.com/track/6DMxLT4C2n1Iilvb6a01Ic) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Ultraviolet](https://open.spotify.com/album/5nxiqAwXcEsBkKmsouCMKk) | 3:17 |
+| 73 | [Little Chaos](https://open.spotify.com/track/3aZmbEhKrTHMmNQaafA24d) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:54 |
 | 74 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
 | 75 | [Seven Degrees](https://open.spotify.com/track/7qMYtNd34XQJwbdZ9mdqkT) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Seven Degrees](https://open.spotify.com/album/07XLxxigT8GfK8fAXltJhQ) | 4:15 |
 | 76 | [Time Waited](https://open.spotify.com/track/3q5poJRpLvVxdBVpsMTBMu) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [is](https://open.spotify.com/album/2dVCooooibCULjmkqoUm7Z) | 3:39 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 80 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 81 | [Lou Reed Was My Babysitter](https://open.spotify.com/track/5DEH15ogLTyxJnopN6QhId) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 3:19 |
 | 82 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
-| 83 | [Arrow](https://open.spotify.com/track/0LkDH8SBIHcbjX8Vj8PByc) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Arrow](https://open.spotify.com/album/5YLItJy7JpxhHQMX9sDvvU) | 3:29 |
+| 83 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
 | 84 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
 | 85 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
-| 86 | [Going Solo](https://open.spotify.com/track/5fRRtJ57QoPYsPYLAsTb5U) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR), [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [PRISM](https://open.spotify.com/album/7hs6LrNQDVwx1e0pwamcIZ) | 4:51 |
+| 86 | [Arrow](https://open.spotify.com/track/0LkDH8SBIHcbjX8Vj8PByc) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Arrow](https://open.spotify.com/album/5YLItJy7JpxhHQMX9sDvvU) | 3:29 |
 | 87 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
 | 88 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
 | 89 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |

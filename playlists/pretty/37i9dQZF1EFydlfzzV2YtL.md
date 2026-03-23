@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 184 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 184 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 49 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
 | 50 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 51 | [Break a Sweat](https://open.spotify.com/track/28r9sD2b6FluK7YHjTJ0fl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Break a Sweat](https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ) | 3:28 |
-| 52 | [Girl on a Train](https://open.spotify.com/track/6M1nfYPKy7DRk3IrhFVViQ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Alone Together](https://open.spotify.com/album/7JC2Lep2FwtvMDoLZMEZZT) | 3:02 |
-| 53 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
+| 52 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
+| 53 | [Girl on a Train](https://open.spotify.com/track/6M1nfYPKy7DRk3IrhFVViQ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Alone Together](https://open.spotify.com/album/7JC2Lep2FwtvMDoLZMEZZT) | 3:02 |
 | 54 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 |
 | 55 | [call it the end](https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:21 |
 | 56 | [Unlonely](https://open.spotify.com/track/7Igc6JB0xPDcn5yRkkVGQX) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Know.](https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm) | 3:51 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcMwdAAAAABN793oihvQZFmiySprFmiQ`
+Snapshot ID: `AcM2FAAAAADgVj7B5v+gnnoys4WEKc4X`

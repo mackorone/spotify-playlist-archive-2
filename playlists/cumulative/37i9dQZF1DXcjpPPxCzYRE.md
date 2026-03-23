@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-498 songs - 1 day 4 hr 19 min
+499 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-31 | 2025-10-04 |
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2022-11-11 |  |
 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-06-09 | 2023-07-07 |
-| [Bajo este sol](https://open.spotify.com/track/0ER1mvGhvfhY1d4wQwUphT) | [Jose Domingo](https://open.spotify.com/artist/60XxN4jbU8CLJPAi1fAZPi) | [Bajo este Sol](https://open.spotify.com/album/78JUNUPXzAF6fnZ3dDzmoa) | 3:33 | 2026-02-26 |  |
+| [Bajo este sol](https://open.spotify.com/track/0ER1mvGhvfhY1d4wQwUphT) | [Jose Domingo](https://open.spotify.com/artist/60XxN4jbU8CLJPAi1fAZPi) | [Bajo este Sol](https://open.spotify.com/album/78JUNUPXzAF6fnZ3dDzmoa) | 3:33 | 2026-02-26 | 2026-03-23 |
 | [Bang bang](https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Bang Bang](https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH) | 2:45 | 2026-01-16 |  |
 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 | 2022-11-11 | 2023-03-01 |
 | [Barcelona](https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Barcelona](https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc) | 2:35 | 2022-11-11 | 2024-06-22 |
@@ -250,6 +250,7 @@
 | [Leve](https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:33 | 2024-03-15 | 2024-07-05 |
 | [Life In The Time](https://open.spotify.com/track/4Cj6hfQwoGvJPfiNyNG5eV) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Life In The Time](https://open.spotify.com/album/30r6TlQJHRQOeC1iq8rAWS) | 3:30 | 2023-06-09 | 2023-07-23 |
 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 | 2025-02-25 | 2025-06-08 |
+| [Like You](https://open.spotify.com/track/6sVI9FHyt9hfcHOOTDKOK6) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Like You](https://open.spotify.com/album/3AodZkuHP0JGLslBdE3ozw) | 2:14 | 2026-03-13 |  |
 | [Limão](https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z) | [navxja](https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh) | [Limão](https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow) | 3:37 | 2025-09-18 |  |
 | [Lista de deseos](https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Lista de deseos](https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL) | 3:16 | 2025-09-18 |  |
 | [Livin´ On a Prayer](https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG) | [Softband](https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV) | [Acoustic Hits](https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q) | 3:48 | 2024-04-11 | 2025-09-19 |

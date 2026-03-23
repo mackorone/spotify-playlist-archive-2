@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,814 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,851 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

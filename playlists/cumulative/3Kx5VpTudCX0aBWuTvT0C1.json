@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Everybody Needs Love",
+        "url": "https://open.spotify.com/album/72HSq0tAxKHm86zBerZOgB"
+      },
+      "artists": [
+        {
+          "name": "Lewdale Canyon",
+          "url": "https://open.spotify.com/artist/5vYKvlJefPcoPfJOYy6iCH"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249679,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/1VGurATUB0A5j4OdVS3Kzi"
+    },
+    {
+      "album": {
         "name": "Famine and Feast",
         "url": "https://open.spotify.com/album/2Tq9LhcUDfh6WOb2heOnfk"
       },

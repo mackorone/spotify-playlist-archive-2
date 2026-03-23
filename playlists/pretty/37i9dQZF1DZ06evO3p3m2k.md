@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,520 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,527 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 27 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
 | 28 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
 | 29 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 3:19 |
-| 30 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 |
+| 30 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
 | 31 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
-| 32 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
+| 32 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 |
 | 33 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
 | 34 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 |
 | 35 | [Minuto Cien](https://open.spotify.com/track/2TAyzkX6AvXtsq8ToVSi0C) | [AndreSZ](https://open.spotify.com/artist/0EDJeudXLHmrq5Ao77m2n4), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Minuto Cien](https://open.spotify.com/album/0VgrHzob67ddWvWakNphCx) | 3:14 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 43 | [¿Y Cómo Es Él? \- \(Sesión en vivo\)](https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:43 |
 | 44 | [Corazón Partío \- \(Sesión en vivo\)](https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:54 |
 
-Snapshot ID: `abyOAAAAAACFxzJGkJjYP8C3BkIDNUeq`
+Snapshot ID: `ab3fgAAAAACNSyL49gpjcxTm4+66Zmn7`

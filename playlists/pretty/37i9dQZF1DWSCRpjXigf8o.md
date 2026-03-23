@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,908 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,905 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,20 +49,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 39 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
 | 40 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
 | 41 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
-| 42 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
-| 43 | [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 |
+| 42 | [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 |
+| 43 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
 | 44 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
 | 45 | [Close to you](https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp) | 3:38 |
-| 46 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
-| 47 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
+| 46 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
+| 47 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 48 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
 | 49 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
 | 50 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 | 51 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
 | 52 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 |
 | 53 | [やさしいままで](https://open.spotify.com/track/12ILanij3qGao68KxZtwR9) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [やさしいままで](https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM) | 3:44 |
-| 54 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
-| 55 | [サヨナラCOLOR](https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq) | [SUPER BUTTER DOG](https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh) | [grooblue](https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e) | 5:18 |
+| 54 | [サヨナラCOLOR](https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq) | [SUPER BUTTER DOG](https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh) | [grooblue](https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e) | 5:18 |
+| 55 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
 | 57 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 |
 | 58 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 64 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |
 | 65 | [RAIN](https://open.spotify.com/track/0aFUi8kAIUcLEaM6LylNui) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [RAIN](https://open.spotify.com/album/6opQlVBxjiPp5WS0QCuOe3) | 5:06 |
 | 66 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
-| 67 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 |
-| 68 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
+| 67 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
+| 68 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 |
 | 69 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 | 70 | [I know](https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [I know](https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs) | 3:52 |
 | 71 | [タイムマシーンにのって/家族の風景](https://open.spotify.com/track/1RogcNGrZlyEL7f7YopOOx) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [タイムマシーンにのって/家族の風景](https://open.spotify.com/album/4H9q6q3mKitY81NFKFf03b) | 3:37 |

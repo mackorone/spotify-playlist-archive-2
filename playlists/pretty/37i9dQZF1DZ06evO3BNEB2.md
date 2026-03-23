@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,099 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,115 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 33 | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW) | 4:07 |
 | 34 | [You Don't Know \(feat\. Wale\)](https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:05 |
 | 35 | [James Freestyle](https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j) | [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [James Freestyle](https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI) | 2:26 |
-| 36 | [Sue Me \(feat\. Kelly Price\)](https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:50 |
-| 37 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 36 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 37 | [Sue Me \(feat\. Kelly Price\)](https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:50 |
 | 38 | [100 Miles and Running \(ft\. Wale & John Lindahl\)](https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [John Lindahl](https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd) | [YSIV](https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9) | 5:53 |
 | 39 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 |
 | 40 | [MY PYT](https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 47 | [The Pessimist \(feat\. J\. Cole\)](https://open.spotify.com/track/3b3SSIcnE9a77XoUEtG5Jm) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:32 |
 | 48 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
 | 49 | [Poledancer \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4ln1WvasZSvmKQFOQJBNZr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:29 |
-| 50 | [French Toast \(feat\. Wale & Joyce Wrice\)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 4:48 |
+| 50 | [Stories In Motion \(with Wale\)](https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:26 |
 
-Snapshot ID: `abyOAAAAAACIfrUdePT/LdvUiRCds5ik`
+Snapshot ID: `ab3fgAAAAACAX5fwElssUirde0/Cd/Gi`

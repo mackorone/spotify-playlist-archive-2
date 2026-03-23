@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,555 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,566 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 11 | [Ik Ga Hard](https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ik Ga Hard](https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir) | 3:08 |
 | 12 | [Mystery Repeats](https://open.spotify.com/track/409C0oCpMq7DNRojawi1cH) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mystery Repeats](https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M) | 2:46 |
 | 13 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 |
-| 14 | [HoedenPlank](https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
-| 15 | [Begraaf Me Als Een G](https://open.spotify.com/track/4oW3qbGwpOxDe7wrwblpdQ) | [Crooks](https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Freddy & Bundy](https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8) | 3:20 |
-| 16 | [Twijfel](https://open.spotify.com/track/2lT07B7yj0XFXdmeZJup7C) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 5:15 |
-| 17 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 14 | [Begraaf Me Als Een G](https://open.spotify.com/track/4oW3qbGwpOxDe7wrwblpdQ) | [Crooks](https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Freddy & Bundy](https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8) | 3:20 |
+| 15 | [HoedenPlank](https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
+| 16 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 17 | [Twijfel](https://open.spotify.com/track/2lT07B7yj0XFXdmeZJup7C) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 5:15 |
 | 18 | [Feunen](https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 1:55 |
 | 19 | [W.I.N.N.E.](https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 3:42 |
 | 20 | [Regendans](https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 80 | [Groeispurt](https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE) | [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Groeispurt](https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG) | 3:52 |
 | 81 | [Lazy](https://open.spotify.com/track/2nVGg4MWCfccRusThVe7cR) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mindstate](https://open.spotify.com/album/7jlGRCzUvTDKA96ivxTytk) | 3:38 |
 | 82 | [Plakka](https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:17 |
-| 83 | [Soms Gaat Het Mis](https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW) | [Raymtzer](https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p) | [Soms Gaat Het Mis](https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf) | 3:13 |
+| 83 | [Mijn Manier](https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Mijn Manier](https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ) | 4:18 |
 | 84 | [Guillotine](https://open.spotify.com/track/2HTpaXLYOFVViETfrxrjm6) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 2:49 |
-| 85 | [Mijn Manier](https://open.spotify.com/track/6YmDH07CvDvrJPQC68OeK2) | [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w) | [Mijn Manier](https://open.spotify.com/album/0hBGB9cgria5UdV15puxAJ) | 4:18 |
+| 85 | [Soms Gaat Het Mis](https://open.spotify.com/track/788HqVM9tvdzeVeHqp60VW) | [Raymtzer](https://open.spotify.com/artist/3ybiWTDJvKidAlwSqwCU8p) | [Soms Gaat Het Mis](https://open.spotify.com/album/7hreym7UT47rKfIqhfnLMf) | 3:13 |
 | 86 | [Hope](https://open.spotify.com/track/7h48dkSTXujPAVexMuvO6a) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mindstate](https://open.spotify.com/album/7jlGRCzUvTDKA96ivxTytk) | 4:32 |
 | 87 | [Batterij](https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:43 |
 | 88 | [Generaal](https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC) | [Opgeduveld](https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz) | [Opgeduveld](https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL) | 4:23 |

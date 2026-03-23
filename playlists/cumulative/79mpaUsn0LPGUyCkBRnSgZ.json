@@ -17077,6 +17077,24 @@
     },
     {
       "album": {
+        "name": "Sea Change",
+        "url": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274813,
+      "name": "The Golden Age",
+      "url": "https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },

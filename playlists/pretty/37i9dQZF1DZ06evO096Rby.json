@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 54761,
+  "num_followers": 54800,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAC/4Rpj8WesyHQIhF0t6ge4",
+  "snapshot_id": "ab3fgAAAAAB1zCdIWG+a8XpeFOf02JKH",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 122583,
       "name": "Que Chulada - En Vivo",
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 215061,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Sentimientos De Carton - En Vivo",
-      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 153709,
       "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Sentimientos De Carton - En Vivo",
+      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor x Dosis",
+        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 198598,
+      "name": "A Dios Le Ped\u00eda",
+      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Banderas",
         "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 157874,
       "name": "HDTPM",
       "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor x Dosis",
-        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 198598,
-      "name": "A Dios Le Ped\u00eda",
-      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
     },
     {
       "added_at": null,

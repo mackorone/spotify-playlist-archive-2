@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,066 likes - 44 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 5 | [Simple Love Song](https://open.spotify.com/track/1dXSZklXzr4LYauwTT9ZLh) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:44 |
 | 6 | [Mixed Feelings](https://open.spotify.com/track/2zJTDNNnwctkSYROKPXUyP) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:23 |
 | 7 | [Perfect Day](https://open.spotify.com/track/1cUzoEuPjVFowBl96Yttjy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P) | [Butterflies: Live](https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo) | 4:33 |
-| 8 | [Island Inside Me](https://open.spotify.com/track/6fM7vnWcEUSPM4gchcMxsC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ) | 4:21 |
+| 8 | [Only Man in the World](https://open.spotify.com/track/2ufD4mHgSslsxqSyolLECB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [A10: Best of Anuhea](https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA) | 3:32 |
 | 9 | [Come over Love](https://open.spotify.com/track/5jA4WyzabsahYARRUAX8Gy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 4:05 |
-| 10 | [Only Man in the World](https://open.spotify.com/track/2ufD4mHgSslsxqSyolLECB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [A10: Best of Anuhea](https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA) | 3:32 |
+| 10 | [Island Inside Me](https://open.spotify.com/track/6fM7vnWcEUSPM4gchcMxsC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ) | 4:21 |
 | 11 | [Big Deal](https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:30 |
 | 12 | [Forever Summer](https://open.spotify.com/track/6CncbrtpabSOB378tazFvL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo) | 4:27 |
 | 13 | [Looking for Love](https://open.spotify.com/track/2liD4Ly60aQvb8dVaCJjOa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:21 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 16 | [Perfect Day](https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L) | [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Heartbeat](https://open.spotify.com/album/4ngV4717539caCp8SVI35A) | 4:52 |
 | 17 | [Crown Royal](https://open.spotify.com/track/0Fd4NNrfktw5SJzNgvyQec) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:56 |
 | 18 | [Grandpa](https://open.spotify.com/track/20H5GsIp8ArTusOUVfga0V) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:24 |
-| 19 | [You Had Me at Aloha](https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:21 |
-| 20 | [Enough \(with Anuhea\)](https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Holding on Tight](https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J) | 3:28 |
+| 19 | [Enough \(with Anuhea\)](https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Holding on Tight](https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J) | 3:28 |
+| 20 | [You Had Me at Aloha](https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:21 |
 | 21 | [Hula Girl](https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hula Girl](https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1) | 3:15 |
 | 22 | [Galaxy](https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:57 |
 | 23 | [Mr\. Mellow](https://open.spotify.com/track/5q4dhGsoDC6mAJgLwDefKF) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:33 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 43 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
 | 44 | [Walk on Water](https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ) | 3:46 |
 
-Snapshot ID: `abyOAAAAAACLLs++LEO1tVnzENn8wxCr`
+Snapshot ID: `ab3fgAAAAAC05aOMS0+074kPYKbo+NF+`

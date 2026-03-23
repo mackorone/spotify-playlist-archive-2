@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,278 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,279 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 34 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
 | 35 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 36 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
-| 37 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
+| 37 | [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 |
 | 38 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
-| 39 | [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 |
-| 40 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
+| 39 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
+| 40 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
 | 41 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
 | 42 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
 | 43 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
-| 44 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
-| 45 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
-| 46 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 |
-| 47 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
-| 48 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 |
+| 44 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 |
+| 45 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
+| 46 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
+| 47 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 |
+| 48 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
 | 49 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
-| 50 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 50 | [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 |
 
 Snapshot ID: `AAAAABhGLiT5u9GW9iWrJH48ppgJ3Jp2`

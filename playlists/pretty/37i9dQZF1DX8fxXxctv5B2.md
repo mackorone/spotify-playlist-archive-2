@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,167 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,221 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 4 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 5 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 6 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 7 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
+| 6 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
+| 7 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 8 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
-| 9 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
+| 9 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 10 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
 | 11 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
 | 12 | [Foxtrap](https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Foxtrap](https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2) | 3:04 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 49 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
 | 50 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 51 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
-| 52 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
-| 53 | [Go Your Own Way](https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
+| 52 | [Go Your Own Way](https://open.spotify.com/track/15rjQH7nTcTomKwfVMd4xl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
+| 53 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 54 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 |
 | 55 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 |
 | 56 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |

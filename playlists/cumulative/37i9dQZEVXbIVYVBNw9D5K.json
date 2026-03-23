@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 96350,
       "name": "56",
       "url": "https://open.spotify.com/track/2ZrYKuHi7Tv5e4rud3ekd4"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 263799,
       "name": "A Can\u0131m",
       "url": "https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm"
@@ -5462,7 +5462,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
@@ -5834,7 +5834,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 155426,
       "name": "Bu G\u00fcn Bayram",
       "url": "https://open.spotify.com/track/4sNTDiLygCF0NAo3vDqhY2"
@@ -12954,7 +12954,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 142680,
       "name": "herkes kendine yak\u0131\u015fan\u0131 yaps\u0131n",
       "url": "https://open.spotify.com/track/38evhex5V6BPZumBToe7SY"
@@ -13250,7 +13250,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -19390,7 +19390,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 251373,
       "name": "Neden",
       "url": "https://open.spotify.com/track/4R6tutFbFUbxE7JSXtPTlP"
@@ -24436,10 +24436,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -24592,6 +24610,24 @@
       "duration_ms": 189473,
       "name": "S\u0131r",
       "url": "https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L"
+    },
+    {
+      "album": {
+        "name": "Ta Ki Seni G\u00f6rene Kadar",
+        "url": "https://open.spotify.com/album/64sKEsa11MZOacj6EeYFHs"
+      },
+      "artists": [
+        {
+          "name": "Anadolu Rock Cover",
+          "url": "https://open.spotify.com/artist/0D9WyHpRKA8jiN3R9uqrYK"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214599,
+      "name": "Ta Ki Seni G\u00f6rene Kadar",
+      "url": "https://open.spotify.com/track/6eElMjMKHIbYLfB9yEqxJW"
     },
     {
       "album": {
@@ -27220,7 +27256,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 306967,
       "name": "Ya\u011fmurlar",
       "url": "https://open.spotify.com/track/6xCPxUo1OHGQpaN3CMb7DN"
@@ -28626,6 +28662,24 @@
       "duration_ms": 183896,
       "name": "\u00d6l\u00fcyorum Anla",
       "url": "https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1"
+    },
+    {
+      "album": {
+        "name": "\u00d6mr\u00fcm",
+        "url": "https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "\u00d6mr\u00fcm",
+      "url": "https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,689 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,735 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 38 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 |
 | 39 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 40 | [Bonsai](https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:08 |
-| 41 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
+| 41 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
 | 42 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
-| 43 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
+| 43 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 44 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 45 | [Arrancacorazones](https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:19 |
 | 46 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 59 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
 | 60 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 |
 | 61 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 |
-| 62 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
-| 63 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
+| 62 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
+| 63 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
 | 64 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
 | 65 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 66 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 |

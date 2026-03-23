@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,845 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,858 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 60 | [Aguas Profundas](https://open.spotify.com/track/7y2SsIoi8zDEyVKpILMDDF) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Aguas Profundas](https://open.spotify.com/album/6lEETSBzriWlaWz6sB8sfo) | 3:15 |
 | 61 | [Disfruto](https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Sindicato Del Ritmo](https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX) | 4:10 |
 | 62 | [Bolero Triste](https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Bolero Triste](https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR) | 3:47 |
-| 63 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
-| 64 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
+| 63 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
+| 64 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
 | 65 | [Los mismos](https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Los mismos](https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg) | 2:54 |
 
 Snapshot ID: `AAAAAPHxnLwazbhFL+1gZHH8hBGhmpJw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,442 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,421 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 11 | [Blue Christmas](https://open.spotify.com/track/6ad93zI93tAFHaYhO9mtZa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Christmas With The Kranks](https://open.spotify.com/album/1nWXFIHFmuBRUH6NhIXSsQ) | 2:06 |
 | 12 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:33 |
 | 13 | [Candy Cane Lane](https://open.spotify.com/track/02tDqMrg969BoG5s6TBnbh) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:32 |
-| 14 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
+| 14 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 | 15 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 |
 | 16 | [It's Beginning To Look Like Christmas](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:46 |
 | 17 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/11g9GgpchfORJxVEYFFDoL) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Charli XCX",
-  "num_followers": 214167,
+  "num_followers": 214216,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-22 13:00:22",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
-    },
-    {
-      "added_at": "2026-02-22 13:00:22",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2026-02-22 13:00:22",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
     },
     {
       "added_at": "2026-02-22 13:00:22",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-02-22 13:00:22",
       "album": {
-        "name": "ExtraL (feat. Doechii)",
-        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 167754,
-      "name": "ExtraL (feat. Doechii)",
-      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
-    },
-    {
-      "added_at": "2026-02-22 13:00:22",
-      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 184155,
       "name": "FXCK UP THE WORLD (feat. Future)",
       "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
+    },
+    {
+      "added_at": "2026-02-22 13:00:22",
+      "album": {
+        "name": "ExtraL (feat. Doechii)",
+        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
     },
     {
       "added_at": "2026-02-22 13:00:22",

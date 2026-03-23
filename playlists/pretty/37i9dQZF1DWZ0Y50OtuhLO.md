@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 
 > The soundtrack to being to best version of you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,758 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,769 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 9 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 10 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 11 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 12 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
-| 13 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
+| 12 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
+| 13 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 14 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 15 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
-| 16 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 17 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 16 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 17 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 18 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
 | 19 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 20 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Y50OtuhLO.md) - [plain]
 | 25 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 26 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
 | 27 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
-| 28 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 29 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
-| 30 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 28 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 29 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 30 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 31 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 32 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 33 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |

@@ -954,7 +954,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 154794,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
@@ -1750,6 +1750,24 @@
       "duration_ms": 103713,
       "name": "Interconnectivity",
       "url": "https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S"
+    },
+    {
+      "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "album": {

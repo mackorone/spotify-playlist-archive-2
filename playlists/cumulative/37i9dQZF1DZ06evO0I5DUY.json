@@ -340,10 +340,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 169373,
       "name": "El Asesino",
       "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
+    },
+    {
+      "album": {
+        "name": "Rondas Norte\u00f1as",
+        "url": "https://open.spotify.com/album/4i6mDtb1PJbrAYNWCHG2zL"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171014,
+      "name": "El Asesino",
+      "url": "https://open.spotify.com/track/6i29kyLPutoAXlQUutasq9"
     },
     {
       "album": {

@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 234818,
       "name": "13",
       "url": "https://open.spotify.com/track/0WOvSEVpUGkNufX0w0M06F"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -2808,10 +2808,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Dominga",
       "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
@@ -8712,7 +8730,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 250093,
       "name": "Ikot",
       "url": "https://open.spotify.com/track/0FofAMA3zMEehQnEjtyRLv"
@@ -8788,7 +8806,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
@@ -9050,7 +9068,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d"
@@ -9068,7 +9086,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX"
@@ -12160,7 +12178,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
@@ -13410,7 +13428,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 98453,
       "name": "No. 29",
       "url": "https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh"
@@ -14406,7 +14424,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 194946,
       "name": "Pangarap Lang Kita",
       "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
@@ -15864,7 +15882,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 302608,
       "name": "Sa Bawat Sandali",
       "url": "https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp"
@@ -18154,10 +18172,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -18280,7 +18316,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
@@ -19390,7 +19426,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -21846,7 +21882,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 238466,
       "name": "Your Universe",
       "url": "https://open.spotify.com/track/7vWHppvllFJXdXf0xplZum"

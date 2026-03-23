@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,023 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,026 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 24 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
 | 25 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
 | 26 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
-| 27 | [LA SOL MI](https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:52 |
-| 28 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
+| 27 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
+| 28 | [LA SOL MI](https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:52 |
 | 29 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 30 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 31 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 40 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
 | 41 | [The Reason](https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 2:55 |
 | 42 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
-| 43 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
-| 44 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
+| 43 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
+| 44 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 45 | [Love you like a Fool](https://open.spotify.com/track/2RNAIcJixTEHe2k33auTg6) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Spring Fever, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5jqqQhTujHEUIHATQ4LDg9) | 3:12 |
 | 46 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
 | 47 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 56 | [Love you like fools](https://open.spotify.com/track/2ZV3IpmuSujOXa9RwsGHbO) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [CHAMELEON](https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5) | 2:26 |
 | 57 | [PERSONAL COLOR](https://open.spotify.com/track/5bOabVZOZKfdzquXN6VSQF) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [LOVE MAZE II](https://open.spotify.com/album/4lN709Gy6d6f8Mkp2EZSm4) | 3:24 |
 | 58 | [Can i love u?](https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Law and The City, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3kCelYZb943ElkmLIctqol) | 3:26 |
-| 59 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
-| 60 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 |
+| 59 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
+| 60 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
 
 Snapshot ID: `AAAAAOvyULwmYx7y8jMjkeZrsw235oCK`

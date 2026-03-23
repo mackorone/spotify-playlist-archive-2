@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 👑 with EVAN GIIA & Pauline Herr
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,622 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,611 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 78 | [BITE \(MY STYLE\)](https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [BITE \(MY STYLE\)](https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO) | 2:28 |
 | 79 | [DOPAMINE++](https://open.spotify.com/track/22ruxNj3CULTE2dAM1r9aw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [DOPAMINE++](https://open.spotify.com/album/6eMsuTTLUDP2IyUpniYuqF) | 3:22 |
 | 80 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
-| 81 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
+| 81 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 82 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 83 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
+| 83 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
 | 84 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
 | 85 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 86 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |

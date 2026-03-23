@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,963 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,042 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 74 | [Jana Hai Wahin](https://open.spotify.com/track/79LdqruB4lIPquQRSd6QJr) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Jana Hai Wahin](https://open.spotify.com/album/1jRDns2KCy5AqX8MgTgQ7W) | 3:53 |
 | 75 | [Kurian Lahore Diyan](https://open.spotify.com/track/7lNfRrD2fm0QOiaYtRZlZI) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Abrar Ul Haq Hits](https://open.spotify.com/album/2WAKT9gnz4uhksP696lVd0) | 4:29 |
 
-Snapshot ID: `AAAAAO5knBlLuKa2uSuBZEFRC4lr8KVI`
+Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`

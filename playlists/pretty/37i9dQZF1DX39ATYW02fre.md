@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,531 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,557 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 8 | [Hummingbird](https://open.spotify.com/track/7FVE22S5CGEAKt7se9mA3B) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Hummingbird](https://open.spotify.com/album/2NemFZ1KwcEIan0ku5PDVI) | 3:11 |
 | 9 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 |
 | 10 | [Waho](https://open.spotify.com/track/7HnaGriAIPABLX5aV6MYAA) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [01 DISC](https://open.spotify.com/album/5JtuaCnQm0l6EbkHuS5cNm) | 2:21 |
-| 11 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
+| 11 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 12 | [Oh My](https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Nattica](https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3) | [Oh My](https://open.spotify.com/album/6jO4RTMmT0xkaH9azhuEAA) | 5:28 |
-| 13 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
+| 13 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 14 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 15 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
 | 16 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |

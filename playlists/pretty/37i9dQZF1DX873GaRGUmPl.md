@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,302 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,293 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 64 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 65 | [Loose Ends](https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:16 |
 | 66 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
-| 67 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 68 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
+| 67 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
+| 68 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 69 | [The Wire](https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
 | 70 | [Tilted](https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar) | 3:53 |
 | 71 | [Ain't Nothing Changed](https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:14 |

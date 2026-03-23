@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,283 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,278 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 41 | [FWU](https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [FWU](https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4) | 2:51 |
 | 42 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
 | 43 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 |
-| 44 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
+| 44 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 45 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
-| 46 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
+| 46 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 47 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 48 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 49 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 94 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
 | 95 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 96 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
-| 97 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |
-| 98 | [JUMPIN \(with Lil Uzi Vert\)](https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:32 |
+| 97 | [JUMPIN \(with Lil Uzi Vert\)](https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:32 |
+| 98 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |
 | 99 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
 | 100 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 

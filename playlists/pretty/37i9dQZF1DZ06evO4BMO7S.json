@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 23950,
+  "num_followers": 23952,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABI3fwMqduIMARzAyM4x8no",
+  "snapshot_id": "ab3fgAAAAAB3W+j0bwta9fdaMHhNDlaV",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
       "duration_ms": 250906,
       "name": "Exploration (Ruins)",
       "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 179744,
-      "name": "Ballad 0 - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
     },
     {
       "added_at": null,

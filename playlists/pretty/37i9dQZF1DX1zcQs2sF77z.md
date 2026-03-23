@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,382 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,446 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 5 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 |
 | 6 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 7 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 8 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
-| 9 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 8 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 9 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
 | 10 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 |
 | 11 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 |
 | 12 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 43 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
 | 44 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
 | 45 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
-| 46 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
-| 47 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 |
+| 46 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 |
+| 47 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
 | 48 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
 | 49 | [Blah Blah Blah](https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Blah Blah Blah](https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN) | 3:03 |
 | 50 | [Stereo Love](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |

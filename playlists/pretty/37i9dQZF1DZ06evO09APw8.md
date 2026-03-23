@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,463 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,490 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 8 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 9 | [VIBES DON'T LIE](https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:21 |
 | 10 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
-| 11 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
-| 12 | [No One Told Us](https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [No One Told Us](https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG) | 1:50 |
+| 11 | [No One Told Us](https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [No One Told Us](https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG) | 1:50 |
+| 12 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
 | 13 | [LUCID DREAMS \(feat\. Masego\)](https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:46 |
 | 14 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 |
-| 15 | [DIRT ON MY SHOES \(feat\. Kehlani\)](https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:39 |
-| 16 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
+| 15 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
+| 16 | [DIRT ON MY SHOES \(feat\. Kehlani\)](https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:39 |
 | 17 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
 | 18 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 |
 | 19 | [I USED TO \(feat\. Baby Rose\)](https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:27 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 46 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
 | 47 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
 
-Snapshot ID: `abyOAAAAAAAH9OL3JweEWt8m/P6MlG+1`
+Snapshot ID: `ab3fgAAAAAB+iWxEALDWjejVwzULLpp5`

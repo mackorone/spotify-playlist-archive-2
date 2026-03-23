@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Oklin, NandaTsunami
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,012 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,010 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

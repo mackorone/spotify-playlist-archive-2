@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,712 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,739 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 21 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 |
 | 22 | ['S Wonderful](https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:55 |
 | 23 | [\(How Little It Matters\) How Little We Know](https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Witchcraft](https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH) | 2:36 |
-| 24 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 |
+| 24 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
 | 25 | [The More I See You](https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:06 |
-| 26 | [It's A Big Wide Wonderful World](https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:50 |
+| 26 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 |
 | 27 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 |
 | 28 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 29 | [The Best Things In Life Are Free](https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:23 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 42 | [Corner Pocket](https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [April In Paris \(Expanded Edition\)](https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k) | 5:15 |
 | 43 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 44 | [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 |
-| 45 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
-| 46 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
+| 45 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
+| 46 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
 | 47 | [One O'Clock Jump](https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Complete Decca Recordings](https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY) | 3:02 |
 | 48 | [Stompin' At The Savoy](https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Brown And Roach Incorporated](https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql) | 6:27 |
 | 49 | [Tea For Two](https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:15 |

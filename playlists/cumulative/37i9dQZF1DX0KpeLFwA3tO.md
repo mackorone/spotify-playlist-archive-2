@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Footballhead
 
-3,123 songs - 6 day 11 hr 51 min
+3,124 songs - 6 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2763,6 +2763,7 @@
 | [The Weight](https://open.spotify.com/track/6CmXwYhKm1kO4W4yAbFlYm) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [The Weight](https://open.spotify.com/album/46E3II1W1u8hhSLqIthYpK) | 3:46 | 2025-04-25 | 2025-07-04 |
 | [The Weight](https://open.spotify.com/track/4YDcAzBJoWUPciONTYeWDv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [The Weight](https://open.spotify.com/album/6zbZGAJvFcdaLVgfYo8LDU) | 2:10 | 2023-08-24 | 2023-10-06 |
 | [The Worm](https://open.spotify.com/track/0tUjQu2YTvSGqXWSCK0jAq) | [Jaguero](https://open.spotify.com/artist/4OlAFu6pMsIT3bbMbG9YKn) | [Worst Weekend Ever](https://open.spotify.com/album/3VZqXdo7YxzZCCP6tNP9Mo) | 1:25 | 2022-04-21 | 2022-05-27 |
+| [The Worst](https://open.spotify.com/track/2dDRiC5HTpCEEsxtgNa16G) | [DAMNAGE](https://open.spotify.com/artist/2DgS2GymUHtAidaKpOhxWa) | [The Worst](https://open.spotify.com/album/3V5W4NwI1hg1U5PDMtev84) | 2:46 | 2026-03-23 |  |
 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2022-10-20 | 2023-01-27 |
 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 | 2023-03-24 | 2023-05-19 |
 | [Therapy](https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Therapy](https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM) | 2:46 | 2023-01-13 | 2023-03-18 |

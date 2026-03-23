@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Spacey Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,470 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,445 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 124 | [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 |
 | 125 | [little birds](https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [chrysalis](https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh) | 4:00 |
 
-Snapshot ID: `AAAAAKqHUA7tFi5bVQaV/4lvfwzvMK3k`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

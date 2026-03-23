@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,149 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,406 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 4 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 |
 | 5 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 6 | [The Only Exception](https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:27 |
-| 7 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
-| 8 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
+| 7 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
+| 8 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
 | 9 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
 | 10 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
 | 11 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:19 |
 | 12 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 13 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 14 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
-| 15 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
-| 16 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 15 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 16 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
 | 17 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 18 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 19 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 24 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 25 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 |
 | 26 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 |
-| 27 | [Fields Of Gold](https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 3:42 |
-| 28 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
+| 27 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 |
+| 28 | [Fields Of Gold](https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg) | 3:42 |
 | 29 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
 | 30 | [Lonely Nights](https://open.spotify.com/track/0WNyq9XhfmHMxMhMelh0c0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/4PCVbeHbMHCyZS7Oxl4L31) | 4:49 |
 | 31 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |

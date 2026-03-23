@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Glenn Lewis",
-  "num_followers": 791461,
+  "num_followers": 791450,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2025-08-01 07:06:10",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
       "artists": [
         {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-10-03 18:39:49",
@@ -1261,24 +1261,20 @@
       "url": "https://open.spotify.com/track/3Wmwtqb4kibXnXxIctNkzG"
     },
     {
-      "added_at": "2024-05-17 07:14:12",
+      "added_at": "2025-05-16 04:52:04",
       "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+        "name": "We Don't Have to Be Alone",
+        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+      "duration_ms": 166436,
+      "name": "We Don't Have to Be Alone",
+      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     },
     {
       "added_at": "2025-08-08 06:07:52",
@@ -1297,20 +1293,24 @@
       "url": "https://open.spotify.com/track/6V45ZK1ld3TwuzfwO8NGbL"
     },
     {
-      "added_at": "2025-05-16 04:52:04",
+      "added_at": "2024-05-17 07:14:12",
       "album": {
-        "name": "We Don't Have to Be Alone",
-        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 166436,
-      "name": "We Don't Have to Be Alone",
-      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1357,10 +1357,10 @@
       "url": "https://open.spotify.com/track/6TjFekEFWYJuU7PI9K6Dk9"
     },
     {
-      "added_at": "2024-09-27 17:40:25",
+      "added_at": "2026-03-13 07:29:17",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2025-09-12 20:59:08",
@@ -1449,10 +1449,10 @@
       "url": "https://open.spotify.com/track/09S1rM23LMw9iUkl4TY042"
     },
     {
-      "added_at": "2026-03-13 07:29:17",
+      "added_at": "2024-09-27 17:40:25",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2025-06-20 04:00:54",
@@ -2033,6 +2033,22 @@
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
+      "added_at": "2025-03-07 05:51:28",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
+    },
+    {
       "added_at": "2026-01-16 18:49:38",
       "album": {
         "name": "NOTHING IS REAL",
@@ -2071,22 +2087,6 @@
       "duration_ms": 179500,
       "name": "Don't Play - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
-    },
-    {
-      "added_at": "2025-03-07 05:51:28",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2026-01-23 06:08:35",
@@ -2237,22 +2237,6 @@
       "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
-      "added_at": "2025-10-03 18:39:49",
-      "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
       "added_at": "2024-06-14 07:12:33",
       "album": {
         "name": "Why Lawd?",
@@ -2275,6 +2259,22 @@
       "duration_ms": 167894,
       "name": "MoveOn",
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+    },
+    {
+      "added_at": "2025-10-03 18:39:49",
+      "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
       "added_at": "2024-10-18 16:11:48",
@@ -2381,6 +2381,22 @@
       "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
+      "added_at": "2025-08-15 19:53:41",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
+    },
+    {
       "added_at": "2026-01-09 07:03:52",
       "album": {
         "name": "Up From Here",
@@ -2405,22 +2421,6 @@
       "url": "https://open.spotify.com/track/5E2qUNifVLQw4QaKNeOrJT"
     },
     {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2435,6 +2435,22 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
+      "added_at": "2025-08-01 07:06:10",
+      "album": {
+        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
+        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235249,
+      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
+      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2457,20 +2473,20 @@
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
     },
     {
-      "added_at": "2025-08-01 07:06:10",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
-        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 235249,
-      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
-      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2025-12-05 07:50:19",
@@ -2487,22 +2503,6 @@
       "duration_ms": 285799,
       "name": "MEET THE SUN",
       "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Simply Beautiful",
-        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Simply Beautiful",
-      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -2633,24 +2633,24 @@
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
-      "added_at": "2026-01-23 06:08:35",
+      "added_at": "2026-01-09 20:11:29",
       "album": {
-        "name": "CAMPILATION",
-        "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
+        "name": "Come Get My Love",
+        "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
       },
       "artists": [
         {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
         },
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "ZaeFyeHunnit",
+          "url": "https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1"
         }
       ],
-      "duration_ms": 190090,
-      "name": "LOVE ME (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27"
+      "duration_ms": 218998,
+      "name": "Come Get My Love",
+      "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
     }
   ],
   "unique_name": "Soul Coffee",

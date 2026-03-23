@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,194,878 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,195,213 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 67 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 68 | [Winey Winey](https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:52 |
 | 69 | [On The Beach](https://open.spotify.com/track/3b2x5F6wXua5A2zXq4RuAA) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
-| 70 | [Just Like A River](https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8) | [Stranger & Gladdy](https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
-| 71 | [Ride Your Donkey](https://open.spotify.com/track/4UOuXbLjyM85rk8uszZxnx) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:03 |
+| 70 | [Ride Your Donkey](https://open.spotify.com/track/4UOuXbLjyM85rk8uszZxnx) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:03 |
+| 71 | [Just Like A River](https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8) | [Stranger & Gladdy](https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
 | 72 | [Gypsy Woman](https://open.spotify.com/track/4t5ARSYWg1wBOAXh6Yvr9g) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:09 |
 | 73 | [People Funny Boy](https://open.spotify.com/track/1pTu7NhYatmXHmGxJjVw4w) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:35 |
 | 74 | [Queen Majesty \(aka Minstrel and Queen\)](https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:30 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 91 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 |
 | 92 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 93 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 94 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
-| 95 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
-| 96 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
-| 97 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
-| 98 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 94 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
+| 95 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
+| 96 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
+| 97 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
+| 98 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
 | 99 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
 | 100 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 

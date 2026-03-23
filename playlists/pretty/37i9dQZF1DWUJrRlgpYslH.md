@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 
 > A lazy Sunday vibe, whatever day of the week it is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,002 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,122 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 25 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 26 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 27 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 28 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
-| 29 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 |
+| 28 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 |
+| 29 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 30 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 31 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 32 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
-| 33 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
-| 34 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
+| 33 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
+| 34 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 35 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 36 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 37 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJrRlgpYslH.md) - [plain]
 | 56 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 57 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 58 | [Big Yellow Taxi](https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ) | 3:46 |
-| 59 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
-| 60 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
-| 61 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
+| 59 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
+| 60 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
+| 61 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
 | 62 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 63 | [Manic Monday](https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:04 |
-| 64 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 |
-| 65 | [Superstar](https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:51 |
+| 64 | [Superstar](https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:51 |
+| 65 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 |
 | 66 | [Fallin' For You](https://open.spotify.com/track/1le5KVGTF1xWf2aUj7ruLy) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:35 |
 | 67 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 |
 | 68 | [Stay \(I Missed You\)](https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Tails](https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7) | 3:03 |

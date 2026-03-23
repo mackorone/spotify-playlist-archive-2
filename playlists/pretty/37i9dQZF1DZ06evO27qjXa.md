@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,634 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 26 | [The Floor is Lava 2 \- Into the Volcano](https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Lava 2 \(Into the Volcano\)](https://open.spotify.com/album/5c5cttrxHIfk0MVYuXvx78) | 3:46 |
 | 27 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 |
 | 28 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
-| 29 | [Sharks in the Water 2 \- Rise of the Shark King](https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks in the Water 2](https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX) | 4:19 |
-| 30 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
+| 29 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
+| 30 | [Sharks in the Water 2 \- Rise of the Shark King](https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks in the Water 2](https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX) | 4:19 |
 | 31 | [Airplane Mode!](https://open.spotify.com/track/3SiijksKZyytWUhHftvctc) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Airplane Mode!](https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL) | 3:44 |
 | 32 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
 | 33 | [Drive Drive Vehicle Dance](https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Drive Drive Vehicle Dance](https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 49 | [Bluey Theme \- Acapella Version](https://open.spotify.com/track/3DzlwU2KL2yyqJb5lhM1XS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Bluey Theme \(Acapella Version\)](https://open.spotify.com/album/3eStOZlBWOOhexdhe203N0) | 1:10 |
 | 50 | [The Ice King Freeze Dance 2 \- Arctic Avalanche](https://open.spotify.com/track/1YIWFnXR5AfpP10ls7GThB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance 2 \(Arctic Avalanche\)](https://open.spotify.com/album/51SRXEk9DfmGTtL107MXVi) | 3:52 |
 
-Snapshot ID: `abyOAAAAAACfZfSg7DhhxdQS4OtyuWVZ`
+Snapshot ID: `ab3fgAAAAADtt7alfNSS6F6zSCozAYT4`

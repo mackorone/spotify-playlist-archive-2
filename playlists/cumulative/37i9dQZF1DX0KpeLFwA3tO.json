@@ -50967,6 +50967,24 @@
     },
     {
       "album": {
+        "name": "The Worst",
+        "url": "https://open.spotify.com/album/3V5W4NwI1hg1U5PDMtev84"
+      },
+      "artists": [
+        {
+          "name": "DAMNAGE",
+          "url": "https://open.spotify.com/artist/2DgS2GymUHtAidaKpOhxWa"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166593,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2dDRiC5HTpCEEsxtgNa16G"
+    },
+    {
+      "album": {
         "name": "Theme New Bond Junior",
         "url": "https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx"
       },

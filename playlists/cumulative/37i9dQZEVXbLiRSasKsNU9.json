@@ -10267,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/67Ar9BnEeB5FU5vQBYhbGe"
+    },
+    {
+      "album": {
         "name": "Be By You",
         "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
       },
@@ -18332,7 +18350,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 234997,
       "name": "CLBK",
       "url": "https://open.spotify.com/track/17AWuqr9ljpd4JXtwR5HUz"
@@ -42332,7 +42350,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 245226,
       "name": "Jangan Paksa Rindu - Beda",
       "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
@@ -45708,7 +45726,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "KOKO",
       "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
@@ -70136,7 +70154,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 139578,
       "name": "Pu\u00f1aladas",
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
@@ -72408,7 +72426,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"

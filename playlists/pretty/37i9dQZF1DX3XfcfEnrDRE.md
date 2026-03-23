@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Tommee Profitt & Crowder
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,553 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,575 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 49 | [Bones](https://open.spotify.com/track/73QszGGT4LFAs13Meka1TK) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp) | [Bones](https://open.spotify.com/album/21XaFlDNEWcXZA4fSZ2L3Q) | 2:07 |
 | 50 | [That's Enough](https://open.spotify.com/track/5AAvli2zLxc0aGXLwNTU4o) | [darthy](https://open.spotify.com/artist/1MztshwDYEwUsUI7iMHPxr) | [That's Enough](https://open.spotify.com/album/7jc9vRlPv0D3AS6OKgPOo2) | 3:03 |
 | 51 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 |
-| 52 | [In Other Words](https://open.spotify.com/track/140NGcuopXOTuJHnvEYqPX) | [Presence Music](https://open.spotify.com/artist/69U60XuNCE32ebrRfoD3wv), [Mitch McVicker](https://open.spotify.com/artist/4ktMLlRVSSyIlQCFkVox65) | [In Other Words](https://open.spotify.com/album/1nAnlgBxmmSJFLvMDQhj6E) | 3:13 |
+| 52 | [In Other Words](https://open.spotify.com/track/140NGcuopXOTuJHnvEYqPX) | [Presence Music](https://open.spotify.com/artist/69U60XuNCE32ebrRfoD3wv), [Mitch McVicker](https://open.spotify.com/artist/5IG2ekpHv4YlIGuTKuvlIU) | [In Other Words](https://open.spotify.com/album/1nAnlgBxmmSJFLvMDQhj6E) | 3:13 |
 | 53 | [If You Love Me At All](https://open.spotify.com/track/4ngvuKVNHXpAa7c96OBAKD) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav), [Weathrman](https://open.spotify.com/artist/5IaOwPd8I1gV2jNDaeWz5s) | [Theology of Beauty: Winter](https://open.spotify.com/album/4eyZo16EMKXFtM8bvEzRg9) | 3:49 |
 | 54 | [Heart Surgery \(Psalm 51\)](https://open.spotify.com/track/2NqXN3L8PUBgB1Ezi0WNdE) | [Psalms Of David](https://open.spotify.com/artist/54kI6xehIAAx20w8gIBuGZ) | [Heart Surgery, Vol\. 2](https://open.spotify.com/album/3tEH3Iy3KfBrdiVugFHE5p) | 4:37 |
 | 55 | [Already Gone](https://open.spotify.com/track/4tTHSkuwvOuTsdRQeQ92bn) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Already Gone](https://open.spotify.com/album/06SKCWr66xMMVLApkl4w5a) | 3:26 |

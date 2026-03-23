@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Diagnos",
+        "url": "https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5"
+      },
+      "artists": [
+        {
+          "name": "Artikel 22",
+          "url": "https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190919,
+      "name": "Diagnos",
+      "url": "https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n"
+    },
+    {
+      "album": {
         "name": "Diagnostics",
         "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
       },

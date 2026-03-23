@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > wenn du mal kurz durchatmen musst 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,101 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,122 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 35 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 36 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
 | 37 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
-| 38 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 39 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 38 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 39 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
 | 40 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 41 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 42 | [Trust Myself](https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tell Me How You Really Feel](https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa) | 3:03 |
-| 43 | [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 |
-| 44 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
+| 43 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
+| 44 | [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 |
 | 45 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 46 | [Into You \- Spotify Singles](https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Into You \(Spotify Singles\)](https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM) | 4:06 |
 | 47 | [Ozean](https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Ozean](https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv) | 3:35 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 65 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
 | 66 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 67 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
-| 68 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
-| 69 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
-| 70 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
+| 68 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
+| 69 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
+| 70 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
 | 71 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
 | 72 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
 | 73 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,107 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 45 | [Ace of Spades](https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Ace of Spades](https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3) | 2:31 |
 | 46 | [No Reason Why \- 2005 Remaster](https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 2:38 |
 | 47 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
-| 48 | [Time to Burn \- 2005 Remaster](https://open.spotify.com/track/7DAK5vw0n5xIXEbQqNjB49) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
-| 49 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
+| 48 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
+| 49 | [Time to Burn \- 2005 Remaster](https://open.spotify.com/track/7DAK5vw0n5xIXEbQqNjB49) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
 | 50 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
 
-Snapshot ID: `abyOAAAAAAB4HbA8gR0zw2SwPCmu/HsN`
+Snapshot ID: `ab3fgAAAAABkdYqmSFUuMfpRYGnOShji`

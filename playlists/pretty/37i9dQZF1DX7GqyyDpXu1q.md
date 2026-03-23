@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,137 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,143 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 16 | [Part Of My Story](https://open.spotify.com/track/6jKrVj1uKwNUA1GUOf4efE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Part Of My Story](https://open.spotify.com/album/3HnOK1mvSj2R5uHWWwkHxi) | 3:24 |
 | 17 | [Brother Joe](https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Brother Joe](https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN) | 4:48 |
 | 18 | [Edge Of Darkness](https://open.spotify.com/track/4rhUBIlzi7zgV7TryhVujl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:28 |
-| 19 | [The Wolf](https://open.spotify.com/track/7ojmifXZn0fnEwHKTkKLJN) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:10 |
-| 20 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
+| 19 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
+| 20 | [The Wolf](https://open.spotify.com/track/7ojmifXZn0fnEwHKTkKLJN) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:10 |
 | 21 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 22 | [God’s Gonna Cut You Down](https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:48 |
 | 23 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 49 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 50 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 |
 | 51 | [Hot Damn](https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Black on Black](https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC) | 2:20 |
-| 52 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
-| 53 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
-| 54 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 52 | [15 Minute Smog Check](https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK) | [The Takes](https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch) | [15 Minute Smog Check](https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs) | 3:54 |
+| 53 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
+| 54 | [Better Run](https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [The Vandoliers](https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM) | 3:05 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 |
 | 56 | [A Bad Hand](https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [A Bad Hand](https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd) | 3:40 |
 | 57 | [Down No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Without The Pain](https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U) | 3:27 |

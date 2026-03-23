@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 9 hr 55 min
+188 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [What I've Become](https://open.spotify.com/track/25kTc4hobHWuF7dZM2Yobf) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/26Avj9WqjhxH0DTVoAbW0p) | 3:40 | 2022-05-25 | 2022-10-19 |
 | [What I've Become](https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS) | 3:40 | 2022-10-18 |  |
 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 | 2023-05-10 |  |
-| [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 | 2022-05-25 |  |
+| [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 | 2022-05-25 | 2026-03-23 |
+| [When I'm Alone](https://open.spotify.com/track/7iuTXQqbKwfaMaTBSDV7JE) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/7nedt7ZF8elRrALiVF59hv) | 2:28 | 2026-03-22 |  |
 | [When I'm Alone \- VIP](https://open.spotify.com/track/4Bm0myZlodFmgss7C2Fxv4) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone \(VIP\)](https://open.spotify.com/album/2ekLqVA30VwFDGOMdj6Ncm) | 3:22 | 2025-02-04 | 2025-02-07 |
 | [Who You Travel With](https://open.spotify.com/track/5GKarKZIWcOFKKwJVcOADW) | [Blessing Annatoria](https://open.spotify.com/artist/7sOvnyvSZRdtT0hmJeR9QI) | [Count My Blessings](https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW) | 3:06 | 2022-05-25 |  |
 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/6eP1RwJU8t1F11kpg0Dg4Y) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 2:34 | 2024-09-29 |  |

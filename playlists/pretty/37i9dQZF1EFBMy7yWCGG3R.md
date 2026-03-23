@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,643 likes - 275 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,644 likes - 275 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 162 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
 | 163 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 |
 | 164 | [Desperate](https://open.spotify.com/track/4nfuvV34THjGorJHAiijkw) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:54 |
-| 165 | [Talk You Down](https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:36 |
-| 166 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
+| 165 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
+| 166 | [Talk You Down](https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:36 |
 | 167 | [Sink In](https://open.spotify.com/track/0Vh5clKN9Z0CNi8ItHUQEx) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love, Simon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JHZTusMlrbbTBC3xHt2Gw) | 4:35 |
 | 168 | [Thick Of It All](https://open.spotify.com/track/7ANesmCLYR6eSKsgmQvEa9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 3:19 |
 | 169 | [Corners](https://open.spotify.com/track/0Fifn4lBIGM5LG18Whp1Dx) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Through the Years: The Best of The Fray](https://open.spotify.com/album/0Aq0GzP80LvBbFqGp2kZDa) | 3:32 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 218 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 |
 | 219 | [TE AMO](https://open.spotify.com/track/6EOK4bju6W6Ek9wBvUSeDc) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/5KpiGNTu3QsPI1j0zo2qxS) | 4:16 |
 | 220 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 |
-| 221 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
-| 222 | [why'd you have to call](https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 4:13 |
+| 221 | [why'd you have to call](https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 4:13 |
+| 222 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
 | 223 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 |
 | 224 | [Me Without You](https://open.spotify.com/track/02XUnEfZexXh9bj66FeK4Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:33 |
 | 225 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 274 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 275 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcMwVgAAAACLB386276wiOxHUYkNx+Jw`
+Snapshot ID: `AcM19gAAAAB6T1KxDZE1NOJQ9c1S60ua`

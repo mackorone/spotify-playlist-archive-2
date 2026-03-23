@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,081 songs - 2 day 22 hr 31 min
+1,082 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [The End.](https://open.spotify.com/track/6s2yqZbiPNPL1B2IeCMsUA) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 1:52 | 2024-01-08 |  |
 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 | 2025-01-06 | 2025-01-07 |
 | [THE GLOW](https://open.spotify.com/track/1XSoToJJt581oXBXP6vyhU) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 0:45 | 2022-09-25 |  |
+| [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 | 2026-03-22 |  |
 | [The Grants](https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:55 | 2023-03-24 | 2023-06-15 |
 | [The Greater Wings](https://open.spotify.com/track/5K7xeYoKdOv0JHNddosDw7) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:24 | 2024-01-12 |  |
 | [The Grudge](https://open.spotify.com/track/6ZsZxNP4Iwdyp3kd5oFFQN) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:36 | 2022-07-24 |  |

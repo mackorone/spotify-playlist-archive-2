@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,795 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,791 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 33 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 |
 | 34 | [you were mine](https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN) | 3:41 |
 | 35 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
-| 36 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
-| 37 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
+| 36 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
+| 37 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
 | 38 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
 | 39 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 40 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 58 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 59 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
 | 60 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
-| 61 | [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 |
-| 62 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 61 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
+| 62 | [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 |
 | 63 | [Navy Blue Sheet Blues](https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Navy Blue Sheet Blues](https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH) | 1:26 |
 | 64 | [Aeroplane](https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a) | [Holly Throsby](https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g) | [After a Time](https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW) | 3:51 |
 | 65 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 |

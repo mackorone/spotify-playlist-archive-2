@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Triciclo Parlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,019 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,018 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 39 | [SUEÑOS MOJADOS](https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD) | [Sir Valen](https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn), [Millonarios Depresivos](https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn) | [SUEÑOS MOJADOS](https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp) | 2:24 |
 | 40 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
 | 41 | [Allí Va](https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Allí Va](https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9) | 2:33 |
-| 42 | [Mariposa Peregrina](https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Mariposa Peregrina](https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1) | 4:18 |
-| 43 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
-| 44 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
-| 45 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
+| 42 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
+| 43 | [Mariposa Peregrina](https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Mariposa Peregrina](https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1) | 4:18 |
+| 44 | [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 |
+| 45 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
 | 46 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
-| 47 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
+| 47 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
 | 48 | [Se Aleja el Tren](https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Se Aleja el Tren](https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss) | 4:06 |
 | 49 | [Únete A Mi Ser](https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0) | 4:41 |
 | 50 | [Fantasmas](https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Fantasmas](https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L) | 3:52 |

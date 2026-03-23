@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,952 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,028 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 13 | [Step On Me](https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:50 |
 | 14 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:19 |
 | 15 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 16 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
-| 17 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 16 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 17 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 18 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 |
 | 19 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:46 |
 | 20 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 52 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
 | 53 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 54 | [It's My Life](https://open.spotify.com/track/6m7fhJkK6TbuGDFhBNpgyn) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Very Best Of](https://open.spotify.com/album/2sVePugUVnYAPEyIlGP6Hx) | 3:52 |
-| 55 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
-| 56 | [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 |
+| 55 | [Vitamin C \- 2004 Remastered Version](https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 3:34 |
+| 56 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 |
 | 57 | [Destination Unknown](https://open.spotify.com/track/0QyMDyosGai50pjaFbC1NO) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Spring Session M.](https://open.spotify.com/album/08GAuXkchZVoRsnKdcihxs) | 3:36 |
 | 58 | [People Are Strange \- New Stereo Mix](https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 2:10 |
 | 59 | [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 |

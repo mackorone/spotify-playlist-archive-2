@@ -1,6 +1,6 @@
 {
   "description": "Feel great with these timelessly fun songs!",
-  "num_followers": 5260497,
+  "num_followers": 5260475,
   "original_name": "Have a Great Day!",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
-      "added_at": "2025-03-25 15:39:56",
-      "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
       "added_at": "2023-05-02 19:18:45",
       "album": {
         "name": "Partners In Crime",
@@ -747,6 +731,22 @@
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "added_at": "2025-03-25 15:39:56",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2023-05-02 19:18:45",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Blondes Have More Fun",
-        "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Da Ya Think I'm Sexy?",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Blondes Have More Fun",
+        "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Da Ya Think I'm Sexy?",
+      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-02 19:18:45",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2023-05-02 19:18:45",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-05-02 19:18:45",

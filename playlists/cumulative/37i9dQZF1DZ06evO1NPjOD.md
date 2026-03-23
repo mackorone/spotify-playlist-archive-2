@@ -4,7 +4,7 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 1 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-07-29 | 2025-05-22 |
 | [Handle It](https://open.spotify.com/track/61PcyQZqlHDf4hiYPdHGGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kali Cass](https://open.spotify.com/artist/2BhAM5ZQjA4rH0JmsyfuRe) | [Handle It](https://open.spotify.com/album/78Ov02ocDiQ5aNk5cFUm9M) | 2:04 | 2022-10-28 | 2023-11-11 |
 | [How To Pimp A N\*\*ga](https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:50 | 2022-10-28 |  |
-| [I Need A Thug](https://open.spotify.com/track/2S6EeSyyCS5GZJKCZOuHyC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:57 | 2025-12-04 |  |
+| [I Need A Thug](https://open.spotify.com/track/2S6EeSyyCS5GZJKCZOuHyC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:57 | 2025-12-04 | 2026-03-23 |
 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 | 2023-06-10 | 2025-11-16 |
 | [In n Out \(feat\. City Girls\)](https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:14 | 2022-10-28 |  |
 | [Jobs](https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:01 | 2022-10-28 |  |
@@ -68,6 +68,7 @@
 | [Season \(feat\. Lil Baby\)](https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 3:22 | 2022-10-28 | 2024-07-15 |
 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 | 2022-10-28 | 2026-01-17 |
 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 | 2022-10-28 |  |
+| [Show Me The Money](https://open.spotify.com/track/05kkf4cxpKQUrbwCmr1Zr4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:06 | 2026-03-23 |  |
 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 | 2023-11-10 | 2025-09-24 |
 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 | 2023-01-31 | 2023-07-30 |
 | [Supahood](https://open.spotify.com/track/2Ce1E9cfqbLUVWspvSOsVg) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/3VCKLu2hDzNr1FciTvcSkf) | 3:32 | 2024-07-07 | 2025-03-15 |

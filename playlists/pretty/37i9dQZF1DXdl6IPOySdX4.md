@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,157,677 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,158,126 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 7 | [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 |
 | 8 | [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 |
 | 9 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
-| 10 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
+| 10 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 11 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 12 | [Bite The Bullet](https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Bite The Bullet](https://open.spotify.com/album/6a5mX0DoOpUegoR6jZzBmU) | 2:14 |
-| 13 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
+| 13 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 14 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
 | 15 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 |
 | 16 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 20 | [Believe It](https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Believe It](https://open.spotify.com/album/1KFOY5fOpzO6tWjsQYQ1lh) | 2:51 |
 | 21 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 22 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |
-| 23 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 |
-| 24 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
+| 23 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
+| 24 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 |
 | 25 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
 | 26 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
-| 27 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
-| 28 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 27 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 28 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 29 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 |
 | 30 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 | 31 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |

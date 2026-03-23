@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,242 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,272 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 33 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 |
 | 34 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
 | 35 | [El Chico Del Apartamento 512 \- Live](https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:15 |
-| 36 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 |
-| 37 | [No Debes Jugar \- Remastered 2026](https://open.spotify.com/track/7KNKAcTwtrFneIV4eKRR9U) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 2:51 |
+| 36 | [No Debes Jugar \- Remastered 2026](https://open.spotify.com/track/7KNKAcTwtrFneIV4eKRR9U) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 2:51 |
+| 37 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 |
 | 38 | [El Toro Relajo](https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:20 |
 | 39 | [Cobarde \- Live](https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 1:56 |
 | 40 | [No Quiero Saber \- 1990 Version](https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 49 | [Dulce Amor](https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
 | 50 | [Terco Corazón](https://open.spotify.com/track/22w7BkUcfKfhPklT1qL8dr) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 2:49 |
 
-Snapshot ID: `abyOAAAAAADh5Edf5QSCRc5SSU5SPHYC`
+Snapshot ID: `ab3fgAAAAADVCDDfGpHS7vO9syOIWRuS`

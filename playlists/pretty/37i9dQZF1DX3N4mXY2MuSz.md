@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,248 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,241 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 40 | [X'Mas Time \(It Sure Doesn't Feel Like It\)](https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:57 |
 | 41 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 42 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
-| 43 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
-| 44 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 |
+| 43 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 |
+| 44 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
 | 45 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
 | 46 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
 | 47 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 51 | [Silent Night](https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:33 |
 | 52 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 53 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
-| 54 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
-| 55 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 |
+| 54 | [Xmas Exile](https://open.spotify.com/track/6el5Au3KpVNLGItG2gFCMA) | [Settle Your Scores](https://open.spotify.com/artist/4QXKSmZgWNMDbQBidvuh4O) | [Xmas Exile](https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG) | 2:56 |
+| 55 | [All I Want for Christmas Is You](https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [All I Want for Christmas Is You](https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0) | 2:44 |
 | 56 | [Santa Claus Is Coming to Town \- Single Version](https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41) | 1:54 |
 | 57 | [What Do the Lonely Do at Christmas?](https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy) | [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC), [GET TUFF](https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy) | [A Very Skatune Christmas](https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0) | 3:20 |
 | 58 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 |

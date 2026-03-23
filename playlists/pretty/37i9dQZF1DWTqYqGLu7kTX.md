@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Tegi Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,121 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,151 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

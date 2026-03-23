@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,465 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,524 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 26 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 27 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 28 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 |
-| 29 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
+| 29 | [California Dreamin'](https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:20 |
 | 30 | [White Ferrari](https://open.spotify.com/track/1HSJrDXqz4iCCa1SM6FYF6) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4), [KurtTheViolinist](https://open.spotify.com/artist/3wuyMrte0tIXkWSQiMBTQt) | [White Ferrari](https://open.spotify.com/album/0sUJYMkvbbPYh216QrxS2K) | 3:36 |
-| 31 | [California Dreamin'](https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:20 |
+| 31 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 32 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 33 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
 | 34 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 |
 | 70 | [Scene 2](https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Scene 2](https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye) | 4:15 |
 | 71 | [Sweetest Lullabye](https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Sweetest Lullabye](https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA) | 4:15 |
-| 72 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
-| 73 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
+| 72 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
+| 73 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 74 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 75 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
 | 76 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 77 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
 | 78 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 79 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
-| 80 | [Reason \(feat\. Elijah Fox\)](https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:07 |
+| 80 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
 
 Snapshot ID: `AAAAADqgCsiuHcu9vWMw7jKih3j7d5qp`

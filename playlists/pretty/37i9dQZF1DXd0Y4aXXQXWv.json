@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 500215,
+  "num_followers": 500237,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2025-12-30 13:01:32",
       "album": {
-        "name": "Coeur maladroit",
-        "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
       },
       "artists": [
         {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Coeur maladroit",
-      "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "added_at": "2025-12-30 13:01:32",
@@ -751,22 +755,18 @@
     {
       "added_at": "2025-12-30 13:01:32",
       "album": {
-        "name": "Calog3ro",
-        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
       },
       "artists": [
         {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        },
-        {
-          "name": "Passi",
-          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Face \u00e0 la mer",
-      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+      "duration_ms": 160573,
+      "name": "Coeur maladroit",
+      "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
     },
     {
       "added_at": "2025-12-30 13:01:32",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-12-30 13:01:32",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
       },
       "artists": [
         {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     }
   ],
   "unique_name": "Culture Tubes",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: カネヨリマサル
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,502 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,504 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 15 | [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 |
 | 16 | [エンドロールタイマー](https://open.spotify.com/track/3n4e55GnEonSdZqSD7SMuT) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [エンドロールタイマー](https://open.spotify.com/album/749RO6yWEazWfeRa2n7W9h) | 4:43 |
 | 17 | [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 |
-| 18 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
+| 18 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
 | 19 | [sunday driver](https://open.spotify.com/track/53Hc3XjCHfBDzz3ZsjBEhs) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:38 |
 | 20 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 21 | [GiMMiCK](https://open.spotify.com/track/7Hec8368duUhnHOMOlI80h) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [GiMMiCK](https://open.spotify.com/album/6ipaVR0z3BwO4hCBHy8wzM) | 3:16 |
 | 22 | [憂、燦々](https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [憂、燦々](https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4) | 4:09 |
 | 23 | [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 |
-| 24 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
+| 24 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 25 | [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 |
 | 26 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 27 | [nothing left, we don’t know why](https://open.spotify.com/track/0HaDAS34EmQQSWm7CW667p) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [nothing left, we don’t know why](https://open.spotify.com/album/1HWeHIiosyZ1xznrpRxizV) | 2:59 |

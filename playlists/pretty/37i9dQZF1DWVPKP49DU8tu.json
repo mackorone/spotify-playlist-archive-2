@@ -1,6 +1,6 @@
 {
   "description": "Noi e il tuo specchio non ti giudicheremo mai, promesso \ud83e\udd1e\ud83c\udffc",
-  "num_followers": 364869,
+  "num_followers": 364887,
   "original_name": "Hit da cantare (come se nessuno ti stesse guardando)",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Comuni Mortali",
         "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177348,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Phoenix (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 191120,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Phoenix (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2026-01-15 13:13:46",

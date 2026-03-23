@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93829,
+  "num_followers": 93827,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
+        "name": "Face The Unknown",
+        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+      "duration_ms": 210416,
+      "name": "Face The Unknown",
+      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Face The Unknown",
-        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 210416,
-      "name": "Face The Unknown",
-      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Nebraska '82: Expanded Edition",
-        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+        "name": "Gullmar Gospel",
+        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
         }
       ],
-      "duration_ms": 300360,
-      "name": "Losin' Kind - Nebraska Outtakes",
-      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+      "duration_ms": 272575,
+      "name": "Gullmar Gospel",
+      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
+        "name": "Nebraska '82: Expanded Edition",
+        "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Losin' Kind - Nebraska Outtakes",
+      "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
         "name": "Du & jag & mera tid",
         "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 174101,
       "name": "Bara kom",
       "url": "https://open.spotify.com/track/7CcrqmPUhnFAOWG1Y9ogp8"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
-        "name": "Gullmar Gospel",
-        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
-      },
-      "artists": [
-        {
-          "name": "Joel Alme",
-          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Gullmar Gospel",
-      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
+        "name": "Prinsessa",
+        "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
+      },
+      "artists": [
+        {
+          "name": "Naomi Wiehe",
+          "url": "https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Prinsessa",
+      "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/64LKeh7Ban8XpiuPWb9MnC"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 249626,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
-        "name": "Prinsessa",
-        "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
-      },
-      "artists": [
-        {
-          "name": "Naomi Wiehe",
-          "url": "https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Prinsessa",
-      "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 224168,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
         "name": "Andra landskap 50",
         "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 295520,
       "name": "\u00d6stra Svealand (2025)",
       "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
         "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
         "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 225466,
       "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
       "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
+        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
+        "name": "Mjuk extas",
+        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 271875,
+      "name": "L\u00e4gg den h\u00e4r, bredvid min",
+      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
+    },
+    {
+      "added_at": "2026-03-19 23:01:05",
+      "album": {
         "name": "Forgive, Forget",
         "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-03-19 23:01:05",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 245614,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1307,38 +1307,34 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5U9shDALsWakoW6lG9R67g"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
         }
       ],
-      "duration_ms": 271875,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
+      "duration_ms": 245614,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
     },
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "Bara vi andas",
-        "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
+        "name": "N\u00e5gonting som aldrig h\u00e4nt",
+        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
       },
       "artists": [
         {
-          "name": "Mattias Berghagen",
-          "url": "https://open.spotify.com/artist/2ugah26q5oy9jnFb1JyTWE"
-        },
-        {
-          "name": "Sonja Ald\u00e9n",
-          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Bara vi andas",
-      "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
+      "duration_ms": 181829,
+      "name": "N\u00e5gonting som aldrig h\u00e4nt",
+      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
     },
     {
       "added_at": "2026-03-19 23:01:05",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2026-03-19 23:01:05",
       "album": {
-        "name": "N\u00e5gonting som aldrig h\u00e4nt",
-        "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
+        "name": "Bara vi andas",
+        "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Mattias Berghagen",
+          "url": "https://open.spotify.com/artist/2ugah26q5oy9jnFb1JyTWE"
+        },
+        {
+          "name": "Sonja Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
         }
       ],
-      "duration_ms": 181829,
-      "name": "N\u00e5gonting som aldrig h\u00e4nt",
-      "url": "https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R"
+      "duration_ms": 167266,
+      "name": "Bara vi andas",
+      "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
     },
     {
       "added_at": "2026-03-19 23:01:05",

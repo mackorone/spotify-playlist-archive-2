@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,534 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,607 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 41 | [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 |
 | 42 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
 | 43 | [Never Gonna Be](https://open.spotify.com/track/1xj8bt0orcDVHew3qe3H6G) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Never Gonna Be](https://open.spotify.com/album/7GGtW7Nl6UkDm6bd2eJkM1) | 3:56 |
-| 44 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
-| 45 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 44 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 45 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 46 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 |
 | 47 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
 | 48 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 80 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 81 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 82 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
-| 83 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
-| 84 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
+| 83 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
+| 84 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
 | 85 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
 | 86 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
 | 87 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |

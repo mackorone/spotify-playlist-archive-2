@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -3934,10 +3934,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -7986,7 +8004,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -9746,7 +9764,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -11479,6 +11497,28 @@
     },
     {
       "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Khan Saab",
+          "url": "https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331244,
+      "name": "Jaan Se Guzarte Hain",
+      "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4"
+    },
+    {
+      "album": {
         "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
         "url": "https://open.spotify.com/album/02dVq1hK3asFuUjL0ulsGu"
       },
@@ -11782,6 +11822,32 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "Jaiye Sajana",
+      "url": "https://open.spotify.com/track/5gysl1k9QxPSM604I8G3uk"
     },
     {
       "album": {
@@ -16660,7 +16726,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States)",
       "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
@@ -17446,7 +17512,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
@@ -18978,7 +19044,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -19582,7 +19648,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 240107,
       "name": "Oorum Blood",
       "url": "https://open.spotify.com/track/4pCXTYAPgdzMTCsDdDwjy3"
@@ -24992,10 +25058,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -25962,7 +26046,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
@@ -29534,7 +29618,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Zaalima",
       "url": "https://open.spotify.com/track/4MU4Kfkd9EnkArK2ocQyqK"

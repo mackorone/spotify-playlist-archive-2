@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -9808,10 +9808,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -11634,7 +11652,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -19752,7 +19770,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 176077,
       "name": "FABRIZIO ROMANO",
       "url": "https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd"
@@ -29156,7 +29174,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -33948,7 +33966,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX"
@@ -37524,7 +37542,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
@@ -41482,7 +41500,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 98453,
       "name": "No. 29",
       "url": "https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh"
@@ -43134,7 +43152,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -45870,7 +45888,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj"
@@ -49578,7 +49596,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -52508,7 +52526,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -53002,7 +53020,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 201843,
       "name": "Sommernacht",
       "url": "https://open.spotify.com/track/6dOicOZllKNIPfVrQMxITC"
@@ -55346,10 +55364,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -56006,7 +56042,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 110912,
       "name": "tau mich auf",
       "url": "https://open.spotify.com/track/1prNhzt3DdgRoxKoALTEYo"
@@ -56878,7 +56914,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -57668,7 +57704,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -59216,7 +59252,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -60090,7 +60126,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -60460,7 +60496,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -62514,7 +62550,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

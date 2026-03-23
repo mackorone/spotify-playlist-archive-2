@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,251 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,297 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 27 | [Whoop](https://open.spotify.com/track/5YkmdLvb5eKiNCQoJBCjEs) | [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Whoop](https://open.spotify.com/album/5vW5OcejX5Q51CU8gICRg3) | 2:48 |
 | 28 | [Dawsha](https://open.spotify.com/track/0Y7rAv8pK8uAlGkt8awj2u) | [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [Dawsha](https://open.spotify.com/album/2AbIfkSGKB2jHXgzub9dqS) | 2:31 |
 | 29 | [Umthandazo](https://open.spotify.com/track/2m8dHIdoSjmTHiab2hb2UR) | [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [Thab De Soul](https://open.spotify.com/artist/6rOQUGz2uvmVZ6EEjZfIew) | [Umthandazo](https://open.spotify.com/album/7h06Hga09xGJ9pOB0U7L3o) | 7:33 |
-| 30 | [U Dont Know](https://open.spotify.com/track/32iYu79CYbVaZpvIqLigi1) | [Sounds Human \(US\)](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [KingDonna](https://open.spotify.com/artist/2zZHw1UpT4BK4IJdS1WhDU), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [U Dont Know](https://open.spotify.com/album/2YlaW3YBgs6vtuI53v35Cy) | 3:24 |
+| 30 | [U Dont Know](https://open.spotify.com/track/32iYu79CYbVaZpvIqLigi1) | [SOUNDS HUMAN](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [KingDonna](https://open.spotify.com/artist/2zZHw1UpT4BK4IJdS1WhDU), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [U Dont Know](https://open.spotify.com/album/2YlaW3YBgs6vtuI53v35Cy) | 3:24 |
 | 31 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
 | 32 | [Phunk](https://open.spotify.com/track/5p6rh4jZyyET4jbD1CJQa6) | [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Phunk](https://open.spotify.com/album/1bx8EuMKG8ROYhMl3JjnKr) | 2:50 |
 | 33 | [Isdakwa \(feat\. Still Nitro & Solo Thato\)](https://open.spotify.com/track/6Mlx2HIZNvWKVNpBZ1HHZ2) | [Balcony Mix Africa](https://open.spotify.com/artist/0g3anY9Kyx4GP1wgSrUXqp), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Still Nitro](https://open.spotify.com/artist/36RneoJlf3g7itQLns0OsY), [Solo Thato](https://open.spotify.com/artist/0kZgNsF7gBgYecVWEDgUR7), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Isdakwa \(feat\. Still Nitro & Solo Thato\)](https://open.spotify.com/album/4LePH5u9gCKlpo5DdDKCAp) | 7:06 |

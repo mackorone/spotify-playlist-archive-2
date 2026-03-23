@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: ONS",
-  "num_followers": 143729,
+  "num_followers": 143763,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Swaartekrag",
-        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
+        "name": "Ek Kannie",
+        "url": "https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn"
       },
       "artists": [
         {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         }
       ],
-      "duration_ms": 178021,
-      "name": "Lenie Blou",
-      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
+      "duration_ms": 198832,
+      "name": "Ek Kannie",
+      "url": "https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -203,18 +203,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Ek Kannie",
-        "url": "https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn"
+        "name": "Swaartekrag",
+        "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 198832,
-      "name": "Ek Kannie",
-      "url": "https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF"
+      "duration_ms": 178021,
+      "name": "Lenie Blou",
+      "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -251,22 +251,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Francois Van Coke",
-        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
+        "name": "Plaas Dorp Toe",
+        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         }
       ],
-      "duration_ms": 246401,
-      "name": "Toe Vind Ek Jou",
-      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+      "duration_ms": 198500,
+      "name": "Plaas Dorp Toe",
+      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
     },
     {
       "added_at": "2026-03-19 22:00:29",
@@ -287,18 +283,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Plaas Dorp Toe",
-        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
+        "name": "Francois Van Coke",
+        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Plaas Dorp Toe",
-      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
+      "duration_ms": 246401,
+      "name": "Toe Vind Ek Jou",
+      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Dagdrome in Suburbia",
-        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Dagdrome in Suburbia",
-      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 201230,
       "name": "Tina Tequila",
       "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Dagdrome in Suburbia",
+        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Dagdrome in Suburbia",
+      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Sterre",
-        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
+        "name": "Boer Ding",
+        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
       },
       "artists": [
         {
-          "name": "Gerhard Steyn",
-          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
-        },
-        {
-          "name": "Liezel Pieters",
-          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
         }
       ],
-      "duration_ms": 213461,
-      "name": "Sterre",
-      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
+      "duration_ms": 212242,
+      "name": "Boer Ding",
+      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -587,18 +583,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Boer Ding",
-        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
+        "name": "Sterre",
+        "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        },
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
         }
       ],
-      "duration_ms": 212242,
-      "name": "Boer Ding",
-      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
+      "duration_ms": 213461,
+      "name": "Sterre",
+      "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Ryk Met Tyd",
-        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
         }
       ],
-      "duration_ms": 148999,
-      "name": "Ryk Met Tyd",
-      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+      "duration_ms": 161242,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Naam",
-        "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
+        "name": "Ryk Met Tyd",
+        "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
       },
       "artists": [
         {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 161242,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+      "duration_ms": 148999,
+      "name": "Ryk Met Tyd",
+      "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Sonsak In Die Vrystaat",
-        "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
-      },
-      "artists": [
-        {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
-        }
-      ],
-      "duration_ms": 264935,
-      "name": "Sonsak In Die Vrystaat",
-      "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Yskas Skuif",
         "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204335,
       "name": "Yskas Skuif",
       "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Sonsak In Die Vrystaat",
+        "url": "https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "duration_ms": 264935,
+      "name": "Sonsak In Die Vrystaat",
+      "url": "https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Hallo My Maatjie",
+        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Hallo My Maatjie",
+      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "My Bra",
         "url": "https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 177971,
       "name": "Bruinoog Blond",
       "url": "https://open.spotify.com/track/2276xEvn3y8SeQ6sUOrGpz"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Hallo My Maatjie",
-        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Hallo My Maatjie",
-      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Boertjie Voor My Deur",
-        "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
-      },
-      "artists": [
-        {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
-        }
-      ],
-      "duration_ms": 205107,
-      "name": "Boertjie Voor My Deur",
-      "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Oorwurm",
         "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205440,
       "name": "Oorwurm",
       "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Boertjie Voor My Deur",
+        "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "duration_ms": 205107,
+      "name": "Boertjie Voor My Deur",
+      "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Wat Kan 'n Man Dan Doen",
-        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 164520,
-      "name": "Wat Kan 'n Man Dan Doen",
-      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Jagtrip",
         "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Wat Kan 'n Man Dan Doen",
+        "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 164520,
+      "name": "Wat Kan 'n Man Dan Doen",
+      "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "Diepseeduiker 17",
         "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+        "name": "Namibsroos (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/1a7rBCC6Ie1rvErOoQC5W5"
       },
       "artists": [
         {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
         }
       ],
-      "duration_ms": 187094,
-      "name": "Witblits",
-      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
+      "duration_ms": 263440,
+      "name": "Namibsroos - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/05VB5cgHGPrL722U1HLxET"
     }
   ],
   "unique_name": "Afrikaanse Hits",

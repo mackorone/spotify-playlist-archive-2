@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,470 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,474 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 12 | [Ti manmi](https://open.spotify.com/track/74PII6iDa5Rn7dY5eS2mx2) | [L Won](https://open.spotify.com/artist/1kRfVuceSK92E3iO5uT4dT) | [Welcome](https://open.spotify.com/album/5V1uYLqtA3oVcAyRg58WaD) | 2:32 |
 | 13 | [I'll Yayad \- Pretty Bumpy](https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW) | [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat), [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [I'll Yayad \(Pretty Bumpy\)](https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF) | 4:27 |
 | 14 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
-| 15 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
+| 15 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
 | 16 | [Se ou'l ye](https://open.spotify.com/track/4ep65mItDTJ5f1O5CdW5V6) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh) | [I'M OK](https://open.spotify.com/album/6TA3ulRMkO8UuBXKyBZgaO) | 4:05 |
-| 17 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
+| 17 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
 | 18 | [Pi Bon Chwa](https://open.spotify.com/track/4nJhXIVIs9g5yIHfGIvt6d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 3:07 |
-| 19 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
+| 19 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
 | 20 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 |
 | 21 | [Spicy](https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Spicy](https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh) | 2:58 |
 | 22 | [LanmoU Pa PoU MweN](https://open.spotify.com/track/5ojRfwelVOjdphr7Tp6jUo) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM) | [LanmoU Pa PoU MweN](https://open.spotify.com/album/7iKnNCA9m3CIA4uB2OaGbs) | 4:24 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 35 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
 | 36 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
 | 37 | [Bif](https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Mickael Guirand](https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 4:45 |
-| 38 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
-| 39 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
-| 40 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
+| 38 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
+| 39 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
+| 40 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 
 Snapshot ID: `AAAAAL3NMLv+W1BkDfO/7cIOZoJrYjlH`

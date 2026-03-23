@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "1 OF 1",
       "url": "https://open.spotify.com/track/7wEWayecQuw6YBcWZLukM0"
@@ -270,10 +270,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/0H653Nkt1VcM5A5MC4N6Fw"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
       "album": {
@@ -2062,10 +2080,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -6820,7 +6856,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -7990,7 +8026,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX"
@@ -8196,7 +8232,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 258823,
       "name": "Living Death",
       "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
@@ -8880,10 +8916,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0iuC1cgzqw5yiHCgZE1QMp"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229855,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
     },
     {
       "album": {
@@ -9784,7 +9838,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 98453,
       "name": "No. 29",
       "url": "https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh"
@@ -9842,7 +9896,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -10060,7 +10114,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -10742,7 +10796,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj"
@@ -13900,10 +13954,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -14528,7 +14600,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -16210,7 +16282,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 259380,
       "name": "Yours Ever (feat. Q Flure)",
       "url": "https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj"
@@ -16416,7 +16488,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 286191,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6OtTqu9t1RitlU1RjUfEXe"
@@ -16770,7 +16842,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 266280,
       "name": "\u0e02\u0e35\u0e49\u0e2b\u0e36\u0e07",
       "url": "https://open.spotify.com/track/1nmdJTwB575vxvNm6PdXHq"
@@ -17282,7 +17354,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 266750,
       "name": "\u0e04\u0e34\u0e14(\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48)\u0e16\u0e36\u0e07 (Same Page?)",
       "url": "https://open.spotify.com/track/6zZsio19rHayse0WDDLboq"
@@ -18200,7 +18272,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 293500,
       "name": "\u0e0b\u0e32\u0e42\u0e22\u0e19\u0e32\u0e23\u0e30",
       "url": "https://open.spotify.com/track/1MkgN3lRBf5mXbxY6CWU9s"
@@ -19122,7 +19194,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 338873,
       "name": "\u0e17\u0e35\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e32\u0e02\u0e2d\u0e1a\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46",
       "url": "https://open.spotify.com/track/146Abk8n9M7jsjcsUN3dJc"
@@ -19206,7 +19278,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 236062,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs"
@@ -20548,7 +20620,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
@@ -21460,7 +21532,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 264444,
       "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15 (feat. \u0e14\u0e32 \u0e40\u0e2d\u0e47\u0e19\u0e42\u0e14\u0e23\u0e1f\u0e34\u0e19)",
       "url": "https://open.spotify.com/track/151RFTqNBV4hcJLOAux0FR"
@@ -21496,7 +21568,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 243426,
       "name": "\u0e2a\u0e2d\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/7sWVkwBJ8J1JPS1hmLwIYL"
@@ -21710,6 +21782,24 @@
       "duration_ms": 215250,
       "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
       "url": "https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh"
+    },
+    {
+      "album": {
+        "name": "LITTLE SIZE",
+        "url": "https://open.spotify.com/album/3XwSPOxvQc05bbQ7huBOk0"
+      },
+      "artists": [
+        {
+          "name": "LITTLE JOHN",
+          "url": "https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314117,
+      "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/2v6By6eLbmlQ04Dia8BZ5o"
     },
     {
       "album": {
@@ -22230,7 +22320,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 283079,
       "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
       "url": "https://open.spotify.com/track/1QbP49w60Db4mrhYbsQ8bg"
@@ -23148,7 +23238,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 239757,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e43\u0e19\u0e15\u0e33\u0e19\u0e32\u0e19",
       "url": "https://open.spotify.com/track/4JVHa8eTUOEN0zS1zrA2j5"

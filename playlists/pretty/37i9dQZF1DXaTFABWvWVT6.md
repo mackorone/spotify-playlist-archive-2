@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,165 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,175 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 64 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 65 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 |
 | 66 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
-| 67 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
-| 68 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
+| 67 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
+| 68 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 69 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 | 70 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 

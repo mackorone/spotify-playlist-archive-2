@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Descansa en paz, Willie Colón\. Siempre recordaremos a "El Malo" 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,421 likes - 90 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,788 likes - 90 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 30 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
 | 31 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 32 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
-| 33 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
-| 34 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
+| 33 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
+| 34 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 35 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 36 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
-| 37 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
-| 38 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
+| 37 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
+| 38 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 39 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 40 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 41 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 62 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
 | 63 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 64 | [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 |
-| 65 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
-| 66 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 65 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 66 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
 | 67 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
 | 68 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
 | 69 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 84 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
 | 85 | [Dicen Que Soy](https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:41 |
 | 86 | [Corazón Embusteros](https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:53 |
-| 87 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
-| 88 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
+| 87 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
+| 88 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
 | 89 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
 | 90 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
 
-Snapshot ID: `AAAAAMShVKw3e729CyePx2BK0pjIpa43`
+Snapshot ID: `AAAAAF+XRt7MPM7FIeMCtgbgu9xQ0FSU`

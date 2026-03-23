@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Поп треки, якими захоплюється Україна та світ! Обкладинка: Tame Impala & JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,263 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,265 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 13 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
 | 14 | [Blue Light](https://open.spotify.com/track/1wLB14luY2RU9H8aGVNNw8) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Blue Light](https://open.spotify.com/album/6ld4iLzSWt2QiEqvz03OMX) | 3:08 |
 | 15 | [іній](https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw) | [JASE51](https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg), [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [іній](https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW) | 2:48 |
-| 16 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 16 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 17 | [Тільки Ти](https://open.spotify.com/track/29ueRzbINIXfcXrkKkzd7b) | [NOTA CLÜB](https://open.spotify.com/artist/3nQCmmDVa9mwuzsZZcj7Ez), [Seba Korecky](https://open.spotify.com/artist/5LnreYK6KFwXOBG6QnBPeR) | [Тільки Ти](https://open.spotify.com/album/33qWxCQhN1VFCgRv1aWAxu) | 2:24 |
-| 18 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 18 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 19 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 20 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 21 | [Секс за містом](https://open.spotify.com/track/5zPHBlvSFtCylMC3nweTEc) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Секс за містом](https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD) | 3:49 |

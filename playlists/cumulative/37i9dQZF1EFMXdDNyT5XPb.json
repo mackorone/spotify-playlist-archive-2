@@ -2069,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184645,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo"
+    },
+    {
+      "album": {
         "name": "Today Was a Good Day (Deluxe)",
         "url": "https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4"
       },

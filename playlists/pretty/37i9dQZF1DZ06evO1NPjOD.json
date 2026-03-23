@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39734,
+  "num_followers": 39735,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACHXrSptf9mfCXWcKN3RMOP",
+  "snapshot_id": "ab3fgAAAAAA1PT5lpjaHIzUBUZIgXCKX",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 121386,
+      "name": "Jobs",
+      "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 167370,
       "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
       "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 121386,
-      "name": "Jobs",
-      "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 177370,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 232787,
       "name": "Good Love (feat. Usher)",
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
     },
     {
       "added_at": null,
@@ -575,26 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 208932,
-      "name": "BILLS PAID (feat. Latto & City Girls)",
-      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
+      "duration_ms": 171253,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7"
     },
     {
       "added_at": null,
@@ -615,22 +611,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDER8ED",
-        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 171253,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7"
+      "duration_ms": 208932,
+      "name": "BILLS PAID (feat. Latto & City Girls)",
+      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     },
     {
       "added_at": null,
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 117805,
-      "name": "I Need A Thug",
-      "url": "https://open.spotify.com/track/2S6EeSyyCS5GZJKCZOuHyC"
+      "duration_ms": 126292,
+      "name": "Show Me The Money",
+      "url": "https://open.spotify.com/track/05kkf4cxpKQUrbwCmr1Zr4"
     }
   ],
   "unique_name": "This Is City Girls",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,694 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,701 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 26 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
 | 27 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 28 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
-| 29 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
-| 30 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
+| 29 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
+| 30 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
 | 31 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
 | 32 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 |
 | 33 | [TIME CAPSULE](https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [TIME CAPSULE](https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2) | 4:12 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 49 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
 | 50 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 |
 | 51 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
-| 52 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
-| 53 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
+| 52 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
+| 53 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 54 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 |
 | 55 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |
 | 56 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 66 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
 | 67 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
 | 68 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
-| 69 | [Tomorrow](https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Harmony](https://open.spotify.com/album/5pEyhM1dfcAGCcXgxXILUw) | 4:00 |
-| 70 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
+| 69 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
+| 70 | [Tomorrow](https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Harmony](https://open.spotify.com/album/5pEyhM1dfcAGCcXgxXILUw) | 4:00 |
 | 71 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
 | 72 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
 | 73 | [Love Sick](https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Love Sick](https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH) | 4:07 |

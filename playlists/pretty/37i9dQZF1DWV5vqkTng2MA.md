@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,472 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,460 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 39 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 |
 | 40 | [She Don't Love Me Now](https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Don't Love Me Now](https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn) | 3:27 |
 | 41 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 |
-| 42 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 |
-| 43 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
+| 42 | [The Very Last Day](https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:00 |
+| 43 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 |
 | 44 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
 | 45 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
 | 46 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 48 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 |
 | 49 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 50 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
-| 51 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
-| 52 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
+| 51 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
+| 52 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
 | 53 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
 | 54 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 55 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
-| 56 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
-| 57 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
+| 56 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
+| 57 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
 | 58 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
 | 59 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 60 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 |

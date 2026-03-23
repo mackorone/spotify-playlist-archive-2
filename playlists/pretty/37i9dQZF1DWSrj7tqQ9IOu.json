@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois dernier s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402513,
+  "num_followers": 402508,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : F\u00e9vrier 2026",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
-        "name": "Winter Days \u51ac\u306e\u65e5\u3005 (feat. Salasa)",
-        "url": "https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA"
-      },
-      "artists": [
-        {
-          "name": "Kids Return",
-          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
-        },
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Winter Days \u51ac\u306e\u65e5\u3005(feat. Salasa)",
-      "url": "https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
         "name": "Lettre \u00e0 l'Univers (Live)",
         "url": "https://open.spotify.com/album/5WJ81Ls7XQbhvC0RoZV1AJ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 350223,
       "name": "Lettre \u00e0 l'Univers - Live",
       "url": "https://open.spotify.com/track/7a7u8n5xdh5YYhlJq7XpmN"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
+        "name": "Winter Days \u51ac\u306e\u65e5\u3005 (feat. Salasa)",
+        "url": "https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Winter Days \u51ac\u306e\u65e5\u3005(feat. Salasa)",
+      "url": "https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM"
     },
     {
       "added_at": "2026-03-01 23:00:03",

@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chevon",
-  "num_followers": 22010,
+  "num_followers": 22016,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "DIY",
-        "url": "https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE"
-      },
-      "artists": [
-        {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
-        }
-      ],
-      "duration_ms": 148567,
-      "name": "DIY",
-      "url": "https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV"
-    },
-    {
-      "added_at": "2026-03-17 15:00:27",
-      "album": {
         "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
         "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 127966,
       "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
+    },
+    {
+      "added_at": "2026-03-17 15:00:27",
+      "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "duration_ms": 148567,
+      "name": "DIY",
+      "url": "https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV"
     },
     {
       "added_at": "2026-03-17 15:00:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "you're my",
-        "url": "https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P"
-      },
-      "artists": [
-        {
-          "name": "Pablo Haiku",
-          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
-        }
-      ],
-      "duration_ms": 242824,
-      "name": "you're my",
-      "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
-    },
-    {
-      "added_at": "2026-03-17 15:00:27",
-      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/50YabFYVkyMkBTWbPWH658"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 170766,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/0XMRFMKdcx93xo1bQsaEZ3"
+    },
+    {
+      "added_at": "2026-03-17 15:00:27",
+      "album": {
+        "name": "you're my",
+        "url": "https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "duration_ms": 242824,
+      "name": "you're my",
+      "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
     },
     {
       "added_at": "2026-03-17 15:00:27",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "EVER GREEN",
-        "url": "https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u"
-      },
-      "artists": [
-        {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a",
-      "url": "https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS"
-    },
-    {
-      "added_at": "2026-03-17 15:00:27",
-      "album": {
         "name": "FREEMAN",
         "url": "https://open.spotify.com/album/3L1LHLfA3BmnPwZ9Y9lLfd"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "\u65b0\u6642\u4ee3",
-        "url": "https://open.spotify.com/album/5Ah7AOF6HjwXkDmQ9Kt5QH"
+        "name": "EVER GREEN",
+        "url": "https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u"
       },
       "artists": [
         {
-          "name": "SATOH",
-          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
         }
       ],
-      "duration_ms": 212560,
-      "name": "\u65b0\u6642\u4ee3",
-      "url": "https://open.spotify.com/track/2B8K2jv1VrrEXtCRZnpVhR"
+      "duration_ms": 164200,
+      "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS"
     },
     {
       "added_at": "2026-03-17 15:00:27",
@@ -1355,6 +1339,22 @@
       "duration_ms": 150825,
       "name": "\u30ed\u30f3\u30b0\u30d8\u30a2\u30fc",
       "url": "https://open.spotify.com/track/7xEC6CzM3tW7ZvGNv2xLlD"
+    },
+    {
+      "added_at": "2026-03-17 15:00:27",
+      "album": {
+        "name": "\u65b0\u6642\u4ee3",
+        "url": "https://open.spotify.com/album/5Ah7AOF6HjwXkDmQ9Kt5QH"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "\u65b0\u6642\u4ee3",
+      "url": "https://open.spotify.com/track/2B8K2jv1VrrEXtCRZnpVhR"
     },
     {
       "added_at": "2026-03-17 15:00:27",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
+        "name": "\u9752\u304f\u3001\u6625",
+        "url": "https://open.spotify.com/album/5gSXV7xmqhHz29n4JSDVLQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "\u9752\u304f\u3001\u6625",
+      "url": "https://open.spotify.com/track/6OjaQTLVAIgr5mTEQaDDj9"
+    },
+    {
+      "added_at": "2026-03-17 15:00:27",
+      "album": {
         "name": "Waruihito",
         "url": "https://open.spotify.com/album/6Z3QXH7reG3pihAN393Btq"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "\u9752\u304f\u3001\u6625",
-        "url": "https://open.spotify.com/album/5gSXV7xmqhHz29n4JSDVLQ"
+        "name": "\u84bc\u3044\u6625",
+        "url": "https://open.spotify.com/album/5wVf3ZbIa4bKsKtAYCwH2w"
       },
       "artists": [
         {
-          "name": "Maverick Mom",
-          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+          "name": "Faulieu.",
+          "url": "https://open.spotify.com/artist/0eC5rngTtu3yytFVddxGpI"
         }
       ],
-      "duration_ms": 249000,
-      "name": "\u9752\u304f\u3001\u6625",
-      "url": "https://open.spotify.com/track/6OjaQTLVAIgr5mTEQaDDj9"
+      "duration_ms": 188466,
+      "name": "\u84bc\u3044\u6625",
+      "url": "https://open.spotify.com/track/4FJiKZoCSmtTxKhyB8JPEQ"
     },
     {
       "added_at": "2026-03-17 15:00:27",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
-        "name": "school zone",
-        "url": "https://open.spotify.com/album/4BId3clujscvIfF6J2vah1"
-      },
-      "artists": [
-        {
-          "name": "Blooming Bungei",
-          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
-        }
-      ],
-      "duration_ms": 211650,
-      "name": "school zone",
-      "url": "https://open.spotify.com/track/6NoudzDszDLUSyqUVGHvxe"
-    },
-    {
-      "added_at": "2026-03-17 15:00:27",
-      "album": {
         "name": "\u857e\u3082\u3044\u3064\u304b\u306f",
         "url": "https://open.spotify.com/album/2nrSjH6dejniyHbeUSeNHu"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-03-17 15:00:27",
       "album": {
+        "name": "school zone",
+        "url": "https://open.spotify.com/album/4BId3clujscvIfF6J2vah1"
+      },
+      "artists": [
+        {
+          "name": "Blooming Bungei",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "duration_ms": 211650,
+      "name": "school zone",
+      "url": "https://open.spotify.com/track/6NoudzDszDLUSyqUVGHvxe"
+    },
+    {
+      "added_at": "2026-03-17 15:00:27",
+      "album": {
         "name": "\u597d\u304d\u306b\u306a\u3063\u305f\u3082\u3093\u8ca0\u3051\u3002\u306a\u3093\u3066\u4fe1\u3058\u306a\u3044\uff01",
         "url": "https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 277068,
       "name": "\u597d\u304d\u306b\u306a\u3063\u305f\u3082\u3093\u8ca0\u3051\u3002\u306a\u3093\u3066\u4fe1\u3058\u306a\u3044\uff01",
       "url": "https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C"
-    },
-    {
-      "added_at": "2026-03-17 15:00:27",
-      "album": {
-        "name": "\u84bc\u3044\u6625",
-        "url": "https://open.spotify.com/album/5wVf3ZbIa4bKsKtAYCwH2w"
-      },
-      "artists": [
-        {
-          "name": "Faulieu.",
-          "url": "https://open.spotify.com/artist/0eC5rngTtu3yytFVddxGpI"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "\u84bc\u3044\u6625",
-      "url": "https://open.spotify.com/track/4FJiKZoCSmtTxKhyB8JPEQ"
     },
     {
       "added_at": "2026-03-17 15:00:27",

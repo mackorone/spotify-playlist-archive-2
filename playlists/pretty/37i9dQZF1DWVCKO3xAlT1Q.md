@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,407 likes - 34 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,467 likes - 34 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

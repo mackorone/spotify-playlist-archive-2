@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
-  "num_followers": 1315142,
+  "num_followers": 1315171,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
       "added_at": "2026-03-19 23:00:54",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
     },
     {
       "added_at": "2026-03-19 23:00:54",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183747,
-      "name": "Siren sounds (bonus)",
-      "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183747,
+      "name": "Siren sounds (bonus)",
+      "url": "https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa"
     },
     {
       "added_at": "2026-03-19 23:00:54",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
+        "name": "Hoffnungslos Hoffnungsvoll",
+        "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "Hoffnungslos Hoffnungsvoll",
-        "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2026-03-19 23:00:54",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-19 23:00:54",
       "album": {
-        "name": "Just The Beginning",
-        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
-    },
-    {
-      "added_at": "2026-03-19 23:00:54",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2026-03-19 23:00:54",
+      "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
     }
   ],
   "unique_name": "Fr\u00fchlingsgef\u00fchle",

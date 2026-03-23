@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de primăvară
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,894 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,891 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 35 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 36 | [stay a little longer](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 4:06 |
 | 37 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
-| 38 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 39 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
+| 38 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
+| 39 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 40 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 | 41 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 42 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 435068,
+  "num_followers": 435108,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -517,24 +517,20 @@
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
+      "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "What Dreams Are Made Of",
-        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 227475,
-      "name": "Locked Away (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -553,20 +549,24 @@
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
+      "added_at": "2022-04-13 19:43:54",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 227475,
+      "name": "Locked Away (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "MKTO",
@@ -931,6 +915,22 @@
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
       "added_at": "2021-09-24 04:01:00",
       "album": {
         "name": "My Universe",
@@ -1251,6 +1235,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Tell Me You Love Me",
-        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1463,6 +1447,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Tell Me You Love Me",
+        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Beautiful People (feat. Khalid)",
         "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -3077,22 +3077,6 @@
       "url": "https://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "21",
@@ -3107,6 +3091,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Skate",
         "url": "https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
     },
     {
       "added_at": "2021-08-25 20:28:57",

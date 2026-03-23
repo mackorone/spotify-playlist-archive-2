@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: ITZY\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-519 songs - 1 day 3 hr 57 min
+520 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Can You See My Heart](https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel Del Luna OST Part.5](https://open.spotify.com/album/4HxM9RlVFPOEwNRorTuLiZ) | 3:45 | 2021-11-21 | 2022-03-08 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-04-05 | 2022-07-19 |
 | [CANADA](https://open.spotify.com/track/0nnBNJCB4r9nVkCZ2YEzgJ) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:55 | 2023-03-07 | 2023-04-05 |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-23 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-21 | 2022-11-30 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-02 | 2024-11-06 |
 | [Cheers \(ZZAN\)](https://open.spotify.com/track/3eAI3CXukjPxjXdzGMmeih) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Just One Bite 2](https://open.spotify.com/album/0Fgu7agMrAXcHyw4dFh70c) | 2:59 | 2022-03-22 | 2022-04-19 |
@@ -378,7 +379,7 @@
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-07 | 2024-01-27 |
 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-21 | 2024-08-31 |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-11-21 | 2026-01-15 |
-| [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 | 2026-02-10 |  |
+| [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 | 2026-02-10 | 2026-03-23 |
 | [Say My Name](https://open.spotify.com/track/675IZk8daYLNCcBZHgGcss) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/6kJ5z2JLigSboCsfqjyz5h) | 2:39 | 2025-11-04 | 2026-01-15 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-21 | 2023-03-29 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-08-01 | 2022-08-19 |

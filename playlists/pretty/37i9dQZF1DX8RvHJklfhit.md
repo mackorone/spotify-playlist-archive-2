@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,218 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,284 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 28 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
 | 29 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
 | 30 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
-| 31 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
-| 32 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 31 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 32 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
 | 33 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 34 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 35 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 42 | [Agüitaecoco](https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:19 |
 | 43 | [Vienen A Verme \(From "El Chapo" Soundtrack\) \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
 | 44 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
-| 45 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
-| 46 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
-| 47 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
+| 45 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
+| 46 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
+| 47 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 48 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 49 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
 | 50 | [Ciclo](https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 2:52 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 60 | [Oro](https://open.spotify.com/track/6XTYDLahRhEf98TOPk0y96) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:26 |
 | 61 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 62 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 |
-| 63 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 64 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 63 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
+| 64 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 65 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
 | 66 | [Flamingo](https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt) | 4:45 |
 | 67 | [NTE](https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [NTE](https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu) | 2:51 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 86 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
 | 87 | [Missed Connection](https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:51 |
 | 88 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [Daniela Garcia](https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |
-| 89 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
-| 90 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
+| 89 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
+| 90 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
 | 91 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 92 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 93 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 |

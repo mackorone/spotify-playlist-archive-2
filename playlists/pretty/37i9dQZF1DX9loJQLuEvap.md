@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > Celebrating the greatest female voices of all time\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,830,842 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,831,101 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 15 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
 | 16 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
 | 17 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
-| 18 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
-| 19 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 18 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 19 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
 | 20 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
 | 21 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
 | 22 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 31 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 | 32 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
 | 33 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 |
-| 34 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
-| 35 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
+| 34 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
+| 35 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 36 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
-| 37 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
-| 38 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 37 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
+| 38 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 39 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
 | 40 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 |
 | 41 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |

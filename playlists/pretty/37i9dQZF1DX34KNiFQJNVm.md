@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus Fernades com Grupo Menos é Mais, BTS, Alok com Khalid,  Budah com Duquesa, Dilsinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,270,007 likes - 82 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,270,088 likes - 82 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,6 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [Sonho](https://open.spotify.com/track/4Kn68aVaR75vOirUjjmj0M) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [RESILIENTE](https://open.spotify.com/album/4m9tfgFqqp5P1PaiSliniC) | 3:12 |
 | 80 | [No One Will Save You](https://open.spotify.com/track/05YNZmZxNfyNA2TvaE5H0c) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Libra](https://open.spotify.com/artist/58oCcA2IXrVg5ZEN3Hywpq), [Parmi](https://open.spotify.com/artist/6LTcNC8jITmAKE5qG9Ghsa) | [No One Will Save You](https://open.spotify.com/album/0Sd9DZyrdJ2rP0SZOqHrKF) | 2:59 |
 | 81 | [ESTAÇÃO DO PRAZER](https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS), [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [ESTAÇÃO DO PRAZER](https://open.spotify.com/album/6AFXCGQQA2rwH76SjQnRQw) | 2:51 |
-| 82 | [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Serena](https://open.spotify.com/artist/1QqxEX3S0mKAPLNKX7rI0D) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 |
+| 82 | [Vida Não Termina](https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi) | [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x), [Helena Serena](https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4) | [Vida Não Termina](https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss) | 3:05 |
 
 Snapshot ID: `AAAAAAY9lRorlgnP8beiFda34+ZURmPX`

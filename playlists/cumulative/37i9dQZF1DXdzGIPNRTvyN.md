@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-446 songs - 20 hr 58 min
+447 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aphrodite Stream](https://open.spotify.com/track/22urCikBkWkQbjH0QhEo9S) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Aphrodite Stream](https://open.spotify.com/album/6ibE6T7V1pd4EOc8rMyNLC) | 2:46 | 2025-05-21 |  |
 | [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 | 2024-12-13 |
 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 | 2023-03-13 | 2026-01-22 |
+| [Archipelago](https://open.spotify.com/track/0IWNLm9QRIoXOjaepNJLhh) | [Abstract Time](https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ) | [Archipelago](https://open.spotify.com/album/76ohf0RIK8o31vwN8TPqND) | 2:50 | 2026-03-16 |  |
 | [Arms Reach](https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Arms Reach](https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl) | 2:53 | 2024-03-01 | 2025-04-30 |
 | [Arvandor](https://open.spotify.com/track/19eZSugiuVjEkYF88fiOmH) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Arvandor](https://open.spotify.com/album/6toRRHyZY9NCU1eFy4s0En) | 2:37 | 2026-03-16 |  |
 | [As Time Passes By](https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Time Passes By](https://open.spotify.com/album/663yqKc7AQSnZuBhw1x2yi) | 2:50 | 2024-01-30 | 2026-01-23 |
@@ -102,7 +103,7 @@
 | [Dreamcatcher](https://open.spotify.com/track/4A2JmTd01YNCzOMXjpwr5i) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Dreamcatcher](https://open.spotify.com/album/34Vl73RJNA5jugvhfzVqPA) | 3:12 | 2026-03-16 |  |
 | [Dreamer's Lagoon](https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Dreamer's Lagoon](https://open.spotify.com/album/0lUTIBDFnQAtBaK24GrjgR) | 3:34 | 2025-05-28 |  |
 | [Drift Into Bliss](https://open.spotify.com/track/6zmTz7l8hkKEvRbB2FOv3o) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drift Into Bliss](https://open.spotify.com/album/08Jdy5GrKftQxxM8GXSuKx) | 3:32 | 2024-10-24 | 2026-03-17 |
-| [Drifting](https://open.spotify.com/track/59R2NRjXgsC98rTiQGXmwN) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [Drifting](https://open.spotify.com/album/2D411fqyCNgb38hJXxi9MO) | 2:24 | 2026-03-16 |  |
+| [Drifting](https://open.spotify.com/track/59R2NRjXgsC98rTiQGXmwN) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [Drifting](https://open.spotify.com/album/2D411fqyCNgb38hJXxi9MO) | 2:24 | 2026-03-16 | 2026-03-23 |
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-18 | 2026-02-12 |
 | [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-01 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 | 2024-08-23 |

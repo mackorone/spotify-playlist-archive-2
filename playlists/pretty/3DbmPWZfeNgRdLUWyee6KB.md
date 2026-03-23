@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,288 likes - 189 songs - 11 hr 2 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 193 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Com'eri](https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Com'eri](https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf) | 4:09 |
 | 2 | [Voices](https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2) | [Pseudo the Beatguy](https://open.spotify.com/artist/2Dzm6zujQAWKyV9X1T8N1f), [Julia A](https://open.spotify.com/artist/4UuZOWk0ZQuRTtCyj1PgIe) | [Vin\-tagé](https://open.spotify.com/album/6sdhZZcUOqSVsZZKoLnHEC) | 4:38 |
-| 3 | [Our Lady Sanctuary](https://open.spotify.com/track/7GQ0PEFA3ZMTV5xn3Az7WX) | [Claude.ink](https://open.spotify.com/artist/1IbT88ZSG7qOieJEjrdfU2) | [Hermit](https://open.spotify.com/album/1XC0EQs1kvFxon3FFlsmYt) | 4:00 |
-| 4 | [Tranced](https://open.spotify.com/track/6lAhFQSwozOyNAEmTSeYxf) | [Lreds](https://open.spotify.com/artist/484AKhrbNYknWTxBc5cn0K) | [Tranced](https://open.spotify.com/album/1GPbQAIy1QwhNcLvRgBqaU) | 2:50 |
-| 5 | [If you knew](https://open.spotify.com/track/7x8vbqvhQ83beUkjp0F1W1) | [Jam TheBrain](https://open.spotify.com/artist/0LMGEl8PogVM5doRZv3e59) | [If you knew](https://open.spotify.com/album/4zxqg5klnXPE56P6h7Ehq5) | 2:50 |
-| 6 | [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 |
-| 7 | [MIGHT BE](https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 2:49 |
-| 8 | [Every Night](https://open.spotify.com/track/41qMG3eHjNneqPAsSiUSFr) | [Dj Vanwells](https://open.spotify.com/artist/6mdpXV2RQJw6ELeGvJ2Iuz) | [Every Night](https://open.spotify.com/album/052cHSsou6KeY0CJ36vXgt) | 3:01 |
-| 9 | [MIGHT BE](https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 2:49 |
+| 3 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 |
+| 4 | [Our Lady Sanctuary](https://open.spotify.com/track/7GQ0PEFA3ZMTV5xn3Az7WX) | [Claude.ink](https://open.spotify.com/artist/1IbT88ZSG7qOieJEjrdfU2) | [Hermit](https://open.spotify.com/album/1XC0EQs1kvFxon3FFlsmYt) | 4:00 |
+| 5 | [Tranced](https://open.spotify.com/track/6lAhFQSwozOyNAEmTSeYxf) | [Lreds](https://open.spotify.com/artist/484AKhrbNYknWTxBc5cn0K) | [Tranced](https://open.spotify.com/album/1GPbQAIy1QwhNcLvRgBqaU) | 2:50 |
+| 6 | [If you knew](https://open.spotify.com/track/7x8vbqvhQ83beUkjp0F1W1) | [Jam TheBrain](https://open.spotify.com/artist/0LMGEl8PogVM5doRZv3e59) | [If you knew](https://open.spotify.com/album/4zxqg5klnXPE56P6h7Ehq5) | 2:50 |
+| 7 | [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 |
+| 8 | [MIGHT BE](https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 2:49 |
+| 9 | [Every Night](https://open.spotify.com/track/41qMG3eHjNneqPAsSiUSFr) | [Dj Vanwells](https://open.spotify.com/artist/6mdpXV2RQJw6ELeGvJ2Iuz) | [Every Night](https://open.spotify.com/album/052cHSsou6KeY0CJ36vXgt) | 3:01 |
 | 10 | [You've Changed](https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2) | [You've Changed](https://open.spotify.com/album/3Znjs81cIbbQKjJFd3yh0n) | 4:04 |
 | 11 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 |
 | 12 | [SLOW MOTION](https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [SLOW MOTION](https://open.spotify.com/album/7k2W3QNQoaesDP3UCg0oDW) | 2:35 |
@@ -197,5 +197,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 187 | [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 |
 | 188 | [Forse](https://open.spotify.com/track/3ntC3vnaj8bxxQOOSt1EFu) | [SlowlyMe](https://open.spotify.com/artist/21EPDLk3UH7IlOQccJBoVH) | [Forse](https://open.spotify.com/album/5z4E6o3AmQcATl52AMb3bM) | 2:55 |
 | 189 | [Getaway](https://open.spotify.com/track/3g1Vn9PzhA3vstx5fpN5Jd) | [Kathleen Elle](https://open.spotify.com/artist/4DeO2GdonsOqpAKJSYE0QB) | [Memory Lane](https://open.spotify.com/album/4Cum7RJmlLoV04qNTQYzmb) | 3:52 |
+| 190 | [A Pit Stop, Not A Home](https://open.spotify.com/track/59B7NkkjSn8Gjbauh9CgXa) | [Suhendra Balada](https://open.spotify.com/artist/3yradc9hnbQk2ejmsrljFZ) | [A Pit Stop, Not A Home](https://open.spotify.com/album/14T5E9auTa0CU6AuiOIeFA) | 3:10 |
+| 191 | [You're On Fire](https://open.spotify.com/track/6YibqNgzTou7LdCBrflhAs) | [Ali Rice](https://open.spotify.com/artist/3mlAU99Yc2sacEsfSII1dS) | [You're On Fire](https://open.spotify.com/album/30QoW8bs3hZzTZgYzJEipx) | 3:55 |
+| 192 | [I Know](https://open.spotify.com/track/4D5qgeBraoJAW8AJ3x2JKo) | [RunAway](https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp) | [BEAUTIFUL THINGS](https://open.spotify.com/album/5lFveknfRhJv4euAt7VYo0) | 1:26 |
+| 193 | [Dal Y Funud](https://open.spotify.com/track/3kAjBPgKnC5XLyU0DGObQy) | [Ci Gofod](https://open.spotify.com/artist/05frSoOdiU0SeVIu5aVBPH) | [Dal Y Funud](https://open.spotify.com/album/2CfpqeQinnCMdEfJwDUJWL) | 2:40 |
 
-Snapshot ID: `AAAR8N1SCwsLThMiJKrt3Hmieenf3p4S`
+Snapshot ID: `AAAR9tS+/twbJz0ve5OqmmKlEaVpDVZ/`

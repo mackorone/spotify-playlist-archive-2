@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 187803,
+  "num_followers": 187858,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-27 05:00:41",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2026-02-27 05:00:41",
-      "album": {
         "name": "Dub Reggae",
         "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 218693,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
+    },
+    {
+      "added_at": "2026-02-27 05:00:41",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2026-02-27 05:00:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-27 05:00:41",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2026-02-27 05:00:41",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 275719,
       "name": "Garden",
       "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
+    },
+    {
+      "added_at": "2026-02-27 05:00:41",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2026-02-27 05:00:41",

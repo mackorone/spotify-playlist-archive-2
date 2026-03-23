@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,851 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,855 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 22 | [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 23 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 |
 | 24 | [God Spoke](https://open.spotify.com/track/7LonAeydU2VQZwtiq3Z1ED) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [God Spoke](https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke) | 1:14 |
-| 25 | [into the black hole](https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:59 |
+| 25 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 |
 | 26 | [See You Assholes Later](https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:30 |
 | 27 | [Nate Growing Up \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 28 | [Kill For Your Love](https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:11 |
-| 29 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 |
+| 29 | [into the black hole](https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:59 |
 | 30 | [Heaven Can Wait \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:15 |
 | 31 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
 | 32 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
 | 50 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 |
 
-Snapshot ID: `abyOAAAAAADxunuWijBkxYhz17G2uicQ`
+Snapshot ID: `ab3fgAAAAABSoFkG3IaUbWEbqgYiTUpA`

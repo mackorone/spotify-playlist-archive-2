@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,829 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,843 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 19 | [사랑했나봐](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
 | 20 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 21 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
-| 22 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
-| 23 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
+| 22 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
+| 23 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
 | 24 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 |
 | 25 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 |
 | 26 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 40 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 41 | [챔피언](https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy 3](https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL) | 3:06 |
 | 42 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
-| 43 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
-| 44 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 |
+| 43 | [So Cool](https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SO COOL](https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO) | 3:21 |
+| 44 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 |
 | 45 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 46 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 47 | [Sweet Dream](https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo) | [Jang Na\-ra](https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN) | [Sweet Dream](https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt) | 3:56 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 56 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
 | 57 | [미인](https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [Para Ti](https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo) | 3:38 |
 | 58 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
-| 59 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
+| 59 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 60 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
-| 61 | [Partner for Life](https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [The 3rd Masterpiece](https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV) | 4:58 |
-| 62 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
+| 61 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
+| 62 | [Partner for Life](https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [The 3rd Masterpiece](https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV) | 4:58 |
 | 63 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
 | 64 | [혜성](https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [혜성](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) | 3:14 |
 | 65 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
-| 66 | [죄와 벌 \(罪와 罰\)](https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:03 |
-| 67 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 |
+| 66 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 |
+| 67 | [죄와 벌 \(罪와 罰\)](https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:03 |
 | 68 | [Tears](https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V) | [So Chan\-Whee](https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI) | [DJ Chully's Handsome Vol.1](https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH) | 3:25 |
 | 69 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 |
 | 70 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |

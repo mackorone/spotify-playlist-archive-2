@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 375635,
+  "num_followers": 375650,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAyJpLThwMEzp3lZrvLITul",
+  "snapshot_id": "ab3fgAAAAAAXAaiwAJB25sxvjpKy5Yo9",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Before You Accuse Me",
-      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 471546,
       "name": "Old Love - Acoustic Live",
       "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Before You Accuse Me",
+      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,161 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,159 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 41 | [Mood Ring](https://open.spotify.com/track/1GSTBJv8vb5zgiKtERUrf8) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 2:57 |
 | 42 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
 | 43 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 44 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
-| 45 | [Stay Golden](https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 1:58 |
+| 44 | [Stay Golden](https://open.spotify.com/track/3LDShVeLxQkQldsomd0n2k) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 1:58 |
+| 45 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
 | 46 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
 | 47 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 |
 | 48 | [The Ghost](https://open.spotify.com/track/54VdvfLY9vC1bxDdhpWbxW) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Speed Of Darkness](https://open.spotify.com/album/69JRRb97hIJIHMDqupL67Q) | 4:04 |
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 53 | [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 |
 | 54 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
 | 55 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
-| 56 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
-| 57 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
-| 58 | [Your Ghost](https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 3:05 |
+| 56 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
+| 57 | [Your Ghost](https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 3:05 |
+| 58 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
 | 59 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 60 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 61 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 62 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |
 | 63 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
 | 64 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 65 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 65 | [Keys Down If You Stay](https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [The Gloss](https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD) | 3:46 |
 | 66 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 |
-| 67 | [Keys Down If You Stay](https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [The Gloss](https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD) | 3:46 |
-| 68 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/47llw29VMRqLBcAZt0KmBQ) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/51358heB7GDrz5qCSkXshW) | 2:57 |
-| 69 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
+| 67 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 68 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
+| 69 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/47llw29VMRqLBcAZt0KmBQ) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/51358heB7GDrz5qCSkXshW) | 2:57 |
 | 70 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
 | 71 | [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 |
 | 72 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |

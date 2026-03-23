@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441,620 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,441,683 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 18 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
 | 19 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 20 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
-| 21 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
-| 22 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
+| 21 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
+| 22 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 | 23 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
 | 24 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 25 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 69 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 70 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
 | 71 | [Nothing Compares 2 U](https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy) | 4:40 |
-| 72 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
-| 73 | [Fake Plastic Trees](https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 4:50 |
+| 72 | [Fake Plastic Trees](https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 4:50 |
+| 73 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
 | 74 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
 | 75 | [1979](https://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2) | 4:25 |
 

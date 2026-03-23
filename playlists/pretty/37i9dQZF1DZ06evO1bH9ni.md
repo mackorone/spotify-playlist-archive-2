@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,178 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,225 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 25 | [La Tóxica](https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:32 |
 | 26 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
 | 27 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
-| 28 | [El Abuelo](https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 3:07 |
-| 29 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
+| 28 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
+| 29 | [El Abuelo](https://open.spotify.com/track/2NjrMgCv32wUtsTTWP0uFb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 3:07 |
 | 30 | [Sin Foto de Perfil](https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Foto de Perfil](https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF) | 2:51 |
 | 31 | [Ay Nomás](https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:37 |
 | 32 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 44 | [Termino Con Lo Nuestro](https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Termino Con Lo Nuestro](https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6) | 3:37 |
 | 45 | [Home Run](https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:48 |
 | 46 | [En Fin](https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:46 |
-| 47 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
-| 48 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 |
+| 47 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 |
+| 48 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
 | 49 | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Yo Nací Pa' Ser Jefe](https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa) | 2:48 |
 | 50 | [Me Derrito](https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Derrito](https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC) | 2:50 |
 
-Snapshot ID: `abyOAAAAAABH7F/eVNQsPdg+DYHcVbtm`
+Snapshot ID: `ab3fgAAAAABm7lIbO8dTyq63q746IWsd`

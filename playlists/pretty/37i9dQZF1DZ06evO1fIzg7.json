@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20705,
+  "num_followers": 20706,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADG0Y29oDkd9vFFDheBS8GU",
+  "snapshot_id": "ab3fgAAAAADJQhfYkzz/3LIuQ7h68EpR",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,
@@ -800,15 +816,15 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Everything is Sweet",
-      "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+      "duration_ms": 222466,
+      "name": "China Heart",
+      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     },
     {
       "added_at": null,
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -856,25 +872,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+      "duration_ms": 253213,
+      "name": "Love Is a Camera",
+      "url": "https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL"
     }
   ],
   "unique_name": "This Is Sophie Ellis-Bextor",

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 832,
+  "num_followers": 834,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFgK63rKCyc6yIf0wFAaOq8JaLUUSc",
+  "snapshot_id": "AAAFgcw5LAEW2XeKRlHlv68VAHebdRaC",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1375,6 +1375,22 @@
       "duration_ms": 172608,
       "name": "Gave my life for Rock'n'Roll",
       "url": "https://open.spotify.com/track/0CDJYw9HCLnv3IUTPSke9e"
+    },
+    {
+      "added_at": "2026-03-22 17:29:05",
+      "album": {
+        "name": "Lumen Del Mundo",
+        "url": "https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H"
+      },
+      "artists": [
+        {
+          "name": "23 And Beyond The Infinite",
+          "url": "https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW"
+        }
+      ],
+      "duration_ms": 198948,
+      "name": "Horsedance",
+      "url": "https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm"
     }
   ],
   "unique_name": "Unsigned Rock",

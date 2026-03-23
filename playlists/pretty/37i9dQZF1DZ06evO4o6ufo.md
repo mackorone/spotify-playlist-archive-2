@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,817 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,854 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 21 | [El 10 De Mayo](https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:31 |
 | 22 | [Agarrense De Los Pelos](https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:50 |
 | 23 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
-| 24 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
+| 24 | [Los Fletes](https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Fletes](https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4) | 1:51 |
 | 25 | [GPI](https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:13 |
-| 26 | [Los Fletes](https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Los Fletes](https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4) | 1:51 |
+| 26 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
 | 27 | [Que Sube Y Baja \(En Vivo\)](https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:01 |
 | 28 | [Te Ves Fatal](https://open.spotify.com/track/06i9ONJKurz5snGZ5JJRbn) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:49 |
 | 29 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 |
 | 50 | [3 En Punto](https://open.spotify.com/track/79bIiTWFuPBuvaGu24PVQA) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Avance Sin Fin](https://open.spotify.com/album/4uG3qJNwJo5yk153qhWtji) | 2:46 |
 
-Snapshot ID: `abyOAAAAAABluwwhyxWTI8ULniLpnUcD`
+Snapshot ID: `ab3fgAAAAAB+nt2ndYhDBmJlMAR0NI1m`

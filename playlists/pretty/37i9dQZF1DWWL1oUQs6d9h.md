@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,009 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,017 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 26 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 |
 | 27 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 |
 | 28 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 |
-| 29 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 |
-| 30 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 |
+| 29 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 |
+| 30 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 |
 | 31 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 | 32 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
 | 33 | [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 35 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 36 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 37 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
-| 38 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
-| 39 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 |
+| 38 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 |
+| 39 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
 | 40 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 41 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
 | 42 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 45 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 |
 | 46 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 |
 | 47 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
-| 48 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
-| 49 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
+| 48 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
+| 49 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
 | 50 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
 
 Snapshot ID: `AAAAAP00OdKiq0aurjlXi9nPUNqYqBpP`

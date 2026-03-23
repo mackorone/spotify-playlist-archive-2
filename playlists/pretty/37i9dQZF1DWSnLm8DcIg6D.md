@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 
 > the soundtrack to your girl dinner\. cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,167 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,216 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 22 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 23 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 |
 | 24 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 25 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 |
-| 26 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
+| 25 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
+| 26 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 |
 | 27 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 28 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 |
 | 29 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 65 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 66 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [So Blu](https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU) | 4:10 |
 | 67 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
-| 68 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
-| 69 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 |
+| 68 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 |
+| 69 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 | 70 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 71 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 72 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |

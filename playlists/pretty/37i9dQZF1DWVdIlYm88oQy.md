@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > The Latin soundtrack of the 70s! Cover: Julio Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,652 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,695 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 45 | [Amigo](https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Inolvidables](https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl) | 3:28 |
 | 46 | [Qué Será](https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Serie Platino](https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ) | 3:29 |
 | 47 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
-| 48 | [Se a Cabo](https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 2:54 |
-| 49 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
+| 48 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
+| 49 | [Se a Cabo](https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 2:54 |
 | 50 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
 
 Snapshot ID: `AAAAAFNU3X8S9ei6PcoLKpzx8FEBtGPV`

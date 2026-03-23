@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Youth
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,505 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,741 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,614 likes - 61 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,610 likes - 61 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 9 | [Shona Malanga](https://open.spotify.com/track/21rk9fuo6MGaOBLyTa0yVZ) | [Sterio T](https://open.spotify.com/artist/6Aj0fNu6zu06zFF90C0PsG) | [Shona Malanga](https://open.spotify.com/album/6rKHTwWyF87TJfZMBKuTnT) | 6:56 |
 | 10 | [Umgubho](https://open.spotify.com/track/3TEt6Z7LiyB0IKRTWmpaun) | [Son Of Nguni](https://open.spotify.com/artist/130qq1ptjWR60uyjiBVofN) | [Umgubho](https://open.spotify.com/album/0EnJUgglPDfC0vbUTzEbq6) | 5:40 |
 | 11 | [The Iron Fist \- Extended Mix](https://open.spotify.com/track/7A7RjqHueiQvI0H7quamtT) | [De Cave Man](https://open.spotify.com/artist/1WM5ucBUyO0fikU46NNdrf), [TonicVolts](https://open.spotify.com/artist/2cMEEboSWm4LYC48znIDPV), [Shona SA](https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk) | [The Iron Fist](https://open.spotify.com/album/3oE4XuXQT9BwVIriAxeCb5) | 7:28 |
-| 12 | [Closer](https://open.spotify.com/track/4Pqume6IMFJO51bv9v3Joz) | [Loudr](https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj), [Sounds Human \(US\)](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [S.A.N.E](https://open.spotify.com/artist/1HtqQiqjT43djCWjzI9Nti) | [Closer](https://open.spotify.com/album/78fVXahvUO9sKQqsptYthB) | 2:35 |
+| 12 | [Closer](https://open.spotify.com/track/4Pqume6IMFJO51bv9v3Joz) | [Loudr](https://open.spotify.com/artist/5hHhTaBiDryLXDgfZCIFHj), [SOUNDS HUMAN](https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G), [S.A.N.E](https://open.spotify.com/artist/1HtqQiqjT43djCWjzI9Nti) | [Closer](https://open.spotify.com/album/78fVXahvUO9sKQqsptYthB) | 2:35 |
 | 13 | [Wajua](https://open.spotify.com/track/2Mqw8qvBBq9ozOxqZccdig) | [EQUIE](https://open.spotify.com/artist/2A2mRTJ7BkhvI0X4eAezqb), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM), [MELO\-T](https://open.spotify.com/artist/01FyVQ33X6fGz8W7ttHaDL) | [Wajua](https://open.spotify.com/album/4RyAtK1z190HOmv8B3JQz8) | 6:36 |
 | 14 | [Phantom \- Original Mix](https://open.spotify.com/track/39NWjUqpyT5phUwVG7xo8e) | [Mkhuz3ro](https://open.spotify.com/artist/3nFjsuDKJvmjNWEUtw396H) | [Phantom](https://open.spotify.com/album/0SXHoQnE0Vm4GuY2V9lX1F) | 8:01 |
 | 15 | [Moozikah \- Radio Mix](https://open.spotify.com/track/1IwKOHCNE8TwanPodf3uDc) | [Dj Soso](https://open.spotify.com/artist/0KTufsVK3oqCQ2EJ8LNp5p), [Ozy Man](https://open.spotify.com/artist/2BzxcUTMkpXcr03HBvQTo1) | [Moozikah](https://open.spotify.com/album/6OBnh2SayhqDzBGBwOM2KT) | 3:59 |

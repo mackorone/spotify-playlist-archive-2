@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Usted Se\u00f1alemelo",
-  "num_followers": 295149,
+  "num_followers": 295117,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-13 04:00:41",
       "album": {
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "duration_ms": 183681,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
         "name": "Esa Estrella",
         "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2026-03-13 04:00:41",
       "album": {
-        "name": "\u00dasame",
-        "url": "https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6"
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
       },
       "artists": [
         {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
         }
       ],
-      "duration_ms": 183681,
-      "name": "\u00dasame",
-      "url": "https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE"
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2026-03-13 04:00:41",
@@ -899,22 +915,6 @@
       "duration_ms": 154509,
       "name": "Por Si Ma\u00f1ana No Estoy",
       "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
-    },
-    {
-      "added_at": "2026-03-13 04:00:41",
-      "album": {
-        "name": "Escombros",
-        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Todo Se Detiene Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2026-03-13 04:00:41",

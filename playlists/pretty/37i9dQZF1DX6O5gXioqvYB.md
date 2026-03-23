@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > \(bentornato\) Dimartino in cover + tutto il meglio delle novità indie 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,604 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,603 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

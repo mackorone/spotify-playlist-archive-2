@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-376 songs - 23 hr 3 min
+377 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2025-01-09 | 2025-04-12 |
 | [Diamonds In The Sky](https://open.spotify.com/track/44g59xGQUPRWOWbycZR8VM) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 4:06 | 2024-04-19 |  |
 | [Dig](https://open.spotify.com/track/59OSZl55grA1Qu6bm2OPPq) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:17 | 2024-04-19 |  |
+| [dirty wedding dress](https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [dirty wedding dress](https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w) | 4:49 | 2026-03-22 |  |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2024-04-19 |  |
 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 | 2024-04-19 |  |
 | [dodger blue \(feat\. wallie the sensei, siete7x, roddy ricch\)](https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:11 | 2025-02-14 |  |

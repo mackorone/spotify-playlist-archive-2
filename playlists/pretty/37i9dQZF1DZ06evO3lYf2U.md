@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,915 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,013 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sprinter](https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/7sGpm3nDvQXOflht2c6wlK) | 3:49 |
-| 2 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
-| 3 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 2 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 3 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
 | 4 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
 | 5 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 6 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 49 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
 | 50 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 
-Snapshot ID: `abyOAAAAAABpoTV8jZfq8kXiNz5bmpAs`
+Snapshot ID: `ab3fgAAAAADnQMRYoqlyYIlqblXaLQTh`

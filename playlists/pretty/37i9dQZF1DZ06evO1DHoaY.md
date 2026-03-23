@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,072,744 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,072,788 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 12 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 13 | [Real Situation](https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:08 |
 | 14 | [Natural Mystic](https://open.spotify.com/track/5uqQyRJV8qLt8zEqnvsBVK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:27 |
-| 15 | [Roots, Rock, Reggae](https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:38 |
+| 15 | [Positive Vibration](https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:33 |
 | 16 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 |
 | 17 | [Coming In From The Cold](https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:31 |
 | 18 | [One Love / People Get Ready](https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 2:52 |
-| 19 | [Positive Vibration](https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:33 |
+| 19 | [Roots, Rock, Reggae](https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:38 |
 | 20 | [Ride Natty Ride](https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 21 | [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 |
 | 22 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 47 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 48 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 |
 
-Snapshot ID: `abyOAAAAAAAYWMrqOzzVw7DBp9hwUp6t`
+Snapshot ID: `ab3fgAAAAABxxmr8JSne7xiFHevyLr4K`

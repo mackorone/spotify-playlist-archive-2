@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,314 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,348 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 18 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
 | 19 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 | 20 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
-| 21 | [Poison Ivy \- 2007 Remaster; Remastered](https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:44 |
-| 22 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
+| 21 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
+| 22 | [Poison Ivy \- 2007 Remaster; Remastered](https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:44 |
 | 23 | [Heart and Soul](https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 1:53 |
 | 24 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
 | 25 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 43 | [I Wanna Be the Leader](https://open.spotify.com/track/3PRCqig60uovdGVM7Lzi7d) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:20 |
 | 44 | [Lily Maebelle](https://open.spotify.com/track/0MQCvlztZS867JqudUmAML) | [The Valentines](https://open.spotify.com/artist/6gO9O0Iss2ipZuskVnmA9a) | [The Best Of The Valentines](https://open.spotify.com/album/5MDFQiAuvmYVJfhmN8jOTP) | 2:18 |
 | 45 | [Earth Angel](https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Original Hit Recording \- Earth Angel](https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ) | 2:58 |
-| 46 | [Whispering Bells](https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:26 |
-| 47 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
-| 48 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
-| 49 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/5SJMX7eheCGNEymi6mjhtT) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
-| 50 | [Since I Don't Have You](https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You \- Pennies From Heaven](https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE) | 2:36 |
+| 46 | [Why Do Fools Fall In Love? \- Single Version](https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [American Graffiti](https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC) | 2:19 |
+| 47 | [16 Candles](https://open.spotify.com/track/4FgGZFdLekTIjocfAu9Mxd) | [The Crests](https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U) | [Jukebox One Hit Wonders](https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE) | 2:52 |
+| 48 | [Whispering Bells](https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:26 |
+| 49 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
+| 50 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
 
 Snapshot ID: `AAAAAAoTQSDi64SiLuA5zbnRetUO3q9V`

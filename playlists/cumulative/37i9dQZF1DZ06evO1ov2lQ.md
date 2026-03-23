@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-189 songs - 15 hr 56 min
+190 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Stars Have Names \- Edit](https://open.spotify.com/track/7pwBOIIrYmqMRxtB5mel5z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [All Stars Have Names](https://open.spotify.com/album/2gQ51gRzLY8bVAMzlPbxBE) | 6:50 | 2025-05-16 | 2025-06-25 |
 | [Alla Diletta Mia](https://open.spotify.com/track/1BdIyQmy1CUbsKBKExN9Kq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 3:36 | 2022-09-01 | 2024-04-04 |
 | [Alteret](https://open.spotify.com/track/0PDeLl4GJv7BSRv8xMMYuP) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 2:54 | 2023-04-02 | 2023-12-15 |
+| [Altostratus](https://open.spotify.com/track/76wf55JNNHVdAb14TVwyw9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 5:11 | 2026-03-23 |  |
 | [Ancient Campfire](https://open.spotify.com/track/0s5EmEIfm5BGHSfVL76TfM) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 7:42 | 2022-06-16 | 2022-09-22 |
 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 | 2022-05-29 |  |
 | [Antennaria](https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:04 | 2022-05-29 | 2026-03-17 |
@@ -43,7 +44,7 @@
 | [Chukhung](https://open.spotify.com/track/6bsaqjuk7KIxAU8CNXc26t) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 7:34 | 2022-05-29 |  |
 | [Cloudwalker Ii](https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 5:26 | 2022-05-29 |  |
 | [Daddylonglegs \- Remastered](https://open.spotify.com/track/02aohSIlQnB7sZoqah4T3P) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Birmingham Frequencies \(Remastered\)](https://open.spotify.com/album/079OK32RSGIDNazSaTLT1o) | 2:59 | 2022-09-12 | 2025-02-16 |
-| [Daphnis 26](https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:45 | 2022-08-15 |  |
+| [Daphnis 26](https://open.spotify.com/track/2H4XyND3AZZcfvgIcEjMLb) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:45 | 2022-08-15 | 2026-03-23 |
 | [Daphnis 26](https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 6:45 | 2024-05-04 | 2025-12-05 |
 | [Decryption](https://open.spotify.com/track/0xlN3TAg9tMkuALgL0bsno) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:03 | 2022-09-06 | 2025-11-01 |
 | [Decryption \- Sketch Remix 1](https://open.spotify.com/track/3OhW6WrTctMrHUOjBNH2ea) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Sketch](https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl) | [Patashnik \[Decrypted By Sketch\]](https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE) | 16:15 | 2024-03-10 | 2024-06-16 |

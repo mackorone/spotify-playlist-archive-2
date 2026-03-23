@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 
 > This is Luis Miguel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,550,583 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,550,853 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 16 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
 | 17 | [Historia De Un Amor](https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:54 |
 | 18 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
-| 19 | [La Gloria Eres Tu](https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:22 |
+| 19 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 20 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 |
-| 21 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
+| 21 | [La Gloria Eres Tu](https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:22 |
 | 22 | [Todo Y Nada](https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:39 |
-| 23 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 |
+| 23 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
 | 24 | [Inolvidable](https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 4:17 |
-| 25 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
+| 25 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 |
 | 26 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
-| 27 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
+| 27 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
 | 28 | [Mucho Corazón](https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:23 |
-| 29 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 |
+| 29 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
 | 30 | [O Tu O Ninguna](https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:16 |
 | 31 | [Un Hombre Busca a Una Mujer](https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:35 |
 | 32 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 49 | [Oro De Ley](https://open.spotify.com/track/2PZtKB8fDoDGLot27oUnWH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 3:58 |
 | 50 | [Somos Novios](https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:11 |
 
-Snapshot ID: `abyOAAAAAACaJ7znjvMUdjLS3ZgmKG/5`
+Snapshot ID: `ab3fgAAAAADO/bFipslC9/9D6VQEJ1x7`

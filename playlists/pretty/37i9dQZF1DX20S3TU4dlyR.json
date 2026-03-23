@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 73933,
+  "num_followers": 73989,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Hasta Que Me Olvides",
+        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 255744,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Hasta Que Me Olvides",
-        "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 255744,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Dimelo Ayer",
-        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
-      },
-      "artists": [
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
-        },
-        {
-          "name": "Cucho Parisi",
-          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "Dimelo Ayer",
-      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
+      },
+      "artists": [
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
+        },
+        {
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
     },
     {
       "added_at": "2026-01-23 03:00:06",

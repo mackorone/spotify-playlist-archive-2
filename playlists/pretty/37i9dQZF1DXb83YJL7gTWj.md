@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 76 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 77 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
 | 78 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 |
-| 79 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 |
-| 80 | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
+| 79 | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Paper Airplanes \(From "A Jazzman's Blues" Soundtrack\)](https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen) | 4:17 |
+| 80 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 |
 | 81 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 82 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 |
 | 83 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/3mJiMnKrpIYSNRRFounMtY) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1VtuNSZUOBUZovbPpHqfh4) | 2:53 |

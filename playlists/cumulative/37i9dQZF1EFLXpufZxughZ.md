@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 10 hr 28 min
+180 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2023-12-13 |  |
 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 | 2024-06-19 |  |
 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 | 2025-01-01 | 2025-01-20 |
+| [7 Minute Drill](https://open.spotify.com/track/7nD7vMJAH12DDjFVfklnI7) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe) | [7 Minute Drill](https://open.spotify.com/album/3mN6JrY5S4F4n23JBIOmK2) | 1:34 | 2026-03-22 |  |
 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 | 2023-12-13 |  |
 | [A m a r i](https://open.spotify.com/track/07MOSn0HvGtx56YwtZoel0) | [Isaac Robertson](https://open.spotify.com/artist/12EyqeSdklVpf3yzVjtcMw) | [2021 Study Hits Playlist](https://open.spotify.com/album/4MhCf5rhMUE8M1O2jWvZvS) | 2:27 | 2025-06-27 | 2025-07-10 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2023-12-13 | 2025-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,388 likes - 44 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,390 likes - 44 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 8 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
 | 9 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:18 |
 | 10 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
-| 11 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
-| 12 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN) | 3:25 |
+| 11 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN) | 3:25 |
+| 12 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
 | 13 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
 | 14 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 15 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C) | 4:01 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 21 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
 | 22 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
 | 23 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
-| 24 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 24 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
 | 25 | [It All Started With A Feeling](https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 2:56 |
-| 26 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
+| 26 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
 | 27 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 28 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
 | 29 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 43 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 | 44 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 
-Snapshot ID: `abyOAAAAAAB2IT89cgStwX8yB7lHRPWV`
+Snapshot ID: `ab3fgAAAAACqgca7cm3BsLgIoF7uro1y`

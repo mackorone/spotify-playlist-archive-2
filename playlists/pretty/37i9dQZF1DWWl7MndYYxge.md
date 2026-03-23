@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,856 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,912 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 8 | [Maneater](https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:33 |
 | 9 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 10 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
-| 11 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
-| 12 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
+| 11 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
+| 12 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 13 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
 | 14 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 15 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 20 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 21 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 22 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 |
-| 23 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
-| 24 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 23 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 24 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 25 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 26 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
 | 27 | [Purple Rain \- 7" Single Edit; 2017 Remaster](https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 45 | [Still Loving You](https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV) | 6:43 |
 | 46 | [On va s'aimer](https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [Liberté](https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu) | 4:06 |
 | 47 | [Such a Shame](https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Natural History \- The Very Best of Talk Talk](https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ) | 4:17 |
-| 48 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
-| 49 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 48 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
+| 49 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
 | 50 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 | 51 | [On the Beach](https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [On the Beach](https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m) | 5:02 |
 | 52 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4Saua162eaEOksYc8TrB74) | 4:39 |

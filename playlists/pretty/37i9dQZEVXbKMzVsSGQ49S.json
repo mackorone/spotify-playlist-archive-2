@@ -1,99 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43466,
+  "num_followers": 43470,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MVICmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        },
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        }
-      ],
-      "duration_ms": 172025,
-      "name": "FOKKIT",
-      "url": "https://open.spotify.com/track/47EtQZ3hh5FTwMapLxtDLm"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 80040,
-      "name": "Birnir Freestyle",
-      "url": "https://open.spotify.com/track/3SFBKbYnK6bW0GJCCicGT6"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "Alveg farinn",
-        "url": "https://open.spotify.com/album/49yLYuCIvr9OsEAfpv8D1f"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 205382,
-      "name": "Alveg farinn",
-      "url": "https://open.spotify.com/track/1jGqqFrSgtknDJCcrpeyBz"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Stoppa t\u00edmann",
-      "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "T\u00fdnda kynsl\u00f3\u00f0in",
         "url": "https://open.spotify.com/album/3w7xfxhGm57qXcOAlClmty"
@@ -117,7 +33,91 @@
       "url": "https://open.spotify.com/track/3XggbP91AwAoSsVHpwS0FV"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        },
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
+        }
+      ],
+      "duration_ms": 172025,
+      "name": "FOKKIT",
+      "url": "https://open.spotify.com/track/47EtQZ3hh5FTwMapLxtDLm"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 80040,
+      "name": "Birnir Freestyle",
+      "url": "https://open.spotify.com/track/3SFBKbYnK6bW0GJCCicGT6"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "Alveg farinn",
+        "url": "https://open.spotify.com/album/49yLYuCIvr9OsEAfpv8D1f"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 205382,
+      "name": "Alveg farinn",
+      "url": "https://open.spotify.com/track/1jGqqFrSgtknDJCcrpeyBz"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Stoppa t\u00edmann",
+      "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/2VlHnGdXiVYsgWPVqV92Pt"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -165,127 +165,7 @@
       "url": "https://open.spotify.com/track/6jQIKcu6F0XTyuY0GojBzh"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        }
-      ],
-      "duration_ms": 182188,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/03ceqd8Jkbe0u8x8h2w9W5"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        }
-      ],
-      "duration_ms": 216511,
-      "name": "Brunas\u00e1r",
-      "url": "https://open.spotify.com/track/2ZIwiRSjNg6QJxRixRBSVX"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Fri\u00f0rik D\u00f3r",
-          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
-        }
-      ],
-      "duration_ms": 71643,
-      "name": "Lei\u00f0in upp (Interlude)",
-      "url": "https://open.spotify.com/track/5FVRSRTHBwgxhSIY6ZpjZV"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Kr\u00f3li",
-          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
-        }
-      ],
-      "duration_ms": 111476,
-      "name": "Kr\u00f3li Freestyle",
-      "url": "https://open.spotify.com/track/0NZgZ3Pkdexd7XulGhFnbI"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 124514,
-      "name": "Gr\u00e1ta inn\u00ed Benz (\u00deorm\u00f3\u00f0ur Remix)",
-      "url": "https://open.spotify.com/track/4Sd2hdg4TpvKJ5p2ZSZuiu"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
-      },
-      "artists": [
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        },
-        {
-          "name": "GDRN",
-          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
-        }
-      ],
-      "duration_ms": 193203,
-      "name": "Manstu",
-      "url": "https://open.spotify.com/track/74xtmjq49OOSM6fQsArXAD"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "\u00cdslenski draumurinn",
         "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
@@ -305,7 +185,7 @@
       "url": "https://open.spotify.com/track/2gXAPQRBr1WWqJos2EaXzM"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -321,23 +201,23 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "MEIRA.",
-        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 50278,
-      "name": "Manstu (Interlude)",
-      "url": "https://open.spotify.com/track/1fQageOytyCNBAHQiNQVfR"
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -353,23 +233,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -380,16 +244,16 @@
           "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
         },
         {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
         }
       ],
-      "duration_ms": 109749,
-      "name": "Maggi Freestyle",
-      "url": "https://open.spotify.com/track/4OhMFgO2bS0YIaoTp5m0Qh"
+      "duration_ms": 182188,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/03ceqd8Jkbe0u8x8h2w9W5"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -409,7 +273,27 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 216511,
+      "name": "Brunas\u00e1r",
+      "url": "https://open.spotify.com/track/2ZIwiRSjNg6QJxRixRBSVX"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -425,23 +309,23 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -457,7 +341,23 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -477,39 +377,7 @@
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "\u00deessum bar",
-        "url": "https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        }
-      ],
-      "duration_ms": 143632,
-      "name": "\u00deessum bar",
-      "url": "https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -525,7 +393,23 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -541,135 +425,27 @@
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
       },
       "artists": [
         {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 111476,
+      "name": "Kr\u00f3li Freestyle",
+      "url": "https://open.spotify.com/track/0NZgZ3Pkdexd7XulGhFnbI"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -685,43 +461,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "100&EINN",
-        "url": "https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97"
-      },
-      "artists": [
-        {
-          "name": "Izleifur",
-          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
-        },
-        {
-          "name": "El\u00edn Hall",
-          "url": "https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb"
-        }
-      ],
-      "duration_ms": 165975,
-      "name": "Hugsa alltof miki\u00f0 um \u00feig",
-      "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -753,23 +493,211 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "GDRN",
+          "url": "https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 193203,
+      "name": "Manstu",
+      "url": "https://open.spotify.com/track/74xtmjq49OOSM6fQsArXAD"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 124514,
+      "name": "Gr\u00e1ta inn\u00ed Benz (\u00deorm\u00f3\u00f0ur Remix)",
+      "url": "https://open.spotify.com/track/4Sd2hdg4TpvKJ5p2ZSZuiu"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "Miklu betri einn",
+        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 144775,
+      "name": "Miklu betri einn",
+      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        },
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "duration_ms": 71643,
+      "name": "Lei\u00f0in upp (Interlude)",
+      "url": "https://open.spotify.com/track/5FVRSRTHBwgxhSIY6ZpjZV"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "MEIRA.",
+        "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
+      },
+      "artists": [
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        }
+      ],
+      "duration_ms": 50278,
+      "name": "Manstu (Interlude)",
+      "url": "https://open.spotify.com/track/1fQageOytyCNBAHQiNQVfR"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "\u00deessum bar",
+        "url": "https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        }
+      ],
+      "duration_ms": 143632,
+      "name": "\u00deessum bar",
+      "url": "https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -785,7 +713,7 @@
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -801,7 +729,23 @@
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -817,7 +761,27 @@
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "100&EINN",
+        "url": "https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "El\u00edn Hall",
+          "url": "https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb"
+        }
+      ],
+      "duration_ms": 165975,
+      "name": "Hugsa alltof miki\u00f0 um \u00feig",
+      "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -833,51 +797,87 @@
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "888",
-        "url": "https://open.spotify.com/album/0itfzvyriZetJjnT2fB7F3"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "Gross",
-          "url": "https://open.spotify.com/artist/1LxLj4vppufRm90N3Avz7k"
-        },
-        {
-          "name": "AL0R1AN",
-          "url": "https://open.spotify.com/artist/1EgWb4z0osdzTtKPVoXwLg"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 124143,
-      "name": "nenni ekki \u00e1 kl\u00fabb",
-      "url": "https://open.spotify.com/track/2q0M0YWEPjyjCjaZcJFQkk"
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "Lj\u00f3sin Kvikna",
-        "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 209558,
-      "name": "Lj\u00f3sin Kvikna",
-      "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2026-03-22 13:40:17",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -897,36 +897,20 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-21 13:42:59",
+      "added_at": "2026-03-22 13:40:17",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": "2026-03-21 13:42:59",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     }
   ],
   "unique_name": "Top 50 - Iceland",

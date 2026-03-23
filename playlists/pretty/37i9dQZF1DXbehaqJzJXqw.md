@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,984 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,312 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 22 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 23 | [Où est la fantaisie ?](https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW) | [Daphné](https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q) | [La fauve](https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS) | 3:47 |
 | 24 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
-| 25 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
-| 26 | [Les Etoiles](https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3qIM1SPrb3OWoATtDxR6eB) | 3:20 |
+| 25 | [Les Etoiles](https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3qIM1SPrb3OWoATtDxR6eB) | 3:20 |
+| 26 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
 | 27 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
 | 28 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
 | 29 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 31 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
 | 32 | [La Pluie Et Le Beau Temps](https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Élodie Frégé](https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii) | [I Could Be Happy](https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x) | 3:31 |
 | 33 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
-| 34 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
-| 35 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
+| 34 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
+| 35 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
 | 36 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
 | 37 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
 | 38 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 44 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
 | 45 | [La javanaise](https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4) | [Juliette Gréco](https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ) | [No\. 8](https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM) | 2:29 |
 | 46 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
-| 47 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
-| 48 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
+| 47 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
+| 48 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
 | 49 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
 | 50 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
 | 51 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,111 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,287 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 31 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
 | 32 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
 | 33 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
-| 34 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:02 |
-| 35 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
+| 34 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
+| 35 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:02 |
 | 36 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 37 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
 | 38 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 57 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 58 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 59 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
-| 60 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 61 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 60 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 61 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 62 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
 | 63 | [Soup for One](https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 5:35 |
 | 64 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |

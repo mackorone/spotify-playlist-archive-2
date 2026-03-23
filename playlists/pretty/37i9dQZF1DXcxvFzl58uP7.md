@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,228 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,563 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 36 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
 | 37 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 38 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
-| 39 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
-| 40 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
+| 39 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
+| 40 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 41 | [blue salvia](https://open.spotify.com/track/5g8C2rOTtUCX5GebDsnYgL) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:17 |
 | 42 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 |
 | 43 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 73 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
 | 74 | [i do luv u](https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [i do luv u](https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u) | 2:28 |
 | 75 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
-| 76 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
-| 77 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
-| 78 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
+| 76 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 77 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
+| 78 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
 | 79 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 80 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 81 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 85 | [closest i could get](https://open.spotify.com/track/1NeLtbdl8PGNX0MlVuLjbu) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [sunniva](https://open.spotify.com/artist/4yRxs98NWc2ZkVBzSapuU2) | [closest i could get](https://open.spotify.com/album/2fhf44KjFkWIPhVVyuTvXT) | 1:26 |
 | 86 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 87 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
-| 88 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 |
-| 89 | [no outline](https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [no outline](https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc) | 3:51 |
+| 88 | [no outline](https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [no outline](https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc) | 3:51 |
+| 89 | [Moving Unison](https://open.spotify.com/track/5vvJ16FQDLDbdR6OkLGnE0) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Moving Unison](https://open.spotify.com/album/3DXmQLHYEbjO047QFb6DTN) | 3:05 |
 | 90 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 91 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 92 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 93 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 94 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
 | 95 | [Goodbye](https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA) | [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB), [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Goodbye](https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD) | 2:54 |
-| 96 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 |
-| 97 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 |
+| 96 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 |
+| 97 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 |
 | 98 | [as far as we can go](https://open.spotify.com/track/1V9rkwOQLJaumfYNvhDirX) | [copperplate](https://open.spotify.com/artist/33gqAcq77ntKPjmks6HLGD) | [as far as we can go](https://open.spotify.com/album/1KpEvkYxcKK5k8BfqzpyHA) | 3:28 |
 | 99 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 |
 | 100 | [Way to You](https://open.spotify.com/track/1SKcOKko7yYh3nnjU1dWao) | [Asi Kemera](https://open.spotify.com/artist/03BlUD9b49ok81QuWdTBUS), [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [Way To You](https://open.spotify.com/album/5A2O8RRQiJYeHueW7N9spF) | 3:08 |

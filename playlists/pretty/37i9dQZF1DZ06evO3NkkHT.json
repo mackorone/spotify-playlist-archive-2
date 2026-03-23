@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 79152,
+  "num_followers": 79199,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAA6SgCKe7eYAzLqTlmZskbu",
+  "snapshot_id": "ab3fgAAAAACZc9ot8DVVy3LGDN+5p/W9",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -239,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 176933,
-      "name": "About You (feat. Tucker Wetmore)",
-      "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
+      "duration_ms": 184133,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo"
     },
     {
       "added_at": null,
@@ -283,6 +263,26 @@
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "About You (feat. Tucker Wetmore)",
+      "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Commentary Version)",
-        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Pray Hard (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 149449,
       "name": "PISTOL PACCIN",
       "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Pray Hard (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 173333,
       "name": "Box Me Up (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/19DC6pFSlhbKG77yG40dQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149767,
       "name": "No Love (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
     },
     {
       "added_at": null,

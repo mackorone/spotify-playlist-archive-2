@@ -4,7 +4,7 @@
 
 > layan je
 
-348 songs - 23 hr 5 min
+349 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 | 2024-05-10 |  |
 | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/track/4uvJC4WMRE0g2hpvZhIO07) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Fareez Fauzi](https://open.spotify.com/artist/44egeaQFX2Ix8J1kUIYYRk) | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/album/4ypQxWOOBy3FmI8aPwXADj) | 5:26 | 2024-07-25 | 2024-08-31 |
 | [Bisa Tanpamu](https://open.spotify.com/track/4C8HJNJEMkpgjELGuSResW) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Bisa Tanpamu](https://open.spotify.com/album/4Ln1aLoPIWbVq9qqHPP1tW) | 4:06 | 2024-01-18 | 2024-01-26 |
-| [Bisakah?](https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Bisakah?](https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V) | 3:38 | 2025-05-16 |  |
+| [Bisakah?](https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Bisakah?](https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V) | 3:38 | 2025-05-16 | 2026-03-23 |
 | [Bodohnya Aku](https://open.spotify.com/track/6fhzeXO35qmuB4ZKW9FD2j) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe) | [Bodohnya Aku](https://open.spotify.com/album/5uW54jIdd3kcwaFTlYB8NP) | 3:18 | 2024-10-03 | 2024-10-18 |
 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 | 2026-02-20 |  |
 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 | 2025-06-19 |  |
@@ -274,6 +274,7 @@
 | [Sandera \- From "Khunsa"](https://open.spotify.com/track/51P7UWkZ77Ez6OPGwZErnW) | [Mila](https://open.spotify.com/artist/6CCG6N1JVgAeb8nxClJnK8) | [Sandera \(From "Khunsa"\)](https://open.spotify.com/album/3xRHzMztf5fIGil9is0qZr) | 3:51 | 2024-03-07 | 2024-04-06 |
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2024-08-30 |  |
 | [Sayang](https://open.spotify.com/track/5SFUIvR0os4biVWJKbeSiY) | [Zaki Zainal](https://open.spotify.com/artist/5aEBebt69qEdtvEeL2CtJh) | [Sayang](https://open.spotify.com/album/7KJcu7rURKk2NO6nvYC8Z2) | 3:25 | 2024-02-15 | 2024-02-23 |
+| [Sayang Orang Sama](https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y) | [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Sayang Orang Sama](https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL) | 3:22 | 2026-02-20 |  |
 | [Sayap](https://open.spotify.com/track/237lUKdnLP40fmVe9EmDmS) | [Elly Mazlein](https://open.spotify.com/artist/1XxkGZrMNFgpiuo1We3j3j) | [Sayap](https://open.spotify.com/album/7uBZKIo48QAF5kMyW6bGY7) | 3:37 | 2024-01-25 | 2024-02-02 |
 | [Secukupnya](https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:25 | 2024-01-18 | 2026-02-21 |
 | [Selagi Ku Ada](https://open.spotify.com/track/4kX5RbJXuWYnNk5Nk1LSMv) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Selagi Ku Ada](https://open.spotify.com/album/6gJfFD4B9RRPUtyeCzFKcv) | 4:10 | 2024-01-18 | 2024-01-26 |

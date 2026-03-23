@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,259 likes - 80 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,327 likes - 80 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 16 | [Life](https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Pure Love EP](https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e) | 6:33 |
 | 17 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 |
 | 18 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
-| 19 | [Slave To The Algorithm \(Club Mix\)](https://open.spotify.com/track/0Qn494RCUdX60FWxVsgvnl) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [Slave To The Algorithm](https://open.spotify.com/album/5VDG0cLHAsdNJiy24vpD3Q) | 6:41 |
-| 20 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
+| 19 | [In A Blurry World](https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [In A Blurry World](https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g) | 5:47 |
+| 20 | [Slave To The Algorithm \(Club Mix\)](https://open.spotify.com/track/0Qn494RCUdX60FWxVsgvnl) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [Slave To The Algorithm](https://open.spotify.com/album/5VDG0cLHAsdNJiy24vpD3Q) | 6:41 |
 | 21 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
 | 22 | [Millenium \- Edit](https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Millenium \(Edit\)](https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf) | 3:40 |
 | 23 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
@@ -44,20 +44,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 34 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
 | 35 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 36 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
-| 37 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
-| 38 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
+| 37 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
+| 38 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
 | 39 | [Scarper](https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi) | 3:47 |
 | 40 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 41 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
 | 42 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
 | 43 | [Wadi Dana](https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Wadi Dana](https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN) | 4:09 |
-| 44 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
-| 45 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
+| 44 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
+| 45 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
 | 46 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
 | 47 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 48 | [Landing in Halifax](https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Landing in Halifax](https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1) | 4:09 |
-| 49 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
-| 50 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
+| 49 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
+| 50 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 51 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
 | 52 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
 | 53 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 71 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
 | 72 | [Rapture](https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Rapture EP](https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5) | 4:29 |
 | 73 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
-| 74 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
-| 75 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
+| 74 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
+| 75 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
 | 76 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
 | 77 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 |
 | 78 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |

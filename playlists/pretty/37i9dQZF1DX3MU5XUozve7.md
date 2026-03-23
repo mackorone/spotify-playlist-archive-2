@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,525 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,671 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 9 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 |
 | 10 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 11 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
-| 12 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
-| 13 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
+| 12 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
+| 13 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 | 14 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 15 | [96 Quite Bitter Beings](https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl) | [CKY](https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK) | [Camp Kill Yourself, Vol.1](https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw) | 3:21 |
 | 16 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 36 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 37 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 |
 | 38 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
-| 39 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
-| 40 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:58 |
+| 39 | [I Was Wrong](https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [White Light White Heat White Trash](https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv) | 3:58 |
+| 40 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
 | 41 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
 | 42 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
 | 43 | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:19 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 80 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |
 | 81 | [Punk Rock And Roll](https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm) | [Street Dogs](https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9) | [Street Dogs \(Deluxe Edition\)](https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC) | 2:34 |
 | 82 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
-| 83 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
-| 84 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
-| 85 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
+| 83 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
+| 84 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
+| 85 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
 | 86 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
 | 87 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
 | 88 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 94 | [Ac/Dc CD](https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [AC/DC CD](https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL) | 1:43 |
 | 95 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 96 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 |
-| 97 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
-| 98 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
+| 97 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
+| 98 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
 | 99 | [Painful Reminder](https://open.spotify.com/track/2OEtxMnhS1quoMaZQUfruh) | [SNFU](https://open.spotify.com/artist/47gDsI3zhRtZPGK7Hv3uxm) | [Something Green And Leafy This Way Comes](https://open.spotify.com/album/6C2Wf1yvr3GinoYZhuPow4) | 4:07 |
 | 100 | [Here In Your Bedroom](https://open.spotify.com/track/0e0qRLVKIW1JNkLZg14bQF) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:11 |
 

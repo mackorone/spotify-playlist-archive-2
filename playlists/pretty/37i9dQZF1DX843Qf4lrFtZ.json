@@ -1,6 +1,6 @@
 {
   "description": "that\u2019s how it's supposed to be. living young, wild and free!!!!!",
-  "num_followers": 2630342,
+  "num_followers": 2630266,
   "original_name": "young, wild & free",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "uh oh",
-        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "uh oh",
-      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "uh oh",
+        "url": "https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "uh oh",
+      "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     },
     {
       "added_at": "2024-02-12 16:10:18",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-02-12 16:10:18",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
-    },
-    {
-      "added_at": "2024-02-12 16:10:18",
-      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+    },
+    {
+      "added_at": "2024-02-12 16:10:18",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
     },
     {
       "added_at": "2024-02-12 16:10:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: ZENA
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,176 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,193 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,20 +48,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 38 | [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 |
 | 39 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 |
 | 40 | [Thermae](https://open.spotify.com/track/6gtaS2D03P8xr3iMiAHdrq) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Thermae](https://open.spotify.com/album/5uQVtjn87bGuqgQ8mHgA8O) | 3:26 |
-| 41 | [Different Kind of Lonely](https://open.spotify.com/track/5rwDjyEiyz9RJQS71uJ6pN) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [Different Kind of Lonely](https://open.spotify.com/album/2TzZEKSM0sgG3goO2CN2rd) | 3:16 |
-| 42 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 |
-| 43 | [Windshelter](https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Windshelter](https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP) | 4:43 |
-| 44 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
+| 41 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 |
+| 42 | [Different Kind of Lonely](https://open.spotify.com/track/5rwDjyEiyz9RJQS71uJ6pN) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [Different Kind of Lonely](https://open.spotify.com/album/2TzZEKSM0sgG3goO2CN2rd) | 3:16 |
+| 43 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
+| 44 | [Windshelter](https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Windshelter](https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP) | 4:43 |
 | 45 | [Dance In Praise](https://open.spotify.com/track/7wx3mx0HSQ9u1xLBquLX0n) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Dance In Praise](https://open.spotify.com/album/2NDkjx2pEYZO1rTYFQo4rh) | 4:27 |
 | 46 | [Save You](https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Save You](https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a) | 2:12 |
 | 47 | [I Am the Birds](https://open.spotify.com/track/2ON15cCpjy31Yauj4pCTsT) | [MATTERS UNKNOWN](https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5) | [I Am the Birds](https://open.spotify.com/album/6b9QudEW1xLawYRmsxWNql) | 4:24 |
-| 48 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
-| 49 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
-| 50 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
-| 51 | [Catastrophe](https://open.spotify.com/track/4TGYJY5sUMEnEjLzhH5QLT) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Catastrophe](https://open.spotify.com/album/3zBpioc4PZmklcWOnE1Jpr) | 3:18 |
+| 48 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 |
+| 49 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 |
+| 50 | [Catastrophe](https://open.spotify.com/track/4TGYJY5sUMEnEjLzhH5QLT) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Catastrophe](https://open.spotify.com/album/3zBpioc4PZmklcWOnE1Jpr) | 3:18 |
+| 51 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
 | 52 | [Ligurian Storm](https://open.spotify.com/track/3hrZ9B3BaaBhkttn4WbBy1) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 3:16 |
-| 53 | [Eyes Lowered](https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Eyes Lowered](https://open.spotify.com/album/2ZoUCoXKmNTQso7YaDWrRL) | 3:44 |
-| 54 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 53 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 54 | [Eyes Lowered](https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Eyes Lowered](https://open.spotify.com/album/2ZoUCoXKmNTQso7YaDWrRL) | 3:44 |
 | 55 | [Prophet](https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Prophet](https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe) | 4:56 |
 | 56 | [How We Roll \- feat\. Jazzie B](https://open.spotify.com/track/4jOiGv9ckEKPpL6ETVVqhm) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG), [Jazzie B.](https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g) | [How We Roll \(feat\. Jazzie B\)](https://open.spotify.com/album/3Gnu7ZvEKnqB2WqvXe5lua) | 7:57 |
 | 57 | [Irreparable Parables](https://open.spotify.com/track/0rhhLnyaEM3xwTWX8gu2ef) | [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG) | [Irreparable Parables](https://open.spotify.com/album/1TVxDSGkqJMhIk9TY5koto) | 3:30 |

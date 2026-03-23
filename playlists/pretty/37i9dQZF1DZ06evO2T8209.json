@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 737232,
+  "num_followers": 737427,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAB2Sv2OeavEKZVloyqLpoht",
+  "snapshot_id": "ab3fgAAAAABlqSVQHivtGSVq3u9Aj0ks",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 229102,
-      "name": "FISH N STEAK (WHAT IT IS) (feat. Tyler, The Creator & Jozzy)",
-      "url": "https://open.spotify.com/track/6qJjgYxhZ3gBTm4TI8t41e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 258030,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 229102,
+      "name": "FISH N STEAK (WHAT IT IS) (feat. Tyler, The Creator & Jozzy)",
+      "url": "https://open.spotify.com/track/6qJjgYxhZ3gBTm4TI8t41e"
     },
     {
       "added_at": null,

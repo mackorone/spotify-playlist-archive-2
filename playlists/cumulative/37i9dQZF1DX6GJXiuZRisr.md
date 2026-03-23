@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-667 songs - 1 day 21 hr 49 min
+668 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Emerald Skies](https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Emerald Skies](https://open.spotify.com/album/3NBivztC0hpwUNKeV7Hs6Z) | 3:06 | 2023-12-01 | 2024-01-17 |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2024-04-19 | 2024-04-26 |
 | [Empyrean](https://open.spotify.com/track/5f768GZ884iQphBUZWmjum) | [Moa](https://open.spotify.com/artist/1lAfFBE10XKWun4CkIS9Jb), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [Empyrean](https://open.spotify.com/album/7G6kaqouj5KSHRRIGaPt0L) | 3:56 | 2021-05-07 | 2022-07-27 |
+| [Endless](https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Endless](https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV) | 3:16 | 2026-03-20 |  |
 | [Equinox \- Original Club Mix](https://open.spotify.com/track/5DmKG2iNXtwQqbwSzWMP80) | [Austin Leeds](https://open.spotify.com/artist/24Mc3zc0ogZux3BVi4m3ue), [2 Tall Keith](https://open.spotify.com/artist/5sLCjU2aNDT0BO0V1WXRq3) | [Equinox](https://open.spotify.com/album/2UsFDnZai26v8YvHg1TfI8) | 5:29 | 2021-05-07 | 2022-04-19 |
 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-13 | 2025-10-18 |
 | [Escalus](https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Flicker/Escalus](https://open.spotify.com/album/5PLsKjBuudqrPDCaRKwkZP) | 4:15 | 2021-05-07 | 2022-07-18 |
@@ -531,7 +532,7 @@
 | [Space Between Us](https://open.spotify.com/track/7i6E5BAg4MCdRymdTNv2bc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:03 | 2021-05-07 | 2022-04-16 |
 | [Spicy \(feat\. Ginger\) \- Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy \(feat\. Ginger\) \[Edit\]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-05-07 | 2023-04-01 |
 | [Spitfire](https://open.spotify.com/track/0Zr1L1ABbqyBqdLM0qKLnu) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Spitfire](https://open.spotify.com/album/4sMCBTKpLTrG1A4uyvfr50) | 4:29 | 2022-06-03 | 2022-07-29 |
-| [Start A Fire](https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Start A Fire](https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi) | 3:37 | 2025-05-30 |  |
+| [Start A Fire](https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Start A Fire](https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi) | 3:37 | 2025-05-30 | 2026-03-23 |
 | [Start The Fire](https://open.spotify.com/track/6NIX8pnaWGV7gDTpM0em4a) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Start The Fire](https://open.spotify.com/album/20z7W6isoaSoIT7P5jOmS4) | 3:42 | 2023-07-14 | 2023-07-17 |
 | [Static](https://open.spotify.com/track/31Byt8JQlqLFPzhjE5pVCf) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83) | [Static](https://open.spotify.com/album/54PJpzqzC8S2RDc3kGxCD9) | 3:50 | 2021-05-07 | 2022-07-29 |
 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 | 2025-10-24 |  |

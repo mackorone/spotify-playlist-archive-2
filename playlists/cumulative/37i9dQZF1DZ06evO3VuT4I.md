@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-125 songs - 10 hr 20 min
+126 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 |  |
 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 | 2022-05-29 |  |
 | [Lime Marmalade Reverie](https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:01 | 2022-06-22 | 2022-06-24 |
-| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 |  |
+| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 | 2026-03-23 |
 | [Lumiere](https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:55 | 2022-05-29 | 2022-10-09 |
 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 | 2022-05-29 |  |
 | [Meeting Mozart](https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:46 | 2022-05-31 |  |
@@ -110,6 +110,7 @@
 | [Spirit Rock](https://open.spotify.com/track/23HGzUoMFHcOvQcBTm0moJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 2:50 | 2024-06-09 | 2025-01-09 |
 | [Stromboli](https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:06 | 2022-05-29 | 2025-11-23 |
 | [Summer's Day](https://open.spotify.com/track/11xXOsfjQTOUtpp0Db633j) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:04 | 2022-05-29 | 2026-03-10 |
+| [Sweetheart \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/63IuQMqOgTvIARFqngU31Y) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan \(Deluxe\)](https://open.spotify.com/album/03jfunLEBbvaZQfAtshEEK) | 8:47 | 2026-03-23 |  |
 | [Terra Mesa](https://open.spotify.com/track/5vhLS9WUO8KndhHqfCPwoD) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:27 | 2022-06-11 | 2022-10-11 |
 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 | 2022-05-29 |  |
 | [The Enchantress](https://open.spotify.com/track/2rjR6HcLE20PXToShdF1QP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:12 | 2022-09-21 | 2026-02-11 |

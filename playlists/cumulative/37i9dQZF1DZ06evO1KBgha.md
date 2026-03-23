@@ -4,7 +4,7 @@
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 24 min
+95 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Shillin'](https://open.spotify.com/track/2NYqx7lx6fSWv7LoxgONEL) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:50 | 2023-12-18 |  |
 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 | 2024-05-19 |  |
 | [Slay](https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 2:05 | 2026-03-22 |  |
-| [Stripper](https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Stripper](https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm) | 2:46 | 2025-10-12 |  |
+| [Stripper](https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Stripper](https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm) | 2:46 | 2025-10-12 | 2026-03-23 |
+| [Stripper](https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [HEROINA](https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal) | 2:46 | 2026-03-23 |  |
 | [Te Odio](https://open.spotify.com/track/7gCy3fhww624eEocyMYtSa) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:24 | 2023-12-18 | 2024-04-27 |
 | [Tenía Que Llegar](https://open.spotify.com/track/5VQtzkdA45dJW2DkSdo4UG) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:59 | 2023-12-18 | 2024-04-27 |
 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 | 2023-12-18 | 2026-03-22 |

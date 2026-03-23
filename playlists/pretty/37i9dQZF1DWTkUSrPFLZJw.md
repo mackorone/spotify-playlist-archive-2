@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,172 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,185 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 33 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 34 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
 | 35 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 |
-| 36 | [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 |
-| 37 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 |
-| 38 | [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 |
+| 36 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 |
+| 37 | [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 |
+| 38 | [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 |
 | 39 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
 | 40 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
 | 41 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |

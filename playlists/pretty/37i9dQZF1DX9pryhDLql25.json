@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, iced coffee, & all the lovely spring things",
-  "num_followers": 253100,
+  "num_followers": 253155,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-16 19:32:55",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
-    },
-    {
-      "added_at": "2026-03-16 19:32:55",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2026-03-16 19:32:55",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2026-03-16 19:32:55",

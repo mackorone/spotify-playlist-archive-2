@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,995 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,052 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 49 | [Gone Away \- 2021](https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:16 |
 | 50 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
 | 51 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
-| 52 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
-| 53 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
-| 54 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
+| 52 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
+| 53 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
+| 54 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
 | 55 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:28 |
 | 56 | [Thirty\-Three \- Remastered 2012](https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:10 |
 | 57 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |

@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 70426,
+  "num_followers": 70438,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "INARA",
-        "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
-      },
-      "artists": [
-        {
-          "name": "SCOOL BOY",
-          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "INARA",
-      "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
-    },
-    {
-      "added_at": "2026-01-28 06:22:05",
-      "album": {
         "name": "S\u0113nsus",
         "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 170426,
       "name": "No Complaints",
       "url": "https://open.spotify.com/track/0E7vM9JTF6RQ0Mb7cZmP8V"
+    },
+    {
+      "added_at": "2026-01-28 06:22:05",
+      "album": {
+        "name": "INARA",
+        "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
+      },
+      "artists": [
+        {
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "INARA",
+      "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
     },
     {
       "added_at": "2026-01-28 06:22:05",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Valluminati",
-        "url": "https://open.spotify.com/album/6elabSMRw648ju19QYg55P"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12"
       },
       "artists": [
         {
-          "name": "Valerieblud",
-          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
         }
       ],
-      "duration_ms": 140031,
-      "name": "Valluminati",
-      "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"
+      "duration_ms": 196000,
+      "name": "B&M",
+      "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
     },
     {
       "added_at": "2026-01-28 06:22:05",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12"
+        "name": "Valluminati",
+        "url": "https://open.spotify.com/album/6elabSMRw648ju19QYg55P"
       },
       "artists": [
         {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
         }
       ],
-      "duration_ms": 196000,
-      "name": "B&M",
-      "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
+      "duration_ms": 140031,
+      "name": "Valluminati",
+      "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"
     },
     {
       "added_at": "2026-01-28 06:22:05",

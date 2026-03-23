@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,380 likes - 125 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,463 likes - 125 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 84 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
 | 85 | [Soñe Contigo](https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Cumbias de Colección](https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw) | 4:03 |
 | 86 | [Que Dolor](https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Campeon](https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U) | 3:25 |
-| 87 | [La Cumbia Señal](https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9) | [La Nueva Orquesta Sonidera](https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB) | [La Cumbia Señal](https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj) | 6:15 |
-| 88 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
+| 87 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
+| 88 | [La Cumbia Señal](https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9) | [La Nueva Orquesta Sonidera](https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB) | [La Cumbia Señal](https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj) | 6:15 |
 | 89 | [Espacial](https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Espacial](https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ) | 3:35 |
 | 90 | [Fue En Diciembre](https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9) | [Arturo Jaimes Y Los Cantantes](https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx) | [El Sonido Joven De La Cumbia](https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr) | 3:31 |
 | 91 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
@@ -113,9 +113,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 103 | [El Final de Nuestra Historia](https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:36 |
 | 104 | [Aléjate de Mi](https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T) | [Sin Mirar Atrás](https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX) | 3:16 |
 | 105 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
-| 106 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 107 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
-| 108 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
+| 106 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
+| 107 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
+| 108 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
 | 109 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 |
 | 110 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 111 | [Dejame Pensar](https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Dejame Pensar](https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF) | 4:37 |

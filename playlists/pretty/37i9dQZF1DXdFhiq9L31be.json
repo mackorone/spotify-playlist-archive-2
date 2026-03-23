@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m"
     },
     {
-      "added_at": "2023-11-07 19:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "ceilings - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
-    },
-    {
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
@@ -487,6 +471,22 @@
       "duration_ms": 236054,
       "name": "Super Far - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U"
+    },
+    {
+      "added_at": "2023-11-07 19:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "ceilings - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1192,22 +1192,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 253735,
-      "name": "Mercy - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic"
       },
       "artists": [
@@ -1224,6 +1208,22 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 253735,
+      "name": "Mercy - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
       "artists": [
@@ -1235,6 +1235,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2023-11-07 19:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 231132,
       "name": "Flume - Spotify Singles",
       "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
-    },
-    {
-      "added_at": "2023-11-07 19:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1372,22 +1372,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        }
-      ],
-      "duration_ms": 95628,
-      "name": "Feels - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
       "artists": [
@@ -1399,6 +1383,22 @@
       "duration_ms": 180581,
       "name": "I-89 - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        }
+      ],
+      "duration_ms": 95628,
+      "name": "Feels - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1500,22 +1500,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 175629,
-      "name": "Ultralight Beam",
-      "url": "https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
       "artists": [
@@ -1527,6 +1511,22 @@
       "duration_ms": 212773,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 175629,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1632,17 +1632,17 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+        "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 314762,
-      "name": "Salt And The Sea - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg"
+      "duration_ms": 204255,
+      "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
+      "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
     }
   ],
   "unique_name": "Spotify Singles: Stripped",

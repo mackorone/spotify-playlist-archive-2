@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 9712,
+  "num_followers": 9715,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 178993,
+      "name": "Money Maker (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
         "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 179533,
       "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
       "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "So Help Me God!",
-        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 178993,
-      "name": "Money Maker (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
     },
     {
       "added_at": "2022-10-01 16:00:00",

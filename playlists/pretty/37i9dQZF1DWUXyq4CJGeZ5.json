@@ -1,6 +1,6 @@
 {
   "description": "Piano music for fall vibes and autumnal moods.",
-  "num_followers": 82312,
+  "num_followers": 82310,
   "original_name": "Autumn Piano",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Home Beyond The Stars",
-        "url": "https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1"
-      },
-      "artists": [
-        {
-          "name": "Isidorus",
-          "url": "https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO"
-        }
-      ],
-      "duration_ms": 141298,
-      "name": "Home Beyond The Stars",
-      "url": "https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Elegie",
         "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Home Beyond The Stars",
+        "url": "https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1"
+      },
+      "artists": [
+        {
+          "name": "Isidorus",
+          "url": "https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO"
+        }
+      ],
+      "duration_ms": 141298,
+      "name": "Home Beyond The Stars",
+      "url": "https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "The Last Days Of Summer",
+        "url": "https://open.spotify.com/album/6n8czmPuICnaqG66hVLGfo"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "The Last Days Of Summer",
+      "url": "https://open.spotify.com/track/2YBz1rKIDo0VCY1y7n76sC"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Volga",
         "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 120900,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
-        "name": "The Last Days Of Summer",
-        "url": "https://open.spotify.com/album/6n8czmPuICnaqG66hVLGfo"
-      },
-      "artists": [
-        {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "The Last Days Of Summer",
-      "url": "https://open.spotify.com/track/2YBz1rKIDo0VCY1y7n76sC"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "Botanical",
+        "url": "https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ"
+      },
+      "artists": [
+        {
+          "name": "Maru Gomes",
+          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
+        }
+      ],
+      "duration_ms": 143777,
+      "name": "Botanical",
+      "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Serendipity",
         "url": "https://open.spotify.com/album/2ZoyZ1LxWxxCjOk1iDHARN"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Botanical",
-        "url": "https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ"
+        "name": "For Kate",
+        "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
       },
       "artists": [
         {
-          "name": "Maru Gomes",
-          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
+          "name": "Ed Chinaski",
+          "url": "https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt"
         }
       ],
-      "duration_ms": 143777,
-      "name": "Botanical",
-      "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
+      "duration_ms": 137519,
+      "name": "For Kate",
+      "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1499,22 +1515,6 @@
       "duration_ms": 129250,
       "name": "Cul de sac",
       "url": "https://open.spotify.com/track/3P6KxwWTTTcsWPx6Q5T932"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
-        "name": "For Kate",
-        "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
-      },
-      "artists": [
-        {
-          "name": "Ed Chinaski",
-          "url": "https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt"
-        }
-      ],
-      "duration_ms": 137519,
-      "name": "For Kate",
-      "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "Oktobervals",
+        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Oktobervals",
+      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 173112,
       "name": "Foliage",
       "url": "https://open.spotify.com/track/4uDV95QK5kIHC23bfcDpu1"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
-        "name": "Oktobervals",
-        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Oktobervals",
-      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Abstractions",
-        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
       },
       "artists": [
         {
-          "name": "Richard Mahees",
-          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
+          "name": "Eric Sebastian",
+          "url": "https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp"
         }
       ],
-      "duration_ms": 133176,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u"
+      "duration_ms": 207253,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Orpheus",
-        "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
+        "name": "Abstractions",
+        "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
       "artists": [
         {
-          "name": "Eric Sebastian",
-          "url": "https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp"
+          "name": "Richard Mahees",
+          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2"
+      "duration_ms": 133176,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/2mUnKFrk4ar3L5Ad8t5T1u"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "A Silent Oath",
-        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
-      },
-      "artists": [
-        {
-          "name": "Oceane Bardot",
-          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "A Silent Oath",
-      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/0C83mcs8JuXEmndmauE2YJ"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 132259,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/0yuTiErpeB1DsVR1mzKzGI"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "A Silent Oath",
+        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "A Silent Oath",
+      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "November Afternoon",
-        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
-      },
-      "artists": [
-        {
-          "name": "Rudy Bloom",
-          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
-        }
-      ],
-      "duration_ms": 148549,
-      "name": "November Afternoon",
-      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Sanctum Sonar",
         "url": "https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1"
       },
@@ -2143,6 +2127,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "November Afternoon",
+        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
+      },
+      "artists": [
+        {
+          "name": "Rudy Bloom",
+          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+        }
+      ],
+      "duration_ms": 148549,
+      "name": "November Afternoon",
+      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Ce Qui Est Fait, Est Fait",
         "url": "https://open.spotify.com/album/4ef3Dcy5kkBykytirIsNDQ"
       },
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "We Persist",
-        "url": "https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 159650,
-      "name": "We Persist",
-      "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "The Other Place",
         "url": "https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 166124,
       "name": "The Other Place",
       "url": "https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "We Persist",
+        "url": "https://open.spotify.com/album/7xalfDfiAV5jIbebi7uwtX"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 159650,
+      "name": "We Persist",
+      "url": "https://open.spotify.com/track/5cWCVoVOHjhUNm0I3JE06l"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/5QvbS2AE9s5wjP1KtUCW7v"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 132594,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3Hpdt4sw1U9FST02nj6E67"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "L'\u00e9t\u00e9 du C\u0153ur - La Petite Pluie d'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/1iszyfxF6bae0VNiXTVOWq"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 170193,
       "name": "L'\u00e9t\u00e9 du C\u0153ur - La Petite Pluie d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/0REvq7uFumQghb3u2sRDp2"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/5QvbS2AE9s5wjP1KtUCW7v"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 132594,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3Hpdt4sw1U9FST02nj6E67"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Largo \"Poetique\"",
-        "url": "https://open.spotify.com/album/7AIbY9qDsBHufKxI02EI1V"
+        "name": "Loma Alta",
+        "url": "https://open.spotify.com/album/7slnb5GLn20qDuRKGcXHel"
       },
       "artists": [
         {
-          "name": "Antoine Minot",
-          "url": "https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz"
+          "name": "Contra La Muerte De La Luz",
+          "url": "https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Largo \"Poetique\"",
-      "url": "https://open.spotify.com/track/4sT4K3PhPyn44UuaMgMdHR"
+      "duration_ms": 130500,
+      "name": "Loma Alta",
+      "url": "https://open.spotify.com/track/02K5XSjaev4kpxVFfYP7nd"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2355,18 +2355,34 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Endurance",
-        "url": "https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N"
+        "name": "Largo \"Poetique\"",
+        "url": "https://open.spotify.com/album/7AIbY9qDsBHufKxI02EI1V"
       },
       "artists": [
         {
-          "name": "Antoine Stavelot",
-          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
+          "name": "Antoine Minot",
+          "url": "https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz"
         }
       ],
-      "duration_ms": 143500,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/5NTn9Mhu1xOh8jDGzhRNoP"
+      "duration_ms": 189000,
+      "name": "Largo \"Poetique\"",
+      "url": "https://open.spotify.com/track/4sT4K3PhPyn44UuaMgMdHR"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Vento leggero",
+        "url": "https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB"
+      },
+      "artists": [
+        {
+          "name": "Aglisia",
+          "url": "https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh"
+        }
+      ],
+      "duration_ms": 180260,
+      "name": "Vento leggero",
+      "url": "https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2387,34 +2403,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Loma Alta",
-        "url": "https://open.spotify.com/album/7slnb5GLn20qDuRKGcXHel"
+        "name": "Endurance",
+        "url": "https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N"
       },
       "artists": [
         {
-          "name": "Contra La Muerte De La Luz",
-          "url": "https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE"
+          "name": "Antoine Stavelot",
+          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Loma Alta",
-      "url": "https://open.spotify.com/track/02K5XSjaev4kpxVFfYP7nd"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
-        "name": "Vento leggero",
-        "url": "https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB"
-      },
-      "artists": [
-        {
-          "name": "Aglisia",
-          "url": "https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh"
-        }
-      ],
-      "duration_ms": 180260,
-      "name": "Vento leggero",
-      "url": "https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ"
+      "duration_ms": 143500,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/5NTn9Mhu1xOh8jDGzhRNoP"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "The Dancers",
-        "url": "https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 157036,
-      "name": "The Dancers",
-      "url": "https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 139663,
       "name": "Fr\u00fchling",
       "url": "https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "The Dancers",
+        "url": "https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+        }
+      ],
+      "duration_ms": 157036,
+      "name": "The Dancers",
+      "url": "https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m"
     },
     {
       "added_at": "2025-12-23 11:16:57",

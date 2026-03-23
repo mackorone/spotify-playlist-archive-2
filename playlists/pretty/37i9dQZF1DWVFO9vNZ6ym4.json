@@ -1,6 +1,6 @@
 {
   "description": "Bringing the energy to hype you up",
-  "num_followers": 135998,
+  "num_followers": 135994,
   "original_name": "Sweat It Out",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-08-06 12:08:29",
       "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
-        }
-      ],
-      "duration_ms": 209515,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
-    },
-    {
-      "added_at": "2025-08-06 12:08:29",
-      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 184405,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2025-08-06 12:08:29",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
     },
     {
       "added_at": "2025-08-06 12:08:29",

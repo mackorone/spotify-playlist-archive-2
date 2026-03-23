@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,121 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,150 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 25 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
 | 26 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
 | 27 | [Respire encore](https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:47 |
-| 28 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
+| 28 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
 | 29 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
-| 30 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
+| 30 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
 | 31 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 32 | [Tu m'oublieras](https://open.spotify.com/track/616O2jmafiModH0RgonGqf) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Simplement](https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW) | 3:39 |
 | 33 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 49 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
 | 50 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 |
 | 51 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
-| 52 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
-| 53 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
+| 52 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
+| 53 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
 | 54 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 | 55 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 56 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |

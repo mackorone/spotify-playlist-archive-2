@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Celebrating 5 years of EQUAL\. Cover: Dato' Sri Siti Nurhaliza
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,082 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,084 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

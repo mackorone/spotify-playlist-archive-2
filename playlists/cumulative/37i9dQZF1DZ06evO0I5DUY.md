@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 9 min
+107 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Donde Estará Mi Caballo](https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 2:48 | 2022-06-01 | 2026-03-01 |
 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 2:26 | 2022-06-01 |  |
 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 | 2022-06-01 | 2024-07-15 |
-| [El Asesino](https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:49 | 2022-06-01 |  |
+| [El Asesino](https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:49 | 2022-06-01 | 2026-03-23 |
+| [El Asesino](https://open.spotify.com/track/6i29kyLPutoAXlQUutasq9) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Rondas Norteñas](https://open.spotify.com/album/4i6mDtb1PJbrAYNWCHG2zL) | 2:51 | 2026-03-23 |  |
 | [El Caballo Jovero](https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:10 | 2022-06-01 | 2026-01-03 |
 | [El Caballo Jovero](https://open.spotify.com/track/7KLfQ4cx2w4Wv26r0MZKQM) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7) | 3:10 | 2026-01-03 | 2026-03-08 |
 | [El Caballo Jovero](https://open.spotify.com/track/3KAakRayZHiDzdOwQqRzdG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [20 Norteñas Los Cadetes De Linares](https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz) | 3:15 | 2026-03-08 |  |

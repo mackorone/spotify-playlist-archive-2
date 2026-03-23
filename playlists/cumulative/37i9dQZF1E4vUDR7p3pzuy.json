@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Ecto Peach, JUST LIZZY and more",
+  "description": "With Evil Level Live, JUST LIZZY, Synthetik Blonde and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 282551,
       "name": "For Now (feat. Emily Gray)",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 191468,
       "name": "Hardcase",
       "url": "https://open.spotify.com/track/0mMO60Pg8XY70T0EC5uOdR"
@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 277974,
       "name": "Inch",
       "url": "https://open.spotify.com/track/0MVryPCDR3AENhSadZOSyh"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 235000,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/0STK506ou4gRKW0TrspkxD"
@@ -5216,7 +5216,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5400,7 +5400,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -6032,7 +6032,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 204500,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/2fvKCHlsP7AboO4HMRrub3"
@@ -6730,6 +6730,24 @@
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
+    },
+    {
+      "album": {
+        "name": "Serve Me Some Crime",
+        "url": "https://open.spotify.com/album/4dhEPkcazyscTaARslt02E"
+      },
+      "artists": [
+        {
+          "name": "Noir Addiction",
+          "url": "https://open.spotify.com/artist/0vployUBHcI3DnWWhkFZp2"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Serve Me Some Crime",
+      "url": "https://open.spotify.com/track/6Zv1sgSm7zLawLuYO5kgA9"
     },
     {
       "album": {
@@ -6896,7 +6914,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 178200,
       "name": "She",
       "url": "https://open.spotify.com/track/5Vmg5Y8yL08lBUUQMJaF1Z"
@@ -7873,6 +7891,24 @@
     },
     {
       "album": {
+        "name": "The Crushed",
+        "url": "https://open.spotify.com/album/312mngp1sH77v9ZzWc3gc4"
+      },
+      "artists": [
+        {
+          "name": "JEWLS",
+          "url": "https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208993,
+      "name": "The Crushed",
+      "url": "https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo"
+    },
+    {
+      "album": {
         "name": "F.I.V.E. \u2013 Fear Increases Violent Emotions",
         "url": "https://open.spotify.com/album/64lC6jyoTfKplb7eHzdRA3"
       },
@@ -8266,7 +8302,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -8620,7 +8656,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -8782,7 +8818,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -8930,7 +8966,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -9242,6 +9278,28 @@
       "duration_ms": 227648,
       "name": "Wendy Houses",
       "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
+    },
+    {
+      "album": {
+        "name": "What Use Is Peace Without Freedom (H2SO4 Mix)",
+        "url": "https://open.spotify.com/album/27GwGrmLmEhVdEKBNefy7f"
+      },
+      "artists": [
+        {
+          "name": "The Songs of Butler & Cupples",
+          "url": "https://open.spotify.com/artist/6xYFQHpmu69ggt97l00fbK"
+        },
+        {
+          "name": "H2SO4",
+          "url": "https://open.spotify.com/artist/3x3ufhL3pFTKvBsjmEnOXI"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "What Use Is Peace Without Freedom (H2SO4 Mix)",
+      "url": "https://open.spotify.com/track/3dzVOREz50rxgevVI38swO"
     },
     {
       "album": {

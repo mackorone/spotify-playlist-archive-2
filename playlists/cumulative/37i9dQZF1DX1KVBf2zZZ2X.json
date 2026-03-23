@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Garden of Hope",
+        "url": "https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc"
+      },
+      "artists": [
+        {
+          "name": "Willow Woodgrove",
+          "url": "https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176366,
+      "name": "Garden of Hope",
+      "url": "https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA"
+    },
+    {
+      "album": {
         "name": "Garden Suite #1 (Birds)",
         "url": "https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5"
       },
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Lumenfall",
       "url": "https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5"
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 226331,
       "name": "Preserve",
       "url": "https://open.spotify.com/track/6YhbiFMbQqR6gIxVAVmgVc"
@@ -5082,7 +5100,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 134606,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"

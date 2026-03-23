@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,019 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,031 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 49 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 50 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 51 | [On The Red River](https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:41 |
-| 52 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
-| 53 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
+| 52 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
+| 53 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
 | 54 | [The Man from Waco](https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 3:45 |
 | 55 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 |
 | 56 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 62 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
 | 63 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
 | 64 | [Harlem River](https://open.spotify.com/track/3InicSZVr4usKZg1ePJEDz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/5daVkcQ91GoxhyxHPH2A6O) | 9:15 |
-| 65 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
-| 66 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 65 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
+| 66 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
 | 67 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 |
 | 68 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |
 | 69 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating the greatest female voices of all time. Cover: Adele",
-  "num_followers": 1830842,
+  "num_followers": 1831101,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 312306,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
-      "added_at": "2025-06-27 04:00:33",
-      "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Stripped",
@@ -619,6 +603,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2025-06-27 04:00:33",
+      "album": {
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
     },
     {
       "added_at": "2024-10-11 04:00:00",

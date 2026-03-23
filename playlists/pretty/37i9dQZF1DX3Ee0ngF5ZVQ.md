@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,148 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,137 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 54 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 55 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 |
 | 56 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
-| 57 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
-| 58 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
+| 57 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
+| 58 | [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 |
 | 59 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
 | 60 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 61 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 85 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 86 | [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 |
 | 87 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
-| 88 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
+| 88 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
 | 89 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 |
-| 90 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
+| 90 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 91 | [Hit The Hay Runnin'](https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Hit The Hay Runnin'](https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN) | 3:04 |
 | 92 | [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 |
 | 93 | [The Greys Between](https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Greys Between](https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg) | 4:15 |

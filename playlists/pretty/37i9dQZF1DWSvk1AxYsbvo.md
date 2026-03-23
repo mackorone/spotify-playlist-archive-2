@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,949 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,953 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 10 | [Orange Splash \(feat\. 진동욱\)](https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [진동욱](https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n) | [Orange Splash](https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C) | 2:23 |
 | 11 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
 | 12 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:54 |
-| 13 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
-| 14 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 |
+| 13 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 |
+| 14 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 15 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
 | 16 | [When I stop thinking](https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 3:16 |
 | 17 | [Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 39 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 |
 | 40 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
 | 41 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
-| 42 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
-| 43 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
+| 42 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
+| 43 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 44 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 45 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
 | 46 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |

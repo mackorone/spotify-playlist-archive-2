@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 박지현\)<br/>Let's party with cheerful Korean trot medley.
 
-1,086 songs - 2 day 14 hr 8 min
+1,087 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [In the rain](https://open.spotify.com/track/0XPEHG48LeBz6xoj6jLzNz) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART9](https://open.spotify.com/album/4CQykEkW6pgXHYCMbQfRCv) | 3:38 | 2022-05-03 | 2022-07-09 |
 | [In to memories](https://open.spotify.com/track/6jMW6ZdSmTarNPOqFwxrMR) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 3:21 | 2022-04-22 | 2022-07-27 |
 | [Instinctively](https://open.spotify.com/track/1cdl44ZK3z5TZ6UmV8hP6n) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART11](https://open.spotify.com/album/04bfMKJM8TmBmuB4uhAaMW) | 3:06 | 2022-04-07 | 2025-09-18 |
-| [Island Village Teacher](https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:03 | 2024-08-13 |  |
+| [Island Village Teacher](https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 3:03 | 2024-08-13 | 2026-03-23 |
 | [It was great](https://open.spotify.com/track/66kYQOLhN8zjHTjw3xnXFc) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:23 | 2022-04-21 | 2022-07-28 |
 | [It was really good](https://open.spotify.com/track/07YHzrk3bV4gfWLo3Zdqw0) | [Maria](https://open.spotify.com/artist/3zX1qzXquYYO2AbRoBgHsa) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 3:11 | 2022-04-21 | 2022-07-27 |
 | [It's a wonderful life](https://open.spotify.com/track/7DjbVC08v2TPNzx3Klvnck) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Ryu Jikwang](https://open.spotify.com/artist/4JABjp69hYZ7KWVHI0QCiP), [Kang Taekwan](https://open.spotify.com/artist/1DtspJahFF2GdAW3NXkXHR), [Hwang Yunseong](https://open.spotify.com/artist/1FOvM67AluX3CFyuqtaaZ0) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 2:43 | 2022-04-22 | 2022-07-26 |
@@ -567,6 +567,7 @@
 | [My Starry Love](https://open.spotify.com/track/3VqbKLaNHIe7LcHpCSn16m) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:50 | 2022-04-22 | 2022-07-28 |
 | [My Way](https://open.spotify.com/track/2IoVBSuWGFJYhcjyjr30TR) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 3:19 | 2022-04-22 | 2022-07-24 |
 | [MY Way](https://open.spotify.com/track/4Nnzzc5Ff37XxJsXPloEVp) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART11](https://open.spotify.com/album/04bfMKJM8TmBmuB4uhAaMW) | 4:26 | 2022-04-22 | 2022-07-16 |
+| [My Way](https://open.spotify.com/track/3PEukWsCMpP1ecZ3ZeN5cB) | [Yun Tae Kyu](https://open.spotify.com/artist/6GgKdTVs6DJG9VWlqmlFKQ) | [My Way](https://open.spotify.com/album/6xVU1RxqmoCXaprKXHSQ4B) | 3:27 | 2026-02-25 |  |
 | [Myeongja](https://open.spotify.com/track/4qvDEypLZuasrVBcO1dO4J) | [Park Min su](https://open.spotify.com/artist/5e7o7fFdFdjwtFw2K5JciY) | [Fire Trot 1:1 Rivals Round PART 1](https://open.spotify.com/album/6vP7U8oJAGJUG75zn7udQr) | 3:44 | 2024-08-13 | 2025-02-08 |
 | [Naejang Mountain](https://open.spotify.com/track/1ZuGjEelnjVnn9hTqSWKMk) | [Joo Mi](https://open.spotify.com/artist/5NrRcm8goaYP6TK2LHyL87) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:10 | 2022-04-22 | 2022-07-28 |
 | [Name tag for love](https://open.spotify.com/track/7izuHFNZniKDmri6AKSxcj) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 2:55 | 2022-05-03 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,868 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,265 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 22 | [Mutuo](https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib) | 2:57 |
 | 23 | [Como De Sol A Sol](https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:02 |
 | 24 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
-| 25 | [AMOR PROPIO](https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK) | 2:52 |
-| 26 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
+| 25 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
+| 26 | [AMOR PROPIO](https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK) | 2:52 |
 | 27 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
 | 28 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 |
 | 29 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [monterrey](https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:38 |
 | 50 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
 
-Snapshot ID: `abyOAAAAAABf7qQc3T4XH8uYw9PbiW23`
+Snapshot ID: `ab3fgAAAAACe8w+Ihxrhsik3E5429QFo`

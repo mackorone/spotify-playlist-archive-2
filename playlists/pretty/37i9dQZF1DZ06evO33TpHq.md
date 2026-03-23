@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,952 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,981 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 5 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
 | 6 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 |
 | 7 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 |
-| 8 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
-| 9 | [Follow The Light](https://open.spotify.com/track/710bT4vGLhWflF4z0cE9cQ) | [Brandon Engman](https://open.spotify.com/artist/08dhzQWNxcqgrEgagEPdXP), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:36 |
+| 8 | [Follow The Light](https://open.spotify.com/track/710bT4vGLhWflF4z0cE9cQ) | [Brandon Engman](https://open.spotify.com/artist/08dhzQWNxcqgrEgagEPdXP), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:36 |
+| 9 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
 | 10 | [This Is Our God](https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:25 |
 | 11 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |
 | 12 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 33 | [Isn't He Good](https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:18 |
 | 34 | [Song Of The Saints](https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 6:00 |
 | 35 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
-| 36 | [At Your Name \(Yahweh, Yahweh\)](https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:54 |
-| 37 | [Flowers \(with Jamie MacDonald\)](https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Song Of The Saints \(Deluxe\)](https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT) | 4:37 |
+| 36 | [Flowers \(with Jamie MacDonald\)](https://open.spotify.com/track/6wGoOROkXRICGwbj3vrKNm) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Song Of The Saints \(Deluxe\)](https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT) | 4:37 |
+| 37 | [At Your Name \(Yahweh, Yahweh\)](https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:54 |
 | 38 | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ) | 3:55 |
 | 39 | [His Name Is Jesus](https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:21 |
 | 40 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 49 | [Heaven Song](https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Heaven & Earth](https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v) | 4:04 |
 | 50 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 
-Snapshot ID: `abyOAAAAAABDk4DMSWycAZz3aAqi5VfG`
+Snapshot ID: `ab3fgAAAAACGiEwkvDpAP8lx2Wcg24kU`

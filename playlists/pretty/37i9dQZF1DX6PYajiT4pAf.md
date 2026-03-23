@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Cano, Quevedo, Maluma, TINI, Ginebras y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,240 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,248 likes - 84 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

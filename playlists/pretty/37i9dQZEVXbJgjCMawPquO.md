@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 5 | [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 |
 | 6 | [QLOO\*](https://open.spotify.com/track/7CMj1OOS1ho4CPEQTFKzcN) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 2:26 |
 | 7 | [SOBERBIO \- REMIX](https://open.spotify.com/track/31YmJA87Y1LS2SFKGbHNzT) | [JERÔME](https://open.spotify.com/artist/2MFxzEk0GXxdNpCYdLnRy2), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW) | [SOBERBIO \(REMIX\)](https://open.spotify.com/album/4WW12q2UYl5z55pmA1WovI) | 3:01 |
-| 8 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 8 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 9 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
 | 10 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 11 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 43 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 | 44 | [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 |
 | 45 | [MI DEBILIDAD](https://open.spotify.com/track/4N6qAEYy282pyOprDEU9Dw) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Corona](https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ) | [MI DEBILIDAD](https://open.spotify.com/album/4G7YKEAXQj0kZS25j92v6i) | 3:59 |
-| 46 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 46 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 47 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
 | 48 | [Imitadora](https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:54 |
 | 49 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 50 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 |
 
-Snapshot ID: `MVICmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

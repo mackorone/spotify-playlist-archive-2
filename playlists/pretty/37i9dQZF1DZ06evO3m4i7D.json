@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2148,
+  "num_followers": 2150,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADJzCNQy7kb2eS6/7SINwtI",
+  "snapshot_id": "ab3fgAAAAADaF5igE6bdI75ttTK6hxy3",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
+        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
+      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kindersiza",
         "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 153239,
       "name": "Kindersiza",
       "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
-        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
-      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
     },
     {
       "added_at": null,
@@ -619,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,

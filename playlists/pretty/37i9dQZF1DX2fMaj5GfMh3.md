@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,194 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,196 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

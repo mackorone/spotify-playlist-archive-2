@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,102 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,106 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 40 | [Diddley Daddy](https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 5:11 |
 | 41 | [Color And Kind](https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 3:11 |
 | 42 | [I've Been Abused \- Single Version](https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:14 |
-| 43 | [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 |
-| 44 | [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 |
+| 43 | [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 |
+| 44 | [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 |
 | 45 | [Wolf Is At Your Door](https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:55 |
 | 46 | [I Better Go Now \- Single Version](https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:42 |
 | 47 | [Mr\. Highway Man](https://open.spotify.com/track/1y93HSjyPk4XuNMRnqRRd2) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:48 |
+| 48 | [I Didn't Mean to Hurt Your Feelings \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:34 |
 
-Snapshot ID: `abyOAAAAAAByg9aQBQZyW8BJ2fFcwMn1`
+Snapshot ID: `ab3fgAAAAAAP2GK1nYQDshCru8UYZyW6`

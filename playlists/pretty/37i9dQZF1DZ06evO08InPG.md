@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,146 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,156 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,30 +33,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 23 | [ØUTSIDER](https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
 | 24 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
 | 25 | [None but My Own](https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 6:14 |
-| 26 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
-| 27 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 |
-| 28 | [Now I Lay Thee Down](https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:34 |
-| 29 | [ATØMIC REVELATIØNS](https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:41 |
+| 26 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 |
+| 27 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
+| 28 | [ATØMIC REVELATIØNS](https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:41 |
+| 29 | [Now I Lay Thee Down](https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:34 |
 | 30 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 |
 | 31 | [Blood for Blood](https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 3:40 |
-| 32 | [Aesthetics of Hate](https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 6:30 |
-| 33 | [THESE SCARS WØN'T DEFINE US](https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:32 |
+| 32 | [THESE SCARS WØN'T DEFINE US](https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:32 |
+| 33 | [Aesthetics of Hate](https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 6:30 |
 | 34 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 |
 | 35 | [The Rage to Overcome](https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:46 |
-| 36 | [This Is the End](https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 6:11 |
-| 37 | [UNBØUND](https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
+| 36 | [UNBØUND](https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:56 |
+| 37 | [This Is the End](https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 6:11 |
 | 38 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
 | 39 | [Ghosts Will Haunt My Bones](https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:06 |
-| 40 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
-| 41 | [ADDICTED TØ PAIN](https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:10 |
+| 40 | [ADDICTED TØ PAIN](https://open.spotify.com/track/3aDissFCQVBlEvImNXK8A7) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:10 |
+| 41 | [Bastards](https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 5:04 |
 | 42 | [ARRØWS IN WØRDS FRØM THE SKY](https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:55 |
 | 43 | [Killers & Kings](https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:32 |
-| 44 | [Catharsis](https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 6:10 |
-| 45 | [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 |
+| 44 | [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 |
+| 45 | [Catharsis](https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 6:10 |
 | 46 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 |
 | 47 | [Sail Into The Black](https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 8:29 |
 | 48 | [I Am Hell \(Sonata in C\#\)](https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 8:27 |
 | 49 | [Slanderous](https://open.spotify.com/track/4tH51l243jr1ZIrdHgXlQm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:16 |
 | 50 | [SLAUGHTER THE MARTYR](https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 10:25 |
 
-Snapshot ID: `abyOAAAAAAAwZlmR8lzN49My984nZJ0E`
+Snapshot ID: `ab3fgAAAAAAIZLmHPG1fUpr0EXW1Hjjf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,958 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,924 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 40 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
 | 41 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:01 |
 | 42 | [White Christmas](https://open.spotify.com/track/16CUCqzVir1o0TPnDZRScr) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8) | [White Christmas \- A Christmas Festival](https://open.spotify.com/album/6yzjErG9plP2b6b62R6yvn) | 3:23 |
-| 43 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
+| 43 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 | 44 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 45 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 | 46 | [Dominick the Donkey \(The Italian Christmas Donkey\)](https://open.spotify.com/track/6W332S9Wbc6TOBlChnemKD) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg) | [Dominick the Donkey and Other Hits](https://open.spotify.com/album/3QfPlnKLvD9IQwVJhcp4Rj) | 2:30 |

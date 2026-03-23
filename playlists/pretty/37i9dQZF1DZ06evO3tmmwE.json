@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1389,
+  "num_followers": 1390,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADy7z1Co8BajUXX8uXW1WTm",
+  "snapshot_id": "ab3fgAAAAACkQWg94NOiQ6z5gLgyk3uj",
   "tracks": [
     {
       "added_at": null,
@@ -63,34 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sola Y Triste",
-        "url": "https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb"
-      },
-      "artists": [
-        {
-          "name": "MC Magic",
-          "url": "https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1"
-        },
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "El Terricola",
-          "url": "https://open.spotify.com/artist/0TejuLSXdykDokkruhM9aF"
-        }
-      ],
-      "duration_ms": 262870,
-      "name": "Sola Y Triste",
-      "url": "https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
         "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
       },
@@ -119,6 +91,34 @@
       "duration_ms": 246000,
       "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
       "url": "https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sola Y Triste",
+        "url": "https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb"
+      },
+      "artists": [
+        {
+          "name": "MC Magic",
+          "url": "https://open.spotify.com/artist/3cuVSUrq0yoSSP7gpvI6q1"
+        },
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "El Terricola",
+          "url": "https://open.spotify.com/artist/0TejuLSXdykDokkruhM9aF"
+        }
+      ],
+      "duration_ms": 262870,
+      "name": "Sola Y Triste",
+      "url": "https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 168277,
-      "name": "Suicidal Thoughts",
-      "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
+      "duration_ms": 151524,
+      "name": "Vida Lujosa",
+      "url": "https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 151524,
-      "name": "Vida Lujosa",
-      "url": "https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB"
+      "duration_ms": 168277,
+      "name": "Suicidal Thoughts",
+      "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
     },
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "Con Un Toque",
+        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 107000,
-      "name": "Mexicanos",
-      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+      "duration_ms": 173848,
+      "name": "Con Un Toque",
+      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
     },
     {
       "added_at": null,
@@ -471,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Un Toque",
-        "url": "https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 173848,
-      "name": "Con Un Toque",
-      "url": "https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG"
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 159712,
-      "name": "Touring Tx",
-      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
+      },
+      "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 261407,
       "name": "Pa Mi Gente",
       "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 287973,
-      "name": "Big Le$ter",
-      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 524081,
+  "num_followers": 524113,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABchtPZegHcyVilMFHPJXe2",
+  "snapshot_id": "ab3fgAAAAAAqme4yRaNgbi4cwS+97dB8",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 259586,
       "name": "Alma M\u00eda (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pel\u00edcula Muda, Pt. 1",
-        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,
@@ -723,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 237346,
       "name": "Caminar bonito",
       "url": "https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": null,

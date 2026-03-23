@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804,318 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,804,394 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 39 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 |
 | 40 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 |
 | 41 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
-| 42 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
-| 43 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
+| 42 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
+| 43 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
 | 44 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 45 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 |
 | 46 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 82 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 |
 | 83 | [like my father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [like my father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
 | 84 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
-| 85 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
-| 86 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
+| 85 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
+| 86 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 87 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 88 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
 | 89 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |

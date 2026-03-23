@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,844 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,845 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 29 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 30 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 |
 | 31 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 |
-| 32 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 32 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 33 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
-| 34 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 34 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 35 | [Mami](https://open.spotify.com/track/5bpHHnpjPsNiq5AmyU7o8j) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mami](https://open.spotify.com/album/6n5CukxEAe6wQDgx0Aep6D) | 3:08 |
 | 36 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 37 | [Miami](https://open.spotify.com/track/0mWvjlmpcVAyvyw8ENG0oK) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/14Cr40t8HRKvsfANQKq4m3) | 2:46 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 69 | [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 |
 | 70 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 71 | [Quand tu parles](https://open.spotify.com/track/7eUOku4llYDEuY3Jo0PnuV) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:48 |
-| 72 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
-| 73 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 72 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
+| 73 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 74 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 75 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 

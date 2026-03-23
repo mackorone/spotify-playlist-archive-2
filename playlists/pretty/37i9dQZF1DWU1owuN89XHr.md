@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,212 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,222 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 68 | [Yolanda](https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Amo Esta Isla](https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG) | 4:38 |
 | 69 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
 | 70 | [Entre Pairos y Derivas](https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ) | 4:16 |
-| 71 | [Noche Sin Fin y Mar](https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Noche Sin Fin y Mar](https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf) | 3:04 |
+| 71 | [La Adivinanza](https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [La Adivinanza](https://open.spotify.com/album/3rlFptmri4KCKaniDoJpqX) | 2:17 |
 | 72 | [Una Palabra](https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Sounds of Havana, Vol\. 1](https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU) | 2:30 |
 | 73 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
 | 74 | [Kilómetros de Cielo](https://open.spotify.com/track/5s2vTgpSicPRxA2TLKh2Pi) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [De Carne y Hueso](https://open.spotify.com/album/2VvlDz9IS23XmNMzjeGdLN) | 4:21 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 79 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 |
 | 80 | [Juré](https://open.spotify.com/track/5QnaXZj8VUrCHZ2NWuP4Y9) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Contigo](https://open.spotify.com/album/0tveCb0Wi30pENdaIqM7Lj) | 3:36 |
 | 81 | [Prefiero amar](https://open.spotify.com/track/3Ig5t3esx6oEXPzFfn837w) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Aire](https://open.spotify.com/album/3eiUKyEarSxAvjZLqIJ1M6) | 3:32 |
-| 82 | [La Adivinanza](https://open.spotify.com/track/4gDejBbf4JuBCyZNGuY8Ey) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [La Adivinanza](https://open.spotify.com/album/3rlFptmri4KCKaniDoJpqX) | 2:17 |
+| 82 | [Noche Sin Fin y Mar](https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Noche Sin Fin y Mar](https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf) | 3:04 |
 | 83 | [A mi lado](https://open.spotify.com/track/6B1t254FqrOgPxmLTmRvxR) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [A mi lado](https://open.spotify.com/album/0rOqxGx0SPI8ZYnToq7HoE) | 3:59 |
 | 84 | [Ella es un Volcán](https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:36 |
 | 85 | [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 |

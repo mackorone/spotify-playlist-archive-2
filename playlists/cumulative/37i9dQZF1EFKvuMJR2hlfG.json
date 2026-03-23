@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154448,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
+    },
+    {
+      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },

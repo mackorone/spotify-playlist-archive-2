@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,644 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,654 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 37 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [Mirae Yoon](https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |
 | 38 | [Amateur](https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l) | 4:03 |
 | 39 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
-| 40 | [Wake From The Dark](https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 2:53 |
-| 41 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
-| 42 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
+| 40 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
+| 41 | [Wake From The Dark](https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 2:53 |
+| 42 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 43 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 |
 | 44 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 |
 | 45 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |

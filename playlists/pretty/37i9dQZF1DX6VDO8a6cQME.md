@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,842,832 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,843,228 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 13 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 |
 | 14 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
 | 15 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
-| 16 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
+| 16 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 |
 | 17 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 |
-| 18 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 |
+| 18 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
 | 19 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 20 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
 | 21 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 40 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
 | 41 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
 | 42 | [Kiss of Life](https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:50 |
-| 43 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
+| 43 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
 | 44 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
-| 45 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 45 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
 | 46 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 | 47 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 48 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
-| 49 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
-| 50 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |
+| 49 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |
+| 50 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 51 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
 | 52 | [Every Little Thing I Do](https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:20 |
 | 53 | [Pony](https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Ginuwine..\. The Bachelor](https://open.spotify.com/album/4cEX2rhss4PBg5EU5Vs0Uj) | 5:24 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 67 | [Share My World](https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 5:07 |
 | 68 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 69 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
-| 70 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
-| 71 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
+| 70 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
+| 71 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 72 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 | 73 | [Angel of Mine](https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:10 |
 | 74 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |

@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4112756,
+  "num_followers": 4112603,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
       "added_at": "2025-09-05 11:40:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,800,987 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,801,898 likes - 150 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 28 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 29 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/0Uqs7ilt5kGX9NzFDWTBrP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:52 |
 | 30 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
-| 31 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
-| 32 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
+| 31 | [Baby, I Love Your Way](https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 4:09 |
+| 32 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
 | 33 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
 | 34 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
 | 35 | [Here With Me](https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 4:15 |
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 80 | [Stranger in Moscow](https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:44 |
 | 81 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 82 | [To Love Somebody](https://open.spotify.com/track/4ye6YRG07XMpZZ9Y9tNTt6) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Timeless \(The Classics\)](https://open.spotify.com/album/7g7nFMPWmFfk70ZvhTs0TT) | 4:07 |
-| 83 | [That's Why You Go Away](https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Strange Foreign Beauty](https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO) | 4:13 |
-| 84 | [Unpretty](https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 4:38 |
+| 83 | [Unpretty](https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 4:38 |
+| 84 | [That's Why You Go Away](https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Strange Foreign Beauty](https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO) | 4:13 |
 | 85 | [One Last Cry](https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 4:55 |
 | 86 | [Take a Bow](https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:21 |
 | 87 | [To Be With You](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 88 | [Think Twice](https://open.spotify.com/track/5T0VoskNbpJIqm2RSPU2Xt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:48 |
 | 89 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
 | 90 | [6, 8, 12](https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:07 |
-| 91 | [Love Me For A Reason](https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 3:38 |
-| 92 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
+| 91 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
+| 92 | [Love Me For A Reason](https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 3:38 |
 | 93 | [Jesus to a Child](https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:51 |
 | 94 | [Try Sleeping with a Broken Heart](https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 |
 | 95 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 146 | [Words](https://open.spotify.com/track/5wL8pCixiA25HSqYDYe5EX) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [The Love Songs Collection](https://open.spotify.com/album/2uJAf1p3d0ZH9s053lQDqm) | 4:03 |
 | 147 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
 | 148 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
-| 149 | [Crash and Burn](https://open.spotify.com/track/5K42nFG0GelzG7oESUf7uj) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/67M8LSfsBxjM6AmxLjAzhT) | 4:41 |
+| 149 | [I Don't Want to Miss a Thing \- From the Touchstone film, "Armageddon"](https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K) | 4:59 |
 | 150 | [Vision Of Love](https://open.spotify.com/track/1JghQmZFmteQh7ZiY7JUnn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1's](https://open.spotify.com/album/16tYqZmtlXBp8z09x2wOI2) | 3:29 |
 
 Snapshot ID: `AAAAAMvgUJJPvSfprOoD/GkMMKxR0bQk`

@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067653,
+  "num_followers": 1067702,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
       "added_at": "2026-03-20 04:00:30",
       "album": {
         "name": "Dark and Stormy",
@@ -155,6 +139,22 @@
       "duration_ms": 187200,
       "name": "Dark and Stormy",
       "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -353,26 +353,6 @@
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
     },
     {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "What Good Is My Love?",
-        "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Orianthi",
-          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "What Good Is My Love?",
-      "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
-    },
-    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "JPEG RAW",
@@ -391,6 +371,26 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
+    },
+    {
+      "added_at": "2026-03-06 05:00:04",
+      "album": {
+        "name": "What Good Is My Love?",
+        "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "What Good Is My Love?",
+      "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
     },
     {
       "added_at": "2026-03-04 15:51:29",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180150,
       "name": "The Mule",
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
+      "duration_ms": 236219,
+      "name": "Oh Betty",
+      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 236219,
-      "name": "Oh Betty",
-      "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Antique Hearts: Revisited",
-        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
       },
       "artists": [
         {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 219380,
-      "name": "Antique Hearts",
-      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+        "name": "Antique Hearts: Revisited",
+        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
       },
       "artists": [
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+      "duration_ms": 219380,
+      "name": "Antique Hearts",
+      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
     },
     {
       "added_at": "2026-03-06 05:00:04",
@@ -925,20 +925,28 @@
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-20 04:00:30",
       "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
       "artists": [
         {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+          "name": "Hollie Rogers",
+          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "Beth Nielsen Chapman",
+          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
         }
       ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+      "duration_ms": 234596,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -959,6 +967,22 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1043,22 +1067,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1075,18 +1083,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Plus One",
-        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
       "artists": [
         {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Love Like Whiskey",
-      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1111,6 +1119,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Companions",
         "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 225106,
       "name": "My Own Disguise",
       "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
-    },
-    {
-      "added_at": "2026-03-20 04:00:30",
-      "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
-      },
-      "artists": [
-        {
-          "name": "Hollie Rogers",
-          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
-        },
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        },
-        {
-          "name": "Beth Nielsen Chapman",
-          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
-        }
-      ],
-      "duration_ms": 234596,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 347674,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Love On My Brain",
         "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
       },
@@ -1199,22 +1183,34 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
       "artists": [
         {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 199174,
-      "name": "I Guess I\u2019ll Get The Papers And Go Home",
-      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+        "name": "What's Not To Love?",
+        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        },
+        {
+          "name": "Mister Romantic",
+          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
         }
       ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
+      "duration_ms": 199174,
+      "name": "I Guess I\u2019ll Get The Papers And Go Home",
+      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+        "name": "Devil That You Know",
+        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
       },
       "artists": [
         {
-          "name": "Oh He Dead",
-          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
         }
       ],
-      "duration_ms": 335658,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+      "duration_ms": 198496,
+      "name": "Devil That You Know",
+      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Devil That You Know",
-        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
       "artists": [
         {
-          "name": "Emma Elena Grace",
-          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
         }
       ],
-      "duration_ms": 198496,
-      "name": "Devil That You Know",
-      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Who Needs the Weather",
-        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Who Needs the Weather",
-      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 247013,
       "name": "Hey! You Know You Wanna!",
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Who Needs the Weather",
+        "url": "https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Who Needs the Weather",
+      "url": "https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb"
     },
     {
       "added_at": "2026-02-13 05:00:37",

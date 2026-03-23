@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 吉澤嘉代子 Kayoko Yoshizawa
 
-3,732 songs - 9 day 21 hr 51 min
+3,733 songs - 9 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1364,7 +1364,7 @@
 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 | 2023-02-23 | 2023-03-01 |
 | [One Last Kiss](https://open.spotify.com/track/77bY0sNBpcBtUVdt0T4OQp) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [One Last Kiss](https://open.spotify.com/album/5QUrtiac2S7JJheY8PQVlK) | 3:26 | 2025-11-18 | 2025-11-26 |
 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 | 2022-09-06 | 2022-11-25 |
-| [One more smile](https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [smile](https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8) | 3:57 | 2026-02-11 |  |
+| [One more smile](https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [smile](https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8) | 3:57 | 2026-02-11 | 2026-03-23 |
 | [One More Time](https://open.spotify.com/track/4tNUZ3eF2FBwQr2DWWaWYg) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [One More Time](https://open.spotify.com/album/1FsL8XvAY0LwYfrgFf7fYs) | 4:06 | 2023-06-22 | 2023-06-28 |
 | [One More Time \(feat\. Gottz\) \- Bonus Track](https://open.spotify.com/track/1O8gKsbhF2dI6HaqZqmjhj) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [22 \(Deluxe Edition\)](https://open.spotify.com/album/29NhzbgbDRenNGD4o9QRmc) | 4:03 | 2023-09-12 | 2023-10-04 |
 | [One more time, One more chance](https://open.spotify.com/track/7fambuJmip1km8ZngYImec) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [MESSAGE \~Piano & Voice\~](https://open.spotify.com/album/6SpHOMk39I7rY7eCOApXpX) | 5:45 | 2022-06-07 | 2022-07-15 |
@@ -3736,6 +3736,7 @@
 | [鱗粉\(Butterfly Scales\)](https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [土岐麻子](https://open.spotify.com/artist/429hYFKu9GAduA8lkTqZR3), [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [鱗粉\(Butterfly Scales\)](https://open.spotify.com/album/2mzZVJhkf9j8wz2LP6vCQz) | 4:00 | 2025-05-27 | 2025-06-04 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-29 | 2022-10-26 |
 | [麗春花](https://open.spotify.com/track/6mXdow7DePBCa8nn24zv7q) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [be noble](https://open.spotify.com/album/7JLS5rWIw8FP2VQg8C5KHF) | 3:24 | 2024-05-21 | 2024-05-29 |
+| [黄昏プリズム \-Waves of First Love\- \(feat\. 財津マイ\)](https://open.spotify.com/track/2nJPGKmKqdvoIXk32AEmKN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏プリズム \-Waves of First Love\- \(feat\. 財津マイ\)](https://open.spotify.com/album/1LlbbfyB5piSAdJPzHFh6R) | 3:19 | 2026-03-17 |  |
 | [黎明のワルツ](https://open.spotify.com/track/3N5vaLucgDy1N8Z9nHpq1p) | [大槻美奈](https://open.spotify.com/artist/2t7oBLvbMC9ykeWssrjZpY) | [LAND](https://open.spotify.com/album/3c5lgHH5BUczJKFMMPuYPj) | 3:36 | 2022-12-27 | 2023-01-04 |
 | [鼓動](https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [鼓動](https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR) | 2:41 | 2022-06-07 | 2022-07-18 |
 | [３３４１よ](https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [３３４１よ](https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM) | 3:35 | 2024-02-13 | 2024-02-21 |

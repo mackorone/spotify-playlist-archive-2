@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,143 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,079 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 10 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 11 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 12 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
-| 13 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
+| 13 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 14 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 15 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 |
 | 16 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 17 | [Better](https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:49 |
-| 18 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 18 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
 | 19 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 20 | ['Cause You Have To](https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 4:10 |
 | 21 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |

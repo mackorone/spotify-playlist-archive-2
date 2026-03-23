@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 133228,
+  "num_followers": 133247,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-08-11 14:48:56",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5YOPNlihunDoAew2Jlbbd7"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/0OTO8ZF2YqFQVw9hnZylTd"
-    },
-    {
-      "added_at": "2025-08-11 14:48:56",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2025-08-11 14:48:56",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5YOPNlihunDoAew2Jlbbd7"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/0OTO8ZF2YqFQVw9hnZylTd"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8"
     },
     {
+      "added_at": "2025-08-11 14:48:56",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
@@ -851,22 +867,6 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-    },
-    {
-      "added_at": "2025-08-11 14:48:56",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2025-08-11 14:48:56",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
     },
     {
+      "added_at": "2025-08-11 14:48:56",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
+    },
+    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tattoo (Topic Remix)",
@@ -979,22 +995,6 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
-    },
-    {
-      "added_at": "2025-08-11 14:48:56",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
     },
     {
       "added_at": "2025-08-11 14:48:56",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1529,24 +1529,20 @@
       "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
     },
     {
-      "added_at": "2024-08-29 22:00:00",
+      "added_at": "2025-08-11 14:48:56",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+      "duration_ms": 215533,
+      "name": "Moving on Up",
+      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

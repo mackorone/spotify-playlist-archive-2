@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 55446,
+  "num_followers": 55457,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACeRwrRPnCkOvyRn6k6BHzI",
+  "snapshot_id": "ab3fgAAAAAC5KoolnTsjcmtUbEjRwgdx",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Savior",
         "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 261600,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 335200,
-      "name": "Holy Spirit, Come Fill This Place",
-      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 51466,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 635360,
       "name": "King of Glory - Live",
       "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
     },
     {
       "added_at": null,

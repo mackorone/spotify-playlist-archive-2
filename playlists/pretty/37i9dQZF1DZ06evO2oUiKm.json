@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11466,
+  "num_followers": 11473,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABUa93/aCMXXwHKstWhz8XJ",
+  "snapshot_id": "ab3fgAAAAAAcWGxqipJ6O0sYzx/Yrzx2",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ocean In The Desert",
+        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 224643,
+      "name": "Ocean In The Desert",
+      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 275198,
       "name": "Save Me From You",
       "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 262449,
-      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
-      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 262449,
+      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
+      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -495,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean In The Desert",
-        "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 224643,
-      "name": "Ocean In The Desert",
-      "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Only Knows (feat. yMusic)",
         "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 160289,
       "name": "Intro (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 183973,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 167693,
       "name": "Hold On I'm Coming",
       "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 269897,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 237387,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 269897,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
       "duration_ms": 183506,
       "name": "Fly Before You Fall",
       "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 284751,
-      "name": "Anything Worth Holding On To",
-      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 254293,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 284751,
+      "name": "Anything Worth Holding On To",
+      "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
     },
     {
       "added_at": null,

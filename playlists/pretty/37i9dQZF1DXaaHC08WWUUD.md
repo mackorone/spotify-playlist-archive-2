@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 
 > me quiero mucho
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,708 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,722 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 32 | [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 |
 | 33 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 34 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
-| 35 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
-| 36 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
-| 37 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
-| 38 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 35 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
+| 36 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
+| 37 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 38 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 39 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 | 40 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
 | 41 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 61 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 |
 | 62 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 63 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
-| 64 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 |
-| 65 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 64 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 65 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 |
 | 66 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
-| 67 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 68 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
+| 67 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
+| 68 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 69 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
 | 70 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 71 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 |

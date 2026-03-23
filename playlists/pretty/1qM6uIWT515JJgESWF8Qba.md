@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 381 likes - 65 songs - 4 hr 15 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 382 likes - 66 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 63 | [Alive Again](https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Alive Again](https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum) | 2:58 |
 | 64 | [Fickled](https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Fickled](https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i) | 3:43 |
 | 65 | [Too Far](https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Too Far](https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4) | 3:03 |
+| 66 | [Diagnos](https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Diagnos](https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5) | 3:10 |
 
-Snapshot ID: `AAABZ4/u9B0ph94EsW/GiKkr/xDUTCRi`
+Snapshot ID: `AAABaG09fb0WGvplmPv6xiMwPiv0zXz2`

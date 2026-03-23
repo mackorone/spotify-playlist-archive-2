@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 27 min
+118 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Sunday Bloody Sunday](https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Monsters](https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4) | 4:24 | 2022-10-25 |  |
 | [The Art of American Football](https://open.spotify.com/track/5jAbXsbYk7ZufSShbIWyym) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 2:22 | 2022-10-25 | 2025-06-28 |
 | [The Diary](https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:40 | 2022-10-25 |  |
-| [The Distance](https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:26 | 2024-10-15 |  |
+| [The Distance](https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:26 | 2024-10-15 | 2026-03-23 |
+| [The Distance](https://open.spotify.com/track/1lpBxusgNx8GwgSt7vUOgj) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 2:26 | 2026-03-23 |  |
 | [The Distance](https://open.spotify.com/track/4z6nCgne1X6YJEnQdAHaYb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:26 | 2022-10-25 | 2024-10-15 |
 | [The Getaway Plan](https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 4:15 | 2022-10-25 | 2025-06-28 |
 | [The Great Wide Open](https://open.spotify.com/track/4Kw0rzSRMusVoIoyMuCeuM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:32 | 2022-10-25 |  |

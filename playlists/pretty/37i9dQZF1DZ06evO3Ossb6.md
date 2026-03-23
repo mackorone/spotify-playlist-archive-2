@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,308 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,376 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 31 | [Que Seas Muy Feliz](https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 2:46 |
 | 32 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
 | 33 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
-| 34 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
-| 35 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 |
+| 34 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 |
+| 35 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
 | 36 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
 | 37 | [Es la Mujer](https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 2:58 |
 | 38 | [Tu Maniquí](https://open.spotify.com/track/3TPsk3yeRWWJibDY8dKzU7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [1800 Noches](https://open.spotify.com/album/0kwzWsmJGDlHG0Vv0vf9rG) | 2:34 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 41 | [No Se Me Hace Fácil](https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 3:45 |
 | 42 | [Vamos A Darnos Tiempo \- Live At El Lunario En La Ciudad De México/2010](https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Revolución En Vivo \(Live At El Lunario En La Ciudad De México/2010\)](https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n) | 4:17 |
 | 43 | [Qué Bueno](https://open.spotify.com/track/3k4KZ9hyZecHJqlQvAZ2zw) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:12 |
-| 44 | [Te Quiero, Te Quiero](https://open.spotify.com/track/2Gxl1JA1dAUtiIHBnulxrM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 3:24 |
-| 45 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
+| 44 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
+| 45 | [Te Quiero, Te Quiero](https://open.spotify.com/track/2Gxl1JA1dAUtiIHBnulxrM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 3:24 |
 | 46 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 |
 | 47 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
 | 48 | [Cuando Digo Tu Nombre \(Mejor\)](https://open.spotify.com/track/5BmnwbpelhqAzcIhHxUJY2) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos](https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD) | 3:18 |
 | 49 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 | 50 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
 
-Snapshot ID: `abyOAAAAAABrNi1BdHHn5fB7tOYThLYx`
+Snapshot ID: `ab3fgAAAAAAmarJLTo7DD6szYa/mR4lN`

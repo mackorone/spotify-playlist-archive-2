@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,395 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,422 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 15 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
 | 16 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 |
 | 17 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
-| 18 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 |
+| 18 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 19 | [Azul](https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 3:14 |
-| 20 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
+| 20 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
 | 21 | [Amor Clandestino](https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:51 |
-| 22 | [¡Corre!](https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 4:48 |
+| 22 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 |
 | 23 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
 | 24 | [Arrullo De Estrellas](https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Programaton](https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD) | 4:12 |
 | 25 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,330 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,457 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 72 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 |
 | 73 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 |
 | 74 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
-| 75 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
+| 75 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 
 Snapshot ID: `AAAAAAiDJzq/EuFYStcqzhg+jmTjQWaw`

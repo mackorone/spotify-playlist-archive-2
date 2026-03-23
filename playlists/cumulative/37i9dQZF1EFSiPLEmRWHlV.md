@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 8 hr 51 min
+156 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Need You Now](https://open.spotify.com/track/3xSJRO7U763TI1dzGH8ixZ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Need You Now](https://open.spotify.com/album/1aBZkuy9Rv9k6fxKiAqzCb) | 2:40 | 2024-06-13 |  |
 | [Never Let You Go](https://open.spotify.com/track/5yQzLPrsfpPW4OjlacvJgF) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Never Let You Go](https://open.spotify.com/album/0OtpU10W9Ce2winkVNcoTh) | 4:14 | 2024-06-13 |  |
 | [NGFM](https://open.spotify.com/track/64vuzGjFknp6dpA7hiUFvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [NGFM](https://open.spotify.com/album/4ZPv83UmqVfQHY0NgFbwli) | 3:43 | 2024-06-13 |  |
-| [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 | 2024-06-13 |  |
+| [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 | 2024-06-13 | 2026-03-23 |
+| [Night To Remember](https://open.spotify.com/track/2zn9xRDmL6bos88gpEjZDA) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0A0L97ua7r75MOnvSpslO8) | 2:55 | 2026-03-22 |  |
 | [No Hero](https://open.spotify.com/track/51KIZQHx2RX54HQQX35HbS) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [KBVOL.5](https://open.spotify.com/album/3zqfP3jTQPDNtCBknPV1MU) | 3:15 | 2024-06-13 |  |
 | [No One Else](https://open.spotify.com/track/2gWRWycfoK1CMbOWKy0bp2) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 4:13 | 2024-06-13 |  |
 | [Nobody Knows](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Nobody Knows](https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp) | 4:21 | 2025-06-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,406 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,415 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 22 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 23 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
 | 24 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 25 | [Spiral City](https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 2:29 |
-| 26 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
+| 25 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
+| 26 | [Spiral City](https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 2:29 |
 | 27 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 28 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
 | 29 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 86 | [Kills Me To Be Kind](https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Kills Me To Be Kind](https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg) | 4:40 |
 | 87 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
 | 88 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
-| 89 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
-| 90 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
+| 89 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
+| 90 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
 | 91 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 92 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
 | 93 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |

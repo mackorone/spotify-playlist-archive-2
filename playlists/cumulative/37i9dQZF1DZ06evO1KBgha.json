@@ -1502,10 +1502,32 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 166181,
       "name": "Stripper",
       "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
+    },
+    {
+      "album": {
+        "name": "HEROINA",
+        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg"
     },
     {
       "album": {

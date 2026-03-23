@@ -5433,6 +5433,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed As\u00ed",
+        "url": "https://open.spotify.com/album/4EU916msFGERJzOTFSo8gP"
+      },
+      "artists": [
+        {
+          "name": "Betzabeth",
+          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
+        },
+        {
+          "name": "Denezzz",
+          "url": "https://open.spotify.com/artist/0DnfHupMVPHI0EP3ZeTUmW"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "As\u00ed As\u00ed",
+      "url": "https://open.spotify.com/track/1G4g9FWMPDC0SOkS8nUqor"
+    },
+    {
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -12717,6 +12739,32 @@
     },
     {
       "album": {
+        "name": "DINAST\u00cdA (DELUXE)",
+        "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161620,
+      "name": "chiclona",
+      "url": "https://open.spotify.com/track/5Q4HTsEGKanxOwL1nYCnhQ"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -15778,7 +15826,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -38697,6 +38745,24 @@
     },
     {
       "album": {
+        "name": "Love Without Disguises",
+        "url": "https://open.spotify.com/album/19H6A6oMv9paBkyycuRouA"
+      },
+      "artists": [
+        {
+          "name": "Warren Roob",
+          "url": "https://open.spotify.com/artist/0iUilg0v4jsKoxUPw9YbB4"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Love Without Disguises",
+      "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
+    },
+    {
+      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -39448,7 +39514,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 164546,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
@@ -58504,7 +58570,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -58522,7 +58588,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -62080,7 +62146,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -65260,7 +65326,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
@@ -71576,7 +71642,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABd0AUlqSKbr8E6FJ8o1TFr",
+  "snapshot_id": "ab3fgAAAAAC/ge1beNT3Cjs+u06b8Mud",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 137466,
-      "name": "Strawberry Julius",
-      "url": "https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt"
+      "duration_ms": 58773,
+      "name": "Rah! Rah! Replica",
+      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 58773,
-      "name": "Rah! Rah! Replica",
-      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
+      "duration_ms": 137466,
+      "name": "Strawberry Julius",
+      "url": "https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy"
+      "duration_ms": 215546,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
+      "duration_ms": 213026,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy"
     },
     {
       "added_at": null,

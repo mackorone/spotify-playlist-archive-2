@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,078 songs - 2 day 11 hr 0 min
+1,079 songs - 2 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 | 2026-03-12 |  |
 | [DSTM](https://open.spotify.com/track/6h6y3m83xvAOoCW3JZpzzf) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [DSTM](https://open.spotify.com/album/7db93AxaM3DpA75ZC5Uijr) | 2:56 | 2025-03-20 | 2025-05-02 |
 | [DTN](https://open.spotify.com/track/1p7GxV4HeuZK4zJHugQ7AW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [DTN](https://open.spotify.com/album/6eOMYDYcATu0l7GFj1Rzmp) | 1:59 | 2023-02-23 | 2023-05-26 |
-| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-25 |  |
+| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-25 | 2026-03-23 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2023-01-31 | 2024-04-19 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-09-19 |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 | 2025-11-07 |
@@ -618,6 +618,7 @@
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-01-05 |
 | [Rehab](https://open.spotify.com/track/3b1WgrrZodxXASonmXLqTS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:11 | 2023-09-07 | 2024-01-10 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2023-02-02 | 2023-02-24 |
+| [Rethink Some Things](https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:45 | 2026-03-19 |  |
 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 | 2023-10-19 | 2023-11-17 |
 | [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 | 2024-04-13 |
 | [ringo](https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Masamune Kusano](https://open.spotify.com/artist/0GM2PjSpnWSepHgnY7rwkC) | [ringo](https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3) | 4:13 | 2024-11-07 | 2025-01-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444426,
+  "num_followers": 444408,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
+        "name": "ZERO BALA",
+        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "PENSANDO EM MIM",
+      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
         "name": "SPAM",
         "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 169924,
       "name": "BRENDA",
       "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
-        "name": "ZERO BALA",
-        "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        },
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "PENSANDO EM MIM",
-      "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
         "name": "Boca Louca (Ao Vivo Em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/1cv1uAqQ791LCIihmNtgTF"
       },
@@ -943,26 +927,18 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         }
       ],
-      "duration_ms": 145749,
-      "name": "Rei da Noite",
-      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -999,6 +975,30 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 145749,
+      "name": "Rei da Noite",
+      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
+        "name": "Teu Jeitinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 197650,
+      "name": "Teu Jeitinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
         "name": "Quando Voc\u00ea Ligou",
         "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "Teu Jeitinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/3xmYjG7NfO1DUS5bPXVgsH"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 197650,
-      "name": "Teu Jeitinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
         "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
       },
@@ -1143,26 +1143,26 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "Carnaval",
-        "url": "https://open.spotify.com/album/3BMM2ZNMyXUj9KMDufIcpA"
+        "name": "23",
+        "url": "https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7"
       },
       "artists": [
         {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+          "name": "Mc Rodson",
+          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/0t9k2FueoXG9501nZYCDEN"
+      "duration_ms": 233898,
+      "name": "Gan\u00e2ncia",
+      "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
     }
   ],
   "unique_name": "AMPLIFIKA",

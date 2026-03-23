@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,175 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,176 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [Eu Fim, Você Início](https://open.spotify.com/track/2N6ubA2tA0P1fCaAaTMRbv) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [TANTAS FORMAS DE DIZER ADEUS](https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi) | 3:20 |
 | 25 | [Umami](https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 3:59 |
 | 26 | [La Vie Est Belle](https://open.spotify.com/track/1RhafjU3mDDgjyLDPmCLNl) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Perfumes e Cigarros](https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa) | 2:20 |
-| 27 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
-| 28 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
+| 27 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
+| 28 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
 | 29 | [Matar Saudade](https://open.spotify.com/track/63avrzRhhhKz0yrRKb6SKn) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Souvenir](https://open.spotify.com/album/1OBfikgKBcqn6pv5A0u0Pn) | 2:20 |
 | 30 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 31 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |

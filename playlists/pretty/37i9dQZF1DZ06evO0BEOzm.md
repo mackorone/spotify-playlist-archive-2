@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,122 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,137 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 | 50 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
 
-Snapshot ID: `abyOAAAAAAA9S1Wt7JRv2zB6k3iCVhI2`
+Snapshot ID: `ab3fgAAAAAD9fkcCz00+r7eoenyIymzc`

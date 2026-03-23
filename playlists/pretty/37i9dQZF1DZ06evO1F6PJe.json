@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109759,
+  "num_followers": 109767,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAnnTC9rFdku75Ka3tN79aM",
+  "snapshot_id": "ab3fgAAAAAAVgPFhvXS0ncPSkpqHiCM5",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 262869,
       "name": "Broken & Blue",
       "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
     },
     {
       "added_at": null,
@@ -316,13 +316,13 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 312013,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/6Ojjc3O2MySy23chZJ88u4"
+      "duration_ms": 284413,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades of Blue",
-        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 279226,
-      "name": "Different Shades of Blue",
-      "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
+      "duration_ms": 518533,
+      "name": "No Good Place For The Lonely",
+      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
     },
     {
       "added_at": null,
@@ -460,19 +460,19 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc"
+      "duration_ms": 312013,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/6Ojjc3O2MySy23chZJ88u4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Different Shades of Blue",
+        "url": "https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV"
       },
       "artists": [
         {
@@ -480,25 +480,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 518533,
-      "name": "No Good Place For The Lonely",
-      "url": "https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "I'll Take The Blame",
-      "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
+      "duration_ms": 279226,
+      "name": "Different Shades of Blue",
+      "url": "https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 400240,
       "name": "Just 'Cos You Can Don't Mean You Should",
       "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "I'll Take The Blame",
+      "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 244706,
       "name": "Trigger Finger",
       "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,045 likes - 311 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 311 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 154 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
 | 155 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
 | 156 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
-| 157 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
-| 158 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
+| 157 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
+| 158 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 159 | [Pink Birthday](https://open.spotify.com/track/70M5FBXSs1b1tJF2zywHyP) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:08 |
 | 160 | [My Side](https://open.spotify.com/track/4alHkxxwAhvoGg3dJCATKV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:54 |
 | 161 | [See No Evil](https://open.spotify.com/track/0ndpJtfKGuGM3pyNwnwSUx) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 4:44 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcMwdAAAAAB0NJeLbW+B0Ny+6e0pBiJ+`
+Snapshot ID: `AcM2FAAAAAA9SojuIFugbuD2jKVavsjg`

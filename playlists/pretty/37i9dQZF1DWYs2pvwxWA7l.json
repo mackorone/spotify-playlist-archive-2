@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Joeboy & Wizard Chan",
-  "num_followers": 637409,
+  "num_followers": 637474,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-20 00:01:29",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "added_at": "2026-03-20 00:01:29",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-03-20 00:01:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-03-20 00:01:29",
       "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2026-03-20 00:01:29",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2026-03-20 00:01:29",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-03-20 00:01:29",
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2026-03-20 00:01:29",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
-    },
-    {
-      "added_at": "2026-03-20 00:01:29",
-      "album": {
-        "name": "alone (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 153098,
-      "name": "alone (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
     },
     {
       "added_at": "2026-03-20 00:01:29",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2026-03-20 00:01:29",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "alone (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+      "duration_ms": 153098,
+      "name": "alone (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
     },
     {
       "added_at": "2026-03-20 00:01:29",

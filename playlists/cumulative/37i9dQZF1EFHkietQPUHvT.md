@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 5 hr 25 min
+108 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Afternoon Song](https://open.spotify.com/track/5l8NOrAi6aywtuZZFiec3r) | [HAMISH](https://open.spotify.com/artist/0vZ9bgfKD1AXIsJCIzqKsq) | [Afternoon Song](https://open.spotify.com/album/7v6lU4UWokW2qDnlZI6iTm) | 3:16 | 2026-03-22 |  |
 | [Ain't Letting You Down](https://open.spotify.com/track/2U3K7r9F5Ufnj2hkaKwR0M) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [ORIGO](https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic) | 4:21 | 2025-11-26 |  |
 | [All I Need](https://open.spotify.com/track/3eZYlTn1GGbRJyPXsfk3qT) | [Rika](https://open.spotify.com/artist/0fPXEf3FWrtikc2MVjKRKa) | [All I Need](https://open.spotify.com/album/56ubyM0z2MoYr4BveRFWtH) | 2:47 | 2024-02-26 |  |
 | [Already Famous](https://open.spotify.com/track/3hRZwN7ztijzRplL42OFWm) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Already Famous](https://open.spotify.com/album/73ESU5R3U4Bn69eTSSNSgv) | 2:34 | 2024-02-26 |  |

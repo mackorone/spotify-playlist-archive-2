@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,348 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,382 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 38 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 39 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 40 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 41 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
-| 42 | [Foreign Bird](https://open.spotify.com/track/0CbRgc5D5AKpfIlCmbggqh) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:12 |
+| 41 | [Foreign Bird](https://open.spotify.com/track/0CbRgc5D5AKpfIlCmbggqh) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:12 |
+| 42 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 |
 | 43 | [til august](https://open.spotify.com/track/6WUkPB4F1l26DfDqRIsbTH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [til august](https://open.spotify.com/album/3EMZG4Y5HKssmMazBmNlXt) | 4:02 |
 | 44 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
 | 45 | [Don't Include Me \(American Dream\)](https://open.spotify.com/track/17PfJpgoah18r7kKl0T8gF) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Don't Include Me \(American Dream\)](https://open.spotify.com/album/21zsuSka5XWc74qwThtb46) | 2:57 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 67 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 68 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
 | 69 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 70 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 |
-| 71 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 72 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
-| 73 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Until The Comet Came](https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17) | 4:06 |
-| 74 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
+| 70 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
+| 71 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
+| 72 | [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 |
+| 73 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |
+| 74 | [Team Babe](https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Until The Comet Came](https://open.spotify.com/album/1Ag9sz7rFDlTiHtacxRQ17) | 4:06 |
 | 75 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 |
 | 76 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 77 | [Fragments](https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Fragments](https://open.spotify.com/album/02LoGnwNdQjewONsLrM0YN) | 3:31 |

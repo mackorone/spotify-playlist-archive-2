@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,171 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,178 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 12 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 | 13 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 14 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 |
-| 15 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
+| 15 | [Slåss för dig](https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Slåss för dig](https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5) | 2:11 |
 | 16 | [I natt](https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I natt](https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj) | 2:30 |
 | 17 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
-| 18 | [Slåss för dig](https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Slåss för dig](https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5) | 2:11 |
-| 19 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
-| 20 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
+| 18 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
+| 19 | [Kæm Tok Ho Me Sæ](https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 3:06 |
+| 20 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 |
 | 21 | [Sommernatta](https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sommernatta](https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ) | 2:37 |
 | 22 | [Flaska](https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Flaska](https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I) | 2:31 |
 | 23 | [Hele natta](https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Hele natta](https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ) | 2:29 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 66 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |
 | 67 | [Dama Di](https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Dama Di](https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS) | 2:51 |
 | 68 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
-| 69 | [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 |
-| 70 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
+| 69 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
+| 70 | [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 |
 
 Snapshot ID: `AAAAACvMwVjI4exUMoItXoU5EfJ0YqNk`

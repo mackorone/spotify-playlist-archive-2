@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A BIRD'S TALE](https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 | 2025-01-03 | 2025-06-26 |
-| [A Tale in Paris](https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Winter Impressions](https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR) | 2:46 | 2025-10-24 |  |
+| [A Tale in Paris](https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Winter Impressions](https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR) | 2:46 | 2025-10-24 | 2026-03-23 |
 | [A Tale in Paris](https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [A Tale in Paris](https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ) | 2:46 | 2025-01-03 | 2025-06-15 |
 | [Age of Aquarius](https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:51 | 2026-01-21 |  |
 | [American Dream](https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:32 | 2026-02-11 |  |

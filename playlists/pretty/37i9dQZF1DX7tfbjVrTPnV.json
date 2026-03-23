@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 235383,
+  "num_followers": 235415,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 255826,
       "name": "Killing the Blues",
       "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "36 \u00a2",
-        "url": "https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV"
-      },
-      "artists": [
-        {
-          "name": "The Bacon Brothers",
-          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "36 Cents",
-      "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 255490,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "36 \u00a2",
+        "url": "https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV"
+      },
+      "artists": [
+        {
+          "name": "The Bacon Brothers",
+          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "36 Cents",
+      "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The Harrow & The Harvest",
+        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -1907,22 +1923,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Canola Fields",
-        "url": "https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 289791,
-      "name": "Canola Fields",
-      "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Copperhead Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
       },
@@ -1935,6 +1935,22 @@
       "duration_ms": 270066,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Canola Fields",
+        "url": "https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 289791,
+      "name": "Canola Fields",
+      "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Harrow & The Harvest",
-        "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 241957,
-      "name": "The Way It Goes",
-      "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2"
       },
@@ -2015,6 +2015,22 @@
       "duration_ms": 224093,
       "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
       "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2055,22 +2071,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
         "url": "https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 161253,
       "name": "Who's Gonna Take the Garbage Out (feat. Iris Dement)",
       "url": "https://open.spotify.com/track/727Ric7BCNuahIETyOALEU"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
     },
     {
       "added_at": "2024-08-30 04:00:00",

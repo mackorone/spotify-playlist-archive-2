@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 82817,
+  "num_followers": 82832,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 240750,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/1cznypGCkvfe1EnL2QAa6y"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
         "name": "Recordando Ariel Camacho (Live)",
         "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 212688,
       "name": "Hablemos - Live",
       "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 240750,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/1cznypGCkvfe1EnL2QAa6y"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Rancheras Pa\u2019 La Parranda (En Vivo)",
-        "url": "https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
         }
       ],
-      "duration_ms": 173034,
-      "name": "El Amor No Se Vende - En Vivo",
-      "url": "https://open.spotify.com/track/5Tr2eIyQC5P19xCKb4heTb"
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+        "name": "Rancheras Pa\u2019 La Parranda (En Vivo)",
+        "url": "https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb"
       },
       "artists": [
         {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+      "duration_ms": 173034,
+      "name": "El Amor No Se Vende - En Vivo",
+      "url": "https://open.spotify.com/track/5Tr2eIyQC5P19xCKb4heTb"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
+        "name": "En vivo desde El Potrero",
+        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Eres un encanto - En vivo",
+      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2026-01-23 07:31:02",
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 184021,
       "name": "Cosas De Borrachera (En Vivo)",
       "url": "https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI"
-    },
-    {
-      "added_at": "2026-01-23 07:31:02",
-      "album": {
-        "name": "En vivo desde El Potrero",
-        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Eres un encanto - En vivo",
-      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
     },
     {
       "added_at": "2026-01-23 07:31:02",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-01-23 07:31:02",
       "album": {
-        "name": "Sigo Siendo El M Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0"
+        "name": "En Vivo Desde El Rancho 2",
+        "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
       },
       "artists": [
         {
-          "name": "Arley Perez",
-          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 228997,
-      "name": "Sigo Siendo El M Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
+      "duration_ms": 237749,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

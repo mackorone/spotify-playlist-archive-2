@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,440,541 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440,860 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 51 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 | 52 | [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:47 |
 | 53 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 |
-| 54 | [Money Power Glory](https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:30 |
-| 55 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 |
+| 54 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 |
+| 55 | [Money Power Glory](https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:30 |
 | 56 | [for the night](https://open.spotify.com/track/5XnfNWIuyArQU732bZ6Nj1) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:08 |
 | 57 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 58 | [Femme Fatale](https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:39 |
-| 59 | [National Anthem](https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:50 |
-| 60 | [Glory And Gore](https://open.spotify.com/track/60jI0JgMLLj1VggHJVhtRs) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:30 |
+| 59 | [Glory And Gore](https://open.spotify.com/track/60jI0JgMLLj1VggHJVhtRs) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:30 |
+| 60 | [National Anthem](https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:50 |
 | 61 | [Le temps de l'amour \- Stereo Mix](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
 | 62 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 63 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |

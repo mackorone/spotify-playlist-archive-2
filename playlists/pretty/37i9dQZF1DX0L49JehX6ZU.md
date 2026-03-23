@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,377 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,406 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 38 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 | 39 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 40 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
-| 41 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
-| 42 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
+| 41 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
+| 42 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 | 43 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 44 | [Shaam Tanha](https://open.spotify.com/track/5V6XcXBrCGI6JOeYr4Uyo3) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:59 |
 | 45 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |

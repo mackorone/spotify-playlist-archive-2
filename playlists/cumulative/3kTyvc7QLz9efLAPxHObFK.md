@@ -4,7 +4,7 @@
 
 > 
 
-2,915 songs - 6 day 6 hr 46 min
+2,917 songs - 6 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Bullet](https://open.spotify.com/track/0SUNcDZ7nlx9X7rCIz3j0S) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Bullet](https://open.spotify.com/album/2F7VOWSkjqJV9jBYRuUOVk) | 2:32 | 2025-01-25 |  |
 | [Bulletbeek](https://open.spotify.com/track/3awMyt5EY3rNNEdqvWYZXP) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Rosbeek](https://open.spotify.com/artist/1JBQEf0i8Vl8oPG7iUNzr0) | [Bulletbeek](https://open.spotify.com/album/1XLohgsv1Xco08dHDiTd0N) | 2:49 | 2025-10-17 |  |
 | [BULLYING](https://open.spotify.com/track/73QNDs7DlQ2lKl6WzcCJt8) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ), [Coldax](https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ) | [BULLYING](https://open.spotify.com/album/73WlcUnywRGpYNmm8fWegm) | 2:19 | 2024-08-17 |  |
+| [Bumble Bee](https://open.spotify.com/track/4D3vWPXgol3MiP5EEWKtmr) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Bumble Bee](https://open.spotify.com/album/1GNPH4rgMk5JH2EvJUf9Rh) | 2:55 | 2026-03-22 |  |
 | [Burn](https://open.spotify.com/track/47AH0KcKyfnrpyI54U97Ih) | [Coldax](https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ) | [Burn](https://open.spotify.com/album/1xsBESDy0KsxsMRrt1EhYH) | 2:27 | 2026-01-16 |  |
 | [Burn](https://open.spotify.com/track/1jtSI17CkkpDnrstOmJk3y) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Duotech](https://open.spotify.com/artist/6cjofjGeewFdY7uCRltiig) | [Burn](https://open.spotify.com/album/7j57JPWB87CGVtBbzABaWc) | 3:30 | 2024-04-13 |  |
 | [BURN IT DOWN](https://open.spotify.com/track/2dMYYyNz7UIaatEeRJvwtJ) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [BURN IT DOWN](https://open.spotify.com/album/031zP9jo1bjuNuW0DFfGCy) | 2:43 | 2025-08-10 |  |
@@ -1225,6 +1226,7 @@
 | [HORZ](https://open.spotify.com/track/63XSIUi0yh95ngN7TyiQjJ) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [HORZ](https://open.spotify.com/album/2T9tjk2wg883KFow9nY4BD) | 2:31 | 2023-04-14 |  |
 | [HORZ \- EQUAL2 Remix](https://open.spotify.com/track/6XxzAr41jdGNGSM6u0Gqj7) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [HORZ \(EQUAL2 Remix\)](https://open.spotify.com/album/0DMUP1OFg4y5Znu36rp307) | 3:07 | 2023-08-14 |  |
 | [Hot](https://open.spotify.com/track/4Rw6U9OuXIjcCUya3ybPBy) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Hot](https://open.spotify.com/album/02Nqu8iIMZ8QZsrM764L72) | 2:27 | 2024-06-04 |  |
+| [Hot \(Like a Woman\)](https://open.spotify.com/track/24dzulqnPdsw339OOT2sas) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Hot \(Like a Woman\)](https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l) | 2:42 | 2026-03-22 |  |
 | [Hot In This](https://open.spotify.com/track/03MlbQtvE4QD9gdjFAhZqg) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hot In This](https://open.spotify.com/album/4824pzDFUulf6WpYaRw3la) | 2:40 | 2025-08-26 |  |
 | [Hot Stuff](https://open.spotify.com/track/0UXr3X7QC3DS9JMx134Vbd) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Insolent](https://open.spotify.com/album/73Vd8fLRAWwhO9z3URYGY9) | 3:07 | 2025-11-03 |  |
 | [Hot Wax On The Floor](https://open.spotify.com/track/6LHCCtVz01lrggmR3FuZ8X) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hot Wax On The Floor](https://open.spotify.com/album/0WBZ95dM6ce5Ik7orirt85) | 2:57 | 2025-05-26 |  |

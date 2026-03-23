@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },

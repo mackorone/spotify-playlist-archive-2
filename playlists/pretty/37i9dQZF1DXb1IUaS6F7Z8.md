@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,025 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,143 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 14 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 15 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
 | 16 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
-| 17 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
-| 18 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
+| 17 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
+| 18 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
 | 19 | [Black Friday Rule](https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 7:01 |
 | 20 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
 | 21 | [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 40 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 |
 | 41 | [Foggy Dew](https://open.spotify.com/track/27Pu3Gp0lG0v2qRk8NHjWX) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 4:26 |
 | 42 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
-| 43 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
+| 43 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
 | 44 | [Drunk Again](https://open.spotify.com/track/1TJG4k1Lilg05p9fix52wM) | [Scrum](https://open.spotify.com/artist/0sGdJHX64lQqPYY0is2MjX) | [Pro Libertate](https://open.spotify.com/album/0hCfbrOxRCg1RHDXtvOnOu) | 3:53 |
-| 45 | [Country Roads](https://open.spotify.com/track/7qA7nOX5DuM1Eob1EBwCvA) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 4:19 |
+| 45 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
 | 46 | [A Rambler\\'s Life](https://open.spotify.com/track/5WyZKzskByzPGc2ZvMXMvs) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Legends Never Die](https://open.spotify.com/album/0S7hl9NtRXGbHq9TWUVRAU) | 5:33 |
 | 47 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 |
-| 48 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
-| 49 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
-| 50 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
+| 48 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
+| 49 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
+| 50 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
 
 Snapshot ID: `AAAAAOQ0SNXOJkKT5KuvfuPkufenRvi2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,844 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,845 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 20 | [Tú Sí Sabes Quererme \(feat\. Los Macorinos\)](https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 4:04 |
 | 21 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 |
 | 22 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 |
-| 23 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
-| 24 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 23 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 24 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
 | 25 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 |
 | 26 | [Llévame en un Beso](https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Película Muda, Pt\. 2](https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW) | 5:03 |
 | 27 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
-| 28 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
-| 29 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 |
+| 28 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 |
+| 29 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
 | 30 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
 | 31 | [Háblame de Ti](https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 4:18 |
 | 32 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |

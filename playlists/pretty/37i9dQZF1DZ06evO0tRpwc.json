@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37842,
+  "num_followers": 37841,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAGt61jgG6vG/NQi1MaHdw/",
+  "snapshot_id": "ab3fgAAAAAABIMKl7LRPdltdBhd5WmtU",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+      "duration_ms": 466146,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 466146,
-      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epifania",
-        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
-      },
-      "artists": [
-        {
-          "name": "Clovis Pinho",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 238363,
       "name": "Farol",
       "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epifania",
+        "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
+      },
+      "artists": [
+        {
+          "name": "Clovis Pinho",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turma do Barulho, Vol. 8",
-        "url": "https://open.spotify.com/album/5u2yVQjw9WZ2bgAAtmck9K"
+        "name": "Turma do Barulho, Vol. 6",
+        "url": "https://open.spotify.com/album/3obdpAfxavFsu14GD9m8Zm"
       },
       "artists": [
         {
@@ -978,11 +978,19 @@
         {
           "name": "Jorginho Ara\u00fajo",
           "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        },
+        {
+          "name": "Elen Diana",
+          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
+        },
+        {
+          "name": "Suelen Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a"
         }
       ],
-      "duration_ms": 182920,
-      "name": "\u00c9s Bem Vindo",
-      "url": "https://open.spotify.com/track/6W3NKMnae3fBi1JPI1qrfX"
+      "duration_ms": 291493,
+      "name": "Celebrai a Cristo, Tu \u00c9s",
+      "url": "https://open.spotify.com/track/72vZhHTYv5CB9bzwk7F7c8"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

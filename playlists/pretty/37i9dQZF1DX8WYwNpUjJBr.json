@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ud31d \uc74c\uc545\ub4e4\uc744 \ucd94\ucc9c\ud574 \ub4dc\ub9bd\ub2c8\ub2e4.",
-  "num_followers": 70499,
+  "num_followers": 70541,
   "original_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-18 02:42:01",
       "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2026-03-18 02:42:01",
-      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2026-03-18 02:42:01",
+      "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
       "added_at": "2026-03-18 02:42:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-18 02:42:01",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2026-03-18 02:42:01",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-03-18 02:42:01",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2026-03-18 02:42:01",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-03-18 02:42:01",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
-    },
-    {
-      "added_at": "2026-03-18 02:42:01",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "added_at": "2026-03-18 02:42:01",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
     },
     {
       "added_at": "2026-03-18 02:42:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-18 02:42:01",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
-    },
-    {
-      "added_at": "2026-03-18 02:42:01",
-      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 265284,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2026-03-18 02:42:01",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     }
   ],
   "unique_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",

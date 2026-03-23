@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 14216,
+  "num_followers": 14229,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,22 @@
     {
       "added_at": "2026-02-05 09:18:12",
       "album": {
-        "name": "MELOH",
-        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+        "name": "TO DIE FOR",
+        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
       "artists": [
         {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         },
         {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 160104,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
+      "duration_ms": 175716,
+      "name": "Dare to Love (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
     },
     {
       "added_at": "2026-02-05 09:18:12",
@@ -503,22 +503,22 @@
     {
       "added_at": "2026-02-05 09:18:12",
       "album": {
-        "name": "TO DIE FOR",
-        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
         }
       ],
-      "duration_ms": 175716,
-      "name": "Dare to Love (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
       "added_at": "2026-02-05 09:18:12",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-02-05 09:18:12",
       "album": {
-        "name": "RE:UP",
-        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Good Night (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
-    },
-    {
-      "added_at": "2026-02-05 09:18:12",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2026-02-05 09:18:12",
+      "album": {
+        "name": "RE:UP",
+        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Good Night (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
     },
     {
       "added_at": "2026-02-05 09:18:12",

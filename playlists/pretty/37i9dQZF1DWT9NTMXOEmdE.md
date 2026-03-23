@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 
 > The happiest hits to boost your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,344 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,302 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 40 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
 | 41 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
 | 42 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 43 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
-| 44 | [Super Far](https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:23 |
+| 43 | [Super Far](https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:23 |
+| 44 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
 | 45 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 46 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 47 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 |

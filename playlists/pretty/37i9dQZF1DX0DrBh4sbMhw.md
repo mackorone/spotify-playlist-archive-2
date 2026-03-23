@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > ang lalim
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,758 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,742 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 26 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 27 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 28 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
-| 29 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
-| 30 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 29 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
+| 30 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 |
 | 31 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
 | 32 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
 | 33 | [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 | 41 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 42 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
 | 43 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 |
-| 44 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
-| 45 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
+| 44 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
+| 45 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 46 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 |
-| 47 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
+| 47 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
 | 48 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 49 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
 | 50 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |

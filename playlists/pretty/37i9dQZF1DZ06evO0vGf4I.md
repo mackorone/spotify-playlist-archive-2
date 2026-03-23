@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,023 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,632,999 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
 | 50 | [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 |
 
-Snapshot ID: `abyOAAAAAABmc9LCazkOW9nMYvc64HmM`
+Snapshot ID: `ab3fgAAAAABkwWFKpEK8R88NvNqKgM1L`

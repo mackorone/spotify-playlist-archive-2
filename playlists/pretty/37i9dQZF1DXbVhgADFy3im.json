@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1247674,
+  "num_followers": 1248645,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -503,30 +503,18 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Saiyaara (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
+        "name": "Khat",
+        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
       },
       "artists": [
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Arslan Nizami",
-          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
         }
       ],
-      "duration_ms": 370875,
-      "name": "Saiyaara (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
+      "duration_ms": 296222,
+      "name": "Khat",
+      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -559,18 +547,30 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Khat",
-        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+        "name": "Saiyaara (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
       "artists": [
         {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 296222,
-      "name": "Khat",
-      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+      "duration_ms": 370875,
+      "name": "Saiyaara (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
+        "name": "Dhun (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 276643,
+      "name": "Dhun (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
+    },
+    {
+      "added_at": "2026-03-19 06:04:59",
+      "album": {
         "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
-    },
-    {
-      "added_at": "2026-03-19 06:04:59",
-      "album": {
-        "name": "Dhun (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 276643,
-      "name": "Dhun (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -1059,6 +1059,34 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
+        "name": "Best of Romance: Atif Aslam",
+        "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin Gupta",
+          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
+    },
+    {
+      "added_at": "2026-03-19 06:04:59",
+      "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
       },
@@ -1099,54 +1127,26 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Best of Romance: Atif Aslam",
-        "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
       },
       "artists": [
         {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
         },
         {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Sachin Gupta",
-          "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Tere Liye",
-      "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
-    },
-    {
-      "added_at": "2026-03-19 06:04:59",
-      "album": {
-        "name": "Aakh Ye Taalibaani",
-        "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
-      },
-      "artists": [
-        {
-          "name": "Manish Sonipat Aala",
-          "url": "https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw"
-        },
-        {
-          "name": "Bali Sharma",
-          "url": "https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc"
-        },
-        {
-          "name": "Vampire",
-          "url": "https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Aakh Ye Taalibaani",
-      "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -1171,26 +1171,26 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Sajni (From \"Laapataa Ladies\")",
-        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+        "name": "Aakh Ye Taalibaani",
+        "url": "https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ"
       },
       "artists": [
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+          "name": "Manish Sonipat Aala",
+          "url": "https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Bali Sharma",
+          "url": "https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc"
         },
         {
-          "name": "Prashant Pandey",
-          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2"
         }
       ],
-      "duration_ms": 170044,
-      "name": "Sajni (From \"Laapataa Ladies\")",
-      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+      "duration_ms": 172000,
+      "name": "Aakh Ye Taalibaani",
+      "url": "https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Satranga (From \"ANIMAL\")",
-        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreyas Puranik",
-          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
-        },
-        {
-          "name": "Siddharth - Garima",
-          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
-        }
-      ],
-      "duration_ms": 271169,
-      "name": "Satranga (From \"ANIMAL\")",
-      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
-    },
-    {
-      "added_at": "2026-03-19 06:04:59",
-      "album": {
         "name": "Bachna Ae Haseeno",
         "url": "https://open.spotify.com/album/4mFLdK8SkUo3cx8ERLQC92"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 333583,
       "name": "Khuda Jaane",
       "url": "https://open.spotify.com/track/0gPgdRfB4jdGrlyXS0Vx78"
+    },
+    {
+      "added_at": "2026-03-19 06:04:59",
+      "album": {
+        "name": "Satranga (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreyas Puranik",
+          "url": "https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d"
+        },
+        {
+          "name": "Siddharth - Garima",
+          "url": "https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ"
+        }
+      ],
+      "duration_ms": 271169,
+      "name": "Satranga (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
       "added_at": "2026-03-19 06:04:59",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2026-03-19 06:04:59",
       "album": {
-        "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
-        "url": "https://open.spotify.com/album/68OViDFFwerfn315fcwwwl"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Prasad S",
-          "url": "https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 232568,
-      "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
-      "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
-    },
-    {
-      "added_at": "2026-03-19 06:04:59",
-      "album": {
         "name": "Mirzapur",
         "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 350739,
       "name": "Vaaroon",
       "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
+    },
+    {
+      "added_at": "2026-03-19 06:04:59",
+      "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 228982,
+      "name": "Ilahi",
+      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
     },
     {
       "added_at": "2026-03-19 06:04:59",

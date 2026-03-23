@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119386,
+  "num_followers": 119390,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAB5pwlXewYuyy8ZNpCEjp3t",
+  "snapshot_id": "ab3fgAAAAAA6Bo5Vu0QGjym1STdPm4dv",
   "tracks": [
     {
       "added_at": null,
@@ -1051,26 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive (with Offset & 2 Chainz)",
         "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 235897,
       "name": "Alive (with Offset & 2 Chainz)",
       "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     }
   ],
   "unique_name": "This Is Offset",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,037 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,043 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 25 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 26 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 27 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |
-| 28 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
-| 29 | [Calling After Me](https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 3:07 |
+| 28 | [Calling After Me](https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 3:07 |
+| 29 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 30 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
 | 31 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
 | 32 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 53 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 54 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 |
 | 55 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
-| 56 | [Ghosts \(From The Runarounds Original Series\)](https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:43 |
-| 57 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
+| 56 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
+| 57 | [Ghosts \(From The Runarounds Original Series\)](https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:43 |
 | 58 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 59 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 60 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 63 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
 | 64 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 |
 | 65 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
-| 66 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
-| 67 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 66 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
+| 67 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
 | 68 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 69 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 | 70 | [$500 Fine](https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:22 |

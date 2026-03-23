@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,141 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,143 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
 | 50 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
 | 51 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
-| 52 | [Flounce](https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:39 |
-| 53 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 52 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 53 | [Flounce](https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:39 |
 | 54 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 55 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/2nvC1iU3ijdzd7DIe5Kc5m) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE](https://open.spotify.com/album/5gj6WhFDfw3vKeiinQRGqh) | 2:56 |
 | 56 | [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 |

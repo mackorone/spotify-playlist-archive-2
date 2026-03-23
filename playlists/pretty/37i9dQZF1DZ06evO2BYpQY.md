@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,863 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,878 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 30 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 |
 | 31 | [No Man's Woman](https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:01 |
 | 32 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 |
-| 33 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
+| 33 | [Haunted](https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu) | [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Haunted](https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c) | 4:12 |
 | 34 | [Fire on Babylon](https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:11 |
-| 35 | [Haunted](https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu) | [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Haunted](https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c) | 4:12 |
+| 35 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
 | 36 | [Take Me to Church](https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:01 |
 | 37 | [Streets of London](https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 4:12 |
 | 38 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [He Moved Through the Fair \(with Sinéad O'Connor\)](https://open.spotify.com/track/2mgy5u8FMN14B0eODWnp68) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Long Black Veil](https://open.spotify.com/album/1rClywJWYiXuEZOpOqQMC0) | 4:54 |
 | 50 | ['Til I Whisper U Something](https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 6:07 |
 
-Snapshot ID: `abyOAAAAAAD/NVNzkKCXgtXQzl6N08FN`
+Snapshot ID: `ab3fgAAAAAA2bNZXUsZdzhSu50CITZUI`

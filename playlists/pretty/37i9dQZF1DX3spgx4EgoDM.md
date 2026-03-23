@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,820 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,831 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 57 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
 | 58 | [La Cumbia de los Monjes](https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5) | [Ritmo Y Sabor](https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh) | [Latino](https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD) | 3:22 |
 | 59 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
-| 60 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 |
-| 61 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
+| 60 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 |
+| 61 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 |
 | 62 | [Matamoros Querido](https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:07 |
 | 63 | [La del Vestido Rojo](https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [La Del Vestido Rojo](https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS) | 3:41 |
 | 64 | [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 94 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
 | 95 | [Amor de Mis Amores](https://open.spotify.com/track/3gR5KQnC8FYLoPG2LEfbGP) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Margarita](https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:06 |
 | 96 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
-| 97 | [Camina \(Suave y Elegante\)](https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Camina \(Suave y Elegante\)](https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6) | 3:29 |
-| 98 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
+| 97 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
+| 98 | [Camina \(Suave y Elegante\)](https://open.spotify.com/track/1fi9cZSvHWP7z6N8HihILu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Camina \(Suave y Elegante\)](https://open.spotify.com/album/3io8feqVIqEiEXlvxXaGM6) | 3:29 |
 | 99 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
 | 100 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 |
 

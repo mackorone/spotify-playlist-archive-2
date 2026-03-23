@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk !
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,067 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,076 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 17 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 18 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 19 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
-| 20 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
-| 21 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 20 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
+| 21 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
 | 22 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:05 |
 | 23 | [Cosmic Girl \- Remastered 2013](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
 | 24 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |

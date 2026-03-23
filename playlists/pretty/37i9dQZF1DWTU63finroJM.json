@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Tegi Pannu",
-  "num_followers": 85131,
+  "num_followers": 85129,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -55,22 +55,6 @@
     {
       "added_at": "2026-03-18 14:17:52",
       "album": {
-        "name": "Gouden Handdruk",
-        "url": "https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Gouden Handdruk",
-      "url": "https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO"
-    },
-    {
-      "added_at": "2026-03-18 14:17:52",
-      "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 137049,
       "name": "JDP",
       "url": "https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq"
+    },
+    {
+      "added_at": "2026-03-18 14:17:52",
+      "album": {
+        "name": "Gouden Handdruk",
+        "url": "https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Gouden Handdruk",
+      "url": "https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO"
     },
     {
       "added_at": "2026-03-18 14:17:52",

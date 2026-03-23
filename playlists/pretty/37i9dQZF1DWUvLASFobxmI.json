@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tito Torbellino Jr en portada.",
-  "num_followers": 528436,
+  "num_followers": 528484,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Pongase Bien Chula",
-        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pongase Bien Chula",
-      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Pongase Bien Chula",
+        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pongase Bien Chula",
+      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -479,22 +479,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Confidencial",
-        "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 175162,
-      "name": "Confidencial",
-      "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -511,6 +507,26 @@
       "duration_ms": 254116,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/1e5ibZlcAQbacLRbDhzxTP"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Confidencial",
+        "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 175162,
+      "name": "Confidencial",
+      "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 156576,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "LA TERAPIA",
         "url": "https://open.spotify.com/album/2c8qPwvwRibrjo8liDQwXa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 179795,
       "name": "LA TERAPIA",
       "url": "https://open.spotify.com/track/4SdIsClHCr55yGO6v7sJyy"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 156576,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Que Tonto He Sido",
+        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
+      },
+      "artists": [
+        {
+          "name": "Solido",
+          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Que Tonto He Sido",
+      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Que Tonto He Sido",
-        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
-      },
-      "artists": [
-        {
-          "name": "Solido",
-          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Que Tonto He Sido",
-      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Vicio y Soledad",
-        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        }
-      ],
-      "duration_ms": 215792,
-      "name": "Vicio y Soledad",
-      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Pase y Pase (En Vivo)",
         "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Vicio y Soledad",
+        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 215792,
+      "name": "Vicio y Soledad",
+      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Desde Que Est\u00e1s Conmigo",
+        "url": "https://open.spotify.com/album/5Y1yifNTjH1X5UY9oCfgXx"
+      },
+      "artists": [
+        {
+          "name": "La Firma",
+          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
+        }
+      ],
+      "duration_ms": 217596,
+      "name": "Desde Que Est\u00e1s Conmigo",
+      "url": "https://open.spotify.com/track/7FlHA00BUKaxCeTa7kKhOv"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Desde Que Est\u00e1s Conmigo",
-        "url": "https://open.spotify.com/album/5Y1yifNTjH1X5UY9oCfgXx"
+        "name": "Tu Clavo",
+        "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
       },
       "artists": [
         {
-          "name": "La Firma",
-          "url": "https://open.spotify.com/artist/0WC9R4MbKLlwzhwqB5cqjc"
+          "name": "Fila Tres",
+          "url": "https://open.spotify.com/artist/2yilil4JE6oxFqmGLy55wO"
         }
       ],
-      "duration_ms": 217596,
-      "name": "Desde Que Est\u00e1s Conmigo",
-      "url": "https://open.spotify.com/track/7FlHA00BUKaxCeTa7kKhOv"
+      "duration_ms": 182399,
+      "name": "Tu Clavo",
+      "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1019,22 +1035,6 @@
       "duration_ms": 165020,
       "name": "El Gran Elemento",
       "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Tu Clavo",
-        "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
-      },
-      "artists": [
-        {
-          "name": "Fila Tres",
-          "url": "https://open.spotify.com/artist/2yilil4JE6oxFqmGLy55wO"
-        }
-      ],
-      "duration_ms": 182399,
-      "name": "Tu Clavo",
-      "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Mi Familia Y Mis Hijos",
+        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "Mi Familia Y Mis Hijos",
+      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Mi Potra",
         "url": "https://open.spotify.com/album/6CtAa222LPUIPcR06yPK3Z"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 193015,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/2fwihVz6TlJkSn6CKfx1SF"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Mi Familia Y Mis Hijos",
-        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "Mi Familia Y Mis Hijos",
-      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "HOMBRE DE LEY",
-        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "HOMBRE DE LEY",
-      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+        "name": "HOMBRE DE LEY",
+        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
         }
       ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
+      "duration_ms": 217130,
+      "name": "HOMBRE DE LEY",
+      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1303,6 +1287,22 @@
       "duration_ms": 220184,
       "name": "Las Caguamas",
       "url": "https://open.spotify.com/track/1wp7Br6IhQNgmnwTSn3orZ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Cumbias Pa\u00b4bailar Vol. 2",
-        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 139950,
-      "name": "Hanky Panky",
-      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Cumbias Pa\u00b4bailar Vol. 2",
+        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 139950,
+      "name": "Hanky Panky",
+      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
     },
     {
       "added_at": "2026-03-13 06:00:11",

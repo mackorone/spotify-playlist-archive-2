@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,658 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,669 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 42 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
 | 43 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 44 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
-| 45 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
-| 46 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 45 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 46 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
 | 47 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
 | 48 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 |
 | 49 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |

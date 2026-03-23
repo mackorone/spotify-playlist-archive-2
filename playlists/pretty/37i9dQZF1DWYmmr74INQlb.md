@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812,691 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,812,780 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 28 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 29 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 30 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
-| 31 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
-| 32 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 |
+| 31 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 |
+| 32 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
 | 33 | [How Do I Breathe](https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:36 |
 | 34 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 35 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 81 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
 | 82 | [On the Hotline](https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0xbRSFuLwoNrRurfUXkN09) | 4:02 |
 | 83 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
-| 84 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
-| 85 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 84 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 85 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
 | 86 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
 | 87 | [Dance Tonight](https://open.spotify.com/track/1TwVcKR6JojvPwBGbWZT36) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:41 |
 | 88 | [Cater 2 U](https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:05 |

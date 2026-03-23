@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,385 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,388 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 65 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
 | 66 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 |
 | 67 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
-| 68 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
-| 69 | [Dissociate](https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Dissociate](https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK) | 3:14 |
+| 68 | [Dissociate](https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Dissociate](https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK) | 3:14 |
+| 69 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
 | 70 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 71 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
 | 72 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
 | 73 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
-| 74 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 |
-| 75 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 74 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 75 | [Mountains](https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 4:09 |
 | 76 | [Just for Now](https://open.spotify.com/track/4erwYglMYF98sRWNH3hKRi) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/4Is0raRF9P6wWFZjXO6P9K) | 3:00 |
 | 77 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 78 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 83 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
 | 84 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 | 85 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 |
-| 86 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 |
-| 87 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 |
+| 86 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 |
+| 87 | [Photograph of a Cyclone](https://open.spotify.com/track/23FYMYQwvk7tYATcPe3EfE) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 3:28 |
 | 88 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 89 | [Living in the City is so Beautiful](https://open.spotify.com/track/2zIvuPFKHOou4JJbOSFa94) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Fragile Plane: B\-Sides](https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs) | 4:10 |
-| 90 | [everybody's baby](https://open.spotify.com/track/4dzjJbuY2mXjpRt7MAHVMv) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [everybody's baby](https://open.spotify.com/album/3TpTQ1JQ3IarLfmUZ4tQmx) | 4:02 |
-| 91 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 |
+| 90 | [Should be Fine](https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 2:55 |
+| 91 | [everybody's baby](https://open.spotify.com/track/4dzjJbuY2mXjpRt7MAHVMv) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [everybody's baby](https://open.spotify.com/album/3TpTQ1JQ3IarLfmUZ4tQmx) | 4:02 |
 | 92 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
 | 93 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |
 | 94 | [Lemon Garland](https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 3:11 |

@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114014,
+  "num_followers": 114028,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "SANTANA MONEY GANG",
+        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 182245,
+      "name": "NON METTERCI BECCO",
+      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 245853,
       "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
       "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "SANTANA MONEY GANG",
-        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 182245,
-      "name": "NON METTERCI BECCO",
-      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "ESCI DAL TUNNEL",
-        "url": "https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "VRP",
-      "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "WE THE SQUAD Vol.2",
         "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 194000,
       "name": "PEZZI DA NOVANTA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza)",
       "url": "https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "ESCI DAL TUNNEL",
+        "url": "https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "VRP",
+      "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -839,30 +839,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
-      "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -879,22 +855,6 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -927,6 +887,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 178758,
       "name": "Bossoli",
       "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
+      "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 182407,
       "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Fuorilegge (feat. Sayf)",
-        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
-        }
-      ],
-      "duration_ms": 126371,
-      "name": "Fuorilegge (feat. Sayf)",
-      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Thick (feat. MamboLosco) [Remix]",
         "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 131697,
       "name": "Thick (feat. MamboLosco) - Remix",
       "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Fuorilegge (feat. Sayf)",
+        "url": "https://open.spotify.com/album/3B6NcRZgnqP8bnzcWBuNPR"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "duration_ms": 126371,
+      "name": "Fuorilegge (feat. Sayf)",
+      "url": "https://open.spotify.com/track/04BOFFqWdb2oxhYYJdCM11"
     },
     {
       "added_at": "2026-02-12 23:01:39",

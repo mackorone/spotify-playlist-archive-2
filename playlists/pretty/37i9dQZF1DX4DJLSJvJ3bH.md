@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,737 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,731 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 55 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
 | 56 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
 | 57 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
-| 58 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
-| 59 | [mistletoe and holly](https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [a cozy christmas](https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF) | 3:20 |
+| 58 | [mistletoe and holly](https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [a cozy christmas](https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF) | 3:20 |
+| 59 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 60 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
 | 61 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 62 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 72 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |
 | 73 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:52 |
 | 74 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 |
-| 75 | [Christmas Is](https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Christmas Is…](https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L) | 3:59 |
-| 76 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
+| 75 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
+| 76 | [Christmas Is](https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Christmas Is…](https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L) | 3:59 |
 | 77 | [That's What I Want for Christmas](https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Snow!](https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK) | 4:09 |
 | 78 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
 | 79 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 |

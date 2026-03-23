@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 575875,
+  "num_followers": 575914,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
+        "name": "Aldan\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Aldan\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
         "name": "BURADA SOKAKLAR",
         "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
-        "name": "Aldan\u0131r\u0131m",
-        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
-      },
-      "artists": [
-        {
-          "name": "S\u0131la \u015eahin",
-          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
-        },
-        {
-          "name": "Samet Karde\u015fler",
-          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Aldan\u0131r\u0131m",
-      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "STOP SMOKING",
-        "url": "https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf"
-      },
-      "artists": [
-        {
-          "name": "ALIZADE",
-          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
-        }
-      ],
-      "duration_ms": 97777,
-      "name": "STOP SMOKING",
-      "url": "https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
         "name": "\u00d6ns\u00f6z",
         "url": "https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 277146,
       "name": "Bir Taraf Se\u00e7",
       "url": "https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
+        "name": "STOP SMOKING",
+        "url": "https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf"
+      },
+      "artists": [
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        }
+      ],
+      "duration_ms": 97777,
+      "name": "STOP SMOKING",
+      "url": "https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5"
     },
     {
       "added_at": "2026-02-27 10:17:19",

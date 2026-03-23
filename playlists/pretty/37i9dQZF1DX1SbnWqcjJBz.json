@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134606,
+  "num_followers": 134642,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Evacuate The Dancefloor",
         "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 205884,
       "name": "Evacuate The Dancefloor - Radio Edit",
       "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "TREAT MYSELF",
-        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        }
-      ],
-      "duration_ms": 176947,
-      "name": "Wave (feat. Mike Sabath)",
-      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "duration_ms": 176947,
+      "name": "Wave (feat. Mike Sabath)",
+      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
     },
     {
       "added_at": "2024-06-02 21:23:10",

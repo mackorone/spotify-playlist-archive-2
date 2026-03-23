@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,149 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,117 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 43 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 44 | [¿Quién Te Hizo Tanto Daño?](https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [WIPLASH](https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf) | 3:06 |
 | 45 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
-| 46 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 |
-| 47 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
-| 48 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 |
-| 49 | [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 |
-| 50 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
-| 51 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
+| 46 | [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 |
+| 47 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 |
+| 48 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
+| 49 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 |
+| 50 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
+| 51 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 |
 | 52 | [santos inocentes](https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [santos inocentes](https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9) | 2:52 |
 | 53 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
 | 54 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |

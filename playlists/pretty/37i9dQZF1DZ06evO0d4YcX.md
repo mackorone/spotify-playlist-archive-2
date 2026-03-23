@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,133 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,140 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,28 +20,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 10 | [Foreign Things](https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:00 |
 | 11 | [By The End of the Night](https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:54 |
 | 12 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
-| 13 | [In My Head](https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 2:54 |
-| 14 | [Conexão](https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:59 |
+| 13 | [Conexão](https://open.spotify.com/track/4vvFklYoPTicMqbYUo7qyG) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:59 |
+| 14 | [In My Head](https://open.spotify.com/track/0ChXlpQEMGYU0HLNjGXqCR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 2:54 |
 | 15 | [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 |
 | 16 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
-| 17 | [Stop Calling Me](https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:31 |
-| 18 | [All The Work](https://open.spotify.com/track/0otNHRpPXLB3IEscMNpooH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:49 |
+| 17 | [All The Work](https://open.spotify.com/track/0otNHRpPXLB3IEscMNpooH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:49 |
+| 18 | [Stop Calling Me](https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:31 |
 | 19 | [Cherry Reds](https://open.spotify.com/track/7dSTmzAK2dvMNL3g6FI0do) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:52 |
 | 20 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
-| 21 | [Won't Cry](https://open.spotify.com/track/6pgHkxKQh1LnW9wdTQCQDx) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:40 |
-| 22 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 21 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 22 | [Won't Cry](https://open.spotify.com/track/6pgHkxKQh1LnW9wdTQCQDx) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:40 |
 | 23 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 |
 | 24 | [FOMO](https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:51 |
-| 25 | [A Little More](https://open.spotify.com/track/5VvMjagk1oBlUG1yQ9lXKJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:13 |
-| 26 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 |
+| 25 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 |
+| 26 | [A Little More](https://open.spotify.com/track/5VvMjagk1oBlUG1yQ9lXKJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:13 |
 | 27 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
 | 28 | [Competition](https://open.spotify.com/track/7KoTZO2hKMS4hUTbdnHb16) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:22 |
-| 29 | [City Starlight](https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:31 |
-| 30 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
+| 29 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
+| 30 | [City Starlight](https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:31 |
 | 31 | [Monsoon](https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Mia Mark](https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 4:37 |
 | 32 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
-| 33 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
-| 34 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 33 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 34 | [Wait So Yeah](https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:21 |
 | 35 | [Can You Hear Me?](https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:49 |
 | 36 | [Put You On](https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Put You On](https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm) | 3:44 |
 | 37 | [Thong Song](https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Thong Song](https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt) | 3:31 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 44 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 |
 | 45 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 
-Snapshot ID: `abyOAAAAAACj9T1dThMFAuenoAvjiEcU`
+Snapshot ID: `ab3fgAAAAABMQFxsByAo1qg6irdAbl+4`

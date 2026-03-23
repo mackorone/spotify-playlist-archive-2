@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 641457,
+  "num_followers": 641542,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Brick by Boring Brick",
-      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Get Lost, Find Yourself",
-        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
-      },
-      "artists": [
-        {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "The Other Line",
-      "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Panic Vertigo - EP",
         "url": "https://open.spotify.com/album/3rhcRidkGZFMGbnshUj7Qm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 198668,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/3KYA5PWMNOHa7ouykwXMgx"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Get Lost, Find Yourself",
+        "url": "https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 209693,
+      "name": "The Other Line",
+      "url": "https://open.spotify.com/track/3eoEriMHjKEpyNa2BFmdSm"
     },
     {
       "added_at": "2024-10-08 12:05:02",

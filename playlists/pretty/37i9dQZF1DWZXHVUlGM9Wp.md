@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > For skating and grooving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,786 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,858 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 19 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:04 |
 | 20 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 |
 | 21 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 22 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 |
+| 22 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
 | 23 | [Boogie Wonderland \(with The Emotions\)](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
-| 24 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
+| 24 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 |
 | 25 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 26 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 27 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 65 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 66 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 67 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 |
-| 68 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
-| 69 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
+| 68 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
+| 69 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
 | 70 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 71 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
 | 72 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 |

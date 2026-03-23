@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 681 songs - 1 day 20 hr 36 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 682 songs - 1 day 20 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -689,5 +689,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 679 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
 | 680 | [A Fake in a Faker’s World](https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 8:18 |
 | 681 | [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 |
+| 682 | [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 |
 
-Snapshot ID: `AAAIv4xRAvpj3Z6WRRlLumXB1SgMcSTa`
+Snapshot ID: `AAAIwIiqdis3AlWdeowp9+BCKEevI3Fd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia y Laura DSK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,884 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,887 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 80 | [Una y Mil Veces](https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Una y Mil Veces](https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM) | 4:26 |
 | 81 | [Vuelvo](https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Vuelvo](https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf) | 2:56 |
 | 82 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
-| 83 | [Un Día en Texas \- con Anna y Skiper \(Sistema de Entretenimiento\)](https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [Un Día en Texas \[con Anna y Skiper \(Sistema de Entretenimiento\)\]](https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak) | 2:22 |
-| 84 | [Bea Vapea](https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau) | [Estrogenuinas](https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM) | [Bea Vapea](https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0) | 2:03 |
+| 83 | [Bea Vapea](https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau) | [Estrogenuinas](https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM) | [Bea Vapea](https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0) | 2:03 |
+| 84 | [Un Día en Texas \- con Anna y Skiper \(Sistema de Entretenimiento\)](https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7) | [Ana Curra](https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m), [sistema de entretenimiento](https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv) | [Un Día en Texas \[con Anna y Skiper \(Sistema de Entretenimiento\)\]](https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak) | 2:22 |
 | 85 | [Reviéntales](https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Reviéntales](https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL) | 3:29 |
 | 86 | [Muros de Cristal](https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh), [Agustín Crespo](https://open.spotify.com/artist/6yrr7lgOZHpz8oBQSf2MqE) | [Muros de Cristal](https://open.spotify.com/album/7F7ydT9NEri6TwG0UOKboQ) | 4:50 |
 | 87 | [La Mejor Opción](https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I) | [La Línea Roja](https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM) | [La Mejor Opción](https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu) | 2:58 |
-| 88 | [Corona de espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 |
-| 89 | [Soy un NiNi](https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK) | [Tribu](https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr) | [Soy un NiNi](https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD) | 3:03 |
+| 88 | [Soy un NiNi](https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK) | [Tribu](https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr) | [Soy un NiNi](https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD) | 3:03 |
+| 89 | [Corona de espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 |
 | 90 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
 | 91 | [Ciudadano periodista](https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Ciudadano periodista](https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw) | 2:56 |
 | 92 | [El Espiritu del Oi!](https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [N.S.A\. La Santa Familia](https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF) | 5:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 96 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
 | 97 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 98 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 |
-| 99 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 |
-| 100 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
+| 99 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
+| 100 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 |
 
 Snapshot ID: `AAAAAM/fD0I7lDw9pfmeOShWfSrZNJCT`

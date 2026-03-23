@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,418 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,420 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 99 | [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 |
 | 100 | [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 |
 
-Snapshot ID: `AAAAAARKr2qkmx3MAk06Km2ACUr8rX/P`
+Snapshot ID: `AAAAAHIrtr7X0ULsiTA89hNMiA6/mI67`

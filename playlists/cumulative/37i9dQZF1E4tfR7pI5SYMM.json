@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Locus Noir and more",
+  "description": "With Die Oberherren, Locus Noir, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 348933,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/4EtUmhhCKDq0MDpYEc8Ie5"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 205704,
       "name": "Behold the new digital overlords",
       "url": "https://open.spotify.com/track/7s5dgU86UmdRtzV8V61zPg"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 209123,
       "name": "Boston Red Sox",
       "url": "https://open.spotify.com/track/5XHKbXdOlS4QGrIF7vvLHt"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 245950,
       "name": "Don't Trust Anyone",
       "url": "https://open.spotify.com/track/0e9zvGl4VZMeynWO8xSZQ9"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 244508,
       "name": "Drag Me Under",
       "url": "https://open.spotify.com/track/6dVPnr1wql334QkuGLzJfZ"
@@ -2100,6 +2100,24 @@
       "duration_ms": 253243,
       "name": "En dag av gangen",
       "url": "https://open.spotify.com/track/0yELAtIbjrnIb6hmYogy4c"
+    },
+    {
+      "album": {
+        "name": "Hotell (Live)",
+        "url": "https://open.spotify.com/album/4rVgwbLd5eBNihz3191CgU"
+      },
+      "artists": [
+        {
+          "name": "Lustans Lakejer",
+          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272375,
+      "name": "En fr\u00e4mlings \u00f6gon - Live",
+      "url": "https://open.spotify.com/track/3Pz950R3kw0u3eskbPYr2u"
     },
     {
       "album": {
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 180500,
       "name": "Far Below",
       "url": "https://open.spotify.com/track/3uoOgcDg6s74nDVwovObch"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4412,7 +4430,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 272732,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3UOVbtjP7Sp5eB6N7Gi973"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 278012,
       "name": "Mother of God",
       "url": "https://open.spotify.com/track/40vyYg6SFUFS4D8ysgOYFM"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 211145,
       "name": "My Empire Of Fire - The Fire Trilogy Part II",
       "url": "https://open.spotify.com/track/5aBzAXo3q7DQQ7W1V75SjY"
@@ -5527,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Pale Moon",
+        "url": "https://open.spotify.com/album/7owGWJItr6WzozQQk8AFaR"
+      },
+      "artists": [
+        {
+          "name": "Dearmount",
+          "url": "https://open.spotify.com/artist/2W9sFfovcVXWFiKuWvmYBN"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274983,
+      "name": "Pale Moon",
+      "url": "https://open.spotify.com/track/2DgMzhpPuAh3Euh7N7PMbx"
+    },
+    {
+      "album": {
         "name": "Pandemic 2",
         "url": "https://open.spotify.com/album/62ymioyoIGBhUpFAuvjv9m"
       },
@@ -5686,7 +5722,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5820,7 +5856,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -6452,7 +6488,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -7148,7 +7184,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 365697,
       "name": "Take This Waltz",
       "url": "https://open.spotify.com/track/1gIoMyoS1okNkMs19TkJMe"
@@ -7206,7 +7242,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 250000,
       "name": "Tear The Cloth",
       "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
@@ -7668,7 +7704,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -8044,7 +8080,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -8196,7 +8232,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 201617,
       "name": "Trick of Escaping Death",
       "url": "https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5"
@@ -8419,6 +8455,24 @@
     },
     {
       "album": {
+        "name": "Hotell (Live)",
+        "url": "https://open.spotify.com/album/4rVgwbLd5eBNihz3191CgU"
+      },
+      "artists": [
+        {
+          "name": "Lustans Lakejer",
+          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217618,
+      "name": "Vackra djur g\u00f6r fula saker - Live",
+      "url": "https://open.spotify.com/track/3zzCBHUDAw6kLCp4jEazOZ"
+    },
+    {
+      "album": {
         "name": "Loewen II",
         "url": "https://open.spotify.com/album/5YBckFRi9MR94wXPmsgiRR"
       },
@@ -8448,7 +8502,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -8538,7 +8592,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -8834,7 +8888,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -8878,6 +8932,24 @@
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
+    },
+    {
+      "album": {
+        "name": "OVERTOP",
+        "url": "https://open.spotify.com/album/4YXA1OEKlYnXHdCUqF94iG"
+      },
+      "artists": [
+        {
+          "name": "OVERTOP \u00a9",
+          "url": "https://open.spotify.com/artist/4HfhN5pG0TEDHgStKOSere"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197168,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2KalwUS2OytygrlEdloBCb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple! 📸 Chappell Roan is Lady Liberty
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,696 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,692 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 34 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
 | 35 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 36 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
-| 37 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
-| 38 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
+| 37 | [New York, I Love You but You're Bringing Me Down](https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 5:35 |
+| 38 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
 | 39 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
 | 40 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 41 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |

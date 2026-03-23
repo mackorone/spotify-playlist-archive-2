@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. MEET THE FUTURE\. Cover:  <a href="spotify:artist:3KL9m4NwBRDjBEcybcgfyh">wane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,097 likes - 95 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,091 likes - 95 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 94 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 | 95 | [To twoja wina](https://open.spotify.com/track/2DwgHIWqT5VHdRLzFwHcCK) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [To twoja wina](https://open.spotify.com/album/4fT0qOby3KOEx2KhlsEc3N) | 3:13 |
 
-Snapshot ID: `AAAAAPo/u+MRTEgtb+jqo46nql0zRR3b`
+Snapshot ID: `AAAAAD/MGqtutvMUzh/umc7QmsR77td7`

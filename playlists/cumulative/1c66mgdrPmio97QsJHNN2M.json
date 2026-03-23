@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "CHESHiRE, Vol. II: New Order",
+        "url": "https://open.spotify.com/album/2Z2VIuPedOotlVTuSI850n"
+      },
+      "artists": [
+        {
+          "name": "CheshirePersian",
+          "url": "https://open.spotify.com/artist/4T45tMHotBkmW3IfZ6bIpj"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180951,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/0safhzDhmFqMToTVADb5gB"
+    },
+    {
+      "album": {
         "name": "All About Us",
         "url": "https://open.spotify.com/album/0buqgugryDSgCyXJKx3t3o"
       },
@@ -938,6 +956,28 @@
       "duration_ms": 191535,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/49IUzHwGOrgT0X300VgiHR"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/6IVTPfPNyn5FVqOLTV90HN"
+      },
+      "artists": [
+        {
+          "name": "Div Eadie",
+          "url": "https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P"
+        },
+        {
+          "name": "Norman",
+          "url": "https://open.spotify.com/artist/0ticcaEIpJiMcbAUlp3ztD"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/5IESTItoyGjMDTxkSx2kyF"
     },
     {
       "album": {
@@ -13552,6 +13592,24 @@
     {
       "album": {
         "name": "Lost",
+        "url": "https://open.spotify.com/album/7qgfLA5KyXlbhLUrakiXTA"
+      },
+      "artists": [
+        {
+          "name": "Alergio",
+          "url": "https://open.spotify.com/artist/7pSb2j83uSVlkvbjaW38qD"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0tzKFDTbre9un86lyKeBFo"
+    },
+    {
+      "album": {
+        "name": "Lost",
         "url": "https://open.spotify.com/album/5XG9HWHmhueSkxNMaSg1pm"
       },
       "artists": [
@@ -15832,7 +15890,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 245538,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/3zrOaNs5HfMpzku4L8d6FU"
@@ -18742,7 +18800,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 132759,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/2RT6km3ba7YbYjgUzNV8st"
@@ -20990,6 +21048,24 @@
       "duration_ms": 222989,
       "name": "Something New",
       "url": "https://open.spotify.com/track/2D71WjOpaFsBZG0vQ5hAXC"
+    },
+    {
+      "album": {
+        "name": "Something's gotta give me Something to Believe in",
+        "url": "https://open.spotify.com/album/2wf0WweKni43XSCRWkAXG7"
+      },
+      "artists": [
+        {
+          "name": "Lyle Akins",
+          "url": "https://open.spotify.com/artist/3BxdGcNlA27sd3RykVMybq"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "Something's gotta give me Something to Believe in",
+      "url": "https://open.spotify.com/track/0P1G4BW8wKv6k0bKJIjYmq"
     },
     {
       "album": {
@@ -23622,7 +23698,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 399000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/4dcJzSL3inrWDsXU2QXWXe"

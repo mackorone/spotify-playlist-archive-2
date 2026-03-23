@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Bela Lugosi's Dead..\. Bauhaus on cover.
+> Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,802 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,911 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 5 | [Incubus Succubus II](https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U) | 4:45 |
 | 6 | [Stigmata Martyr](https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In The Flat Field](https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW) | 3:46 |
 | 7 | [Lovesong \- Remastered](https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 3:28 |
-| 8 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 9 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
+| 8 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |
+| 9 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 10 | [Vampiria](https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolfheart](https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7) | 5:35 |
 | 11 | [Angst](https://open.spotify.com/track/7uUvceLJvMhhoXiCm9PSOC) | [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Angst](https://open.spotify.com/album/1ojGoRkMpKvKdo33luyyL8) | 4:25 |
 | 12 | [Vampyr](https://open.spotify.com/track/2NLfaNEbc4uH0L5S4cPHx3) | [Mica](https://open.spotify.com/artist/0ru8vaH80Oj3roXyoLmX4g) | [Vampyr](https://open.spotify.com/album/2Sz2tzGre41AKQQPCcw8YG) | 2:41 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 59 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
 | 60 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 61 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
-| 62 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
-| 63 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
+| 62 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
+| 63 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 64 | [Don't Cling To Life](https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t) | 2:26 |
 | 65 | [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 |
 | 66 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |

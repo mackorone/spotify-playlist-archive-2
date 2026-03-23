@@ -4,7 +4,7 @@
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-256 songs - 12 hr 35 min
+257 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-07-21 | 2026-03-04 |
 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:43 | 2024-11-22 |  |
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-10-18 | 2025-04-01 |
-| [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-09 |  |
+| [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-09 | 2026-03-23 |
 | [F・L・Y](https://open.spotify.com/track/0VGSlDthFLbr5Lp1P6DFuK) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [オプティカル・サンライズ／スペクトラム２](https://open.spotify.com/album/6INmbHhtLwcMV9QuCqjl7U) | 3:30 | 2025-02-07 | 2025-03-20 |
 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 | 2025-03-21 |  |
 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-12 |  |
@@ -196,6 +196,7 @@
 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-07-18 |  |
 | [Rodeo](https://open.spotify.com/track/7cD3GOKnMPgW4m37meuv3J) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Rodeo](https://open.spotify.com/album/3qRfgIajUoPGnLDZSlX33g) | 2:35 | 2023-10-13 | 2023-10-21 |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-07-21 | 2023-08-29 |
+| [sabotage](https://open.spotify.com/track/0tlJq6Yy3060Ypcod0Oqo7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [sabotage](https://open.spotify.com/album/1DemTqyzxthecdjnR5qmRi) | 2:58 | 2026-03-19 |  |
 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-10-03 | 2025-07-12 |
 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2023-07-21 | 2024-10-10 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-07-18 |  |

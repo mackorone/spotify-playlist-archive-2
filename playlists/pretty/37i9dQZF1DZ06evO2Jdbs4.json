@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31561,
+  "num_followers": 31568,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABFEw8TyhUjwHbO0m1ra9td",
+  "snapshot_id": "ab3fgAAAAACQrKzTlpbxaukCUR47Mdmh",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zona De Peligro",
-        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Zona de Peligro",
-      "url": "https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 203400,
       "name": "Un Golpe De Suerte",
       "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zona De Peligro",
+        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Zona de Peligro",
+      "url": "https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 235539,
       "name": "La Soledad (feat. Monica Saldivar)",
       "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Te Lo Pido (En Vivo)",
-        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 287205,
-      "name": "Y Te Lo Pido - En Vivo",
-      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 238387,
       "name": "D\u00edgale - En Vivo",
       "url": "https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Te Lo Pido (En Vivo)",
+        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 287205,
+      "name": "Y Te Lo Pido - En Vivo",
+      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 194874,
       "name": "Separarnos - En Vivo",
       "url": "https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfermo De Amor",
-        "url": "https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 224173,
-      "name": "Desn\u00fadame Con La Boca",
-      "url": "https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5"
+      "duration_ms": 182533,
+      "name": "Sergio El Bailador - En Vivo",
+      "url": "https://open.spotify.com/track/00xknCK33lxS24N0Nf4vaO"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

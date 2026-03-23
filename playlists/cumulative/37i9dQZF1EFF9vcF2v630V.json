@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Loving You!",
+      "url": "https://open.spotify.com/track/6VaGFO7F0iooQDmmEp9u1O"
+    },
+    {
+      "album": {
         "name": "Top Hits Zum Entspannen, Vol. 2",
         "url": "https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,289 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,294 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 22 | [Skin I'm In](https://open.spotify.com/track/0y1eoYIvyK5OLMv6CkH95K) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:54 |
 | 23 | [M'Lady](https://open.spotify.com/track/6GbtYclO9NzN0NLFLmlB7A) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:46 |
 | 24 | [Poet](https://open.spotify.com/track/6rQ7RXlfojwjHnUbAseB7D) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:02 |
-| 25 | [Mother Beautiful](https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 1:59 |
+| 25 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
 | 26 | [Let Me Have It All](https://open.spotify.com/track/0xY1l2iECKzl7swYdUzCI9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 2:55 |
 | 27 | [Somebody's Watching You](https://open.spotify.com/track/5DCAUoDMRiBiezamBZX4yt) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:20 |
 | 28 | [Runnin' Away \- Single Version](https://open.spotify.com/track/2clHc3VGk2bITHsgPY7atj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 2:57 |
-| 29 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
+| 29 | [Mother Beautiful](https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 1:59 |
 | 30 | [Life](https://open.spotify.com/track/0aI5KoqucjqXjPi7bFENFQ) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 3:01 |
 | 31 | [Trip to Your Heart](https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:41 |
 | 32 | [Luv N' Haight \- Single Version](https://open.spotify.com/track/2SNjUokqJifysK3qsjyK4F) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 4:04 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 44 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
 | 45 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
 | 46 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
-| 47 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
-| 48 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
-| 49 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
-| 50 | [Turn Me Loose](https://open.spotify.com/track/5min27LLty1G9R270gS0p4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 1:55 |
+| 47 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
+| 48 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
+| 49 | [Turn Me Loose](https://open.spotify.com/track/5min27LLty1G9R270gS0p4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 1:55 |
+| 50 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
 
-Snapshot ID: `abyOAAAAAAAkLksZUyFA//Sue/ihHEds`
+Snapshot ID: `ab3fgAAAAAApap7jsrFvIIfpxXB2Y/vg`

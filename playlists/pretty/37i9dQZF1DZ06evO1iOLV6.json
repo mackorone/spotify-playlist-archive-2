@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12305,
+  "num_followers": 12306,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAQFc1qvCXm4bcCJvxg06Ue",
+  "snapshot_id": "ab3fgAAAAABgMTCQcwyhNs9xN8wqwgne",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Pure joy and then some",
-  "num_followers": 1082593,
+  "num_followers": 1082582,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-22 17:40:31",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2025-10-22 17:40:31",
-      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2025-10-22 17:40:31",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2025-10-22 17:40:31",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,703 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,752 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 |
 | 2 | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:31 |
-| 3 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
+| 3 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 |
 | 4 | [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 |
 | 5 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 |
 | 6 | [ゆれる \- Instrumental\-](https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [Sketchbook](https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY) | 3:08 |
 | 7 | [So Real \(Instrumental\)](https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [So Real \(Instrumental\)](https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR) | 3:08 |
 | 8 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 |
 | 9 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 |
-| 10 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 |
+| 10 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 |
 | 11 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 |
 | 12 | [Eyes Closed](https://open.spotify.com/track/0e7Zh5sczPvNV40Y9f5ujU) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Eyes Closed](https://open.spotify.com/album/0thdFPy1sf2iLHQCcvcRui) | 2:10 |
 | 13 | [Resonance](https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Resonance](https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H) | 3:28 |

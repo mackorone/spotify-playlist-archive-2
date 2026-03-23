@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 
 > This is Elori Saxl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 26 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 26 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 21 | [Raindrops](https://open.spotify.com/track/3EErgq0XAaJNoUPU3Xd4Dr) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:35 |
 | 22 | [Grows Along the River Slow](https://open.spotify.com/track/71ct1kTZ6O0PsWmCrClTjH) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:06 |
 | 23 | [Surfaces](https://open.spotify.com/track/3AOGToArEclNahkwA3k21d) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:46 |
-| 24 | [Memory of Blue](https://open.spotify.com/track/1NXcoT10xZSw1fjqKfY9qt) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 11:38 |
+| 24 | [Blue](https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 9:56 |
 | 25 | [Concrete River](https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 1:54 |
 | 26 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
 
-Snapshot ID: `abyOAAAAAAD65KjeYK4P79Wncx0H/Dch`
+Snapshot ID: `ab3fgAAAAABjsFXKK+++eT4N02WPvWU4`

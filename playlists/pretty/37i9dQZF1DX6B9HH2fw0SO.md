@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,859 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,877 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 19 | [Pretty Pimpin](https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv) | 4:58 |
 | 20 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
 | 21 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 |
-| 22 | [Without You](https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:44 |
-| 23 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
+| 22 | [Past Lives](https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:34 |
+| 23 | [Without You](https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:44 |
 | 24 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 |
 | 25 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 |
 | 26 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
-| 27 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
-| 28 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
+| 27 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
+| 28 | [Lose It](https://open.spotify.com/track/2QgNcjwEn0vGmTommfszQd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:49 |
 | 29 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
 | 30 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 | 31 | [Sedona](https://open.spotify.com/track/65T1aY3I9qfNUDVAnaM9bq) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/13zkonwiXREYVk0vqubjGi) | 3:59 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 38 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 39 | [Firefly](https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:48 |
 | 40 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
-| 41 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
-| 42 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
+| 41 | [Dopamine](https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:44 |
+| 42 | [What Kind Of Man](https://open.spotify.com/track/2kP1ujXHn0mNqFbiT3zob8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:36 |
 | 43 | [Put a Flower in Your Pocket](https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Yours, Dreamily,](https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA) | 3:55 |
 | 44 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
 | 45 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 72 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
 | 73 | [Clearest Blue](https://open.spotify.com/track/4eA2kYa441m4U4oopsuBBG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:53 |
 | 74 | [Lifted Up \(1985\)](https://open.spotify.com/track/0WjvB0SzNvgmuM46UjcMr8) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Kindred](https://open.spotify.com/album/5vHUSuZ5xizxS3zfr3SKkq) | 4:23 |
-| 75 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
-| 76 | [Sound & Color](https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:02 |
+| 75 | [Sound & Color](https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:02 |
+| 76 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
 | 77 | [101](https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4) | [WALLA](https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E) | [101](https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl) | 3:23 |
 | 78 | [To Die in L.A.](https://open.spotify.com/track/0sujwD2rDemdq6lBUvlB6j) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Escape From Evil](https://open.spotify.com/album/3lzj0ftwAZ9XFp3qFs2lMN) | 4:11 |
 | 79 | [Leave A Trace](https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:57 |
-| 80 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
-| 81 | [Don't Wanna Fight](https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:52 |
+| 80 | [Don't Wanna Fight](https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:52 |
+| 81 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
 | 82 | [Feel You](https://open.spotify.com/track/6JGZmmiaL64s1AmhEOVvCr) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Have You In My Wilderness](https://open.spotify.com/album/0EiGGBzF9wzJn2X8F0Yvjh) | 4:08 |
 | 83 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 |
 | 84 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |

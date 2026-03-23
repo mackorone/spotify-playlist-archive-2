@@ -121,6 +121,32 @@
     },
     {
       "album": {
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151226,
+      "name": "Beau Soir, L. 6",
+      "url": "https://open.spotify.com/track/2eSK6jy4LLth6hLBvYptJl"
+    },
+    {
+      "album": {
         "name": "October Road (Special Edition)",
         "url": "https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif"
       },
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 137000,
       "name": "Valse Sentimentale, Op. 51, No. 6 (Arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1qe1mHUozUo7PoMBBLnr3i"

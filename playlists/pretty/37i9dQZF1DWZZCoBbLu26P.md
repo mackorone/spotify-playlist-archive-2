@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,256 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,259 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 52 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |
 | 53 | [Fight for Love](https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Fight for Love](https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW) | 2:56 |
 | 54 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
-| 55 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
-| 56 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
+| 55 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
+| 56 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 57 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
 | 58 | [Flamin' Hot](https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae) | [Absolute Zero](https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli) | 3:18 |
 | 59 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity The Tuck](https://open.spotify.com/artist/23crczyZ25pQ82EXkDktKv) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |

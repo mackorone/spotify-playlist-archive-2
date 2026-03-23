@@ -4,7 +4,7 @@
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-224 songs - 13 hr 46 min
+225 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-06-15 |  |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2023-06-15 |  |
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-08-17 | 2025-01-31 |
-| [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2024-03-28 |  |
+| [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2024-03-28 | 2026-03-23 |
 | [Friend or Foe](https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Friend or Foe](https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN) | 4:10 | 2024-04-04 | 2024-04-12 |
 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 | 2024-09-12 | 2024-09-27 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-18 | 2025-11-14 |
@@ -172,6 +172,7 @@
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2023-06-15 | 2024-04-19 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-15 | 2023-07-28 |
 | [Slo Mo](https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Slo Mo](https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j) | 8:14 | 2024-11-07 | 2024-11-22 |
+| [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2026-02-12 |  |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2024-03-28 |  |
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-27 | 2025-11-14 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2023-06-15 | 2024-04-19 |

@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 199680,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/0t9k2FueoXG9501nZYCDEN"
@@ -6716,6 +6716,32 @@
       "duration_ms": 143221,
       "name": "F\u00e9 nas Maluca",
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mc Rodson",
+          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233898,
+      "name": "Gan\u00e2ncia",
+      "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
     },
     {
       "album": {

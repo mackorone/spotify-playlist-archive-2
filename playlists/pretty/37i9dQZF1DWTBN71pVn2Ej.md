@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The future of noise\. Cover: Failure
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,595 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,568 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

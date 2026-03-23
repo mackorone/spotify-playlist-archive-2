@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,834 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,841 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 14 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
 | 15 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 |
 | 16 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
-| 17 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
-| 18 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
+| 17 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
+| 18 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
 | 19 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 20 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 |
 | 21 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 |

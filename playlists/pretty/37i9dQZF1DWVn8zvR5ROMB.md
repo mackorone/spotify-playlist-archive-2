@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Parker McCollum, Luke Combs, Ella Langley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,238 likes - 73 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,352 likes - 73 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist\. Cover: Chappell Roan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,945 likes - 35 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,944 likes - 35 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 17 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
 | 18 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 19 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 |
-| 20 | [Blue Strips](https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:27 |
-| 21 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
+| 20 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
+| 21 | [Blue Strips](https://open.spotify.com/track/5kUXTPwxC6ZkduukaukCRT) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:27 |
 | 22 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 23 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 |
 | 24 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 |

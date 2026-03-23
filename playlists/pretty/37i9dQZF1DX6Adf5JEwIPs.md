@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Juan Freer, Los Chavalitos
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,331 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,373 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 44 | [Volver a Verte](https://open.spotify.com/track/2yvAGdYGwq7V9fWwMTCNnx) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Volver a Verte](https://open.spotify.com/album/1MEtfWVURSe54nXNc9Q9al) | 3:32 |
 | 45 | [Especial](https://open.spotify.com/track/7lbcJvWz26hMYHy7rxeQZa) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Especial](https://open.spotify.com/album/6oxamAhdZqnRIL9UlrlvOB) | 3:18 |
 | 46 | [JORDAN](https://open.spotify.com/track/324hZmYnoSrRC0g8Ot0oLY) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [JORDAN](https://open.spotify.com/album/3WpG7ortr4gQll40fuoVM6) | 2:44 |
-| 47 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:40 |
+| 47 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:41 |
 | 48 | [Los Mensajes del Insta](https://open.spotify.com/track/6F5XNZSgZxBEKREiN6Bqj9) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Los Mensajes del Insta](https://open.spotify.com/album/6Gmp9bv1UTJbtpJ86PIASR) | 3:43 |
 | 49 | [Un Indio Quiere Llorar \- En Vivo](https://open.spotify.com/track/4eAMYbN3cpn3rRXboAIG8i) | [Los Armadillos de la Sierra](https://open.spotify.com/artist/2yHT6cR15NAMgUB8sgWNnq) | [Un Indio Quiere Llorar \(En Vivo\)](https://open.spotify.com/album/6LQlg1tO0HSoPar286zlrE) | 3:47 |
 | 50 | [No Me He Podido Acostumbrar](https://open.spotify.com/track/13IspL8CWoV4fu4DqhjMV4) | [Cristian Ciriaco](https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p) | [No Me He Podido Acostumbrar](https://open.spotify.com/album/3njM6wk6I5HHpDmEhQWYtp) | 3:17 |

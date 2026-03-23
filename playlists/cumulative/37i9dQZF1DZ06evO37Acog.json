@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "Ni Recompensa Ni Esperanza",
       "url": "https://open.spotify.com/track/2UdVh89WSqLe9sDWQeAWB6"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 178666,
       "name": "Tres Viudas Solas",
       "url": "https://open.spotify.com/track/32mh6f1u7mEu5z4sUymQQU"
@@ -2198,10 +2198,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 185960,
       "name": "Vestida De Color De Rosa",
       "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
+    },
+    {
+      "album": {
+        "name": "CORAZONCITO TIRANO/ VESTIDA DE COLOR DE ROSA (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/3j26mnN4TQkaBXCkkf48QL"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186124,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/1HmpmlAE8TQ6dKTSpWHF7l"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,919 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,912 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 43 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 44 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
 | 45 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 46 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
-| 47 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
+| 46 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
+| 47 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
 | 48 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 49 | [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 |
 | 50 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 54 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
 | 55 | [Feelin’ Go\(o\)d](https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Feelin’ Go\(o\)d](https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR) | 4:19 |
 | 56 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |
-| 57 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
-| 58 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
-| 59 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
-| 60 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 57 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
+| 58 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
+| 59 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 60 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 61 | [WORK HARD](https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORK HARD](https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ) | 2:53 |
 | 62 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
-| 63 | [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 |
-| 64 | [Bassline](https://open.spotify.com/track/2Nw5FJmcZfM7kQVU2GsYOR) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Bassline](https://open.spotify.com/album/0OutIfPgB0uJbyXMaJqmOl) | 2:52 |
+| 63 | [Bassline](https://open.spotify.com/track/2Nw5FJmcZfM7kQVU2GsYOR) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Bassline](https://open.spotify.com/album/0OutIfPgB0uJbyXMaJqmOl) | 2:52 |
+| 64 | [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 |
 | 65 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 66 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
-| 67 | [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 |
-| 68 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 |
-| 69 | [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 |
+| 67 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 |
+| 68 | [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 |
+| 69 | [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 |
 | 70 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 |
 | 71 | [Perfect Blue](https://open.spotify.com/track/4isltDchfXCDrGCNd8iupg) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [Perfect Blue](https://open.spotify.com/album/54xd4oRJbt6MQJUpbqLcL9) | 3:22 |
 | 72 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 648960,
+  "num_followers": 649152,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAASNpPz9soH6X7mX2k0BQUJ",
+  "snapshot_id": "ab3fgAAAAAD46GM+gIEXz9nAXlVR8S2b",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madeline (feat. Gabriella Rose)",
-        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
       "artists": [
         {
@@ -440,13 +440,13 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Gabriella Rose",
-          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Madeline (feat. Gabriella Rose)",
-      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bowery (feat. Kings of Leon)",
-        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+        "name": "Madeline (feat. Gabriella Rose)",
+        "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
       },
       "artists": [
         {
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Bowery (feat. Kings of Leon)",
-      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+      "duration_ms": 145146,
+      "name": "Madeline (feat. Gabriella Rose)",
+      "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
     },
     {
       "added_at": null,

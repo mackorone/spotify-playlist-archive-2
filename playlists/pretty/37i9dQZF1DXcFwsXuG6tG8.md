@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,611 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,616 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 23 | [Heaven is a Home…](https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 4:04 |
 | 24 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 |
 | 25 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 26 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
-| 27 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 |
+| 26 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 |
+| 27 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 28 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
 | 29 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
 | 30 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 40 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 41 | [Como Ella Ya No Hay](https://open.spotify.com/track/4054z9P3gI5pYPiw6L20Ah) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Como Ella Ya No Hay](https://open.spotify.com/album/0aoeCcwdkKtGWtyUrG2xOH) | 3:40 |
 | 42 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
-| 43 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
-| 44 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 43 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 44 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
 | 45 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
 | 46 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 |
 | 47 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 66 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 67 | [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 |
 | 68 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
-| 69 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
-| 70 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
+| 69 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
+| 70 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
 | 71 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 72 | [Ve y Diles](https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ruido](https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5) | 2:42 |
 | 73 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |

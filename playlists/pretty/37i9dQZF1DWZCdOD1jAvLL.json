@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269932,
+  "num_followers": 269965,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Faded (Blacklizt Version)(HNTR Remix)",
-        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Faded (Blacklizt Version) - HNTR Remix",
-      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "4 Ya Mind",
         "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
       },
@@ -1059,22 +1039,22 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+        "name": "Faded (Blacklizt Version)(HNTR Remix)",
+        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         },
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         }
       ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+      "duration_ms": 193005,
+      "name": "Faded (Blacklizt Version) - HNTR Remix",
+      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1095,6 +1075,26 @@
       "duration_ms": 183750,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5Lud9rYTBNnTkt4FMoNYPG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1599,18 +1599,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+        "name": "Let It Go (feat. Nevve)",
+        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
         }
       ],
-      "duration_ms": 129920,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
+      "duration_ms": 238285,
+      "name": "Let It Go (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1627,6 +1635,22 @@
       "duration_ms": 192193,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1687,30 +1711,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Let It Go (feat. Nevve)",
-        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Let It Go (feat. Nevve)",
-      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "CHARIOT",
         "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
       },
@@ -1743,6 +1743,26 @@
       "duration_ms": 183724,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 161641,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1807,26 +1827,6 @@
       "duration_ms": 139064,
       "name": "Curry Goat",
       "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 161641,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Break This Tension",
+        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "Break This Tension",
+      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Cream On Peaches",
         "url": "https://open.spotify.com/album/5ykRgIC5UpO42Tzz2sFr4a"
       },
@@ -2207,26 +2227,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Break This Tension",
-        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
-      },
-      "artists": [
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "Break This Tension",
-      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO"
       },
@@ -2263,6 +2263,22 @@
       "duration_ms": 138461,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/5f3q2U4nESdYhs6dBaSdCA"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Trilla",
+        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
+      },
+      "artists": [
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Trilla",
+      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2367,22 +2383,6 @@
       "duration_ms": 204545,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/752jwWUjjewYUdkyXQbUMe"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Trilla",
-        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
-      },
-      "artists": [
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Trilla",
-      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     },
     {
       "added_at": "2026-03-20 04:00:41",

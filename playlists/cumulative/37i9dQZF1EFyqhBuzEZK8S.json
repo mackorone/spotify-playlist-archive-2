@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "dirty wedding dress",
+        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289424,
+      "name": "dirty wedding dress",
+      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
+    },
+    {
+      "album": {
         "name": "MOONLIT FOOLS",
         "url": "https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud"
       },

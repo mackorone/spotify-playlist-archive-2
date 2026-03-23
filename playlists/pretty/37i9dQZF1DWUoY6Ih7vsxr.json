@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 345188,
+  "num_followers": 345318,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "BLOCKBUSTER",
         "url": "https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 207080,
       "name": "\ub2d0\ub9ac\ub9ac\ub9d8\ubcf4",
       "url": "https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 235624,
+      "name": "Miss Korea",
+      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 212244,
       "name": "Bubble Pop!",
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Mr.",
-      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "NU'EST The First Album \"Re:BIRTH\"",
         "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 220134,
       "name": "FACE",
       "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Mr.",
+      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "No.1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "No.1",
-      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Afterschool 3rd Single BANG",
         "url": "https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 198693,
       "name": "bang",
       "url": "https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Every night",
-        "url": "https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "Every night",
-      "url": "https://open.spotify.com/track/4Ux83SOG5vqnbohuijD2Zv"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "To Anyone",
         "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 213400,
       "name": "Kiss (Dara)",
       "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Every night",
+        "url": "https://open.spotify.com/album/0opK7fhDf6UWIVb4AKEeRo"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "Every night",
+      "url": "https://open.spotify.com/track/4Ux83SOG5vqnbohuijD2Zv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Tri-Angle - The 1st Album",
-        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
       },
       "artists": [
         {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
+      "duration_ms": 221532,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
+        "name": "Tri-Angle - The 1st Album",
+        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 221532,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
+      "duration_ms": 229560,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
     },
     {
       "added_at": "2024-03-27 14:24:46",

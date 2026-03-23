@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,245 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,431 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 38 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
 | 39 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
 | 40 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI) | 3:55 |
-| 41 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
-| 42 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
+| 41 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
+| 42 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 43 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
 | 44 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 45 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 61 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
 | 62 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 63 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Pet Your Friends](https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy) | 4:51 |
-| 64 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
-| 65 | [Roll To Me](https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 2:12 |
+| 64 | [Roll To Me](https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 2:12 |
+| 65 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
 | 66 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 67 | [Better Days \(And the Bottom Drops Out\)](https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb) | [Citizen King](https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M) | [Mobile Estates](https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq) | 3:27 |
 | 68 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 87 | [Everything About You](https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [As Ugly As It Gets: The Very Best Of](https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj) | 4:15 |
 | 88 | [Naked Eye](https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2) | [Luscious Jackson](https://open.spotify.com/artist/1EcRE2Nnqg2spdn2otakhg) | [Fever In Fever Out](https://open.spotify.com/album/0GDMOxPfDWThpQJaGpJjqh) | 4:40 |
 | 89 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 |
-| 90 | [If You Could Only See](https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [A Casual Affair \- The Best Of Tonic](https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg) | 4:23 |
-| 91 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
+| 90 | [Devils Haircut](https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 3:12 |
+| 91 | [If You Could Only See](https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [A Casual Affair \- The Best Of Tonic](https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg) | 4:23 |
 | 92 | [Crazy for This Girl](https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd) | [Evan And Jaron](https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G) | [evan and jaron](https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy) | 3:22 |
 | 93 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
 | 94 | [Girlfriend](https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd) | [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Girlfriend \(Legacy Edition\)](https://open.spotify.com/album/0SZjTgnyODlELJWopuCt8w) | 3:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 97 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
 | 98 | [Radiation Vibe](https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:41 |
 | 99 | [Everything Falls Apart](https://open.spotify.com/track/4l1W5SkH8EJJ9RQEq6UFMW) | [Dog's Eye View](https://open.spotify.com/artist/0ymKv4fh2eBhPT9HLTu8yH) | [Happy Nowhere](https://open.spotify.com/album/1BsYAt63QqAQ5QDrmYHyDf) | 3:54 |
-| 100 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
+| 100 | [Brimful of Asha](https://open.spotify.com/track/63q6YV3Upkq5k3ZOu8tJ1A) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [When I Was Born For The 7th Time](https://open.spotify.com/album/13Mu9qKWeNmU1EUE1BJDTZ) | 5:17 |
 
 Snapshot ID: `AAAAAIWl1xe4k2pBoUTMK+jlqEPdJGmJ`

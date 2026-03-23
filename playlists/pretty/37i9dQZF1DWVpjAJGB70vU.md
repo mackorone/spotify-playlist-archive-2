@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170,656 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,171,267 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 45 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:44 |
 | 46 | [Blue Clear Sky](https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 2:54 |
 | 47 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:39 |
-| 48 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
-| 49 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
+| 48 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
+| 49 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 | 50 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
 | 51 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 52 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
-| 53 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 54 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
+| 53 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
+| 54 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 |
 | 56 | [Livin' On Love](https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 3:49 |
 | 57 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 85 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 86 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 87 | [You Ain't Much Fun](https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 2:27 |
-| 88 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
-| 89 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
+| 88 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
+| 89 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
 | 90 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
-| 91 | [Thinkin' Problem](https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Thinkin' Problem](https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao) | 3:01 |
-| 92 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
+| 91 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
+| 92 | [Thinkin' Problem](https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Thinkin' Problem](https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao) | 3:01 |
 | 93 | [How Do I Get There](https://open.spotify.com/track/34VnYs7xwpscz3DkbTMoHb) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:09 |
 | 94 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
 | 95 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |

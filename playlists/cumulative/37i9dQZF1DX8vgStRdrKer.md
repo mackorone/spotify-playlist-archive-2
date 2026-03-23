@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-749 songs - 2 day 16 hr 3 min
+750 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [In Awe](https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [In Awe](https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs) | 4:39 | 2026-03-13 |  |
 | [In My Praise](https://open.spotify.com/track/2CsOARViLxITTo2uE5rwMQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In My Praise](https://open.spotify.com/album/12NeijP8fQUiFXWw1lUHbw) | 5:35 | 2025-05-23 | 2025-06-27 |
 | [In the Blood 2](https://open.spotify.com/track/3moqoaDy2sNTt5zmC6BHNA) | [Gospel boys](https://open.spotify.com/artist/453mSEjGTGcO9idPrxSCkS) | [Father](https://open.spotify.com/album/052C0B2hB66pThBPyTbaaW) | 2:34 | 2025-12-05 | 2026-01-20 |
+| [In the Name of Jesus \- Live](https://open.spotify.com/track/4p4Ihu04d4ox6JCEBKVExr) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [In the Name of Jesus \(Live\)](https://open.spotify.com/album/1XnLOLfGQSwfuexXCzPdzf) | 7:06 | 2026-03-06 |  |
 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 | 2024-05-10 | 2025-06-27 |
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 | 2025-05-09 |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-04-16 |
@@ -603,7 +604,7 @@
 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 | 2025-02-23 |
 | [Song Of My Father \(Live\) \- Revisitation](https://open.spotify.com/track/7eBpg6M5HmQ24lKbV4p8af) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Song Of My Father \(Live\) \[Revisitation\]](https://open.spotify.com/album/59f6I1iAqoyrvz36Js2fgc) | 5:47 | 2025-05-16 | 2025-06-27 |
 | [Songs of Joy](https://open.spotify.com/track/7FxxEg3YNRJq1agzBQOprW) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Songs of Joy](https://open.spotify.com/album/1cFcYbpr60J707xz5MePR2) | 4:01 | 2026-01-09 | 2026-02-24 |
-| [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 |  |
+| [Sound of Joy](https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Sound of Joy](https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K) | 3:32 | 2026-02-13 | 2026-03-23 |
 | [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 |  |
 | [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 | 2025-06-27 | 2025-10-15 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-06-27 |

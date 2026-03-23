@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 
 > Relax with these seriously laid\-back classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,665 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,671 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 23 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 24 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 25 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
-| 26 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
-| 27 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 26 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 27 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 28 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 29 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
 | 30 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 42 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 43 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
 | 44 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
-| 45 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 |
-| 46 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
+| 45 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 |
+| 46 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 |
 | 47 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
-| 48 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 49 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
-| 50 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
+| 48 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 49 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
+| 50 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 
 Snapshot ID: `AAAAANblZHQPRJlQUnknZ0WlMIvmbUDq`

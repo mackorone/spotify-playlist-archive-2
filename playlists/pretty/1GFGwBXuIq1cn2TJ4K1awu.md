@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 46 min 26 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 35 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
-| 2 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
-| 3 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:29 |
-| 4 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 |
-| 5 | [Come Back Baby](https://open.spotify.com/track/2BuBXn15gj4MNYZydyWgrk) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 3:26 |
-| 6 | [Under The Pressure](https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 8:52 |
-| 7 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
-| 8 | [More Mess on My Thing](https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ) | [The Poets Of Rhythm](https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR) | [Practice What You Preach](https://open.spotify.com/album/0e3CsfgtzbhR5ofqRDnAlT) | 4:12 |
-| 9 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 |
-| 10 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
-| 11 | [If The Sun Never Rises Again](https://open.spotify.com/track/7JP1BDVZLbCdWxfQd82bvm) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 4:47 |
+| 1 | [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 |
+| 2 | [True Thug MC \[feat\. MF Doom & Megalon\]](https://open.spotify.com/track/6AhRnC6okYW4AScnIfZbez) | [Greedy Fingers](https://open.spotify.com/artist/5iIyXGkhCaUdydQ1sAInVS) | [Shady Sirens](https://open.spotify.com/album/6pLPIeO1VPQeyldLtd9XVj) | 4:10 |
+| 3 | [Peach Fuzz](https://open.spotify.com/track/4eAC7BMiGocHOAnZYxWTjc) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 3:44 |
+| 4 | [Crimson to Chrome](https://open.spotify.com/track/2MMWOv9rH5g03uKQ6oWZW5) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 3:28 |
+| 5 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
+| 6 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
+| 7 | [マスコミュニケーション ブレイクダウン](https://open.spotify.com/track/3ZORZ2Vk7MIZGZN4B5AZWp) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Candy Rock](https://open.spotify.com/album/03lO7W9qgC2tyfzAgOiG2j) | 3:27 |
+| 8 | [Rap Grow Old & Die x No Child Left Behind](https://open.spotify.com/track/67YUnh5xggUfdudoN9gkcC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:47 |
+| 9 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
+| 10 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
+| 11 | [Abolish Government/Silent Majority](https://open.spotify.com/track/1R79vtF6xSaDdTrh8qId8W) | [T.S.O.L.](https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi) | [T.S.O.L\. / Weathered Statues](https://open.spotify.com/album/3CB74Cm0oYsV3hyv0EjREv) | 1:59 |
 
-Snapshot ID: `AAAJ7ozBMx+LNd01rzJYBNgjwwK0KwJS`
+Snapshot ID: `AAAKBPaZOy47simqOGLSbqVs1pnLt7jP`

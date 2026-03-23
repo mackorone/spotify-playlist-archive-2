@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,210 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,191 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 82 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 83 | [Blame](https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Blame](https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p) | 4:11 |
 | 84 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
-| 85 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 |
-| 86 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
+| 85 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
+| 86 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 |
 | 87 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 88 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 89 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 93 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 94 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 95 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
-| 96 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 |
-| 97 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 |
+| 96 | [Happy For You](https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Happy For You](https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY) | 3:46 |
+| 97 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 |
 | 98 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
 | 99 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 100 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 |

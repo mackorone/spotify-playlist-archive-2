@@ -696,7 +696,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -4138,10 +4138,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -8718,7 +8736,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -13488,7 +13506,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -14534,7 +14552,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/2X4EDN7z2Xe9aMemsGuO8I"
@@ -14552,7 +14570,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -24892,7 +24910,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -24910,7 +24928,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp"
@@ -29442,10 +29460,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
       "album": {
@@ -31430,7 +31466,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"

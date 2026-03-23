@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,234 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,172 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 24 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 25 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 26 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 27 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
-| 28 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
+| 27 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
+| 28 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 29 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 |
 | 30 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 31 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 69 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
 | 70 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
 | 71 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
-| 72 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
-| 73 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
+| 72 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
+| 73 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 74 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 | 75 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 

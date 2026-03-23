@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 578283,
+  "num_followers": 578287,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2026-03-11 03:00:19",
       "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255631,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
+    },
+    {
+      "added_at": "2026-03-11 03:00:19",
+      "album": {
         "name": "Gone Gone Gone",
         "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 198004,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
-    },
-    {
-      "added_at": "2026-03-11 03:00:19",
-      "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255631,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
     },
     {
       "added_at": "2026-03-11 03:00:19",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-03-11 03:00:19",
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-03-11 03:00:19",
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2026-03-11 03:00:19",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2026-03-11 03:00:19",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-11 03:00:19",
       "album": {
-        "name": "Cry For You (2025)",
-        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Cry For You (2025)",
-      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
-    },
-    {
-      "added_at": "2026-03-11 03:00:19",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2026-03-11 03:00:19",
+      "album": {
+        "name": "Cry For You (2025)",
+        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Cry For You (2025)",
+      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
     },
     {
       "added_at": "2026-03-11 03:00:19",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-03-11 03:00:19",
       "album": {
-        "name": "3am",
-        "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
       "artists": [
         {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 172928,
-      "name": "3am",
-      "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     }
   ],
   "unique_name": "Vibe Check",

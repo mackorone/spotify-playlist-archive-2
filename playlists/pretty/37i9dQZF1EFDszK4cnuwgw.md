@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 69 | [Tip The Surgeon](https://open.spotify.com/track/4tacR7Av6xOTRvhzyWssUt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Tip The Surgeon](https://open.spotify.com/album/1954wNtuh4T3cUJYOZs0eL) | 2:07 |
 | 70 | [M.A \(Intro\)](https://open.spotify.com/track/5rJ8QqvXG2hQuGr0muuoIk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 2:13 |
 | 71 | [No Love](https://open.spotify.com/track/4EL9Sm7NIo3Or5XvOkxbfs) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:19 |
-| 72 | [Quarantine Party](https://open.spotify.com/track/3JfHrQa2XzwhjfrbTXHVCS) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 |
-| 73 | [Angels vs Demons](https://open.spotify.com/track/1Zwg4VLmGKXxi1vzhAatac) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:51 |
+| 72 | [Angels vs Demons](https://open.spotify.com/track/1Zwg4VLmGKXxi1vzhAatac) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:51 |
+| 73 | [Quarantine Party](https://open.spotify.com/track/3JfHrQa2XzwhjfrbTXHVCS) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 |
 | 74 | [Crime Poetry \(Outro\)](https://open.spotify.com/track/5QgcKnpU3U6jwZ3LKuJoPf) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:16 |
 | 75 | [Maaan \(Got Me F'd Up\)](https://open.spotify.com/track/2ZIe9Spi6ysxIafCfgLkKo) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:48 |
 | 76 | [Cloverfield \(feat\. Young M.A\)](https://open.spotify.com/track/2YNwyOPj4P5nH0KiEbLXZq) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:59 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 83 | [Lasagna](https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Lasagna](https://open.spotify.com/album/17UFLnKSALSwQF20X3JpJo) | 2:53 |
 | 84 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AcMwdAAAAAAAUIkRk0xHDie3KNMoAGF2`
+Snapshot ID: `AcM2FAAAAAC7xnq8W3ypCZUVw9qrtJGH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,656 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,690 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 15 | [Uncle ACE](https://open.spotify.com/track/0Cn4UhpHhgf88eWaS9nn5u) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:16 |
 | 16 | [Bounce House](https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt) | [Gelli Haha](https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI) | [Switcheroo](https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap) | 3:32 |
 | 17 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
-| 18 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
-| 19 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
+| 18 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
+| 19 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 20 | [Vibe](https://open.spotify.com/track/4l2tDbFbVJmJv2yJLeKxOo) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Vibe](https://open.spotify.com/album/2MwIYVdnHa9cdyr8DuWARX) | 2:42 |
 | 21 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 22 | [Polish Girl](https://open.spotify.com/track/7vA9zWg6fmjLZn105Uj4TE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/2N9pVEQw0ByXjNn9QSknz3) | 4:24 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 30 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
 | 31 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
 | 32 | [Help Me Lose My Mind](https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:04 |
-| 33 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
-| 34 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
+| 33 | [Lonely Nights](https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:20 |
+| 34 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
 | 35 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
 | 36 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 |
 | 37 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 46 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
 | 47 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
 | 48 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
-| 49 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
-| 50 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 |
+| 49 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 |
+| 50 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
 
 Snapshot ID: `AAAAAMdgquDZSRzG3hgQfxTqBLZGFJej`

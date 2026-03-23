@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: 大橋トリオ
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,029 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,021 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,23 +68,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 58 | [Share](https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Share](https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE) | 3:57 |
 | 59 | [リベラ](https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [リベラ](https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC) | 2:28 |
 | 60 | [Deep End](https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [UP TO THE MINUTE MIXTAPE](https://open.spotify.com/album/6s6Pqnd88fCGpFrgpEr9Gg) | 3:47 |
-| 61 | [ドレスコード](https://open.spotify.com/track/6vOOQuIrxAxSnHlEr0W5jy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ドレスコード](https://open.spotify.com/album/2eUg1Ua42nP4VkqADbbFgL) | 4:01 |
-| 62 | [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 |
-| 63 | [ORACLE](https://open.spotify.com/track/3ZaCzlMkS6zxta8CRlbYHT) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ORACLE](https://open.spotify.com/album/6u7qagdE4p5YiqSgEVeO4j) | 3:21 |
+| 61 | [さすらいの唄](https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [tone \(Special Edition\)](https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9) | 4:52 |
+| 62 | [ORACLE](https://open.spotify.com/track/3ZaCzlMkS6zxta8CRlbYHT) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ORACLE](https://open.spotify.com/album/6u7qagdE4p5YiqSgEVeO4j) | 3:21 |
+| 63 | [ドレスコード](https://open.spotify.com/track/6vOOQuIrxAxSnHlEr0W5jy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ドレスコード](https://open.spotify.com/album/2eUg1Ua42nP4VkqADbbFgL) | 4:01 |
 | 64 | [GUN POWDER](https://open.spotify.com/track/62o2Pvdfe925hqfqB77lrv) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [GUN POWDER](https://open.spotify.com/album/1buHviiOjSJZKxRQT5RtuX) | 2:53 |
 | 65 | [リバースデイ](https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [HB2U](https://open.spotify.com/album/1Nk8xm34p22TekVHp4AfVe) | 4:13 |
-| 66 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
-| 67 | [わかれのうた \- Wakare no uta](https://open.spotify.com/track/3qsuqGRNyg6tV26MQ6gH0U) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた](https://open.spotify.com/album/20j4mWS0JNhrXC5IW1fEwq) | 4:13 |
-| 68 | [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 |
+| 66 | [わかれのうた \- Wakare no uta](https://open.spotify.com/track/3qsuqGRNyg6tV26MQ6gH0U) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた](https://open.spotify.com/album/20j4mWS0JNhrXC5IW1fEwq) | 4:13 |
+| 67 | [キャリーバッグ](https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [キャリーバッグ](https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T) | 3:00 |
+| 68 | [Fly You to the Moon](https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [Fly You to the Moon](https://open.spotify.com/album/7gW16al5pBDDotYTidON1P) | 2:44 |
 | 69 | [RUST](https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [RUST](https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP) | 3:17 |
-| 70 | [夜においていかれました](https://open.spotify.com/track/1E7nLs1lqZ0pgpMkuQZhZ4) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Scissor Hands Up](https://open.spotify.com/album/1pKcsgSCSlnGNuHFL5F6UX) | 3:15 |
-| 71 | [泡沫](https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU) | 3:51 |
+| 70 | [泡沫](https://open.spotify.com/track/4xnbahQwlbpRZ8tBtbDBxY) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [泡沫](https://open.spotify.com/album/4aevFdmO3Hpumaa8F1thBU) | 3:51 |
+| 71 | [夜においていかれました](https://open.spotify.com/track/1E7nLs1lqZ0pgpMkuQZhZ4) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Scissor Hands Up](https://open.spotify.com/album/1pKcsgSCSlnGNuHFL5F6UX) | 3:15 |
 | 72 | [デッドエンド](https://open.spotify.com/track/4leMDmtNqMBjfprfRlx7kd) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [デッドエンド](https://open.spotify.com/album/4CV8Dq2YA4oViwgltxwegz) | 3:06 |
 | 73 | [My summer](https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [My summer](https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5) | 4:02 |
-| 74 | [愛とは](https://open.spotify.com/track/6lmIrtShYENvtIGtBFEviO) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [愛とは](https://open.spotify.com/album/4tzHyZTUB7R3BouKtPwB6j) | 3:58 |
+| 74 | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/album/2YYmeNjDEOJA40xd2etSqb) | 3:26 |
 | 75 | [雨宿らず](https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9) | [永井琳子](https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r) | [雨宿らず](https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma) | 3:26 |
-| 76 | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/album/2YYmeNjDEOJA40xd2etSqb) | 3:26 |
-| 77 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |
+| 76 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |
+| 77 | [愛とは](https://open.spotify.com/track/6lmIrtShYENvtIGtBFEviO) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [愛とは](https://open.spotify.com/album/4tzHyZTUB7R3BouKtPwB6j) | 3:58 |
 | 78 | [アニムスヘイブン](https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アニムスヘイブン](https://open.spotify.com/album/77ycLnkh7FjoJ2k43b4Ybt) | 3:06 |
 | 79 | [Last song \- feat.Young Kee](https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [Rondo](https://open.spotify.com/album/6SS1xn4JNWWU5Oq9eSHE3Q) | 4:20 |
 | 80 | [Turn It Up](https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Turn It Up](https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa) | 3:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 95 | [幽霊になっても美しい](https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [utas](https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP) | 4:12 |
 | 96 | [April Child](https://open.spotify.com/track/5gYCdjT46e02SZOq5D95yn) | [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu) | [April Child](https://open.spotify.com/album/7wTorbfSU8WMWYaEMBD7T0) | 5:29 |
 | 97 | [ここだけの話](https://open.spotify.com/track/6vM87oVO7TGVHQdJivfKgl) | [我生](https://open.spotify.com/artist/0d3y3ua0lOFOVfcXn11AmT) | [ここだけの話](https://open.spotify.com/album/1A17WeqMVCchqHR8lokZex) | 4:00 |
-| 98 | [エンディング](https://open.spotify.com/track/1atXsbjY5Nx03MpaQfXt39) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [エンディング](https://open.spotify.com/album/1V1iuK3eu1VoQCZQ47ZMyt) | 2:02 |
-| 99 | [地平線](https://open.spotify.com/track/6c9WkzzeUXewev8O4VhfLu) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [窓越し、その目に触れて](https://open.spotify.com/album/5BFNYqNgR2k7qthCkXcmBo) | 4:03 |
-| 100 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
+| 98 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
+| 99 | [エンディング](https://open.spotify.com/track/1atXsbjY5Nx03MpaQfXt39) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [エンディング](https://open.spotify.com/album/1V1iuK3eu1VoQCZQ47ZMyt) | 2:02 |
+| 100 | [地平線](https://open.spotify.com/track/6c9WkzzeUXewev8O4VhfLu) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [窓越し、その目に触れて](https://open.spotify.com/album/5BFNYqNgR2k7qthCkXcmBo) | 4:03 |
 
 Snapshot ID: `AAAAAP5Rwa73OqKRz3CwwAcic3+Si1kW`

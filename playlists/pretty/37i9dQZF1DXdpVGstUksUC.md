@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,792 likes - 100 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,817 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 5 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
 | 6 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
 | 7 | [Thunder Lights on the Greatest Sky](https://open.spotify.com/track/1qBS4Mi2RPvf7GifjvdPLY) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [In Search Of The Cosmic Tale: Crossing The Galactic Portal](https://open.spotify.com/album/6KjA1z6VMjXUlOJnLUpagF) | 5:33 |
-| 8 | [No One Loves Me and Neither Do I](https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 5:10 |
-| 9 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
+| 8 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
+| 9 | [No One Loves Me and Neither Do I](https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E) | [Them Crooked Vultures](https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO) | [Them Crooked Vultures](https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3) | 5:10 |
 | 10 | [Electric Worry](https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [From Beale Street to Oblivion](https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx) | 5:14 |
 | 11 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 |
 | 12 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 |
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 14 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 |
 | 15 | [Battling Guns](https://open.spotify.com/track/5D7tZUZKZCgS1r0uyensG0) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Battling Guns](https://open.spotify.com/album/55OBjBeDyNMXaaDzG2uuH4) | 4:55 |
 | 16 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
-| 17 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion Of Conformity	](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
-| 18 | [Starting Line](https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Starting Line](https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS) | 3:51 |
+| 17 | [Starting Line](https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Starting Line](https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS) | 3:51 |
+| 18 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion Of Conformity	](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
 | 19 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 20 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 |
 | 21 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 |
 | 22 | [Last Living Dinosaur](https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Berlin](https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu) | 4:05 |
 | 23 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 |
-| 24 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
-| 25 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 |
+| 24 | [Wires](https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn) | [Red Fang](https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S) | [Murder the Mountains \(Deluxe Version\)](https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9) | 5:43 |
+| 25 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
 | 26 | [Eatin' Dust](https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Godzilla's / Eatin' Dust](https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF) | 3:10 |
 | 27 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 28 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 56 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
 | 57 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
 | 58 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
-| 59 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
-| 60 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
+| 59 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
+| 60 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
 | 61 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 62 | [Bright Lights](https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [6](https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4) | 3:53 |
 | 63 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |

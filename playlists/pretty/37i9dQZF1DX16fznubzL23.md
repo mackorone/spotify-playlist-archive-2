@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,083 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,103 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 41 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 42 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
 | 43 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 |
-| 44 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
-| 45 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 44 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 45 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |
 | 46 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 |
 | 47 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 48 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |

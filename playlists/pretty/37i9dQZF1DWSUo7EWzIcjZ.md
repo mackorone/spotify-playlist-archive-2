@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,111 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,110 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 22 | [Carolina](https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amame](https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx) | 4:49 |
 | 23 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
 | 24 | [Esa Muchacha](https://open.spotify.com/track/21vHk583nlNXmTU8B6UGj0) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Esa Muchacha](https://open.spotify.com/album/03Hk5GKWdG18zLLtvZrx9T) | 3:57 |
-| 25 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
+| 25 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 26 | [Me Olvide De Vivir](https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:51 |
-| 27 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 27 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 28 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
 | 29 | [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 |
 | 30 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 37 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
 | 38 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
 | 39 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
-| 40 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
-| 41 | [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 |
+| 40 | [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 |
+| 41 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 42 | [Oye](https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE) | [Rasputin](https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY) | [Juan and Nelson Records \- 20 Exitos](https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw) | 4:23 |
 | 43 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |
 | 44 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 |

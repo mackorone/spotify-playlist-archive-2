@@ -1,6 +1,6 @@
 {
   "description": "Run to this collection of rock jams.",
-  "num_followers": 974777,
+  "num_followers": 975065,
   "original_name": "Born To Run 150 BPM",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-26 10:10:24",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2025-06-26 10:10:24",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2025-06-26 10:10:24",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188987,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2025-06-26 10:10:24",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-06-26 10:10:24",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2025-06-26 10:10:24",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 277480,
       "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
       "url": "https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"
+    },
+    {
+      "added_at": "2025-06-26 10:10:24",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
     },
     {
       "added_at": "2025-06-26 10:10:24",

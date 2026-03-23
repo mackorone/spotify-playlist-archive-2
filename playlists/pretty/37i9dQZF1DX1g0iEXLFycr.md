@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,862 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,850 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 58 | [Call My Name](https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [A Million Lights \(Deluxe Version\)](https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu) | 3:27 |
 | 59 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
 | 60 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 |
-| 61 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
-| 62 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 61 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
+| 62 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 63 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
 | 64 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 65 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |

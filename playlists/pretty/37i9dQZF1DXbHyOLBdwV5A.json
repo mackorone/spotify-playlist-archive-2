@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 132445,
+  "num_followers": 132458,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        },
-        {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -391,42 +387,26 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
         },
         {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
         }
       ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -447,6 +427,26 @@
       "duration_ms": 189268,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "O Le\u00e3o (Dj Del Mag Remix)",
         "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 211200,
       "name": "O Le\u00e3o - Dj Del Mag Remix",
       "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Marcas (Remix)",
         "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 195615,
       "name": "Marcas - Remix",
       "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2025-08-29 03:01:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,171 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,200 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 31 | [King Of Kings \- Live at Hillsong Conference](https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live at Hillsong Conference\)](https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU) | 4:51 |
 | 32 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
 | 33 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:29 |
-| 34 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
-| 35 | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE) | 5:15 |
+| 34 | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [God That Saves \(feat\. Stephen McWhirter\) \(feat\. Stephen McWhirter\)](https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE) | 5:15 |
+| 35 | [Sanctuary \- Live](https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [SEU Worship \(Live\)](https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx) | 9:29 |
 | 36 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
 | 37 | [To The End](https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 7:11 |
 | 38 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:25 |

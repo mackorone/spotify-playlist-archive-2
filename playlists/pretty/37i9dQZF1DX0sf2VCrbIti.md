@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,842 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,843 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 32 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 33 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
 | 34 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
-| 35 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
-| 36 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
+| 35 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
+| 36 | [Tú Con El](https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Cantándole al Amor, Vol\. 2](https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH) | 5:01 |
 | 37 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 38 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 |
 | 39 | [Apiádate de Mi](https://open.spotify.com/track/3SHvRyQDsmumq48SF7jtVk) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 5:04 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 44 | [El Chucu Chucu](https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Chucu Chucu](https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu) | 2:43 |
 | 45 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 |
 | 46 | [El Mono](https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 4:35 |
-| 47 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 |
-| 48 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
+| 47 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 |
+| 48 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 |
 | 49 | [Arranca en Fá](https://open.spotify.com/track/4IQeMjVi0BzCeTyP280ZGx) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 3:36 |
 | 50 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 51 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |

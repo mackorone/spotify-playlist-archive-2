@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,178 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,245 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 38 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 |
 | 39 | [Cup of Tea](https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s) | [Francesca Castro](https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf) | [Day by Day](https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt) | 6:34 |
 | 40 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
-| 41 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
-| 42 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
+| 41 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
+| 42 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 |
 | 43 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
 | 44 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
 | 45 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 62 | [Softer Than You Know](https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Softer Than You Know](https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu) | 3:28 |
 | 63 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
 | 64 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
-| 65 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 |
-| 66 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
+| 65 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
+| 66 | [All About You](https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK) | [Maluku Sweden Connection](https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7), [SheemaW](https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl) | [All About You](https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA) | 4:20 |
 | 67 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
 | 68 | [Loneliness](https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Loneliness](https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd) | 3:05 |
 | 69 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 88 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 89 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 90 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
-| 91 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
-| 92 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 93 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
+| 91 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 92 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
+| 93 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
 | 94 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 |
 | 95 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 | 96 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [You Are My Everything](https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x) | [Oliver Nosaczynski Bohovič](https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum) | [You Are My Everything](https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4) | 4:10 |
 | 100 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
 
-Snapshot ID: `AAAAAGxv5SBwOO6Y7xejLKdi259Jkm2u`
+Snapshot ID: `AAAAAIDoRZdaWpQxRiocxAElHl7gN8CV`

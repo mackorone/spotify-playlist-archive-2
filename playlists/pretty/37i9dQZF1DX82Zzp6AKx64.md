@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,731 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,845 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 23 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
 | 24 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 25 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
-| 26 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 |
-| 27 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:29 |
+| 26 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:29 |
+| 27 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 |
 | 28 | [When I Look Into Your Eyes](https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Hold Your Fire](https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy) | 3:59 |
 | 29 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
 | 30 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 63 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 |
 | 64 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
 | 65 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
-| 66 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
-| 67 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
+| 66 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
+| 67 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
 | 68 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
 | 69 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
 | 70 | [What It Takes](https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 6:28 |
 | 71 | [Wait](https://open.spotify.com/track/63IItP7504rQwYgZqmsznL) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:00 |
-| 72 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
-| 73 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
+| 72 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
+| 73 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
 | 74 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
 | 75 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Essential Survivor](https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ) | 3:50 |
 | 76 | [Love Walked In](https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j) | [Thunder](https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU) | [Backstreet Symphony](https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG) | 6:25 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 79 | [What Love Can Be](https://open.spotify.com/track/54ksR9aJry2nrGZqmJN7ji) | [Kingdom Come](https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q) | [Kingdom Come](https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n) | 5:14 |
 | 80 | [Cryin'](https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 3:31 |
 | 81 | [I'll Cry For You](https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Prisoners In Paradise](https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp) | 5:21 |
-| 82 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
-| 83 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
+| 82 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
+| 83 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
 | 84 | [Price of Love](https://open.spotify.com/track/56y9EmjGAAejQ6QX9blIGI) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:46 |
 | 85 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
 | 86 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |

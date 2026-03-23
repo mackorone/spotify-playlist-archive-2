@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,561 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,654 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 17 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 18 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
 | 19 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 20 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
-| 21 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
+| 20 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 |
+| 21 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 22 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 23 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 24 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
-| 25 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
-| 26 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 25 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
+| 26 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 27 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
 | 28 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 29 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 36 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 37 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 38 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
-| 39 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
-| 40 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
+| 39 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
+| 40 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 41 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
 | 42 | [It Never Rains in Southern California](https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [It Never Rains In Southern California](https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM) | 3:53 |
 | 43 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 70 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 |
 | 71 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 72 | [Angel Of The Morning](https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:14 |
-| 73 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
-| 74 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
+| 73 | [I Second That Emotion](https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The 35th Anniversary Collection](https://open.spotify.com/album/499ITeZ8gs03lrO9NULY7y) | 2:41 |
+| 74 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 75 | [Trouble](https://open.spotify.com/track/5EaaGNkpMqAd2Zs4Knq3sH) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain \(Expanded Edition\)](https://open.spotify.com/album/7iMybHeeEiPQSEI0TG3pdo) | 4:01 |
 
 Snapshot ID: `AAAAAEDBUF5FyX58Zq/diyNrAp7jqyHy`

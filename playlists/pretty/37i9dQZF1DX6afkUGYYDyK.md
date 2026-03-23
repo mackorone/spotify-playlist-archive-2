@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,404 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,429 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 32 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 |
 | 33 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
 | 34 | [Things I'm Thankful For](https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Things I'm Thankful For](https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn) | 3:10 |
-| 35 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
-| 36 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
-| 37 | [Thank You Jesus](https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Thank You Jesus](https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x) | 2:51 |
+| 35 | [Thank You Jesus](https://open.spotify.com/track/1TmAG4vhedrQ64GznwECXb) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Thank You Jesus](https://open.spotify.com/album/75sOpcC8vKAcE0W4cqmW3x) | 2:51 |
+| 36 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |
+| 37 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
 | 38 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 39 | [More Than Enough](https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Lee](https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI) | [More Than Enough](https://open.spotify.com/album/0BCVRyseIXCf3cGj0OWKfR) | 4:58 |
 | 40 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 447025,
+  "num_followers": 447079,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2026-01-30 13:05:09",

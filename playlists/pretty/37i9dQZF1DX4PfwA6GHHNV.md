@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,993 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 42 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 |
 | 43 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 |
 | 44 | [Pôkas](https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Deryck Cabrera](https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd) | [Pôkas / Mfalme](https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh) | 5:45 |
-| 45 | [Fatal](https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Fatal](https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4) | 2:24 |
-| 46 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
+| 45 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
+| 46 | [Fatal](https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Fatal](https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4) | 2:24 |
 | 47 | [MAIS VERDE](https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [MAIS VERDE](https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl) | 3:28 |
 | 48 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
 | 49 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 |

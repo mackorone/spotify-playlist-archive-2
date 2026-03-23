@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,456 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,455 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 16 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
 | 17 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
 | 18 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
-| 19 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
-| 20 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 19 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 20 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
 | 21 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
 | 22 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |
 | 23 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |

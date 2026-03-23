@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-347 songs - 18 hr 22 min
+348 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Zeg Dat Niet](https://open.spotify.com/track/1Tb7SUdzJTWdd8HEsjt0MY) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 3:28 | 2026-02-13 | 2026-02-21 |
 | [Zijn Probleem](https://open.spotify.com/track/7FJo5nWEp80SJsJ4ibkkof) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Zijn Probleem](https://open.spotify.com/album/5QmQVkCS2ESWm4wWl12DML) | 2:51 | 2026-02-06 | 2026-02-14 |
 | [Zoet, Zout, Zuur](https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zoet, Zout, Zuur](https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P) | 3:00 | 2025-07-18 | 2025-08-30 |
-| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2026-02-27 |  |
+| [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 | 2026-03-20 |  |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2026-02-27 | 2026-03-23 |
 | [Zou Niet Willen Dat Ik Kerst Mis](https://open.spotify.com/track/2g0O5rZNTPDgBE2IzH4I0W) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zou Niet Willen Dat Ik Kerst Mis](https://open.spotify.com/album/0eGq2374PdmSm8bagy2VgY) | 3:01 | 2025-12-26 | 2026-01-03 |
 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 | 2025-11-28 | 2026-01-17 |
 

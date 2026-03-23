@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,361 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,370 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 38 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 |
 | 39 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 40 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 |
-| 41 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
-| 42 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
+| 41 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
+| 42 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 43 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 | 44 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 45 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
-| 46 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
-| 47 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
+| 46 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
+| 47 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
 | 48 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 49 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 |
 | 50 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |

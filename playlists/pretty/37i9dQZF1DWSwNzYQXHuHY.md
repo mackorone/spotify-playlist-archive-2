@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,227 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,226 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 44 | [열어도 되어요](https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [HAAN X SHIRT : Energy](https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT) | 2:51 |
 | 45 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 46 | [그렇게 됐어 It just happened](https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:36 |
-| 47 | [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 |
-| 48 | [Seesaw](https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [Seesaw](https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp) | 2:35 |
+| 47 | [Seesaw](https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [Seesaw](https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp) | 2:35 |
+| 48 | [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 |
 | 49 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 50 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 |
 

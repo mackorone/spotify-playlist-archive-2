@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed pura vibra chida \u2728 Luis R Conriquez en portada",
-  "num_followers": 483227,
+  "num_followers": 483318,
   "original_name": "rolitas chidas ",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "House of Pleasure",
+        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "House of Pleasure",
-        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Tu Boda",
         "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 152078,
       "name": "T\u00da NAME",
       "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 147011,
       "name": "Si No Quieres No",
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Apambichao",
+      "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Apambichao",
-      "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "OHNANA",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -1431,6 +1431,34 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
+        "name": "Chaparrita (Remix)",
+        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Chaparrita (Remix)",
+      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi"
       },
@@ -1443,22 +1471,6 @@
       "duration_ms": 197186,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1487,30 +1499,18 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Chaparrita (Remix)",
-        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Chaparrita (Remix)",
-      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2026-03-20 06:00:07",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-03-20 06:00:07",
       "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
-    },
-    {
-      "added_at": "2026-03-20 06:00:07",
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "added_at": "2026-03-20 06:00:07",
+      "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2026-03-20 06:00:07",

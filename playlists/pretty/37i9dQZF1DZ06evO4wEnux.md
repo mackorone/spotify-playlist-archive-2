@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904 likes - 27 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 905 likes - 27 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 21 | [Everything](https://open.spotify.com/track/0vAIEEH2tkYgmotVvEb84d) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:50 |
 | 22 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 |
 | 23 | [Wondrous Heart](https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:11 |
-| 24 | [Cat Stevens](https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 |
+| 24 | [James](https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 4:57 |
 | 25 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
 | 26 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
-| 27 | [James](https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 4:57 |
+| 27 | [Cat Stevens](https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:30 |
 
-Snapshot ID: `abyOAAAAAACCPcXMZhftiilE9W9sxApZ`
+Snapshot ID: `ab3fgAAAAAASZGcj4/qS85XsHdCewgdB`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-382 songs - 23 hr 46 min
+383 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-01-29 | 2026-03-04 |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
+| [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-02-14 |  |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 | 2026-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220351,
+  "num_followers": 220347,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABvutGs0m01k644ZodNUdNl",
+  "snapshot_id": "ab3fgAAAAADgyPZGwvxO/fFD/hQPWk+p",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KAOS (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 209757,
-      "name": "Eurydice - Dan's Demo",
-      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281866,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KAOS (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209757,
+      "name": "Eurydice - Dan's Demo",
+      "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+        "name": "Happier (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
       },
       "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Eve & Paradise Lost",
-      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
+      "duration_ms": 240531,
+      "name": "Happier - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bathsheba & Him",
         "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Intros & Narrators",
-      "url": "https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 244135,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Intros & Narrators",
+      "url": "https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "Mademoiselle & The Nunnery Blaze",
-      "url": "https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 203000,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "Mademoiselle & The Nunnery Blaze",
+      "url": "https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU"
     }
   ],
   "unique_name": "This Is Bastille",

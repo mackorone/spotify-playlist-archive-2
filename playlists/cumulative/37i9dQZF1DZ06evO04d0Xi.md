@@ -4,7 +4,7 @@
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-103 songs - 8 hr 11 min
+104 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [O Nardo](https://open.spotify.com/track/7ddTiqaXRrMrQkw3Hg0Ak1) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 5:17 | 2025-03-25 | 2025-06-10 |
 | [O Que Diz Meu Coração](https://open.spotify.com/track/2k31SwPb7FojHq4rVdVjE9) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Que Diz Meu Coração](https://open.spotify.com/album/6jR2dWZNgQU7qGf0GhTuS3) | 3:46 | 2024-09-08 | 2025-04-04 |
 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 | 2023-07-09 |  |
-| [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 | 2023-07-09 |  |
+| [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/1kLk2OUiRwaZa5zJgCjO6H) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:56 | 2026-03-23 |  |
+| [Onde o Fogo Não Apaga \- Ao Vivo](https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm) | 6:56 | 2023-07-09 | 2026-03-23 |
 | [Orai Por Todas As Crianças \- Ao Vivo](https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Orai Por Todas As Crianças \(Ao Vivo\)](https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F) | 4:53 | 2023-12-13 | 2024-04-26 |
 | [Ouve, Oh Israel \(Ao Vivo\)](https://open.spotify.com/track/0XCoSegs9Ska1Rn8JilbTo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 7:55 | 2023-07-09 | 2023-09-02 |
 | [Ouço Deus Me Chamar](https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Ouço Deus Me Chamar](https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd) | 4:58 | 2023-07-09 |  |

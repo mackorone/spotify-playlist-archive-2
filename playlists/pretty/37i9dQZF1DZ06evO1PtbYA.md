@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,560 likes - 43 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,682 likes - 43 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 18 | [What's Up My G](https://open.spotify.com/track/2LjZYCOYldHWhzQ1G5XJ81) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:50 |
 | 19 | [Dull](https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 1:40 |
 | 20 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:49 |
-| 21 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 |
+| 21 | [Happiness ​\(f​eat​\. Asake, Gunna​\)](https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:54 |
 | 22 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 |
 | 23 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 |
-| 24 | [Happiness ​\(f​eat​\. Asake, Gunna​\)](https://open.spotify.com/track/3Y1hrPPs0FFtXodEE7HkrN) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:54 |
+| 24 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 |
 | 25 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 |
 | 26 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 27 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 42 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 |
 | 43 | [New Religion](https://open.spotify.com/track/0U6EtYtNKv8t3o9cjniLn2) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:33 |
 
-Snapshot ID: `abyOAAAAAACWvVlxFipSl6ov7nh+RV1G`
+Snapshot ID: `ab3fgAAAAAANOGfIc+eY6rqF96Pkywyz`

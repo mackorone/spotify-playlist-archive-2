@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 287558,
+  "num_followers": 287581,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "You In A Honky Tonk",
-        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+        "name": "Wave On Wave",
+        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
         }
       ],
-      "duration_ms": 183570,
-      "name": "You In A Honky Tonk",
-      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+      "duration_ms": 244373,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
+        "name": "You In A Honky Tonk",
+        "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183570,
+      "name": "You In A Honky Tonk",
+      "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
         "name": "Pretty Heart",
         "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "Wave On Wave",
-        "url": "https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Pearl Snaps",
-        "url": "https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ"
-      },
-      "artists": [
-        {
-          "name": "Jason Boland & The Stragglers",
-          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
-        }
-      ],
-      "duration_ms": 353653,
-      "name": "Somewhere Down in Texas",
-      "url": "https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 270800,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Pearl Snaps",
+        "url": "https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ"
+      },
+      "artists": [
+        {
+          "name": "Jason Boland & The Stragglers",
+          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
+        }
+      ],
+      "duration_ms": 353653,
+      "name": "Somewhere Down in Texas",
+      "url": "https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
         "name": "Front Row Seat",
         "url": "https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Mr. Bojangles",
         "url": "https://open.spotify.com/album/48Pyc7crme2ofMCDnhsDwW"
       },
@@ -1159,6 +1159,38 @@
       "duration_ms": 328146,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Old No. 1",
+        "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "L.A. Freeway",
+      "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Tramp On Your Street",
+        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1183,38 +1215,6 @@
       "duration_ms": 150182,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "Tramp On Your Street",
-        "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "Old No. 1",
-        "url": "https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "L.A. Freeway",
-      "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Texas Cookin",
-        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "Anyhow, I Love You",
-      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Texas Cookin",
+        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "Anyhow, I Love You",
+      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
     },
     {
       "added_at": "2026-02-11 22:47:27",

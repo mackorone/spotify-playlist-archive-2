@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 577622,
+  "num_followers": 577604,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-03-18 09:20:31",
       "album": {
-        "name": "II: The second",
-        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        },
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
-        }
-      ],
-      "duration_ms": 197031,
-      "name": "Di Nakakasawa",
-      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
-    },
-    {
-      "added_at": "2026-03-18 09:20:31",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2026-03-18 09:20:31",
+      "album": {
+        "name": "II: The second",
+        "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "duration_ms": 197031,
+      "name": "Di Nakakasawa",
+      "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
     },
     {
       "added_at": "2026-03-18 09:20:31",

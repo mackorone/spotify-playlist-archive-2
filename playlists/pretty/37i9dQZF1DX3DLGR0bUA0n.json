@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
-  "num_followers": 91584,
+  "num_followers": 91623,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
-        "name": "Era Casada",
-        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "El Rey De Oros",
-      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
         "name": "La Reyna de Tierra Caliente",
         "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
+        "name": "Era Casada",
+        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "El Rey De Oros",
+      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 200936,
       "name": "El Potosino y El Cocho",
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2025-12-05 06:00:31",
@@ -1091,6 +1075,22 @@
       "duration_ms": 188397,
       "name": "Conchita Del Mar",
       "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+      },
+      "artists": [
+        {
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2025-12-05 06:00:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Cuanto Te Quiero",
-      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
         "name": "2 Cruces",
         "url": "https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 187637,
       "name": "2 Cruces",
       "url": "https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
     },
     {
       "added_at": "2025-12-05 06:00:31",

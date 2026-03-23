@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,849 likes - 99 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,882 likes - 99 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

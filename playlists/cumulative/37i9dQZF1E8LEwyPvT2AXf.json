@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-04-13",
-  "description": "With Adele, Lady Gaga, Olivia Rodrigo and more",
+  "description": "With Adele, Lady Gaga, Billie Eilish and more",
   "name": "When We Were Young Radio",
   "tracks": [
     {
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -4260,7 +4260,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
@@ -8410,7 +8410,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -9108,7 +9108,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"

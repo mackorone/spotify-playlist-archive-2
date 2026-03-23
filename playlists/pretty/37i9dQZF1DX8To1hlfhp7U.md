@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,455 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,461 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 13 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
 | 14 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 15 | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/track/3zQaRQn9H0wOlcgKFDSzht) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tohr Aap Boldi \(From "Ishqa'n De Lekhe"\)](https://open.spotify.com/album/5uGU1SLi9ZCen5irNVSmx2) | 2:25 |
-| 16 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
-| 17 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 |
+| 16 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 |
+| 17 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
 | 18 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 |
 | 19 | [Naach Meri Rani \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Naach Meri Rani \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo) | 3:32 |
 | 20 | [Jattiye Ni](https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jattiye Ni](https://open.spotify.com/album/4sISXOYpISfwZI6RmGWfJA) | 3:01 |

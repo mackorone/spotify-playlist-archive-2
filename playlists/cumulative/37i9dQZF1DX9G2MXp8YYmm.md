@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Demet Akalın x Gökhan Özen
 
-531 songs - 1 day 2 hr 46 min
+532 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-07 |  |
 | [Anahtar](https://open.spotify.com/track/5soHIW4p5gs0txChuTl8sZ) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anahtar](https://open.spotify.com/album/5HgrSDS7Q9XhCleuATRkXT) | 3:11 | 2025-02-27 |  |
 | [Anla Biz Ayrıldık](https://open.spotify.com/track/0o2iUoL15nT0q7kNwuGIOW) | [Yıldızlardan Düştük](https://open.spotify.com/artist/2Smav6DkVm6VJMuIWHsEGB) | [Anla Biz Ayrıldık](https://open.spotify.com/album/1GpfqES5Wq36YIdZxOath4) | 2:16 | 2024-08-15 | 2024-08-23 |
+| [Anladım](https://open.spotify.com/track/2pzbuLuY8PWqMMkKqpeoKU) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw), [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Anladım](https://open.spotify.com/album/4QIMFcpVUUNSFmVN7tK03V) | 3:57 | 2026-03-19 |  |
 | [Anlayamazsın](https://open.spotify.com/track/5BTiI3keB5Br1P19RjjT7z) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK), [İstanbul Strings](https://open.spotify.com/artist/2VcUWYiSenFWbc5gnSBZfd) | [Anlayamazsın](https://open.spotify.com/album/1FcM8rddkOgnrmEBQeqvEO) | 4:24 | 2026-03-19 |  |
 | [Anılara Dalarız](https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Anılara Dalarız](https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP) | 2:30 | 2024-09-05 |  |
 | [Anılarla Yaşamak](https://open.spotify.com/track/2fNpDMXbvucuOwgR10R62R) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Anılarla Yaşamak](https://open.spotify.com/album/6CaxGg3QYGEc2cmNo5I4O5) | 3:28 | 2025-12-11 |  |
@@ -395,7 +396,7 @@
 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 | 2025-11-18 |
 | [senden başka](https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [senden başka](https://open.spotify.com/album/2e6ZwZkrFmawSOV7ivJep6) | 3:30 | 2025-12-04 | 2026-02-05 |
 | [Senden Kalanlar](https://open.spotify.com/track/4wfenAbKjdMEIH8xt3R1Cp) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Senden Kalanlar](https://open.spotify.com/album/3T1ITiHfBlStHbXkYdUzGj) | 2:56 | 2026-03-19 |  |
-| [Senden Sonrası Yalan](https://open.spotify.com/track/4vpUmpzAjDeaKSxSmJDkIF) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [Senden Sonrası Yalan](https://open.spotify.com/album/2ZlR5erL8TrKPsx29ji9a3) | 2:40 | 2026-02-19 |  |
+| [Senden Sonrası Yalan](https://open.spotify.com/track/4vpUmpzAjDeaKSxSmJDkIF) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Kayra Kayan](https://open.spotify.com/artist/4yJY7VgA3Ztk5H5oPiXzPE) | [Senden Sonrası Yalan](https://open.spotify.com/album/2ZlR5erL8TrKPsx29ji9a3) | 2:40 | 2026-02-19 | 2026-03-23 |
 | [Seni Adam Zannettim](https://open.spotify.com/track/1JB9GEyH4AoyU6xvS1y0vV) | [Yılmaz Morgül](https://open.spotify.com/artist/2ooGZ0Y7LLS6G2LJoqFGlc) | [Seni Adam Zannettim](https://open.spotify.com/album/3QbDleOjtHIT3goFvpdaAY) | 3:07 | 2026-03-19 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [Seni Bulurum](https://open.spotify.com/track/4GsBmmqdQoKNNvFpgZ7zqd) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38), [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx) | [GLBN](https://open.spotify.com/album/0NIi4yROKd80eiExqo2eHG) | 2:59 | 2025-11-20 | 2025-12-02 |

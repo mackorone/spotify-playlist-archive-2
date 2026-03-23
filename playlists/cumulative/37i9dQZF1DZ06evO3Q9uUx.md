@@ -4,15 +4,16 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-144 songs - 6 hr 46 min
+145 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+44](https://open.spotify.com/track/3QLmHiMCBXMLmIRl6r9387) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:45 | 2025-10-12 | 2026-01-15 |
 | [..FEISTY](https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 2:51 | 2026-01-29 | 2026-02-11 |
 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 | 2025-11-30 | 2026-02-18 |
+| [..FEISTY](https://open.spotify.com/track/5RRqi6hjlM18s7lFkmyA0x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 2:51 | 2026-03-23 |  |
 | [..FEISTY](https://open.spotify.com/track/6jhoA7WipfL1Vx9K26TQRT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 2:51 | 2026-02-18 | 2026-03-08 |
-| [..FEISTY](https://open.spotify.com/track/7wfz2GOmuDxKztNfTfXQvu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 2:51 | 2026-03-08 |  |
+| [..FEISTY](https://open.spotify.com/track/7wfz2GOmuDxKztNfTfXQvu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 2:51 | 2026-03-08 | 2026-03-23 |
 | [..FEISTY \- Oppidan remix](https://open.spotify.com/track/38l4HezLcZ6lmQ4ISf7bs9) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [..FEISTY \(Oppidan remix\)](https://open.spotify.com/album/3RHHWTV841eOr2bHvVWuNR) | 2:41 | 2026-03-13 |  |
 | [..FEISTY \- Oppidan remix](https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB002 REMIXES](https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9) | 2:41 | 2026-03-08 | 2026-03-13 |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-03-16 | 2025-09-24 |

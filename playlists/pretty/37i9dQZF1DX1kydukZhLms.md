@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,240 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,405 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 39 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
 | 40 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
 | 41 | [Heart of Steel](https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 5:10 |
-| 42 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
-| 43 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 |
+| 42 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 |
+| 43 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 44 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
 | 45 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 46 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 69 | [Don't Wanna Be Your Fool](https://open.spotify.com/track/0S5no2cN1esY74TYCsKbXG) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Quiet Riot](https://open.spotify.com/album/07Pd9jV84GGRyAO2RrQsSG) | 5:01 |
 | 70 | [Forever](https://open.spotify.com/track/0oSjcBQU1n11XpohLbCE5O) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/2oumvuipSTRBQDcA9RVtTP) | 3:52 |
 | 71 | [Deep](https://open.spotify.com/track/7KwExH7MEguB6YSZnosNbj) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [Original Album Classics](https://open.spotify.com/album/6rAcqvF8bsczcbpmCAIfZN) | 4:53 |
-| 72 | [4000 Rainy Nights \- Remastered 2016](https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Destiny \(Reissue 2016\)](https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7) | 5:59 |
-| 73 | [Still Of The Night](https://open.spotify.com/track/4TDpf3g3PUl7fzHXuL2UUY) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Here I Go Again: The Whitesnake Collection](https://open.spotify.com/album/2blYrXKaFgwCjI3PbNCfI6) | 6:40 |
+| 72 | [Still Of The Night](https://open.spotify.com/track/4TDpf3g3PUl7fzHXuL2UUY) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Here I Go Again: The Whitesnake Collection](https://open.spotify.com/album/2blYrXKaFgwCjI3PbNCfI6) | 6:40 |
+| 73 | [4000 Rainy Nights \- Remastered 2016](https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Destiny \(Reissue 2016\)](https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7) | 5:59 |
 | 74 | [Oasis](https://open.spotify.com/track/5hGoIsMmOwF3EsDpp4nwws) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [My Winter Storm](https://open.spotify.com/album/7h7xwQXMKVhUvVb36CeVZd) | 5:10 |
 | 75 | [I Still Love You](https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(Remastered Version\)](https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe) | 6:06 |
 | 76 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 91 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
 | 92 | [Without You](https://open.spotify.com/track/2zjvTdpUoMpxNIY6e7jKOi) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood 20th Anniversary \(Expanded Version\)](https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9) | 4:30 |
 | 93 | [OHNE DICH](https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 4:31 |
-| 94 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
-| 95 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
+| 94 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 |
+| 95 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
 | 96 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 | 97 | [When Love And Hate Collide](https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Vault: Def Leppard Greatest Hits \(1980–1995\)](https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1) | 4:17 |
 | 98 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
-| 99 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
-| 100 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
+| 99 | [The Temple Of The King](https://open.spotify.com/track/6Z435tBPT5JamUR9dN7y8y) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Ritchie Blackmore's Rainbow \(Remastered\)](https://open.spotify.com/album/0RsJGRspEXnzwNMBAdrV3u) | 4:42 |
+| 100 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
 
 Snapshot ID: `AAAAAM+deCwUhT19r8htZ2+lfHHArf3e`

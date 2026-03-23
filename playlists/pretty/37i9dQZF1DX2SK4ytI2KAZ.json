@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1485537,
+  "num_followers": 1485517,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
-      },
-      "artists": [
-        {
-          "name": "Culture Wars",
-          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
-        }
-      ],
-      "duration_ms": 190490,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Subliminal",
         "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 165130,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "duration_ms": 190490,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "I'm Not Afraid Of Music Anymore",
-        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Along For The Ride",
-      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "I'm Not Afraid Of Music Anymore",
+        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 177071,
+      "name": "Along For The Ride",
+      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 199760,
       "name": "Sorry I'm Late, I Didn't Want To Come",
       "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2025-10-31 04:00:32",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2025-10-31 04:00:32",
       "album": {
-        "name": "100 Cowboys",
-        "url": "https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV"
-      },
-      "artists": [
-        {
-          "name": "Carter Vail",
-          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Ready Aim Fire",
-      "url": "https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH"
-    },
-    {
-      "added_at": "2025-10-31 04:00:32",
-      "album": {
         "name": "Run Away With Me",
         "url": "https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 192654,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"
+    },
+    {
+      "added_at": "2025-10-31 04:00:32",
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     }
   ],
   "unique_name": "it's alt good",

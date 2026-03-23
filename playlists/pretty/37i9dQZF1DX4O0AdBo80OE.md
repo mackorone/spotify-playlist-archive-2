@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 Alemán
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,497 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,519 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

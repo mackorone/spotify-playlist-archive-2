@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 5 hr 54 min
+106 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Looking To Love](https://open.spotify.com/track/4FsYQpa38VDIUFdYqU0EYu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Looking To Love](https://open.spotify.com/album/2zCt9h73d9uznlQSibu6Qh) | 3:20 | 2022-09-08 |  |
 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 | 2022-09-08 |  |
 | [Love Again](https://open.spotify.com/track/1McgL1466ULWAIcqrt7tN5) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Love Again](https://open.spotify.com/album/2FDl5esBVh2yFuHCkwYbPp) | 4:23 | 2023-12-14 | 2024-01-30 |
+| [Loving You!](https://open.spotify.com/track/6VaGFO7F0iooQDmmEp9u1O) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:43 | 2026-03-22 |  |
 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 | 2022-09-08 |  |
 | [Million Miles](https://open.spotify.com/track/1Y7GyVbTNyIVBJr25hmVxm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:28 | 2022-09-08 |  |
 | [Mother](https://open.spotify.com/track/4OMA1fXSOyqQKBImR51FRQ) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/5kpE9vygExTwtn8ppYEuRP) | 3:19 | 2022-09-08 | 2022-10-19 |

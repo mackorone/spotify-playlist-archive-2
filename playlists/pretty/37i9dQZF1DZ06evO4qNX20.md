@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,730 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,774 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 31 | [Rigo Coria](https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez Con Banda Brava](https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF) | 3:32 |
 | 32 | [Quisiera Ser Pajarillo](https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:17 |
 | 33 | [Las Uvas](https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 3:10 |
-| 34 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
-| 35 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 3:11 |
+| 34 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Mi Mexico Querido](https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz) | 3:11 |
+| 35 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
 | 36 | [Corrido De Olegario](https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 2:44 |
 | 37 | [El Pitallón](https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:46 |
 | 38 | [Por Una Rencilla Vieja](https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:40 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 43 | [Pilares de Cristal](https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:29 |
 | 44 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 |
 | 45 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
-| 46 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
+| 46 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
 | 47 | [Flor Margarita](https://open.spotify.com/track/4JwdKHP4C2d4sc3KakrPiK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [26 Exitos Favoritos de la Raza](https://open.spotify.com/album/55Iyqdjed7KB5AgQFDPz6N) | 3:35 |
 | 48 | [Martín Félix](https://open.spotify.com/track/3XNqQX6K1HiQDR5f6RgOyx) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:45 |
-| 49 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
+| 49 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
 | 50 | [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 |
 
-Snapshot ID: `abyOAAAAAADHzNf6ZE0zLFkVkSOz/yZv`
+Snapshot ID: `ab3fgAAAAADIb2QE9p2vO/f8jCPxP/jn`

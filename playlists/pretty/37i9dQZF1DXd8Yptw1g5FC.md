@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aysel Yakupoğlu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,349 likes - 129 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,370 likes - 129 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 38 | [The Path](https://open.spotify.com/track/0vHaU9rQsGMXlP7ydnijmb) | [Olexandr Ignatov](https://open.spotify.com/artist/5N4JPCILHmKjyrhr97DOpG) | [The Path](https://open.spotify.com/album/5jUdLBgr6IS2mdeiWgoIVW) | 3:29 |
 | 39 | [Break The Loop](https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Break The Loop](https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7) | 3:46 |
 | 40 | [Yas \- Live at Bostancı Gösteri Merkezi](https://open.spotify.com/track/0gHYcnzdsHNjpIRih14tkv) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Yas \(Live at Bostancı Gösteri Merkezi\)](https://open.spotify.com/album/6XPYM0Sd50CdOknk8IBynt) | 3:11 |
-| 41 | [Çizildi Kader](https://open.spotify.com/track/1zxiZmrIX1k7oxfyAvXlM2) | [Irkil Bahtz](https://open.spotify.com/artist/6BgIECRPloGmpWVp8HmvwD) | [Çizildi Kader](https://open.spotify.com/album/6pM3SWugyjCzPn3aLuxDNb) | 2:38 |
+| 41 | [Çizildi Kader](https://open.spotify.com/track/1zxiZmrIX1k7oxfyAvXlM2) | [Irkil](https://open.spotify.com/artist/1lt4ifd0qPY5QYK1fpjE9f), [Bahtz](https://open.spotify.com/artist/6LsXHlp6hJr4BdNyjyzXMR) | [Çizildi Kader](https://open.spotify.com/album/6pM3SWugyjCzPn3aLuxDNb) | 2:38 |
 | 42 | [Zehirmiş Zaman](https://open.spotify.com/track/70azliTWAFTRuitMNAp5oI) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78), [young mete](https://open.spotify.com/artist/3IvLdrDCXIotfDevtK6UDH) | [Zehirmiş Zaman](https://open.spotify.com/album/2btM4wHKrkdFKVCfowEXQ3) | 2:29 |
 | 43 | [PAUSE YOK](https://open.spotify.com/track/3eaR4Q2xLjVJGqLyyoJKf1) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [PAUSE YOK](https://open.spotify.com/album/46c7N9oYiYJNXKwVcCKARI) | 1:40 |
 | 44 | [Kara Talihim](https://open.spotify.com/track/4xzkJkXcKZn9g6INfpMFov) | [İstanbul Arabesque Project](https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg) | [Kara Talihim](https://open.spotify.com/album/1vJ0RY4LID8AviJlziDqC5) | 3:58 |

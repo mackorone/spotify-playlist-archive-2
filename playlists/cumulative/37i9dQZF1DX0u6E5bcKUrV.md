@@ -4,7 +4,7 @@
 
 > what's the move?
 
-180 songs - 10 hr 23 min
+181 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 | 2024-02-06 |  |
 | [Money Longer](https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:18 | 2023-08-10 |  |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2023-08-10 |  |
-| [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2025-04-15 |  |
+| [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2025-04-15 | 2026-03-23 |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2023-08-10 | 2024-05-03 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-08-10 |  |
 | [Neon Guts \(feat\. Pharrell Williams\)](https://open.spotify.com/track/1MJErNPIQUoEMu4YUUmecm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 4:18 | 2025-07-02 |  |
@@ -138,6 +138,7 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2023-08-10 |  |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-05-02 | 2025-04-16 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-08-10 |  |
+| [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2025-07-02 |  |
 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-08-10 | 2023-09-13 |
 | [Shoota \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:33 | 2023-08-10 |  |
 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 | 2025-07-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > in the mood for love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,555,535 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,555,523 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 44 | [My Heart Belongs To U](https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:02 |
 | 45 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 |
 | 46 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 47 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
-| 48 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
+| 47 | ['Cause I Love You](https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:09 |
+| 48 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
 | 49 | [Love U 4 Life](https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 4:50 |
 | 50 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
 

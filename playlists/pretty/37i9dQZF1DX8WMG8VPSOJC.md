@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,498 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753,488 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 32 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 33 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
 | 34 | [Greatest Love Story](https://open.spotify.com/track/2yQZwi1P8AkkxxFhQ8rMEK) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:42 |
-| 35 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 |
+| 35 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
 | 36 | [Cloud 9](https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh) | 3:33 |
 | 37 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
-| 38 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
+| 38 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 |
 | 39 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 40 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
 | 41 | [I Don't Dance](https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 81 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 82 | [Heartlands](https://open.spotify.com/track/4fsBCUcXnHZhWDBa2iiFfz) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Heartlands](https://open.spotify.com/album/6tNL6yercbIdXOOUJEUMrw) | 3:42 |
 | 83 | [I Hate Love Songs](https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:11 |
-| 84 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
-| 85 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
+| 84 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
+| 85 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 | 86 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 |
 | 87 | [Take Me Away](https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 3:44 |
 | 88 | [Take It Slow](https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Take It Slow](https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 99 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
 | 100 | [Angels](https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels](https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie) | 3:34 |
 
-Snapshot ID: `AAAAAJRLjbajrRDOQdSg8tZEzvzOLQE+`
+Snapshot ID: `AAAAAPEABllEn86kl+0afGu4HQ1QqWJ0`

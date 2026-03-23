@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: ITZY\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,433 likes - 64 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,517 likes - 64 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TUNNEL VISION](https://open.spotify.com/track/7InUGlO9nGHcrirzOcQzzT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1lKcgfG0pvj8fXbLmYgNeo) | 3:05 |
 | 2 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
 | 3 | [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 |
-| 4 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
+| 4 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 5 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
-| 6 | [Save me](https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Save me](https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616) | 3:38 |
+| 6 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
 | 7 | [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 |
 | 8 | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 |
 | 9 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 54 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 |
 | 55 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
 | 56 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
-| 57 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
-| 58 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 |
+| 57 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 |
+| 58 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 |
 | 59 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 60 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
 | 61 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
 | 64 | [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 |
 
-Snapshot ID: `AAAAABYOzcBRKCywka7SMtn4JX8oGcYN`
+Snapshot ID: `AAAAAPW5zRWa/3Q9jW0izC2McJ3hMJia`

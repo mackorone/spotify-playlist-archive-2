@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 34685,
+  "num_followers": 34697,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACDFWc16meVpSwFkvI8yZXr",
+  "snapshot_id": "ab3fgAAAAABdgpzZjcfgbM3wmmzaUaIf",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 194973,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
+      "duration_ms": 208733,
+      "name": "Montgomery County",
+      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
       "duration_ms": 285680,
       "name": "Hope That I\u2019m Enough",
       "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/6P7aZG4PRvErVyxtHIBts5"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Montgomery County",
-      "url": "https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 205173,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/5mLumHEUcQcE0w2TXGyJnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beer Garden Baby",
+        "url": "https://open.spotify.com/album/3NmPbYlDDM6yo20vB16OPh"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/52YLi3V817Ks9UzbavTZAG"
     },
     {
       "added_at": null,
@@ -499,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beer Garden Baby",
-        "url": "https://open.spotify.com/album/3NmPbYlDDM6yo20vB16OPh"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/52YLi3V817Ks9UzbavTZAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -531,6 +531,26 @@
       "duration_ms": 201173,
       "name": "Wait Outside",
       "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Chain Cowboy (Special Edition)",
         "url": "https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221986,
       "name": "Hallie Ray Light",
       "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Galveston Bay",
-      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Between: The Collection",
         "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 207746,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Galveston Bay",
+      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
       "duration_ms": 270213,
       "name": "Perfectly Lonely",
       "url": "https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     }
   ],
   "unique_name": "This Is Parker McCollum",

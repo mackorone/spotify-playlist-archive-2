@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🥊 Tech house operators, featuring Dean Turnley
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,198 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,246 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

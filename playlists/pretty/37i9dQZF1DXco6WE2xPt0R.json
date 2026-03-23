@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127600,
+  "num_followers": 127594,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 356493,
       "name": "Send It On",
       "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
         "name": "CONCUBANIA",
         "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
-        "name": "Price Of It All (Music From the Original Series \"Bait\")",
-        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Price Of It All",
-      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
         "name": "Be My Summer",
         "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
-        "name": "Pressha",
-        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 256855,
-      "name": "Pressha",
-      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -383,6 +367,38 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
+        "name": "Pressha",
+        "url": "https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 256855,
+      "name": "Pressha",
+      "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
+        "name": "Forgive To Forget",
+        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 188424,
+      "name": "TOW",
+      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 228842,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -451,18 +467,18 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -495,22 +511,6 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
-        "name": "Forgive To Forget",
-        "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 188424,
-      "name": "TOW",
-      "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -683,6 +683,26 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 152066,
       "name": "Precious",
       "url": "https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "New Type (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
+        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172897,
+      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
         "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH"
       },
@@ -1203,22 +1223,22 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
-        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
+        "name": "Perfect Stranger (feat. Kenny Lattimore)",
+        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
         }
       ],
-      "duration_ms": 172897,
-      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
+      "duration_ms": 231580,
+      "name": "Perfect Stranger (feat. Kenny Lattimore)",
+      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -1239,26 +1259,6 @@
       "duration_ms": 177371,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
-        "name": "Perfect Stranger (feat. Kenny Lattimore)",
-        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 231580,
-      "name": "Perfect Stranger (feat. Kenny Lattimore)",
-      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2026-03-20 15:08:24",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2026-03-20 15:08:24",
       "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
+      },
+      "artists": [
+        {
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 110640,
+      "name": "Arz Interlude",
+      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
+    },
+    {
+      "added_at": "2026-03-20 15:08:24",
+      "album": {
         "name": "Live at VEVO",
         "url": "https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2026-03-20 15:08:24",
-      "album": {
-        "name": "Imperfections",
-        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
-      },
-      "artists": [
-        {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
-        },
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 110640,
-      "name": "Arz Interlude",
-      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
     },
     {
       "added_at": "2026-03-20 15:08:24",

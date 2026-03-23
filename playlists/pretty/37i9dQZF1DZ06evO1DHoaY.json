@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2072744,
+  "num_followers": 2072788,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAYWMrqOzzVw7DBp9hwUp6t",
+  "snapshot_id": "ab3fgAAAAABxxmr8JSne7xiFHevyLr4K",
   "tracks": [
     {
       "added_at": null,
@@ -236,7 +236,7 @@
       "added_at": null,
       "album": {
         "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Roots, Rock, Reggae",
-      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
     },
     {
       "added_at": null,
@@ -300,7 +300,7 @@
       "added_at": null,
       "album": {
         "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+      "duration_ms": 218400,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
     },
     {
       "added_at": null,

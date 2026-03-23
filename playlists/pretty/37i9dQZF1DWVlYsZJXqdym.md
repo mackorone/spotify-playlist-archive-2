@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 
 > Pure joy and then some
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,593 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,582 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlYsZJXqdym.md) - [plain]
 | 18 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 19 | [WHATEVERWHATEVER](https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [WHATEVERWHATEVER](https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne) | 2:28 |
 | 20 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 21 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 22 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
+| 21 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
+| 22 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 23 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
 | 24 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 25 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |

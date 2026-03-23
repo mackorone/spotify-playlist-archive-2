@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,148 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,214 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 43 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 |
 | 44 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 |
 | 45 | [Pasito Duranguense](https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI) | [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc) | [El Sube Y Baja](https://open.spotify.com/album/5JRg9iBzGz8l7c8z1u6m3C) | 3:20 |
-| 46 | [El Contagio](https://open.spotify.com/track/1wsPiN2Y0cIvMDbLK8ywkt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:03 |
+| 46 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
 | 47 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
-| 48 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
-| 49 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 48 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
+| 49 | [El Contagio](https://open.spotify.com/track/1wsPiN2Y0cIvMDbLK8ywkt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:03 |
 | 50 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
 | 51 | [Con Zapatos de Tacón](https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:54 |
 | 52 | [El Sandwich](https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:11 |
@@ -125,11 +125,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 115 | [SC\-9](https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2) | 2:45 |
 | 116 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
 | 117 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 |
-| 118 | [La Burra Orejona](https://open.spotify.com/track/2U8586LzgHPHmcqd2PlQWV) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 3:11 |
+| 118 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 |
 | 119 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 |
 | 120 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy) | 4:10 |
 | 121 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |
-| 122 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 |
+| 122 | [La Burra Orejona](https://open.spotify.com/track/2U8586LzgHPHmcqd2PlQWV) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH) | 3:11 |
 | 123 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
 | 124 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 |
 | 125 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |

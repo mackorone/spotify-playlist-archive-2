@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,489 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,481 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 28 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 29 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
 | 30 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 |
-| 31 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
-| 32 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
+| 31 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
+| 32 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
 | 33 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |
 | 34 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
 | 35 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 40 | [Vênus \(feat\. Aísha\)](https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Késia](https://open.spotify.com/artist/4R21KV0HoFLYb5CpMpIpw1), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Aisha](https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y) | [Vênus](https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb) | 3:50 |
 | 41 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 |
 | 42 | [1 em 100](https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [1 em 100](https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq) | 3:09 |
-| 43 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
+| 43 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
 | 44 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 |
-| 45 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
+| 45 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
 | 46 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 47 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 |
 | 48 | [De Manhã](https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG) | [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [CASULO](https://open.spotify.com/artist/1NHLTrZk6hOi5H6InEbztY) | [De Manhã](https://open.spotify.com/album/6WVfY0VWusgX3TqeNeVKhr) | 2:35 |

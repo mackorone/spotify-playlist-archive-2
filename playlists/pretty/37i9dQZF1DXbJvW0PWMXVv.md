@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,752 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,747 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 52 | [Último da Fila \- Ao Vivo](https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 4:33 |
 | 53 | [Feliz e Triste](https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 2:55 |
 | 54 | [Só Quero Ver](https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:49 |
-| 55 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 56 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
-| 57 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
+| 55 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
+| 56 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
+| 57 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 58 | [Um Vento Passou \(para Paul Simon\)](https://open.spotify.com/track/4KEvdc2UmMNMwTs4XlhmkG) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
 | 59 | [Liberem os Brigadeiros Antes dos Parabéns](https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu) | [Palavra Cantada](https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT) | [Cenas Infantis](https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu) | 3:12 |
 | 60 | [Marra de Feroz](https://open.spotify.com/track/5rlt8sbM3GUGYegd66j96E) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione](https://open.spotify.com/album/6QCBlpGOO4UD9SgmCciYMK) | 3:21 |

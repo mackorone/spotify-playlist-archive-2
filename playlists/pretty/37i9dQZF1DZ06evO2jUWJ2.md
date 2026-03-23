@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,788 likes - 50 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,881 likes - 50 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 7 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 |
 | 8 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
 | 9 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 |
-| 10 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
-| 11 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
+| 10 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
+| 11 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
 | 12 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 |
 | 13 | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq) | 5:47 |
 | 14 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/4wc8FpW9XCUaoxtii3CiCf) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Unstoppable God](https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:21 |
 | 50 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
 
-Snapshot ID: `abyOAAAAAADIXEzjZLdKl6w+MUA8sxNj`
+Snapshot ID: `ab3fgAAAAABzEym04S77bYoKAZXnZhl8`

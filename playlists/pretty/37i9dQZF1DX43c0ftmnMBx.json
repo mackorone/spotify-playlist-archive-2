@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 268533,
+  "num_followers": 268562,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Todo Tiene Su Hora",
         "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 197400,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/2QyJTZeqxmVfbesnoN3r7k"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
         "url": "https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 256253,
       "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
       "url": "https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Antes de Ti",
-        "url": "https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
     },
     {
       "added_at": "2024-08-23 04:59:00",

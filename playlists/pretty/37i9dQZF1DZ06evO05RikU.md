@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,602 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,604 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 17 | [R.I.P\. \(feat\. Rita Ora & Anitta\)](https://open.spotify.com/track/7JsIEz27QU9kk7z1EEp9kt) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:07 |
 | 18 | [Guaro con Ron](https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Guaro con Ron](https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2) | 2:28 |
 | 19 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 |
-| 20 | [De To'](https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:08 |
-| 21 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
+| 20 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
+| 21 | [De To'](https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:08 |
 | 22 | [El Wey](https://open.spotify.com/track/6CIXdlrPdBpP0ejW5jUFAr) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/59gTwaPF89m9W3WcPasQaK) | 3:17 |
 | 23 | [NOT Ü](https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [NOT Ü](https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk) | 2:19 |
-| 24 | [Si Me Ven Llorando](https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:13 |
-| 25 | [Siempre Llegas Tarde](https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:38 |
+| 24 | [Siempre Llegas Tarde](https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:38 |
+| 25 | [Si Me Ven Llorando](https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:13 |
 | 26 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
 | 27 | [MILAMORES](https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:31 |
 | 28 | [Seaside](https://open.spotify.com/track/0cw83fumWofmtmNd2hVAPr) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 49 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
 | 50 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
 
-Snapshot ID: `abyOAAAAAABk+Mw5N9pMP8S9grqiWpol`
+Snapshot ID: `ab3fgAAAAAA56cePGmYrJxIGBgSiCIgB`

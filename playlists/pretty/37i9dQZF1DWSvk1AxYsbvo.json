@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25949,
+  "num_followers": 25953,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-03-16 02:18:18",
       "album": {
-        "name": "Undercover High School OST Part.2 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD"
-      },
-      "artists": [
-        {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Love Is You",
-      "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
-    },
-    {
-      "added_at": "2026-03-16 02:18:18",
-      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 191873,
       "name": "Take A Nap",
       "url": "https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn"
+    },
+    {
+      "added_at": "2026-03-16 02:18:18",
+      "album": {
+        "name": "Undercover High School OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Love Is You",
+      "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
     },
     {
       "added_at": "2026-03-16 02:18:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-16 02:18:18",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2026-03-16 02:18:18",
-      "album": {
         "name": "summer youth",
         "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
+    },
+    {
+      "added_at": "2026-03-16 02:18:18",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2026-03-16 02:18:18",

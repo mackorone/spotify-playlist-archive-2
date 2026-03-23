@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,949 likes - 90 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,091 likes - 90 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 77 | [Work It \(feat\. 50 Cent\) \- Remix](https://open.spotify.com/track/7Ml5yFM5H8gCQ4U4NSe4Bc) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 5:04 |
 | 78 | [Bow Wow \(That's My Name\) \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3RnLEACttdwU6futFsaflI) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Beware Of Dog](https://open.spotify.com/album/3StlnPpl2Q9UMfbUVjO2hu) | 3:43 |
 | 79 | [Oh Yeah](https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 4:20 |
-| 80 | [Lighters Up \- Nationwide Version](https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [The Naked Truth](https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB) | 4:22 |
-| 81 | [Breathe And Stop](https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Amplified](https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW) | 4:03 |
+| 80 | [Breathe And Stop](https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Amplified](https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW) | 4:03 |
+| 81 | [Lighters Up \- Nationwide Version](https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [The Naked Truth](https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB) | 4:22 |
 | 82 | [Dirt Off Your Shoulder](https://open.spotify.com/track/4DqgmnzCCIv0dbzlFDPJZq) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/6vT81iUtDPLkfHDAwoRNpu) | 4:05 |
 | 83 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [B2K Presents "You Got Served" Soundtrack](https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT) | 3:52 |
 | 84 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 |
 | 85 | [Ugly](https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Dark Days, Bright Nights](https://open.spotify.com/album/5k0DIwQUjfFWxxliiWVzxr) | 4:25 |
 | 86 | [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 |
 | 87 | [The Jump Off \(feat\. Mr\. Cheeks\) \- Remix](https://open.spotify.com/track/3CZlTOyNnKVMb021IYEY6r) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mr\. Cheeks](https://open.spotify.com/artist/0UeVxCKyBypjQvDCT889zt) | [The Jump Off \(feat\. Mr\. Cheeks\) \[Remixes\]](https://open.spotify.com/album/4ODmc5z57TpFAVTSe6PVSE) | 3:54 |
-| 88 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
-| 89 | [X Gon' Give It to Ya \- Re\-Recorded](https://open.spotify.com/track/4L9bnjCjlBgRbwXcbRYBD7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:52 |
+| 88 | [X Gon' Give It to Ya \- Re\-Recorded](https://open.spotify.com/track/4L9bnjCjlBgRbwXcbRYBD7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:52 |
+| 89 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
 | 90 | [Stronger](https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 5:11 |
 
 Snapshot ID: `AAAAAJVD5FPdIfdsNLIdhyqSVH28RqMc`

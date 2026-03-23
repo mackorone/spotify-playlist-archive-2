@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,199 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,237 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 18 | [Talk talk featuring troye sivan](https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:53 |
 | 19 | [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:58 |
 | 20 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
-| 21 | [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 |
+| 21 | [Wall of Sound](https://open.spotify.com/track/4llQhQnQ0xKel20HqjZyMt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:24 |
 | 22 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 23 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 24 | [Fancy](https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 3:19 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 31 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 32 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
 | 33 | [Good Ones](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:16 |
-| 34 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
-| 35 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 |
+| 34 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 |
+| 35 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 36 | [You \(Ha Ha Ha\)](https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:07 |
 | 37 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
 | 38 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 47 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 |
 | 48 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 
-Snapshot ID: `abyOAAAAAAAID5An5seM82I6qhz2OYMM`
+Snapshot ID: `ab3fgAAAAADoZtKe6g6lKOKdvME7ZB1X`

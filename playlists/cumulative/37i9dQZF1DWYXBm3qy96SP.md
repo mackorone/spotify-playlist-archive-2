@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Foo Fighters
 
-1,909 songs - 4 day 14 hr 40 min
+1,910 songs - 4 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,7 +1188,7 @@
 | [NPC](https://open.spotify.com/track/5XyH6QPOqSMTrXGUp4kBYx) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [NPC](https://open.spotify.com/album/0N1V1eecnG4PVnBVEj1f3e) | 2:47 | 2023-11-23 | 2023-12-15 |
 | [Nuclear Boy Scout](https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Nuclear Boy Scout](https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz) | 3:39 | 2024-02-29 | 2024-05-03 |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-20 | 2023-04-28 |
-| [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 | 2026-03-12 |  |
+| [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 | 2026-03-12 | 2026-03-23 |
 | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-08-03 | 2023-08-11 |
 | [Obsession](https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Obsession](https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY) | 3:17 | 2024-02-29 | 2024-05-10 |
 | [Obvious](https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Obvious](https://open.spotify.com/album/3deYGp5829d2XJgXkOpcVP) | 3:54 | 2023-06-08 | 2023-06-16 |
@@ -1324,6 +1324,7 @@
 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2023-08-03 | 2023-08-11 |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-11 | 2024-02-23 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-09 |
+| [Rabbits Can Swim](https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Rabbits Can Swim](https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n) | 4:13 | 2026-03-19 |  |
 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 | 2026-03-06 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
 | [Rain](https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Rain](https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53) | 3:23 | 2025-07-24 | 2025-10-03 |

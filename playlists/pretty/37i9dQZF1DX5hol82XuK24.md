@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,155 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,147 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 48 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 49 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 50 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 51 | [The Kazimier Garden](https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 1:29 |
-| 52 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 51 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 52 | [The Kazimier Garden](https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 1:29 |
 | 53 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
-| 54 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
-| 55 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
+| 54 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
+| 55 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
 | 56 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 57 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
 | 58 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 93 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
 | 94 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
 | 95 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
-| 96 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
-| 97 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
+| 96 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
+| 97 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 98 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 99 | [Strange Comfort](https://open.spotify.com/track/5keFdzNhXXOzZ6pshLGJVY) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/1sOKriGM1stwLtJ7xSJOQb) | 4:08 |
 | 100 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > The Indie highlights of 2017\. Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,446 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,474 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 50 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
 | 51 | [Deadly Valentine](https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 6:04 |
 | 52 | [So Tied Up](https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC), [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:09 |
-| 53 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
-| 54 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
+| 53 | [Dreams](https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 5:14 |
+| 54 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
 | 55 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
 | 56 | [Oh Devil](https://open.spotify.com/track/3TBHYzTPw0Hv05hCAtTJG0) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/38TessTymDbaYtY3A6bm3b) | 3:37 |
 | 57 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 |
-| 58 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
-| 59 | [You're Somebody Else](https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3) | 3:38 |
+| 58 | [You're Somebody Else](https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3) | 3:38 |
+| 59 | [Fangs](https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Fangs](https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv) | 3:54 |
 | 60 | [World Gone Mad](https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [World Gone Mad \(From Bright: The Album\)](https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw) | 3:15 |
 | 61 | [Two High](https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Let The Record Play](https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj) | 3:33 |
 | 62 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 80 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 |
 | 81 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 |
 | 82 | [Astrovan](https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:06 |
-| 83 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
+| 83 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 |
 | 84 | [Sweet](https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:52 |
 | 85 | [Begin \(feat\. Wales\)](https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Begin \(feat\. Wales\)](https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT) | 4:02 |
 | 86 | [Turn](https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:27 |
-| 87 | [raingurl](https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [raingurl](https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr) | 3:57 |
-| 88 | [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 4:22 |
-| 89 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 |
-| 90 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
-| 91 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
+| 87 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 |
+| 88 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 |
+| 89 | [raingurl](https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [raingurl](https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr) | 3:57 |
+| 90 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
+| 91 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
 | 92 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 93 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 |
 | 94 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 |
-| 95 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 3:38 |
-| 96 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
-| 97 | [Retrospect \- Single Version](https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Retrospect](https://open.spotify.com/album/7od5erHuDrLwWySdecKpcJ) | 3:24 |
+| 95 | [Retrospect \- Single Version](https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Retrospect](https://open.spotify.com/album/7od5erHuDrLwWySdecKpcJ) | 3:24 |
+| 96 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 3:38 |
+| 97 | [Iris](https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Iris](https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL) | 3:01 |
 | 98 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 |
 | 99 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 |
-| 100 | [Plastic 100°C](https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 5:16 |
+| 100 | [Ran](https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Far Field](https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz) | 3:25 |
 
 Snapshot ID: `AAAAADUoqS6nlHnI7fBq7SmlnZ3wmttI`

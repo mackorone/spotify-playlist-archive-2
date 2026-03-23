@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,305 likes - 100 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,371 likes - 100 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,777 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,065 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 2 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
 | 3 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
-| 4 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
-| 5 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
+| 4 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
+| 5 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
 | 6 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
 | 7 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 8 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 23 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 24 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 25 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 26 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
-| 27 | [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:37 |
+| 26 | [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:37 |
+| 27 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 28 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 29 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 30 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |

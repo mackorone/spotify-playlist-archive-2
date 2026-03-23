@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-377 songs - 23 hr 36 min
+380 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-16 |  |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
+| [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 |  |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 | 2026-03-18 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 | 2026-03-18 |
@@ -237,6 +238,7 @@
 | [No More](https://open.spotify.com/track/3cZiSpCRzIxnA8OT3fobl0) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [No More](https://open.spotify.com/album/4QLG7zjn0zEGbONemBieLw) | 4:23 | 2025-09-21 |  |
 | [No One Will Make Me Cry](https://open.spotify.com/track/204IN6VlOhwU1v3EwmNJ29) | [Now or Never](https://open.spotify.com/artist/4wxoXPL3DZPq9MpUVQoqsl) | [The Legacy](https://open.spotify.com/album/5qDS2VjyIVxoyXrp1FvJCr) | 3:29 | 2025-12-31 | 2026-03-18 |
 | [No pierdas la fe](https://open.spotify.com/track/21khIKflv727TWXrdzMDTR) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No pierdas la fe](https://open.spotify.com/album/59KTNRoVmONWQzzMAt1ndm) | 4:52 | 2025-09-29 | 2025-12-17 |
+| [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 | 2026-03-22 |  |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-11-12 | 2025-12-17 |
 | [Nowhere](https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0) | [Evocrafted](https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh) | [Nowhere](https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST) | 3:29 | 2026-02-09 | 2026-03-18 |
 | [Nuvens](https://open.spotify.com/track/0SejuWnZQoAT88poImtMiy) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Vida na Estrada](https://open.spotify.com/album/4XfA2gMTG2IXlpXaVhjsYn) | 2:59 | 2025-10-09 | 2025-11-28 |
@@ -334,6 +336,7 @@
 | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/track/22AfA3lC9hksGyG2KEVHHT) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [The Gladiator \(2025 Remastered Version\)](https://open.spotify.com/album/3E9TobEFd1wXM42E0FFZrk) | 2:30 | 2026-01-22 | 2026-03-18 |
 | [The Journey](https://open.spotify.com/track/6DuE0g8y4OVukEVoYI3frf) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:09 | 2026-03-16 |  |
 | [The Last Hangman](https://open.spotify.com/track/0frN7FOhhgB0iiZyTA8nmQ) | [AJ Rock](https://open.spotify.com/artist/7xEm9fb76CTAOBOWQK1dL8) | [Spitfire](https://open.spotify.com/album/0O45ZFG71upJqEQUT0C5dt) | 6:24 | 2026-01-23 | 2026-03-18 |
+| [The Luge](https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [The Luge](https://open.spotify.com/album/2Ihewiydstnhs5QvDU6xOc) | 3:48 | 2026-03-22 |  |
 | [The Monster](https://open.spotify.com/track/5iaAZ53LFUxAZVYN5Pf61u) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/7wKUgvu5sCQAU2w9Zk0yS3) | [Human Side On](https://open.spotify.com/album/3hbMkCzgjGQju7MWlxgNpw) | 3:45 | 2026-02-16 | 2026-03-18 |
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 | 2025-12-17 |
 | [The Silent Streaks](https://open.spotify.com/track/6Oo9FMtmoOeoNsfGkHreDM) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs) | [Whispers of a Violent Moon](https://open.spotify.com/album/3k9XEH9nw5nau63BXPKMpW) | 3:27 | 2025-10-07 | 2025-11-28 |

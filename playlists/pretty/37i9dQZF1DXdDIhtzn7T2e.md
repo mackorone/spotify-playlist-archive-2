@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,075 likes - 74 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,072 likes - 74 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 19 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 20 | [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 |
 | 21 | [Smokin' A Doobie](https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:55 |
-| 22 | [Bitter Swisher Sweet \(feat\. Brittney Spencer\)](https://open.spotify.com/track/4dmyzxmNDur7hmA2C3XmGv) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bitter Swisher Sweet \(feat\. Brittney Spencer\)](https://open.spotify.com/album/4WXQl81xRALzyU6375g0dh) | 3:13 |
+| 22 | [Bitter Swisher Sweet](https://open.spotify.com/track/4dmyzxmNDur7hmA2C3XmGv) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bitter Swisher Sweet](https://open.spotify.com/album/4WXQl81xRALzyU6375g0dh) | 3:13 |
 | 23 | [I Smoke Weed](https://open.spotify.com/track/6gSgXKY7p3KE8VlcipZeRX) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I Smoke Weed](https://open.spotify.com/album/5fUsjj8OrROaXvrfTEW2nd) | 4:19 |
 | 24 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
 | 25 | [Them Stems](https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 |

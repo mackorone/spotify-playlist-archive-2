@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: We Kill Cowboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,082 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,081 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 16 | [Fever \- Single Edit](https://open.spotify.com/track/3RNjKE7fPD4YrBu1B3qKn5) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Fever](https://open.spotify.com/album/77UUUqsEB3wMrYyfKukJVx) | 4:35 |
 | 17 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 18 | [Man of The World](https://open.spotify.com/track/1jn1kPDbtL3Fe7nvapndJ4) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [Man of The World](https://open.spotify.com/album/4RYCzCqQEA5bmtXBvR3yKu) | 3:47 |
-| 19 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
-| 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 19 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
+| 20 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
 | 21 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 22 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 23 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 47 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 48 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 49 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
-| 50 | [Ek Dink Te Veel](https://open.spotify.com/track/0nJcHyQST727NW3jNhzlFh) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [Tylo](https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr) | [Ek Dink Te Veel](https://open.spotify.com/album/6ceCa4ISJm6S8fU2W6b75i) | 3:00 |
+| 50 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 
 Snapshot ID: `AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH`

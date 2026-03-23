@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,281 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,324 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 44 | [¡Ay! Ay Amor](https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Lo Mejor de la Charanga](https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S) | 5:24 |
 | 45 | [La borrachera](https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Pupy y Los que Son Son Best Of](https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi) | 5:41 |
 | 46 | [Mi Música](https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD) | [Grupo Danson](https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R), [Carlos Liban Pérez Alfonso](https://open.spotify.com/artist/3KtZLqXNVnn3C2JrZRZrQU), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Mia Birch Engsager](https://open.spotify.com/artist/6fAiZkXRxsbL2YFw950dfl), [Ernesto Manuitt Hernandez](https://open.spotify.com/artist/6shQLDgamKRDLKkysy9C5C), [Yasser Pino](https://open.spotify.com/artist/3yjnZbbWh736wux5a6jsH4), [Rune Thorsteinsson](https://open.spotify.com/artist/5xTi9OwHU2G7iNL1860DiS) | [Mi Música](https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs) | 6:08 |
-| 47 | [Me Dicen Cuba](https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 4:58 |
-| 48 | [Eso Que Anda \- Remasterizado](https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 5:13 |
+| 47 | [Eso Que Anda \- Remasterizado](https://open.spotify.com/track/0F99ik3jaqJ0y4wWoYlgnT) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 5:13 |
+| 48 | [Arriba de la bola](https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co) | [Manolín, El Médico De La Salsa](https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV) | [Grandes éxitos](https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759) | 5:10 |
 
 Snapshot ID: `AAAAAME7JTm/rRxN4AIzxxlRW06DzwzE`

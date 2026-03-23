@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151923,
+  "num_followers": 151919,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADUuTwhMKplhdx7nKKdGol9",
+  "snapshot_id": "ab3fgAAAAAA9Dg2A737yKdMjoU8l95Yd",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 324365,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -694,15 +694,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+      "duration_ms": 155266,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
     },
     {
       "added_at": null,
@@ -766,11 +762,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 155266,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,

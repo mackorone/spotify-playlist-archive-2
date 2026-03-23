@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-188 songs - 11 hr 45 min
+190 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 | 2026-03-08 | 2026-03-22 |
 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 | 2025-11-23 | 2026-02-02 |
 | [Out Alive](https://open.spotify.com/track/2pJpwBSvXFSyNjkNo2p6b0) | [Mike McKenzie](https://open.spotify.com/artist/1ovhdzbqCmorFrI1dq0TAd) | [I'd Wait Again](https://open.spotify.com/album/0pdBVIn45RJ8A9FXqAJpTx) | 3:42 | 2025-11-23 | 2025-12-08 |
+| [Out Of Wine](https://open.spotify.com/track/3GmBZBdFrcipnjygnZkLkq) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Out Of Wine](https://open.spotify.com/album/3eRAaQyMUYgcEz0h4bOE5J) | 3:05 | 2026-03-22 |  |
 | [Overdrinking](https://open.spotify.com/track/1vrQYRiTRkmNaNZwLL7ycy) | [The Falls Band](https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu) | [VIVA LA FALLS](https://open.spotify.com/album/34BB2RMplDpzoqIlUAE3UZ) | 3:44 | 2026-02-26 |  |
 | [Parasite \- Demo](https://open.spotify.com/track/2xbG1SeusBEXFgoHZztq82) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Parasite \(Demo\)](https://open.spotify.com/album/6PiHv0qqyKwpHr2I04vpo4) | 4:14 | 2026-02-01 |  |
 | [Patsy Kensit](https://open.spotify.com/track/6rWaw5oGNDOcT52Zsysjx9) | [Lemon Drink](https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6) | [Patsy Kensit](https://open.spotify.com/album/1v7UVDJSxPwaApJG6GKQju) | 3:48 | 2026-03-16 |  |
@@ -161,6 +162,7 @@
 | [Sorry! It Sank](https://open.spotify.com/track/4HWb3PCWyZ6GQKPOHtlCcA) | [Mallet Space](https://open.spotify.com/artist/1PCItqxAtsM80DlKMTYq1M) | [Sorry! It Sank](https://open.spotify.com/album/2KJbVetPhJxkXHJiNr4Z4c) | 4:02 | 2025-11-23 | 2025-12-19 |
 | [South Paw](https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [South Paw](https://open.spotify.com/album/1P8DoNtgyvlmBT6EvWQShz) | 3:19 | 2025-11-16 |  |
 | [Street Night Queens](https://open.spotify.com/track/77PTKM1MZyWw09YJejZwIK) | [CRASHKID!](https://open.spotify.com/artist/79gH2g5UhKfGvukkk3Mria) | [Street Night Queens](https://open.spotify.com/album/0D1NQx3F8fyCqoPVsuyYHu) | 3:45 | 2026-03-21 |  |
+| [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 | 2026-03-22 |  |
 | [Summa](https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [Summa](https://open.spotify.com/album/4AZlDXLjSAeHRVM8VXq8nV) | 4:38 | 2026-01-21 |  |
 | [Sunday feelin blue](https://open.spotify.com/track/5HxpA82MBhLlzrB46cqeGk) | [The Shine](https://open.spotify.com/artist/0hI3GGqvOL7dGXATVv9PDL) | [Sunday feelin blue](https://open.spotify.com/album/2LRE6xZXyyl89ycUp7Nepf) | 2:42 | 2026-01-31 |  |
 | [Superhero](https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON) | [The Shambles](https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y) | [Superhero](https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf) | 2:54 | 2025-11-16 |  |

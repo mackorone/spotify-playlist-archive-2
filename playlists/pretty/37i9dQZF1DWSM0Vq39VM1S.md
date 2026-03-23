@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,734 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,787 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 25 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 26 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 27 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
-| 28 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
-| 29 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
+| 28 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
+| 29 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
 | 30 | [Mornin Dew](https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Satin Psicodelic](https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W) | 5:24 |
 | 31 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 32 | [Against The Current](https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Against The Current](https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY) | 3:36 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 38 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
 | 39 | [Borrow mine](https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Flower of the soul \(full bloom\)](https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE) | 2:23 |
 | 40 | [Small Mercies](https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 3:41 |
-| 41 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
-| 42 | [Be Better](https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Be Better](https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1) | 3:59 |
+| 41 | [Be Better](https://open.spotify.com/track/2atHF8jAsduhfPqkxAw7Jr) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Be Better](https://open.spotify.com/album/2Qyyy2NOOfAW518lRv9km1) | 3:59 |
+| 42 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 |
 | 43 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
 | 44 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
 | 45 | [Coming Home](https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Coming Home](https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT) | 3:38 |
-| 46 | [you chose this](https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL) | 2:38 |
-| 47 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 |
+| 46 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 |
+| 47 | [you chose this](https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL) | 2:38 |
 | 48 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 49 | [Ricordo tattile](https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una lunghissima ombra](https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb) | 6:29 |
 | 50 | [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 52 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
 | 53 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
 | 54 | [Home](https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Home](https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH) | 1:59 |
-| 55 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
-| 56 | [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 |
+| 55 | [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 |
+| 56 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
 | 57 | [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 |
 | 58 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
 | 59 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |

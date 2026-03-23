@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,371 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,464 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 99 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 |
 | 100 | [See You Next Year \(Slowed\)](https://open.spotify.com/track/4N5CPL89XOc7vmBJaxEI79) | [Arimasen](https://open.spotify.com/artist/7lp5HmV500UD5aKnTzrYcz), [KoruSe](https://open.spotify.com/artist/3EdNJeTXrsR5jbmICchj3R) | [See You Next Year](https://open.spotify.com/album/4g3JGSmunWpfVKtyuJsa3p) | 3:52 |
 
-Snapshot ID: `AAAAAOpcnunq09hpkPFUg8pYI9QPQ8XV`
+Snapshot ID: `AAAAAPfSUIvD9T82Wc0hZ8o3x2TG3hp8`

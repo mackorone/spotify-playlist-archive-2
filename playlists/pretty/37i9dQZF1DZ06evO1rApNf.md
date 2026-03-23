@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,580 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,599 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 13 | [voltaje](https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [voltaje](https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0) | 2:52 |
 | 14 | [Besos en Cualquier Horario](https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Besos en Cualquier Horario](https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h) | 3:00 |
 | 15 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 |
-| 16 | [Sigo Buscandote](https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Sigo Buscandote](https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM) | 3:05 |
-| 17 | [Rolex](https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 |
+| 16 | [Rolex](https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 |
+| 17 | [Sigo Buscandote](https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Sigo Buscandote](https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM) | 3:05 |
 | 18 | [Qué Tienes Tú \(feat\. Jesús de Reik & Mau y Ricky\)](https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Jesús Reik](https://open.spotify.com/artist/5W9RX9DoA3MSvQGnoIgs7X), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Tienes Tú \(feat\. Jesús de Reik & Mau y Ricky\)](https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO) | 3:32 |
 | 19 | [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 |
 | 20 | [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
 | 50 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
 
-Snapshot ID: `abyOAAAAAACGasgwyiolA57Tc9MR427B`
+Snapshot ID: `ab3fgAAAAAAV99EmZ1NuG9iQfi4j/m+G`

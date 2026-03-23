@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39340,
+  "num_followers": 39338,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "Feliz navidad",
+        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 123786,
+      "name": "Feliz navidad",
+      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 100015,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "Feliz navidad",
-        "url": "https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 123786,
-      "name": "Feliz navidad",
-      "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
     },
     {
       "added_at": "2025-12-19 14:32:05",

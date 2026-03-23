@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 936995,
+  "num_followers": 937052,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-03-18 18:01:04",
       "album": {
+        "name": "Nothing But Thieves (Track by Track)",
+        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "If I Get High",
+      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
+    },
+    {
+      "added_at": "2026-03-18 18:01:04",
+      "album": {
         "name": "A Celebration Of Endings",
         "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 317186,
       "name": "All In One Night",
       "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
-    },
-    {
-      "added_at": "2026-03-18 18:01:04",
-      "album": {
-        "name": "Nothing But Thieves (Track by Track)",
-        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "If I Get High",
-      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
     },
     {
       "added_at": "2026-03-18 18:01:04",

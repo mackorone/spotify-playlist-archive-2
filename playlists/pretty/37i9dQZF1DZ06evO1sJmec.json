@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2104374,
+  "num_followers": 2104500,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAIiykpwiZR6rTLow8Eq5F1",
+  "snapshot_id": "ab3fgAAAAAA+2cDNX0LfSjNKGSLDq+Xn",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 396986,
-      "name": "Ride The Lightning - Remastered",
-      "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
+      "duration_ms": 345283,
+      "name": "Harvester of Sorrow",
+      "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 345283,
-      "name": "Harvester of Sorrow",
-      "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garage Inc.",
         "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 146560,
       "name": "Die, Die My Darling",
       "url": "https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396986,
+      "name": "Ride The Lightning - Remastered",
+      "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 328132,
-      "name": "King Nothing - Remastered",
-      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
+      "duration_ms": 319600,
+      "name": "Mama Said - Remastered",
+      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 319600,
-      "name": "Mama Said - Remastered",
-      "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
+      "duration_ms": 328132,
+      "name": "King Nothing - Remastered",
+      "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
     },
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
       "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
         {
           "name": "Metallica",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 244066,
-      "name": "Trapped Under Ice - Remastered",
-      "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     }
   ],
   "unique_name": "This Is Metallica",

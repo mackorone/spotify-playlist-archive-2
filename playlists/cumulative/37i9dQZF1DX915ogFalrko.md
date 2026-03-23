@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-202 songs - 11 hr 57 min
+203 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 | 2026-02-22 |
 | [Jupiter and Mars](https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Jupiter and Mars](https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz) | 3:13 | 2026-01-22 |  |
 | [Just Around the Corner](https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 3:13 | 2025-07-18 | 2025-08-22 |
-| [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 |  |
+| [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 | 2026-03-23 |
 | [l'aéroport](https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [l'aéroport](https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF) | 2:24 | 2026-01-30 | 2026-02-14 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 | 2025-12-22 |
 | [La Californie](https://open.spotify.com/track/1g7tqO5lzjQIQxdVZapBwf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Beat Tape](https://open.spotify.com/album/78QxpVLxXgG7rvYQUXDOfe) | 2:56 | 2025-07-18 | 2025-09-13 |
@@ -144,6 +144,7 @@
 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 | 2025-08-07 | 2025-11-16 |
 | [Quand on arrive en ville](https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Quand on arrive en ville](https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE) | 3:38 | 2025-07-18 |  |
 | [Rapids of Love](https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Rapids of Love](https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D) | 2:45 | 2025-12-18 | 2026-01-15 |
+| [red top](https://open.spotify.com/track/1R01UctoTNIDuyZA8nhKf3) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [red top](https://open.spotify.com/album/0rCjLkKlUfNnGAQrd9hUdz) | 2:03 | 2026-03-20 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-07-18 | 2025-08-22 |
 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-19 |  |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2025-07-18 |  |

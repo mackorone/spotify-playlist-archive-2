@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,909 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,937 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 9 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:59 |
 | 10 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
 | 11 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:49 |
-| 12 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
-| 13 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/39jaMEXqY45at7te6OpskG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:36 |
+| 12 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/39jaMEXqY45at7te6OpskG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB) | 3:36 |
+| 13 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:00 |
 | 14 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:18 |
-| 15 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 4:00 |
+| 15 | [Streets of Minneapolis \- Radio Mix](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis \(Radio Mix\)](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:30 |
 | 16 | [Brilliant Disguise](https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:17 |
 | 17 | [Badlands](https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:03 |
 | 18 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:37 |
-| 19 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:18 |
-| 20 | [A Rainy Night in Soho](https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [A Rainy Night in Soho](https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H) | 4:32 |
+| 19 | [A Rainy Night in Soho](https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [A Rainy Night in Soho](https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H) | 4:32 |
+| 20 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:18 |
 | 21 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:50 |
 | 22 | [I'm Goin' Down](https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 3:31 |
 | 23 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:30 |
 | 50 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
 
-Snapshot ID: `abyOAAAAAAByGgQ+N8yurHFLnLklEktY`
+Snapshot ID: `ab3fgAAAAAB79SXgpFQcy7hROe6Cf6VH`

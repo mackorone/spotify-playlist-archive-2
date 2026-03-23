@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,197 likes - 123 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,198 likes - 123 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 69 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5UqICqub1deTe918NnxtwZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:07 |
 | 70 | [ON MY MIND feat\. James Fauntleroy](https://open.spotify.com/track/2KY5Yl10cqMdet5WevlYZy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:42 |
 | 71 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
-| 72 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
-| 73 | [I'm Not Sure](https://open.spotify.com/track/7jHpwhLjUpeyHnMtGXySnJ) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:17 |
+| 72 | [I'm Not Sure](https://open.spotify.com/track/7jHpwhLjUpeyHnMtGXySnJ) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:17 |
+| 73 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
 | 74 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 |
 | 75 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
 | 76 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 122 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 123 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcMwVgAAAAAQPh2em+Mdhn0Xpjxj+4gg`
+Snapshot ID: `AcM19gAAAAAP1VBIUfkr+qK5+LR2CJgF`

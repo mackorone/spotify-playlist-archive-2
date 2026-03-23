@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "UNION STATION BLUES",
+        "url": "https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133545,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7"
+    },
+    {
+      "album": {
         "name": "John Lee Hooker - On Vee-Jay 1955-1958",
         "url": "https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"

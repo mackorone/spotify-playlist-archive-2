@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACgbQqSKfQMONEfD0mgEB4/",
+  "snapshot_id": "ab3fgAAAAADnWxhsfO6kVg7Zv8aJaW+F",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 330893,
-      "name": "Dancing in My Head",
-      "url": "https://open.spotify.com/track/0hBv9EMmGNoFIpD2orvxI7"
+      "duration_ms": 253906,
+      "name": "Family Treet",
+      "url": "https://open.spotify.com/track/5qhrTs1kFkJSBK9c6EJaoQ"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Off Duty Trip",
-      "url": "https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7"
+      "duration_ms": 113786,
+      "name": "Adventures Close to Home",
+      "url": "https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0"
     },
     {
       "added_at": null,
@@ -244,15 +244,15 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 253906,
-      "name": "Family Treet",
-      "url": "https://open.spotify.com/track/5qhrTs1kFkJSBK9c6EJaoQ"
+      "duration_ms": 330893,
+      "name": "Dancing in My Head",
+      "url": "https://open.spotify.com/track/0hBv9EMmGNoFIpD2orvxI7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Looking in the Shadows",
-        "url": "https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ"
+        "name": "The Kitchen Tapes",
+        "url": "https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Only Tonight",
-      "url": "https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c"
+      "duration_ms": 197066,
+      "name": "Oh Oh La La La",
+      "url": "https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 113786,
-      "name": "Adventures Close to Home",
-      "url": "https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0"
+      "duration_ms": 195440,
+      "name": "Off Duty Trip",
+      "url": "https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Tapes",
-        "url": "https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w"
+        "name": "Looking in the Shadows",
+        "url": "https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Oh Oh La La La",
-      "url": "https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h"
+      "duration_ms": 208960,
+      "name": "Only Tonight",
+      "url": "https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunken Maria / Monk Chant",
-        "url": "https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 124440,
-      "name": "Monk Chant",
-      "url": "https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kitchen Tapes",
         "url": "https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177906,
       "name": "Truth is Hard",
       "url": "https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drunken Maria / Monk Chant",
+        "url": "https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 124440,
+      "name": "Monk Chant",
+      "url": "https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN"
     },
     {
       "added_at": null,
@@ -468,22 +468,6 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Love a Loser",
-      "url": "https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking in the Shadows",
-        "url": "https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
       "duration_ms": 216240,
       "name": "Forgotten Words",
       "url": "https://open.spotify.com/track/4xkv53vFS5SInaHXW9E81H"
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 238866,
-      "name": "You Kill Me",
-      "url": "https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux"
+      "duration_ms": 210506,
+      "name": "Love a Loser",
+      "url": "https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 257626,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/0ny47WrsemKjsCZNp8JqKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Looking in the Shadows",
+        "url": "https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "You Kill Me",
+      "url": "https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux"
     }
   ],
   "unique_name": "This Is The Raincoats",

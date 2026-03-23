@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 537870,
+  "num_followers": 537838,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Dancin (feat. Luvli) [Krono Remix]",
         "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 198053,
       "name": "Dancin (feat. Luvli) - Krono Remix",
       "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2025-02-07 03:01:15",

@@ -4,7 +4,7 @@
 
 > Las mujeres que la rompieron este año con su música\. Cazzu en portada.
 
-311 songs - 16 hr 46 min
+312 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Good Grief](https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:26 | 2020-04-24 | 2024-04-19 |
 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 | 2023-02-15 | 2025-03-08 |
 | [Grace Kelly](https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 3:07 | 2023-02-15 | 2024-04-19 |
-| [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 | 2025-12-03 |  |
+| [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 | 2025-12-03 | 2026-03-23 |
 | [Great DJ](https://open.spotify.com/track/6lMPQ6y52HaXkFwRSF9Kwc) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 3:22 | 2023-02-15 | 2024-08-13 |
 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 | 2025-12-03 |  |
 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 | 2025-12-03 |  |
@@ -240,6 +240,7 @@
 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 | 2025-12-03 |  |
 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 | 2025-09-05 | 2025-12-04 |
 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 | 2025-12-03 |  |
+| [QUÉ IMPORTA](https://open.spotify.com/track/6GFsfZc0hFNthskN5d5FDs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [TANYA](https://open.spotify.com/album/7jUIaJGpygQbtiUgNcBRNR) | 2:51 | 2025-12-03 |  |
 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 | 2025-09-05 | 2025-12-04 |
 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2025-09-05 | 2025-12-04 |
 | [Resist \(Not Gonna Run Away\)](https://open.spotify.com/track/4LjwN7AJrUoPG9Ugsq9V7J) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:09 | 2025-07-31 | 2025-09-06 |

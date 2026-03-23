@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: עדן חסון
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,780 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,781 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 33 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 34 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 35 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 36 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 37 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
+| 36 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
+| 37 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 38 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 39 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 40 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 90 | [לדפוק ת'ראש](https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox), [רותם סלע](https://open.spotify.com/artist/6RHKnN409hmH8d8f2wGHk3), [דני קושמרו](https://open.spotify.com/artist/74Dnck8lIrte67p80UizJN), [אורי גבריאל](https://open.spotify.com/artist/3xIUNEwPWaEUSQUip0OQH0), [אסי ישראלוף](https://open.spotify.com/artist/6ECfOxlo1z5RwXCQqCR4ta) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:58 |
 | 91 | [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 |
 | 92 | [תקליט זהב](https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [Bar Tzabary](https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF) | [תקליט זהב](https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o) | 3:32 |
-| 93 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
-| 94 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
+| 93 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
+| 94 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
 | 95 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
 | 96 | [היי אהובה](https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [היי אהובה](https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE) | 2:50 |
 | 97 | [במקום בו אני גר](https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [אורית טשומה](https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle), [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [אה וואו](https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs) | 4:16 |
-| 98 | [ראש הממשלה](https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [ראש הממשלה](https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2) | 2:43 |
-| 99 | [מה יבוא](https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מה יבוא](https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O) | 2:31 |
+| 98 | [מה יבוא](https://open.spotify.com/track/5JU5xtaUvWXK5IkyUIFd03) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מה יבוא](https://open.spotify.com/album/0BGH0loFudBYXf13fjYb1O) | 2:31 |
+| 99 | [ראש הממשלה](https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [ראש הממשלה](https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2) | 2:43 |
 | 100 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
 
 Snapshot ID: `AAAAAGrPLw0accbHSMGOL4VR1n3V74hI`

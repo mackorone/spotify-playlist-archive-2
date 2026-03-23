@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,906 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,924 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 62 | [Seville](https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays Great Songs](https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG) | 2:14 |
 | 63 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 |
 | 64 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
-| 65 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
-| 66 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
+| 65 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
+| 66 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 67 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
 | 68 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 69 | [Nosso Caso](https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Nosso Caso](https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u) | 3:31 |

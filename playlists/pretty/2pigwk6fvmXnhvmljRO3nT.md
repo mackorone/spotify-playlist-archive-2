@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,387 songs - 21 day 8 hr 55 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,399 songs - 21 day 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8395,5 +8395,17 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8385 | [恋風](https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Laugh](https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ) | 3:03 |
 | 8386 | [色彩](https://open.spotify.com/track/5H37zP5tQCneoCRJEMRcnV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:12 |
 | 8387 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 8388 | [CLICK](https://open.spotify.com/track/2Tt3WNxnXBQl56WrvX7AsS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [CLICK](https://open.spotify.com/album/1L8NUoaFyKLPmN42mDf9E2) | 4:32 |
+| 8389 | [ヒトリゴト](https://open.spotify.com/track/1WThJDjGFZ9YRHDwoPrHFx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/1cZlf9x4NSbTIZftdKXL8r) | 3:56 |
+| 8390 | [カラフル](https://open.spotify.com/track/1w25qP6ViEMw24RdawuWZC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:32 |
+| 8391 | [ルミナス](https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:11 |
+| 8392 | [ナイショの話](https://open.spotify.com/track/0BDtQ3XsoRHYYcHvvVgFLE) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:21 |
+| 8393 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
+| 8394 | [君色シグナル](https://open.spotify.com/track/3wyWRt8myEL5o432jUXioi) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 4:42 |
+| 8395 | [Yasashisa no Riyu](https://open.spotify.com/track/3ecRuOpqkBJPAzNjF1eQG8) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [flyleaf](https://open.spotify.com/album/0d6s3tAy7Nzld8zEjTZihy) | 4:14 |
+| 8396 | [コンプリケイション　\-still struggle version\-](https://open.spotify.com/track/2vZCZsvv3LwVw1Y8VQ2Gc3) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [From Dusk Till Dawn](https://open.spotify.com/album/64sISj59T6qVyyYnbU4H1l) | 4:47 |
+| 8397 | [only my railgun](https://open.spotify.com/track/7JyF9j6r37HP2MKnTWmNoi) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6pCDW6tI7cGtJSTBQFziZb) | 4:17 |
+| 8398 | [ワガママMIRROR HEART](https://open.spotify.com/track/5CyHyrAW1RPip3ruorIWyo) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 4:36 |
+| 8399 | [My Soul, Your Beats!](https://open.spotify.com/track/6czE5Nsi4SG2NPAufqxPMH) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Key+Lia Best 2001\-2010](https://open.spotify.com/album/5MgFWwnqo9OpN6ISUcIN1B) | 4:35 |
 
-Snapshot ID: `AAALXsb+Kn83atM1o9ai9V/MA21hbsSw`
+Snapshot ID: `AAALahQDikH41gaTdL/WLFdf9XyYFGfu`

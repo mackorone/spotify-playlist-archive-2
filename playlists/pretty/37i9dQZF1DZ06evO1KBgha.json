@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 374731,
+  "num_followers": 374755,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADNX357a8QkOdDQ9xDNl4MB",
+  "snapshot_id": "ab3fgAAAAABdVZmhv2JGdCHVWaRuN2s3",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 125222,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa y Yo X Siempre",
-        "url": "https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 184449,
-      "name": "T\u00fa y Yo X Siempre",
-      "url": "https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -196,9 +196,25 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 125222,
-      "name": "Slay",
-      "url": "https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK"
+      "duration_ms": 142219,
+      "name": "Problem\u00e1tica",
+      "url": "https://open.spotify.com/track/7Hfw5AsyR5lvqxXi6KEfIl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa y Yo X Siempre",
+        "url": "https://open.spotify.com/album/1pa5BFb6W8qJRukSRku5bg"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 184449,
+      "name": "T\u00fa y Yo X Siempre",
+      "url": "https://open.spotify.com/track/0tRu6JVcrxamSl49SbOVe1"
     },
     {
       "added_at": null,
@@ -243,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K de Karma",
         "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
@@ -270,11 +266,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 142219,
-      "name": "Problem\u00e1tica",
-      "url": "https://open.spotify.com/track/7Hfw5AsyR5lvqxXi6KEfIl"
+      "duration_ms": 181933,
+      "name": "Fifty Fifty",
+      "url": "https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18"
     },
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 162981,
       "name": "A\u00f1o Sab\u00e1tico",
       "url": "https://open.spotify.com/track/1W3TtHJz099SGGq67IOVFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
     },
     {
       "added_at": null,
@@ -359,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 143753,
+      "name": "Ll\u00e9vatelo",
+      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripper",
-        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 166181,
-      "name": "Stripper",
-      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K de Karma",
         "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
@@ -402,15 +402,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Fifty Fifty",
-      "url": "https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18"
+      "duration_ms": 152765,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
     },
     {
       "added_at": null,
@@ -431,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 157606,
-      "name": "Botellita",
-      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tokome",
         "url": "https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo"
       },
@@ -463,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K de Karma",
-        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
@@ -472,9 +452,29 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 152765,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/1YVjjxE9UErzHRL6hqA2CH"
+      "duration_ms": 157606,
+      "name": "Botellita",
+      "url": "https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HEROINA",
+        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/5QKrFTauGFgmrj4HQzOszg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cambios de Luna",
         "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 165090,
       "name": "Morir de Amor",
       "url": "https://open.spotify.com/track/1xeHt0Vm6pGSrFAO9bB6hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K de Karma",
-        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/0BSG1hM4RR2ZtY50Fvkcdx"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En 4",
-        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "En 4",
-      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boy! (feat. Kenia OS)",
         "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 165963,
       "name": "Bad Boy! - feat. Kenia OS",
       "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En 4",
+        "url": "https://open.spotify.com/album/6IdEHZU1avInt4NeuACdRt"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "En 4",
+      "url": "https://open.spotify.com/track/2hVKtXecIaFlWRRDgZgLlf"
     },
     {
       "added_at": null,

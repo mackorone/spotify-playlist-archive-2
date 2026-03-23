@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  GUZO
 
-404 songs - 20 hr 39 min
+405 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2025-09-05 |
 | [Big Deal](https://open.spotify.com/track/1QjVJm65BfSr63wbpzk86Q) | [Pascoe](https://open.spotify.com/artist/3EUDC2YMBp9j5hgOVoQE4c) | [Big Deal](https://open.spotify.com/album/6O0cIr1fA4U7hB3z7p6ydQ) | 3:37 | 2025-08-14 | 2025-08-22 |
 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 | 2025-08-14 | 2025-09-15 |
+| [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-20 |  |
 | [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 | 2025-09-04 | 2026-03-13 |
 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 | 2025-06-12 |  |
@@ -141,7 +142,7 @@
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-09-05 |
 | [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-21 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 | 2025-10-10 |
-| [Ham Med Paraplyen](https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Ham Med Paraplyen](https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J) | 2:53 | 2025-08-28 | 2026-03-22 |
+| [Ham Med Paraplyen](https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Ham Med Paraplyen](https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J) | 2:53 | 2025-08-28 |  |
 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 | 2025-08-08 |
 | [Heartbreak](https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Heartbreak](https://open.spotify.com/album/6FAUARCpztIj99JeEdPTZ5) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
@@ -223,7 +224,7 @@
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-08-22 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-19 |
-| [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 | 2025-09-25 |  |
+| [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 | 2025-09-25 | 2026-03-23 |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2025-02-10 |
 | [Lyst til](https://open.spotify.com/track/2Z87TUa90HNdSvCAK0jRJj) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Lyst til](https://open.spotify.com/album/3HCmazvMAX88CGB1ZngnHS) | 3:37 | 2025-11-13 | 2026-02-10 |
 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |
@@ -292,7 +293,7 @@
 | [Same Thing](https://open.spotify.com/track/3zVEaAiVKKqo6JC9bhhQMx) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Same Thing](https://open.spotify.com/album/5qHDM4ltRazpBL3pdVcAMi) | 5:08 | 2025-11-06 | 2025-11-09 |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 | 2025-05-30 |
 | [Sandheden er..](https://open.spotify.com/track/1jINWYv94BOSm6oLu3rNbt) | [Sara Vita](https://open.spotify.com/artist/0NL4k9oswvKfTgIYxoRQG4) | [Sandheden er..](https://open.spotify.com/album/5wXLWxfRnB9EbgZyqpqLFQ) | 2:48 | 2025-05-22 | 2025-05-30 |
-| [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 |  |
+| [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 | 2026-03-23 |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 | 2026-02-05 |  |
 | [Scandalous](https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Scandalous](https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ) | 2:40 | 2025-09-25 | 2026-02-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,283 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,362 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 18 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 19 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
 | 20 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
-| 21 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
-| 22 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 21 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 22 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
 | 23 | [Traveller](https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:42 |
 | 24 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
 | 25 | [Fearless \(Taylor’s Version\)](https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:01 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 44 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
 | 45 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
 | 46 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
-| 47 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
-| 48 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
+| 47 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
+| 48 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 49 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 50 | [Simple](https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:05 |
-| 51 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
-| 52 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
+| 51 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
+| 52 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
 | 53 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
 | 54 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
 | 55 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |

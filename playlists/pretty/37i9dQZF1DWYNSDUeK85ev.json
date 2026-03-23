@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695995,
+  "num_followers": 696025,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "+Linda",
         "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 130613,
-      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
-      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+        "url": "https://open.spotify.com/album/2A4aFi0rBICWnzlm0HZ76j"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "LUCK RA | DJ TAO Turreo Sessions #19",
+      "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
     },
     {
       "added_at": "2026-02-20 03:00:09",

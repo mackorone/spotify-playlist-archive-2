@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Drug Church",
-  "num_followers": 494514,
+  "num_followers": 494493,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Blunt Force Blues",
-        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 251505,
-      "name": "Blunt Force Blues",
-      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Blunt Force Blues",
+        "url": "https://open.spotify.com/album/6JSSK9vSJUabyLGFhdnMEG"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 251505,
+      "name": "Blunt Force Blues",
+      "url": "https://open.spotify.com/track/7sxzXYrcCVnMnqCxBwCXLN"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Into Oblivion",
-        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 245350,
-      "name": "St. Catherine's Wheel",
-      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "from me to u (feat. Poppy)",
         "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 204526,
       "name": "from me to u (feat. Poppy)",
       "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 245350,
+      "name": "St. Catherine's Wheel",
+      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
-      },
-      "artists": [
-        {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
-        }
-      ],
-      "duration_ms": 168323,
-      "name": "Bad Faith",
-      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/28sv9hTNi7Cxv71zJ0qJA1"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Love Is Not Enough",
+        "url": "https://open.spotify.com/album/1ZiHuZUECf9saUhmv8vYxm"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 168323,
+      "name": "Bad Faith",
+      "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Good Enough (feat. Caskets)",
-        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
+        "name": "Blankets",
+        "url": "https://open.spotify.com/album/2KhU5xZYYF3mopBNajadgW"
       },
       "artists": [
         {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        },
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 165970,
-      "name": "Good Enough (feat. Caskets)",
-      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
+      "duration_ms": 317738,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Blankets",
-        "url": "https://open.spotify.com/album/2KhU5xZYYF3mopBNajadgW"
+        "name": "Good Enough (feat. Caskets)",
+        "url": "https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        },
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 317738,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
+      "duration_ms": 165970,
+      "name": "Good Enough (feat. Caskets)",
+      "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Nice Guy (feat. Ekoh)",
-        "url": "https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe"
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
-        },
-        {
-          "name": "Ekoh",
-          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 185945,
-      "name": "Nice Guy (feat. Ekoh)",
-      "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1259,6 +1239,26 @@
       "duration_ms": 203521,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Nice Guy (feat. Ekoh)",
+        "url": "https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        }
+      ],
+      "duration_ms": 185945,
+      "name": "Nice Guy (feat. Ekoh)",
+      "url": "https://open.spotify.com/track/1BbPTYq3fpY5qtDeublQM2"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Gladrags",
-        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Gladrags",
-      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "This Is The Sound",
         "url": "https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "Gladrags",
+        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Gladrags",
+      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Shapeshift",
         "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 247493,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "God Save The Gun",
+        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "God Save The Gun",
-        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
+        "name": "Hype Man",
+        "url": "https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068"
       },
       "artists": [
         {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
         }
       ],
-      "duration_ms": 229334,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
+      "duration_ms": 248523,
+      "name": "Hype Man",
+      "url": "https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1615,22 +1631,6 @@
       "duration_ms": 236273,
       "name": "human props",
       "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "Hype Man",
-        "url": "https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 248523,
-      "name": "Hype Man",
-      "url": "https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv"
     },
     {
       "added_at": "2026-03-13 14:04:55",

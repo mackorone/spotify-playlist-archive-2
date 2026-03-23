@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 109 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,24 +98,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 88 | [Never Wanna Fall in Love](https://open.spotify.com/track/1CniRSNjJmLuD2vnf1G96U) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Starting From Now](https://open.spotify.com/album/7xtbwxSS5gmY4kAILOYgSw) | 3:14 |
 | 89 | [One More Time](https://open.spotify.com/track/03cXcevjjmVaR4IU13XMRZ) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 2:32 |
 | 90 | [Set You Free](https://open.spotify.com/track/1kwRo02wdqiv1qEIlHMZcF) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Set You Free](https://open.spotify.com/album/5HFGUJW2d6XtDF2AFziY51) | 2:50 |
-| 91 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
-| 92 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
-| 93 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
-| 94 | [Top Of Your Lungs](https://open.spotify.com/track/2mXL4ltEI05p2866aBSfbA) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [Honey I'm Home](https://open.spotify.com/album/70cuqfQu9OeAkTqspVDCoO) | 3:56 |
-| 95 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
-| 96 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
-| 97 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
-| 98 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
-| 99 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
-| 100 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
-| 101 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 |
-| 102 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
-| 103 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
-| 104 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
-| 105 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
-| 106 | [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 |
-| 107 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
-| 108 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
-| 109 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
+| 91 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 |
+| 92 | [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 |
+| 93 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
+| 94 | [Together](https://open.spotify.com/track/03akDaEjjNtl4o4Rb702IW) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:03 |
+| 95 | [Top Of Your Lungs](https://open.spotify.com/track/2mXL4ltEI05p2866aBSfbA) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [Honey I'm Home](https://open.spotify.com/album/70cuqfQu9OeAkTqspVDCoO) | 3:56 |
+| 96 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
+| 97 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
+| 98 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
+| 99 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
+| 100 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
+| 101 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
+| 102 | [Given Up, Giving Up](https://open.spotify.com/track/6zdyGZuSVvyKFfAZNvHofS) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:52 |
+| 103 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 |
+| 104 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
+| 105 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
+| 106 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
+| 107 | [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 |
+| 108 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
+| 109 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
+| 110 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcMwfgAAAAAb1RuO0V2HyRQZ3c/xIJPJ`
+Snapshot ID: `AcM2HgAAAADIXOpNrZXfFfe9o99mLzzK`

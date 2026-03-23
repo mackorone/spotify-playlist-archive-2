@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9142,
+  "num_followers": 9146,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADv5gRXzI7RH8rGzN0Y73ts",
+  "snapshot_id": "ab3fgAAAAADBig8KfJs4iBsqomtE7pvS",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+      "duration_ms": 220235,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah Blem Blem",
         "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
       },
@@ -711,26 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MAN TING",
-        "url": "https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Skibii",
-          "url": "https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn"
-        },
-        {
-          "name": "Teni Makanaki",
-          "url": "https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT"
         }
       ],
-      "duration_ms": 177297,
-      "name": "BIG MAN TING",
-      "url": "https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4"
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -771,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Concur",
-        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+        "name": "BIG MAN TING",
+        "url": "https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA"
       },
       "artists": [
         {
@@ -780,13 +756,17 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         },
         {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+          "name": "Skibii",
+          "url": "https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn"
+        },
+        {
+          "name": "Teni Makanaki",
+          "url": "https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT"
         }
       ],
-      "duration_ms": 245960,
-      "name": "I Concur",
-      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+      "duration_ms": 177297,
+      "name": "BIG MAN TING",
+      "url": "https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
     },
     {
       "added_at": null,
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
       "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 161889,
-      "name": "A Night to Remember (ANTR)",
-      "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
+      "duration_ms": 186773,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/0udi5wEx1hvToZRFRRmYL7"
     }
   ],
   "unique_name": "This Is Timaya",

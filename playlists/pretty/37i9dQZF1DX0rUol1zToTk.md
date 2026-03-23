@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rUol1zToTk.md) - [plain]
 
 > The classics and deep cuts you probably downloaded from the golden era of the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,075 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,110 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rUol1zToTk.md) - [plain]
 | 28 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 29 | [Replay](https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:02 |
 | 30 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
-| 31 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
-| 32 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 |
+| 31 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 |
+| 32 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
 | 33 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 | 34 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 35 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rUol1zToTk.md) - [plain]
 | 57 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:57 |
 | 58 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 59 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
-| 60 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
+| 60 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 61 | [21 Questions](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:44 |
-| 62 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
+| 62 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 |
 | 63 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 64 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
-| 65 | [Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:41 |
-| 66 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
+| 65 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
+| 66 | [Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:41 |
 | 67 | [Live Your Life](https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:38 |
 | 68 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 |
 | 69 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |

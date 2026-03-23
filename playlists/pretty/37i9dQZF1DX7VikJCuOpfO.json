@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar \ud83d\udcf8",
-  "num_followers": 366986,
+  "num_followers": 366993,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Cas\u00ed 16",
-        "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 192928,
-      "name": "Cas\u00ed 16",
-      "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "La Perra",
         "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "D\u00f3nde y Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
+        "name": "Cas\u00ed 16",
+        "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
       "artists": [
         {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 163058,
-      "name": "D\u00f3nde y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+      "duration_ms": 192928,
+      "name": "Cas\u00ed 16",
+      "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -383,6 +367,22 @@
       "duration_ms": 180000,
       "name": "Bien, \u00bfy t\u00fa?",
       "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "D\u00f3nde y Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Culpa M\u00eda+ El Mimoso Luis Antonio L\u00f3pez",
         "url": "https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 190384,
       "name": "Culpa M\u00eda",
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -759,6 +759,58 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
+        "name": "Se Me Hizo Tarde",
+        "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
+        }
+      ],
+      "duration_ms": 223250,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Bailando De A Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 204850,
+      "name": "Bailando De A Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
         "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
         "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
@@ -787,58 +839,6 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
-        "name": "Se Me Hizo Tarde",
-        "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Plan Exclusivo",
-          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
-        }
-      ],
-      "duration_ms": 223250,
-      "name": "Se Me Hizo Tarde",
-      "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
-        "name": "Bailando De A Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 204850,
-      "name": "Bailando De A Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/2Ml3uMdJW2Dzub5GkfTSUp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168493,
       "name": "Inalcanzable",
       "url": "https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Playa Sola",
-        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
-      },
-      "artists": [
-        {
-          "name": "Jessi Valente",
-          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
-    },
-    {
-      "added_at": "2026-03-20 06:00:09",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-03-20 06:00:09",
       "album": {
-        "name": "Ning\u00fan Color Tiene Due\u00f1o",
-        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
+        "name": "Playa Sola",
+        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
       },
       "artists": [
         {
-          "name": "Majo Cornejo",
-          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+          "name": "Jessi Valente",
+          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Ning\u00fan Color Tiene Due\u00f1o",
-      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+      "duration_ms": 164460,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
       "added_at": "2026-03-20 06:00:09",
@@ -1059,6 +1043,22 @@
       "duration_ms": 174329,
       "name": "Le Voy a Pedir a Dios",
       "url": "https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi"
+    },
+    {
+      "added_at": "2026-03-20 06:00:09",
+      "album": {
+        "name": "Ning\u00fan Color Tiene Due\u00f1o",
+        "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
+      },
+      "artists": [
+        {
+          "name": "Majo Cornejo",
+          "url": "https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Ning\u00fan Color Tiene Due\u00f1o",
+      "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
     },
     {
       "added_at": "2026-03-20 06:00:09",

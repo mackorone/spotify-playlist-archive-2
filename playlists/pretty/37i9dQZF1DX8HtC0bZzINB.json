@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 107979,
+  "num_followers": 107999,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "ARABA",
-        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
+        "name": "G\u00f6rmem B\u00f6ylesini",
+        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
       },
       "artists": [
         {
           "name": "Sefo",
           "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
         }
       ],
-      "duration_ms": 91413,
-      "name": "ARABA",
-      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
+      "duration_ms": 192446,
+      "name": "G\u00f6rmem B\u00f6ylesini",
+      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -439,22 +443,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "G\u00f6rmem B\u00f6ylesini",
-        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
+        "name": "ARABA",
+        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
       },
       "artists": [
         {
           "name": "Sefo",
           "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
         }
       ],
-      "duration_ms": 192446,
-      "name": "G\u00f6rmem B\u00f6ylesini",
-      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
+      "duration_ms": 91413,
+      "name": "ARABA",
+      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
     },
     {
       "added_at": "2024-07-08 08:41:13",

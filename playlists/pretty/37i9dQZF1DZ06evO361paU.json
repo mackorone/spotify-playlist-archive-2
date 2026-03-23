@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 294417,
+  "num_followers": 294461,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADRl+uwl7B+6eHxU9oSXagn",
+  "snapshot_id": "ab3fgAAAAAB7Tf/Kiwt0D2jh+R0FAKco",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": null,

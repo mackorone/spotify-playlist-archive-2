@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 54032,
+  "num_followers": 54155,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAACQ8MQLpB7so9z5k2aBtvwG",
+  "snapshot_id": "ab3fgAAAAABs7VbQRfdr05H6ITRhvHCT",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 304426,
       "name": "Melinda",
       "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
     },
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 369280,
+      "name": "Samba De Uma Nota So",
+      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 201093,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/2js8wl7HG1i8jZNAyqFu8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Samba De Uma Nota So",
-      "url": "https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recorded Fall '61",
-        "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 286893,
-      "name": "Who Could Care?",
-      "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 188280,
       "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recorded Fall '61",
+        "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 286893,
+      "name": "Who Could Care?",
+      "url": "https://open.spotify.com/track/1kBKndNFG5Um2DK87FYk1m"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 307653,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/6zQK0HXqNFRQOwmaoSKrQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 607573,
       "name": "Ballad Medley",
       "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 307653,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/6zQK0HXqNFRQOwmaoSKrQ2"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 542733,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251137,
+      "name": "Chega De Saudade (Too Much Longing)",
+      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251137,
-      "name": "Chega De Saudade (Too Much Longing)",
-      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 212320,
       "name": "Samba Dees Days",
       "url": "https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Manha De Carnaval (Morning of Carnaval)",
+      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 202586,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Manha De Carnaval (Morning of Carnaval)",
-      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
     },
     {
       "added_at": null,

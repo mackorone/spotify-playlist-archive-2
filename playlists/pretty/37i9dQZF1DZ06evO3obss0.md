@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,140 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,359 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 9 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 10 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 |
 | 11 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 |
-| 12 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
-| 13 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
-| 14 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 12 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
+| 13 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
+| 14 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
 | 15 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
-| 16 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
-| 17 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
-| 18 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
+| 16 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
+| 17 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
+| 18 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 19 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
-| 20 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
+| 20 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
 | 21 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
 | 22 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 23 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 49 | [Worth It Prelude\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/21Iu5XUOsp1Yq90ZTE51rz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:11 |
 | 50 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 |
 
-Snapshot ID: `abyOAAAAAAD9G9xSKKku7LxxN8MHvqL2`
+Snapshot ID: `ab3fgAAAAADOjXFxcBPhozdj9pR5ZbOC`

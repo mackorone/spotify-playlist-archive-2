@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 278470,
+  "num_followers": 278535,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
+        "name": "Bassline Girl",
+        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Bassline Girl",
+      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-03-20 08:41:04",
+      "album": {
         "name": "SEND IT",
         "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 126857,
       "name": "SEND IT",
       "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
-    },
-    {
-      "added_at": "2026-03-20 08:41:04",
-      "album": {
-        "name": "Bassline Girl",
-        "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Bassline Girl",
-      "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
     },
     {
       "added_at": "2026-03-20 08:41:04",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
+        "name": "I Just Want U",
+        "url": "https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 208050,
+      "name": "I Just Want U",
+      "url": "https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk"
+    },
+    {
+      "added_at": "2026-03-20 08:41:04",
+      "album": {
         "name": "Ur Number",
         "url": "https://open.spotify.com/album/4uTybjyrLbp6zCrENn0bKN"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
-    },
-    {
-      "added_at": "2026-03-20 08:41:04",
-      "album": {
-        "name": "I Just Want U",
-        "url": "https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 208050,
-      "name": "I Just Want U",
-      "url": "https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk"
     },
     {
       "added_at": "2026-03-20 08:41:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,549 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,444 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 51 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
 | 52 | [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 |
 | 53 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
-| 54 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
-| 55 | [Jiggy](https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Jiggy](https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl) | 2:11 |
+| 54 | [Jiggy](https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Jiggy](https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl) | 2:11 |
+| 55 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
 | 56 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
 | 57 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |
 | 58 | [Home \(feat\. Tom Walker\)](https://open.spotify.com/track/76Cui452ccAdNSbiileyhZ) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Home \(feat\. Tom Walker\)](https://open.spotify.com/album/5EygxhcU2bCDPUirGRF3UE) | 3:16 |

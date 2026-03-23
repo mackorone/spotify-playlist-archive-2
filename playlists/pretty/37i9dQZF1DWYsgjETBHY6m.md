@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,185 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,227 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 30 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
 | 31 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 32 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
-| 33 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
-| 34 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
-| 35 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 |
+| 33 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 |
+| 34 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
+| 35 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 | 36 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
 | 37 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 38 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |

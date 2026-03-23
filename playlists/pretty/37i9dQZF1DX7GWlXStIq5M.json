@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Bia Marques",
-  "num_followers": 363273,
+  "num_followers": 363246,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -67,26 +67,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "O Que Sobrou Do Amor?",
-        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "O Que Sobrou Do Amor?",
-      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "pensando direito",
         "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 235753,
       "name": "pensando direito",
       "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "O Que Sobrou Do Amor?",
+        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "O Que Sobrou Do Amor?",
+      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 201230,
       "name": "DISK NAMORADA",
       "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
-        "name": "TANTAS FORMAS DE DIZER ADEUS",
-        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 160741,
-      "name": "Coincidentemente (Tirando Certas Coisas)",
-      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -591,6 +575,38 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "TANTAS FORMAS DE DIZER ADEUS",
+        "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 160741,
+      "name": "Coincidentemente (Tirando Certas Coisas)",
+      "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Clube dos Cora\u00e7\u00f5es Partidos",
+        "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "duration_ms": 170286,
+      "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
+      "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -631,6 +647,26 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Solst\u00edcio",
+        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "FAL",
+      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -691,6 +727,22 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -723,94 +775,6 @@
       "duration_ms": 150070,
       "name": "Teu Namorado, Meu Amor",
       "url": "https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "Clube dos Cora\u00e7\u00f5es Partidos",
-        "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 170286,
-      "name": "Eu Nunca Mais Vou Amar Algu\u00e9m",
-      "url": "https://open.spotify.com/track/6VE2oWkB36snXifzNHG6o2"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "Mar de Rosas",
-        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mar de Rosas",
-      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "Solst\u00edcio",
-        "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "FAL",
-      "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -855,6 +819,42 @@
       "duration_ms": 171967,
       "name": "ESTA\u00c7\u00c3O DO PRAZER",
       "url": "https://open.spotify.com/track/63M7nKz9FoFp9xD1cBTIo5"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
+        "name": "Mar de Rosas",
+        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mar de Rosas",
+      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
     },
     {
       "added_at": "2026-03-20 03:00:28",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-03-20 03:00:28",
       "album": {
+        "name": "Vida N\u00e3o Termina",
+        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Helena Serena",
+          "url": "https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Vida N\u00e3o Termina",
+      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
+    },
+    {
+      "added_at": "2026-03-20 03:00:28",
+      "album": {
         "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 146829,
       "name": "Chama",
       "url": "https://open.spotify.com/track/6NadLF4QyijMRzRdwrfeOR"
-    },
-    {
-      "added_at": "2026-03-20 03:00:28",
-      "album": {
-        "name": "Vida N\u00e3o Termina",
-        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
-      },
-      "artists": [
-        {
-          "name": "Pinotti",
-          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
-        },
-        {
-          "name": "Serena",
-          "url": "https://open.spotify.com/artist/1QqxEX3S0mKAPLNKX7rI0D"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Vida N\u00e3o Termina",
-      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
     },
     {
       "added_at": "2026-03-20 03:00:28",

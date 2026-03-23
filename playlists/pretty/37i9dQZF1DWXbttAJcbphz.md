@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the 2010s\. Cover: Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,783,637 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,783,765 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 72 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 73 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 74 | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 4:00 |
-| 75 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
-| 76 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
+| 75 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
+| 76 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
 | 77 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
 | 78 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 79 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
 | 80 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
-| 81 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
-| 82 | [Girlfriend](https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv) | [Heavy Weight](https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J) | [Girlfriend](https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd) | 3:56 |
+| 81 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 82 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 83 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
 | 84 | [She Don't \(feat\. Ty Dolla $Ign\)](https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 4:24 |
-| 85 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 85 | [Girlfriend](https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv) | [Heavy Weight](https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J) | [Girlfriend](https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd) | 3:56 |
 | 86 | [The Morning](https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:12 |
 | 87 | [D'Evils](https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [November](https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9) | 2:51 |
 | 88 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |

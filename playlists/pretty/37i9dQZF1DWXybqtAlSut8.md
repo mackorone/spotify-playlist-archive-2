@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,263 likes - 90 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,309 likes - 90 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

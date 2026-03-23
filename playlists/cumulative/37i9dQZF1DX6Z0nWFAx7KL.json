@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "DISCRETION",
+        "url": "https://open.spotify.com/album/0SiP21mn6ezK7ZTiKEakNJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "AV Allure",
+          "url": "https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "DISCRETION",
+      "url": "https://open.spotify.com/track/4KuuZdd2tTJdxnUkL9IdF1"
+    },
+    {
+      "album": {
         "name": "Dollar For A Dime",
         "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
       },
@@ -5258,7 +5280,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 154146,
       "name": "Pink Oasis",
       "url": "https://open.spotify.com/track/37YNRTW6PaAVYN1fM767yL"

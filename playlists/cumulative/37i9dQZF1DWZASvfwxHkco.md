@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Kungs, Boys Noize
 
-749 songs - 1 day 14 hr 36 min
+750 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-07-27 | 2025-06-06 |
 | [Diana \(with Hamza\)](https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Diana \(with Hamza\)](https://open.spotify.com/album/3A3EDLMrcdMWWsv2AcGgEf) | 4:09 | 2024-11-21 | 2024-12-28 |
 | [Die For You](https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Die For You](https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx) | 4:05 | 2024-03-28 | 2024-04-05 |
+| [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 | 2026-03-20 |  |
 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 | 2025-03-13 | 2025-04-11 |
 | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/album/6CkeZGNC4LSSDOHkahPgfp) | 2:21 | 2023-09-07 | 2023-09-22 |
 | [Dirtytech](https://open.spotify.com/track/6zex2L3VRNb7ESymp7fWts) | [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [DIRTYTECH](https://open.spotify.com/album/3dhzVJYhv3bt2uwAyyaCz9) | 3:33 | 2024-05-30 | 2024-06-29 |
@@ -754,7 +755,7 @@
 | [You Gonna Want Me \(I Know\)](https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [You Gonna Want Me \(I Know\)](https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN) | 3:12 | 2025-11-13 | 2025-11-21 |
 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 | 2025-10-02 | 2026-01-28 |
 | [You're The One](https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 3:20 | 2024-03-28 | 2024-05-10 |
-| [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 | 2026-02-19 |  |
+| [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 | 2026-02-19 | 2026-03-23 |
 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-09-25 | 2025-12-06 |
 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 | 2023-07-05 | 2023-11-03 |
 

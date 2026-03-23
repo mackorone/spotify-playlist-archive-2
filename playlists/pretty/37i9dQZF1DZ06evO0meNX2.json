@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 43046,
+  "num_followers": 43057,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAADLwx/D48I4AP/VyhZ+oYjX",
+  "snapshot_id": "ab3fgAAAAAAYI5/pTFYp8aVdSzpCn3jA",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dejame Dormir",
-        "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Dejame Dormir",
-      "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 267300,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejame Dormir",
+        "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Dejame Dormir",
+      "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TODO PENDEJO",
-        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190359,
-      "name": "TODO PENDEJO",
-      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 223743,
-      "name": "Habemus Conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido (En Vivo)",
         "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 214826,
       "name": "Bandido - En Vivo",
       "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Habemus Conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 198325,
-      "name": "Parque De Diversiones",
-      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mente Activa",
         "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 169216,
       "name": "Mente Activa",
       "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 198325,
+      "name": "Parque De Diversiones",
+      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 225165,
-      "name": "Una Coronita",
-      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X Amor II",
         "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
       },
@@ -907,6 +891,42 @@
       "duration_ms": 151875,
       "name": "QuesoXte",
       "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 225165,
+      "name": "Una Coronita",
+      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRAN MAESTRE II",
+        "url": "https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "EN GUERRA",
+      "url": "https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
       "duration_ms": 227004,
       "name": "El General",
       "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRAN MAESTRE II",
-        "url": "https://open.spotify.com/album/2bf3cDWnJakqDGVCawuUlF"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "EN GUERRA",
-      "url": "https://open.spotify.com/track/7s6QEYNAsZIdSoHFInfaL4"
     }
   ],
   "unique_name": "This Is Codiciado",

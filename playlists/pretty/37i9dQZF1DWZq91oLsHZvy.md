@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Let's go! 👟
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,244 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,454 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 63 | [This Head I Hold](https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 2:55 |
 | 64 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 65 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 |
-| 66 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 |
-| 67 | [Temple](https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 4:10 |
+| 66 | [Temple](https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 4:10 |
+| 67 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 |
 | 68 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 69 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
 | 70 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |

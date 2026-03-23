@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15881,
+  "num_followers": 15893,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
         "name": "Afro Vibes (2024-07-19)",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
-        "name": "R-A-B-I-A",
-        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 185210,
-      "name": "No me opongo",
-      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
       "added_at": "2026-03-20 04:59:22",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-03-20 04:59:22",
       "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2026-03-20 04:59:22",
+      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 225547,
       "name": "Un Poco Menos Idiota",
       "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
-    },
-    {
-      "added_at": "2026-03-20 04:59:22",
-      "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-03-20 04:59:22",

@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 972149,
+  "num_followers": 972406,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 235552,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
       "added_at": "2025-11-13 12:34:14",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2025-11-13 12:34:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-11-13 12:34:14",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 222120,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
-    },
-    {
-      "added_at": "2025-11-13 12:34:14",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2025-11-13 12:34:14",
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
     },
     {
       "added_at": "2025-11-13 12:34:14",

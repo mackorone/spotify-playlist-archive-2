@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,579 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,586 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 2 | [Trem Das Onze](https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Adoniran Barbosa](https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4) | 3:04 |
 | 3 | [Meu Lugar](https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 4:52 |
 | 4 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
-| 5 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
-| 6 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
+| 5 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
+| 6 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
 | 7 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
 | 8 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 |
 | 9 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 54 | [Qualquer Lugar](https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:58 |
 | 55 | [Alquimias](https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Urucungo](https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p) | 5:11 |
 | 56 | [Vaso Quebrado](https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Onze \(Músicas Inéditas de Adoniran Barbosa\)](https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF) | 3:26 |
-| 57 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 |
-| 58 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
+| 57 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
+| 58 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 |
 | 59 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
 | 60 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
 | 61 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |

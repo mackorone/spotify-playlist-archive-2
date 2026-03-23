@@ -1,6 +1,6 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 746288,
+  "num_followers": 746406,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Voluma",
         "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+      "duration_ms": 261545,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1379,22 +1363,34 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Mar\u00eda Barracuda",
-          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 280080,
-      "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
-      "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+      "duration_ms": 280080,
+      "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
+      "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+      "duration_ms": 283093,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G"
     }
   ],
   "unique_name": "Iconos del Rock Latinoamericano",

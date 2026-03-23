@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,324 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,202 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 49 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 50 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 
-Snapshot ID: `AAAAAJc1lb5EPap+rVzknUNDJqm+5Ob2`
+Snapshot ID: `AAAAADnYkjwAKDcHXw7PGwwoCdcX1u41`

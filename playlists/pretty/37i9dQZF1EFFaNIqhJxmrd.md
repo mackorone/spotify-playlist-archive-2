@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 55 | [What Are You Scared Of?](https://open.spotify.com/track/12YqybH8qHtBQPAsB8T6Z2) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 1:31 |
 | 56 | [Förlora mig](https://open.spotify.com/track/6jqfdx0A1KcpQ0jf88lxx3) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mellan hägg och syrén](https://open.spotify.com/album/5LnC7V6eorCnMISq9JAXbs) | 4:36 |
 | 57 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
-| 58 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/5BCP1OvZ2MRDVJbRafIgtS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:28 |
-| 59 | [Håll käften](https://open.spotify.com/track/6YOtzSvqCW6DXX5NRrfMZi) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 2:42 |
+| 58 | [Håll käften](https://open.spotify.com/track/6YOtzSvqCW6DXX5NRrfMZi) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 2:42 |
+| 59 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/5BCP1OvZ2MRDVJbRafIgtS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:28 |
 | 60 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 |
 | 61 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
 | 62 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 115 | [3D](https://open.spotify.com/track/2OtCO79wkJ0wGpTQqgaG1u) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [3D](https://open.spotify.com/album/0w5santyjrfiZPqul2isJn) | 1:56 |
 | 116 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcMwdAAAAABvaqp8IkuwSFx36lVPPjnE`
+Snapshot ID: `AcM2FAAAAAD1aICFsL2518ZxKRostDMh`

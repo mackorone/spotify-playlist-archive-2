@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > 30 tips voor LL25 van de Spotify curators én de Lowlands klassiekers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,640 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,642 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 39 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 40 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 41 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
-| 42 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
-| 43 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 42 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 43 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
 | 44 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 45 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 46 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |

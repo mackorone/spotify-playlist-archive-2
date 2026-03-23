@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-372 songs - 23 hr 48 min
+374 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Monster \(feat\. Olivia Olson & Half Shy\)](https://open.spotify.com/track/57scbUX9utATbRFaYUWOnE) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Half Shy](https://open.spotify.com/artist/28NLoK9veQawXX48Vq51S0), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time: Distant Lands \- Obsidian \(Original Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/7v39lRxD9KfUrhVDUG4FR5) | 1:39 | 2021-04-10 |  |
 | [Moonshine](https://open.spotify.com/track/30raivfq7rSt5nKltiHfzG) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:48 | 2021-05-13 |  |
 | [Mr\. Sunfish](https://open.spotify.com/track/0YjFF1QQ3L3dNMkXHjEXFy) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Mr\. Sunfish](https://open.spotify.com/album/0QZL9MulT1oAym3qFkzlWo) | 4:48 | 2021-05-19 |  |
+| [My Castle Town](https://open.spotify.com/track/6g0y8cpi8c9eCPfz5XvW5T) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [DELTARUNE Chapter 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/7DAiPXN3HdbktwwFzQXqrZ) | 2:07 | 2026-03-23 |  |
 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2021-07-13 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-08 |  |
 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 | 2020-12-17 |  |
@@ -365,6 +366,7 @@
 | [When You Come Home](https://open.spotify.com/track/5LS5rXcgJrOfxzdEh5xKoJ) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [1999](https://open.spotify.com/album/7fekFzT8lQv8sZjPGn7JqW) | 3:49 | 2020-08-25 |  |
 | [Where Did You Sleep Last Night \- Live](https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 5:06 | 2023-10-13 |  |
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2020-07-30 |  |
+| [white noise.](https://open.spotify.com/track/4pMRw05NXRMuO6EYfXWsf1) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 2:12 | 2026-03-23 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-19 |  |
 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/1OFQT3lHGbnn3x9jPtagXk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 4:42 | 2025-05-26 |  |
 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-18 |  |

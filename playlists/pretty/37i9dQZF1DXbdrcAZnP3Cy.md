@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,740 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,812 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 34 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
 | 35 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
 | 36 | [Sshh!!](https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:50 |
-| 37 | [El Muchacho Alegre](https://open.spotify.com/track/2jFf11yM0aRv4DrNOcJtFX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida](https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc) | 2:36 |
-| 38 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 37 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
+| 38 | [El Muchacho Alegre](https://open.spotify.com/track/2jFf11yM0aRv4DrNOcJtFX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida](https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc) | 2:36 |
 | 39 | [El Coco No](https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:56 |
 | 40 | [Cahuates, Pistaches](https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Cahuates, Pistaches](https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy) | 2:57 |
 | 41 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 |

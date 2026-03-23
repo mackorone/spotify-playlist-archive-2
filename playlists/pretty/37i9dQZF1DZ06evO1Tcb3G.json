@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 518736,
+  "num_followers": 518788,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAAm0KEErzqVHzo0Lh9eFZ1P",
+  "snapshot_id": "ab3fgAAAAAC2viwjm0iIRshZr5R/6Fr5",
   "tracks": [
     {
       "added_at": null,
@@ -263,38 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Wilder Mind",
-      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Run Together",
-      "url": "https://open.spotify.com/track/7fR3gC4g2NVA16DKCRJr9M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
@@ -319,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 307853,
-      "name": "Hopeless Wanderer",
-      "url": "https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp"
+      "duration_ms": 219053,
+      "name": "Run Together",
+      "url": "https://open.spotify.com/track/7fR3gC4g2NVA16DKCRJr9M"
     },
     {
       "added_at": null,
@@ -344,15 +312,15 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ditmas",
-      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -360,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Alleycat",
-      "url": "https://open.spotify.com/track/6JleMHKhuoAHMq6Ureh6FM"
+      "duration_ms": 307853,
+      "name": "Hopeless Wanderer",
+      "url": "https://open.spotify.com/track/15Mn23dCmLw75foEgfBIOp"
     },
     {
       "added_at": null,
@@ -383,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Alleycat",
+      "url": "https://open.spotify.com/track/6JleMHKhuoAHMq6Ureh6FM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ditmas",
+      "url": "https://open.spotify.com/track/0XWfxQBDCKR7FTxBAENYXV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 208933,
       "name": "Babel",
       "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 339720,
       "name": "Ghosts That We Knew",
       "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3vcS9nbyzS0KAqZUwL8WKX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indomable",
         "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 271025,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/3VlUqZCeXUssbRSb536N7C"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

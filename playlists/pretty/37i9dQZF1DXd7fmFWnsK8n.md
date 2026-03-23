@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,124 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,122 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 17 | [Polished](https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [Polished](https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA) | 4:29 |
 | 18 | [Heart to Heart](https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Heart to Heart](https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck) | 3:53 |
 | 19 | [I believe in...](https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [I believe in...](https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB) | 3:45 |
-| 20 | [Welcome, Future World!!!](https://open.spotify.com/track/5ueuFrqiH2VR9yJDSeoXED) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH), [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:18 |
+| 20 | [Dancing∞BEAT!!](https://open.spotify.com/track/16uBIBXoHbN9fIMLgDIKoP) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:47 |
 | 21 | [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 |
 | 22 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 |
 | 23 | [Happy Days Creation!](https://open.spotify.com/track/1UBgvGnsffYyMD9UTkXkvq) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [アイドリッシュセブン Collection Album vol.2](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 5:04 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 65 | [午前4時のDusty Love](https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [午前4時のDusty Love](https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd) | 4:34 |
 | 66 | [My Friend](https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [My Friend](https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB) | 4:16 |
 | 67 | [三日月のヴェール](https://open.spotify.com/track/3XxSDMRiO7kbduxl4viXZs) | [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c) | [三日月のヴェール](https://open.spotify.com/album/6oZyRXkgaSStGoeuiC1ezc) | 5:20 |
-| 68 | [Pieces of The World](https://open.spotify.com/track/5cfhxHtdKdt809M45XYzyl) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH), [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:54 |
+| 68 | [Joker Flag](https://open.spotify.com/track/02OQ0YqKcvzeXLvq27Tv3j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:42 |
 | 69 | [BEAUTIFUL PRAYER](https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:25 |
 | 70 | [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 |
 

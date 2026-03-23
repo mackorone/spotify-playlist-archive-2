@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuran şarkılar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,200 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,191 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 34 | [Buzlu Cam](https://open.spotify.com/track/23KXlmrRHlhSM6iDNZ8gY4) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Buzlu Cam](https://open.spotify.com/album/3ElEbr56YR4TRjqLM38G8p) | 2:46 |
 | 35 | [Sahte Dualar](https://open.spotify.com/track/3bUkBCbcOg787J2jEp3lN7) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Sahte Dualar](https://open.spotify.com/album/2NHiHNUsDwEW49Y5ss910e) | 3:30 |
 | 36 | [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 |
-| 37 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 |
-| 38 | [AFACAN](https://open.spotify.com/track/4wcgZ4tW9FJIf7npjESE72) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [AFACAN](https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR) | 2:12 |
+| 37 | [AFACAN](https://open.spotify.com/track/4wcgZ4tW9FJIf7npjESE72) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [AFACAN](https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR) | 2:12 |
+| 38 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 |
 | 39 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
 | 40 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
 | 41 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 |
 | 42 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 |
-| 43 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
-| 44 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 |
-| 45 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |
+| 43 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 |
+| 44 | [Max](https://open.spotify.com/track/7lRMajzI2xa34EQg2SKecS) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Max](https://open.spotify.com/album/30xEU4sNXkYHvtSIiM8uUV) | 3:49 |
+| 45 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 |
 | 46 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 |
 | 47 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 |
 | 48 | [Aşkına Destan](https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşkına Destan](https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj) | 2:54 |

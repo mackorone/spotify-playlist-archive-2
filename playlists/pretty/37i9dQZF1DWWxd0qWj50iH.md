@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,736 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,696 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 35 | [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 |
 | 36 | [Piece Of Shit](https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:48 |
 | 37 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
-| 38 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
-| 39 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
+| 38 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
+| 39 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 40 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 41 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 |
 | 42 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 49 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
 | 50 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
 | 51 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
-| 52 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
-| 53 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
+| 52 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
+| 53 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
 | 54 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
 | 55 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 56 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 69 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 |
 | 70 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
 | 71 | [Only Love Can Wait](https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:24 |
-| 72 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
-| 73 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
+| 72 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
+| 73 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
 | 74 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
 | 75 | [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 |
 | 76 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 88 | [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 |
 | 89 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 |
 | 90 | [Meet Me At The Record Store](https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Meet Me At The Record Store](https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8) | 3:53 |
-| 91 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |
-| 92 | [Now You're Moving](https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Now You're Moving](https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8) | 2:37 |
+| 91 | [Now You're Moving](https://open.spotify.com/track/78t96HOEIl6AkTyzOh6k99) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Now You're Moving](https://open.spotify.com/album/2lbmETphNRANiKtRiSu7K8) | 2:37 |
+| 92 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |
 | 93 | [homesickness](https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:33 |
 | 94 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
 | 95 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,217 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,249 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 13 | [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 |
 | 14 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 |
 | 15 | [La Internacional](https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Internacional](https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs) | 2:39 |
-| 16 | [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 |
-| 17 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
+| 16 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
+| 17 | [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 |
 | 18 | [Crónicas De Mi Guitarra](https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:01 |
 | 19 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
 | 20 | [Para Ser Respetado](https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Cristian Rey](https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Cristian Rey](https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j) | 2:26 |
 | 50 | [ALFA Y OMEGA](https://open.spotify.com/track/314qc7qcc4idg1dvP6estp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [ALFA Y OMEGA](https://open.spotify.com/album/3wo8txPsFDPdlIIPd3ZghE) | 3:10 |
 
-Snapshot ID: `abyOAAAAAACW+PPewaZEaTxJy46LqaRL`
+Snapshot ID: `ab3fgAAAAADlZpaGb7no0/1hgQ8qt8oa`

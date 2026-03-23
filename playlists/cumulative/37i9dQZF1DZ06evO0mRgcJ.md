@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 17 min
+98 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Me Dicen E](https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Los Del Area](https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 | 2024-01-29 |  |
 | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Me Tuve Que Pelar Pa Culiacán](https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR) | 3:31 | 2024-01-29 |  |
 | [Me Veran Contento \(Happy\)](https://open.spotify.com/track/0GvDKP9zy2Zpj7Dl3J9GJu) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:45 | 2024-01-29 | 2024-12-03 |
+| [Mr\. Make It Happen](https://open.spotify.com/track/4Dyht9NcFwLHZG1uxUmWnI) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Make It Happen](https://open.spotify.com/album/4CwKfeFdH5rzGirruzHGOv) | 3:48 | 2026-03-23 |  |
 | [Mr\. Seal The Deal](https://open.spotify.com/track/2IJX1dBzsM09wga4cpivNB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mr\. Seal The Deal](https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly) | 4:35 | 2024-01-29 |  |
 | [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 | 2024-03-23 |  |
 | [NOS ACOPLAMOS MACIZO](https://open.spotify.com/track/6uCvstfQgLatfcz8y87W2x) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:46 | 2024-04-30 | 2024-05-22 |
@@ -101,7 +102,7 @@
 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 | 2024-01-29 |  |
 | [Todo a la Sorda](https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Clave 602](https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS) | [Todo a la Sorda](https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa) | 3:17 | 2025-09-29 |  |
 | [Turbo Cheyenne \(En Vivo\)](https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:36 | 2024-10-16 | 2025-10-27 |
-| [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 |  |
+| [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 | 2026-03-23 |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |
 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 | 2024-01-29 | 2024-07-27 |
 | [Z.B.Z.A](https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Z.B.Z.A](https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN) | 2:54 | 2024-07-27 |  |

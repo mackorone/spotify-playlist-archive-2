@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,566 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,585 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

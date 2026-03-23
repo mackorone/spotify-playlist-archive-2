@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6wovS7exdnjHhyYZxYK4b5">Niall Horan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 3 hr 15 min
+58 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Change Your Ticket](https://open.spotify.com/track/2skzofTV9Ys3eN70pghEHL) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:26 | 2024-06-07 |  |
 | [Cross Your Mind](https://open.spotify.com/track/7B0jvve829GGdU5kFttQTY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:48 | 2024-06-07 |  |
 | [Dear Patience](https://open.spotify.com/track/0gwfuYQz0TauOajxH2V2Cn) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:14 | 2024-06-07 |  |
+| [Dinner Party](https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT) | 2:34 | 2026-03-22 |  |
 | [Don't Forget Where You Belong](https://open.spotify.com/track/3yhVmOZSpZqnhRrEiYI0EJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:01 | 2024-06-07 |  |
 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 | 2025-03-30 |  |
 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 | 2024-06-07 |  |

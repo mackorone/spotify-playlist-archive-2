@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158124,
+  "num_followers": 158129,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "En dr\u00f8m om et menneske",
-        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Et sted hvor vi de f\u00f8rste",
-        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Gav Det Et Skud",
         "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1111,6 +1095,22 @@
       "duration_ms": 162585,
       "name": "\u00c5boulevarden",
       "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 201086,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Rockabye (Acoustic)",
-        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
+        "name": "A Beautiful Real Life",
+        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 157466,
-      "name": "Rockabye - Acoustic Version",
-      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+      "duration_ms": 175040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "A Beautiful Real Life",
-        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
+        "name": "Rockabye (Acoustic)",
+        "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
       "artists": [
         {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 175040,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
+      "duration_ms": 157466,
+      "name": "Rockabye - Acoustic Version",
+      "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Be Real",
         "url": "https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 226222,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Lukas Graham (Blue Album)",
-        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "What Happened To Perfect",
-      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Over Broen",
         "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 185197,
       "name": "Over Broen",
       "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Lukas Graham (Blue Album)",
+        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "What Happened To Perfect",
+      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
+        "name": "P\u00e6n",
+        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 190300,
+      "name": "P\u00e6n",
+      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
         "name": "Be Kind (with Halsey) [Stripped]",
         "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
-        "name": "P\u00e6n",
-        "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 190300,
-      "name": "P\u00e6n",
-      "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Hey Ya!",
-        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
-      },
-      "artists": [
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
-        }
-      ],
-      "duration_ms": 214689,
-      "name": "Hey Ya! - Acoustic",
-      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Hey Honey (fra filmen Honey)",
         "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 182708,
       "name": "Hey Honey (fra filmen Honey)",
       "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
+      },
+      "artists": [
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+        }
+      ],
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     },
     {
       "added_at": "2026-03-02 11:57:28",

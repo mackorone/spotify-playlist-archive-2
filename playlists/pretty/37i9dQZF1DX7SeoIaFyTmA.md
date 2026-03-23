@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506,568 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,507,009 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 24 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
 | 25 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 26 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
-| 27 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
-| 28 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
+| 27 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
+| 28 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 29 | [Un Montón de Estrellas](https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Viceversa](https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX) | 4:33 |
 | 30 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 31 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |

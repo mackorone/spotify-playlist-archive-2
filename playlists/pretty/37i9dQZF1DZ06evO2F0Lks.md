@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,906 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,908 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 25 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
 | 26 | [Because He Lives](https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:47 |
 | 27 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 |
-| 28 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:07 |
-| 29 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
+| 28 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
+| 29 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:07 |
 | 30 | [Nothing But The Blood Of Jesus](https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:30 |
 | 31 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
 | 32 | [Just a Dream](https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 42 | [Love Wins](https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:48 |
 | 43 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
 | 44 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
-| 45 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
+| 45 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:19 |
 | 46 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
-| 47 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:19 |
+| 47 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 48 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 | 49 | [If I Can Dream \(from the NBC Elvis All\-Star Tribute\)](https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [The Best of The '68 Comeback Special \(Live\)](https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01) | 3:10 |
 | 50 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 |
 
-Snapshot ID: `abyOAAAAAAByvnO2P6ZF3pCbIVGe00g8`
+Snapshot ID: `ab3fgAAAAACkRKZZHq1EnCJvwHcAw1jh`

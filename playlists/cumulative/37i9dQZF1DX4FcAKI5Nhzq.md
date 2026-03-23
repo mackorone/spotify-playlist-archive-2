@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: LATENCY \(레이턴시\)\)
 
-1,618 songs - 3 day 14 hr 46 min
+1,619 songs - 3 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-09 | 2025-10-21 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-14 | 2024-06-13 |
 | [Body Language](https://open.spotify.com/track/4fEjJ11rArx86tbQsQTYY9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Body Language](https://open.spotify.com/album/0MSgmHVfSLarMx6EqKV42V) | 2:53 | 2025-10-13 | 2025-11-11 |
+| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-23 |  |
 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 | 2025-01-10 | 2025-03-28 |
 | [Bomb Bomb Bomb](https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL) | [MYTRO](https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ) | [LOVESTRUCK SISTERS Episode 5](https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M) | 3:27 | 2024-12-04 | 2025-03-19 |
 | [BOMBA](https://open.spotify.com/track/4UOhWJXihWNNNaDwGSUSqP) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BOMBA](https://open.spotify.com/album/1e56g1NQaBAfERtl7az1n7) | 2:39 | 2025-08-04 | 2025-09-13 |

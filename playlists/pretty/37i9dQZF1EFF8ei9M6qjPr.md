@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 172 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 172 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 26 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 |
 | 27 | [You Feel Like](https://open.spotify.com/track/1sa6exP6ZJyABlnh1BqB0n) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [You Feel Like](https://open.spotify.com/album/3iIBzlYmVim0NepaUlu9yS) | 3:15 |
 | 28 | [Cool Kids](https://open.spotify.com/track/3zBBmQa8L6gCCT8OdptVOi) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/1MsuHTwmnG7Wn2ZQcMp4Uv) | 2:12 |
-| 29 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 |
-| 30 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 29 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 30 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 |
 | 31 | [Freak Like That](https://open.spotify.com/track/2Pe1BR1o0uRKzPizuQIZg9) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/2pF4mstJq6V5FVYVYDohyn) | 2:15 |
 | 32 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
 | 33 | [Cannon Beach](https://open.spotify.com/track/1SBvncos8PcOY8bOHWhw1U) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/4P0aLF8ud7ngqUofnVzlev) | 2:52 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 79 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 |
 | 80 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
 | 81 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
-| 82 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
-| 83 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
+| 82 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
+| 83 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
 | 84 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
 | 85 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
 | 86 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 99 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 |
 | 100 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 |
 | 101 | [How it is](https://open.spotify.com/track/6mnntj1xL8zEk5iiEcJGjk) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:41 |
-| 102 | [Hollow](https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hollow](https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ) | 2:54 |
-| 103 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 102 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 103 | [Hollow](https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hollow](https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ) | 2:54 |
 | 104 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
 | 105 | [Supernova](https://open.spotify.com/track/2Tb9VdP35jbF4GJmC869uu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:28 |
 | 106 | [Tight Rope](https://open.spotify.com/track/5NeLJqVbSo5hhrxBSuLhRY) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 3:05 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 140 | [WAKEY WAKEY](https://open.spotify.com/track/0xVgfhlmU1mHDPhRGNVVMn) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [PLANET JACK](https://open.spotify.com/album/3nMnDEbKFoufD684EhM1Y1) | 2:26 |
 | 141 | [LIGHTS BACK ON](https://open.spotify.com/track/0VLRHa8pl79TqRfmuGD7ly) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/0A3cUs6VsAhn5EYvqrQgRm) | 2:53 |
 | 142 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
-| 143 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
-| 144 | [Knock The Wind](https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Magazine](https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3) | 3:33 |
+| 143 | [Knock The Wind](https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [The Magazine](https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3) | 3:33 |
+| 144 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
 | 145 | [All My Ex's](https://open.spotify.com/track/1D9HySmrMmDpnO09YULRKn) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/2pldgbDknZppba2I0qhQyS) | 2:24 |
 | 146 | [closer to thirty](https://open.spotify.com/track/5XL8G3q7SK2HLagmg9d2Y2) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [could the grass be greener](https://open.spotify.com/album/6OIa4oByf8NH0vfKTfM9bX) | 2:24 |
 | 147 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 171 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 172 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcMwVgAAAAAmupzpHFOdiRicG/AF5ABc`
+Snapshot ID: `AcM19gAAAACB3iVv/TEpqtALWMvp66wk`

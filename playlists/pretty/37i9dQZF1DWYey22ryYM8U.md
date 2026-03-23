@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Las más pegadas\. Cover: Alleh & Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,251 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,232 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 30 | [El Niágara en Bicicleta](https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 4:25 |
 | 31 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 |
 | 32 | [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 |
-| 33 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 |
-| 34 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
+| 33 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
+| 34 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 |
 | 35 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 |
 | 36 | [DROGA](https://open.spotify.com/track/18D0Za12EKUYklBQaJlaDP) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [DROGA](https://open.spotify.com/album/1ZhB52tistanq5hqLu1dsC) | 3:42 |
 | 37 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 157135,
+  "num_followers": 157160,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAABwLQ3XsRDB7LDBysCVD5W7",
+  "snapshot_id": "ab3fgAAAAABy3IEUtaGYLWqRxIZ0D8r3",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 220992,
-      "name": "Somebody\u2019s Son",
-      "url": "https://open.spotify.com/track/678lV7wa2AgviB6saK3NJC"
+      "duration_ms": 213333,
+      "name": "There Goes My Heart",
+      "url": "https://open.spotify.com/track/3UndDLgqFJQjSjX2lk7gNc"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 213333,
-      "name": "There Goes My Heart",
-      "url": "https://open.spotify.com/track/3UndDLgqFJQjSjX2lk7gNc"
+      "duration_ms": 220992,
+      "name": "Somebody\u2019s Son",
+      "url": "https://open.spotify.com/track/678lV7wa2AgviB6saK3NJC"
     },
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Waste My Time (feat. Ella Mai)",
-        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
       "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Don't Waste My Time (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
+      "duration_ms": 191981,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+        "name": "Don't Waste My Time (feat. Ella Mai)",
+        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
       },
       "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 191981,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
+      "duration_ms": 199720,
+      "name": "Don't Waste My Time (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
       "added_at": null,

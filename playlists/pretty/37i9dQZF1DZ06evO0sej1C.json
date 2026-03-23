@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45705,
+  "num_followers": 45711,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abyOAAAAAAD0lo69/1Q2J0zWa9TcJrDA",
+  "snapshot_id": "ab3fgAAAAAD3WcwwFQWUYrzvZLHbln+5",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los de la A",
         "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 226813,
       "name": "Los de la A",
       "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,
@@ -1159,22 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
     },
     {
       "added_at": null,
@@ -1223,22 +1223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW DE KBRONA",
-        "url": "https://open.spotify.com/album/2455udYuceypufLWw5LnWn"
+        "name": "10 de Febrero",
+        "url": "https://open.spotify.com/album/5PQTUOATQ9x8NvkvsUMNlu"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Lady Yeska",
-          "url": "https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J"
         }
       ],
-      "duration_ms": 246213,
-      "name": "FLOW DE KBRONA",
-      "url": "https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD"
+      "duration_ms": 160000,
+      "name": "10 de Febrero",
+      "url": "https://open.spotify.com/track/2a7MTiYPKvG1rIhnXvTBGo"
     }
   ],
   "unique_name": "This Is Yoss Bones",

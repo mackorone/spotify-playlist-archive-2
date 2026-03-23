@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: U2",
-  "num_followers": 608460,
+  "num_followers": 608629,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 212224,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Black Sabbath",
-        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 262493,
-      "name": "The Wizard - 2009 Remaster",
-      "url": "https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell...",
         "url": "https://open.spotify.com/album/4yIGqIF5oroPCLDUOOLYSO"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 721000,
       "name": "I'd Do Anything For Love (But I Won't Do That)",
       "url": "https://open.spotify.com/track/4UrgDocbHywDZv2f3mBhCq"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262493,
+      "name": "The Wizard - 2009 Remaster",
+      "url": "https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH"
     }
   ],
   "unique_name": "Legends Only",

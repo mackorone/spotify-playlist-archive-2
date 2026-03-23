@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 102812,
       "name": "Cumulative Resolution",
       "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
@@ -602,6 +602,24 @@
       "duration_ms": 245311,
       "name": "Problem of No Name",
       "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
+    },
+    {
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "Soft Fold 3/4",
+      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
     },
     {
       "album": {

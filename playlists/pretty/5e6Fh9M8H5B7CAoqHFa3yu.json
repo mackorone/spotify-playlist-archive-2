@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 285,
+  "num_followers": 288,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIsojpLsrj62sD5wi8D1Y8XjmG6Owj",
+  "snapshot_id": "AAAItClZbqbcKLMCmKkL8WdsbMTihYR5",
   "tracks": [
     {
       "added_at": "2026-03-18 17:33:09",
@@ -339,6 +339,26 @@
       "duration_ms": 242823,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0Oi5hWNh0txuqGESiMTvIP"
+    },
+    {
+      "added_at": "2026-03-22 19:07:53",
+      "album": {
+        "name": "Meccanismo Perfetto (Dub Remix)",
+        "url": "https://open.spotify.com/album/2eWP6mrgPk0FbmzbQ4TEJu"
+      },
+      "artists": [
+        {
+          "name": "SAM D",
+          "url": "https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr"
+        },
+        {
+          "name": "NO FINGER NAILS",
+          "url": "https://open.spotify.com/artist/4USv2qdLCmNXDvyEW65HI6"
+        }
+      ],
+      "duration_ms": 239206,
+      "name": "Meccanismo Perfetto - Dub Remix",
+      "url": "https://open.spotify.com/track/7AkQ5kYj7RaHMBGWtFiWVU"
     },
     {
       "added_at": "2026-03-15 11:17:37",

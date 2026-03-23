@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 719 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 19 | [Then People Forget](https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 | 20 | [My Every Step](https://open.spotify.com/track/17AB8UiKW3MO4euoJQEofd) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 2:16 |
 | 21 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
-| 22 | [I got Punched in the Face, What's your Excuse](https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
-| 23 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
+| 22 | [Winona Ryder](https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 4:14 |
+| 23 | [I got Punched in the Face, What's your Excuse](https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 
-Snapshot ID: `abyOAAAAAADDm+cKEIXgAIREVbvZ43Kh`
+Snapshot ID: `ab3fgAAAAAAgLa3qNszQI6gmQkyoge6z`

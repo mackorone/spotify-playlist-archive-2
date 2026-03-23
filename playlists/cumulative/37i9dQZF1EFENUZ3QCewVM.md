@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 9 hr 30 min
+182 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Star Eyes](https://open.spotify.com/track/5VOkq29IztFzuyAfX6tpVd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:30 | 2026-01-01 |  |
 | [Star Eyes](https://open.spotify.com/track/79K7gAnr86c6ry9NEd5sXE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:30 | 2025-07-20 | 2026-01-02 |
 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 | 2024-02-27 |  |
+| [Tell Me That Won’t Happen](https://open.spotify.com/track/7c5YVWsteCV11zlhLBPAFT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [luck..\. or something](https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME) | 3:36 | 2026-03-22 |  |
 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 | 2024-02-27 |  |
 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 | 2024-02-27 |  |
 | [The End](https://open.spotify.com/track/4ZaGaxFe7JVFkhejHgB75M) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:38 | 2024-02-27 | 2025-08-08 |

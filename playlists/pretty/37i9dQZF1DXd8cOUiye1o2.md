@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Get ready to witness the sound of revenge! 'Aari Aari' from Dhurandhar The Revenge is out\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,551 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,751 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

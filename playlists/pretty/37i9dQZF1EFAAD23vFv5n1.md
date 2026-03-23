@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 78 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 |
 | 79 | [Meme](https://open.spotify.com/track/0HDd2Dr0EgG4OTscPj0j8b) | [Pit](https://open.spotify.com/artist/1XYLhPfCgCrK5pwlWw0yv5) | [Meme](https://open.spotify.com/album/3rMPypJTVchGYNBUdu7kJM) | 2:27 |
 | 80 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
-| 81 | [martedì](https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:42 |
-| 82 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
+| 81 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 |
+| 82 | [martedì](https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:42 |
 | 83 | [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 |
 | 84 | [ILY](https://open.spotify.com/track/3xNSenRNckAgpYwgUmCraR) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 2:50 |
 | 85 | [Persi da un po’](https://open.spotify.com/track/4Gzp0NEQyFu41MmC2ig7EG) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 4:33 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 159 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 160 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcMwVgAAAACGZsNS3JdjxUbwY0NhQ5Q1`
+Snapshot ID: `AcM19gAAAAADXnfkWMO6piJXgaEH2WJs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk kamu dan teman\-temanmu yang paling ngejar sehat
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,409 likes - 94 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,402 likes - 94 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

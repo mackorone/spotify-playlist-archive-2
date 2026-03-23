@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,593 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,592 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 7 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 8 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 9 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 |
-| 10 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
-| 11 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
+| 10 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
+| 11 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 12 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
 | 13 | [Sophie](https://open.spotify.com/track/42mIYumsqOjiAdj2DZFkeF) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/5IbjvCuVMchAsoXKOvVrof) | 5:04 |
 | 14 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 58 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
 | 59 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 60 | [Hold Your Head Up High](https://open.spotify.com/track/7nxIBClhF3MK4aYC7TiCWy) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 3:37 |
-| 61 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
-| 62 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
+| 61 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
+| 62 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 63 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 |
 | 64 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/7L4w1yQnlhqo4oUjpW53wz) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Dear](https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ) | 3:48 |
 | 65 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 72 | [Young Man](https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA) | 4:06 |
 | 73 | [Snowden's Jig \(Genuine Negro Jig\)](https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:52 |
 | 74 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
-| 75 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
-| 76 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 |
+| 75 | [Just One of the Guys](https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 3:51 |
+| 76 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
 | 77 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 78 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
 | 79 | [Violent Shiver](https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 2:46 |
-| 80 | [Steady](https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:28 |
-| 81 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
+| 80 | [Blue Ridge Mountain](https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO) | 2:33 |
+| 81 | [Steady](https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:28 |
 | 82 | [Tried to Tell You](https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 3:38 |
 | 83 | [Kansas City](https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:04 |
 | 84 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 94 | [I Wish I Wish](https://open.spotify.com/track/02d7m51SjPVO2RU8i1sgwN) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Bright Sunny South](https://open.spotify.com/album/6HahUp9v0Hb4Aj1U07n8hC) | 2:47 |
 | 95 | [To Ohio](https://open.spotify.com/track/6Es3Z9JmH7yd2HFWC77LpK) | [The Low Anthem](https://open.spotify.com/artist/27aJr79YUyfK5ZrcFxF5u0) | [Oh My God Charlie Darwin \(Standard\)](https://open.spotify.com/album/0c5QNW9WIf9fU665cHKYYV) | 3:17 |
 | 96 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
-| 97 | [Old Friend](https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Old World Romance](https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo) | 3:57 |
-| 98 | [Follow You Anywhere](https://open.spotify.com/track/5aSOq5UQi3zpQ4VwqpQa4n) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:52 |
-| 99 | [Hurtin' \(On the Bottle\)](https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:12 |
-| 100 | [Til It Breaks](https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Til It Breaks](https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC) | 3:21 |
+| 97 | [Follow You Anywhere](https://open.spotify.com/track/5aSOq5UQi3zpQ4VwqpQa4n) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:52 |
+| 98 | [Old Friend](https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Old World Romance](https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo) | 3:57 |
+| 99 | [Til It Breaks](https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Til It Breaks](https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC) | 3:21 |
+| 100 | [Hurtin' \(On the Bottle\)](https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:12 |
 
 Snapshot ID: `AAAAAAM1+J444Z4NurUkjYrgJspSmlMj`

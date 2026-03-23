@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Wijaya 80, Sal Priadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,592 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,600 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

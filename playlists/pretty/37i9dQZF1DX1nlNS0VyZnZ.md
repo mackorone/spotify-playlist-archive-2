@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,659 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,709 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
-| 2 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
+| 1 | [Las Avispas](https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO) | 3:17 |
+| 2 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
 | 3 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 4 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 5 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 38 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 39 | [El Niágra En Bicicleta \- Live \- Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 4:31 |
 | 40 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
-| 41 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 42 | [Un Idiota](https://open.spotify.com/track/0DytMjpDw0CjYfAG63VCwT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Para Siempre](https://open.spotify.com/album/6mAkgcHgvfl78vZcCgmBdq) | 3:52 |
-| 43 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
+| 41 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
+| 42 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 43 | [Un Idiota](https://open.spotify.com/track/0DytMjpDw0CjYfAG63VCwT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Para Siempre](https://open.spotify.com/album/6mAkgcHgvfl78vZcCgmBdq) | 3:52 |
 | 44 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/5562EZVkcwO43I03C29RuK) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:28 |
 | 45 | [Tú la Tienes Que Pagar](https://open.spotify.com/track/2pC54mCj01CmR3YkxYoExe) | [Natusha](https://open.spotify.com/artist/1iDIWeJHxy6KidPCpipUfO) | [La Historia Musical](https://open.spotify.com/album/6gOPEuSZPpv9cfipkpu2iS) | 4:25 |
-| 46 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
-| 47 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 |
-| 48 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 46 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 47 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 |
+| 48 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 |
 | 49 | [La Faldita](https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi y Su Cocoband](https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL) | 3:50 |
-| 50 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
+| 50 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
 
 Snapshot ID: `AAAAAHQEz4EDwg6w1e+VaSxUOI5VVWXd`

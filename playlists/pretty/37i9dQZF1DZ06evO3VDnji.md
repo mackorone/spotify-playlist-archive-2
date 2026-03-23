@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,388 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,392 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 14 | [YA NO ESTÁS](https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [YA NO ESTÁS](https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6) | 4:22 |
 | 15 | [Mi Otra Mitad](https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 2:51 |
 | 16 | [Me Haces Falta](https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:30 |
-| 17 | [SiNKRONiZAMOS](https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 3:19 |
-| 18 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
+| 17 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
+| 18 | [SiNKRONiZAMOS](https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 3:19 |
 | 19 | [Enseñame](https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:49 |
 | 20 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 21 | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/track/0Xe7TQSVYiVaEDp5wowgsa) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY \(feat\. Sheeno\)](https://open.spotify.com/album/3YSe6mMaoDQivChU76JHlh) | 2:35 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 36 | [ATRAPADO](https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:03 |
 | 37 | [Nos Pertenecemos](https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c) | 3:05 |
 | 38 | [no\_pasa\_nada\_demo.wav](https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:34 |
-| 39 | [¿QUÉ SUCEDIÓ?](https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 4:19 |
-| 40 | [Distinto](https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Distinto](https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7) | 2:45 |
-| 41 | [Nuestro Pasado](https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:31 |
-| 42 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
+| 39 | [Distinto](https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Distinto](https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7) | 2:45 |
+| 40 | [¿QUÉ SUCEDIÓ?](https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 4:19 |
+| 41 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
+| 42 | [Nuestro Pasado](https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:31 |
 | 43 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 44 | [Viaje de Amor](https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 5:10 |
-| 45 | [Me Decepcionaste](https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:59 |
+| 44 | [Me Decepcionaste](https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:59 |
+| 45 | [Viaje de Amor](https://open.spotify.com/track/5EVQSWPcTZxOf8OlKKYrqM) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 5:10 |
 | 46 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
 | 47 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
-| 48 | [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
-| 49 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 |
+| 48 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 |
+| 49 | [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
 | 50 | [BALENCIAGA](https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:25 |
 
-Snapshot ID: `abyOAAAAAACTheBM49vfnnQo7FZbu2OR`
+Snapshot ID: `ab3fgAAAAABetGt762jF2ayEqXc1t+J/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,305 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,306 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 32 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 33 | [Sing My Name](https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR) | 3:34 |
 | 34 | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt) | 3:39 |
-| 35 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
-| 36 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
+| 35 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
+| 36 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
 | 37 | [Players](https://open.spotify.com/track/4rxPLU1Xvz61CUOckR6utg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S) | 3:39 |
 | 38 | [Magbe \(feat\. Patoranking\)](https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Alagbe](https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn) | 2:53 |
 | 39 | [Credit Alert](https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Credit Alert](https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [One Love](https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 2:33 |
 | 50 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
 
-Snapshot ID: `abyOAAAAAAAQFc1qvCXm4bcCJvxg06Ue`
+Snapshot ID: `ab3fgAAAAABgMTCQcwyhNs9xN8wqwgne`

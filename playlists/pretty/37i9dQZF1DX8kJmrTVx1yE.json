@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 142714,
+  "num_followers": 142720,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "La Vida Es Un Ratico",
-        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -803,6 +787,38 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Nek (spanish version)",
         "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 205800,
       "name": "Pies Descalzos, Sue\u00f1os Blancos",
       "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
         }
       ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
       "artists": [
         {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Sinverguenza",
-        "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+        "name": "Sinverguenza",
+        "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
       },
       "artists": [
         {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+      "duration_ms": 235893,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1427,6 +1411,22 @@
       "duration_ms": 256133,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2024-06-12 22:54:20",

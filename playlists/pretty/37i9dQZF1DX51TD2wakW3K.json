@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 2709,
+  "num_followers": 2910,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 232040,
       "name": "Free Money",
       "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "DOOMTOWN",
-        "url": "https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y"
-      },
-      "artists": [
-        {
-          "name": "NOBRO",
-          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
-        }
-      ],
-      "duration_ms": 198966,
-      "name": "DOOMTOWN",
-      "url": "https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Ride Your Heart",
         "url": "https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 137440,
       "name": "Looking for A Fight",
       "url": "https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "DOOMTOWN",
+        "url": "https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "duration_ms": 198966,
+      "name": "DOOMTOWN",
+      "url": "https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC"
     },
     {
       "added_at": "2026-03-05 23:16:41",

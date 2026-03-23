@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 
 > This is Jamiroquai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,444 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,511 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 5 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
 | 6 | [Alright \- Remastered 2013](https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:23 |
 | 7 | [Cloud 9](https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 3:56 |
-| 8 | [Talullah](https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 6:02 |
+| 8 | [Space Cowboy \(Classic Radio\)](https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Space Cowboy \(Remixes\)](https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7) | 4:03 |
 | 9 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
-| 10 | [Space Cowboy \(Classic Radio\)](https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Space Cowboy \(Remixes\)](https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7) | 4:03 |
+| 10 | [Talullah](https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 6:02 |
 | 11 | [Everyday \- Remastered 2013](https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:28 |
 | 12 | [Falling](https://open.spotify.com/track/7K8GcdnDHcGKa5pYmhg5k6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 3:45 |
 | 13 | [Love Foolosophy \- Radio Edit](https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 |
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 26 | [Runaway \- Remastered 2006](https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:46 |
 | 27 | [Half the Man](https://open.spotify.com/track/52MqoTJ6kT0h8JTe5rjpG5) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 4:49 |
 | 28 | [Picture of My Life](https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:44 |
-| 29 | [Dynamite](https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:55 |
-| 30 | [Emergency on Planet Earth](https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:05 |
-| 31 | [Stillness in Time](https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 4:16 |
-| 32 | [Drifting Along \- Remastered 2013](https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:05 |
+| 29 | [Emergency on Planet Earth](https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:05 |
+| 30 | [Dynamite](https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:55 |
+| 31 | [Drifting Along \- Remastered 2013](https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:05 |
+| 32 | [Stillness in Time](https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 4:16 |
 | 33 | [Corner of the Earth](https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:38 |
 | 34 | [If I Like It, I Do It](https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:52 |
-| 35 | [Automaton](https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:47 |
-| 36 | [High Times \- Remastered 2013](https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 6:00 |
+| 35 | [High Times \- Remastered 2013](https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 6:00 |
+| 36 | [Automaton](https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 4:47 |
 | 37 | [Deeper Underground \- Full Version](https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Synkronized](https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv) | 4:46 |
 | 38 | [Hot Tequila Brown](https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:38 |
 | 39 | [Manifest Destiny](https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [The Return of the Space Cowboy \(Remastered\)](https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk) | 6:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YvhXa.md) - [plain]
 | 49 | [Feel So Good](https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:21 |
 | 50 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 |
 
-Snapshot ID: `abyOAAAAAAAZMZ6V7ZaCVjFIRziLzn0q`
+Snapshot ID: `ab3fgAAAAABbh0vRjQa9pO8hQLX/ylCY`

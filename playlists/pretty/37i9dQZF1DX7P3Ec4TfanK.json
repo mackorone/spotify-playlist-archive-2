@@ -1,6 +1,6 @@
 {
   "description": "\u2615 \ud83d\udcaa\ud83c\udf73\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u2600\ufe0f",
-  "num_followers": 398760,
+  "num_followers": 398726,
   "original_name": "Morning Routine",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "uomo che cade",
-        "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
-      },
-      "artists": [
-        {
-          "name": "Tredici Pietro",
-          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
-        }
-      ],
-      "duration_ms": 217458,
-      "name": "uomo che cade",
-      "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
-    },
-    {
-      "added_at": "2026-03-05 23:01:25",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2026-03-05 23:01:25",
+      "album": {
+        "name": "uomo che cade",
+        "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "duration_ms": 217458,
+      "name": "uomo che cade",
+      "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
     },
     {
       "added_at": "2026-03-05 23:01:25",
@@ -1419,30 +1419,22 @@
     {
       "added_at": "2026-03-05 23:01:25",
       "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
         }
       ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+      "duration_ms": 137952,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
     }
   ],
   "unique_name": "Morning Routine",

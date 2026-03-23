@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Treaty Oak Revival
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,562 likes - 67 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,663 likes - 67 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 | 66 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 |
 | 67 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 |
 
-Snapshot ID: `AAAAAAeZmSR/OHVfUsecKJ1Bbh7KURy6`
+Snapshot ID: `AAAAAAQEW3CaFUTX1krdCekU8g6isnYJ`

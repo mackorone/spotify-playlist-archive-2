@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 262807,
+  "num_followers": 262838,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "MTV Unplugged. El Libro De Las Mutaciones",
-        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 291117,
-      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "MTV Unplugged. El Libro De Las Mutaciones",
+        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 291117,
+      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -763,22 +763,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Ha-Ash \"En Vivo\"",
-        "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 329797,
-      "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
-      "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -803,18 +799,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+        "name": "Ha-Ash \"En Vivo\"",
+        "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
+      "duration_ms": 329797,
+      "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
+      "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
     },
     {
       "added_at": "2026-03-06 03:00:23",

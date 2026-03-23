@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,218 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,209 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 32 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
 | 33 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 34 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
-| 35 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 |
-| 36 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 |
+| 35 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 |
+| 36 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 |
 | 37 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 38 | [Christmas Never Gets Old](https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g) | 2:42 |
 | 39 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 58 | [Merry Christmas Baby](https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The King of Soul](https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs) | 2:35 |
 | 59 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 |
 | 60 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
-| 61 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 |
-| 62 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
+| 61 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
+| 62 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 |
 | 63 | [Christmas Song](https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4) | 3:41 |
 | 64 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |
 | 65 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |

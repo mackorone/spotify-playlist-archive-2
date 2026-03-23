@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613474,
+  "num_followers": 613453,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/7AIr6shgnOlUrx3StZUkce"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 215834,
       "name": "Bl\u00e5\u00f6gd",
       "url": "https://open.spotify.com/track/7mpBXaF68UdXcsBdfRKLA5"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Tid & Tro",
         "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Run Through Fire",
-        "url": "https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 184534,
-      "name": "Run Through Fire",
-      "url": "https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -511,22 +495,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 210208,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
         "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 191599,
       "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
       "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Run Through Fire",
+        "url": "https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "Run Through Fire",
+      "url": "https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 210208,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/74eJR4gwG1ZmG4BFkbrOlA"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "ALLTING D\u00c4REMELLAN",
         "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
         }
       ],
-      "duration_ms": 185040,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
         "name": "From The Jump (Duet Version)",
         "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 222324,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Det sista jag beh\u00f6ver",
         "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 222324,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -943,38 +959,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
-        "name": "Genom livet",
-        "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 167156,
-      "name": "Genom livet",
-      "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Misstro",
         "url": "https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 170162,
       "name": "Misstro",
       "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Genom livet",
+        "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 167156,
+      "name": "Genom livet",
+      "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
+        "name": "And The Story Goes",
+        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 275326,
+      "name": "H\u00e4nderna Mot Himlen - Acoustic",
+      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
         "name": "Here It Is",
         "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 173000,
       "name": "It's a Beautiful Dream",
       "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
-        "name": "And The Story Goes",
-        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 275326,
-      "name": "H\u00e4nderna Mot Himlen - Acoustic",
-      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Den jag kunde blivit - Den jag blev",
-        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Den jag kunde blivit - Den jag blev",
-      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "P\u00e5 svenska",
         "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 243760,
       "name": "R\u00f6da sten",
       "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Den jag kunde blivit - Den jag blev",
+        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Den jag kunde blivit - Den jag blev",
+      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
         "name": "Kite (Acoustic)",
         "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 149996,
       "name": "Kite - Acoustic",
       "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2026-03-19 23:00:56",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-03-19 23:00:56",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 242695,
-      "name": "Can You Afford To Lose Me?",
-      "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
-    },
-    {
-      "added_at": "2026-03-19 23:00:56",
-      "album": {
         "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
         "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 167843,
       "name": "Deep Down - From the Film \u2018The Abyss\u2019",
       "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
+    },
+    {
+      "added_at": "2026-03-19 23:00:56",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 242695,
+      "name": "Can You Afford To Lose Me?",
+      "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
     },
     {
       "added_at": "2026-03-19 23:00:56",

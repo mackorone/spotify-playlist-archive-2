@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1469842,
+  "num_followers": 1469893,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 212933,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 212601,
+      "name": "F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -579,22 +579,18 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Caetano e Beth\u00e2nia Ao Vivo",
-        "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
       },
       "artists": [
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 195739,
-      "name": "Alegria, Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -775,22 +771,6 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "A Festa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 330252,
-      "name": "A Festa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
       },
@@ -803,6 +783,22 @@
       "duration_ms": 254795,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "A Festa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 330252,
+      "name": "A Festa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1311,18 +1307,18 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "For\u00e7a Bruta (1970)",
-        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
+        "name": "Carnav\u00e1lia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
         }
       ],
-      "duration_ms": 252506,
-      "name": "Oba, L\u00e1 Vem Ela",
-      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
+      "duration_ms": 270029,
+      "name": "Carnav\u00e1lia - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1339,6 +1335,22 @@
       "duration_ms": 235106,
       "name": "Brasil Pandeiro",
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
+        "name": "For\u00e7a Bruta (1970)",
+        "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Oba, L\u00e1 Vem Ela",
+      "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1371,22 +1383,6 @@
       "duration_ms": 227826,
       "name": "Metamorfose ambulante",
       "url": "https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Carnav\u00e1lia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 270029,
-      "name": "Carnav\u00e1lia - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1443,6 +1439,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
+        "name": "Rosa Morena",
+        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+    },
+    {
+      "added_at": "2025-11-30 17:39:04",
+      "album": {
         "name": "Trinta",
         "url": "https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq"
       },
@@ -1459,22 +1471,6 @@
       "duration_ms": 291933,
       "name": "Espelhos D'\u00e1gua",
       "url": "https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL"
-    },
-    {
-      "added_at": "2025-11-30 17:39:04",
-      "album": {
-        "name": "Rosa Morena",
-        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 121986,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
     },
     {
       "added_at": "2025-11-30 17:39:04",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2025-11-30 17:39:04",
       "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+        "name": "Caetano e Beth\u00e2nia Ao Vivo",
+        "url": "https://open.spotify.com/album/0sTykt0Q7XBt2sQ9wu51j3"
       },
       "artists": [
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+      "duration_ms": 195739,
+      "name": "Alegria, Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
     },
     {
       "added_at": "2025-11-30 17:39:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,816 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,029 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 45 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
 | 46 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 47 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
-| 48 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
-| 49 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
+| 48 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
+| 49 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
 | 50 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
 
 Snapshot ID: `AAAAAGPKthnIOx08Y1hApeOmVJBNCig4`

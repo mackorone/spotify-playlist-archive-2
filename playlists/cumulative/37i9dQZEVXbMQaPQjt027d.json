@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Better without you",
       "url": "https://open.spotify.com/track/10AY1BJcHxOmy3X5zb37Bb"
@@ -8845,6 +8845,28 @@
     },
     {
       "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
+    {
+      "album": {
         "name": "Shamrock Diaries",
         "url": "https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ"
       },
@@ -11164,7 +11186,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
@@ -14308,7 +14330,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -14326,7 +14348,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -15862,7 +15884,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 96943,
       "name": "Surah Al Ahzab 35",
       "url": "https://open.spotify.com/track/28vWn1P3W5HjmeuEFXCcW0"

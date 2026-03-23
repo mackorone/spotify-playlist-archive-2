@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,632 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,662 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 55 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 56 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 57 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
-| 58 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
-| 59 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 |
+| 58 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 |
+| 59 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
 | 60 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
 | 61 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 62 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 64 | [Guru](https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL) | 3:24 |
 | 65 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 66 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
-| 67 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
-| 68 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 69 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 |
-| 70 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
+| 67 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 68 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
+| 69 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
+| 70 | [Friends \(feat\. Bon Iver\)](https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:08 |
 | 71 | [Sleeping With A Friend](https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Pop Psychology](https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G) | 3:48 |
 | 72 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 73 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 87 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 88 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
 | 89 | [Strong](https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:35 |
-| 90 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
-| 91 | [Somebody Else \- Alt Edit](https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Somebody Else \(Alt Edit\)](https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF) | 4:01 |
+| 90 | [Somebody Else \- Alt Edit](https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Somebody Else \(Alt Edit\)](https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF) | 4:01 |
+| 91 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
 | 92 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |
 | 93 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 |
 | 94 | [Mine](https://open.spotify.com/track/1RMJfOjuWNkfdjDo038CgU) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Mine EP](https://open.spotify.com/album/4cBD8BcJFl1UKSkmfrJgzo) | 3:47 |

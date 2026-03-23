@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,601 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,744 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

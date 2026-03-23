@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,706 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,781 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 40 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 41 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 |
 | 42 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
-| 43 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
-| 44 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 |
+| 43 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 |
+| 44 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
 | 45 | [little mystery](https://open.spotify.com/track/0BVIfVKh1wkQjNK32GMHM2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [two more days](https://open.spotify.com/album/0tMLTrwCaJcqioPLMwxZBc) | 2:58 |
 | 46 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 | 47 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 48 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
 | 49 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 |
 | 50 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 |
-| 51 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
-| 52 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
+| 51 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
+| 52 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 53 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
 | 54 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
 | 55 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 93 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 94 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
 | 95 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
-| 96 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 97 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
-| 98 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 99 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
-| 100 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
+| 96 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
+| 97 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
+| 98 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 99 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 100 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
 
 Snapshot ID: `AAAAAGDDqo2pGIjcTXlB9O9RxkM4fiSr`

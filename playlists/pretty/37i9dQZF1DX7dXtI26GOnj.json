@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira, Bel\u00e9e",
-  "num_followers": 240279,
+  "num_followers": 240312,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
     },
     {
       "added_at": "2026-03-13 03:00:01",
@@ -687,30 +687,6 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
     },
     {
       "added_at": "2026-03-13 03:00:01",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
     },
     {
       "added_at": "2026-03-13 03:00:01",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "69",
-      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
         "name": "3SOME",
         "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 162461,
       "name": "3SOME",
       "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
     },
     {
       "added_at": "2026-03-13 03:00:01",

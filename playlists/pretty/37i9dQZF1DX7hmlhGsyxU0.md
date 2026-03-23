@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,271 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,333 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 29 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
 | 30 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
 | 31 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 32 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
-| 33 | [Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Giazotto: Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh) | 3:26 |
+| 32 | [Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Giazotto: Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh) | 3:26 |
+| 33 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 34 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 35 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
 | 36 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: One Battle After Another.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,719 likes - 53 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,724 likes - 53 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 52 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 53 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
 
-Snapshot ID: `AAAAAIp6v+ALdN8ph1sEEcfxLcNzDbdN`
+Snapshot ID: `AAAAAOygJlnhO50gGQUxJJCvpK9CWzDi`

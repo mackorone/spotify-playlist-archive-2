@@ -1,6 +1,6 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 301429,
+  "num_followers": 301438,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202749,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 244884,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202749,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "Bangerz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 231233,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
-        "name": "Bangerz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "We Can't Stop",
-      "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224870,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 239620,
       "name": "Skin",
       "url": "https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224870,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 185863,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 250454,
-      "name": "Blue Lights",
-      "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 224673,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
     },
     {
       "added_at": "2024-06-03 14:47:34",

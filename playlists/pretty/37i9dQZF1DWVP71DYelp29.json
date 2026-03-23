@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 733863,
+  "num_followers": 733857,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
     },
     {
-      "added_at": "2023-06-22 04:00:00",
-      "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "spotify singles",
@@ -1363,6 +1347,22 @@
       "duration_ms": 208710,
       "name": "feel good inc (bbno$ re-finessed) - spotify single",
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "added_at": "2023-06-22 04:00:00",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
     },
     {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 167050,
-      "name": "High Hopes - Live Session from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
-    },
-    {
       "added_at": "2023-11-07 18:53:41",
       "album": {
         "name": "Spotify Singles",
@@ -1735,6 +1719,22 @@
       "duration_ms": 206499,
       "name": "I Want It That Way - Spotify Singles",
       "url": "https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 167050,
+      "name": "High Hopes - Live Session from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1900,22 +1900,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
       },
       "artists": [
@@ -1927,6 +1911,22 @@
       "duration_ms": 163903,
       "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "added_at": "2023-01-11 19:54:48",

@@ -4,7 +4,7 @@
 
 > Country tracks to get your beast mode on!
 
-91 songs - 4 hr 43 min
+92 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 | 2023-01-27 |  |
 | [John Wayne](https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:55 | 2023-01-27 | 2024-09-08 |
 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 | 2023-01-27 |  |
+| [Lighter](https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Lighter \(FIFA World Cup 2026™\)](https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh) | 2:59 | 2026-03-22 |  |
 | [Lights Come On](https://open.spotify.com/track/4llYMkhHa1w7UAdDFRQcEZ) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:14 | 2023-01-27 | 2023-11-18 |
 | [Lights Come On](https://open.spotify.com/track/6JLiWJptfEdsz3TW4dnQGy) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:14 | 2023-11-10 | 2024-04-19 |
 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 | 2023-11-10 |  |
@@ -88,7 +89,7 @@
 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2023-06-30 | 2025-07-06 |
 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 | 2023-01-27 | 2024-09-07 |
 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 | 2023-01-27 |  |
-| [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2023-01-27 |  |
+| [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2023-01-27 | 2026-03-23 |
 | [Welcome to the Show](https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Welcome to the Show](https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF) | 2:40 | 2023-01-27 |  |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-07-25 |  |
 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 | 2024-06-07 |  |

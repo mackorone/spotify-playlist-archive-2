@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-484 songs - 1 day 1 hr 34 min
+485 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [925](https://open.spotify.com/track/5aNcakuYRSAfNFOz8nREvT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [925](https://open.spotify.com/album/7CIAt6rtM6lpNlRc6eQGFB) | 2:48 | 2025-08-22 | 2025-11-02 |
 | [A Fire Inside Of Me](https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms) | [Lucas Dekker](https://open.spotify.com/artist/2FppznzSJ4gkN86gxuNeIF) | [A Fire Inside Of Me](https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu) | 3:58 | 2024-04-19 |  |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-02-14 |  |
+| [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-20 |  |
 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 | 2025-07-25 |  |
 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 | 2023-01-27 | 2024-03-26 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-24 |  |
@@ -176,7 +177,7 @@
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 | 2022-06-17 | 2022-11-14 |
 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 | 2021-10-29 | 2022-03-22 |
 | [Hallelujah](https://open.spotify.com/track/3ZzqeiucaYmpAE1EZw6Rje) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Hallelujah](https://open.spotify.com/album/7sC4cRLjEclDq7PXBW1nW5) | 2:13 | 2022-07-08 | 2022-08-03 |
-| [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-15 |  |
+| [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-15 | 2026-03-23 |
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-09-01 | 2024-04-19 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-08 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-30 | 2023-08-21 |

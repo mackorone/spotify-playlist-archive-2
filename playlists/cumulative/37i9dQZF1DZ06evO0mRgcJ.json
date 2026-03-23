@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Mr. Make It Happen",
+        "url": "https://open.spotify.com/album/4CwKfeFdH5rzGirruzHGOv"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228994,
+      "name": "Mr. Make It Happen",
+      "url": "https://open.spotify.com/track/4Dyht9NcFwLHZG1uxUmWnI"
+    },
+    {
+      "album": {
         "name": "Mr. Seal The Deal",
         "url": "https://open.spotify.com/album/4tMN3VLZRAUczIq3uuqFly"
       },
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-23",
       "duration_ms": 240378,
       "name": "Ultimamente Tapando Bocas",
       "url": "https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm"

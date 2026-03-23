@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148575,
+  "num_followers": 148570,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -699,30 +699,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "MULIERES",
-        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
-      },
-      "artists": [
-        {
-          "name": "FAB GODAMN",
-          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
-        },
-        {
-          "name": "Young Nego K",
-          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
-        },
-        {
-          "name": "$upremos",
-          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
-        }
-      ],
-      "duration_ms": 127916,
-      "name": "MULIERES",
-      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "Sentido Aranha",
         "url": "https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 146677,
       "name": "Sentido Aranha",
       "url": "https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "MULIERES",
+        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "Young Nego K",
+          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
+        },
+        {
+          "name": "$upremos",
+          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
+        }
+      ],
+      "duration_ms": 127916,
+      "name": "MULIERES",
+      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
     },
     {
       "added_at": "2026-02-27 18:07:57",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "FATALFATALFATAL",
-        "url": "https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm"
-      },
-      "artists": [
-        {
-          "name": "FAB GODAMN",
-          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
-        },
-        {
-          "name": "C4rlinhxs",
-          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
-        }
-      ],
-      "duration_ms": 100769,
-      "name": "COMME DES GAR\u00c7ONS",
-      "url": "https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "SP",
         "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 155624,
       "name": "SP",
       "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "FATALFATALFATAL",
+        "url": "https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        }
+      ],
+      "duration_ms": 100769,
+      "name": "COMME DES GAR\u00c7ONS",
+      "url": "https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl"
     },
     {
       "added_at": "2026-02-27 18:07:57",

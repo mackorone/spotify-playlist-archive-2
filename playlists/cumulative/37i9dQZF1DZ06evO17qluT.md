@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-163 songs - 10 hr 19 min
+164 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [TÁ TARDE](https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 3:20 | 2024-10-28 |  |
 | [Universo](https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/5EmJTNqpOyZQ5yoaJL9TdT) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 4:16 | 2025-11-26 |  |
 | [Universo](https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 4:16 | 2023-09-18 | 2025-11-26 |
+| [Vinho, Voz e Violão \- Ao Vivo](https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Trapzeiro \(Meu Piseiro Brasileiro\) \[Ao Vivo\]](https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p) | 3:45 | 2026-03-23 |  |
 | [Visão Ampla](https://open.spotify.com/track/2PimmyoQACdeDOSyfwOc8g) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:15 | 2024-03-28 | 2024-06-27 |
 | [Visão Ampla](https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 | 2024-06-27 | 2025-05-29 |
 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 | 2023-09-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1144001,
+  "num_followers": 1144255,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 308853,
-      "name": "Take The Long Way Home - Remastered 2010",
-      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -843,6 +827,22 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 308853,
+      "name": "Take The Long Way Home - Remastered 2010",
+      "url": "https://open.spotify.com/track/0v0XYK0pLgsPiq5u4FKHaw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Across The Universe - Remastered 2009",
-      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 201773,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Across The Universe - Remastered 2009",
+      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
-      },
-      "artists": [
-        {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
       "added_at": "2022-10-03 06:40:05",
       "album": {
         "name": "Do You Wanna Go Party",
@@ -971,6 +955,22 @@
       "duration_ms": 230440,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Harvest (2009 Remaster)",
         "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 181893,
       "name": "On And On",
       "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 158533,
       "name": "Snowqueen Of Texas",
       "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
     },
     {
       "added_at": "2022-09-23 05:26:33",

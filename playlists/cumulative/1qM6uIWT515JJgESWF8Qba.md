@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-192 songs - 11 hr 59 min
+193 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-12-28 | 2026-01-21 |
 | [Dethroned](https://open.spotify.com/track/23tye9xrSpAZ1j5pSIh2a2) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Liminal Space](https://open.spotify.com/album/1UR9SA5kOX7Ogx6pRhPdiq) | 3:55 | 2025-12-29 | 2026-01-21 |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 | 2025-12-28 |
+| [Diagnos](https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Diagnos](https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5) | 3:10 | 2026-03-22 |  |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 | 2026-02-23 |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 | 2026-03-21 |
 | [Dissociate](https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa) | [Social Dissonance](https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr) | [This Is Hell](https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB) | 4:59 | 2026-03-11 |  |

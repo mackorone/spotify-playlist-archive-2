@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 95087,
+  "num_followers": 95082,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 197933,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
         "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 219159,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Picky Back To The Roots",
+        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "What A Time To Be Alive",
         "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 205879,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "Picky Back To The Roots",
-        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "New English",
         "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 246761,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Don't Mind",
         "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Royalty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 201265,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
+      "duration_ms": 158000,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1475,6 +1459,22 @@
       "duration_ms": 189126,
       "name": "No Money",
       "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Royalty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 195194,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "Pegao en Youtube",
         "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 214726,
       "name": "Xapiadora",
       "url": "https://open.spotify.com/track/3Gfs29GWViOqUnHSBq911p"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 195194,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "Burn the Witch",
+      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "Pegao en Youtube",
         "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 225959,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/1c3lEwfoPzQ52Wq7G0RNCA"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "Burn the Witch",
-      "url": "https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR"
     },
     {
       "added_at": "2026-01-23 01:08:49",

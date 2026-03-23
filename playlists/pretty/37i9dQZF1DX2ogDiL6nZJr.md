@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,223 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,250 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 7 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 8 | [One Evening](https://open.spotify.com/track/09dYenMs0WXWh0pAAtd9Zd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:36 |
 | 9 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
-| 10 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
-| 11 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
+| 10 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
+| 11 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 12 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 13 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
 | 14 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 70 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 |
 | 71 | [Lonely Nights](https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Lonely Nights](https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w) | 3:20 |
 | 72 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 73 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
-| 74 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
+| 73 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 |
+| 74 | [Maybe October](https://open.spotify.com/track/4TkGiH6W0MYjPpLgy11sP9) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Maybe October](https://open.spotify.com/album/2fLdBQ3TVNexpi2PRYsqhX) | 2:44 |
 | 75 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
 | 76 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
 | 77 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 89 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
 | 90 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
 | 91 | [Cars](https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q) | [A Tale of Golden Keys](https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY) | [The Only Thing That's Real](https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn) | 3:17 |
-| 92 | [Like We Once Did](https://open.spotify.com/track/3lPHsRGAJcGG6u3TzJ5S6C) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Like We Once Did](https://open.spotify.com/album/0efCKmvERqFYyImrZj0ZyP) | 3:40 |
-| 93 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
+| 92 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
+| 93 | [Like We Once Did](https://open.spotify.com/track/3lPHsRGAJcGG6u3TzJ5S6C) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Like We Once Did](https://open.spotify.com/album/0efCKmvERqFYyImrZj0ZyP) | 3:40 |
 | 94 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
 | 95 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
 | 96 | [Los Angeles](https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Angeles](https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF) | 3:33 |

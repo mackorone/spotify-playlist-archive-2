@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 25458,
+  "num_followers": 25463,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -214,11 +214,15 @@
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
+      "duration_ms": 257428,
+      "name": "Hats Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -310,15 +314,11 @@
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 257428,
-      "name": "Hats Off (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 16:17:17",

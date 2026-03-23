@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,263 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,393 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 32 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 |
 | 33 | [Ella Se Llevó Mi Vida](https://open.spotify.com/track/6yDLi3sgYTBPSnNkNsEP9Z) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [Sentido Común Volume 1](https://open.spotify.com/album/7ynJAJPX7pJOCAax0DXWdX) | 4:38 |
 | 34 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
-| 35 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
+| 35 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 | 36 | [Nunca Niegues Que Te Amo \- Sinfónica Version](https://open.spotify.com/track/17AkBvet5coEgtfnTYcMgF) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Bendito Vallenato](https://open.spotify.com/album/1N2jQb3iusmjsdoCLSazoZ) | 4:41 |
-| 37 | [Me Sobran las Palabras](https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Dubán Bayona](https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq) | 4:30 |
-| 38 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
+| 37 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
+| 38 | [Me Sobran las Palabras](https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Dubán Bayona](https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq) | 4:30 |
 | 39 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 |
-| 40 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
+| 40 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
 | 41 | [Ajena \- En Vivo Version](https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Los 3 Amigos](https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof) | 4:56 |
 | 42 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
 | 43 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |

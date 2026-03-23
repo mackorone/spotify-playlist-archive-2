@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,660 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,759 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 39 | [Children of the Korn \(feat\. Ice Cube\)](https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:52 |
 | 40 | [Let's Get This Party Started](https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:41 |
 | 41 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
-| 42 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
-| 43 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
+| 42 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
+| 43 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 44 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
 | 45 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
 | 46 | [Everything I've Known](https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Last Legal Drug](https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On The Other Side \(20th Anniversary Edition \- Remastered\)](https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5) | 5:14 |
 | 50 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
 
-Snapshot ID: `abyOAAAAAABqyCdsBVPJG2kogVeEnxC9`
+Snapshot ID: `ab3fgAAAAABYGfYYhn4GsjcKXd7wXlcN`

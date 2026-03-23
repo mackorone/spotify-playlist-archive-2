@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 3월의 노래를 만나보세요.
 
-133 songs - 7 hr 13 min
+136 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,8 @@
 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 | 2026-02-25 |  |
 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 | 2025-12-04 | 2026-02-05 |
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-12-04 | 2026-02-05 |
+| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-23 |  |
+| [BOUNCE BACK \(Feat\. Jay Park\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:48 | 2026-03-23 |  |
 | [BRUISE](https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [The 3rd Digital Single BRUISE](https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI) | 3:17 | 2026-02-04 | 2026-03-04 |
 | [BURNING UP](https://open.spotify.com/track/6QQy6TLGFosP96SREaVaYD) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/0UoDQIsOArpbwoVplHKrvy) | 2:49 | 2025-12-04 | 2026-02-05 |
 | [CAN I SIP 담배](https://open.spotify.com/track/12mcwm60QZRzTOCPv40AT8) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [pullup to busan 4 morE hypEr summEr it’s gonna bE a fuckin moviE](https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy) | 2:17 | 2025-12-04 | 2026-02-05 |
@@ -41,6 +43,7 @@
 | [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 | 2026-02-04 | 2026-03-04 |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2026-02-04 | 2026-03-04 |
 | [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-02-04 | 2026-03-04 |
+| [DIRT! \(Feat\. ZICO\) \(Prod\. by ZICO\)](https://open.spotify.com/track/6IsblvUWlwFjo5nA9TWpB9) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Jung Junhyuk](https://open.spotify.com/artist/3AfvvgMrTONEdoXOfWrBoS), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:22 | 2026-03-23 |  |
 | [Disappear](https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:25 | 2026-03-03 |  |
 | [DIVINE](https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 3:07 | 2025-12-04 | 2026-02-05 |
 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 | 2026-02-04 | 2026-03-04 |

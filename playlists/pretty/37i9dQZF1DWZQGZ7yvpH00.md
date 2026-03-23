@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 en Eddy portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,088 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,045 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 12 | [Ya No](https://open.spotify.com/track/2Bh6Yhxs10L9LAa0zoGckk) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Ya No](https://open.spotify.com/album/3HQrm9m7IcUrp62FX6fLhs) | 3:40 |
 | 13 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 |
 | 14 | [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 |
-| 15 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:40 |
+| 15 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:41 |
 | 16 | [BANDIDO](https://open.spotify.com/track/6RAeYqpG7hwRqXzKrT9rqF) | [MALA MAÑA](https://open.spotify.com/artist/6oEnb01go5SoSwwyo8wbRa), [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [BANDIDO](https://open.spotify.com/album/3ln4RUl4YYolpQZiiQl4go) | 2:17 |
 | 17 | [te extraño </333](https://open.spotify.com/track/7iFmlkEdIVg1979VXMwPbu) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Náufrago](https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf) | 2:48 |
 | 18 | [Labios De Cereza 3](https://open.spotify.com/track/2Lz88eC06q1CcGSIZhPcdR) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios De Cereza 3](https://open.spotify.com/album/5qtP533GK5rZtlGBl6Gnr4) | 3:36 |

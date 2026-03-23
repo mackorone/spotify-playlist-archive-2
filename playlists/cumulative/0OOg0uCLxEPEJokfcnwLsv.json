@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Lumen Del Mundo",
+        "url": "https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H"
+      },
+      "artists": [
+        {
+          "name": "23 And Beyond The Infinite",
+          "url": "https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW"
+        }
+      ],
+      "date_added": "2026-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198948,
+      "name": "Horsedance",
+      "url": "https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm"
+    },
+    {
+      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE"
       },

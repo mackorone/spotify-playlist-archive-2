@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 1303782,
+  "num_followers": 1303753,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
-        "name": "SHADOWS",
-        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 202078,
-      "name": "SHADOWS",
-      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -879,6 +859,26 @@
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -903,22 +903,22 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+      "duration_ms": 202078,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
-        "name": "Cry For You (2025)",
-        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Cry For You (2025)",
-      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
+        "name": "Cry For You (2025)",
+        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Cry For You (2025)",
+      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-03-15 13:00:30",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
+    },
+    {
+      "added_at": "2026-03-15 13:00:30",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
     },
     {
       "added_at": "2026-03-15 13:00:30",
@@ -1375,22 +1391,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2026-03-15 13:00:30",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
-        }
-      ],
-      "duration_ms": 153904,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
     },
     {
       "added_at": "2026-03-15 13:00:30",

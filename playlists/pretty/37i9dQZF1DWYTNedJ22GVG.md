@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,926 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,889 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 5 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
 | 6 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |
 | 7 | [You're A Mean One Mr\. Grinch \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/2KNt0BWMJwB8uEqus75mRB) | [Jim Carrey](https://open.spotify.com/artist/30MCPVWV1iZrs2gxciRRk4) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 2:31 |
-| 8 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/43Ny7pWynD5nncoDHpbUPh) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Chipmunks Christmas](https://open.spotify.com/album/2Gf2s2XavIPCpOacM0BSXU) | 2:21 |
+| 8 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/43Ny7pWynD5nncoDHpbUPh) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW) | [Chipmunks Christmas](https://open.spotify.com/album/2Gf2s2XavIPCpOacM0BSXU) | 2:21 |
 | 9 | [I Want A Hippopotamus For Christmas \(Hippo The Hero\)](https://open.spotify.com/track/6qE5c4FQ8NVl6JcUgQhGbX) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 2:28 |
 | 10 | [Santa Tell Me](https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau) | 3:24 |
 | 11 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |

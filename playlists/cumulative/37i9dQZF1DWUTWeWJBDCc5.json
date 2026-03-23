@@ -331,6 +331,50 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "BOUNCE BACK (Feat. Jay Park) (Prod. by Lil Moshpit)",
+      "url": "https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl"
+    },
+    {
+      "album": {
         "name": "The 3rd Digital Single BRUISE",
         "url": "https://open.spotify.com/album/0Hnt6Uo4wPdBvh0Yb4oSrI"
       },
@@ -632,6 +676,32 @@
       "duration_ms": 144106,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "Jung Junhyuk",
+          "url": "https://open.spotify.com/artist/3AfvvgMrTONEdoXOfWrBoS"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "DIRT! (Feat. ZICO) (Prod. by ZICO)",
+      "url": "https://open.spotify.com/track/6IsblvUWlwFjo5nA9TWpB9"
     },
     {
       "album": {
