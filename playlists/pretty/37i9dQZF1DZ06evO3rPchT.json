@@ -1,13 +1,29 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 85792,
+  "num_followers": 85804,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAC74gGIC8O7JraZU+CoGXU6",
+  "snapshot_id": "ab8xAAAAAADoULpnT7bAXuG8qc7nGm1c",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"
+    },
     {
       "added_at": null,
       "album": {
@@ -35,22 +51,6 @@
       "duration_ms": 231533,
       "name": "McArthur",
       "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer"
     },
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 277659,
+      "name": "wait in the truck",
+      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 277659,
-      "name": "wait in the truck",
-      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
       "duration_ms": 238496,
       "name": "Come Back As A Redneck (feat. HARDY)",
       "url": "https://open.spotify.com/track/33gSkDn6P9uS7ofaYiyBP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bottomland",
-        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "Bottomland",
-      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
     },
     {
       "added_at": null,
@@ -243,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
       },
       "artists": [
         {
@@ -252,9 +236,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 193248,
-      "name": "Favorite Country Song",
-      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/0onJhWTvfPCb5F7gUT3VPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 195326,
       "name": "In The Bible",
       "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 140523,
       "name": ".30-06",
       "url": "https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,

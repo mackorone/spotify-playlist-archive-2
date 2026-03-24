@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADfiroHL3iYBfRDYh1GDaiU",
+  "snapshot_id": "ab8xAAAAAAD655qfXSw8TbpUdigv8oB7",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bridge To Far",
-        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
       "artists": [
         {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 221181,
-      "name": "Guardians",
-      "url": "https://open.spotify.com/track/2KX0OVjpyfXO8vRwxVTj2F"
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
     },
     {
       "added_at": null,
@@ -527,22 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+        "name": "A Bridge To Far",
+        "url": "https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+      "duration_ms": 221181,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/2KX0OVjpyfXO8vRwxVTj2F"
     },
     {
       "added_at": null,

@@ -2,16 +2,16 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עומר אדם
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: בן צור
 
-212 songs - 11 hr 20 min
+214 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A+ \(feat\. Ravid Plotnik\)](https://open.spotify.com/track/34R5dih7V1DWiuuUxH2tcj) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 2:46 | 2024-09-23 | 2024-11-01 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-04 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-08-12 | 2024-12-03 |
-| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-09 |  |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-09 | 2026-03-24 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-17 | 2025-07-08 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-31 | 2025-07-01 |
 | [BA DA BING](https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [BA DA BING](https://open.spotify.com/album/5UxGQi98FToYbLqzjNDtpz) | 2:11 | 2024-09-09 | 2024-11-26 |
@@ -57,6 +57,7 @@
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-11-18 |  |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-10-31 | 2024-12-03 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-16 |  |
+| [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-23 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-09-09 | 2024-12-10 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-01 | 2025-09-23 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-02 | 2025-07-08 |
@@ -79,7 +80,7 @@
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 | 2025-07-01 |
 | [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 | 2026-02-23 |  |
 | [אחי](https://open.spotify.com/track/33KkOQIrkeKi3kOYwFdCxu) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אחי](https://open.spotify.com/album/13U7rF5uDRFyPUNF73VBNk) | 3:10 | 2025-09-11 | 2025-10-07 |
-| [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 | 2025-04-07 |  |
+| [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 | 2025-04-07 | 2026-03-24 |
 | [אחת ממיליון & מלכת הדור & לא להמציא \- מיוחד למצעד הישראלי השנתי](https://open.spotify.com/track/18ljxDm42G5YuQtWZElFSZ) | [דודא](https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do), [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון & מלכת הדור & לא להמציא \(מיוחד למצעד הישראלי השנתי\)](https://open.spotify.com/album/7o2a0DB8iLf9gxm49ODPia) | 8:25 | 2025-10-20 |  |
 | [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 | 2024-07-29 | 2025-06-17 |
 | [אין כבוד](https://open.spotify.com/track/4WoKmBYVGyrf7t0SkHhMQ1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ](https://open.spotify.com/album/4iWiYzhVxoPbLFk8ROV5Bj) | 3:36 | 2025-08-19 |  |
@@ -108,6 +109,7 @@
 | [בוקר טוב חיים שלי](https://open.spotify.com/track/4WbQaxKI0R0SmWNZvgUDNz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:08 | 2025-01-13 | 2025-04-29 |
 | [בחורות טובות](https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בחורות טובות](https://open.spotify.com/album/0UIZz7eUyhrw12rA0dvIt0) | 2:48 | 2025-08-19 |  |
 | [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 | 2025-02-10 | 2025-11-25 |
+| [בית מזכוכית](https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בית מזכוכית](https://open.spotify.com/album/0crsmrq13oLGMIdUX6meI0) | 3:20 | 2026-03-23 |  |
 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 | 2024-09-09 | 2025-04-15 |
 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 | 2024-07-01 | 2024-07-23 |
 | [בסיבוב הבא](https://open.spotify.com/track/7n6elf6gl4POlFO2LlyIMy) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [בסיבוב הבא](https://open.spotify.com/album/7fzSjnumrj8Q9kGwR7XFHr) | 3:23 | 2025-06-03 |  |

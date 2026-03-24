@@ -2,7 +2,7 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Rakasa
+> Bringing out the best of latest love tracks<br/>Cover : Dacoit
 
 377 songs - 1 day 0 hr 15 min
 

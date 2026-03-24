@@ -1851,7 +1851,7 @@
         },
         {
           "name": "Jeevan Joy",
-          "url": "https://open.spotify.com/artist/44g1IBJELLrMD6frEhgYjY"
+          "url": "https://open.spotify.com/artist/6X7QIyJBsEww5vVpxNrcwr"
         },
         {
           "name": "Ruhee Ahamed",
@@ -29107,6 +29107,32 @@
     },
     {
       "album": {
+        "name": "Kaalidas 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mr6EdDmzOEMltDRcjl6D5"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "Minmini Penne",
+      "url": "https://open.spotify.com/track/33gD8rwbwa5boIZ0VvZvqx"
+    },
+    {
+      "album": {
         "name": "Minminiyae Rasaathi (From \"Good Day\")",
         "url": "https://open.spotify.com/album/7nSQuMxo127sCQuQVn45cn"
       },
@@ -33568,6 +33594,32 @@
       "duration_ms": 44002,
       "name": "New Thug In Town (From \"Thug Life\")",
       "url": "https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5"
+    },
+    {
+      "album": {
+        "name": "Kaalidas 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5mr6EdDmzOEMltDRcjl6D5"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "New Year Song",
+      "url": "https://open.spotify.com/track/6PuUfwpd1bcJMgJM08QupS"
     },
     {
       "album": {
@@ -55738,8 +55790,8 @@
           "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
         },
         {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/0zb4aynYISZYXojLxAdOqo"
         },
         {
           "name": "Uma Devi",

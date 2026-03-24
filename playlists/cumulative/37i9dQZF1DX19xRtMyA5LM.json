@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 146666,
       "name": "David Blaine",
       "url": "https://open.spotify.com/track/2TAL7pGuP2QWsv93LqjMhZ"
@@ -2564,6 +2564,28 @@
       "duration_ms": 150000,
       "name": "GTI",
       "url": "https://open.spotify.com/track/1Nk44LQVo7gmb6IjKg9LZc"
+    },
+    {
+      "album": {
+        "name": "Guess Who's Back",
+        "url": "https://open.spotify.com/album/5MCEAbxIw98c0zQNMl1ZL4"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Guess Who's Back",
+      "url": "https://open.spotify.com/track/4hbdrNEyo15PGaJ3nOTNuS"
     },
     {
       "album": {
@@ -4656,7 +4678,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 173000,
       "name": "Nachten Wakker",
       "url": "https://open.spotify.com/track/0aF8AteBjXo1mh3Yrc8ge4"
@@ -6992,6 +7014,24 @@
       "duration_ms": 163636,
       "name": "Uit De La",
       "url": "https://open.spotify.com/track/4dSaN9iwLhhgIZAAhBCGpJ"
+    },
+    {
+      "album": {
+        "name": "Uitgeslapen",
+        "url": "https://open.spotify.com/album/2njmeJEn3bd6YhHb6rFvNH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sellah",
+          "url": "https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Uitgeslapen",
+      "url": "https://open.spotify.com/track/6lO8IJq5FzE9ohHNkeSwvR"
     },
     {
       "album": {

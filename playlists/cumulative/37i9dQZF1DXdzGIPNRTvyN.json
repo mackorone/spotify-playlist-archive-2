@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Areal",
+        "url": "https://open.spotify.com/album/7jFuzAjDvq7uMGZuofQL10"
+      },
+      "artists": [
+        {
+          "name": "Faux Moon",
+          "url": "https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Areal",
+      "url": "https://open.spotify.com/track/3KDp84OrH2TLsjs85tS37b"
+    },
+    {
+      "album": {
         "name": "Arms Reach",
         "url": "https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl"
       },
@@ -2879,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Guided by water",
+        "url": "https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217317,
+      "name": "Guided by water",
+      "url": "https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K"
+    },
+    {
+      "album": {
         "name": "Haamesha",
         "url": "https://open.spotify.com/album/4qoCXSnaEXrcewdMwokCCI"
       },
@@ -4694,7 +4730,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 205047,
       "name": "Nature's Ocarina",
       "url": "https://open.spotify.com/track/1CTJ1PCxbYhOaCQxvPNVv1"
@@ -5162,7 +5198,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 149642,
       "name": "Peaceful Moment",
       "url": "https://open.spotify.com/track/6chXXOZRhCIpdSeDSR3uev"

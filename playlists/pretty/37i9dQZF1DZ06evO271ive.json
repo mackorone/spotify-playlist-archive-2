@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 29738,
+  "num_followers": 29753,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAD78M/iwJIGnIoeK1kjpwSo",
+  "snapshot_id": "ab8xAAAAAADFfBEm1ww16Sg2j9HIGhxz",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
-        "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
-      },
-      "artists": [
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 81802,
-      "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
-      "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTH WAYS",
         "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
+        "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 81802,
+      "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
+      "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like (Deluxe)",
-        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 152157,
-      "name": "I Like It (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 194047,
       "name": "Pound Town 2",
       "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Like (Deluxe)",
+        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14235,
+  "num_followers": 14238,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAB2IFB6bNK3EgqXkqzDnjGe",
+  "snapshot_id": "ab8xAAAAAABzFVKHdGrYWMDwnbsNGc3W",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -879,6 +863,42 @@
       "duration_ms": 316422,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
     },
     {
       "added_at": null,
@@ -911,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
       },
       "artists": [
         {
@@ -920,13 +940,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
         }
       ],
-      "duration_ms": 191719,
-      "name": "Anadwo",
-      "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
+      "duration_ms": 225671,
+      "name": "U Go Kill Me",
+      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
     },
     {
       "added_at": null,
@@ -947,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
+        "name": "Best of Both Worlds",
+        "url": "https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ"
         },
         {
-          "name": "E.L",
-          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 225671,
-      "name": "U Go Kill Me",
-      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
+      "duration_ms": 236571,
+      "name": "Sweetio - Club Mix",
+      "url": "https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe"
     },
     {
       "added_at": null,
@@ -991,42 +1011,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best of Both Worlds",
-        "url": "https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Nana Boroo",
+          "url": "https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Sweetio - Club Mix",
-      "url": "https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You & I (feat. Olivetheboy) [Remix]",
-        "url": "https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "You & I (feat. Olivetheboy) - Remix",
-      "url": "https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1"
+      "duration_ms": 220960,
+      "name": "Ajeei (feat. Nana Boroo & Sarkodie)",
+      "url": "https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW"
     }
   ],
   "unique_name": "This Is Sarkodie",

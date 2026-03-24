@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,176 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,182 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 33 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 34 | [Azul Moderno](https://open.spotify.com/track/13sYLRl7Ihf1SngJZmb0Bb) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/5HpoKYWYXl0jxvV0zik5AJ) | 3:54 |
-| 35 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
-| 36 | [FALTA](https://open.spotify.com/track/0egGW1NkNCfcXUhZaBCiyY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:11 |
+| 35 | [FALTA](https://open.spotify.com/track/0egGW1NkNCfcXUhZaBCiyY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:11 |
+| 36 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
 | 37 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 38 | [Ain’t Got No](https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Conceição Evaristo](https://open.spotify.com/artist/5TwjbcI0iMF9iVyXlqQsbJ) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka) | 2:48 |
 | 39 | [Istambul](https://open.spotify.com/track/7gAx4l83rtiQ5I0X9XYRRd) | [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Disparada](https://open.spotify.com/album/691VKzDgLirg4O6LLiKklV) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > The most memorable country hits from the 2010s\. Cover: Sam Hunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,190 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,281 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

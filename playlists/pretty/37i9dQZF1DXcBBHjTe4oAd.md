@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > el metro cerrado, ya no hay combis ni peseros :\(
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,050 likes - 35 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,031 likes - 35 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 | 34 | [Tú Me Estás Volviendo Loco](https://open.spotify.com/track/1AccJ46mhk7KSUoh55RgZA) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 3:00 |
 | 35 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 
-Snapshot ID: `AAAAAGvb1Ao6gtzs7s/S41DsQZewdQVV`
+Snapshot ID: `AAAAACpfopNIqTqYShEGbuC/umV/+G93`

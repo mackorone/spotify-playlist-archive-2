@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-452 songs - 20 hr 24 min
+453 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 | 2021-11-10 |  |
 | [Rain Dream](https://open.spotify.com/track/4UDjpSQ6sKKdgfXsUh6Brj) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Drops Coming Down](https://open.spotify.com/album/1T3VkxiXiDshgFu3J0ymhi) | 2:38 | 2021-11-10 |  |
 | [Rain Falling From the Sky](https://open.spotify.com/track/0Kr0ljSjAljErScOrZE3mI) | [Grey Sample Library](https://open.spotify.com/artist/6FGRVDo6EaM0lzQoq1xEFG) | [Rain Showers](https://open.spotify.com/album/1TnQjALX3mSWRVORqYv0Ee) | 2:15 | 2021-11-10 |  |
-| [Rain In Budapest](https://open.spotify.com/track/6CpOUuOmm2BbTFARY4v0Il) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rainy City](https://open.spotify.com/album/2jL5PFx8l4mxCbjYitiwjA) | 3:36 | 2021-11-10 |  |
+| [Rain In Budapest](https://open.spotify.com/track/6CpOUuOmm2BbTFARY4v0Il) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rainy City](https://open.spotify.com/album/2jL5PFx8l4mxCbjYitiwjA) | 3:36 | 2021-11-10 | 2026-03-24 |
 | [Rain in Kauai](https://open.spotify.com/track/4UItf0AQRicvJ34EqEcoAS) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 3:21 | 2021-11-10 |  |
 | [Rain in Prague](https://open.spotify.com/track/04q8CLzn8RIOtHFaJFH09X) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 3:30 | 2021-11-10 | 2024-03-09 |
 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 | 2021-11-10 |  |
@@ -420,6 +420,7 @@
 | [Thunderstorms in the Pyrenees](https://open.spotify.com/track/2nmTcjhiym7iZl5PHMsRuD) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:03 | 2025-09-23 |  |
 | [Thunderstorms on Coma Pedrosa](https://open.spotify.com/track/7zep8cZB1YOfEjuT2hhnfs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:11 | 2025-09-23 |  |
 | [Thunderstruck](https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [Seek Shelter](https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D) | 3:24 | 2023-02-13 |  |
+| [Thunderstruck](https://open.spotify.com/track/6MrzqoAYOYSomYdO7RQP3C) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Thunderstruck](https://open.spotify.com/album/4cRIMyFHA30UsDmaUspb9Q) | 3:16 | 2025-12-19 |  |
 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Linata Ebow](https://open.spotify.com/artist/11gO4yNtiNZ8xajSwSjjWw) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2023-02-13 |  |
 | [Tonnerre Tropical](https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Tonnerre Tropical](https://open.spotify.com/album/1gT4wCpiinP8wfbn9F91tF) | 2:18 | 2021-11-10 | 2024-03-15 |
 | [Tonnerre Tropical](https://open.spotify.com/track/74pOMv2JoMxXBCzr2E9moJ) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Dreams Forget Me Not](https://open.spotify.com/album/1oOA4Ll30scr8m6h0RFF9R) | 2:18 | 2024-03-22 |  |

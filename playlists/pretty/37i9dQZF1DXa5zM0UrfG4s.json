@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117178,
+  "num_followers": 117187,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-03-19 23:00:37",
       "album": {
-        "name": "Cowboyhatten",
-        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Cowboyhatten",
-      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
-    },
-    {
-      "added_at": "2026-03-19 23:00:37",
-      "album": {
         "name": "Sl\u00e5ss f\u00f6r dig",
         "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 131807,
       "name": "Sl\u00e5ss f\u00f6r dig",
       "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
+    },
+    {
+      "added_at": "2026-03-19 23:00:37",
+      "album": {
+        "name": "Cowboyhatten",
+        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Cowboyhatten",
+      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-03-19 23:00:37",
@@ -431,42 +431,6 @@
     {
       "added_at": "2026-03-19 23:00:37",
       "album": {
-        "name": "Hele natta",
-        "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Han Helge & Han H\u00e5kon",
-          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
-        }
-      ],
-      "duration_ms": 149435,
-      "name": "Hele natta",
-      "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
-    },
-    {
-      "added_at": "2026-03-19 23:00:37",
-      "album": {
-        "name": "Pickup truck",
-        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Pickup truck",
-      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
-    },
-    {
-      "added_at": "2026-03-19 23:00:37",
-      "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
       },
@@ -499,6 +463,42 @@
       "duration_ms": 206053,
       "name": "Sj\u00e5 sole",
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2026-03-19 23:00:37",
+      "album": {
+        "name": "Pickup truck",
+        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Pickup truck",
+      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
+    },
+    {
+      "added_at": "2026-03-19 23:00:37",
+      "album": {
+        "name": "Hele natta",
+        "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        }
+      ],
+      "duration_ms": 149435,
+      "name": "Hele natta",
+      "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
     },
     {
       "added_at": "2026-03-19 23:00:37",

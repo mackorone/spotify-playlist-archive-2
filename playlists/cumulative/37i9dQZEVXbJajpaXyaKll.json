@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "</3",
+        "url": "https://open.spotify.com/album/35ghsy0rN0UyMAmEi1gxeS"
+      },
+      "artists": [
+        {
+          "name": "slimesanti",
+          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "</3",
+      "url": "https://open.spotify.com/track/1KQJ74Kswc87GxiNYSsrrD"
+    },
+    {
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/3WwjmemEW7BGJU36WK8aLR"
       },
@@ -3980,6 +3998,24 @@
       "duration_ms": 275862,
       "name": "BBY BOO - REMIX",
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -10380,7 +10416,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -15381,6 +15417,24 @@
     },
     {
       "album": {
+        "name": "Friendzone:(",
+        "url": "https://open.spotify.com/album/1hivB1fdVsELxwIq4JNgAy"
+      },
+      "artists": [
+        {
+          "name": "slimesanti",
+          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102549,
+      "name": "Friendzone:(",
+      "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
+    },
+    {
+      "album": {
         "name": "FriendZone:(",
         "url": "https://open.spotify.com/album/4rPxxBrZvkDmqAPCdujvEm"
       },
@@ -15396,7 +15450,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 102524,
       "name": "FriendZone:(",
       "url": "https://open.spotify.com/track/3u0I8jAFTT3AN7YLdC5Xwe"
@@ -19272,7 +19326,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -19740,7 +19794,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 120000,
       "name": "kemujer",
       "url": "https://open.spotify.com/track/0M329YMNtJagZn2pnnT0ua"
@@ -32726,7 +32780,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 182891,
       "name": "PRIMER AVISO",
       "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
@@ -34944,7 +34998,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -34962,7 +35016,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

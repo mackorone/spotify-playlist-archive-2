@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Bild aus Asche",
+        "url": "https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173683,
+      "name": "Bild aus Asche",
+      "url": "https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4"
       },
@@ -2150,6 +2168,24 @@
       "duration_ms": 179500,
       "name": "Just Another Sad Song",
       "url": "https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB"
+    },
+    {
+      "album": {
+        "name": "Keepin' Up With the Jones'",
+        "url": "https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Spadina",
+          "url": "https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Keepin' Up With the Jones'",
+      "url": "https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL"
     },
     {
       "album": {
@@ -4440,6 +4476,24 @@
       "duration_ms": 202826,
       "name": "Unbreakable Love",
       "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
+    },
+    {
+      "album": {
+        "name": "under my skin",
+        "url": "https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "under my skin",
+      "url": "https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D"
     },
     {
       "album": {

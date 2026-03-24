@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170526,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 137422,
       "name": "No Bad Days",
       "url": "https://open.spotify.com/track/4LinlODPKgF3shJ7TdwOYs"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 186775,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 178273,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4o3MYXGLACanoZ2qaG3A5Q"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA"
@@ -3668,6 +3668,28 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "album": {
+        "name": "THIS IS THE DAY",
+        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Worship",
+          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+        },
+        {
+          "name": "Joshua Seller",
+          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224081,
+      "name": "THIS IS THE DAY",
+      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
     },
     {
       "album": {
@@ -3752,6 +3774,24 @@
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/5gZlvjxJJue1I2ztKRRjjm"
+    },
+    {
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "album": {
@@ -4078,6 +4118,24 @@
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
+    },
+    {
+      "album": {
+        "name": "YES BE YES",
+        "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165619,
+      "name": "YES BE YES",
+      "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
     },
     {
       "album": {

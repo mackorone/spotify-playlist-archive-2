@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 682 songs - 1 day 20 hr 41 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 695 songs - 1 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -689,6 +689,19 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 679 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
 | 680 | [A Fake in a Faker’s World](https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 8:18 |
 | 681 | [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 |
-| 682 | [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 |
+| 682 | [LEFT ARM OF LIFE](https://open.spotify.com/track/2iCnOTsu6UPuKGfATR4BdP) | [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [Peaceful as Hell](https://open.spotify.com/album/5oZ5YCtaBH4L4Q2rrQpdvg) | 4:08 |
+| 683 | [The Golden Age](https://open.spotify.com/track/1bGas968flWbyqIdVqlHt4) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:34 |
+| 684 | [Remains](https://open.spotify.com/track/3jl5f2VhjgHu0YDLXCJD8d) | [Algiers](https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o) | [Algiers](https://open.spotify.com/album/5sDtOMUNnP5TQTWm3RFzpJ) | 3:05 |
+| 685 | [Michael Jordan of Drunk Driving](https://open.spotify.com/track/1ExEqqPOmKAa3iPEg8yEaq) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/6vl5MGvAtiwMKtFf3tr9u7) | 0:22 |
+| 686 | [Walk Out Music](https://open.spotify.com/track/0FGRz6asyUOpTylt60xEXd) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:20 |
+| 687 | [Famous Last Words](https://open.spotify.com/track/1axXy2bgUSeEN7h6Ob9Qbo) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 4:16 |
+| 688 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
+| 689 | [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 |
+| 690 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
+| 691 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |
+| 692 | [TEJI](https://open.spotify.com/track/4zRuUgwyR9r3p1Wc7ZMtde) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/3kcLseJNFGfubBeDxpG66V) | 2:34 |
+| 693 | [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 |
+| 694 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
+| 695 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
 
-Snapshot ID: `AAAIwIiqdis3AlWdeowp9+BCKEevI3Fd`
+Snapshot ID: `AAAIziGrG0ytLQgnVd7RxCvI8Z2VISjs`

@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Felix Dyotte, Clea Vincent
 
-420 songs - 23 hr 19 min
+424 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 | 2026-01-23 |  |
 | [Ne me quitte pas des yeux](https://open.spotify.com/track/3o8R0EWZOAm7zWkMLG6BNc) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Ne me quitte pas des yeux](https://open.spotify.com/album/7o3NPNaON3hnqFzWZbCY9P) | 5:07 | 2026-02-27 |  |
 | [Ne partez pas sans moi](https://open.spotify.com/track/040pT97vMtIYgABtNjzrau) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Ne partez pas sans moi](https://open.spotify.com/album/17go52ItR838U5I3fywNDA) | 3:12 | 2025-02-21 | 2025-11-15 |
+| [Ni Dieu ni maître](https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ni Dieu ni maître](https://open.spotify.com/album/5PLiXLTCFIEuuEr5BHn7ir) | 3:55 | 2026-03-23 |  |
 | [NOIR SUR NOIR](https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [NOIR SUR NOIR](https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8) | 3:27 | 2024-06-28 | 2025-02-08 |
 | [Nos cicatrices](https://open.spotify.com/track/1b0EYPLnXtyYpPB1qkJliG) | [Disskidz](https://open.spotify.com/artist/621Toc7aqMYyQZsDQbU4j8), [Camille Leboeuf](https://open.spotify.com/artist/2OjnA79HBttMm8yknUn4oJ) | [Nos cicatrices](https://open.spotify.com/album/1wN9eM1Af0cUrDXJVfHwlQ) | 3:29 | 2025-11-21 | 2026-01-24 |
 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 | 2024-06-28 | 2024-11-16 |
@@ -302,6 +303,7 @@
 | [Oublier encore](https://open.spotify.com/track/5EQ6C8Vsf07tLViGKvZ4nK) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Oublier encore](https://open.spotify.com/album/7iBfcEwa9oigXuvMn06Gsd) | 2:41 | 2026-02-13 | 2026-03-21 |
 | [Oumuamua](https://open.spotify.com/track/1Hw1bse3CqWfrmhQWEu0mj) | [Claire Pelletier](https://open.spotify.com/artist/1q7Bztq701W8KGpmxAgYhT) | [Oumuamua](https://open.spotify.com/album/6CbNcbJPYvVqEVGPA079oz) | 4:48 | 2025-11-07 | 2026-01-31 |
 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 | 2025-03-14 | 2025-11-15 |
+| [Panne électrique \- Version piano](https://open.spotify.com/track/7n6ndSC1Y0LRatyupnApF9) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Panne électrique / Not Your Princess \(Versions piano\)](https://open.spotify.com/album/3HaJRUOwXoFjZtO6HFZwUU) | 2:52 | 2026-03-23 |  |
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
 | [Paranoïa etc.](https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa) | [Paranoïa etc.](https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37) | 2:56 | 2024-10-11 | 2025-01-18 |
 | [Parfaite](https://open.spotify.com/track/2GP3VhE1kaZR4FupxwbHJo) | [Marie\-France Lantin](https://open.spotify.com/artist/5Yrr2h5czzCl3c2YK7vaj9) | [Parfaite](https://open.spotify.com/album/78n8vnv7ZZa31F6nzlcWCZ) | 3:42 | 2025-11-28 | 2025-12-13 |
@@ -392,8 +394,10 @@
 | [Tout recommencer](https://open.spotify.com/track/4EhBaG2hdrhLihGaiqCx0F) | [Eadsé](https://open.spotify.com/artist/5biCyT4MF6VeO67WW5t4sv) | [Tout recommencer](https://open.spotify.com/album/1Oerln1qMwYoqMEgfDZvJy) | 3:49 | 2025-11-07 | 2026-02-21 |
 | [Toute ma vie](https://open.spotify.com/track/3TOLf0LDzOrWXY6YwySG8E) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Toute ma vie](https://open.spotify.com/album/4QFHn2Ueb5E12KEPygVomi) | 2:50 | 2025-09-18 | 2025-10-18 |
 | [Toutes tes idoles](https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Toutes tes idoles](https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2) | 3:53 | 2024-11-22 | 2025-10-25 |
+| [Trop parlé](https://open.spotify.com/track/7DpQ1uCVvRGnP0ZhStpJ5k) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5) | [DLB II](https://open.spotify.com/album/1xSa9wFg4QWikDrF2y8bBu) | 2:46 | 2026-03-23 |  |
 | [Tshitatau](https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:23 | 2024-06-28 | 2025-05-17 |
 | [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 | 2024-09-21 |
+| [Tu seul](https://open.spotify.com/track/3H3x55M8uhodA1DVkdIWd5) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Tu seul](https://open.spotify.com/album/7Daz2JAz3k0H2ge4FtJ4Aa) | 5:21 | 2026-03-23 |  |
 | [Type](https://open.spotify.com/track/1wlABGWT6u3CCHCMuFSKAH) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Type](https://open.spotify.com/album/6vBv82o0TEGGwRX9nYnBAX) | 2:55 | 2025-12-05 | 2026-01-17 |
 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 | 2025-09-26 | 2026-01-17 |
 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 | 2024-06-28 | 2025-11-01 |

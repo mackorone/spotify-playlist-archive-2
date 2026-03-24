@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Jackie Hollander.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,817 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,822 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 15 | [Love On Me](https://open.spotify.com/track/3rBYmkOB8N1Z4bCa3DsdPK) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj), [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [Love On Me](https://open.spotify.com/album/3ScGSR9l9CAIr7NNYq5bOJ) | 2:27 |
 | 16 | [Gimme Dat](https://open.spotify.com/track/1MwIuhWqaLKTA3CrAaEZM5) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [Gimme Dat](https://open.spotify.com/album/2b06j6NmZwWm03yspjQKLC) | 2:53 |
 | 17 | [TAKIN PICTURES](https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW) | [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [TAKIN PICTURES](https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC) | 2:51 |
-| 18 | [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
+| 18 | [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
 | 19 | [Miami Crest](https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Miami Crest](https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql) | 2:39 |
 | 20 | [FREAK](https://open.spotify.com/track/4CmdvI4QzrhPscIcthDgOL) | [Eve Lauren](https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g) | [FREAK](https://open.spotify.com/album/6F1CskEjdXePcK7JLzyebH) | 3:27 |
 | 21 | [Energy](https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Kendra Foster](https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi) | [Energy](https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa) | 2:52 |

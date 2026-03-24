@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Isabèl Usher
 
-1,259 songs - 2 day 12 hr 10 min
+1,260 songs - 2 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,7 @@
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Huil Maar Niet Om Mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-05-16 | 2024-08-02 |
 | [Huilen In De Bioscoop](https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Huilen In De Bioscoop](https://open.spotify.com/album/0oHj3DnR0rpVXptWzN9V6o) | 2:27 | 2024-04-04 | 2024-07-05 |
-| [Huis Van Een Vreemde \- live](https://open.spotify.com/track/4rKnLgR1a8MjPOwKAyHIns) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Huis Van Een Vreemde \(live\)](https://open.spotify.com/album/1h7dc9m6aAZDFOA7TD7NXc) | 2:37 | 2025-12-11 |  |
+| [Huis Van Een Vreemde \- live](https://open.spotify.com/track/4rKnLgR1a8MjPOwKAyHIns) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Huis Van Een Vreemde \(live\)](https://open.spotify.com/album/1h7dc9m6aAZDFOA7TD7NXc) | 2:37 | 2025-12-11 | 2026-03-24 |
 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-06-26 | 2025-08-15 |
 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2025-07-17 | 2025-11-07 |
 | [Huisje Aan Het Water](https://open.spotify.com/track/1EcwuXNS8Dp0wnrnR2R4G6) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Huisje Aan Het Water](https://open.spotify.com/album/7EIdhqTPZrGRL0SCr3FleA) | 2:41 | 2025-07-10 | 2025-08-29 |
@@ -869,6 +869,7 @@
 | [Ongevraagde Vragen](https://open.spotify.com/track/2nlLX6pgUHvu9esjEbDFcx) | [Shenelva](https://open.spotify.com/artist/59mZykBJSMZk08cUncPyjv) | [Ongevraagde Vragen](https://open.spotify.com/album/5jtb0lHqQpm7XAkbRZ8cgF) | 3:27 | 2024-10-18 | 2024-12-13 |
 | [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-31 | 2023-09-22 |
 | [Online](https://open.spotify.com/track/64r0yTL6Tinak5LjCOUpxG) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online](https://open.spotify.com/album/2aTr3xBo8zgf7Ya845DypK) | 2:50 | 2023-02-23 | 2023-03-18 |
+| [Ons Hart](https://open.spotify.com/track/1twrDS67jyp2YXGZ89jAF3) | [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Ons Hart](https://open.spotify.com/album/2SVy3vM8Lw9w9MOXICtsJI) | 2:54 | 2026-03-23 |  |
 | [Onweer In M'n Hoofd](https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Onweer In M'n Hoofd](https://open.spotify.com/album/7DP9NG2p1qW5hgO2S87BT3) | 2:54 | 2024-09-12 | 2024-10-25 |
 | [Oog van de Orkaan](https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Oog van de Orkaan](https://open.spotify.com/album/7cSCqm3G9fVViBjTEh3YAT) | 2:58 | 2025-12-11 | 2026-01-15 |
 | [Ooit](https://open.spotify.com/track/1cfwCRlpkbTDoVQwY0jF7L) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Ooit](https://open.spotify.com/album/2tSHHPhn58yk1pHuAbO8HT) | 3:28 | 2025-02-07 | 2025-04-25 |

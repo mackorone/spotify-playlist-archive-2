@@ -1,13 +1,209 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2707,
+  "num_followers": 2709,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARqasfL+n2sH38NfAj7c0zBHnNrmWk",
+  "snapshot_id": "AAARtW+uhNoUjUnnq3lFBcPRi3aO0nZ5",
   "tracks": [
+    {
+      "added_at": "2026-03-24 00:32:04",
+      "album": {
+        "name": "Black Jack EP",
+        "url": "https://open.spotify.com/album/6vEtqugNHm1UotnYuX9dy2"
+      },
+      "artists": [
+        {
+          "name": "ProOne79",
+          "url": "https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b"
+        }
+      ],
+      "duration_ms": 300468,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4zn8LrN54OLY1FUvRVzsoV"
+    },
+    {
+      "added_at": "2026-03-23 22:58:22",
+      "album": {
+        "name": "Neon Renaissance",
+        "url": "https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Saint of the Broken",
+      "url": "https://open.spotify.com/track/25Avv41cgENKDtjAuzEUEl"
+    },
+    {
+      "added_at": "2026-03-23 22:57:44",
+      "album": {
+        "name": "No Ref",
+        "url": "https://open.spotify.com/album/33lQqtRNdyvieE3hNSGDHO"
+      },
+      "artists": [
+        {
+          "name": "PakoLP",
+          "url": "https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta"
+        },
+        {
+          "name": "Pasquale Licito",
+          "url": "https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "No Ref",
+      "url": "https://open.spotify.com/track/3Nm4NCldFwiefi74NrbRpm"
+    },
+    {
+      "added_at": "2026-03-23 21:44:13",
+      "album": {
+        "name": "Neon Renaissance",
+        "url": "https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 120011,
+      "name": "Throne of Dust",
+      "url": "https://open.spotify.com/track/61nOmRmS9uc93lx3hKWv7x"
+    },
+    {
+      "added_at": "2026-03-23 16:22:10",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "Fading Signals",
+      "url": "https://open.spotify.com/track/4f7AC73JowRSHRPlC7aYn8"
+    },
+    {
+      "added_at": "2026-03-23 16:05:45",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Letters in Static",
+      "url": "https://open.spotify.com/track/1wCbdUmXHP0d0OkwSC8wl4"
+    },
+    {
+      "added_at": "2026-03-23 15:16:02",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "First Light Between Us",
+      "url": "https://open.spotify.com/track/5Z42zIOR1RvNMstPC36PrM"
+    },
+    {
+      "added_at": "2026-03-23 15:01:51",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "When the Horizon Fades",
+      "url": "https://open.spotify.com/track/0vcXVau1aCULmiUJS7oB7v"
+    },
+    {
+      "added_at": "2026-03-23 14:11:07",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 342240,
+      "name": "Weightless Between Stars",
+      "url": "https://open.spotify.com/track/4oc9A5pZ2Tjny7rv8YfBsz"
+    },
+    {
+      "added_at": "2026-03-23 13:45:31",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Fragments of Tomorrow",
+      "url": "https://open.spotify.com/track/6zGahEIwAG0J9TwO1eybzS"
+    },
+    {
+      "added_at": "2026-03-23 08:57:12",
+      "album": {
+        "name": "Parallel Skies: Future Garage & Cinematic Bass (Vol. 1)",
+        "url": "https://open.spotify.com/album/1zHuy0yhMHocAREenyzNIB"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Parallel Hearts",
+      "url": "https://open.spotify.com/track/7LMmZBoVqH24dFwQLsnyE6"
+    },
+    {
+      "added_at": "2026-03-23 08:29:07",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "Bleached Out",
+      "url": "https://open.spotify.com/track/5OHrUWLMuc6o1l5lvBUj0j"
+    },
     {
       "added_at": "2026-03-22 13:46:34",
       "album": {

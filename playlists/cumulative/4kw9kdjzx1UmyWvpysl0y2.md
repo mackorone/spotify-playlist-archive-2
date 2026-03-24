@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,195 songs - 2 day 18 hr 36 min
+1,196 songs - 2 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 | 2022-08-31 |
+| [JUST A PART OF ME](https://open.spotify.com/track/2yDlUK6T3DwuHDxtVPqwyV) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [JUST A PART OF ME](https://open.spotify.com/album/5vMxSOt0t5KJT9JUF6LEEZ) | 3:40 | 2026-03-23 |  |
 | [Just Dance](https://open.spotify.com/track/3OTClWUY9bf3qVXrR9LNL6) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Just Dance](https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4) | 3:14 | 2022-04-15 | 2022-06-25 |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-05-04 | 2023-07-29 |
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |

@@ -2,12 +2,13 @@
 
 ### [Hollandse Meezingers](https://open.spotify.com/playlist/37i9dQZF1DWTS9w7exPdXE)
 
-> Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\) wint twee Edisons: Nieuwkomer en Hollands
+> Nederpop en Volkspop meezingers\. Cover: Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\)
 
-120 songs - 6 hr 18 min
+121 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 | 2026-03-23 |  |
 | [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 | 2025-06-06 |  |
 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 | 2025-06-06 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-06-06 |  |
@@ -70,7 +71,7 @@
 | [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Jij Krijgt Die Lach Niet Van Mijn Gezicht](https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk) | 3:20 | 2025-12-10 | 2026-02-10 |
 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 | 2025-06-06 |  |
 | [Jouw Blik](https://open.spotify.com/track/3kkb0mHyZJTFGrzaUscnkh) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Jouw Blik](https://open.spotify.com/album/1nsSemfOY3jGrPmBdWAhst) | 3:39 | 2025-06-06 |  |
-| [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-12-10 |  |
+| [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-12-10 | 2026-03-24 |
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-12-10 |  |
 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 | 2025-12-10 | 2026-03-11 |
 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 | 2025-06-06 |  |

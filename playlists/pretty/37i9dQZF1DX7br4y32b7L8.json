@@ -1,37 +1,13 @@
 {
   "description": "#fyp songs voor je playlist",
-  "num_followers": 48911,
+  "num_followers": 48918,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3A8AWPb7ylZlJtC1/nrbh3cWER",
+  "snapshot_id": "AAAAAAVfTzNsGv8a8bjjZJaix5vjiIRI",
   "tracks": [
-    {
-      "added_at": "2026-03-19 16:00:13",
-      "album": {
-        "name": "Shoulder Lean",
-        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "GP UIT G",
-          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
-        },
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        }
-      ],
-      "duration_ms": 154310,
-      "name": "Shoulder Lean",
-      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
-    },
     {
       "added_at": "2026-03-19 16:00:13",
       "album": {
@@ -55,38 +31,26 @@
     {
       "added_at": "2026-03-19 16:00:13",
       "album": {
-        "name": "Hans Kazan",
-        "url": "https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV"
+        "name": "Shoulder Lean",
+        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
       },
       "artists": [
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hans Kazan",
-      "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
-    },
-    {
-      "added_at": "2026-03-19 16:00:13",
-      "album": {
-        "name": "Turn The Lights Off",
-        "url": "https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6"
-      },
-      "artists": [
-        {
-          "name": "Kato",
-          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
         },
         {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Turn The Lights Off - Radio Edit",
-      "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
+      "duration_ms": 154310,
+      "name": "Shoulder Lean",
+      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
     },
     {
       "added_at": "2026-03-19 16:00:13",
@@ -123,6 +87,42 @@
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-03-19 16:00:13",
+      "album": {
+        "name": "Hans Kazan",
+        "url": "https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hans Kazan",
+      "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
+    },
+    {
+      "added_at": "2026-03-19 16:00:13",
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6"
+      },
+      "artists": [
+        {
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Turn The Lights Off - Radio Edit",
+      "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
     },
     {
       "added_at": "2026-03-19 16:00:13",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-03-19 16:00:13",
       "album": {
-        "name": "This is my house",
-        "url": "https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3"
-      },
-      "artists": [
-        {
-          "name": "Ninochello",
-          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
-        }
-      ],
-      "duration_ms": 134138,
-      "name": "This is my house",
-      "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
-    },
-    {
-      "added_at": "2026-03-19 16:00:13",
-      "album": {
         "name": "Waar Was Je?",
         "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2026-03-19 16:00:13",
       "album": {
-        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
-        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
+        "name": "This is my house",
+        "url": "https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Ninochello",
+          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
         }
       ],
-      "duration_ms": 150733,
-      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
-      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
+      "duration_ms": 134138,
+      "name": "This is my house",
+      "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
     },
     {
       "added_at": "2026-03-19 16:00:13",
@@ -447,6 +431,22 @@
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
+    },
+    {
+      "added_at": "2026-03-19 16:00:13",
+      "album": {
+        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
+        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
+      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
     },
     {
       "added_at": "2026-03-19 16:00:13",

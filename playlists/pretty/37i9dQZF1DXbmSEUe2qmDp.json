@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabi Suarez, Day & Lara",
-  "num_followers": 483741,
+  "num_followers": 483757,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Lugar de Fala",
+        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        }
+      ],
+      "duration_ms": 164465,
+      "name": "Lugar de Fala",
+      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Lugar de Fala",
-        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
-      },
-      "artists": [
-        {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
-        }
-      ],
-      "duration_ms": 164465,
-      "name": "Lugar de Fala",
-      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 151645,
       "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
       "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
         "name": "Cad\u00ea Voc\u00ea?",
         "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 150822,
       "name": "Cad\u00ea Voc\u00ea?",
       "url": "https://open.spotify.com/track/2XjtqFgZx18W8Mq9pdH60n"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
     },
     {
       "added_at": "2026-03-20 03:00:31",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-03-20 03:00:31",
       "album": {
-        "name": "Deu Onda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
-      },
-      "artists": [
-        {
-          "name": "Breno Ferreira",
-          "url": "https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk"
-        },
-        {
-          "name": "Guilherme e Benuto",
-          "url": "https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga"
-        }
-      ],
-      "duration_ms": 128059,
-      "name": "Vestidinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
-    },
-    {
-      "added_at": "2026-03-20 03:00:31",
-      "album": {
         "name": "Esquec\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 198794,
       "name": "Esquec\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
+    },
+    {
+      "added_at": "2026-03-20 03:00:31",
+      "album": {
+        "name": "Deu Onda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
+      },
+      "artists": [
+        {
+          "name": "Breno Ferreira",
+          "url": "https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk"
+        },
+        {
+          "name": "Guilherme e Benuto",
+          "url": "https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga"
+        }
+      ],
+      "duration_ms": 128059,
+      "name": "Vestidinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
     },
     {
       "added_at": "2026-03-20 03:00:31",

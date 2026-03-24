@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,740 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,757 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 69 | [Nos Vamos A Gozar](https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW) | [El Swing Divino](https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk) | [Adorar A Dios](https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn) | 3:15 |
 | 70 | [Baila](https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [JonCarlos + Gabriella](https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47) | [Baila](https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB) | 3:29 |
 | 71 | [Me Encontró](https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Me Encontró](https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p) | 3:54 |
-| 72 | [Me Dejo Llevar](https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Nathalye Rios](https://open.spotify.com/artist/3dfjx2pUDQBCsgZqdTEwaF), [Miguel Ibañez](https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ) | [No Hay Otro](https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk) | 2:41 |
-| 73 | [Hay Una Fuente en Mí](https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Hay Una Fuente en Mí](https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY) | 3:52 |
+| 72 | [Hay Una Fuente en Mí](https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Hay Una Fuente en Mí](https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY) | 3:52 |
+| 73 | [Me Dejo Llevar](https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Nathalye Rios](https://open.spotify.com/artist/3dfjx2pUDQBCsgZqdTEwaF), [Miguel Ibañez](https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ) | [No Hay Otro](https://open.spotify.com/album/1HmpOYUfu1GByycGrR9grk) | 2:41 |
 | 74 | [SOL](https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK) | [LINARES](https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8), [Eliezer Daniels](https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9) | [SOL](https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr) | 2:58 |
 | 75 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
-| 76 | [Más Que Ayer](https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Más Que Ayer](https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH) | 3:30 |
-| 77 | [Prende La Moto](https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Prende La Moto](https://open.spotify.com/album/124x29480ASQ28sibsSykf) | 2:46 |
+| 76 | [Prende La Moto](https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Prende La Moto](https://open.spotify.com/album/124x29480ASQ28sibsSykf) | 2:46 |
+| 77 | [Más Que Ayer](https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Más Que Ayer](https://open.spotify.com/album/49E7AN21BhiUQ1t366FqYH) | 3:30 |
 | 78 | [Cuando está la Presencia del Rey](https://open.spotify.com/track/2l2IGV4CEBnT310cWK5PH4) | [Margarita de la Cruz](https://open.spotify.com/artist/6TgLtqzmFhIQD4OMxW1AF7) | [Cuando está la Presencia del Rey](https://open.spotify.com/album/5w6KLLGX8tLm7r4SL04PDZ) | 4:36 |
 | 79 | [Fuego En El Altar \(Alabar al Rey\)](https://open.spotify.com/track/7FQTM4CTPymdNnAzTOTbFV) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Set Religioso](https://open.spotify.com/album/1Jsps0jrrKU6Ia4R80nLRB) | 0:53 |
 | 80 | [Mi Creador](https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mi Creador](https://open.spotify.com/album/16X429nrjpTB4Slqplq98d) | 2:56 |

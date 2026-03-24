@@ -1,12 +1,12 @@
 {
-  "description": "Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest) wint twee Edisons: Nieuwkomer en Hollands",
-  "num_followers": 158988,
+  "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
+  "num_followers": 159043,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud",
+  "snapshot_id": "AAAAAP4nAN72Q04lzIdb3TnGMZHecN97",
   "tracks": [
     {
       "added_at": "2026-03-09 22:00:04",
@@ -419,6 +419,26 @@
       "duration_ms": 185137,
       "name": "Jammer Dan",
       "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2026-03-23 09:14:34",
+      "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2026-03-09 22:00:04",
@@ -1735,22 +1755,6 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-03-09 22:00:04",
-      "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA"
-      },
-      "artists": [
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Kali - Kali",
-      "url": "https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb"
     }
   ],
   "unique_name": "Hollandse Meezingers",

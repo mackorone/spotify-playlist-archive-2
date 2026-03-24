@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 265 songs - 10 hr 35 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 266 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,12 +115,12 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 105 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 |
 | 106 | [don'twasteurtimeonme.](https://open.spotify.com/track/11HdoXtPilCaCGTnIu1HvU) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 3:02 |
 | 107 | [why try?](https://open.spotify.com/track/4TaktbfwiMLBG8TI49Qi9o) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [why try?](https://open.spotify.com/album/4UnwglMgm3Slopx5HGDoJb) | 2:39 |
-| 108 | [pity party.](https://open.spotify.com/track/4huNCzAZGc2nmzs3uMU6Qp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Nurture Nurture](https://open.spotify.com/artist/4HsVsh5FD1FlKpUSbbmvIv) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 2:06 |
-| 109 | [nightcoringearly2000ssongsthatmakemethinkofyou.](https://open.spotify.com/track/4ASdPwug1EYZnqLQ2hMklT) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:07 |
-| 110 | [through thunder & lightning.](https://open.spotify.com/track/0uuk8tkyqYtmiqvYn9yiGJ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9) | [through thunder & lightning.](https://open.spotify.com/album/2hXBqVtxCv26RpUdjzUFHK) | 1:50 |
-| 111 | [stuck in my room.](https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 3:01 |
-| 112 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
-| 113 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 |
+| 108 | [nightcoringearly2000ssongsthatmakemethinkofyou.](https://open.spotify.com/track/4ASdPwug1EYZnqLQ2hMklT) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:07 |
+| 109 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 |
+| 110 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 |
+| 111 | [through thunder & lightning.](https://open.spotify.com/track/0uuk8tkyqYtmiqvYn9yiGJ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9) | [through thunder & lightning.](https://open.spotify.com/album/2hXBqVtxCv26RpUdjzUFHK) | 1:50 |
+| 112 | [stuck in my room.](https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 3:01 |
+| 113 | [pity party.](https://open.spotify.com/track/4huNCzAZGc2nmzs3uMU6Qp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Nurture Nurture](https://open.spotify.com/artist/4HsVsh5FD1FlKpUSbbmvIv) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 2:06 |
 | 114 | [i hate you, leave me alone.](https://open.spotify.com/track/6DJ9ZCwfXvP8ZSzhdUjxmJ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hate you, leave me alone.](https://open.spotify.com/album/0KJ79P4oys85ELzqSFwf4f) | 2:29 |
 | 115 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 |
 | 116 | [i hope u fear me.](https://open.spotify.com/track/0HqcwbplDetVGvMxJgJQ9X) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [i hope u fear me.](https://open.spotify.com/album/5ofkGrEBohfY7wGNse2yqO) | 2:55 |
@@ -273,5 +273,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 263 | [Два пива](https://open.spotify.com/track/2ra5h8PS1nH3Bq4FFZ4yuu) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [молодой калуга](https://open.spotify.com/artist/0Tqo0PZewBqEA7VKODeWTF) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:57 |
 | 264 | [Дубчик](https://open.spotify.com/track/1uWUG6pioVivZHFDvgR90S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:03 |
 | 265 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
+| 266 | [gilf](https://open.spotify.com/track/6P8pDVDQA8zcigpqvYPllq) | [ak47liltwan](https://open.spotify.com/artist/3a1LOUpH70OL0iqO8Rl1sS) | [gilf](https://open.spotify.com/album/388NZVLBlwArCqyDlppxDD) | 1:17 |
 
-Snapshot ID: `AAAGd+ClROv8hNg/vePXl2qt9tJdMdMY`
+Snapshot ID: `AAAGfeZjLURi5iD4K9xHvz61N1mAttbO`

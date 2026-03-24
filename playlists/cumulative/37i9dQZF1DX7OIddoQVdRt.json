@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: CeCe Winans & Shirley Caesar",
+  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: Tasha Cobbs Leonard",
   "name": "Gospel Hits",
   "tracks": [
     {
@@ -5153,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Confetti & Conspiracies: The Amen Mixtape",
+        "url": "https://open.spotify.com/album/3n1ZcpEmjNKXc7M5VPmkZX"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137053,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/511ZzubAccO7n3hAwhY3EW"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 222169,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"

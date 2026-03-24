@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAbK6YmE0yfRK1QJFLD3vpd",
+  "snapshot_id": "ab8xAAAAAABZK9k/XbK8lAJj9rEfkO4h",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+        "name": "The Never Story",
+        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 410733,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
+      "duration_ms": 265882,
+      "name": "D/vision",
+      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
     },
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Never Story",
-        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 265882,
-      "name": "D/vision",
-      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
+      "duration_ms": 410733,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fear No More (Remix)",
-        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "No Fear No More (Remix)",
-      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNAKEGANG EP Volume 1",
         "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
       },
@@ -839,26 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+        "name": "No Fear No More (Remix)",
+        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
       },
       "artists": [
         {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2"
+      "duration_ms": 174682,
+      "name": "No Fear No More (Remix)",
+      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
     },
     {
       "added_at": null,
@@ -891,6 +867,30 @@
       "duration_ms": 195800,
       "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2"
     },
     {
       "added_at": null,

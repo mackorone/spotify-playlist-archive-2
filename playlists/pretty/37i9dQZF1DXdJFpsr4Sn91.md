@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,284 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,283 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 42 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 |
 | 43 | [Latu on auki](https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Latu on auki](https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE) | 3:00 |
 | 44 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |
-| 45 | [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 |
-| 46 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
+| 45 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
+| 46 | [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 |
 | 47 | [Lululai](https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Lululai](https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp) | 2:46 |
 | 48 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:45 |
 | 49 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 50 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 |
 | 51 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 52 | [Rakkaudenkipee](https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rakkaudenkipee](https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7) | 2:54 |
-| 53 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
+| 52 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
+| 53 | [Rakkaudenkipee](https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rakkaudenkipee](https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7) | 2:54 |
 | 54 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
 | 55 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 56 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 63 | [PETSHOP](https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [PETSHOP](https://open.spotify.com/album/57iAh3QvNudObASmZccMzD) | 3:09 |
 | 64 | [Aloittelijat](https://open.spotify.com/track/3N3BAE6zMcLGl4znCXtzoI) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/0rA902E230Stu32mLX4axp) | 2:57 |
 | 65 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
-| 66 | [Ready To Leave](https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD) | [Sinikka Monte](https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok) | [Ready To Leave](https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg) | 2:58 |
-| 67 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
+| 66 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
+| 67 | [Ready To Leave](https://open.spotify.com/track/0ZTknywhGMhRcPijHC3aiD) | [Sinikka Monte](https://open.spotify.com/artist/4DdESeB3YoWHEh2v5jxSok) | [Ready To Leave](https://open.spotify.com/album/42bZeoJyztvoPtI5YOiQQg) | 2:58 |
 | 68 | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR) | 3:08 |
 | 69 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
-| 70 | [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 |
-| 71 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
+| 70 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
+| 71 | [Wildfire](https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Wildfire](https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7) | 3:53 |
 | 72 | [Jokaisen hymyn takana](https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jokaisen hymyn takana](https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu) | 3:08 |
 | 73 | [Aamun kuiskaus \(Vain elämää kausi 16\)](https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [VIIVI \(Vain elämää kausi 16\)](https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5) | 3:11 |
 | 74 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |

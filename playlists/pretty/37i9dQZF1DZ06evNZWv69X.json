@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8593,
+  "num_followers": 8595,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAC6wBETvYAdjBwWiyd9mCZi",
+  "snapshot_id": "ab8xAAAAAACUmEU421Wl2laE2L4NlLHH",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Una Historia M\u00e1s",
-      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
+      "duration_ms": 165360,
+      "name": "Blu Ice",
+      "url": "https://open.spotify.com/track/32AwM8oVT5LMZ4v9MGYaEf"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre los \u00c1rboles",
-        "url": "https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p"
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Blu Ice",
-      "url": "https://open.spotify.com/track/32AwM8oVT5LMZ4v9MGYaEf"
+      "duration_ms": 243413,
+      "name": "Una Historia M\u00e1s",
+      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
+        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Devuelve un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Soundtrack de una Vida",
         "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 201453,
       "name": "El Dolor del Amor",
       "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Esos D\u00edas",
-      "url": "https://open.spotify.com/track/3uGefvMlhG2ITP6FdJcOPL"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 190960,
-      "name": "Devuelve un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
+      "duration_ms": 208613,
+      "name": "Esos D\u00edas",
+      "url": "https://open.spotify.com/track/3uGefvMlhG2ITP6FdJcOPL"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 291320,
       "name": "Cuenta la Historia",
       "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "Momentos de Ti",
-      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "Momentos de Ti",
+      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar de Copas",
         "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+        "name": "El Soundtrack de una Vida",
+        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 210946,
-      "name": "Ni para Rogar un Beso",
-      "url": "https://open.spotify.com/track/7ahXvgKXKHbLLDcf6F9adS"
+      "duration_ms": 120053,
+      "name": "A tu lado",
+      "url": "https://open.spotify.com/track/4V9KOFxoj2K8kqYWfAsjPi"
     }
   ],
   "unique_name": "This Is Mar de Copas",

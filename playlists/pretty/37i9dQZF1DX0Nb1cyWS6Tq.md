@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Release the bats..\. The Cure on cover.
+> Bela Lugosi's Dead..\. Bauhaus on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,911 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,043 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

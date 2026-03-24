@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok, Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,170 likes - 94 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,162 likes - 94 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 93 | [ALONE](https://open.spotify.com/track/4eiKr2bLcflYw2nH0BY1Sq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06), [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [ALONE](https://open.spotify.com/album/4Dbnuwyd5qBhaYPyxBOs9K) | 3:41 |
 | 94 | [P.U.M.P](https://open.spotify.com/track/0hvvdKqFRnOah2xujgGjX5) | [Shugz](https://open.spotify.com/artist/4tMlRT8e6fHXzLSbbVpvcV) | [P.U.M.P](https://open.spotify.com/album/1jrN04B30JmwpqDk3eofbQ) | 3:13 |
 
-Snapshot ID: `AAAAAHRdkKTmAuu8Q+URB/guq9/1zZxI`
+Snapshot ID: `AAAAAJPD6wqCaixqHf/s4LLmEmhgFXAz`

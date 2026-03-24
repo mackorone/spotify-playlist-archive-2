@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Music around the world ✈️
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,219 likes - 46 songs - 2 hr 42 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,259 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

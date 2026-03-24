@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,172 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,175 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 32 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 |
 | 33 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
 | 34 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 |
-| 35 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
-| 36 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
+| 35 | [Iworiwo](https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Iworiwo](https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel) | 4:02 |
+| 36 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
 | 37 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 |
 | 38 | [Worry Me](https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu) | [DJ Jimmy Jatt](https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Worry Me](https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p) | 3:13 |
 | 39 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Abeg Abeg \(feat\. 2Baba & Timaya\)](https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS) | 3:32 |
 | 50 | [Drunk In Love](https://open.spotify.com/track/7bMQhHaOpiZbusXlHrInM8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:39 |
 
-Snapshot ID: `ab3fgAAAAAD6SpxigGCqAcXjoBytusGk`
+Snapshot ID: `ab8xAAAAAADXu0qB6IZSsJrDh0Sn1xRj`

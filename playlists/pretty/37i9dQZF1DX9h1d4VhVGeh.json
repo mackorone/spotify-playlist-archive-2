@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 220281,
+  "num_followers": 220300,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-10-01 10:19:54",
       "album": {
-        "name": "El Waet Hdiye",
-        "url": "https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "El Waet Hdiye",
-      "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
-    },
-    {
-      "added_at": "2025-10-01 10:19:54",
-      "album": {
         "name": "Best of Salwa El Katrib, Vol. 1",
         "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 254640,
       "name": "Khedni Maak Aa Darb Bi'ldi",
       "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
+    },
+    {
+      "added_at": "2025-10-01 10:19:54",
+      "album": {
+        "name": "El Waet Hdiye",
+        "url": "https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "El Waet Hdiye",
+      "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
     },
     {
       "added_at": "2025-10-01 10:19:54",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-01 10:19:54",
       "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
-    },
-    {
-      "added_at": "2025-10-01 10:19:54",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 241381,
       "name": "\u0631\u062c\u0639\u0646\u0627 \u0627\u0644\u062a\u0642\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8"
+    },
+    {
+      "added_at": "2025-10-01 10:19:54",
+      "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2025-10-01 10:19:54",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-10-01 10:19:54",
       "album": {
-        "name": "Bala Wala Shi",
-        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Bala Wala Shi",
-      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
-    },
-    {
-      "added_at": "2025-10-01 10:19:54",
-      "album": {
         "name": "Bahwak",
         "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2025-10-01 10:19:54",
       "album": {
+        "name": "Bala Wala Shi",
+        "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Bala Wala Shi",
+      "url": "https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9"
+    },
+    {
+      "added_at": "2025-10-01 10:19:54",
+      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-10-01 10:19:54",
       "album": {
-        "name": "Raoui",
-        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
-      },
-      "artists": [
-        {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Raoui",
-      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
-    },
-    {
-      "added_at": "2025-10-01 10:19:54",
-      "album": {
         "name": "Al Kawn Janni Maak",
         "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 135060,
       "name": "Al Kawn Janni Maak",
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2025-10-01 10:19:54",
+      "album": {
+        "name": "Raoui",
+        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Raoui",
+      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
     },
     {
       "added_at": "2025-10-01 10:19:54",

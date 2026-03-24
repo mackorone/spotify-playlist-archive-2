@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Asake, Joeboy,  Bees n Honey, King Promise & Mr Eazi, Salle,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,121 likes - 68 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,221 likes - 68 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [CATALYST](https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [IRON ORE](https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr) | 2:32 |
 | 8 | [Melanin](https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Melanin](https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q) | 2:34 |
 | 9 | [Bongolo Cigar](https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Only Sad People Smile: Only Hurt People Heal](https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj) | 2:10 |
-| 10 | [Don't Suffer \(feat\. Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
+| 10 | [Don't Suffer \(with Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
 | 11 | [LUVAGIRL](https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [LUVAGIRL](https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU) | 2:40 |
 | 12 | [Put It On Me](https://open.spotify.com/track/2WvgqvRgh4lGMIWfoXFET7) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Put It On Me](https://open.spotify.com/album/6t81DN5rOfhVQ8xPfetujc) | 2:45 |
 | 13 | [Sweet Baby Angel](https://open.spotify.com/track/350Y4aUGeygzLIr7QDlzdh) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby Angel](https://open.spotify.com/album/5fmH8CipJq22aPbhha3NdY) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,709 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,714 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 20 | [Palácio para Deus](https://open.spotify.com/track/75UPMELAkoXfP0iae3no60) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 5:38 |
 | 21 | [A Cura](https://open.spotify.com/track/53oqPgtv6H6iUpOD5YuQbm) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9) | 5:39 |
 | 22 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 4:01 |
-| 23 | [O Verdadeiro Amor](https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 4:43 |
-| 24 | [O Caminho do Milagre](https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 5:36 |
+| 23 | [O Caminho do Milagre](https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 5:36 |
+| 24 | [O Verdadeiro Amor](https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 4:43 |
 | 25 | [Teu Trabalho é Descansar em Mim](https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9) | 5:15 |
 | 26 | [Tempo de Cura](https://open.spotify.com/track/7FHUxm8Tn3jtBQS6HolOzB) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5) | 6:15 |
 | 27 | [O Consolo para o Incosolável](https://open.spotify.com/track/5knIY1MSvFnpxKZbARx48T) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 5: Ainda é Tempo](https://open.spotify.com/album/5gCeUSSomeJc13BwTVnHo2) | 6:15 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 35 | [Maior Amor](https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 5 \- Quebrando as Maldições](https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR) | 3:20 |
 | 36 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 37 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2AV118c3SJ5z2vLQYhYe0X) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5) | 6:31 |
-| 38 | [No Meio de uma Tempestade](https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 4:44 |
-| 39 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/7Ma1ydULyceJVy4QrLFCFT) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Christie Tristão](https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 4:07 |
+| 38 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/7Ma1ydULyceJVy4QrLFCFT) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Christie Tristão](https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 4:07 |
+| 39 | [No Meio de uma Tempestade](https://open.spotify.com/track/4l4xrva3pFiyH6cynaLTOR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 4:44 |
 | 40 | [Totalmente aos Teus Pés](https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 3:21 |
 | 41 | [Toma Teu Trono](https://open.spotify.com/track/4phyRpGHNe4TwEeJPUqxbd) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 7:01 |
 | 42 | [O Perdão](https://open.spotify.com/track/3tpuKtANlw3gEXorPBjPjT) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Jesus, A Rocha Eterna \- Ao Vivo](https://open.spotify.com/track/1h01qVdXVFd4SZ95mcBD4v) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(Ao Vivo\)](https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS) | 3:47 |
 | 50 | [Eu Te Escolhi](https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS) | 8:16 |
 
-Snapshot ID: `ab3fgAAAAACGahhkwjoXqMtp6nFxaDOV`
+Snapshot ID: `ab8xAAAAAABNnPDu4pxoYy29nIzDKjmm`

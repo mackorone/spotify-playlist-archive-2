@@ -1,13 +1,29 @@
 {
   "description": "Today\u2019s pop, plugged into the culture. Cover: BTS",
-  "num_followers": 550429,
+  "num_followers": 550380,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcT8ETQpL/anYggOxev3WZY7Cjx",
+  "snapshot_id": "AAAAAKcgHkdfk3JKX8TFO6S1QRcHXXNR",
   "tracks": [
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/6elYxwsTNLEQlxDvMxacJn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 189588,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
+    },
     {
       "added_at": "2026-03-20 04:01:38",
       "album": {
@@ -23,6 +39,110 @@
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 154448,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "if i am me, then who are you?",
+        "url": "https://open.spotify.com/album/13YfZnm7Lsoi16WnrUH6vD"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "if i am me, then who are you?",
+      "url": "https://open.spotify.com/track/3wEffdDUhlpDclhtwa4Ngr"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "Love or Lack Thereof",
+        "url": "https://open.spotify.com/album/778SMcYzULEI52vOMo2rFX"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "I'm In Trouble (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP"
     },
     {
       "added_at": "2026-03-20 04:01:38",
@@ -59,94 +179,6 @@
     {
       "added_at": "2026-03-20 04:01:38",
       "album": {
-        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 301674,
-      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "Love or Lack Thereof",
-        "url": "https://open.spotify.com/album/778SMcYzULEI52vOMo2rFX"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "I'm In Trouble (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 154448,
-      "name": "Dinner Party",
-      "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "RUN TO YOU",
-        "url": "https://open.spotify.com/album/5QnwRewQBaUbOekUvnHjtJ"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 166113,
-      "name": "RUN TO YOU",
-      "url": "https://open.spotify.com/track/2JKFSPXSiOibCwULOgo32n"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "So What",
-        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 271213,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
         "name": "Lighter (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
       },
@@ -171,6 +203,54 @@
     {
       "added_at": "2026-03-20 04:01:38",
       "album": {
+        "name": "RUN TO YOU",
+        "url": "https://open.spotify.com/album/5QnwRewQBaUbOekUvnHjtJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 166113,
+      "name": "RUN TO YOU",
+      "url": "https://open.spotify.com/track/2JKFSPXSiOibCwULOgo32n"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 271213,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
+    },
+    {
+      "added_at": "2026-03-20 04:01:38",
+      "album": {
         "name": "Naked Pictures",
         "url": "https://open.spotify.com/album/2aZu7pupiF9fJ1Eumxi1WO"
       },
@@ -183,22 +263,6 @@
       "duration_ms": 143684,
       "name": "Naked Pictures",
       "url": "https://open.spotify.com/track/3g3ghs1pdHaEe3FExsx7lY"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/6elYxwsTNLEQlxDvMxacJn"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 189588,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
     },
     {
       "added_at": "2026-03-20 04:01:38",
@@ -255,54 +319,6 @@
     {
       "added_at": "2026-03-20 04:01:38",
       "album": {
-        "name": "if i am me, then who are you?",
-        "url": "https://open.spotify.com/album/13YfZnm7Lsoi16WnrUH6vD"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "if i am me, then who are you?",
-      "url": "https://open.spotify.com/track/3wEffdDUhlpDclhtwa4Ngr"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 262726,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
         "name": "Loving Life Again",
         "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-03-20 04:01:38",
-      "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2026-03-20 04:01:38",

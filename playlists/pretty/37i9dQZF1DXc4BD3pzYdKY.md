@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Childlike CiCi
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,427 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,452 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 14 | [VI\. BRING A LIGHT](https://open.spotify.com/track/0QnjrPQAAvpJJos8z5tY4K) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [1995](https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2) | [VI\. BRING A LIGHT](https://open.spotify.com/album/20coa8vidXHH3ydOTSXLAc) | 2:19 |
 | 15 | [WHERE HE AT?](https://open.spotify.com/track/6uHYznjqZfD5DVfEC0VMKO) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Lul DreDay](https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT) | [WHERE HE AT?](https://open.spotify.com/album/1yhTS3m4LtFCIuoyxFvWx6) | 2:32 |
 | 16 | [Renovate](https://open.spotify.com/track/4tMRGNgEArg9V5IKa6phbP) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14), [Rabbi Recc](https://open.spotify.com/artist/02JB7ZgwMtDMBLmdDiHSkz) | [Renovate](https://open.spotify.com/album/1zv5SlS1I6AKnwP0XW67gO) | 3:33 |
-| 17 | [Bank On It](https://open.spotify.com/track/4KAtRm6mrG0ENzFNX3Yrxw) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Bank On It](https://open.spotify.com/album/49QiBNqVMipFIgpGrFR0v4) | 2:15 |
+| 17 | [Bank On It](https://open.spotify.com/track/4KAtRm6mrG0ENzFNX3Yrxw) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Bank On It](https://open.spotify.com/album/49QiBNqVMipFIgpGrFR0v4) | 2:17 |
 | 18 | [WAY](https://open.spotify.com/track/0lRn3p4Vo8j6tzJ6m49sRA) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [WAY](https://open.spotify.com/album/7iniNexQoq6rV7VSnWyACK) | 3:12 |
 | 19 | [Big Time](https://open.spotify.com/track/18eGU3W9JZcbANd3ZBmPGm) | [Sis N Lil Bro](https://open.spotify.com/artist/1Ep8bP4kvEagicoKdAVU9P), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Big Time](https://open.spotify.com/album/3TSDg47cIkm0HpvrKQ02Gp) | 3:51 |
 | 20 | [Living Water](https://open.spotify.com/track/7yYf4UIKpToCCggs40VZeu) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction: Second Story](https://open.spotify.com/album/2DhoiwGl6jcbrMhCSwP44c) | 2:09 |

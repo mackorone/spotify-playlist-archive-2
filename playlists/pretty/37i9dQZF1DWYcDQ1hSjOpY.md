@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,150,494 likes - 300 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,150,903 likes - 300 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 299 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
 | 300 | [Submission](https://open.spotify.com/track/2gFTkFPVNL3vgz4IAyBhVK) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Submission](https://open.spotify.com/album/4ZbwLoKctfjayExWu9KXG7) | 3:15 |
 
-Snapshot ID: `AAAAAAoFskL3jVFP54NQb4Z6JbNLdHkA`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

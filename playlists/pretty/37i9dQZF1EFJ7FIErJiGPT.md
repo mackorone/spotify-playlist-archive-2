@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 24 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 |
 | 25 | [Changed My Mind](https://open.spotify.com/track/4CFlDepqivJp9ECpBZOv0s) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:05 |
 | 26 | [Sleep](https://open.spotify.com/track/4PkMVAihnrYVRMiFZd7m3y) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Teenage Fever](https://open.spotify.com/album/3G0TPBSln1Bc2NWV4uuNr2) | 2:50 |
-| 27 | [Blackout](https://open.spotify.com/track/5sP4Ia6MxZeMzJclka2DFE) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 2:45 |
-| 28 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 |
+| 27 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 |
+| 28 | [Blackout](https://open.spotify.com/track/5sP4Ia6MxZeMzJclka2DFE) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 2:45 |
 | 29 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 |
 | 30 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 |
 | 31 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 100 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 101 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcM19gAAAAAhnqN6ceONdNhVCVBWLb+D`
+Snapshot ID: `AcM7lgAAAACNaWPqgOuwmX91QAqdDHxk`

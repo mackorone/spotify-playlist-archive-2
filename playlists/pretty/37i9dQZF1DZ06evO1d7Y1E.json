@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117720,
+  "num_followers": 117712,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABuItg/0qokFL1FjL/bpgWG",
+  "snapshot_id": "ab8xAAAAAADl228rDmBtR/7sAo8yyggM",
   "tracks": [
     {
       "added_at": null,
@@ -1559,18 +1559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida de Chefe",
-        "url": "https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T"
+        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
       },
       "artists": [
+        {
+          "name": "DJ Henrique da VK",
+          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
+        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         }
       ],
-      "duration_ms": 168018,
-      "name": "Vida de Chefe",
-      "url": "https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr"
+      "duration_ms": 122070,
+      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
     },
     {
       "added_at": null,
@@ -1603,22 +1607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
+        "name": "Vida de Chefe",
+        "url": "https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T"
       },
       "artists": [
-        {
-          "name": "DJ Henrique da VK",
-          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
-        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         }
       ],
-      "duration_ms": 122070,
-      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
+      "duration_ms": 168018,
+      "name": "Vida de Chefe",
+      "url": "https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr"
     }
   ],
   "unique_name": "This Is Mc Poze do Rodo",

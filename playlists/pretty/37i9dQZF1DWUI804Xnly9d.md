@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,482 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,537 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 2 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 3 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
-| 4 | [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 |
-| 5 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
+| 4 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
+| 5 | [Khazana \- Live](https://open.spotify.com/track/4EJO5Cu6cUw0rILpjud1Qj) | [Bridge Music](https://open.spotify.com/artist/6zxSx2pIMMTGtDFW4M7YbR), [Sam Alex Pasula](https://open.spotify.com/artist/2cS8kIlX5jPhMTEOi2VJv7), [Phebe Bright](https://open.spotify.com/artist/45s4NhUDHypsAyb6srw1MA) | [Khazana \(Live\)](https://open.spotify.com/album/1n85QnrPCj22MOlSaN8aeI) | 6:13 |
 | 6 | [Yaara Ve \(From "Hello Bachhon"\)](https://open.spotify.com/track/226wdFNaMHyj9B2g10Kwlr) | [Aanand Bajpai](https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce) | [Hello Bachhon \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J) | 1:50 |
 | 7 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 8 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
 | 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
-Snapshot ID: `AAAAAHy3496Xvh5UcprnzQ5F05dBudpE`
+Snapshot ID: `AAAAACKL/XrZMJbK1yE2A/gmVutYaT4H`

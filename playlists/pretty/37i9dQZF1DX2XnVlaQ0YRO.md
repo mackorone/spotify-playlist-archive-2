@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,487 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,483 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 78 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 |
 | 79 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr) | 2:39 |
 | 80 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
-| 81 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |
-| 82 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
-| 83 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
-| 84 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
-| 85 | [wrap up warm](https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [wrap up warm](https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb) | 2:09 |
+| 81 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
+| 82 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
+| 83 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
+| 84 | [wrap up warm](https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [wrap up warm](https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb) | 2:09 |
+| 85 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |
 | 86 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |
 | 87 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
 | 88 | [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 |

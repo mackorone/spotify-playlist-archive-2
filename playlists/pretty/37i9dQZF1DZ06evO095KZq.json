@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 447861,
+  "num_followers": 447875,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABogdAUeB+WE0L+ffYhwiMv",
+  "snapshot_id": "ab8xAAAAAABrbivh2v3fTTNJbRPDWRsE",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio (En Vivo)",
       "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 158442,
-      "name": "Cuanto Me Gusta Este Rancho",
-      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+      "duration_ms": 145781,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 145781,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
       "added_at": null,

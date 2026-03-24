@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
@@ -9572,7 +9572,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 188000,
       "name": "FREAK ALARM",
       "url": "https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J"
@@ -12432,7 +12432,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 165000,
       "name": "Hyper Slide (Sung by KYEHOON, DONGHWA, MINJE, KEIJU)",
       "url": "https://open.spotify.com/track/064sWTOPij4bxEHfdhejwU"
@@ -13126,6 +13126,24 @@
       "duration_ms": 180742,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
+    },
+    {
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
     },
     {
       "album": {
@@ -17484,7 +17502,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -17606,6 +17624,24 @@
       "duration_ms": 212403,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2"
+    },
+    {
+      "album": {
+        "name": "MOVEURBODY",
+        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136817,
+      "name": "MOVEURBODY",
+      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "album": {
@@ -27805,6 +27841,24 @@
     },
     {
       "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170694,
+      "name": "Vanilla Days",
+      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
+    },
+    {
+      "album": {
         "name": "Play Game : AWAKE",
         "url": "https://open.spotify.com/album/6ACwt54tvpe4XrMbxXzXXb"
       },
@@ -29246,7 +29300,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 210000,
       "name": "white spring",
       "url": "https://open.spotify.com/track/3eNaNlSXrOg7aOwtIwtxZk"
@@ -30116,6 +30170,28 @@
       "duration_ms": 197413,
       "name": "You can't sit with us",
       "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
+    },
+    {
+      "album": {
+        "name": "YOU LIKE IT I LOVE IT",
+        "url": "https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "YOU LIKE IT I LOVE IT",
+      "url": "https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu"
     },
     {
       "album": {

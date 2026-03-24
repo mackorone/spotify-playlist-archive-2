@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Baby Keem",
-  "num_followers": 44032,
+  "num_followers": 44041,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-03-20 00:01:32",
       "album": {
-        "name": "WHAT HAPPENED TO THE STREETS?",
-        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "J.O.W.Y.H (JUMP OUT)",
-      "url": "https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk"
-    },
-    {
-      "added_at": "2026-03-20 00:01:32",
-      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2026-03-20 00:01:32",
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "J.O.W.Y.H (JUMP OUT)",
+      "url": "https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk"
     },
     {
       "added_at": "2026-03-20 00:01:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-20 00:01:32",
       "album": {
-        "name": "No Typo",
-        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "No Typo",
-      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
-    },
-    {
-      "added_at": "2026-03-20 00:01:32",
-      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 143996,
       "name": "Try To Love",
       "url": "https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2"
+    },
+    {
+      "added_at": "2026-03-20 00:01:32",
+      "album": {
+        "name": "No Typo",
+        "url": "https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "No Typo",
+      "url": "https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz"
     },
     {
       "added_at": "2026-03-20 00:01:32",

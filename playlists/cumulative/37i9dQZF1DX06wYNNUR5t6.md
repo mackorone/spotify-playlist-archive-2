@@ -4,7 +4,7 @@
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day
 
-105 songs - 6 hr 39 min
+107 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 |  |
 | [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 | 2025-04-05 |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-07-04 | 2024-11-30 |
-| [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 | 2024-07-04 |  |
+| [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 | 2024-07-04 | 2026-03-24 |
+| [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 | 2026-03-23 |  |
 | [Foreigner](https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [LEDGER EP](https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1) | 3:57 | 2021-04-10 | 2025-08-05 |
 | [Forever & Ever \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Kenotic Metanoia \(Deluxe Edition\)](https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG) | 3:34 | 2024-07-04 |  |
 | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM) | 3:10 | 2024-07-04 |  |
@@ -71,7 +72,7 @@
 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 | 2024-11-29 |  |
 | [not by sight](https://open.spotify.com/track/2u9kBiQyov0ZI03JT7vvzZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [not by sight](https://open.spotify.com/album/7CTzi5vHveROnPfswOJBmW) | 2:54 | 2024-11-29 |  |
 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 | 2021-04-10 |  |
-| [On Becoming Willing](https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [The Awakening](https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv) | 2:44 | 2025-08-04 |  |
+| [On Becoming Willing](https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [The Awakening](https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv) | 2:44 | 2025-08-04 | 2026-03-24 |
 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 | 2021-04-10 | 2025-08-05 |
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2021-04-10 | 2024-04-19 |
 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 | 2026-02-07 |  |
@@ -86,6 +87,7 @@
 | [Rise](https://open.spotify.com/track/5s2VU6HkVBb92xnyNeM57q) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Rise](https://open.spotify.com/album/0DsC2zkOx6orIpcTzmPchK) | 3:14 | 2021-04-10 | 2024-07-04 |
 | [Scars](https://open.spotify.com/track/5zKKBcIm0sVDJhWlZhAi3C) | [In the Verse](https://open.spotify.com/artist/4Ilxsqfishc8GhrarGM7RS) | [Scars](https://open.spotify.com/album/7545gyNLbh98fjLrnAgLBK) | 3:03 | 2021-04-10 | 2025-08-05 |
 | [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 4:24 | 2021-04-10 |  |
+| [SEVENS](https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVENS](https://open.spotify.com/album/5e5OdQvdEb6hzOvTwMbjM6) | 4:21 | 2026-03-23 |  |
 | [Showtime \- Live](https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Showtime \(Live\)](https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X) | 4:54 | 2025-10-06 |  |
 | [Stupid Deep](https://open.spotify.com/track/0CDc1hvrNZZw6qVNfq7Fp4) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Stupid Deep](https://open.spotify.com/album/6iBbaoo5wrHot6lLJQVuqW) | 3:10 | 2024-07-04 |  |
 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 | 2024-11-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,127 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,135 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 79 | [Vete](https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Mil Caminos](https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID) | 3:54 |
 | 80 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 |
 | 81 | [Se Vos](https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Se Vos](https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM) | 4:36 |
-| 82 | [No Estes Triste \- Acústico](https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No Estes Triste \(Acústico\)](https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf) | 2:58 |
-| 83 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 82 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 83 | [No Estes Triste \- Acústico](https://open.spotify.com/track/1HcjUEwxLoDNbLph1P8dsa) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No Estes Triste \(Acústico\)](https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf) | 2:58 |
 | 84 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
 | 85 | [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 |
 | 86 | [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 |

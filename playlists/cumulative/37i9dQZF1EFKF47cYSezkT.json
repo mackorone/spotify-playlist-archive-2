@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Let It Lie",
+        "url": "https://open.spotify.com/album/5dYrpC2YbiBkNHFMWk8zqW"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Let It Lie",
+      "url": "https://open.spotify.com/track/3dlmZ4lh7sO8wBim2WAXdB"
+    },
+    {
+      "album": {
         "name": "Let it Lie",
         "url": "https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 152380,
       "name": "Let it Lie",
       "url": "https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4"

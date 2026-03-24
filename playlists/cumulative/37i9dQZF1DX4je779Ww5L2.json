@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 248933,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 247940,
       "name": "Every Dawn's a Mountain",
       "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "My Hands",
+        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218701,
+      "name": "My Hands",
+      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
+    },
+    {
+      "album": {
         "name": "my moon",
         "url": "https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2"
       },
@@ -1153,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263422,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
       },
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 219503,
       "name": "Planets",
       "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
@@ -1248,6 +1284,24 @@
       "duration_ms": 244421,
       "name": "Pride",
       "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
+    },
+    {
+      "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "album": {
@@ -1396,7 +1450,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 238372,
       "name": "Stonewall Riots Forever",
       "url": "https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x"
@@ -1508,6 +1562,24 @@
       "duration_ms": 190631,
       "name": "Tardigrades",
       "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+    },
+    {
+      "album": {
+        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278302,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV"
     },
     {
       "album": {

@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/1GPSU6YXmNZbc94zLIkC8w"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Baitikochi Chuste",
+      "url": "https://open.spotify.com/track/2obOMYEyuBydAa7NURdsPL"
+    },
+    {
+      "album": {
         "name": "Balega Tagilavey Bangaram (From \"Krack\")",
         "url": "https://open.spotify.com/album/21nM2vkOGhGpMoFL3PRm63"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 248825,
       "name": "Bujji Thalli (From \"Thandel\")",
       "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
@@ -2112,6 +2130,24 @@
       "duration_ms": 240309,
       "name": "Firestorm (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0"
+    },
+    {
+      "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/1GPSU6YXmNZbc94zLIkC8w"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258333,
+      "name": "Gaali Vaaluga",
+      "url": "https://open.spotify.com/track/1biH2ZQQwNHHDkvZEmCjNS"
     },
     {
       "album": {
@@ -3671,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "Raghuvaran B Tech",
+        "url": "https://open.spotify.com/album/2HPUVqZxmchTr7fvEj0SU0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210195,
+      "name": "Luckkanna Mate Nillu",
+      "url": "https://open.spotify.com/track/5iiLdjhp5vqt0PnwKjS2Ta"
+    },
+    {
+      "album": {
         "name": "Sarkaru Vaari Paata (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q"
       },
@@ -4442,7 +4500,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 263606,
       "name": "Nache Nache (From \"The RajaSaab\") (Hindi)",
       "url": "https://open.spotify.com/track/3yFGyFVnm6aTAIdaxE01aC"
@@ -5186,7 +5244,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 327287,
       "name": "Peddi Reddy",
       "url": "https://open.spotify.com/track/3MAiS0Uu8FU2w9nEB3PxgG"
@@ -6098,6 +6156,32 @@
       "duration_ms": 281503,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN"
+    },
+    {
+      "album": {
+        "name": "Rubaroo [From \"Dacoit (Telugu)\"]",
+        "url": "https://open.spotify.com/album/6TTQVaiOWeUZIdnF1voJRJ"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Rubaroo (From \"Dacoit (Telugu)\")",
+      "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
     },
     {
       "album": {
@@ -7194,7 +7278,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 264867,
       "name": "Viral Vayyari ( From \"Junior\")",
       "url": "https://open.spotify.com/track/6cd9eJFXIl72tDwLguJxSp"

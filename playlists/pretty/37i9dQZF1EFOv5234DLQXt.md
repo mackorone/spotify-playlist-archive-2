@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 76 | [Altar](https://open.spotify.com/track/1BsqEVToNkZzcfLsVjwNgA) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:01 |
 | 77 | [El Ritmo De Tus Ojos \- Remasterizado 2007](https://open.spotify.com/track/15W8Q7ZA88u4eQf5JMDaj7) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 3:57 |
 | 78 | [Planta \- Remasterizado 2007](https://open.spotify.com/track/2Qmv6bDN1yazfH5OrhSlI9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:52 |
-| 79 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 |
-| 80 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
+| 79 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
+| 80 | [Terapia De Amor Intensiva \- Remasterizado 2007](https://open.spotify.com/track/57CH3KwRsQkbJH8VSDdKeI) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Doble Vida \(Remastered\)](https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4) | 5:40 |
 | 81 | [Ella Usó, Un Misil \(SEP7IMO DIA\)](https://open.spotify.com/track/1tgb1PGMFHkMIOuwX7gGKv) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [SEP7IMO DIA](https://open.spotify.com/album/0HUncweJW3LTO0YOvOEX4a) | 1:29 |
 | 82 | [Devoción](https://open.spotify.com/track/58haa2vmqz7tCG7FFDrLWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:29 |
 | 83 | [Secuencia Inicial \- Remasterizado 2007](https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:26 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 117 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 118 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AcM2FAAAAABYpuLJkfFlcmV9XzCvOn+J`
+Snapshot ID: `AcM7tAAAAAC7Mu4GfEwbf5ADGTj9Kzjq`

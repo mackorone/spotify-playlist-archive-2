@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "SKINZ 1st Mini Album [SKINZ IS SKINZ]",
+        "url": "https://open.spotify.com/album/7FxJEXRrfsX80s8E3Tf3TW"
+      },
+      "artists": [
+        {
+          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
+          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "25.14",
+      "url": "https://open.spotify.com/track/6G0hYJCwoU4XQPIqqQFUgI"
+    },
+    {
+      "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
@@ -1204,6 +1222,24 @@
       "duration_ms": 200212,
       "name": "Close To Me (feat. day.N)",
       "url": "https://open.spotify.com/track/2ZwfzRwORP0vSkqsk7VzfJ"
+    },
+    {
+      "album": {
+        "name": "The Beauty Inside Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183786,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/2WdgZcToOXFt3ZKlT5PW6P"
     },
     {
       "album": {
@@ -1312,6 +1348,24 @@
       "duration_ms": 194108,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
+    },
+    {
+      "album": {
+        "name": "COLORING",
+        "url": "https://open.spotify.com/album/3Ouw5zc6rnkhYWfK8q8iXo"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "COLORING",
+      "url": "https://open.spotify.com/track/5HxhCvXhUkMWobnWvkJRSd"
     },
     {
       "album": {
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 212000,
       "name": "In your circle (Feat. Bumkey, Janet Suhh)",
       "url": "https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB"
@@ -4362,7 +4416,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 139009,
       "name": "LuckyCharm",
       "url": "https://open.spotify.com/track/6q3U1b0KgkOlcYzq3oW6si"
@@ -6164,7 +6218,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 141597,
       "name": "Smile",
       "url": "https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P"
@@ -7558,7 +7612,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 260120,
       "name": "We become love",
       "url": "https://open.spotify.com/track/0cSNCKbbOfPGazu5edq4rj"

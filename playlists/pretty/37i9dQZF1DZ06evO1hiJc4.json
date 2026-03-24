@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 153855,
+  "num_followers": 153862,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABSoFkG3IaUbWEbqgYiTUpA",
+  "snapshot_id": "ab8xAAAAAAAHixYLn6PDPP6KFjgBBosP",
   "tracks": [
     {
       "added_at": null,
@@ -239,38 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 174567,
-      "name": "When I R.I.P. (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 204093,
       "name": "Audio (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 174567,
+      "name": "When I R.I.P. (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197542,
-      "name": "Silverlines - prod. Labrinth",
-      "url": "https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 175826,
       "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 201546,
-      "name": "Still In Love With The Pain",
-      "url": "https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD"
+      "duration_ms": 153890,
+      "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 153890,
-      "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
+      "duration_ms": 201546,
+      "name": "Still In Love With The Pain",
+      "url": "https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
       "duration_ms": 191842,
       "name": "Kill For Your Love",
       "url": "https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 119669,
-      "name": "into the black hole",
-      "url": "https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 119669,
+      "name": "into the black hole",
+      "url": "https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 150222,
       "name": "Power Couple",
       "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184158,
-      "name": "I Keep My Promises",
-      "url": "https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184158,
+      "name": "I Keep My Promises",
+      "url": "https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wonder Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 240960,
       "name": "To Be Human (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 174672,
-      "name": "Orchestra",
-      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 174672,
+      "name": "Orchestra",
+      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disc-Overy",
         "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 173749,
-      "name": "Big Bad Wolf",
-      "url": "https://open.spotify.com/track/0re1RmFKkVf4KrQ3ql5bzK"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 173749,
+      "name": "Big Bad Wolf",
+      "url": "https://open.spotify.com/track/0re1RmFKkVf4KrQ3ql5bzK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prelude",
         "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 156733,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 295653,
       "name": "Majesty (with Labrinth & feat. Eminem)",
       "url": "https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
       "added_at": null,

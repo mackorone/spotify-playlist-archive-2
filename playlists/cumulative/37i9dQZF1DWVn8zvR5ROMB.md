@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Parker McCollum, Luke Combs, Ella Langley and more.
 
-12,374 songs - 28 day 4 hr 21 min
+12,375 songs - 28 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10398,6 +10398,7 @@
 | [The Bed I Made](https://open.spotify.com/track/3gBiP88ggeaMxwVdLULEVv) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [The Bed I Made](https://open.spotify.com/album/7xTWhpb2IMY0KIfqXxbqTZ) | 3:06 | 2024-11-08 | 2024-11-16 |
 | [The Bend](https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Bend](https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7) | 4:02 | 2025-04-18 | 2025-04-26 |
 | [The Best Gift for Christmas](https://open.spotify.com/track/21EF9UCp4GZwsqcg9a4YGI) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [The Best Gift for Christmas](https://open.spotify.com/album/3at8GLc93grvHuT0WeJZTB) | 3:33 | 2022-12-20 | 2022-12-27 |
+| [The Best of Both Worlds \- Spotify Singles](https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [The Best of Both Worlds \(Spotify Singles\)](https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9) | 3:00 | 2026-03-23 |  |
 | [The Big Sky and Me](https://open.spotify.com/track/1UhhUyRJbinITBG6DnCaf2) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Big Sky and Me](https://open.spotify.com/album/0qVOcvfPG2YxNMx3hWkt15) | 5:08 | 2022-07-29 | 2022-08-06 |
 | [The Bitter And The Sweet](https://open.spotify.com/track/0MduACMUBFtic0Ly4a98o3) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [The Bitter And The Sweet](https://open.spotify.com/album/5T6ZljqxPoHenz8OhKYo85) | 3:17 | 2022-10-14 | 2022-10-29 |
 | [The Boat](https://open.spotify.com/track/5reDApt4fyHM09WU16yM9D) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [The Boat](https://open.spotify.com/album/3FL6yPHvN6vEbADqhQ29SU) | 3:18 | 2024-01-26 | 2024-02-03 |

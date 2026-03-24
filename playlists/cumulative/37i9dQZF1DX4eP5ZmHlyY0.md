@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BTS
 
-930 songs - 2 day 2 hr 48 min
+933 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 | 2025-08-01 |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
-| [BANQUET BANG](https://open.spotify.com/track/151HCBi3kmWRVSpSKo0fdX) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [BANQUET BANG](https://open.spotify.com/album/6JG34ilizU0ZNXAK2z7ehB) | 3:23 | 2026-02-01 |  |
+| [BANQUET BANG](https://open.spotify.com/track/151HCBi3kmWRVSpSKo0fdX) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [BANQUET BANG](https://open.spotify.com/album/6JG34ilizU0ZNXAK2z7ehB) | 3:23 | 2026-02-01 | 2026-03-24 |
 | [BBUU!](https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/4Cl8PGyGfzPPa2y76nEYAU) | 2:52 | 2025-11-09 | 2026-01-15 |
 | [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-05-12 | 2025-08-19 |
 | [BE CLASSIC](https://open.spotify.com/track/6qactUdK4Lql5d31ow4669) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC](https://open.spotify.com/album/4hjnuvQELOGNFix32suzo9) | 2:39 | 2025-03-24 | 2025-09-26 |
@@ -276,6 +276,7 @@
 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-28 | 2025-03-26 |
 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-07 | 2026-01-17 |
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
+| [Get Up And Dance](https://open.spotify.com/track/2IUGAOZ5cPW33dWkHhP6Tb) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Get Up And Dance](https://open.spotify.com/album/75zcHOYgdJAQvUpR2ySLQG) | 3:19 | 2026-03-23 |  |
 | [Get Wild](https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Get Wild](https://open.spotify.com/album/54og7pfmDGwwaVrROP2aiL) | 2:58 | 2025-03-06 | 2025-04-07 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [GHOST](https://open.spotify.com/track/4FmajtNhF2DlWRe9soinXN) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [GHOST](https://open.spotify.com/album/3P0KCz0vPQnJoXjy3wGhOG) | 3:33 | 2025-10-07 | 2025-11-12 |
@@ -727,7 +728,7 @@
 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 | 2024-03-05 | 2024-04-10 |
 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 | 2023-11-23 | 2024-04-17 |
 | [The Stranger](https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY IDENTITY](https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK) | 3:03 | 2025-03-06 | 2025-04-21 |
-| [Theater](https://open.spotify.com/track/5obcTVBYLhSTTBuuttwq24) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Theater](https://open.spotify.com/album/5IF6EOV0aewiwlFUFaTuRe) | 3:20 | 2025-12-22 |  |
+| [Theater](https://open.spotify.com/track/5obcTVBYLhSTTBuuttwq24) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Theater](https://open.spotify.com/album/5IF6EOV0aewiwlFUFaTuRe) | 3:20 | 2025-12-22 | 2026-03-24 |
 | [Through The RAIN](https://open.spotify.com/track/2RNTFkOSBa5ejqg2dqbbw8) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Through The RAIN](https://open.spotify.com/album/4ImE76haoB9wTnnM2EwwU4) | 3:26 | 2026-02-26 |  |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-26 | 2026-02-25 |
 | [Tick\-Tack](https://open.spotify.com/track/3BNpzwhcHzHbn2c0Ymmzib) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/0QL5RbXpEomD15jDSbTkr5) | 2:49 | 2025-04-08 | 2025-05-07 |
@@ -780,6 +781,8 @@
 | [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 | 2024-06-25 | 2024-07-03 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2025-03-06 | 2025-04-18 |
 | [Wall Flowers](https://open.spotify.com/track/7hH6xRAqH9yCkPfRVDGHrt) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Wall Flowers](https://open.spotify.com/album/6JNlu1MYZPrJTU7KC3wJj8) | 3:00 | 2025-10-07 | 2025-12-03 |
+| [Waltz for Lily](https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Waltz for Lily](https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV) | 4:04 | 2026-03-23 |  |
+| [Want me](https://open.spotify.com/track/3O8FaTZszTVrqT5KJvrvsr) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Heart Beat](https://open.spotify.com/album/13DKDIKaKCDT9qbfFPeioT) | 3:01 | 2026-03-23 |  |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
@@ -864,7 +867,7 @@
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
 | [ハニカミ](https://open.spotify.com/track/1x5c3sHbCtKomxFrMS5Kmh) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [ハニカミ](https://open.spotify.com/album/3pOoGsquWbIEb4vBDNqhwh) | 4:19 | 2026-01-30 | 2026-02-25 |
 | [ハピダン](https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ハピダン](https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL) | 3:08 | 2023-11-23 | 2023-11-25 |
-| [ハルコイ](https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [ハルコイ](https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D) | 3:01 | 2026-01-23 |  |
+| [ハルコイ](https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [ハルコイ](https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D) | 3:01 | 2026-01-23 | 2026-03-24 |
 | [ビビデバビデブー](https://open.spotify.com/track/3YDhYwMfNhFVioT192LmBR) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [ビビデバビデブー](https://open.spotify.com/album/08HiOvU4klxJkDM4Lzf39f) | 3:13 | 2024-12-10 | 2024-12-25 |
 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 | 2024-07-30 | 2024-10-15 |
 | [ピカレスク](https://open.spotify.com/track/6oReVRjUTzGEOIkk2zULhm) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [N / bias（Special Edition）](https://open.spotify.com/album/2OUCx1gQU2BfcrBXgUFyMJ) | 3:04 | 2025-03-06 | 2025-03-10 |

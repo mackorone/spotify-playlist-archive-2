@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oB0YuugRL9154dHN0yJqO">Ariel Imani</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 34 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 34 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 15 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 16 | [Stressin'](https://open.spotify.com/track/16VjvrmcPtPzLhnOSBqHxp) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:48 |
 | 17 | [Pretty Girls](https://open.spotify.com/track/7uYXHXWBq4VEsMywZQrMfR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:38 |
-| 18 | [WD5 Intro](https://open.spotify.com/track/2UuUBBKT7XxUWtnjGGUTc2) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 1:41 |
-| 19 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 |
+| 18 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 |
+| 19 | [WD5 Intro](https://open.spotify.com/track/2UuUBBKT7XxUWtnjGGUTc2) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 1:41 |
 | 20 | [Attention](https://open.spotify.com/track/0BFZI3Y6ePQaUIBqnWgQB9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:05 |
 | 21 | [Pluto Walk](https://open.spotify.com/track/2c0DupQxqoaAHMZERb8Avu) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 1:53 |
 | 22 | [JUMP](https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [JUMP](https://open.spotify.com/album/6TabIjGq34czYmTHf7XEYi) | 3:27 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 33 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 34 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AcM19gAAAACIb0U9t5dw7tAkjNxwgcbG`
+Snapshot ID: `AcM7lgAAAACqaPU9Qzt0GxM7lndKnaFt`

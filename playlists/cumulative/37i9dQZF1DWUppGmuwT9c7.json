@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 161645,
       "name": "Als Ik Aan De Laatste Zit",
       "url": "https://open.spotify.com/track/6K18CnzVJB2GImrUaYhFhp"
@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Dat Doe Jij",
+        "url": "https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f"
+      },
+      "artists": [
+        {
+          "name": "Mike Peterson",
+          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148442,
+      "name": "Dat Doe Jij",
+      "url": "https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD"
+    },
+    {
+      "album": {
         "name": "De Avond Is Van Ons",
         "url": "https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa"
       },
@@ -712,6 +730,24 @@
       "duration_ms": 230709,
       "name": "De Toreador",
       "url": "https://open.spotify.com/track/59ZhqrmXub9nSwNGfOzg1N"
+    },
+    {
+      "album": {
+        "name": "Diamanten Ring",
+        "url": "https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc"
+      },
+      "artists": [
+        {
+          "name": "Daymian Van Os",
+          "url": "https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163682,
+      "name": "Diamanten Ring",
+      "url": "https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl"
     },
     {
       "album": {
@@ -1351,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Ik Kom Terug",
+        "url": "https://open.spotify.com/album/1tLkY8oqGcwmTjvtdZLHMd"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169191,
+      "name": "Ik Kom Terug",
+      "url": "https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy"
+    },
+    {
+      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -1384,6 +1438,24 @@
       "duration_ms": 166923,
       "name": "Ik Spaar Geen Centen",
       "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
+    },
+    {
+      "album": {
+        "name": "Ik Wil Je Helemaal",
+        "url": "https://open.spotify.com/album/2ZhPISAto7OhMhu3oNCc8D"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Ik Wil Je Helemaal",
+      "url": "https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN"
     },
     {
       "album": {
@@ -2227,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "Samen Uit Samen Thuis",
+        "url": "https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Samen Uit Samen Thuis",
+      "url": "https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM"
+    },
+    {
+      "album": {
         "name": "Snelle Jelle",
         "url": "https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH"
       },
@@ -2876,7 +2970,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170507,
       "name": "Zaterdagavond",
       "url": "https://open.spotify.com/track/6e9KR7tB8z7yexkKgIMyLg"

@@ -4,7 +4,7 @@
 
 > Cannons are having their main pop girl moment 🆘
 
-1,627 songs - 3 day 9 hr 29 min
+1,628 songs - 3 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [Not At This Party \- David Guetta Remix](https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Not At This Party \(David Guetta Remix\)](https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR) | 2:51 | 2025-05-23 | 2025-06-28 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-26 | 2024-03-23 |
 | [Nothing On \(But The Radio\)](https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:29 | 2023-08-18 | 2023-11-11 |
+| [NOW!!](https://open.spotify.com/track/0sKwm4X2Btkg5HpUUt5Vov) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [NOW!!](https://open.spotify.com/album/3Rg8j02dpIfrU2Wts4XoHF) | 3:49 | 2026-03-24 |  |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-21 | 2023-01-21 |
 | [Obsessed](https://open.spotify.com/track/7xaZEhQw4rlAOPhNrOUZZa) | [Ari Dayan](https://open.spotify.com/artist/7GaejO7nB6Tyt5S462Fn6o) | [Obsessed](https://open.spotify.com/album/7hr2i88KxZJ7017XtMe7OR) | 2:14 | 2023-06-02 | 2023-06-24 |
 | [Obsession](https://open.spotify.com/track/4UP6Ko1tjAMTnFuimJgfM8) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 3:42 | 2025-01-24 | 2026-03-14 |
@@ -1295,7 +1296,7 @@
 | [SO WHAT](https://open.spotify.com/track/1kMGYdQmHWU8uiBo8h9yez) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [SO WHAT](https://open.spotify.com/album/3D6M63EmnCN1v4owYNnwFW) | 2:16 | 2022-07-29 | 2022-09-10 |
 | [Sober](https://open.spotify.com/track/0vuyiZejJnlgQpxy6XK7u2) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sober](https://open.spotify.com/album/0MpphkdrO0WciFt7MihbEC) | 3:01 | 2023-03-24 | 2023-06-03 |
 | [Sodom & Gomorrah](https://open.spotify.com/track/0cgUUrFj9pOmSKzm4MyfIf) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Sodom & Gomorrah](https://open.spotify.com/album/6fGdCPc7IIJwoJM5wrWpFU) | 3:09 | 2023-06-02 | 2023-07-29 |
-| [Some Kinda Heaven](https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Some Kinda Heaven](https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU) | 3:24 | 2026-02-06 |  |
+| [Some Kinda Heaven](https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Some Kinda Heaven](https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU) | 3:24 | 2026-02-06 | 2026-03-24 |
 | [Somebody's Baby](https://open.spotify.com/track/3xfq9OzrGvPWUlKmpZvCYS) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 2:58 | 2024-06-07 | 2024-06-29 |
 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 | 2024-10-18 | 2024-12-14 |
 | [Someone For Me](https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Someone For Me](https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o) | 2:19 | 2025-01-17 | 2025-02-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 141158,
+  "num_followers": 141174,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAA5JSpBb+zVcA6cPTuVpq7o",
+  "snapshot_id": "ab8xAAAAAABiFMs7NWN1x437iQcTg/9H",
   "tracks": [
     {
       "added_at": null,
@@ -370,11 +370,15 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        },
+        {
+          "name": "Craig Leon",
+          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 153133,
-      "name": "In The Flesh - Remastered 2001",
-      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
+      "duration_ms": 202826,
+      "name": "Rip Her To Shreds - Remastered 2001",
+      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
     },
     {
       "added_at": null,
@@ -434,15 +438,11 @@
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        },
-        {
-          "name": "Craig Leon",
-          "url": "https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Rip Her To Shreds - Remastered 2001",
-      "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
+      "duration_ms": 153133,
+      "name": "In The Flesh - Remastered 2001",
+      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+      "duration_ms": 227666,
+      "name": "Angels On The Balcony - Remastered 2001",
+      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 227666,
-      "name": "Angels On The Balcony - Remastered 2001",
-      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
-        "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 39393,
-      "name": "Warm-Up",
-      "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"
+      "duration_ms": 187400,
+      "name": "For Your Eyes Only - Remastered",
+      "url": "https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C"
     }
   ],
   "unique_name": "This Is Blondie",

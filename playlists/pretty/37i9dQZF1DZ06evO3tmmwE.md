@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 46 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391 likes - 46 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 38 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Southside Hoodlum](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
 | 39 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
 | 40 | [EL RODEO](https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58) | [Rap Geekz](https://open.spotify.com/artist/2nYa8KsU3Q5McB7ptTR26O), [Gringo the MC](https://open.spotify.com/artist/2GKgk9xsRvwl1ZgDGBH2Dh), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [EL RODEO](https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf) | 3:46 |
-| 41 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
+| 41 | [Bo Bundy In Japan](https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Terp Wars DELUXE](https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ) | 2:26 |
 | 42 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
-| 43 | [Bo Bundy In Japan](https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ) | [TheWaterBoyz710](https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Terp Wars DELUXE](https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ) | 2:26 |
-| 44 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
-| 45 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 |
+| 43 | [Slumped Freestyle](https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 4:16 |
+| 44 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 |
+| 45 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 | 46 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 
-Snapshot ID: `ab3fgAAAAACkQWg94NOiQ6z5gLgyk3uj`
+Snapshot ID: `ab8xAAAAAADEeN/MZu0eRgMe+daC2Sxx`

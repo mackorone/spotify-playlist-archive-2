@@ -4,7 +4,7 @@
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-2,469 songs - 5 day 18 hr 48 min
+2,470 songs - 5 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1795,6 +1795,7 @@
 | [Roots Of House Music](https://open.spotify.com/track/0yFuwfNxXHerJmBEtMPzyS) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Roots Of House Music](https://open.spotify.com/album/5cTGR5XmPnc60KJm6H0PyG) | 3:08 | 2023-01-28 | 2023-02-11 |
 | [Round N Round](https://open.spotify.com/track/5wqFVHgtgMV0AE6akJyH8u) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Round N Round](https://open.spotify.com/album/0wHtWW77BIrll2RFk7Be3K) | 3:30 | 2022-07-29 | 2022-08-06 |
 | [Rover Grover](https://open.spotify.com/track/6YiUwCBQMlOUFwNXBU4wfV) | [Kramder](https://open.spotify.com/artist/0zE8RK1Xe0w3PEJC5WUVlQ) | [Rover Grover](https://open.spotify.com/album/31bbluK8eO1yP0JHOkbZNE) | 3:18 | 2022-04-29 | 2022-05-14 |
+| [RR1](https://open.spotify.com/track/3xyqD51JzTu17kXj9WPDFq) | [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [RR1](https://open.spotify.com/album/6iQ8Dw97oxu7Qih6BTQws6) | 3:37 | 2026-03-23 |  |
 | [Ruby Murray](https://open.spotify.com/track/2HolLyrn6K2YqO4RsSnXN0) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Feel The Bass EP](https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ) | 6:04 | 2024-11-08 | 2025-01-18 |
 | [Rudeboi](https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Rudeboi](https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5) | 3:01 | 2022-06-24 | 2022-07-02 |
 | [Rudeboi](https://open.spotify.com/track/5i7jWlHBKsPlTA6jscQ0y1) | [Luxo](https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Rudeboi](https://open.spotify.com/album/0bAG0Ve2AUxU77sDPGtNdw) | 3:06 | 2024-02-17 | 2024-03-16 |

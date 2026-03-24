@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 581 likes - 78 songs - 4 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 587 likes - 81 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 76 | [She the one](https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB) | [Revelt](https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk) | [She the one](https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz) | 3:33 |
 | 77 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 |
 | 78 | [Too Far](https://open.spotify.com/track/4TQDu0X2VvIbTa0Xi60KJW) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Too Far](https://open.spotify.com/album/24IKxWexH2PcwLCPw4IjP4) | 3:03 |
+| 79 | [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 |
+| 80 | [Keepin' Up With the Jones'](https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Keepin' Up With the Jones'](https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi) | 2:34 |
+| 81 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 |
 
-Snapshot ID: `AAADA7EBezE4oBY3437UlzYkRlTlP2Gr`
+Snapshot ID: `AAADBvQzWPfqdn/n7bCE7kwnsFai4WeT`

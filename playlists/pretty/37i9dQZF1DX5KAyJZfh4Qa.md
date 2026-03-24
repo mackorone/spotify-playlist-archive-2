@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,790 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,846 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 99 | [7AM](https://open.spotify.com/track/3X2dZ76DtGta0pukBGzUxd) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Hope You're Doing Well, Michaela](https://open.spotify.com/album/79xK4wzVxVFRDZi5ohUZQO) | 3:06 |
 | 100 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
 
-Snapshot ID: `AAAAANjhHR9ZOYKxRCYgbl0UmEpX01Vv`
+Snapshot ID: `AAAAAEfY92Sb6L5MdronXm+BUwlSqj/A`

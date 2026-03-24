@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 452163,
+  "num_followers": 452247,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 150400,
       "name": "Ameno (Techno Mix)",
       "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Fire To The Rain",
         "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 188888,
       "name": "2004",
       "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 121908,
       "name": "Eternal Rave",
       "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1819,6 +1819,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "SexyBack (TechnoBack)",
+        "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Mono Schwarz",
+          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
+        }
+      ],
+      "duration_ms": 146029,
+      "name": "SexyBack - TechnoBack",
+      "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
         "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
       },
@@ -1843,30 +1867,6 @@
       "duration_ms": 130263,
       "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
       "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "SexyBack (TechnoBack)",
-        "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "Mono Schwarz",
-          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
-        }
-      ],
-      "duration_ms": 146029,
-      "name": "SexyBack - TechnoBack",
-      "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
     },
     {
       "added_at": "2025-06-26 22:00:24",

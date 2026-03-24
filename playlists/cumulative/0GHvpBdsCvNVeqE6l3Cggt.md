@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-107 songs - 6 hr 15 min
+109 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [F.E.A.R.](https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT) | [Music Of The Spheres](https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L) | 4:28 | 2021-03-29 |  |
 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 | 2026-03-02 | 2026-03-17 |
 | [Fears](https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd) | [Audio Entity](https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU), [Woes & Wonder](https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA) | [Fears](https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE) | 4:27 | 2025-12-23 | 2026-01-29 |
+| [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 | 2026-03-23 |  |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-05 | 2026-03-20 |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
 | [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 | 2026-03-10 |  |
@@ -64,6 +65,7 @@
 | [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 | 2026-03-09 |  |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-07-26 |  |
 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 | 2021-03-29 |  |
+| [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 | 2026-03-23 |  |
 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 | 2025-10-13 |  |
 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 | 2026-03-02 | 2026-03-17 |
 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 | 2025-11-26 | 2025-12-13 |

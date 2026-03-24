@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211270,
+  "num_followers": 211268,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAD9giTKYGW5YhFvZPaNi4vz",
+  "snapshot_id": "ab8xAAAAAABgWpKLstGBtz/cRDdXcwaV",
   "tracks": [
     {
       "added_at": null,
@@ -999,34 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Need To Know (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
       },
@@ -1051,6 +1023,34 @@
       "duration_ms": 243546,
       "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
       "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Need To Know (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
     },
     {
       "added_at": null,

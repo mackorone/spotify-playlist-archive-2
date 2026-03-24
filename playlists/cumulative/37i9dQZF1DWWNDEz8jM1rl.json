@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 203271,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 230280,
       "name": "Ay\u00fadame en Esto - Reimagined",
       "url": "https://open.spotify.com/track/1NVBgAx2azQ7wJXY4aI1hL"
@@ -412,6 +412,28 @@
       "duration_ms": 179690,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5"
+    },
+    {
+      "album": {
+        "name": "Bailo Contigo",
+        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183389,
+      "name": "Bailo Contigo",
+      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
     },
     {
       "album": {
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 200000,
       "name": "Fiesta En El Cielo",
       "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
@@ -1800,6 +1822,32 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
+    },
+    {
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/0QK2r8bTv26PvMXJ14X0mP"
+      },
+      "artists": [
+        {
+          "name": "Matteo",
+          "url": "https://open.spotify.com/artist/71tcMlBuPcL4nAVJ0ec8CA"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159843,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/6f42twME3y3typZd1yYtUk"
     },
     {
       "album": {
@@ -2253,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "LA CARRERA",
+        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177605,
+      "name": "LA CARRERA",
+      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "album": {
         "name": "La Depre",
         "url": "https://open.spotify.com/album/0ZY6LS8NRRommQZvMq4gev"
       },
@@ -2286,6 +2356,24 @@
       "duration_ms": 177546,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/7xQQ13GBlcbxKuIDIpa05y"
+    },
+    {
+      "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "album": {
@@ -2522,6 +2610,28 @@
       "duration_ms": 181961,
       "name": "Luz",
       "url": "https://open.spotify.com/track/63PEyWR7ETV29Xfxrpbxmu"
+    },
+    {
+      "album": {
+        "name": "Malvavisco",
+        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
+      },
+      "artists": [
+        {
+          "name": "Tati",
+          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189148,
+      "name": "Malvavisco",
+      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
     },
     {
       "album": {
@@ -2796,7 +2906,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
@@ -2822,6 +2932,24 @@
       "duration_ms": 142758,
       "name": "Mmm",
       "url": "https://open.spotify.com/track/1p5lFrpK7PzRe7WbY2Fx9K"
+    },
+    {
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172777,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
       "album": {
@@ -3122,6 +3250,24 @@
       "duration_ms": 202500,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
+    },
+    {
+      "album": {
+        "name": "Para Arriba",
+        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
     },
     {
       "album": {
@@ -4160,7 +4306,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169624,
       "name": "Todo Te Lo Debo a T\u00ed",
       "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
@@ -4454,7 +4600,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"

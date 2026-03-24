@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7237,
+  "num_followers": 7238,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAA+SC02MFyVjbl6kfLP/DU/",
+  "snapshot_id": "ab8xAAAAAAAVUl6JeAwiTyNUxOj1Aqoh",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Come Back Baby",
-      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Ah'w Baby",
-      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+      "duration_ms": 185133,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Crazy For My Baby",
-      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 172666,
       "name": "One More Chance With You",
       "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
       "added_at": null,
@@ -503,30 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 368706,
-      "name": "I Just Want To Make Love To You",
-      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -552,25 +528,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 138360,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
+      "duration_ms": 181506,
+      "name": "Crazy For My Baby",
+      "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
       "added_at": null,
@@ -592,9 +552,25 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 341560,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
+      "duration_ms": 368706,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
       "added_at": null,
@@ -627,6 +603,30 @@
       "duration_ms": 196173,
       "name": "Blue Light - Single Version",
       "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     },
     {
       "added_at": null,

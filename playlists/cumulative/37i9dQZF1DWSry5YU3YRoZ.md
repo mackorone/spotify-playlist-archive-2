@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-168 songs - 10 hr 23 min
+170 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 | 2023-11-03 |  |
 | [If You Want](https://open.spotify.com/track/04ocoQQKTdBFFX3iE0QiCL) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [If You Want](https://open.spotify.com/album/6brQMFzeHJtZ4GVNIWRfSq) | 4:06 | 2025-05-26 | 2025-06-03 |
 | [In My Dream](https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf) | 4:02 | 2025-06-02 |  |
-| [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 | 2023-11-03 |  |
+| [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 | 2023-11-03 | 2026-03-24 |
 | [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 | 2024-11-29 | 2025-04-08 |
 | [In Your Mind](https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye) | 4:07 | 2023-11-03 | 2024-04-19 |
 | [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-19 | 2025-07-08 |
@@ -111,10 +111,11 @@
 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 | 2026-01-13 |  |
 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 | 2024-03-08 | 2024-11-26 |
 | [Nothing but Morning](https://open.spotify.com/track/1orzWbS2okDKB1vWEBP7KL) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [My Blue has always been Shattered by the Night](https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef) | 4:17 | 2025-08-11 |  |
-| [of the waves](https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:11 | 2025-12-03 |  |
+| [of the waves](https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:11 | 2025-12-03 | 2026-03-24 |
 | [One Confess](https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [One Confess \(Original Soundtrack from Hear Me: Our Summer\)](https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q) | 2:48 | 2025-06-23 |  |
 | [One of Those Nights \(with seolim\)](https://open.spotify.com/track/3bDhXnVVPE20CYkZdgk5QV) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7), [seolim](https://open.spotify.com/artist/3WRKmOTYMBYLPqqzjWBtcQ) | [One of Those Nights \(with seolim\)](https://open.spotify.com/album/2YHLp2W48Z8wDCuI2YhlZi) | 2:29 | 2025-06-23 | 2025-08-13 |
 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 | 2026-01-26 | 2026-03-13 |
+| [Our Season](https://open.spotify.com/track/0rnr4jI4qTZ6pUoi9Lmlbf) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Our Season](https://open.spotify.com/album/1gltA7mMAzVSqI65XNroCz) | 4:13 | 2026-03-23 |  |
 | [Perhaps here](https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ) | [Kim Do Yeon](https://open.spotify.com/artist/1pUCZRd6GiVJTcQncoZmSF) | [Perhaps here](https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs) | 2:49 | 2025-12-03 | 2026-01-27 |
 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 | 2025-04-14 |  |
 | [Reaching Out](https://open.spotify.com/track/64y6OvECapX4cnYDcGHN38) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Wanderer](https://open.spotify.com/album/6sY3pgG7bthsE3YCyJ7a28) | 3:48 | 2025-07-28 | 2025-10-14 |
@@ -147,6 +148,7 @@
 | [The Night Time \(stripped\)](https://open.spotify.com/track/1TPwouflbk2VA3RDCMx7IR) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Closet](https://open.spotify.com/album/65GDFnpQfc5tPaRVrelMM6) | 3:22 | 2024-11-29 | 2025-07-01 |
 | [The Two Words](https://open.spotify.com/track/7lSoXYQ3kWspAaiOC2kJUJ) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [The Two Words](https://open.spotify.com/album/6kynmkcBqVJzfbnT2CdW6z) | 3:00 | 2026-01-26 | 2026-02-24 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-15 | 2026-03-10 |
+| [Think of you](https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [A diary for me](https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1) | 3:14 | 2026-03-23 |  |
 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 | 2025-05-26 |  |
 | [To My Beloved](https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [To My Beloved](https://open.spotify.com/album/39Bql5WDBY9VfIMhMf7CQn) | 3:16 | 2025-05-12 | 2025-11-11 |
 | [universe](https://open.spotify.com/track/60uVTCslbHChF3XLXn8st9) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [I dreamed we were going on a trip](https://open.spotify.com/album/2aQHNxvWJZOQUrqz8UR3cb) | 3:23 | 2025-04-28 | 2025-06-18 |

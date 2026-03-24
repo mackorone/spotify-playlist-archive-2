@@ -5727,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "Everybody On The Floor",
+        "url": "https://open.spotify.com/album/5osayCMUsuWmGbIRpW134T"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fowler",
+          "url": "https://open.spotify.com/artist/2LqVchXnpLa7zhwxwVcsjW"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213543,
+      "name": "Everybody On The Floor",
+      "url": "https://open.spotify.com/track/6w42JMnW2hxLoij8t4mJGB"
+    },
+    {
+      "album": {
         "name": "Excited",
         "url": "https://open.spotify.com/album/7B3XL8FTyxDzvxRtcpf6Fe"
       },
@@ -6222,6 +6240,28 @@
       "duration_ms": 123555,
       "name": "FEEL IT",
       "url": "https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S"
+    },
+    {
+      "album": {
+        "name": "Feel It Coming",
+        "url": "https://open.spotify.com/album/7gBhZhywuVuiC3z44IwW0B"
+      },
+      "artists": [
+        {
+          "name": "Sallok",
+          "url": "https://open.spotify.com/artist/3Z8RsSMEuDW1tS3EP0x4WJ"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/3TwN012FBy5wpDOnw0YLoZ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Feel It Coming",
+      "url": "https://open.spotify.com/track/6ikgTIeT1PyqmJg7JfiYeS"
     },
     {
       "album": {

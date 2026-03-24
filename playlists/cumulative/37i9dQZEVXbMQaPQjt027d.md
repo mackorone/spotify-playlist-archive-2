@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-987 songs - 2 day 2 hr 50 min
+988 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Jabra](https://open.spotify.com/track/1NcrZNWtlNRPKTPt8aki85) | [DoubleZZ](https://open.spotify.com/artist/37LhL2RGqUnzOhHFKlR9Zc), [Doordior](https://open.spotify.com/artist/6BQZRRT4mgthGsvqrs8a2h), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Jabra](https://open.spotify.com/album/6PFBI7yWLXhAlF2NYRzLTk) | 3:10 | 2025-10-07 | 2025-10-17 |
 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2025-11-25 | 2025-12-03 |
 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 | 2026-03-22 |  |
+| [Jane!](https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5) | 3:06 | 2026-03-23 |  |
 | [Josephine](https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Shamrock Diaries](https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ) | 3:57 | 2025-12-28 | 2025-12-31 |
 | [Juiste Tijd](https://open.spotify.com/track/4ofupeTg5BvtffEfHik3bw) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Juiste Tijd](https://open.spotify.com/album/4GbfSuA9en9lo3SnzVYtCK) | 2:25 | 2025-10-07 | 2025-10-14 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-29 | 2025-09-30 |
@@ -770,7 +771,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-18 | 2026-03-18 |
 | [stay](https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v) | [Aden Lou](https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC) | [stay](https://open.spotify.com/album/6gROqlekZN4pD7DmuJeoJT) | 3:05 | 2025-07-19 | 2025-07-30 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-02-03 | 2026-02-06 |
-| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-03 |  |
+| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-03 | 2026-03-24 |
 | [Stil De Tijd](https://open.spotify.com/track/2U45gCmFOwMkD8OnWHIOxn) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Stil De Tijd](https://open.spotify.com/album/0st5sS8GV2koKCNXhJF8Vp) | 2:33 | 2025-09-13 | 2025-09-15 |
 | [Stil De Tijd](https://open.spotify.com/track/7DB0nYQr129OkyGYWdvIDn) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Typhoon\)](https://open.spotify.com/album/3FmlZFSHo1RXX9wDeGauMW) | 3:30 | 2025-09-23 | 2025-10-01 |
 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 | 2025-11-28 | 2026-01-03 |

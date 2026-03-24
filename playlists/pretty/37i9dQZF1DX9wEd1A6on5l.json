@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 113495,
+  "num_followers": 113545,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -349,7 +349,7 @@
         }
       ],
       "duration_ms": 160909,
-      "name": "Don't Suffer (feat. Winny)",
+      "name": "Don't Suffer (with Winny)",
       "url": "https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl"
     },
     {
@@ -683,6 +683,46 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -715,46 +755,6 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
         "name": "Uncle Pele / Sew-Tape",
         "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 171428,
       "name": "Uncle Pele",
       "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -839,6 +819,46 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -903,30 +923,6 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
-        "name": "HOW FAR / SHIMA II",
-        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "HOW FAR",
-      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -963,22 +959,26 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
-        "name": "when the party's over",
-        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+        "name": "HOW FAR / SHIMA II",
+        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
       "artists": [
         {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
         }
       ],
-      "duration_ms": 184203,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+      "duration_ms": 163327,
+      "name": "HOW FAR",
+      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
-        "name": "USDT",
-        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "USDT",
-      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
+        "name": "USDT",
+        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "USDT",
+      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
+        "name": "OFE NSALA",
+        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "OFE NSALA",
+      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
         "name": "See What We've Done",
         "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
       },
@@ -1475,22 +1495,22 @@
     {
       "added_at": "2026-03-20 00:01:33",
       "album": {
-        "name": "OFE NSALA",
-        "url": "https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi"
+        "name": "IRON ORE",
+        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
       },
       "artists": [
         {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 130084,
-      "name": "OFE NSALA",
-      "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
+      "duration_ms": 152079,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -1507,6 +1527,26 @@
       "duration_ms": 204159,
       "name": "Laye Mi",
       "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
+    },
+    {
+      "added_at": "2026-03-20 00:01:33",
+      "album": {
+        "name": "MANY GIRLS",
+        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "BRUME",
+          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "MANY GIRLS",
+      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
     },
     {
       "added_at": "2026-03-20 00:01:33",
@@ -1547,42 +1587,6 @@
       "duration_ms": 185454,
       "name": "Motho Waka",
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
-        "name": "MANY GIRLS",
-        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
-      },
-      "artists": [
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
-        },
-        {
-          "name": "BRUME",
-          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "MANY GIRLS",
-      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
-    },
-    {
-      "added_at": "2026-03-20 00:01:33",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     }
   ],
   "unique_name": "Party Dey!",

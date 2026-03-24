@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: VL Disappear, Hos, Bastosz en meer…
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,191 likes - 62 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,185 likes - 62 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-159 songs - 9 hr 8 min
+160 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 | 2025-11-11 | 2025-11-17 |
 | [Distant Rain](https://open.spotify.com/track/5SqalOpRVN36tQSYKmA4n2) | [Gisèle](https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna) | [Distant Rain](https://open.spotify.com/album/4GegVIiIB3iMfigkKB0M1k) | 2:21 | 2026-03-05 |  |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-06-27 |  |
-| [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 | 2025-10-02 |  |
+| [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 | 2025-10-02 | 2026-03-24 |
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2025-09-25 |  |
 | [Duly Love](https://open.spotify.com/track/2fqRddXFY6TNFvbdfTOtcK) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Duly Love](https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5) | 3:09 | 2025-06-27 | 2025-10-03 |
 | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 | 2025-12-05 |  |
@@ -61,6 +61,7 @@
 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 | 2025-06-27 |  |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2025-06-27 |  |
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2025-10-31 |  |
+| [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-23 |  |
 | [Happier \- Piano Version](https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier \(Piano Version\)](https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S) | 3:12 | 2025-06-27 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-06-27 |  |
 | [Heart of the Matter](https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Heart of the Matter](https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt) | 4:04 | 2025-12-05 |  |

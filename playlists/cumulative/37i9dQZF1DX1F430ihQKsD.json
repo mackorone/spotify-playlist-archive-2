@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Les jours o\u00f9 il neige \u00e0 tous les postes",
+        "url": "https://open.spotify.com/album/6b7Gvih39GaKHDgs2MDXrL"
+      },
+      "artists": [
+        {
+          "name": "Catherine Leduc",
+          "url": "https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232429,
+      "name": "Des heurts et des ratages",
+      "url": "https://open.spotify.com/track/52gBEjxp38AXHZ3CAWIbjL"
+    },
+    {
+      "album": {
         "name": "Des n\u0153uds dans les doigts",
         "url": "https://open.spotify.com/album/29UB860uihaDIj9d0NsD23"
       },

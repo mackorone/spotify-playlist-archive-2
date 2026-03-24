@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-269 songs - 16 hr 31 min
+272 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-05 |
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 | 2026-01-21 |
 | [Beyond The Light](https://open.spotify.com/track/3ilkk0LvxRJliKSrTQF22e) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Beyond The Light](https://open.spotify.com/album/3PdgpJKrEf1cZDRlW3qcfO) | 3:23 | 2026-01-24 | 2026-02-25 |
+| [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 |  |
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 | 2026-01-05 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
 | [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 | 2025-12-30 | 2026-01-21 |
@@ -126,6 +127,7 @@
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-11 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 |  |
 | [Just Another Sad Song](https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Just Another Sad Song](https://open.spotify.com/album/5t97pW7wlKjSwhVlKjWL7I) | 2:59 | 2025-11-04 | 2025-12-06 |
+| [Keepin' Up With the Jones'](https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Keepin' Up With the Jones'](https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi) | 2:34 | 2026-03-23 |  |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-02-07 | 2026-03-05 |
 | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/track/09v2BHi9r6vYjZ92DOrMNp) | [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [L0st With1n \(Nowhere To Hide\)](https://open.spotify.com/album/2ZiuHnUaPIjj2WawwsWIEM) | 2:28 | 2026-01-03 | 2026-02-02 |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-25 |
@@ -251,6 +253,7 @@
 | [Trampeltier](https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g) | [Neidmaer](https://open.spotify.com/artist/0hCDG82eSZNEb32nKPyeKR) | [Trampeltier](https://open.spotify.com/album/3ahMXPDYjOxgf8JmfbanPy) | 4:28 | 2025-09-25 | 2026-01-05 |
 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-03-13 |  |
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-07 |  |
+| [under my skin](https://open.spotify.com/track/1rVB6X6CKu9TZA881x1a4D) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [under my skin](https://open.spotify.com/album/4PxaXcBumTmEBSlzbvtECD) | 2:42 | 2026-03-23 |  |
 | [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 | 2026-01-19 | 2026-02-19 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-11 | 2026-02-02 |
 | [VHS](https://open.spotify.com/track/55IaNinX523ef5gVySoiLS) | [The Attic](https://open.spotify.com/artist/2IDA4k7NRZOZUznK0Goimh) | [VHS](https://open.spotify.com/album/4OzI2lFutyo5Tqb1rRCXqF) | 4:04 | 2026-03-17 |  |

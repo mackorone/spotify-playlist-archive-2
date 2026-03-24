@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: aespa & <br/>Anderson .Paak\)
 
-268 songs - 14 hr 2 min
+269 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl) | 3:22 | 2024-08-09 |  |
 | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg) | 2:50 | 2022-01-21 | 2022-12-06 |
 | [Wrap Me In Plastic](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Wrap Me In Plastic](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) | 3:12 | 2021-12-20 | 2025-03-07 |
+| [YOU LIKE IT I LOVE IT](https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [YOU LIKE IT I LOVE IT](https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9) | 3:02 | 2026-03-23 |  |
 | [You Never Know \- JP Ver.](https://open.spotify.com/track/3b7trEcKoglybN5MxGuSaw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [You Never Know \(JP Ver.\)](https://open.spotify.com/album/4CoKhy1Ew4kb4kgonvnMXy) | 3:49 | 2021-12-20 | 2022-03-17 |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-20 | 2022-09-06 |
 | [Your Eyes](https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Your Eyes](https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq) | 3:16 | 2022-06-01 | 2024-10-09 |

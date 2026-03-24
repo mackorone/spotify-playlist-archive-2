@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring MAYV
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,073 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,125 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 20 | [Go Home With A Stranger](https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Go Home With A Stranger](https://open.spotify.com/album/5CyZR88VZhWWTlTjlxGE8P) | 3:06 |
 | 21 | [I See A Fire](https://open.spotify.com/track/0vDo2dD4qWyZ3ulNaydHLx) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Moonglade Park](https://open.spotify.com/album/4wkiD8YFP3BFJRiyAcFZut) | 5:39 |
 | 22 | [SYRINX](https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6), [Me Jesmay](https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv), [Lucas Swatch](https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF) | [GÍRIA](https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8) | 2:27 |
-| 23 | [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
+| 23 | [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
 | 24 | [My Turn \(feat\. sbk\)](https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Wall\-To\-Wall](https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga) | 2:41 |
 | 25 | [NOLIGHT](https://open.spotify.com/track/62nf1ZWpTaNxeIFUsAIHTP) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Heybela](https://open.spotify.com/artist/4RYz77kqy96jQVDSB6QUIc) | [NOLIGHT](https://open.spotify.com/album/2zFKg0yCDYF9kCm5VYuyD7) | 3:16 |
 | 26 | [youshouldknow \(feat\. Casey Cook\)](https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [type:era](https://open.spotify.com/album/3kJxbCSkTi03NwxMme0rNz) | 2:52 |

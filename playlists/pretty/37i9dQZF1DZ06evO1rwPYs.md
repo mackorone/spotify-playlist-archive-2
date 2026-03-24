@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,095 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,099 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 17 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
 | 18 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 |
 | 19 | [Guantanamera](https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bravo](https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E) | 2:55 |
-| 20 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
-| 21 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 20 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 21 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
 | 22 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
 | 23 | [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 |
 | 24 | [Toro Mata \- Remastered 2024](https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia & Johnny \(Remastered 2024\)](https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Oye Cómo Va](https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Celia Cruz Centennial](https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1) | 4:32 |
 | 50 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 
-Snapshot ID: `ab3fgAAAAAB2UKAKJXC6+3U+PY25S0Nl`
+Snapshot ID: `ab8xAAAAAADMO6e2IURaspTeUSj8wdPe`

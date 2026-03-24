@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-286 songs - 16 hr 17 min
+287 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aao Chalein](https://open.spotify.com/track/4LX8OArGCZ3hS0imHepe83) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/4mMnTBM6r70UINlb5Ag6jA) | 3:05 | 2022-01-05 | 2022-07-29 |
 | [Aaoge Tum Kabhi](https://open.spotify.com/track/5ivRSlOhVIXN2QMzqgsX0s) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 5:13 | 2024-07-01 |  |
 | [Aarzoo](https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Aarzoo](https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW) | 3:25 | 2021-12-06 | 2022-06-15 |
+| [Aashiqana](https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Parvana](https://open.spotify.com/album/5haaCvmWOSBI362b3NRdZk) | 6:43 | 2026-03-23 |  |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2024-02-19 |  |
 | [Aasmani](https://open.spotify.com/track/1cnYfIyxflsgDQz3ND5WWf) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aasmani](https://open.spotify.com/album/24HEKKPyHEu5fbcctSMBKN) | 3:19 | 2026-03-07 |  |
 | [Absolute](https://open.spotify.com/track/362kqwSxB52iW2t6LcPveG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Absolute](https://open.spotify.com/album/4UeiOPQE3Qxe8bo5U3jJZb) | 3:23 | 2021-12-06 | 2022-01-06 |
@@ -271,7 +272,7 @@
 | [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 | 2022-01-05 | 2023-08-10 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-29 | 2024-10-23 |
 | [Tum Se](https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Tum Se](https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD) | 3:52 | 2025-12-18 |  |
-| [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2022-08-23 |  |
+| [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 | 2022-08-23 | 2026-03-24 |
 | [Tuta Pull Wahan](https://open.spotify.com/track/4gCVaEUubhHmhsEe0GFRVx) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/2gFMOqvZHiCwD6myI65Okz) | 5:12 | 2022-07-13 | 2022-08-24 |
 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 | 2024-05-28 |  |
 | [Udaan](https://open.spotify.com/track/4P04qZvFhETXTGviFu9xL5) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Udaan](https://open.spotify.com/album/4S6vdgAvjXuO4gDE4kbxJ5) | 3:18 | 2022-01-05 | 2022-01-20 |

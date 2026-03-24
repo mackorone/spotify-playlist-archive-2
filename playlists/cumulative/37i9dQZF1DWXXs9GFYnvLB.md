@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Alex Warren
+> The hottest tracks with the freshest hits! Cover: Dom Dolla
 
 435 songs - 23 hr 24 min
 

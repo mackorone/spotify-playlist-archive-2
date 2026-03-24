@@ -4687,6 +4687,32 @@
     },
     {
       "album": {
+        "name": "Die Living",
+        "url": "https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Die Living",
+      "url": "https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK"
+    },
+    {
+      "album": {
         "name": "Died In Your Arms (Reloaded)",
         "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
       },
@@ -4974,7 +5000,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 192000,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
@@ -11603,6 +11629,32 @@
     },
     {
       "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "ROSY",
+          "url": "https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147777,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
+    },
+    {
+      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -15719,6 +15771,28 @@
     },
     {
       "album": {
+        "name": "Rave From Outer Space",
+        "url": "https://open.spotify.com/album/45SIC52KNvPQZsgz3NZuxJ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Rave From Outer Space",
+      "url": "https://open.spotify.com/track/6vMyEjiBfrk4qt8kQBwbEj"
+    },
+    {
+      "album": {
         "name": "Rave Machine",
         "url": "https://open.spotify.com/album/3f6mVN8bEhXVB2rUK6cfIn"
       },
@@ -19176,7 +19250,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
@@ -19224,7 +19298,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 180115,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/1KXLA5DWyLYeblY5d36kEp"

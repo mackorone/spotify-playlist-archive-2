@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,896 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,856 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 53 | [Alegría](https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Alegría](https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k) | 3:22 |
 | 54 | [Contigo](https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Contigo](https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX) | 2:23 |
 | 55 | [Llegó La Navidad](https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [El Mix\-Tape De Santa](https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade) | 2:25 |
-| 56 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
-| 57 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
+| 56 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
+| 57 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
 | 58 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 59 | [Un Año Más](https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:56 |
 | 60 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |

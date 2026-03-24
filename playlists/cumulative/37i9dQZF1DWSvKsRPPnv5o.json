@@ -12671,6 +12671,28 @@
     },
     {
       "album": {
+        "name": "Gold Wrapper",
+        "url": "https://open.spotify.com/album/2L2f5L4B8q52B1LsZKV2hY"
+      },
+      "artists": [
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Gold Wrapper",
+      "url": "https://open.spotify.com/track/2N4vWw0RoA902Sw3TbjOAQ"
+    },
+    {
+      "album": {
         "name": "STAY SAFE",
         "url": "https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt"
       },
@@ -24240,7 +24262,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 134400,
       "name": "Quickest Routes",
       "url": "https://open.spotify.com/track/0HNYsGGjrvPQsaXR6sFnVB"

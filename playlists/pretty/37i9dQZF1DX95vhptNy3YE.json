@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444408,
+  "num_followers": 444386,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
+        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 263281,
+      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
         "name": "SIX.",
         "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 152158,
       "name": "Number One",
       "url": "https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
-        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 263281,
-      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -1143,26 +1143,34 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7"
+        "name": "Os Caras da Rua, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu"
       },
       "artists": [
         {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
         },
         {
-          "name": "Mc Rodson",
-          "url": "https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4"
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
         }
       ],
-      "duration_ms": 233898,
-      "name": "Gan\u00e2ncia",
-      "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
+      "duration_ms": 92389,
+      "name": "Nosso Lance - Ao Vivo",
+      "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
     }
   ],
   "unique_name": "AMPLIFIKA",

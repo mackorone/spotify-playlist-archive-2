@@ -4,7 +4,7 @@
 
 > Fulminacci sulla cover della playlist più grande in Italia 🔥
 
-308 songs - 16 hr 4 min
+309 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Money on my mind \(feat\. Rose Villain & Artie 5ive\)](https://open.spotify.com/track/2QW5EuNN9bnowa0e0JKsVM) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:52 | 2025-02-03 | 2025-02-13 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-11 | 2025-02-14 |
 | [NEON](https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:46 | 2025-04-17 |  |
-| [Nessuna](https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:43 | 2025-05-22 |  |
+| [Nessuna](https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:43 | 2025-05-22 | 2026-03-24 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-13 | 2025-06-04 |
 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-11 | 2025-04-11 |
 | [no vabbè \(feat\. Lazza\)](https://open.spotify.com/track/6A2dRDIBolKdUxbPmTHz4W) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 2:40 | 2025-03-14 | 2025-04-11 |
@@ -306,6 +306,7 @@
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-05 | 2024-10-12 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-06-28 | 2024-08-23 |
 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 | 2024-12-05 | 2025-01-22 |
+| [Via dei Mille](https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Via dei Mille](https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw) | 2:10 | 2026-03-23 |  |
 | [Vibe](https://open.spotify.com/track/6cGhVnQAJRxGVsltCU06vF) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:31 | 2025-01-23 | 2025-06-27 |
 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/6rlRsGkuYPz1ssHFa4lm4N), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 | 2024-11-13 | 2025-02-07 |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-13 | 2025-04-22 |

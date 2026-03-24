@@ -4,7 +4,7 @@
 
 > Nieuwe R&B releases \| Cover: Noha Saré
 
-723 songs - 1 day 13 hr 16 min
+724 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 | 2023-08-31 | 2024-09-28 |
 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-09-05 | 2025-03-21 |
 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 | 2025-03-20 | 2025-06-28 |
-| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 |  |
+| [My Absolute \- Remake](https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO) | [Mar Omin](https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F) | [My Absolute \(Remake\)](https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ) | 4:25 | 2025-11-20 | 2026-03-24 |
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 | 2022-06-10 |
 | [N.M.N](https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Why Do Feelings Matter Anyway](https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M) | 3:00 | 2026-02-03 |  |
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
@@ -506,6 +506,7 @@
 | [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 | 2025-06-27 |  |
 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-20 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2023-01-12 | 2023-01-27 |
+| [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 | 2026-03-23 |  |
 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 | 2025-08-14 |  |
 | [Private](https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Badí](https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa) | [Private](https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR) | 2:38 | 2023-09-28 | 2024-10-05 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-21 | 2026-02-27 |

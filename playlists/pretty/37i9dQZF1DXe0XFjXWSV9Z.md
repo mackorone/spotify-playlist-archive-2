@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,479 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,492 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 26 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 |
 | 27 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 |
 | 28 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
-| 29 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 |
-| 30 | [La Cumbia Sampuesana](https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E) | [Abelardo Carbono](https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Cumbia Sampuesana](https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S) | 5:43 |
+| 29 | [La Cumbia Sampuesana](https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E) | [Abelardo Carbono](https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Cumbia Sampuesana](https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S) | 5:43 |
+| 30 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 |
 | 31 | [Teniente Harina \- Cumbia Manifiesto, Pt\. 2](https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Teniente Harina \(Cumbia Manifiesto\)](https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq) | 2:21 |
 | 32 | [Pañuelo De Seda](https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Pañuelo De Seda](https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY) | 3:03 |
 | 33 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 43 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 |
 | 44 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 |
 | 45 | [Dame Tu Mano](https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Abya Yala](https://open.spotify.com/album/4mMZPRALo0FdtmG70m1Fe2) | 5:44 |
-| 46 | [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 |
-| 47 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 |
+| 46 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 |
+| 47 | [Los Olvidados](https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropidélico](https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8) | 3:26 |
 | 48 | [Caminito de mi Pueblo](https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [La Sonora Mazurén](https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX) | [Caminito de mi Pueblo](https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo) | 4:03 |
 | 49 | [Savage Love](https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi) | [Joshua Moriarty](https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU) | [Savage Love](https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ) | 3:54 |
 | 50 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |

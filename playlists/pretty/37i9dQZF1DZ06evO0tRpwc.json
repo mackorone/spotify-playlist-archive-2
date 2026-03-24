@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37841,
+  "num_followers": 37840,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAABIMKl7LRPdltdBhd5WmtU",
+  "snapshot_id": "ab8xAAAAAAAP2tSsf5Au+mIHTjv4VKLQ",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 466146,
-      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -343,42 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fam\u00edlia Soul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Soul",
-          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Um Servo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Jugo Suave",
-      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -392,9 +336,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+      "duration_ms": 466146,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -419,6 +363,62 @@
       "duration_ms": 141057,
       "name": "Manifesto (Vers\u00e3o Afrobeat)",
       "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Jugo Suave",
+      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fam\u00edlia Soul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Soul",
+          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Um Servo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 180188,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/5Fi0vPKI3t2AJB1tmDwY1D"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 202560,
       "name": "Outubro",
       "url": "https://open.spotify.com/track/7rfQIPJS4rgUju5Fnji49x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
     },
     {
       "added_at": null,
@@ -963,34 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turma do Barulho, Vol. 6",
-        "url": "https://open.spotify.com/album/3obdpAfxavFsu14GD9m8Zm"
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
       "artists": [
         {
-          "name": "Turma do Barulho",
-          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
-        },
-        {
-          "name": "Elen Diana",
-          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
-        },
-        {
-          "name": "Suelen Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Celebrai a Cristo, Tu \u00c9s",
-      "url": "https://open.spotify.com/track/72vZhHTYv5CB9bzwk7F7c8"
+      "duration_ms": 242683,
+      "name": "Junho",
+      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

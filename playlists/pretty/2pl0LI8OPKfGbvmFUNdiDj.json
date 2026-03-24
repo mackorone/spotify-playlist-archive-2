@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 668,
+  "num_followers": 676,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADTCxjD4dfLpXb0mqSyXGB0TKBzOvq",
+  "snapshot_id": "AAADT0uEJ1xMZVPaKiakw4iz+di6PcwD",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -1095,6 +1095,54 @@
       "duration_ms": 223635,
       "name": "Ziggy Is a Alien",
       "url": "https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j"
+    },
+    {
+      "added_at": "2026-03-23 14:14:12",
+      "album": {
+        "name": "Trattore elettrico",
+        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 219605,
+      "name": "Trattore elettrico",
+      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
+    },
+    {
+      "added_at": "2026-03-23 14:37:28",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 334101,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc"
+    },
+    {
+      "added_at": "2026-03-23 19:34:05",
+      "album": {
+        "name": "I Scream at the Sky",
+        "url": "https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "duration_ms": 126818,
+      "name": "I Scream at the Sky",
+      "url": "https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

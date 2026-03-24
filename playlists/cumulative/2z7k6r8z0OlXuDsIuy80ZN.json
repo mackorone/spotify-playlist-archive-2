@@ -3853,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/1QIfadQdSg2TG94kFEssqU"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211096,
+      "name": "las guapas no morimos de verdad",
+      "url": "https://open.spotify.com/track/39Evd0rSSm0XX0dMia4c3k"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -4032,6 +4050,24 @@
       "duration_ms": 197217,
       "name": "Los ni\u00f1os del parque",
       "url": "https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8"
+    },
+    {
+      "album": {
+        "name": "Los Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189429,
+      "name": "Los Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
     },
     {
       "album": {
@@ -5776,7 +5812,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170654,
       "name": "SE LO JURO MOR",
       "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
@@ -7262,7 +7298,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 152163,
       "name": "V\u00e1monos de aqu\u00ed",
       "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"

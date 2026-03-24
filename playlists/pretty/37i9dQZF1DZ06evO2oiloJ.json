@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 249704,
+  "num_followers": 249737,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAC9VmOT3nhvB+1Ydva20cor",
+  "snapshot_id": "ab8xAAAAAAA/YzfgqYksoaLItnHll38Z",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feed the Streets",
-        "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Feed the Streets",
-      "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 252021,
       "name": "Street Runner",
       "url": "https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feed the Streets",
+        "url": "https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Feed the Streets",
+      "url": "https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 111751,
-      "name": "Chip On My Shoulder",
-      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 160078,
       "name": "Tombstone",
       "url": "https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 111751,
+      "name": "Chip On My Shoulder",
+      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
     },
     {
       "added_at": null,

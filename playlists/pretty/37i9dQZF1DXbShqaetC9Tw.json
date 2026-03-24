@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147751,
+  "num_followers": 147747,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "nswy: dream edits",
-        "url": "https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 249944,
-      "name": "free love - dream edit",
-      "url": "https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 308226,
       "name": "Gondry",
       "url": "https://open.spotify.com/track/7lPFh8HF5FFMzSIUOwvRTm"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
+        "name": "nswy: dream edits",
+        "url": "https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 249944,
+      "name": "free love - dream edit",
+      "url": "https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
         "name": "What if we met at another place ?",
         "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179999,
       "name": "What if we met at another place ?",
       "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2026-01-23 02:28:33",

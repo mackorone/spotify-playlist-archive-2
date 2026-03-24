@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 193131,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/0Q7KNm5QKHLfJJBKVecyHL"
@@ -5006,6 +5006,28 @@
       "duration_ms": 179122,
       "name": "Bier over hier",
       "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+    },
+    {
+      "album": {
+        "name": "Shakespeare 2",
+        "url": "https://open.spotify.com/album/1Imbnq0xCkuFKWt3joj2TF"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Big Boy",
+      "url": "https://open.spotify.com/track/69XT7iriFi7iuDz5nkIXYe"
     },
     {
       "album": {
@@ -8008,10 +8030,28 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 115834,
       "name": "DD",
       "url": "https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0"
+    },
+    {
+      "album": {
+        "name": "Shakespeare 2",
+        "url": "https://open.spotify.com/album/1Imbnq0xCkuFKWt3joj2TF"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115834,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/395VR5pcjvUJ1bIwQzVtI7"
     },
     {
       "album": {

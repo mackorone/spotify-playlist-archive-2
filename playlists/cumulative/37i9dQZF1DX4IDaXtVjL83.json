@@ -5513,6 +5513,28 @@
     },
     {
       "album": {
+        "name": "YOU LIKE IT I LOVE IT",
+        "url": "https://open.spotify.com/album/479QUz4xPJ8Tk8tV2KXDb9"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "YOU LIKE IT I LOVE IT",
+      "url": "https://open.spotify.com/track/5H6cLsP1Ju4zghznKsw1zu"
+    },
+    {
+      "album": {
         "name": "You Never Know (JP Ver.)",
         "url": "https://open.spotify.com/album/4CoKhy1Ew4kb4kgonvnMXy"
       },

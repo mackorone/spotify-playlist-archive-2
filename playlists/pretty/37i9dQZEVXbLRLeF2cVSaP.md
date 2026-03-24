@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,088 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,094 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Родной город](https://open.spotify.com/track/45x4xzIwyNd4GBjP1YRmZj) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Костёр](https://open.spotify.com/album/5MCoFOjHrgQjDSiH177JqI) | 3:30 |
 | 50 | [ПАПА](https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [ПАПА](https://open.spotify.com/album/1bIRpktyLvf7jvPZyfmEFP) | 1:42 |
 
-Snapshot ID: `MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

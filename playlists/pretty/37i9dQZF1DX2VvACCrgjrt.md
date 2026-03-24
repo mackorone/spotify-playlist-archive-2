@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 featuring bradeazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,254 likes - 125 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,243 likes - 125 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

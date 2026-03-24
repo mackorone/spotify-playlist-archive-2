@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Synthetik Blonde and more",
+  "description": "With Evil Level Live, JUST LIZZY, Lockjaw and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Imperial Dunes",
+        "url": "https://open.spotify.com/album/0YTBB11oEQcBteV0E0D8Sw"
+      },
+      "artists": [
+        {
+          "name": "Landroid",
+          "url": "https://open.spotify.com/artist/7DIJjtbZhJdqXSVSFfBWyP"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240431,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "album": {
         "name": "Baby Zombies",
         "url": "https://open.spotify.com/album/66fpG6W5UxFx3N7CqH8dtc"
       },
@@ -678,6 +696,24 @@
       "duration_ms": 150004,
       "name": "Begin To Fade",
       "url": "https://open.spotify.com/track/7tjMmZH2Nxxl2kiyzAeySn"
+    },
+    {
+      "album": {
+        "name": "The Sky",
+        "url": "https://open.spotify.com/album/3868y4h975YN6bCYArNyCi"
+      },
+      "artists": [
+        {
+          "name": "Clark Kellogg",
+          "url": "https://open.spotify.com/artist/1uKe4XmxOsaToTayOazBV1"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246688,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/6RjoCkeM2zjZXY4xio0nBi"
     },
     {
       "album": {
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 278344,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/5a0UozDdlLleQaN7EZta6C"
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 331305,
       "name": "Cloudweaver",
       "url": "https://open.spotify.com/track/7zSq8v0bPBtcCgmYkgX8fo"
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2868,7 +2904,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 282551,
       "name": "For Now (feat. Emily Gray)",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 191468,
       "name": "Hardcase",
       "url": "https://open.spotify.com/track/0mMO60Pg8XY70T0EC5uOdR"
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
@@ -3982,7 +4018,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -4913,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Pin Ups",
+        "url": "https://open.spotify.com/album/4itr4L9MsKJLGO7a8LI6d4"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/77xe4sZAX1YmDREwxDfpcI"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1jKe4oSbVCPGklGzhtZLS3"
       },
@@ -5252,7 +5306,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 217217,
       "name": "Modern Era Working Class",
       "url": "https://open.spotify.com/track/5MBb4fGO74ez8EuN1MSUyU"
@@ -5400,7 +5454,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -5436,7 +5490,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -5865,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/2JQH3wA5pnv3bjhroIvZRn"
+      },
+      "artists": [
+        {
+          "name": "Purple Fog Side",
+          "url": "https://open.spotify.com/artist/2eVLkO9bBzfM6qVeFIzlpM"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/32sr7MGilJxTBCUxPSOVlL"
+    },
+    {
+      "album": {
         "name": "Ping Pong in the Bunker",
         "url": "https://open.spotify.com/album/0imPikmxrFQaLmatBns46x"
       },
@@ -6032,7 +6104,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -6603,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "Save Me From Myself",
+        "url": "https://open.spotify.com/album/79TkbZ8si1XLHqoO9xmQAI"
+      },
+      "artists": [
+        {
+          "name": "Distance From Zero",
+          "url": "https://open.spotify.com/artist/0GoBb3AHIP4JWcfTWiFY3Z"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207719,
+      "name": "Save Me From Myself",
+      "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
+    },
+    {
+      "album": {
         "name": "What if I'm right",
         "url": "https://open.spotify.com/album/4sszFYVaE4gBtx3hrtMZIM"
       },
@@ -6744,7 +6834,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 256500,
       "name": "Serve Me Some Crime",
       "url": "https://open.spotify.com/track/6Zv1sgSm7zLawLuYO5kgA9"
@@ -7902,7 +7992,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 208993,
       "name": "The Crushed",
       "url": "https://open.spotify.com/track/6ilnHlVVofCSXILQHpLEdo"
@@ -8068,6 +8158,24 @@
       "duration_ms": 263920,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/625gLSaOlAcfJ0mWt6zITJ"
+    },
+    {
+      "album": {
+        "name": "The Outlaw's Bride",
+        "url": "https://open.spotify.com/album/4uPPE4dW2RcUkaZLZJ9FRF"
+      },
+      "artists": [
+        {
+          "name": "Stella Ferguson",
+          "url": "https://open.spotify.com/artist/2cSs6BCbPlU4Pc0vxZtQln"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185961,
+      "name": "The Outlaw's Bride",
+      "url": "https://open.spotify.com/track/5KpPAWapq4upDFsi313P2v"
     },
     {
       "album": {
@@ -8584,7 +8692,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 190006,
       "name": "To Die And I",
       "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"
@@ -8818,7 +8926,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -8966,7 +9074,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"

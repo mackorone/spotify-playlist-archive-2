@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 309546,
+  "num_followers": 309658,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Diary (Remastered and Expanded Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Diary (Remastered and Expanded Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Only Happy When It Rains",
-      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 247089,
       "name": "Nearly Lost You",
       "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Brighten the Corners",
         "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Rooney",
-        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC"
       },
       "artists": [
         {
-          "name": "Rooney",
-          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 214120,
-      "name": "I'm Shakin'",
-      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
+      "duration_ms": 215293,
+      "name": "You Know More Than I Know",
+      "url": "https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "You Know More Than I Know",
-      "url": "https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Return Of The Rentals",
-        "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
+        "name": "Rooney",
+        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
       },
       "artists": [
         {
-          "name": "The Rentals",
-          "url": "https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC"
+          "name": "Rooney",
+          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
         }
       ],
-      "duration_ms": 212266,
-      "name": "Friends of P.",
-      "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
+      "duration_ms": 214120,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1627,6 +1611,22 @@
       "duration_ms": 309600,
       "name": "Boys On The Radio",
       "url": "https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Return Of The Rentals",
+        "url": "https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg"
+      },
+      "artists": [
+        {
+          "name": "The Rentals",
+          "url": "https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Friends of P.",
+      "url": "https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ"
     }
   ],
   "unique_name": "Thrifted",

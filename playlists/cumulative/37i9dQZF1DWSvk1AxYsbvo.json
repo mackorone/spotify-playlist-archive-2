@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "fianc\u00e9",
+        "url": "https://open.spotify.com/album/6aV9eqQDBuJCGdkDn5vw0I"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220501,
+      "name": "fianc\u00e9",
+      "url": "https://open.spotify.com/track/2UNKZXGD3kFTdiHpeKSRhP"
+    },
+    {
+      "album": {
         "name": "Rinza Noodle House (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND"
       },
@@ -1358,6 +1376,24 @@
       "duration_ms": 187626,
       "name": "Flower(Long For You)",
       "url": "https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd"
+    },
+    {
+      "album": {
+        "name": "For a Long Time",
+        "url": "https://open.spotify.com/album/712hfheO6b7WDAnZKDmO9Z"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "For a Long Time",
+      "url": "https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ"
     },
     {
       "album": {
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 182342,
       "name": "How is it?",
       "url": "https://open.spotify.com/track/2iDaalTfhjBWcNTInRk5DZ"
@@ -2734,7 +2770,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -3854,7 +3890,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 180000,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/0qVuFvG0cSQgsPt9AxqKYk"
@@ -4782,6 +4818,24 @@
       "duration_ms": 166000,
       "name": "With All My Heart (with Hyunseo Park)",
       "url": "https://open.spotify.com/track/7w5kC3H1jdmKzna5YCSchk"
+    },
+    {
+      "album": {
+        "name": "Pieces of Memories",
+        "url": "https://open.spotify.com/album/5mrrFAgvvAWx9bcTulvnk1"
+      },
+      "artists": [
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wonderful Day",
+      "url": "https://open.spotify.com/track/3sA2bqYmGTCaHkU4P2CJ5A"
     },
     {
       "album": {

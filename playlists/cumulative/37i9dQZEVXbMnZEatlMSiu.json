@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -6844,7 +6844,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -9130,7 +9130,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -13560,7 +13560,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/65Wzl9VIDmbFULck1mHWub"
@@ -17312,7 +17312,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -18228,7 +18228,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -20046,7 +20046,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 240753,
       "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
@@ -23902,7 +23902,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 215253,
       "name": "\u611b\u611b\u611b",
       "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
@@ -26068,6 +26068,24 @@
       "duration_ms": 225186,
       "name": "\u6dda\u6a4b",
       "url": "https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S"
+    },
+    {
+      "album": {
+        "name": "\u6e1b\u50b7",
+        "url": "https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "\u6e1b\u50b7",
+      "url": "https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu"
     },
     {
       "album": {
@@ -28650,7 +28668,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 271493,
       "name": "\u958b\u59cb\u61c2\u4e86",
       "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"

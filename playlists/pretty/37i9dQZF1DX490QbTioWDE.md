@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno y Valentina Marquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,894 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,020 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 78 | [Amor de Papel / Enamorado de Ti / En Libertad](https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw) | [Cachumba](https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R) | [Somos Todos](https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt) | 4:31 |
 | 79 | [Que vamos a hacer](https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Que vamos a hacer](https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR) | 2:56 |
 | 80 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
-| 81 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
-| 82 | [No Cambié](https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Cambié](https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux) | 3:04 |
+| 81 | [No Cambié](https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [No Cambié](https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux) | 3:04 |
+| 82 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
 | 83 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
 | 84 | [A veces, a besos](https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [A veces, a besos](https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j) | 3:18 |
 | 85 | [50% \- En Vivo](https://open.spotify.com/track/5CjlFUbDhFW8U85kjRjf2E) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [50% \(En Vivo\)](https://open.spotify.com/album/2EpxFlCsjh51kHO60qQG1I) | 3:45 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 92 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
 | 93 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 |
 | 94 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
-| 95 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
-| 96 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
+| 95 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
+| 96 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 97 | [JULIETA & ROMEO \(En Vivo\)](https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [JULIETA & ROMEO \(En Vivo\)](https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4) | 2:43 |
 | 98 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 99 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 |

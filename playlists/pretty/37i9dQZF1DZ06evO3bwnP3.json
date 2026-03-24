@@ -1,12 +1,12 @@
 {
   "description": "This is Kara-Lis Coverdale. The essential tracks, all in one playlist.",
-  "num_followers": 89,
+  "num_followers": 91,
   "original_name": "This Is Kara-Lis Coverdale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAwWGUcQOhpesJ5p0KcsWtG",
+  "snapshot_id": "ab8xAAAAAAABHsEmTh9+wsp5reI5ORTD",
   "tracks": [
     {
       "added_at": null,
@@ -200,25 +200,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 477000,
-      "name": "Curve Traces of Held Space",
-      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Turning Multitudes",
-      "url": "https://open.spotify.com/track/4YRc5vTlfT4dRznuaDLe8j"
+      "duration_ms": 730477,
+      "name": "Strait of Phase",
+      "url": "https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2"
     },
     {
       "added_at": null,
@@ -235,6 +219,22 @@
       "duration_ms": 266500,
       "name": "Imgs /r",
       "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Turning Multitudes",
+      "url": "https://open.spotify.com/track/4YRc5vTlfT4dRznuaDLe8j"
     },
     {
       "added_at": null,
@@ -264,25 +264,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 644166,
-      "name": "Labyrinth I",
-      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 212124,
-      "name": "In Charge of the Hour",
-      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
+      "duration_ms": 477000,
+      "name": "Curve Traces of Held Space",
+      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 212124,
+      "name": "In Charge of the Hour",
+      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
     },
     {
       "added_at": null,
@@ -328,25 +328,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 730477,
-      "name": "Strait of Phase",
-      "url": "https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Soft Fold 3/4",
-      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
+      "duration_ms": 644166,
+      "name": "Labyrinth I",
+      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
       "duration_ms": 184641,
       "name": "Fireflight",
       "url": "https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Soft Fold 3/4",
+      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
     },
     {
       "added_at": null,
@@ -399,58 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Lowlands",
-      "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
-      "duration_ms": 268181,
-      "name": "Territory of Subtle Entries",
-      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Where You Came",
-        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 123903,
-      "name": "Equal Exchange",
-      "url": "https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -476,9 +424,93 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
+      "duration_ms": 294000,
+      "name": "Lowlands",
+      "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 123903,
+      "name": "Equal Exchange",
+      "url": "https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 268181,
+      "name": "Territory of Subtle Entries",
+      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "X 4Ewi",
+      "url": "https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
       "duration_ms": 213500,
       "name": "Suspension of Swallowed Earth",
       "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)",
+        "url": "https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 148204,
+      "name": "Kvinne med gresskar",
+      "url": "https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh"
     },
     {
       "added_at": null,
@@ -503,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)",
-        "url": "https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 148204,
-      "name": "Kvinne med gresskar",
-      "url": "https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -528,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 320000,
-      "name": "X 4Ewi",
-      "url": "https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel"
+      "duration_ms": 211500,
+      "name": "Splash 144",
+      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
     },
     {
       "added_at": null,
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Splash 144",
-      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
+      "duration_ms": 269500,
+      "name": "Ad_renaline",
+      "url": "https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu"
     },
     {
       "added_at": null,
@@ -607,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
       },
       "artists": [
         {
           "name": "Kara-Lis Coverdale",
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Ad_renaline",
-      "url": "https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu"
+      "duration_ms": 334750,
+      "name": "Buffering landscape",
+      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 372000,
       "name": "Subfall (to)",
       "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
-      "duration_ms": 334750,
-      "name": "Buffering landscape",
-      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

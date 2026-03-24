@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Bausa 🔥
 
-155 songs - 6 hr 48 min
+156 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 | 2025-12-06 |
 | [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 | 2025-07-17 | 2026-02-13 |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-07-17 |  |
-| [Diamanten 2026](https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Diamanten 2026](https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9) | 2:06 | 2026-01-27 |  |
+| [Diamanten 2026](https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Diamanten 2026](https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9) | 2:06 | 2026-01-27 | 2026-03-24 |
 | [Dile](https://open.spotify.com/track/540cGIHNKg91y24aWqmPkW) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Dile](https://open.spotify.com/album/5hljDLYEPTDkgtK0e9MzGV) | 2:37 | 2025-07-17 | 2025-11-07 |
 | [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-17 | 2025-08-05 |
 | [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 | 2025-10-07 | 2025-12-12 |
@@ -107,6 +107,7 @@
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2025-07-17 | 2025-10-18 |
 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 | 2025-07-17 |  |
 | [Niet Voor De Smaak](https://open.spotify.com/track/1cLMnHYsSs0lS52FqnFLZ6) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Niet Voor De Smaak](https://open.spotify.com/album/0rxFRnGwMpxTof1jhJ7DGY) | 2:25 | 2026-01-13 |  |
+| [Niet Yusu](https://open.spotify.com/track/4unCaFwAKU0C4bNTbYwMqN) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Niet Yusu](https://open.spotify.com/album/58iLqC8WicZ6nxHk3CNlmA) | 2:27 | 2026-03-23 |  |
 | [Niks Voor Mij](https://open.spotify.com/track/4K3ruvSedoAvOHijvvptqm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Niks Voor Mij](https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI) | 2:07 | 2025-07-17 | 2025-08-30 |
 | [No Go Zone \(Remix\)](https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [No Go Zone \(Remix\)](https://open.spotify.com/album/7C3DlpFK7aOVzOjM81nHWJ) | 4:40 | 2025-07-17 |  |
 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 | 2025-10-17 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABogyjA0/Bhj0qWr47GQWcF",
+  "snapshot_id": "ab8xAAAAAAB3tKQKLRfdKfcKuYZkQyYs",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-        "url": "https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve"
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
       "artists": [
         {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 171888,
-      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
+      "duration_ms": 143757,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
     },
     {
       "added_at": null,
@@ -251,26 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+        "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
+        "url": "https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
-        },
-        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 143757,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
+      "duration_ms": 171888,
+      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
+      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
     },
     {
       "added_at": null,

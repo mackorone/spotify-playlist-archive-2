@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,070 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,083 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 |
-| 2 | [Don't Suffer \(feat\. Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
+| 2 | [Don't Suffer \(with Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
 | 3 | [I love you](https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [to what we were](https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9) | 2:14 |
 | 4 | [Imperfect Daughters](https://open.spotify.com/track/481OshZ1RPTStU15tZLic7) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Imperfect Daughters](https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK) | 3:41 |
 | 5 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |

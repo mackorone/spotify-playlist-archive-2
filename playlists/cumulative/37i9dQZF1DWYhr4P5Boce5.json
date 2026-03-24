@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 175761,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/0jeTS9DnVzyHLK8H66yLPD"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 186468,
       "name": "Breathe Life",
       "url": "https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 162935,
       "name": "Days of the week freestyle",
       "url": "https://open.spotify.com/track/2tR7J1tJwGWkRyNDRvGrm4"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 213455,
       "name": "Faithful (from the Netflix Film \"Ruth & Boaz\")",
       "url": "https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 228005,
       "name": "Febrero",
       "url": "https://open.spotify.com/track/5ex2d6u0Vj03naIEveIhEP"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 177751,
       "name": "Growing Up & Growing Old",
       "url": "https://open.spotify.com/track/300wOCld4kQjwfPptDMwI0"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 222868,
       "name": "Holding On to You - Single Version",
       "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 214142,
       "name": "I Do",
       "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
@@ -2790,10 +2790,28 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 129229,
       "name": "Je t'aime(I love you)",
       "url": "https://open.spotify.com/track/4X1Ndb7krWWkVRJPwkgRer"
+    },
+    {
+      "album": {
+        "name": "Jesus Glow",
+        "url": "https://open.spotify.com/album/1XSsNegb55qGzykG9Vhly1"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Jesus Glow",
+      "url": "https://open.spotify.com/track/1pSC8MUpl5ql6GAQz6hCXU"
     },
     {
       "album": {
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 185095,
       "name": "Laughter In The Rain",
       "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 168922,
       "name": "Maximize My Love",
       "url": "https://open.spotify.com/track/3K1p2q74D1UrnJPHO45VKK"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 145306,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr"
@@ -3922,6 +3940,24 @@
       "duration_ms": 185062,
       "name": "On This Special Day (Wedding Song)",
       "url": "https://open.spotify.com/track/1mwVdUrh672eGb7rxnxgfm"
+    },
+    {
+      "album": {
+        "name": "only ever you",
+        "url": "https://open.spotify.com/album/0n7c9xU5CLRGjr3TxwZgLO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Blaine",
+          "url": "https://open.spotify.com/artist/553lq8J2X0RKxYbQkO512x"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "only ever you",
+      "url": "https://open.spotify.com/track/1kRS98JpcP9LIsj2zlRR8q"
     },
     {
       "album": {
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 212000,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
@@ -4660,10 +4696,28 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 174409,
       "name": "SURREAL",
       "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/0psbwte23wwXNyPWN6qxsX"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/7qEuXmQkRZIAafaf8hmumR"
     },
     {
       "album": {
@@ -4722,7 +4776,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 227661,
       "name": "Te Quiero Cerca",
       "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
@@ -4762,7 +4816,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
@@ -5280,7 +5334,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 192893,
       "name": "We Can Be More",
       "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"

@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "Chica La Bola",
+      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
+    },
+    {
+      "album": {
         "name": "Chiclona",
         "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
       },
@@ -10050,7 +10068,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 177621,
       "name": "Lo Pude Lograr",
       "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"

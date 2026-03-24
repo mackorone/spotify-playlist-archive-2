@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:4Z8MrrKMBHMPa8d04Ivur8">Bella Kay</a>
 
-5,838 songs - 12 day 8 hr 9 min
+5,839 songs - 12 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2066,6 +2066,7 @@
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 | 2025-06-07 |
 | [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 | 2025-07-25 | 2025-08-09 |
 | [GOLD ON MY TEETH](https://open.spotify.com/track/5vAUzRudL3EoXA00646CDp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Clicklak](https://open.spotify.com/artist/69otl3E2Dgu0zAM3YUUL3D) | [Drugs n' Lullabies](https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8) | 2:45 | 2024-07-12 | 2024-12-05 |
+| [Gold Wrapper](https://open.spotify.com/track/2N4vWw0RoA902Sw3TbjOAQ) | [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Gold Wrapper](https://open.spotify.com/album/2L2f5L4B8q52B1LsZKV2hY) | 2:37 | 2026-03-23 |  |
 | [Gone Away](https://open.spotify.com/track/7kVG1avM3wAm5nd19Mpamj) | [Wyatt Waddell](https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY) | [The Understudy](https://open.spotify.com/album/5sEuEM1OXuOWFP01dqICQs) | 3:03 | 2026-03-20 |  |
 | [Gone to Dust](https://open.spotify.com/track/4gpZy3Ky2clmrdCFqzSzAz) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ) | [Gone to Dust](https://open.spotify.com/album/2aReSsKe0ZLHjpJM3Zi6EJ) | 3:08 | 2025-01-24 | 2025-03-01 |
 | [Gonna Be Alright](https://open.spotify.com/track/1PYpHTs1Ono7gHIHaIXDcz) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Songs From the Piney Woods](https://open.spotify.com/album/6LLtis2PfnjX2kzrJn3E4Q) | 2:56 | 2023-11-29 | 2024-01-13 |

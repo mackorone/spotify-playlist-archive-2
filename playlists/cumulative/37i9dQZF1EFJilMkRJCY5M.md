@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-184 songs - 9 hr 31 min
+185 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 | 2024-05-17 |  |
 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 | 2023-03-12 |  |
 | [Break It](https://open.spotify.com/track/0eNjytL6q0F5N6S2OV23pj) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Break It](https://open.spotify.com/album/5Y8IvesNHyIUGuPzPy6St8) | 3:05 | 2022-05-29 | 2022-08-15 |
-| [Break It](https://open.spotify.com/track/11ytTmQldfq4h8lz1ZFzWM) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/51U2uebXM182DWQOMwUUOp) | 3:05 | 2024-11-22 |  |
+| [Break It](https://open.spotify.com/track/11ytTmQldfq4h8lz1ZFzWM) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/51U2uebXM182DWQOMwUUOp) | 3:05 | 2024-11-22 | 2026-03-24 |
 | [Break It](https://open.spotify.com/track/4XMbKS9GO46sPXoJOO1ffu) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:05 | 2022-08-14 | 2024-11-23 |
+| [Break It](https://open.spotify.com/track/4fvcUgX4G5N9wSWuHMEiwG) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3I7fJCRMqUykpseiTimweN) | 3:05 | 2026-03-23 |  |
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-05-29 |  |
 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 | 2023-05-15 |  |
 | [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 | 2024-08-09 |  |

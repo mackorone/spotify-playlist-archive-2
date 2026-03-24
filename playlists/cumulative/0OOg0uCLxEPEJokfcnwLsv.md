@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-383 songs - 23 hr 49 min
+384 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-04 | 2026-02-23 |
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2026-01-22 | 2026-03-04 |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
+| [Happy In Stereo](https://open.spotify.com/track/408GJ4bXMavwxdFKSxaUW4) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Happy In Stereo](https://open.spotify.com/album/0ei3pdiUssJx4oQzpDV21M) | 3:09 | 2026-03-23 |  |
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2025-12-22 | 2026-01-21 |
 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-01-29 | 2026-03-04 |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |

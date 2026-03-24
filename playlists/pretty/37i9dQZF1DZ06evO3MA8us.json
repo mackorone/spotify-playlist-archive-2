@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35430,
+  "num_followers": 35434,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAD3vQ+LIKzmNzCeIIkbiOEb",
+  "snapshot_id": "ab8xAAAAAABQNraZ4GMN2gdsNFmx2ouk",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        }
+      ],
+      "duration_ms": 459466,
+      "name": "Build My Life - Live",
+      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Brett Younker",
-          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
-        }
-      ],
-      "duration_ms": 459466,
-      "name": "Build My Life - Live",
-      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blood",
-        "url": "https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "JJ Hasulube",
-          "url": "https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS"
-        }
-      ],
-      "duration_ms": 516963,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 328973,
       "name": "Holy Ground - Live",
       "url": "https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blood",
+        "url": "https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "JJ Hasulube",
+          "url": "https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS"
+        }
+      ],
+      "duration_ms": 516963,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Behold The Lamb - Live",
-      "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Let The Future Begin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 508800,
       "name": "Revelation Song - Live",
       "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow You Anywhere (Live)",
+        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Behold The Lamb - Live",
+      "url": "https://open.spotify.com/track/3lI5yiJwTKJaSNlfQXh4HX"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 278203,
+      "name": "Follow - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call On Heaven (Come, Lord Jesus) - Live",
         "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
       },
@@ -843,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
       "artists": [
         {
@@ -852,33 +872,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 278203,
-      "name": "Follow - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs That Changed The Church - Worship",
-        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Breathe - Live",
-      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
+      "duration_ms": 284386,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+        "name": "Songs That Changed The Church - Worship",
+        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
         }
       ],
-      "duration_ms": 284386,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/0gYiQHM2wHEncP8PE4HRJ4"
+      "duration_ms": 252733,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garment Of Praise",
-        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
       "artists": [
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 299489,
-      "name": "Garment Of Praise",
-      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Ellie O'Neill on the cover 💧
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,992 likes - 104 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,020 likes - 104 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

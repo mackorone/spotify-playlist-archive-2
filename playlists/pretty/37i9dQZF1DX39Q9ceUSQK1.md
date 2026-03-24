@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: SONS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,472 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,468 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Surfin'](https://open.spotify.com/track/2c5K25BaMvcGEVovHGMScS) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Surfin'](https://open.spotify.com/album/4ZkfSz3NyxUul3sthxrUFv) | 1:59 |
-| 2 | [Year In A Spiral](https://open.spotify.com/track/3aXv2FAFtQaMyBcDvdboML) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Year In A Spiral / Twenty Twenty\-Three](https://open.spotify.com/album/4laM8L1VBVEHennWno46WD) | 5:47 |
-| 3 | [Universal Soldier](https://open.spotify.com/track/7dpPH25jaKKvKDJcYDgF6d) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:20 |
-| 4 | [murder me](https://open.spotify.com/track/2bJe9veIK2ZagfQHLQRqjT) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [murder me](https://open.spotify.com/album/12035ef3t8RTnoLWUJ1uxw) | 2:35 |
-| 5 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 |
-| 6 | [War](https://open.spotify.com/track/0cpNm8islXs1Cm5Y319F5w) | [Fit](https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf) | [Rewrite History](https://open.spotify.com/album/4xgF2b9SOosefUA3HPjoMF) | 2:59 |
-| 7 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
+| 2 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
+| 3 | [Year In A Spiral](https://open.spotify.com/track/3aXv2FAFtQaMyBcDvdboML) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Year In A Spiral / Twenty Twenty\-Three](https://open.spotify.com/album/4laM8L1VBVEHennWno46WD) | 5:47 |
+| 4 | [Universal Soldier](https://open.spotify.com/track/7dpPH25jaKKvKDJcYDgF6d) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:20 |
+| 5 | [murder me](https://open.spotify.com/track/2bJe9veIK2ZagfQHLQRqjT) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [murder me](https://open.spotify.com/album/12035ef3t8RTnoLWUJ1uxw) | 2:35 |
+| 6 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 |
+| 7 | [War](https://open.spotify.com/track/0cpNm8islXs1Cm5Y319F5w) | [Fit](https://open.spotify.com/artist/5g5saPpzD7SlWFFLQXA0Mf) | [Rewrite History](https://open.spotify.com/album/4xgF2b9SOosefUA3HPjoMF) | 2:59 |
 | 8 | [Rain On My Skin](https://open.spotify.com/track/3489qGkKIyYB9Gdz7LD5PA) | [L.A\. Sagne](https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO) | [Rain On My Skin](https://open.spotify.com/album/3of09XeGKCht2DLzSxQfnq) | 2:46 |
 | 9 | [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 |
 | 10 | [leaving is easy](https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [leaving is easy](https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
 | 100 | [Ezekiel Is Unwell! \- Radio Edit](https://open.spotify.com/track/5rOdobAq3Nu2QmNwuKUE2L) | [Fellatio](https://open.spotify.com/artist/6ZZjX94x3t55GigdSiidr4) | [Ezekiel Is Unwell!](https://open.spotify.com/album/5iHWs1tJL8fwduZ9ItXXDi) | 3:10 |
 
-Snapshot ID: `AAAAABBKaXo+a9z9dpSqnfPDXNLOB2j2`
+Snapshot ID: `AAAAABIYfbM/dCcvq1mUXecpRh4yhwd6`

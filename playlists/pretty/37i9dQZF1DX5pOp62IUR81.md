@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,367 likes - 181 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,358 likes - 181 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

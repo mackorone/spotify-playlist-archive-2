@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: rares, Lazy Ed, Costel Biju",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: BTS",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -922,6 +922,24 @@
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 178604,
       "name": "Gagica-ta - Golden Cypher",
       "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
@@ -3628,6 +3646,24 @@
     {
       "album": {
         "name": "NA BELEA",
+        "url": "https://open.spotify.com/album/1NXcBX8UbEsIfw7bEFp1cj"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "NA BELEA",
+      "url": "https://open.spotify.com/track/5WUpnmOXjobbEEl9Urs0aL"
+    },
+    {
+      "album": {
+        "name": "NA BELEA",
         "url": "https://open.spotify.com/album/074lHS4IwMjdeolsHiKd2g"
       },
       "artists": [
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169714,
       "name": "Pic\u0103tura De Cerneal\u0103",
       "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
@@ -4645,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6UyxPdSb9zB1QfGJlNhDsT"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138348,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5SttIhdC9DcJV0kMzvEX5e"
+    },
+    {
+      "album": {
         "name": "Spania",
         "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
       },
@@ -4872,6 +4926,24 @@
       "duration_ms": 124137,
       "name": "sWaGGG 2026",
       "url": "https://open.spotify.com/track/40ccVyw9i4jHkOXeMqLvzZ"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
       "album": {
@@ -5304,7 +5376,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169787,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop e español\. Foto: LUCYCALYS, Tony Grox
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,136 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,074 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Ay Amor](https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Ay Amor](https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL) | 2:11 |
 | 50 | [ahora que nos perdimos](https://open.spotify.com/track/49YpuK1D9k5hMg2pzgIhX6) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [bienvenidos a nuevos lugares](https://open.spotify.com/album/5VZ46lKhDfwoHIxTgn7lnw) | 2:56 |
 
-Snapshot ID: `AAAAAPSJ6O0/cxKF+FJpuETXzYy7rrm/`
+Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`

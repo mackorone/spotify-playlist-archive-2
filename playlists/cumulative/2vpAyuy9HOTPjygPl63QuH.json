@@ -36247,6 +36247,24 @@
     },
     {
       "album": {
+        "name": "RR1",
+        "url": "https://open.spotify.com/album/6iQ8Dw97oxu7Qih6BTQws6"
+      },
+      "artists": [
+        {
+          "name": "Vitess",
+          "url": "https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217090,
+      "name": "RR1",
+      "url": "https://open.spotify.com/track/3xyqD51JzTu17kXj9WPDFq"
+    },
+    {
+      "album": {
         "name": "Feel The Bass EP",
         "url": "https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ"
       },

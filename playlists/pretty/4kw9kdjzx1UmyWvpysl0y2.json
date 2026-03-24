@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVO8AS6YX4gux8pkoFcV4Xb3iyPvy4",
+  "snapshot_id": "AAAVPKF8tpXuen+Kv9osbI87q+LY0AJ1",
   "tracks": [
+    {
+      "added_at": "2026-03-23 17:11:13",
+      "album": {
+        "name": "JUST A PART OF ME",
+        "url": "https://open.spotify.com/album/5vMxSOt0t5KJT9JUF6LEEZ"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "JUST A PART OF ME",
+      "url": "https://open.spotify.com/track/2yDlUK6T3DwuHDxtVPqwyV"
+    },
     {
       "added_at": "2026-03-20 16:39:59",
       "album": {

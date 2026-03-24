@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal\. Photo: Moses Bélanger
 
-833 songs - 1 day 23 hr 15 min
+834 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Depuis](https://open.spotify.com/track/7D14x2U6kLT9BhbmsjWmPW) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/4uyTvxltj4VNnQ1T2n8cnY) | 4:53 | 2022-03-25 | 2022-07-29 |
 | [Depuis Marseille](https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Depuis Marseille](https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv) | 3:15 | 2023-09-22 | 2023-11-25 |
 | [Depuis Marseille](https://open.spotify.com/track/5zeaJWVCjplq3uLSrcMP1S) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:15 | 2024-06-28 | 2025-05-24 |
+| [Des heurts et des ratages](https://open.spotify.com/track/52gBEjxp38AXHZ3CAWIbjL) | [Catherine Leduc](https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn) | [Les jours où il neige à tous les postes](https://open.spotify.com/album/6b7Gvih39GaKHDgs2MDXrL) | 3:52 | 2026-03-23 |  |
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-05-27 | 2022-11-22 |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Deux pieds dans la tombe](https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh) | 3:21 | 2022-09-30 | 2023-10-28 |
 | [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 | 2023-01-13 | 2024-02-10 |

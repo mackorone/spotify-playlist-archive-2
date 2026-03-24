@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-03-07",
   "description": "all the best instrumentals & sounds from the internet  \u223c \ud83e\udec0",
-  "name": "trending moods",
+  "name": "trending moods (no lyrics)",
   "tracks": [
     {
       "album": {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "blissful lights",
+        "url": "https://open.spotify.com/album/5EFUZH645jTkFCK7iXafag"
+      },
+      "artists": [
+        {
+          "name": "voi",
+          "url": "https://open.spotify.com/artist/2YxAYKXFoY3SQvuJsWy1bb"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "blissful lights",
+      "url": "https://open.spotify.com/track/5XATagtnWgdR6bF23g5sWm"
+    },
+    {
+      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/5e8pMyCjkoreQfGFU58lRl"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 205714,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/1ATLkckuO7t1xb6KY4s72I"
@@ -1031,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "fading light",
+        "url": "https://open.spotify.com/album/50w5oI5maaQk22PI4IxGPi"
+      },
+      "artists": [
+        {
+          "name": "friendly to crows",
+          "url": "https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR"
+        },
+        {
+          "name": "LochHaven",
+          "url": "https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190171,
+      "name": "fading light",
+      "url": "https://open.spotify.com/track/5bIID8kUOUO2ByvBXSU9sD"
+    },
+    {
+      "album": {
         "name": "fairy\u2019s cry",
         "url": "https://open.spotify.com/album/13rh3p4F6Gso3vdznQm8Ha"
       },
@@ -1132,7 +1172,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 113880,
       "name": "Fine line - Instrumental",
       "url": "https://open.spotify.com/track/2DQPiyq5H4evGiR1ta6BT4"
@@ -1301,6 +1341,46 @@
     },
     {
       "album": {
+        "name": "good days - Instrumental",
+        "url": "https://open.spotify.com/album/1B94GayQJwgZt82kDoK5Nk"
+      },
+      "artists": [
+        {
+          "name": "afterlives",
+          "url": "https://open.spotify.com/artist/4PuYRMP4WbowFgJJjMuMeO"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "good days - Instrumental",
+      "url": "https://open.spotify.com/track/7dOjxjRqnZ3NLo5KZhwsVw"
+    },
+    {
+      "album": {
+        "name": "333hz (slowed)",
+        "url": "https://open.spotify.com/album/0EaS979H282dAnNUDtuOnC"
+      },
+      "artists": [
+        {
+          "name": "dunsky",
+          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
+        },
+        {
+          "name": "danvy",
+          "url": "https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140178,
+      "name": "green book - slowed",
+      "url": "https://open.spotify.com/track/36jZLaSPNFVRSMAZNGvko9"
+    },
+    {
+      "album": {
         "name": "green to blue (slowed + reverbed)",
         "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
       },
@@ -1370,6 +1450,24 @@
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
+        "name": "Weak Hero Class 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2FyCAno8XLauxbfDHXU32o"
+      },
+      "artists": [
+        {
+          "name": "Meego",
+          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "Hero (Prod. by Primary) - Instrumental",
+      "url": "https://open.spotify.com/track/6Wo2et5D6vR5GO0lh9Z6uY"
     },
     {
       "album": {
@@ -1532,7 +1630,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 98621,
       "name": "i was only temporary",
       "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
@@ -1590,7 +1688,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 128000,
       "name": "Idea 10",
       "url": "https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9"
@@ -1770,7 +1868,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx"
@@ -1806,7 +1904,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 147096,
       "name": "Killswitch Lullaby",
       "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
@@ -1890,6 +1988,24 @@
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+    },
+    {
+      "album": {
+        "name": "Last Hope (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6FN2La4RJ7CZA3sPreMsXZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Ralph",
+          "url": "https://open.spotify.com/artist/1egL6BVtNhsJNfFdDTnS6D"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382788,
+      "name": "Last Hope - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/0efflQXsWkEBFwLYad3i4q"
     },
     {
       "album": {
@@ -2810,7 +2926,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 212938,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/66wO3p3MofGc4yHSogrqqi"
@@ -3467,6 +3583,24 @@
     },
     {
       "album": {
+        "name": "The Beginning (Acoustic)",
+        "url": "https://open.spotify.com/album/2T0FWElswJ0Dk5XZsLztje"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197872,
+      "name": "The Beginning (Acoustic)",
+      "url": "https://open.spotify.com/track/2dtCRMpV2cbgU47h9b4sgT"
+    },
+    {
+      "album": {
         "name": "Another Green World (2004 Remaster)",
         "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
       },
@@ -3760,7 +3894,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 168000,
       "name": "Turn Echo (Slowed Version)",
       "url": "https://open.spotify.com/track/0SfRur4asjqaySk55PftAA"
@@ -3868,7 +4002,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 182800,
       "name": "Via",
       "url": "https://open.spotify.com/track/7AuGtMJzVwTfVXI2c0GxRA"
@@ -3894,6 +4028,24 @@
       "duration_ms": 62500,
       "name": "we slidin",
       "url": "https://open.spotify.com/track/5AX61OcN7ahDT1OYE11yaA"
+    },
+    {
+      "album": {
+        "name": "Void X",
+        "url": "https://open.spotify.com/album/6GOZ0kmJwJ8GOSaZ8dPXPA"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541584,
+      "name": "What Is There",
+      "url": "https://open.spotify.com/track/1BajRDFFkl6OTmCv5ylghU"
     },
     {
       "album": {
@@ -3974,6 +4126,24 @@
       "duration_ms": 234306,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/6k1NlbXRqTu51DiDJ7Mwwf"
+    },
+    {
+      "album": {
+        "name": "win again",
+        "url": "https://open.spotify.com/album/2sOx36sHdBoIDzE1m5C6NH"
+      },
+      "artists": [
+        {
+          "name": "trucky",
+          "url": "https://open.spotify.com/artist/6MdPiR4YieX09GxNj0Qmzs"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79490,
+      "name": "win again - slowed",
+      "url": "https://open.spotify.com/track/5tiyfwVBqGDSLH56B78NZ7"
     },
     {
       "album": {

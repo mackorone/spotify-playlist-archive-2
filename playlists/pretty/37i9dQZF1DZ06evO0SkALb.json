@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12757,
+  "num_followers": 12758,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADeGGZD96A4knPgaccUI4UQ",
+  "snapshot_id": "ab8xAAAAAAAJLa1UsEdJU7ZxmkgeJZBJ",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Groovy People",
+      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 185360,
       "name": "Fine Brown Frame",
       "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Groovy People",
-      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Not the Staying Kind",
-      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+      "duration_ms": 240600,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "We Understand Each Other",
+      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
       },
@@ -743,26 +759,6 @@
       "duration_ms": 199573,
       "name": "Georgia On My Mind - Remastered 2006",
       "url": "https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Les McCann Ltd.",
-          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "In The Evening When The Sun Goes Down",
-      "url": "https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
       "artists": [
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
         }
       ],
-      "duration_ms": 256160,
-      "name": "We Understand Each Other",
-      "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+      "duration_ms": 208866,
+      "name": "In The Evening When The Sun Goes Down",
+      "url": "https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: ADÉLA
 
-452 songs - 1 day 3 hr 58 min
+453 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 | 2021-09-24 |  |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-06-07 | 2026-01-02 |
 | [The Best \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 4:21 | 2021-09-24 |  |
+| [The Best of Both Worlds \- Spotify Singles](https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [The Best of Both Worlds \(Spotify Singles\)](https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9) | 3:00 | 2026-03-23 |  |
 | [The Greatest Show \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7MhZa55xSOwyRQTsafEEjX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Spotify Singles](https://open.spotify.com/album/5s0EZrhetG2VJBPKtKtqsq) | 3:57 | 2021-09-24 |  |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 | 2022-10-03 | 2024-04-13 |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-10-04 | 2022-10-13 |
@@ -422,7 +423,7 @@
 | [Walking on Broken Glass \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Spotify Singles](https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm) | 4:28 | 2021-09-24 |  |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-24 | 2023-04-05 |
 | [Water \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kF8rHausERpnFDf0gJ1Xk) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/6UvDPFaADYrF3Kk7xClIPB) | 2:48 | 2022-03-24 | 2022-04-21 |
-| [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-09-24 |  |
+| [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-09-24 | 2026-03-24 |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-16 |  |
 | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-16 |  |
 | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 | 2024-07-31 |  |

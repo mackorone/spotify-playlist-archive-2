@@ -5581,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Everybody On The Floor",
+        "url": "https://open.spotify.com/album/5osayCMUsuWmGbIRpW134T"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fowler",
+          "url": "https://open.spotify.com/artist/2LqVchXnpLa7zhwxwVcsjW"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213543,
+      "name": "Everybody On The Floor",
+      "url": "https://open.spotify.com/track/6w42JMnW2hxLoij8t4mJGB"
+    },
+    {
+      "album": {
         "name": "Everything Black",
         "url": "https://open.spotify.com/album/6TBgBbpnjINlYwURchKo4j"
       },

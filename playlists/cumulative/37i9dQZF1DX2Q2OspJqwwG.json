@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "A\u0219 Fi Iubit-o",
+        "url": "https://open.spotify.com/album/04TmQ5AJT0o389O5mdixOj"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "A\u0219 Fi Iubit-o",
+      "url": "https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso"
+    },
+    {
+      "album": {
         "name": "A\u0219a Ceva",
         "url": "https://open.spotify.com/album/1gVqVksFrxJe1wr8lnEMO7"
       },
@@ -1228,6 +1246,24 @@
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 144000,
       "name": "Ce Te-as Suna",
       "url": "https://open.spotify.com/track/2yKgHHs4dWDd69H0rK1lqN"
@@ -1936,7 +1972,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 180000,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169714,
       "name": "DOR",
       "url": "https://open.spotify.com/track/15WEMt7rGc1EH4VeX6akvm"
@@ -4570,7 +4606,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170000,
       "name": "Iubirea \u00eentr-un om",
       "url": "https://open.spotify.com/track/4mZIx5bfX3sA6r966gmxy8"
@@ -6521,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Per sempre s\u00ec",
+        "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "Per sempre s\u00ec",
+      "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
+    },
+    {
+      "album": {
         "name": "PETER PARKER",
         "url": "https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq"
       },
@@ -6626,7 +6680,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 125294,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
@@ -7183,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
         "name": "SELFWASH",
         "url": "https://open.spotify.com/album/6HT52mdjH6W85Ops4jxy5r"
       },
@@ -7568,6 +7640,24 @@
       "duration_ms": 157800,
       "name": "Sokeres",
       "url": "https://open.spotify.com/track/1xdXpQ8rELO312ruPkaTpH"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6UyxPdSb9zB1QfGJlNhDsT"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138348,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5SttIhdC9DcJV0kMzvEX5e"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You have loved, you have lost, and you survived with your headphones on.
+> You still believe in love, grand gestures, and songs that feel like a slow dance in the rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,727 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,728 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

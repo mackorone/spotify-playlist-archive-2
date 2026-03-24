@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,144 songs - 11 day 17 hr 25 min
+5,145 songs - 11 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3560,6 +3560,7 @@
 | [quietly \- radio edit](https://open.spotify.com/track/2SIyxpO2L3f8iDj6mHOGgn) | [A1RL1FT](https://open.spotify.com/artist/4mJ7nclxZGokHnCQJlW69d) | [quietly \(radio edit\)](https://open.spotify.com/album/4RbvEOLnMS9RAhpEFJxL3o) | 2:43 | 2025-12-18 | 2025-12-20 |
 | [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-06-27 | 2025-07-05 |
 | [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-09-26 | 2024-10-05 |
+| [Racecar](https://open.spotify.com/track/0mTudg3Ub3st7onwVDWCJ5) | [Katinka Meidell](https://open.spotify.com/artist/4rW2Jzm7bhGRmlQ6Byynvw) | [Racecar](https://open.spotify.com/album/5jXBXRNCNNnPJS96oI1drR) | 3:02 | 2026-03-23 |  |
 | [Radiate](https://open.spotify.com/track/5pyiur0l7llRb2XTWgiW1O) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nicole Willerton](https://open.spotify.com/artist/5rpKcmX4mzeP5yRU1J9UGW) | [Radiate](https://open.spotify.com/album/7gHQsfNGGUgMSg8TCC7Ci0) | 4:26 | 2025-07-11 | 2025-07-21 |
 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 | 2025-09-12 | 2025-09-20 |
 | [RADICAL](https://open.spotify.com/track/4Y5BD4yeeVhbUc5eSMhheI) | [9B49](https://open.spotify.com/artist/0UFbEkC10vY6QJ9ytN4dg4), [Takes Two](https://open.spotify.com/artist/4nYCL6UCXpY57ct8xsjv2t) | [RADICAL](https://open.spotify.com/album/3qVGHAxmlwUJPqrMC4OlpH) | 3:27 | 2026-01-09 | 2026-01-24 |

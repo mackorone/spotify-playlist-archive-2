@@ -4,7 +4,7 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 21 min
+101 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Mi fracaso](https://open.spotify.com/track/1w11SiJRAxlFNNmTWs2Cue) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:07 | 2022-07-31 |  |
 | [Mi Reporte Hasta Hoy](https://open.spotify.com/track/5K7pNfsRNU1VR0QGTvqM4f) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mi Reporte Hasta Hoy](https://open.spotify.com/album/5eCpf7QleroJy4vEglXmAD) | 2:01 | 2023-08-25 | 2024-01-18 |
 | [Mis Emociones](https://open.spotify.com/track/6NBzqrEgfJHQ9KDyA683tl) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3f22Qlxv4l7CpdAPZt1eYE) | 3:33 | 2022-06-01 | 2023-08-28 |
-| [Mis Emociones](https://open.spotify.com/track/740RKb6SwnkI8KStvmi3qw) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3uSB9zgGSH2psDjAtjfn3G) | 3:33 | 2026-03-16 |  |
+| [Mis Emociones](https://open.spotify.com/track/740RKb6SwnkI8KStvmi3qw) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3uSB9zgGSH2psDjAtjfn3G) | 3:33 | 2026-03-16 | 2026-03-24 |
 | [Mujer infiel](https://open.spotify.com/track/6UVkP7C83ln9B3JbPPChDs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:17 | 2022-06-01 |  |
 | [Mujer infiel](https://open.spotify.com/track/2FErDANLWRdeRprGMLffeq) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:17 | 2025-07-24 | 2025-08-05 |
 | [Necesito una Compañera](https://open.spotify.com/track/6q0nkSXtokYfQN5atZGwRW) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Necesito una Compañera](https://open.spotify.com/album/0sfSywmuYrmNGlbNzshOay) | 3:32 | 2022-06-01 | 2022-10-13 |
@@ -108,5 +108,6 @@
 | [Y No Soy Tu Dueño](https://open.spotify.com/track/7JXE1oSJkgnX1F4uYoyEcJ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Daría Todo por Ti](https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L) | 2:57 | 2022-06-01 | 2023-09-01 |
 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 | 2022-06-01 |  |
 | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Tropa Chicana](https://open.spotify.com/artist/438inxhXA6h5CIpc9iVS3M) | [¿Qué Pasó Con Nuestro Amor?](https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV) | 3:25 | 2024-07-21 | 2024-10-05 |
+| [¿Y qué si?](https://open.spotify.com/track/0YvrKcZNmAvAmUqdYFouR8) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [¿Y qué si?](https://open.spotify.com/album/3mP1FiLqvUAi8fESscXyzF) | 2:31 | 2026-03-24 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

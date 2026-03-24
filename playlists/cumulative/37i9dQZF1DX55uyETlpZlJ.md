@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-638 songs - 1 day 12 hr 21 min
+639 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Nanomme Ninnodane](https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sakshi Hiremath](https://open.spotify.com/artist/2sKHLb9k9XLMegvuRA1AIU) | [Nanomme Ninnodane](https://open.spotify.com/album/62ytPu2CdgYgwBcXFpqdDW) | 4:09 | 2024-01-30 | 2024-07-06 |
 | [Nanu Nanna Papu](https://open.spotify.com/track/3McYQVjsObXDi1LtlB1rN2) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro), [Venkatesh Marakamdinni](https://open.spotify.com/artist/7GQH3o4GA4CUn2mNZQK22C) | [Nanu Nanna Papu](https://open.spotify.com/album/6D0Na9HcJwiUYrxRNvqzd0) | 4:24 | 2025-07-22 | 2026-01-15 |
 | [Nanu Ninna Gungalle](https://open.spotify.com/track/3A1SlGPj1dd5AWHyUYOKhx) | [Haston Rodrigues](https://open.spotify.com/artist/069pd0XzR1dBt9JsBWEZ7W), [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Nanu Ninna Gungalle](https://open.spotify.com/album/6Fgm8pw8QSsYfZeaV3jLCR) | 2:24 | 2026-02-06 |  |
+| [Nataka](https://open.spotify.com/track/50n8NRFSqbKrTJZOdccH58) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Nataka](https://open.spotify.com/album/6DzgMLOpqummDC1CXSLId8) | 2:47 | 2026-03-23 |  |
 | [Nav Irodh Hinge](https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Nav Irodh Hinge](https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj) | 3:02 | 2023-07-14 | 2023-09-01 |
 | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/track/5chXs0qT8F2Wgcq34FtCkJ) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/album/0VyZgb0GjDPw9r1PL8FUiE) | 5:03 | 2025-07-15 | 2026-01-15 |
 | [Nee Hode Nannanu Maretu](https://open.spotify.com/track/6rL9rjk6Har0WkNdX0d3kO) | [Nb Melodies](https://open.spotify.com/artist/1lrbraKPelg1hJs2WFy8IC), [Sadwini Koppa](https://open.spotify.com/artist/2U4OMgHh4QWreQsizx9Jdn), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc) | [Nee Hode Nannanu Maretu](https://open.spotify.com/album/1lhyQi1KsyaBIgu5uBgCJD) | 3:39 | 2025-06-14 | 2025-12-11 |
@@ -586,7 +587,7 @@
 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 | 2023-07-10 | 2023-07-29 |
 | [Sword of Betrayal](https://open.spotify.com/track/7LA81aLtQNsl9HArKZruZz) | [M S Vikram](https://open.spotify.com/artist/1P5xT9GQiGoLq3ImHOP2QZ) | [Sword of Betrayal](https://open.spotify.com/album/0sOSMoUxmpFLvnkG8DjN6H) | 1:51 | 2026-01-20 |  |
 | [Taare](https://open.spotify.com/track/3Djy0T9KXRU1qISYUMhb9e) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI), [Prinson Monthero](https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Taare](https://open.spotify.com/album/5RuYzy62dLsXOwHHgqi1hk) | 2:33 | 2026-02-03 |  |
-| [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 |  |
+| [Taare Bindigeya](https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Taare Bindigeya](https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL) | 5:06 | 2025-10-15 | 2026-03-24 |
 | [Taayi](https://open.spotify.com/track/0tqrpeWvarPFl78oJrsuNF) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Taayi](https://open.spotify.com/album/6lqNjsuD4cM4be2aXziu6j) | 3:54 | 2023-05-15 | 2023-06-08 |
 | [Tandanaa](https://open.spotify.com/track/58RaH4opeDLaPRzxARGzfA) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Tandanaa](https://open.spotify.com/album/08geveRHblH8RA5NoLq0q6) | 2:32 | 2025-04-23 | 2025-10-14 |
 | [Tayiye devaru](https://open.spotify.com/track/4TR4BjGKgRqyCMyVHdKd0H) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Tayiye devaru](https://open.spotify.com/album/5yi8aECBuvPDfeYJOLC626) | 1:53 | 2024-02-21 | 2024-03-18 |

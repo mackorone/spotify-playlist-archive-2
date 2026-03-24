@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Ruhan Du Toit, Irene\-Louise Van Wyk, Marno van der Merwe, Tamlyn Wessels en meer!
 
-2,470 songs - 5 day 17 hr 27 min
+2,471 songs - 5 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1051,7 +1051,7 @@
 | [Jy's Okay](https://open.spotify.com/track/00kgvDwY5up65mrI7UAR6K) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Jy's Okay](https://open.spotify.com/album/011LkhfToL5uKN7nA6OoOm) | 3:04 | 2024-08-01 | 2024-08-23 |
 | [Jy's Okay Remix](https://open.spotify.com/track/5iypAPITj8vMHlsVMmsF8q) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Jy's Okay Remix](https://open.spotify.com/album/5vvRjlz7CWXJH92xiDaC9B) | 3:24 | 2024-09-05 | 2024-10-04 |
 | [Jy's Perfek](https://open.spotify.com/track/6m2q8BX8MkxJp66qLRFLUq) | [Frederico Fortuin](https://open.spotify.com/artist/1bSF3lf5Ip934uwGfW2xZz) | [Jy's Perfek](https://open.spotify.com/album/0jiIFi2Se0yVPzoRNYDhxs) | 2:39 | 2024-12-12 | 2024-12-20 |
-| [Jy's Vir My](https://open.spotify.com/track/2me7YQZtNfl7Sv34S7ZnxA) | [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Jy's Vir My](https://open.spotify.com/album/7xRGgJjguzzBB3OW8Is7Km) | 2:56 | 2025-12-18 |  |
+| [Jy's Vir My](https://open.spotify.com/track/2me7YQZtNfl7Sv34S7ZnxA) | [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Jy's Vir My](https://open.spotify.com/album/7xRGgJjguzzBB3OW8Is7Km) | 2:56 | 2025-12-18 | 2026-03-24 |
 | [Jy't ook verander](https://open.spotify.com/track/5ic1CGLILVv04zv9IVamF1) | [SAMPAULE](https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8), [Kobus.](https://open.spotify.com/artist/5TaTOVjpyrpX5GDZdkgueu) | [Jy't ook verander](https://open.spotify.com/album/6NL9yLUMf6ZRyiNsCYf0Zm) | 1:45 | 2025-07-17 | 2025-08-01 |
 | [kaal](https://open.spotify.com/track/62SCKkR81lIvq39QJIkMcD) | [Theo Amstel](https://open.spotify.com/artist/3C6hSKd1YurYkPr93D1JV4) | [kaal](https://open.spotify.com/album/2Cpz9qqKpIU7yF9KReTLWO) | 2:58 | 2024-02-08 | 2024-02-23 |
 | [Kaal](https://open.spotify.com/track/4LnIUbvlnXkNXK5rVKv3Z3) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [NA TWAALF \(Deel I\)](https://open.spotify.com/album/2sWYjmCluc3rRuSKPw6ojJ) | 3:22 | 2025-09-04 | 2025-09-12 |
@@ -1534,6 +1534,7 @@
 | [Nico 10](https://open.spotify.com/track/4FUSYX3FfIoTGHnsZSbLnW) | [TAYE](https://open.spotify.com/artist/29ujJsTS1iMJfrTC9yamlr) | [Nico 10](https://open.spotify.com/album/3ASdAqavFr2tuE51hCGKmC) | 2:57 | 2024-08-15 | 2024-10-04 |
 | [Nie 'n Las Nie](https://open.spotify.com/track/0i75RH11KjWLVngipXkgAD) | [Chxnelle](https://open.spotify.com/artist/3EoIyJg49B7L6iSuGxoPnk) | [Nie 'n Las Nie](https://open.spotify.com/album/55YylmmFXT2uZyp4zjcV09) | 2:24 | 2025-06-12 | 2025-06-27 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2022-10-14 |
+| [Nie Jou Naam Nie](https://open.spotify.com/track/14nrFLDLlh0XaGiPm3el69) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Nie Jou Naam Nie](https://open.spotify.com/album/7IxvoZ7YDQOElnvvglAe34) | 3:13 | 2026-03-23 |  |
 | [Nie Jou X Nie](https://open.spotify.com/track/2Ab4XQ1X0m84s3LzC93MSk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 2:41 | 2022-12-27 | 2023-01-02 |
 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 | 2025-07-03 | 2025-10-10 |
 | [Nie Nice Nie](https://open.spotify.com/track/3ukdh0m0cJuIRPP2WgqjQA) | [Emma Van Heyn](https://open.spotify.com/artist/7gjRCewXjGgFJwplXq6aPG) | [Nie Nice Nie](https://open.spotify.com/album/1s6C8LJuDDTaWRwm5YZA7A) | 3:01 | 2025-10-03 | 2025-10-31 |

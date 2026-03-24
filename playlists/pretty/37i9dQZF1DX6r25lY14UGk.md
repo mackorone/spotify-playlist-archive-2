@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,269 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,394 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Our Floyd](https://open.spotify.com/track/0sQrQWStlJ4LQdP4cWLa7u) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Our Floyd](https://open.spotify.com/album/7vRd0ntz2RWs6fkDCNWbdb) | 0:43 |
-| 2 | [Show Me Your Sparkle](https://open.spotify.com/track/6zMwGSltB57fQ1UmlNQZrm) | [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Rosita](https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Show Me Your Sparkle](https://open.spotify.com/album/1y5cHYfmpJdx5PaKDRub3D) | 1:53 |
+| 2 | [Show Me Your Sparkle](https://open.spotify.com/track/6zMwGSltB57fQ1UmlNQZrm) | [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Rosita](https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf), [Zoe](https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Show Me Your Sparkle](https://open.spotify.com/album/1y5cHYfmpJdx5PaKDRub3D) | 1:53 |
 | 3 | [Team Up to Cleanup!](https://open.spotify.com/track/7epkXmNM2c9gJxAU0npxnv) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Learning Songs for Little Helpers\-2\-in\-1 Vacuum](https://open.spotify.com/album/0P3EjBi5tbFb8HREHUIKwu) | 1:03 |
 | 4 | [Buckle Up](https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Buckle Up](https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r) | 2:31 |
 | 5 | [This Is The Way We Wash The Bus](https://open.spotify.com/track/6CIyi1uYjBtBm6sFluxEWa) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [This Is The Way We Wash The Bus](https://open.spotify.com/album/3zlsMmNU8pbqtRi13cHUcO) | 1:52 |

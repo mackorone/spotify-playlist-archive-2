@@ -4,7 +4,7 @@
 
 > Al mil para entrenar sin parar.
 
-832 songs - 1 day 18 hr 21 min
+833 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-05-15 | 2024-05-02 |
 | [Changuito Me Apodaron](https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Changuito Me Apodaron](https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu) | 2:43 | 2026-01-09 |  |
 | [CHAVALITAS](https://open.spotify.com/track/3qdeRGn9erK9sjs1kUtBys) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:44 | 2026-01-09 |  |
+| [Chica La Bola](https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 2:53 | 2026-02-06 |  |
 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 | 2026-01-09 |  |
 | [Chingandole Macizo](https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:34 | 2022-02-14 | 2022-11-28 |
 | [CHINO](https://open.spotify.com/track/6b6qi0ObycTK8hdrkgU21Y) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:54 | 2024-12-26 | 2025-02-05 |
@@ -505,7 +506,7 @@
 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-08-14 | 2025-02-05 |
 | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/track/7LTKDPiFik2UkZ9S7mnemu) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Llenas Las Cuentas \(feat\. Oscar Maydon\)](https://open.spotify.com/album/62AN96209BXULxjH8DOvH9) | 3:21 | 2022-02-14 | 2022-07-29 |
 | [Lo logre](https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Lo logre](https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4) | 3:14 | 2026-01-09 |  |
-| [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 | 2026-01-09 |  |
+| [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 | 2026-01-09 | 2026-03-24 |
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-12-26 | 2025-04-26 |
 | [Lo Que Les Falta](https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Lo Que Les Falta](https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP) | 2:14 | 2022-02-14 | 2023-07-03 |
 | [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 | 2024-05-01 | 2025-04-26 |

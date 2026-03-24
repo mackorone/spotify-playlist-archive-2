@@ -4,7 +4,7 @@
 
 > Voor boslucht, koffie en kalmte.
 
-284 songs - 17 hr 3 min
+285 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,10 +229,11 @@
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2025-07-03 | 2025-09-20 |
 | [Sounds Of An Early Morning](https://open.spotify.com/track/3JZqG72YPLiIChom7dGCau) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [Sounds Of An Early Morning](https://open.spotify.com/album/6yeVsvCmUKoc967n5mzkVD) | 3:09 | 2025-08-28 | 2025-09-20 |
 | [Spare](https://open.spotify.com/track/4etImuKYSTUblC9MBa2B3D) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Spare](https://open.spotify.com/album/4GSKZGEdk85RyoWm4wL4Jh) | 3:38 | 2025-07-03 | 2025-09-20 |
-| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 |  |
+| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 | 2026-03-24 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-07-03 | 2025-09-20 |
 | [Still Feel It All](https://open.spotify.com/track/3Wg3B7XlnEWsKBSb2IzGQ3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it's OK](https://open.spotify.com/album/3pkvixHVOMIgXE0Y3TiVUt) | 3:21 | 2025-07-03 | 2025-09-20 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 | 2025-02-21 |
+| [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 | 2026-03-23 |  |
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 | 2024-12-19 |
 | [Strange Way](https://open.spotify.com/track/2DeFyVNghqKnbMLCLWzxE0) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 3:25 | 2025-02-20 | 2025-02-26 |
 | [Stranger in Your Living Room \- Demo](https://open.spotify.com/track/6yhBWyePnLIb2TsUKKoDXr) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Invader](https://open.spotify.com/album/2hHnfjljMltHgDhkJPOyqk) | 3:31 | 2025-07-03 | 2025-09-20 |

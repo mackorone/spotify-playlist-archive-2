@@ -1350,10 +1350,32 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 219600,
       "name": "No Good Reason",
       "url": "https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c"
+    },
+    {
+      "album": {
+        "name": "Heart Like a Songwriter",
+        "url": "https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk"
+      },
+      "artists": [
+        {
+          "name": "Trannie Anderson",
+          "url": "https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF"
+        },
+        {
+          "name": "Jordan Walker",
+          "url": "https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "No Good Reason",
+      "url": "https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ"
     },
     {
       "album": {

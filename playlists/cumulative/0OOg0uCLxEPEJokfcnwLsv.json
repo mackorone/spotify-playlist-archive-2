@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Happy In Stereo",
+        "url": "https://open.spotify.com/album/0ei3pdiUssJx4oQzpDV21M"
+      },
+      "artists": [
+        {
+          "name": "The Ratskins",
+          "url": "https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189043,
+      "name": "Happy In Stereo",
+      "url": "https://open.spotify.com/track/408GJ4bXMavwxdFKSxaUW4"
+    },
+    {
+      "album": {
         "name": "Hard Times",
         "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
       },

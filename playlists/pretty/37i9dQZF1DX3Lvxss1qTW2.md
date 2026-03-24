@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Balloranking
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,910 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,976 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 18 | [TRU$T FUND](https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Yosa](https://open.spotify.com/artist/4uOFhVdn1lnzqIe0H6MlVE), [Big Fish](https://open.spotify.com/artist/0KFRHkm4VoT1gpAjSUdzQa) | [TRU$T FUND](https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ) | 3:07 |
 | 19 | [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 |
 | 20 | [Coconut Cream](https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Coconut Cream](https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e) | 3:08 |
-| 21 | [Don't Suffer \(feat\. Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
+| 21 | [Don't Suffer \(with Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 |
 | 22 | [Tomorrow](https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz) | [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Tomorrow](https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6) | 2:26 |
 | 23 | [Realize](https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Realize](https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH) | 2:10 |
 | 24 | [Wuse Tu](https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:27 |

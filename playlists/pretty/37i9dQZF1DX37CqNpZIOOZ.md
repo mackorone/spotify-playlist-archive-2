@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,609 likes - 58 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,614 likes - 58 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

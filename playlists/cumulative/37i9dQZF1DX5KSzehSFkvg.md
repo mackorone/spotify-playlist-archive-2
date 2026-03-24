@@ -4,13 +4,13 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-208 songs - 11 hr 10 min
+209 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2023-07-07 | 2024-01-05 |
 | [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 | 2024-05-09 | 2024-11-20 |
-| [3achernakom](https://open.spotify.com/track/5bdI8l9c5iClhLmAaTfRRa) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [3achernakom](https://open.spotify.com/album/3BZvNuhPVZXmQqxvNh95qe) | 3:00 | 2026-01-26 |  |
+| [3achernakom](https://open.spotify.com/track/5bdI8l9c5iClhLmAaTfRRa) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [3achernakom](https://open.spotify.com/album/3BZvNuhPVZXmQqxvNh95qe) | 3:00 | 2026-01-26 | 2026-03-24 |
 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 | 2023-07-07 | 2024-04-08 |
 | [3tih](https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [3tih](https://open.spotify.com/album/3qwV66sqqCRWiIHL4PhfPw) | 2:40 | 2024-08-28 | 2024-08-30 |
 | [7ALI](https://open.spotify.com/track/1qjxkqOs2llVRf2TGl9Vyl) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [7ALI](https://open.spotify.com/album/55NR3kBy6YcxNJlRWdjsc4) | 3:18 | 2025-06-02 | 2025-07-10 |
@@ -106,6 +106,7 @@
 | [jouj wjouh](https://open.spotify.com/track/7og4nJoCVU3AT67bR9l5hL) | [khalil guenich](https://open.spotify.com/artist/3ypFeqG4YdmOcibtlJynvd) | [jouj wjouh](https://open.spotify.com/album/70i2vMQAEKAp6wHqJfALY8) | 2:13 | 2024-04-08 | 2025-02-17 |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2023-07-07 | 2023-12-22 |
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 | 2023-10-27 |
+| [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 | 2026-03-23 |  |
 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-25 | 2025-01-02 |
 | [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
 | [KHAMSSA W KHMISS](https://open.spotify.com/track/7qwQfxmgJ2ARpX393yF21F) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [KHAMSSA W KHMISS](https://open.spotify.com/album/28F0rHWwXVBUpKhoHIwJVQ) | 2:19 | 2026-01-09 | 2026-02-11 |

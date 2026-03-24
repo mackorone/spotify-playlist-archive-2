@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53939,
+  "num_followers": 53944,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAARhmKqTZsl8PUuUS9SElGg",
+  "snapshot_id": "ab8xAAAAAAD2dHslNyriZlGm1QqAfHLo",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 227219,
       "name": "April Fool",
       "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Break It Up",
-      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Break It Up",
+      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
+      "duration_ms": 279506,
+      "name": "Dream of Life",
+      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 426466,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Dream of Life",
-      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 194002,
       "name": "Snowball",
       "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horses (50th Anniversary)",
         "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174503,
       "name": "The Hunter Gets Captured by The Game",
       "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,

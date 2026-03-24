@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-1,037 songs - 2 day 4 hr 32 min
+1,039 songs - 2 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Even God](https://open.spotify.com/track/1YAUcovWvgdgMXX45XjDl5) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Even God](https://open.spotify.com/album/2popXoMWhglWvWhw7GIsy2) | 2:08 | 2025-01-03 | 2025-01-31 |
 | [Everlight](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Everlight](https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6) | 2:47 | 2025-06-26 | 2026-02-14 |
 | [Every Time I Touch You](https://open.spotify.com/track/2aSXJlYd1FPCFNAM4h3v9k) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Every Time I Touch You](https://open.spotify.com/album/6rvFCkF8mibsbv9LlVv7DF) | 2:44 | 2024-08-19 | 2024-08-31 |
+| [Everybody On The Floor](https://open.spotify.com/track/6w42JMnW2hxLoij8t4mJGB) | [Daniel Fowler](https://open.spotify.com/artist/2LqVchXnpLa7zhwxwVcsjW) | [Everybody On The Floor](https://open.spotify.com/album/5osayCMUsuWmGbIRpW134T) | 3:33 | 2026-03-23 |  |
 | [Excited](https://open.spotify.com/track/71S4gY0EEAxa0uzE8Jq1q6) | [Callous K.](https://open.spotify.com/artist/687NoFB1z4uTuvRScBc8dU), [clrwtr](https://open.spotify.com/artist/2U33zsqZScV7z2VvTxC6Ps) | [Excited](https://open.spotify.com/album/7B3XL8FTyxDzvxRtcpf6Fe) | 2:05 | 2025-10-31 |  |
 | [Exotica](https://open.spotify.com/track/3phtHbQn6GD3bK0MSN2vgC) | [Valeriya Denga](https://open.spotify.com/artist/4k9lGpdEBlrBfwmgPS2dLh), [Aleksandr Fill](https://open.spotify.com/artist/7mQZQTSdjq55yiAsYWkUUd) | [Exotica](https://open.spotify.com/album/1MFE7EDKzwRBYEtLHBIIpU) | 3:56 | 2025-04-03 | 2025-05-31 |
 | [EY](https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [EY](https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs) | 2:19 | 2025-05-30 | 2025-06-20 |
@@ -296,6 +297,7 @@
 | [Favorite Mistakes \(feat\. Victoria Nadine\) \[HEDEGAARD VIP Mix\]](https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes \(feat\. Victoria Nadine\) \[VIP Mixes\]](https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA) | 2:30 | 2024-09-19 | 2024-10-25 |
 | [Feed the Streets](https://open.spotify.com/track/36FtOrFvDau6Anv4Enx8pS) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Feed the Streets](https://open.spotify.com/album/5ffFglnEmu0DotZzf72jtr) | 2:42 | 2024-08-23 | 2024-08-31 |
 | [FEEL IT](https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FEEL IT](https://open.spotify.com/album/0fQFNk6WSQnwx0LK0n9sGQ) | 2:03 | 2024-08-23 | 2024-08-31 |
+| [Feel It Coming](https://open.spotify.com/track/6ikgTIeT1PyqmJg7JfiYeS) | [Sallok](https://open.spotify.com/artist/3Z8RsSMEuDW1tS3EP0x4WJ), [Jolie](https://open.spotify.com/artist/3TwN012FBy5wpDOnw0YLoZ) | [Feel It Coming](https://open.spotify.com/album/7gBhZhywuVuiC3z44IwW0B) | 3:07 | 2026-03-23 |  |
 | [Feel It Now](https://open.spotify.com/track/5rjSnInTB9c6XjZQRp21wG) | [Madyolo](https://open.spotify.com/artist/6LBGCw4dQEHk4rvnKMMD0k), [AQART](https://open.spotify.com/artist/2Ww8TjgqfOjRnKBy70gb77) | [Feel It Now](https://open.spotify.com/album/3JQ698sG89z2ThYJIgXgsR) | 3:37 | 2025-10-27 | 2026-02-07 |
 | [Feel Like Tomorrow](https://open.spotify.com/track/0asKDNIQaJ1s7HDNuXXA4i) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Feel Like Tomorrow](https://open.spotify.com/album/4ajnjnQNLZ1HbWPSLPtmOu) | 3:35 | 2025-12-05 | 2026-02-07 |
 | [Feel So](https://open.spotify.com/track/0GJhjMF7jlV2Oepwed85SO) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv) | [Feel So](https://open.spotify.com/album/75S1gpFwiCnwQ3UvHl2aVK) | 2:58 | 2025-09-15 | 2026-02-14 |

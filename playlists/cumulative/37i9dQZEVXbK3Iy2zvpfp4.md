@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-4,187 songs - 8 day 17 hr 0 min
+4,188 songs - 8 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1544,7 +1544,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-28 | 2023-12-02 |
 | [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 | 2024-07-17 | 2024-07-22 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-18 | 2024-07-03 |
-| [Housebroken](https://open.spotify.com/track/1SIqYLTRjjZ3dSJCkqR1fK) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Housebroken](https://open.spotify.com/album/04zyrG7cOPLseIoLfiuTIN) | 3:37 | 2026-03-16 |  |
+| [Housebroken](https://open.spotify.com/track/1SIqYLTRjjZ3dSJCkqR1fK) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Housebroken](https://open.spotify.com/album/04zyrG7cOPLseIoLfiuTIN) | 3:37 | 2026-03-16 | 2026-03-24 |
 | [How Bad Can I Be?](https://open.spotify.com/track/4l1R5g85v3bUA1bSSbzg6w) | [Ed Helms](https://open.spotify.com/artist/4frIPWBfpZWw7REcjGAkJF), [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:52 | 2023-06-03 | 2023-06-05 |
 | [How Deep Is Your Love \- Live](https://open.spotify.com/track/5bwM8y0LFlGc83kwrDiKTx) | [remorse](https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV), [deprezz](https://open.spotify.com/artist/6fL5VGL0vinKQ5HOviw6iX), [Xizt](https://open.spotify.com/artist/1na0C7M3oeaDrKfST1TOMF) | [How Deep is Your Love \- Live](https://open.spotify.com/album/4v5dikUcpJW3NMm7T3Fpye) | 2:27 | 2026-02-25 | 2026-02-28 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 | 2022-11-04 |
@@ -2541,6 +2541,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [EZER NAP](https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel) | 2:38 | 2024-01-09 | 2024-01-24 |
 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 | 2022-11-16 | 2022-11-20 |
 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/4eWNNFDYZVlKuxrU8JjOoG) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Graduated Dropout](https://open.spotify.com/album/09LEt6OmLFmauqZkmJux8c) | 3:13 | 2023-04-02 | 2023-04-10 |
+| [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-03-23 |  |
 | [NOBODY](https://open.spotify.com/track/6l9rm6oaHmFO46bTtIr1ip) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 3:00 | 2026-03-08 | 2026-03-18 |
 | [NOBODY](https://open.spotify.com/track/4PcUhNQarvbJQ3Vui6pwep) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [NOBODY](https://open.spotify.com/album/2jqWKUmzUE9xVTqlNqxdyM) | 2:41 | 2025-11-25 | 2025-11-30 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-01-03 | 2023-01-05 |

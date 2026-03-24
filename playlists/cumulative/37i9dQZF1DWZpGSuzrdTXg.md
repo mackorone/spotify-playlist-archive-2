@@ -4,13 +4,14 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-294 songs - 16 hr 55 min
+297 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 | 2025-08-06 |  |
 | [A Good Run](https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [A Good Run](https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl) | 2:53 | 2026-03-02 |  |
 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 | 2025-04-04 |  |
+| [All In My Head](https://open.spotify.com/track/6lPtBabzQ38A3sFPAEuHhQ) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 5:07 | 2026-03-23 |  |
 | [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 | 2022-12-22 | 2024-04-19 |
 | [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2024-04-18 | 2025-04-05 |
 | [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 | 2023-07-13 | 2024-04-19 |
@@ -35,7 +36,7 @@
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2024-04-18 | 2025-02-14 |
 | [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 | 2024-04-19 |
 | [Beggin’ \- Acoustic](https://open.spotify.com/track/7a5QGqYKUMSv1cBdG6RQo0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Beggin'](https://open.spotify.com/album/4dkbdbQXcDgDAjhLWgYn9F) | 3:52 | 2024-06-07 | 2026-03-03 |
-| [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 | 2024-08-01 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 | 2024-08-01 | 2026-03-24 |
 | [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 | 2025-04-17 |
 | [Best Friend](https://open.spotify.com/track/4F2OilypcmGv2TJIfto9sr) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/3jOouxyeaYRD9deTRXzqSE) | 3:04 | 2024-02-15 | 2024-04-19 |
 | [Better Days \- Radio Edit](https://open.spotify.com/track/4l0QdmOrQhPxFcT78B2IsA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Days](https://open.spotify.com/album/7Hyky9PcYlzgdkDbJMPsHW) | 4:04 | 2025-06-04 |  |
@@ -144,10 +145,11 @@
 | [Lies \- Acoustic Piano](https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies \(Acoustic Piano\)](https://open.spotify.com/album/5itEPqoXNem3qWRtPiRC2V) | 4:43 | 2026-01-23 |  |
 | [Life Support](https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Going My Own Way](https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW) | 2:41 | 2024-10-03 |  |
 | [Light Behind The Moon \- Acoustic](https://open.spotify.com/track/58n5ZJQGKanPeD9cj8oLTE) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Light Behind The Moon \(Acoustic\)](https://open.spotify.com/album/4e649j0uvHqgGCv6AedN7h) | 3:01 | 2026-02-06 |  |
+| [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 | 2026-03-23 |  |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-12-22 | 2023-06-02 |
 | [Lights Off](https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/5Zd2cdDVrRrFJsjiSpo1m5) | 3:30 | 2023-01-16 | 2023-10-07 |
 | [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 | 2023-02-03 |
-| [Like Only Lovers Could](https://open.spotify.com/track/1wJrcD6zkaIjtIBGhdUTHf) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Like Only Lovers Could](https://open.spotify.com/album/5kSgk6Un756YJn9Di2dy09) | 2:53 | 2024-06-06 |  |
+| [Like Only Lovers Could](https://open.spotify.com/track/1wJrcD6zkaIjtIBGhdUTHf) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Like Only Lovers Could](https://open.spotify.com/album/5kSgk6Un756YJn9Di2dy09) | 2:53 | 2024-06-06 | 2026-03-24 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-22 | 2025-06-05 |
 | [Little Things](https://open.spotify.com/track/4jTee7j6J2OJcoBiVcOiRt) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Little Things](https://open.spotify.com/album/7yZ1TRxpuC8YX9etJ4zAWv) | 2:58 | 2024-04-18 | 2024-07-16 |
 | [Little Things](https://open.spotify.com/track/5hePt3wJ1b8qQOC7memXx2) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Little Things](https://open.spotify.com/album/6NjrDiHojlQsmU2EXlqLGp) | 3:06 | 2022-12-22 | 2024-04-19 |
@@ -219,6 +221,7 @@
 | [Slow Down Angel](https://open.spotify.com/track/0r3khWto7EKEYo9DCwHe2K) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Slow Down Angel](https://open.spotify.com/album/1jDQMWgYous5cCNHqB4bHb) | 2:56 | 2025-04-24 |  |
 | [Soaking Skin](https://open.spotify.com/track/4NA7AmM3ZzekeRdAcVy3B7) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:04 | 2024-11-14 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2022-12-22 | 2023-10-21 |
+| [Someone's gotta be out there](https://open.spotify.com/track/1SRfCvRRuRN1y7ZRYsS8gv) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Someone's gotta be out there](https://open.spotify.com/album/1sTifJoyXKTI2HwMAiPHMW) | 2:22 | 2026-03-23 |  |
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 | 2024-11-15 |
 | [Something Beautiful and Bright](https://open.spotify.com/track/2P0eHr0CHrsoLXXjB2OEsO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Something Beautiful and Bright](https://open.spotify.com/album/6p4quKnFqZ5NkhjBHRJdRF) | 3:25 | 2025-04-17 |  |
 | [Sounds Of An Early Morning](https://open.spotify.com/track/3JZqG72YPLiIChom7dGCau) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [Sounds Of An Early Morning](https://open.spotify.com/album/6yeVsvCmUKoc967n5mzkVD) | 3:09 | 2025-09-03 |  |

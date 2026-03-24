@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-624 songs - 1 day 10 hr 55 min
+625 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-25 | 2025-03-01 |
 | [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 | 2024-09-12 | 2024-09-30 |
 | [Chand Ka Takiya](https://open.spotify.com/track/2okMPDIxBxWwlyCD9KMpIM) | [Akansha Tripathi](https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni) | [Chand Ka Takiya](https://open.spotify.com/album/05OhJuZZurrrrTo2j5pnq6) | 2:49 | 2024-09-17 | 2025-03-01 |
-| [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 | 2026-02-26 |  |
+| [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 | 2026-02-26 | 2026-03-24 |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 | 2024-04-19 |
 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 | 2025-01-23 | 2025-02-21 |
 | [Channa Ve](https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Nitin Rana](https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c) | [Channa Ve](https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2) | 3:02 | 2025-05-21 | 2025-09-27 |
@@ -279,6 +279,7 @@
 | [Khamosh Hum](https://open.spotify.com/track/6DbqJtVimKA96EPcTNpHKC) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ), [Shriyank Gour](https://open.spotify.com/artist/2wVq6f96SDr4btIlB2ikkR) | [Khamosh Hum](https://open.spotify.com/album/6cuCRw4GK3FA6PetXShiWK) | 2:45 | 2025-02-18 | 2025-03-08 |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 | 2023-10-27 |
 | [Khatam](https://open.spotify.com/track/6KLocCf9WxUWcXFO6m1Zir) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Khatam](https://open.spotify.com/album/5RavsbAGaZC0UZvR4k8JoV) | 2:57 | 2025-05-29 | 2025-07-29 |
+| [Khazana \- Live](https://open.spotify.com/track/4EJO5Cu6cUw0rILpjud1Qj) | [Bridge Music](https://open.spotify.com/artist/6zxSx2pIMMTGtDFW4M7YbR), [Sam Alex Pasula](https://open.spotify.com/artist/2cS8kIlX5jPhMTEOi2VJv7), [Phebe Bright](https://open.spotify.com/artist/45s4NhUDHypsAyb6srw1MA) | [Khazana \(Live\)](https://open.spotify.com/album/1n85QnrPCj22MOlSaN8aeI) | 6:13 | 2026-03-23 |  |
 | [Khidki \- Acoustic](https://open.spotify.com/track/5PPlJZOvGzyMCNvE7bew43) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:14 | 2023-05-17 | 2023-07-13 |
 | [Kho Gaya Kyun](https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Kho Gaya Kyun](https://open.spotify.com/album/4TTaId3wunhM5YlrXLcu55) | 2:40 | 2023-05-17 | 2023-07-15 |
 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:33 | 2024-09-30 |  |

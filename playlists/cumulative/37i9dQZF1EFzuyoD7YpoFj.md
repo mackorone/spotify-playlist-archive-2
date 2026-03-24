@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-677 songs - 1 day 12 hr 25 min
+678 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Between You and Me](https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB) | [kazemaru](https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig) | [Running on a Knife\-Edge](https://open.spotify.com/album/4pjVHrqf901239z7oschzQ) | 4:51 | 2025-09-12 |  |
 | [Between You and Me](https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn) | [Оскар](https://open.spotify.com/artist/5BvGivKcddTxmnABDkMyan) | [Running on a Knife\-Edge](https://open.spotify.com/album/75h6VRL47NaHpPe53q91br) | 4:52 | 2025-09-10 | 2025-09-13 |
 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 | 2024-07-24 |  |
-| [Big Stuff](https://open.spotify.com/track/6DBTJQB1VxR82nIEwNrPUp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Camarata And His Orchestra](https://open.spotify.com/artist/4TYE75eI4rO1QTLoDFUUGq) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 2:32 | 2025-07-10 |  |
+| [Big Stuff](https://open.spotify.com/track/6DBTJQB1VxR82nIEwNrPUp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Camarata And His Orchestra](https://open.spotify.com/artist/4TYE75eI4rO1QTLoDFUUGq) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 2:32 | 2025-07-10 | 2026-03-24 |
 | [Blow, Gabriel, Blow](https://open.spotify.com/track/4DtUDXWjncnJEGkjWNzXUg) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Shina Ann Morris](https://open.spotify.com/artist/6kpPCCVDYv5UWp0yTGTpF6), [Kimberly Fauré](https://open.spotify.com/artist/7KeRvQu3QWimR0R7rmQBGs), [Jennifer Savelli](https://open.spotify.com/artist/1JpQAKngZpluarksWQz7TO), [Joyce Chittick](https://open.spotify.com/artist/1OKlLBg3Sw8YvUpaMJNtKW), ['Anything Goes' New Broadway Cast Ensemble](https://open.spotify.com/artist/66t5xqw9MdEEgfUmKs6DOD) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 7:32 | 2024-07-24 |  |
 | [Bon Voyage](https://open.spotify.com/track/2WwbqonXDGWTRFLNjb4c9H) | [The "Anything Goes" 2003 Ensemble](https://open.spotify.com/artist/0fAvQUq05luf4Ej75U3G4b) | [Anything Goes \(2003 London Cast Recording\)](https://open.spotify.com/album/4CFBcMMpC2Oh14q6kMCl3W) | 1:22 | 2025-06-27 |  |
 | [Boogie Barcarolle](https://open.spotify.com/track/1BNY7UempZpEV9GcXAu7n7) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 3:26 | 2024-07-24 |  |
@@ -612,6 +612,7 @@
 | [What A Fair Thing Is A Woman](https://open.spotify.com/track/4vODJZxWzUoiNVFqW1fsww) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 4:12 | 2024-07-24 |  |
 | [What Do You Think About \- Radio Edit](https://open.spotify.com/track/11izjBmZj9dP8Z2QgbiGjW) | [2 Black](https://open.spotify.com/artist/7xdKYR7N2gDELPnlvUmOZ7) | [The Album](https://open.spotify.com/album/38ZcB4gvAcbmE7LHoB1NuM) | 3:00 | 2024-07-24 | 2025-06-28 |
 | [What Is the Soul of Man?](https://open.spotify.com/track/7oG6VgxTTP2B7uWzmdasak) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:32 | 2025-06-27 |  |
+| [What Is This Thing Called Love?](https://open.spotify.com/track/1cmmNoABXBOJEeZFiEZBxT) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald: Legendary Recordings](https://open.spotify.com/album/1erT2mWZvvl0Ntdf0j1f2a) | 2:04 | 2026-03-23 |  |
 | [What Shall I Do?](https://open.spotify.com/track/7urY6ZZG2eES79I0cVj12r) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [The London Sessions \- 1934](https://open.spotify.com/album/55Eg5wwt6GM94gsklJw7td) | 2:43 | 2024-07-24 | 2025-07-10 |
 | [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 | 2024-09-25 | 2025-07-10 |
 | [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 | 2024-07-24 | 2024-09-26 |

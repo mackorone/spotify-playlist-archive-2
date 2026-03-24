@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,207 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,211 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 39 | [Tina Takes Newt In / Macusa Headquarters](https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:56 |
 | 40 | [Introduce a Little Anarchy](https://open.spotify.com/track/2LfWRXYCr1jM3RkEDOY8Dj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 3:41 |
 | 41 | [Newt and Leta](https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:32 |
-| 42 | [The Countdown](https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 1:58 |
-| 43 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
+| 42 | [I Need You](https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Catching Fire \(Original Motion Picture Score\)](https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow) | 3:57 |
+| 43 | [The Countdown](https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 1:58 |
 | 44 | [And I Thought My Jokes Were Bad](https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 2:28 |
 | 45 | [Leta's Flashback](https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 4:40 |
-| 46 | [Tenuous Winners/Returning Home](https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:25 |
-| 47 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
+| 46 | [Flow Like Water](https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Last Airbender \(Music from the Motion Picture\)](https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S) | 6:32 |
+| 47 | [Tenuous Winners/Returning Home](https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:25 |
 | 48 | [The Village: Morning](https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Night After Night \(Music from the Movies of M\. Night Shyamalan\)](https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui) | 4:38 |
-| 49 | [12 Years Later \- From "Treasure Planet"/Score](https://open.spotify.com/track/491SgTfng3iwBZlubejYxL) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Treasure Planet](https://open.spotify.com/album/6TCIP0qIaMYXYAFejY59cC) | 2:44 |
+| 49 | [Archer & Solomon Hike](https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 1:55 |
 | 50 | [What Are You Asking Me? \- Score](https://open.spotify.com/track/7uwfXNvdJjqUVt8oMDF181) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 6:01 |
 
-Snapshot ID: `ab3fgAAAAAC5+wxzweyYjHYKclnfMuFs`
+Snapshot ID: `ab8xAAAAAACjCnGDsGK3VIPBTyPeZMZ2`

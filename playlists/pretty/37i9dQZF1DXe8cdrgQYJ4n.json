@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 20841,
+  "num_followers": 20844,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-18 02:38:59",
       "album": {
+        "name": "The 3rd EP",
+        "url": "https://open.spotify.com/album/1K6yALOFEiqg9KigNjRMKE"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Yesterday You Left Me",
+      "url": "https://open.spotify.com/track/4iJZ12gvcunf80gym7qEM2"
+    },
+    {
+      "added_at": "2026-03-18 02:38:59",
+      "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 214773,
       "name": "Happy Alone (feat. B.I)",
       "url": "https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f"
-    },
-    {
-      "added_at": "2026-03-18 02:38:59",
-      "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/1K6yALOFEiqg9KigNjRMKE"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/4iJZ12gvcunf80gym7qEM2"
     },
     {
       "added_at": "2026-03-18 02:38:59",

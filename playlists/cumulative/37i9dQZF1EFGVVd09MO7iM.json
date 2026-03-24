@@ -13408,6 +13408,24 @@
     {
       "album": {
         "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
+    },
+    {
+      "album": {
+        "name": "Watching Movies with the Sound Off",
         "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
       },
       "artists": [
@@ -13418,7 +13436,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d"

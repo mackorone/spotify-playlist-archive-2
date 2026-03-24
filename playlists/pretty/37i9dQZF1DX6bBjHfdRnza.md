@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring Jackyboom\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,197 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,209 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 3 | [What Ya Got](https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055) | [Wal](https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc) | [GTFU](https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam) | 3:50 |
 | 4 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 |
 | 5 | [TAKIN PICTURES](https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW) | [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [TAKIN PICTURES](https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC) | 2:51 |
-| 6 | [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
+| 6 | [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
 | 7 | [All This Love](https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [All This Love](https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3) | 3:15 |
 | 8 | [PUT YOUR USB IN MY CDJ](https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK) | [VON DI](https://open.spotify.com/artist/18DtMa3kSXz1ziUhSJrTZT) | [PUT YOUR USB IN MY CDJ](https://open.spotify.com/album/2SIrZvQPHfL7dHvbrrwFH3) | 2:48 |
 | 9 | [no pressure](https://open.spotify.com/track/6nvpyzjBJBCCaZE1TGBWCH) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 111 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 111 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 58 | [Oempa Loempa](https://open.spotify.com/track/08crq9msyqHYxDUFnKvzbW) | [Aquastep](https://open.spotify.com/artist/1cZ4u9QSq2kExI0MUBvZH4) | [Wonka \- Tunes From The Chocolate Box](https://open.spotify.com/album/34zrCpz1fJTrm4UT9kHhyE) | 4:40 |
 | 59 | [Dream On \- Bushwacka Tough Guy Mix](https://open.spotify.com/track/5eJL2oGsD58U7fRiAg4irE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h) | [Exciter \| The 12" Singles](https://open.spotify.com/album/4XdincYsK4PTTbqUNauNl3) | 6:09 |
 | 60 | [Hazme Soñar \- Massimino Lippoli & Cutmaster\-G Club Mix](https://open.spotify.com/track/527rK0JFLfIfjGkNfzpeFt) | [Morenas](https://open.spotify.com/artist/6GLvBxMm4aGGR8mnpsaTYa), [Massimo Lippoli](https://open.spotify.com/artist/3lZ2TAipEYVi3YvDidUKXc), [Andrea Gemolotto](https://open.spotify.com/artist/0L38HTiNDXdipFgOTukVZF) | [Hazme Soñar](https://open.spotify.com/album/4fjUAGr1uXXZK4KkPEZ3q0) | 6:31 |
-| 61 | [Rave Daddy \- Ploy's absent father mix](https://open.spotify.com/track/2Mes3dj3EiCXuA1M1rVO1Q) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Rave Daddy Remixes](https://open.spotify.com/album/7bQcU0qgNrDtTuKDlUPeVW) | 5:20 |
+| 61 | [Rave Daddy \- Ploy's absent father mix](https://open.spotify.com/track/2Mes3dj3EiCXuA1M1rVO1Q) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Rave Daddy \(Remixes\)](https://open.spotify.com/album/7bQcU0qgNrDtTuKDlUPeVW) | 5:20 |
 | 62 | [Feelin' Kinda High \- Vocal Mix](https://open.spotify.com/track/4Cfazkr21aucck1aOJ5JlQ) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Terence F.M.](https://open.spotify.com/artist/3eP5Zg2JOhDxCNiLtBUNAg) | [Only 4 U: The Sound Of Cajmere & Cajual Records 1992\-2012](https://open.spotify.com/album/0dnMPNmpV21diEaZEBXuDn) | 5:23 |
 | 63 | [Love Love Love](https://open.spotify.com/track/3lrsQQ6tK4UcO164pSmHDU) | [Those Guys](https://open.spotify.com/artist/5SoZXXHTYRjRmuDYE0HQCr) | [Basement Boys Anthology](https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV) | 10:07 |
 | 64 | [Battle Plate](https://open.spotify.com/track/2gKuNeJIegFrlEqhzRSh31) | [Serious Danger](https://open.spotify.com/artist/3nKKNs7XQ75JihK07VcCd8) | [Deeper \(Battle Plate\)](https://open.spotify.com/album/1BTEVzn3hxN5WU7MYET8UG) | 8:18 |

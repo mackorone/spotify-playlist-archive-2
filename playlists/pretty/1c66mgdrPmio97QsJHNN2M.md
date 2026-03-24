@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,221 likes - 291 songs - 14 hr 52 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,236 likes - 299 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,5 +299,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 289 | [Lost](https://open.spotify.com/track/0tzKFDTbre9un86lyKeBFo) | [Alergio](https://open.spotify.com/artist/7pSb2j83uSVlkvbjaW38qD) | [Lost](https://open.spotify.com/album/7qgfLA5KyXlbhLUrakiXTA) | 2:41 |
 | 290 | [Something's gotta give me Something to Believe in](https://open.spotify.com/track/0P1G4BW8wKv6k0bKJIjYmq) | [Lyle Akins](https://open.spotify.com/artist/3BxdGcNlA27sd3RykVMybq) | [Something's gotta give me Something to Believe in](https://open.spotify.com/album/2wf0WweKni43XSCRWkAXG7) | 3:13 |
 | 291 | [Alien](https://open.spotify.com/track/0safhzDhmFqMToTVADb5gB) | [CheshirePersian](https://open.spotify.com/artist/4T45tMHotBkmW3IfZ6bIpj) | [CHESHiRE, Vol\. II: New Order](https://open.spotify.com/album/2Z2VIuPedOotlVTuSI850n) | 3:00 |
+| 292 | [letting love go bye](https://open.spotify.com/track/4RnT8VNFXW0ycQDsO5RrDQ) | [kjarls](https://open.spotify.com/artist/20boFPRjsWqSgRTEDzDLBX) | [letting love go bye](https://open.spotify.com/album/5chRftHxBJ0iblg8X5f9O6) | 3:05 |
+| 293 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 |
+| 294 | [who am i supposed to be](https://open.spotify.com/track/2TJ5eQGp8CE2xhDMoUSttm) | [Serpolla](https://open.spotify.com/artist/00OTPkx4zMJmTzTkxBfBX0) | [Winter Letters](https://open.spotify.com/album/54tlqrK4mjtZJ4Y36AEcW3) | 2:16 |
+| 295 | [Photo](https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom) | [Miles Squiers](https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v), [Morgan Turpin](https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4) | [Photo](https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj) | 2:26 |
+| 296 | [Charcoal Gray](https://open.spotify.com/track/1uX1wInA0DAuNlbxU0HsUR) | [Lexis](https://open.spotify.com/artist/3G9nEokOr2vfTHCgEnQsbM) | [Charcoal Gray](https://open.spotify.com/album/0UtfuMSLZtlzBER0XEiXHm) | 3:10 |
+| 297 | [Take My Hand \- Radio Version](https://open.spotify.com/track/6mfWT8HkVpdvzqBEQ5uYV0) | [Cristólan](https://open.spotify.com/artist/3JPutaGQk4o5leY4jqyHbf) | [Take My Hand](https://open.spotify.com/album/7BFiLZt2o6TdujaFEjuuJs) | 3:20 |
+| 298 | [Sonya](https://open.spotify.com/track/4ANXgJ1i25WvFHQELlScPI) | [Skye Onyx](https://open.spotify.com/artist/4pOJuDDtQ6A4yqu9rK2xPb) | [Sonya](https://open.spotify.com/album/6nojqX7K2n3gv4hlT2ccge) | 2:22 |
+| 299 | [Faded dreams](https://open.spotify.com/track/4fVL9f92jHmaQ4IysUOIoY) | [m@tro](https://open.spotify.com/artist/6Ja9ha5j4dUhEjoOfzmDlB) | [Distant Signals](https://open.spotify.com/album/1LlxP12m9hqNeQntzN7IIV) | 5:49 |
 
-Snapshot ID: `AAA2FaQKW/M9YmeIlCXR9V9a7iYdGp8r`
+Snapshot ID: `AAA2HR1sjdChf2uvQW/UAHfTXLDe85Bf`

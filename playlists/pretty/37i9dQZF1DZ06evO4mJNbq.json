@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3091,
+  "num_followers": 3094,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAz97zZWsuNfi8COWNP56lJ",
+  "snapshot_id": "ab8xAAAAAAD/z/q4wEN87R/RXhAnWzlO",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 149373,
-      "name": "Loveline",
-      "url": "https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT"
+      "duration_ms": 143000,
+      "name": "Evil Angel",
+      "url": "https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Evil Angel",
-      "url": "https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q"
+      "duration_ms": 149373,
+      "name": "Loveline",
+      "url": "https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT"
     },
     {
       "added_at": null,

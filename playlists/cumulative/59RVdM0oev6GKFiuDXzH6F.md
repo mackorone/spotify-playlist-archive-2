@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,104 songs - 2 day 8 hr 52 min
+1,105 songs - 2 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Ethos](https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Ethos](https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi) | 3:42 | 2024-12-05 | 2025-05-09 |
 | [Eu Que Sei](https://open.spotify.com/track/0eV42KLxvhEjA4XB1u4RvW) | [Dennis Cartier](https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS) | [Eu Que Sei](https://open.spotify.com/album/7KIy63d1JnPJjLQ51MTLL8) | 2:53 | 2023-08-25 | 2023-09-01 |
 | [Every Guy Like U](https://open.spotify.com/track/6fxTkxPvON3rTqP6iOBRMY) | [SUB\-X](https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG) | [Every Guy Like U](https://open.spotify.com/album/5iepO9bRC4CaJ3WTw2yCJq) | 2:50 | 2024-12-05 | 2025-05-09 |
+| [Everybody On The Floor](https://open.spotify.com/track/6w42JMnW2hxLoij8t4mJGB) | [Daniel Fowler](https://open.spotify.com/artist/2LqVchXnpLa7zhwxwVcsjW) | [Everybody On The Floor](https://open.spotify.com/album/5osayCMUsuWmGbIRpW134T) | 3:33 | 2026-03-23 |  |
 | [Everything Black](https://open.spotify.com/track/1Yhyqa0muaTvjRZJAzlLND) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ) | [Everything Black](https://open.spotify.com/album/6TBgBbpnjINlYwURchKo4j) | 2:25 | 2023-07-13 | 2023-12-14 |
 | [Exes \- Speed Garage](https://open.spotify.com/track/1EmQimmLz0ePflj67rPZQ0) | [Blura](https://open.spotify.com/artist/6ooDhfVbWKuHNGt9lj3dws), [KHAERIS](https://open.spotify.com/artist/5AXr0RbJABC9QFTL0XDBX4) | [Exes \(Speed Garage\)](https://open.spotify.com/album/48CjjPjrXVjxMJkgvGfmaD) | 2:15 | 2026-01-30 |  |
 | [Extra Man](https://open.spotify.com/track/3B4kg6eBOVE0j3DXAq6DYn) | [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [Extra Man](https://open.spotify.com/album/1LzaenwUTKLGWaWBrYk9lp) | 3:48 | 2024-01-26 | 2024-09-26 |

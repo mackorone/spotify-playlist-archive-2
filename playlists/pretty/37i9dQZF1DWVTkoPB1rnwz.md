@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,398 likes - 152 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,423 likes - 152 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-380 songs - 23 hr 49 min
+385 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Blue Collar Swaller](https://open.spotify.com/track/04PTzfMWSBwwK2fG5wRxle) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 2:50 | 2025-11-30 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-23 | 2025-11-28 |
 | [Bonnie and Clyde](https://open.spotify.com/track/1uslmInwTqW0FTahkXRmUH) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Bonnie and Clyde](https://open.spotify.com/album/3YmN4v0QKlwRMqjc4veT4H) | 4:13 | 2026-02-22 |  |
+| [Bottle on the table](https://open.spotify.com/track/6gP8B1kKEaeY2OBUfYbfD8) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:52 | 2026-03-23 |  |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-12-04 | 2025-12-17 |
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 | 2025-12-17 |
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 |  |
@@ -180,6 +181,7 @@
 | [Kings & Queens](https://open.spotify.com/track/3F5WjDztBiHJFCyiomxW1m) | [EsKIL](https://open.spotify.com/artist/2Gcp9We5VZX6XunRvAnXr0), [Starlunge](https://open.spotify.com/artist/3KhGmNhB6fadHcYqPcT2to) | [Kings & Queens](https://open.spotify.com/album/1Km78h7TfdKLZO6FLHAzjQ) | 2:59 | 2026-02-24 | 2026-03-18 |
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
+| [La marea](https://open.spotify.com/track/5m4cTTcv22aQ9KMjoZVLaS) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Caronte](https://open.spotify.com/album/5rqL6C7JSvi45eBjE86B2o) | 3:49 | 2026-03-23 |  |
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2026-03-16 |  |
 | [La Princesa del viento grita](https://open.spotify.com/track/7bqP1GnCf6fCvauuY9JVa9) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:39 | 2026-03-14 |  |
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
@@ -221,6 +223,7 @@
 | [Money](https://open.spotify.com/track/5EYHdEkl9T4osuhxLGB0e7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Westway Rises](https://open.spotify.com/album/1UF1jnphfnZ65FU9Qp3KdV) | 3:34 | 2026-01-13 | 2026-03-18 |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2026-02-06 | 2026-03-18 |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
+| [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 | 2026-03-23 |  |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
 | [My Soul's on Fire](https://open.spotify.com/track/5MhRz3sZYA7I6qpWZEniLc) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [My Soul's on Fire](https://open.spotify.com/album/3fWsuaMhkFulj7cdrACaae) | 2:32 | 2026-01-19 | 2026-03-18 |
@@ -275,6 +278,7 @@
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 |  |
+| [Retro Blonde](https://open.spotify.com/track/2jDTCQurwYsjoaUSeWApOf) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Retro Blonde](https://open.spotify.com/album/0DvHilEkBl7OCZ87Hsxeam) | 3:33 | 2026-03-23 |  |
 | [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-02-16 | 2026-03-18 |
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 |  |
 | [Ride](https://open.spotify.com/track/5x4ka2kVGFhnWEfTLM2RFL) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Ride](https://open.spotify.com/album/7jrWuQolOpkVOKikDFc6oS) | 4:03 | 2026-01-19 | 2026-03-18 |
@@ -341,6 +345,7 @@
 | [The Path of Life](https://open.spotify.com/track/11U2REWAJDmch5GwYOb1T7) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [The Path of Life](https://open.spotify.com/album/2mLhmToLFY0AHU68IRErSK) | 3:37 | 2025-09-28 | 2025-12-17 |
 | [The Silent Streaks](https://open.spotify.com/track/6Oo9FMtmoOeoNsfGkHreDM) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs) | [Whispers of a Violent Moon](https://open.spotify.com/album/3k9XEH9nw5nau63BXPKMpW) | 3:27 | 2025-10-07 | 2025-11-28 |
 | [The Staggering Expanse of Man](https://open.spotify.com/track/037SX6RIc2ZcAyss2UXta0) | [Gentry Blue](https://open.spotify.com/artist/1WDjvAbQXtcuiSJgLQYaOm) | [The Staggering Expanse of Man](https://open.spotify.com/album/4aU2LP5HmOwya2fzhts9D1) | 5:19 | 2025-10-28 | 2025-11-28 |
+| [The Tallahatchie Bridge](https://open.spotify.com/track/21LLRRYgZ2NiuVgrr2p5eT) | [Tim Hall and Buffalo Country](https://open.spotify.com/artist/6yGS5pRLuajIewHjZO2f8a) | [The Tallahatchie Bridge](https://open.spotify.com/album/00itmvsffnRW14XIlToe1F) | 3:34 | 2026-03-23 |  |
 | [The Whale Song](https://open.spotify.com/track/64r3ojbuHjdw9JIOPmojdl) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Whale Song](https://open.spotify.com/album/7eZcwmTkVW02d3MoxOaD63) | 5:38 | 2025-09-21 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-11-17 | 2025-12-17 |
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 |  |

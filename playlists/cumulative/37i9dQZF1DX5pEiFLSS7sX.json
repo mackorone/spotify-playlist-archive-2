@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 220000,
       "name": "God of the Supernatural",
       "url": "https://open.spotify.com/track/256ai8xPuy4UfBHyLar0rd"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 344933,
       "name": "In Each Grain of Sand (Live)",
       "url": "https://open.spotify.com/track/6tZ1vMQc957RRrNTjuQ4RJ"
@@ -2872,6 +2872,32 @@
       "duration_ms": 247200,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/47Mq67yfxdkIa6SRbanqZG"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/2f1vQLRRGUbmXvcCH1lJnm"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        },
+        {
+          "name": "Kendrick Williams Jr",
+          "url": "https://open.spotify.com/artist/6THqYD4nwDVdkVHVDr9ktp"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302752,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/0MinxXAaUCp6nhhfYxrJwT"
     },
     {
       "album": {
@@ -3747,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "The Hero & The Villain",
+        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
+    },
+    {
+      "album": {
         "name": "Real Thing (feat. Sean Curran)",
         "url": "https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj"
       },
@@ -4511,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "THANK GOD I'M FREE",
+        "url": "https://open.spotify.com/album/50w6pz7MRBPunUgo02zsxO"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304584,
+      "name": "THANK GOD I'M FREE",
+      "url": "https://open.spotify.com/track/0APie81Toq4KEJr8ebPFb5"
+    },
+    {
+      "album": {
         "name": "The Blessing",
         "url": "https://open.spotify.com/album/1Im2f9b3jzYqHPeFKQkYRI"
       },
@@ -4910,7 +4976,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 220019,
       "name": "Watch What God Can Do",
       "url": "https://open.spotify.com/track/0082DGHpaawqnVyoOZklqz"

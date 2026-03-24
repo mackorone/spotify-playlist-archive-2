@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: fromis\_9 \(프로미스나인\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 유나 \(YUNA\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-534 songs - 1 day 5 hr 2 min
+535 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [I Want You Every Day](https://open.spotify.com/track/4H12mDiB75kAZolrHjMjza) | [JUDY](https://open.spotify.com/artist/37VjCKfHNYyumIW88jZW7T) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK) | 3:19 | 2022-03-29 | 2022-03-31 |
 | [I Wish](https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [From\. WJSN](https://open.spotify.com/album/5662dhD6LraFCUIzKujPej) | 3:38 | 2021-11-29 | 2022-07-25 |
 | [ICE CHU](https://open.spotify.com/track/7ucHQ2HqTl2nO5Eyd5jfft) | [OGUOGU](https://open.spotify.com/artist/0zMyf4jK7R5v4E1qitQAZS) | [ICE CHU](https://open.spotify.com/album/3uANATuTqvsbIBcAAhhMia) | 3:15 | 2022-03-29 | 2022-06-03 |
+| [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 | 2026-03-23 |  |
 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet\-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 | 2022-01-04 | 2022-07-24 |
 | [illang \(Firework\)](https://open.spotify.com/track/07FyMbh9c7ciBLBZTEE7vm) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [illang:Firework](https://open.spotify.com/album/6GxTj9xmNCRFsmWFMieIg0) | 3:07 | 2024-08-22 | 2024-08-31 |
 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 | 2025-08-01 | 2025-11-11 |
@@ -417,7 +418,7 @@
 | [STARLIGHT](https://open.spotify.com/track/69jrdIrRPKGi8WZUHbOQY0) | [Jun Hyo Seong](https://open.spotify.com/artist/73RRzEpK7IQexOhC0CuTRZ) | [STARLIGHT](https://open.spotify.com/album/5LONanyDV4Voa5uQt9SAdw) | 3:25 | 2021-11-29 | 2022-07-22 |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-30 | 2025-03-27 |
 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2021-11-29 | 2022-04-15 |
-| [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-11-29 |  |
+| [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-11-29 | 2026-03-24 |
 | [Sting](https://open.spotify.com/track/0ULq4YEtDWHBOJTeoOR2jt) | [Stellar](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) | [Sting](https://open.spotify.com/album/1IKfObkLtxkeFC5yUcQcf8) | 3:32 | 2022-03-29 | 2022-04-16 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 | 2025-05-19 |
 | [Strawberry Rush](https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Strawberry Rush](https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2) | 2:56 | 2024-06-25 | 2025-05-19 |

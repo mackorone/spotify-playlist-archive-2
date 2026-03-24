@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-398 songs - 22 hr 19 min
+401 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Am Myself](https://open.spotify.com/track/4epi22E8Nfxddq4sB3QmaL) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [I Am Myself](https://open.spotify.com/album/1AKtzNNNJrLpSCmA3Coipz) | 2:27 | 2026-01-18 | 2026-02-21 |
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 | 2026-03-03 |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-03-07 |  |
+| [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2026-03-23 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 |  |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
@@ -332,6 +333,7 @@
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 | 2026-01-05 |
 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2026-03-10 |  |
+| [Testify](https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 5:34 | 2026-03-23 |  |
 | [That Girl](https://open.spotify.com/track/0ckv5piv2C88O9zejIsY4V) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/5lCK0L28sGSnogU6t1Y6KG) | [That Girl](https://open.spotify.com/album/1ZVgF25vYEIAn9jA1C3rIQ) | 3:29 | 2025-11-01 | 2025-12-01 |
 | [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 | 2026-01-18 | 2026-02-21 |
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
@@ -359,6 +361,7 @@
 | [Too Much Pain](https://open.spotify.com/track/6C7cYHPRdv3xzEQgD9YlO2) | [Saint Josh](https://open.spotify.com/artist/0RMN8YWshpWT8UoUTczQK2), [IndepthjayBeats](https://open.spotify.com/artist/3DbS3iUEXBQmOqvh5rHOIE) | [Too Much Pain](https://open.spotify.com/album/1yMfWKrJYbOtPCgKoSJkrQ) | 2:58 | 2025-11-10 | 2025-12-01 |
 | [Toxic](https://open.spotify.com/track/6Wk2bv3r2LIY40Kqt9TvRL) | [Dawnsha](https://open.spotify.com/artist/5YWQkVkCVeRTd7K7KjQGdp) | [Dusk Till Dawn](https://open.spotify.com/album/0Jwd7BMCB4cZXRFJG3hNEB) | 3:18 | 2025-12-23 | 2026-01-15 |
 | [Tradotti a Metà](https://open.spotify.com/track/0y19OhtR5Jl4QMg0Xrsb7x) | [Tommy Rosa](https://open.spotify.com/artist/0qTQNf8RA8QYWCjmEjYQ5R) | [Tradotti a Metà](https://open.spotify.com/album/2cwSCoDPZNjhbicr72vAyy) | 3:07 | 2025-11-18 | 2026-01-05 |
+| [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-03-23 |  |
 | [Tribeca Drizzle](https://open.spotify.com/track/1GkzgpFUnTO55fkTtp9PBH) | [Waterscape](https://open.spotify.com/artist/4INptwomQxyn8cxFsqwTtc) | [Outwit](https://open.spotify.com/album/6OOelofD6Q5VysMwb8EBWU) | 7:05 | 2025-11-17 | 2026-01-05 |
 | [Tristan](https://open.spotify.com/track/4PLFzjZLJ3AZYMswdxJXpH) | [BAELY](https://open.spotify.com/artist/6P7fduWzZtr6lKDGrase2n) | [Tristan](https://open.spotify.com/album/2qYirf9t78FeWy93BOKFWV) | 2:52 | 2025-11-08 | 2025-12-01 |
 | [Tropicana Cookies](https://open.spotify.com/track/5MEMLtNPrbuLmUEYAMY4J6) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Nacreous](https://open.spotify.com/album/3Vcu2mv0Na5N6abrjBPM9J) | 2:50 | 2025-11-17 | 2026-01-05 |

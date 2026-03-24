@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 200000,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/4uNMTDvUKuC1v54HwGoj4U"
@@ -4373,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Hello Juliet",
+        "url": "https://open.spotify.com/album/7b2ducgsRfAYhpugyAKlKx"
+      },
+      "artists": [
+        {
+          "name": "Clarion",
+          "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hello Juliet",
+      "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
+    },
+    {
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -8678,7 +8696,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -8696,7 +8714,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -10018,7 +10036,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 208965,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3j849LjxCe8WZMQjiKsl8Z"

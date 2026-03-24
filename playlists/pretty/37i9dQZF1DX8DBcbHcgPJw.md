@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Agapornis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,135,269 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,152 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 91 | [No Voy a Llorar Por Ti \- Remix](https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Milthon](https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK) | [No Voy a Llorar Por Ti \(Remix\)](https://open.spotify.com/album/6pWXJRKJFbxcq4aZsMEBYM) | 3:19 |
 | 92 | [Última Noche](https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK) | [Treekoo](https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Última Noche](https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK) | 2:46 |
 | 93 | [NO FUIMOS](https://open.spotify.com/track/717KavpEoZakUVizYk70TU) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [NO FUIMOS](https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf) | 2:16 |
-| 94 | [Difícil](https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Difícil](https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj) | 2:45 |
-| 95 | [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 |
+| 94 | [Mi Ex](https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB) | [Mi Ex](https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj) | 2:21 |
+| 95 | [Difícil](https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Difícil](https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj) | 2:45 |
 | 96 | [Chica Brasileña Remix](https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [Chica Brasileña Remix](https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC) | 2:47 |
 | 97 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 |
-| 98 | [Te Regalo Amores](https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Te Regalo Amores](https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv) | 3:02 |
-| 99 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 |
+| 98 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 |
+| 99 | [Te Regalo Amores](https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Te Regalo Amores](https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv) | 3:02 |
 | 100 | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR) | 5:26 |
 
 Snapshot ID: `AAAAALL7kkPAZ9+K3hMkkRkHok08iL5o`

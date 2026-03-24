@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-309 songs - 18 hr 13 min
+312 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Closing Time](https://open.spotify.com/track/23xrcEqgh0u6BCM9ylmNZs) | [Joanne Bird](https://open.spotify.com/artist/046f6THMcnTnUdUFzn3tUD) | [Closing Time](https://open.spotify.com/album/5MmMjfRfjznR3cAs4tsdhq) | 4:08 | 2025-09-03 |  |
 | [Coldest Sea](https://open.spotify.com/track/4433aYr8rBSqRV2anhNySZ) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Coldest Sea](https://open.spotify.com/album/15Jd6gNC89RBvyYJKllfyk) | 4:53 | 2025-03-12 |  |
 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-10-26 |  |
-| [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 | 2023-02-23 |  |
+| [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 | 2023-02-23 | 2026-03-24 |
 | [Convince Yourself](https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [Convince Yourself](https://open.spotify.com/album/3GgDV6ldoI54egU3rfOBGZ) | 3:16 | 2023-09-29 |  |
 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 | 2023-04-06 |  |
 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 | 2023-09-21 | 2024-04-19 |
@@ -99,7 +99,7 @@
 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 | 2025-09-03 |  |
 | [He went to the mountains](https://open.spotify.com/track/6zAkJCn0MQUwUZzXsRcudV) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3) | [He went to the mountains](https://open.spotify.com/album/6mRF9DeOzvVlTOYrNxtjJo) | 4:10 | 2025-02-21 |  |
 | [Heart of a Mother](https://open.spotify.com/track/4M3h7LgNEFxJKJDXJ1wDrZ) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Heart of a Mother](https://open.spotify.com/album/6D6RDG4LPf7x4XfE44dNE3) | 4:32 | 2024-03-14 |  |
-| [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 | 2025-02-27 |  |
+| [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 | 2025-02-27 | 2026-03-24 |
 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 | 2026-01-23 |  |
 | [Hell Or High Water](https://open.spotify.com/track/54Sfi5x76ITYShTrjBnJkW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Hell Or High Water](https://open.spotify.com/album/401NCx9zSzgjKh4bwdluzS) | 3:40 | 2021-11-24 | 2025-03-22 |
 | [Hell Or High Water](https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Runaway \(Deluxe\)](https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6) | 3:40 | 2022-06-03 | 2024-04-19 |
@@ -162,6 +162,7 @@
 | [Lost on You](https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:27 | 2023-10-26 | 2024-04-19 |
 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 | 2022-06-03 | 2023-11-04 |
 | [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 | 2021-11-24 | 2024-10-23 |
+| [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 | 2026-03-23 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 | 2021-11-24 | 2024-11-23 |
 | [Love Out Loud](https://open.spotify.com/track/0kN2u6AkXMVfHKoITIQ7VQ) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/58Ah5j1LlglDcbbUG7Hpzw) | 3:08 | 2023-10-26 | 2024-04-19 |
 | [Love Out Loud](https://open.spotify.com/track/6ubU5Osy8DjTnVX7UNe0UL) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:08 | 2023-02-23 | 2023-11-20 |
@@ -174,7 +175,7 @@
 | [Make It on Your Own](https://open.spotify.com/track/6g3h5Me9cAPMZVlGWZbXlN) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Make It on Your Own](https://open.spotify.com/album/6ZrAnpp2UrLMB3EHoTGEgt) | 2:55 | 2021-11-24 | 2025-02-21 |
 | [Manifestation](https://open.spotify.com/track/72kUwbFY7c0ZbLGgs8IYQw) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Manifestation](https://open.spotify.com/album/36mCsWyAK2arL5ikNX6ib0) | 3:13 | 2025-11-11 |  |
 | [matter \- acoustic](https://open.spotify.com/track/1A2W8FDYmlxVnw2rb8XjyT) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [matter \(acoustic\)](https://open.spotify.com/album/5vwWSs8ggvKAy3UoP6XNbT) | 3:01 | 2025-02-03 |  |
-| [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 | 2025-11-11 |  |
+| [Mi Corazón](https://open.spotify.com/track/2ZW4J99gPkEHLEyUA86pL9) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Mi Corazón](https://open.spotify.com/album/1Y5gS6FbHlySA7wgWytjKb) | 3:15 | 2025-11-11 | 2026-03-24 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5RTWrfRc2uAppjSBoFhwDV) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:02 | 2022-06-03 | 2022-08-07 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/5p2QPQGojxx1vvr9RO90Zc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Mind Games](https://open.spotify.com/album/46hD6fRkBdOTynFXoxgT8y) | 3:02 | 2021-11-24 | 2025-03-22 |
 | [Mind Games \- Single Version](https://open.spotify.com/track/7tn4PbBRi6zJZrjj6FYGXg) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:02 | 2022-06-03 | 2024-04-19 |
@@ -243,6 +244,7 @@
 | [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 | 2023-05-27 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 | 2023-04-21 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 | 2023-10-27 |
+| [Someone's gotta be out there](https://open.spotify.com/track/1SRfCvRRuRN1y7ZRYsS8gv) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Someone's gotta be out there](https://open.spotify.com/album/1sTifJoyXKTI2HwMAiPHMW) | 2:22 | 2026-03-23 |  |
 | [Sorry](https://open.spotify.com/track/2YG9R7bf3gbbI6K2mKklvf) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Easy Sunny Morning](https://open.spotify.com/album/395vm4hYjijR0jLbWCx5Xy) | 3:46 | 2022-11-03 | 2022-11-13 |
 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 | 2022-06-03 | 2023-12-15 |
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2021-11-24 | 2022-07-29 |
@@ -272,6 +274,7 @@
 | [Teach Me How to Dance with You](https://open.spotify.com/track/2RvVimZp4g2LGMF4q9OlQO) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:36 | 2022-09-26 | 2024-03-25 |
 | [Teach Me How to Dance with You](https://open.spotify.com/track/4QImwTI39jBWqS6vS1Q8Qh) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Teach Me How to Dance with You](https://open.spotify.com/album/5BGScd4DAGvbgkAqALG6Fn) | 3:36 | 2022-11-03 | 2022-11-13 |
 | [Teach Me How to Dance with You](https://open.spotify.com/track/52YJBULh8SQQJrozbkBCE6) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/6UIcB2QDipPvUYCtsJNTSk) | 3:36 | 2022-06-03 | 2022-10-20 |
+| [The Beginning](https://open.spotify.com/track/0e8vSOY64eTGsrgLGsUWRc) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Printemps](https://open.spotify.com/album/0zyaz4cul0G1bD0BjfJFC4) | 3:11 | 2026-03-23 |  |
 | [The Dirt](https://open.spotify.com/track/2NDC19WBHec7k6ov7tbLgD) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [The Dirt](https://open.spotify.com/album/6z5nCymiIDTDBaClbPK0gv) | 2:41 | 2021-11-24 | 2025-09-04 |
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-03 |  |
 | [The Island](https://open.spotify.com/track/5rK6tUpOnpI2zig7JgtAGz) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Island](https://open.spotify.com/album/7HKuPYtqg01NQ899c8hK6x) | 5:08 | 2021-11-24 | 2023-10-07 |

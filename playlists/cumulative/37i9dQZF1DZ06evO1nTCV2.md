@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-281 songs - 17 hr 6 min
+282 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Just You Wait](https://open.spotify.com/track/0GKW4XdDgCMPXj5iHsUATW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:39 | 2024-12-08 | 2025-02-09 |
 | [La Cienega Just Smiled](https://open.spotify.com/track/0RCLN8khBH2i3SG52Gx4ts) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 5:01 | 2026-03-17 |  |
 | [La Cienega Just Smiled](https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 5:01 | 2022-01-11 | 2026-03-17 |
+| [Let It Ride \- Single Version](https://open.spotify.com/track/5KNEBv1HzJnufcfWpsihN1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Let It Ride](https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui) | 3:23 | 2026-03-24 |  |
 | [Letting the Light In](https://open.spotify.com/track/5HOpAP7MlarplRG2M27nzz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:54 | 2022-04-06 | 2022-06-01 |
 | [Likening Love to War](https://open.spotify.com/track/46mBkHPFbx8eFGx9hcjTlD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 5:13 | 2025-01-18 | 2025-02-07 |
 | [Living On A Prayer \- Live from Red Bank, NJ\. 2023](https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Livin' On A Prayer \(Live from Red Bank, NJ\. 2023\)](https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL) | 3:53 | 2024-07-29 | 2024-08-30 |
@@ -192,7 +193,7 @@
 | [Poison & Pain](https://open.spotify.com/track/4dqwEh4lhm3kndmNgLJjQM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Another Wednesday](https://open.spotify.com/album/1wbeh9yHkzIpWPmRpFF6fL) | 3:38 | 2025-02-16 | 2025-06-12 |
 | [Poor Connection](https://open.spotify.com/track/7Ddfa5uVpCRmj1tpcITo07) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:49 | 2022-05-16 | 2022-08-16 |
 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
-| [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 |  |
+| [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 | 2026-03-24 |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 | 2022-11-04 |
 | [Romeo & Juliet \- Live at Carnegie Hall, May 14, 2022](https://open.spotify.com/track/0PnC3S5ayY5MoT0fqIi227) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall \(Live at Carnegie Hall, May 14, 2022\)](https://open.spotify.com/album/4JUjiAuy48zaVjUhmwsaB9) | 4:57 | 2023-04-02 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:37 | 2022-10-16 | 2022-12-19 |

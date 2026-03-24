@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,607 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,722 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 10 | [LITTLE BITTER](https://open.spotify.com/track/3WmQoU7VAo1u0LlorYYnft) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [LITTLE BITTER](https://open.spotify.com/album/4kI31zyoimrclnDnJmlw65) | 2:53 |
 | 11 | [boomerang](https://open.spotify.com/track/7fCpisa4OwFU4s2sLf9XJG) | [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [boomerang](https://open.spotify.com/album/6AMTJEvNnPgkXRsCMxtkAK) | 2:43 |
 | 12 | [EMPURRA](https://open.spotify.com/track/4VKMrWdhJvNWcCZ8u8hT6R) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [bauti](https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf) | [EMPURRA](https://open.spotify.com/album/4oVQrBehJVUmwlWNilM22e) | 2:12 |
-| 13 | [Hold Back](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [Hold Back](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
+| 13 | [HOLD BACK](https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [HOLD BACK](https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s) | 2:13 |
 | 14 | [Dubplate Fly](https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [14ZERO](https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM) | 4:01 |
 | 15 | [OK OK \- Hamdi remix](https://open.spotify.com/track/401geNb9B5l7bFzi53Z3oP) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OK OK \(Hamdi remix\)](https://open.spotify.com/album/6POSPBtibhdNu2fQG4tUH7) | 3:16 |
 | 16 | [MOVE LIKE THAT](https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [MOVE LIKE THAT](https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b) | 2:20 |

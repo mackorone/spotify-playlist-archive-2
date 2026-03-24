@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,527 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,539 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | ["EMHDM"](https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | ["EMHDM"](https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI) | 3:03 |
 | 50 | [GAMINA](https://open.spotify.com/track/0YZOQUJTS3saBjtLczB0W5) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 2:26 |
 
-Snapshot ID: `MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

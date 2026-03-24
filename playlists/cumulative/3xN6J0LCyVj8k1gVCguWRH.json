@@ -17225,6 +17225,24 @@
     },
     {
       "album": {
+        "name": "I Left My Brain In 2012",
+        "url": "https://open.spotify.com/album/6NnOtfk6HnmQlefd4Br6UQ"
+      },
+      "artists": [
+        {
+          "name": "Isaai",
+          "url": "https://open.spotify.com/artist/7hIednWP0x0FWs2e15rQeS"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122039,
+      "name": "Chemo Sabe",
+      "url": "https://open.spotify.com/track/1IzchvogI03bAjWRWbNRPC"
+    },
+    {
+      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -25594,7 +25612,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 310480,
       "name": "Don't Say Nothing",
       "url": "https://open.spotify.com/track/1pJ9KUgaGDjxWhEGuoUcFF"
@@ -29190,7 +29208,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 189405,
       "name": "Entre un mill\u00f3n de estrellas",
       "url": "https://open.spotify.com/track/6beaVneL5Qhgd0Po0giUJl"
@@ -29462,7 +29480,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 106640,
       "name": "Eternity of Love",
       "url": "https://open.spotify.com/track/1gnEX6ce4EUj98JrXEae5X"
@@ -39836,7 +39854,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 162079,
       "name": "Guten Morgen, Sonnenschein",
       "url": "https://open.spotify.com/track/6sSqhAAlPFq7naHQbabzM9"
@@ -41410,7 +41428,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 203119,
       "name": "Hell No",
       "url": "https://open.spotify.com/track/2qXxy05MVMeWaxK8WKN5v8"
@@ -41508,7 +41526,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 224000,
       "name": "Help Me Help Them",
       "url": "https://open.spotify.com/track/1zHRZgDS7iwR9CiXCRs6MO"
@@ -41620,7 +41638,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 237799,
       "name": "Her Pov",
       "url": "https://open.spotify.com/track/1gnJZBwOuoxRdnNE9easKx"
@@ -45058,7 +45076,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 142164,
       "name": "I Glued Myself To The Universe",
       "url": "https://open.spotify.com/track/4k54YBXCFKH4n2VylV64nh"
@@ -52600,7 +52618,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 193811,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/4Bl2XWEsesIRqqiZ7DT09j"
@@ -52928,7 +52946,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 202919,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/6aL8z4bV0B1B3eQuFVTAuA"
@@ -61532,7 +61550,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 219611,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/74TvHZKKAAEK6BYZeCqoI7"
@@ -75700,7 +75718,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 205106,
       "name": "Prism",
       "url": "https://open.spotify.com/track/0Ttbg6khMk27tCoqt8XhJy"
@@ -88146,7 +88164,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 268719,
       "name": "Spring Is Coming (Feast Days | Moedim)",
       "url": "https://open.spotify.com/track/6u8O0wWNgVRVUI45ENPrUC"
@@ -91582,7 +91600,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 189333,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/6bXFlkQzM5kBhUvdN3ytSH"
@@ -111082,6 +111100,24 @@
       "duration_ms": 296000,
       "name": "\u05d4\u05db\u05dc \u05d1\u05e1\u05d3\u05e8?!",
       "url": "https://open.spotify.com/track/6s3vfOQjmv9ZM8lhMbYxeE"
+    },
+    {
+      "album": {
+        "name": "\u5821\u5792 (B\u01ceol\u011bi - Fortress)",
+        "url": "https://open.spotify.com/album/0hELtAV8iLD51u6mNc5G7j"
+      },
+      "artists": [
+        {
+          "name": "Nica Tan Li | \u59ae\u5361\u00b7\u5766\u4e3d",
+          "url": "https://open.spotify.com/artist/3XxwS6fQdVXNU2TPYy7kWn"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166719,
+      "name": "\u5821\u5792 (B\u01ceol\u011bi - Fortress)",
+      "url": "https://open.spotify.com/track/5bWUsRbk3tYrFOwYraHYJD"
     },
     {
       "album": {

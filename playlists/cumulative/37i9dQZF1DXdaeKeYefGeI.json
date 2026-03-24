@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 179293,
       "name": "Het Geluid Van Stilte",
       "url": "https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V"
@@ -3354,6 +3354,24 @@
       "duration_ms": 281515,
       "name": "Ongeveer",
       "url": "https://open.spotify.com/track/197PHOBtgwBTSky9oye0u9"
+    },
+    {
+      "album": {
+        "name": "Ons Hart",
+        "url": "https://open.spotify.com/album/2SVy3vM8Lw9w9MOXICtsJI"
+      },
+      "artists": [
+        {
+          "name": "Akwasi",
+          "url": "https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174234,
+      "name": "Ons Hart",
+      "url": "https://open.spotify.com/track/1twrDS67jyp2YXGZ89jAF3"
     },
     {
       "album": {

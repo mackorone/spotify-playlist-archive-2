@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Gracias por las sugerencias, añadidos los temas más pedidos.<br/>Feat\. Omar Courtz
+> Si está pegao, está aquí\. Feat\. Quevedo
 
 942 songs - 2 day 3 hr 58 min
 

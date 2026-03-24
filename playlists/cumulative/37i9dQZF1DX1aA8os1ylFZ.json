@@ -8008,7 +8008,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 265680,
       "name": "My Absolute - Remake",
       "url": "https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO"
@@ -9682,6 +9682,24 @@
       "duration_ms": 379004,
       "name": "PRICE OF FAME",
       "url": "https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH"
+    },
+    {
+      "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
     },
     {
       "album": {

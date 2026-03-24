@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "An Awesome Thing (Reimagined)",
+        "url": "https://open.spotify.com/album/3ZJu2EcvXjUfaccoyU5dso"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "An Awesome Thing (Reimagined)",
+      "url": "https://open.spotify.com/track/5uKGdOSqdoOcQ5kdA286Aw"
+    },
+    {
+      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 305319,
       "name": "Deep Cries Out",
       "url": "https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd"
@@ -464,7 +482,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 158166,
       "name": "Do Not Fear (Isaiah 41:10) - Kids Worship Edition",
       "url": "https://open.spotify.com/track/6cYB5DbQPghcNKYVKU8asy"
@@ -621,6 +639,24 @@
     },
     {
       "album": {
+        "name": "For God So Loved the World (John 3:16)",
+        "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125397,
+      "name": "For God So Loved the World (John 3:16)",
+      "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
+    },
+    {
+      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
       },
@@ -668,7 +704,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 173403,
       "name": "From the Rising of the Sun (Psalm 113:3-5 ESV)",
       "url": "https://open.spotify.com/track/5m6OS0i0JwQhgawp5cfn97"
@@ -762,7 +798,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 169065,
       "name": "God Is for Me",
       "url": "https://open.spotify.com/track/4iOtTdKbyUQubznmPCV7BM"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 163911,
       "name": "Great Friend",
       "url": "https://open.spotify.com/track/0X6blOgOOxkQKOSt4jCsLz"
@@ -950,7 +986,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 164259,
       "name": "He Is the Light",
       "url": "https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7"
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 123243,
       "name": "I Will Worship The Lord",
       "url": "https://open.spotify.com/track/5qkAd5c8LJ54kmi3ihvm2B"
@@ -1203,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Sunday Songs",
+        "url": "https://open.spotify.com/album/2Fh0eiGiSGrvPWiV13gy66"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
+        {
+          "name": "Caleb Kirkland",
+          "url": "https://open.spotify.com/artist/0soJ846Ditx9OujgZJur4e"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144890,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/6LWGnDS2L4kpxjckKqkgzF"
+    },
+    {
+      "album": {
         "name": "Jesus Loves Me",
         "url": "https://open.spotify.com/album/3KOm9XWmIqqVmGbcovRnUS"
       },
@@ -1268,7 +1326,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 68491,
       "name": "John 3:16",
       "url": "https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV"
@@ -1485,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "My Bible",
+        "url": "https://open.spotify.com/album/0ocRT0Vobro8SZY2Wuz9Jz"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "My Bible",
+      "url": "https://open.spotify.com/track/4jLLhcfW5yNf41HxBUjiVH"
+    },
+    {
+      "album": {
         "name": "Taste and See",
         "url": "https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY"
       },
@@ -1547,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Noah\u2019s Tool Song",
+        "url": "https://open.spotify.com/album/39HXFHfSzHoXECnBS3kk8Z"
+      },
+      "artists": [
+        {
+          "name": "Good News Guys",
+          "url": "https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "Noah\u2019s Tool Song",
+      "url": "https://open.spotify.com/track/0UXCBwlHuzPW8yFkbAwM3L"
+    },
+    {
+      "album": {
         "name": "iWorship Kids 3",
         "url": "https://open.spotify.com/album/0AXeewZ1X95EqTNGy9T92Q"
       },
@@ -1558,7 +1652,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 200020,
       "name": "Offering",
       "url": "https://open.spotify.com/track/3RYfCXHMK7eLqV9k1NzDiV"
@@ -1580,7 +1674,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 149906,
       "name": "Oh Come, Let Us Worship",
       "url": "https://open.spotify.com/track/7h19A0XhUCeWo7mNC3sgx3"
@@ -1678,7 +1772,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 193160,
       "name": "Power (Acts 1:8 Esv)",
       "url": "https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm"
@@ -1834,7 +1928,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 183151,
       "name": "So Much More (John 21:25 ESV)",
       "url": "https://open.spotify.com/track/2pPsfoIBlqSI0sRJVWQbhZ"
@@ -1852,7 +1946,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Spring Sings",
       "url": "https://open.spotify.com/track/0AIAI0gEUkN4di7wx4nPov"
@@ -1931,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Praise God: Worship Songs for Kids",
+        "url": "https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA"
+      },
+      "artists": [
+        {
+          "name": "Sticky Kids",
+          "url": "https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177611,
+      "name": "The Arky Arky Song",
+      "url": "https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl"
+    },
+    {
+      "album": {
         "name": "Living Color",
         "url": "https://open.spotify.com/album/5R2pbzaWxfGNX8ar41wjkf"
       },
@@ -1946,6 +2058,24 @@
       "duration_ms": 267042,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/62MIyeR42atsXPWWSon90Q"
+    },
+    {
+      "album": {
+        "name": "The Creation (Genesis 1:1)",
+        "url": "https://open.spotify.com/album/57gEQgjvTWgrn7OpgqCRCU"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97085,
+      "name": "The Creation (Genesis 1:1)",
+      "url": "https://open.spotify.com/track/6P0Ght8RuSmm0eiN61c6Xn"
     },
     {
       "album": {
@@ -2108,7 +2238,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 134322,
       "name": "This Little Light of Mine",
       "url": "https://open.spotify.com/track/75JqUtlGJZXysWPR57rvSJ"
@@ -2372,7 +2502,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 209520,
       "name": "Won't Let Go (feat. Cole Novak)",
       "url": "https://open.spotify.com/track/468Cpwss1N8UhVqAJBx11O"
@@ -2448,7 +2578,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 267023,
       "name": "You Make Me Brave",
       "url": "https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo"
@@ -2536,6 +2666,24 @@
       "duration_ms": 242235,
       "name": "Your Ways (Isaiah 55) - Live",
       "url": "https://open.spotify.com/track/3jmXhvsA6Y9SQX5HohC26n"
+    },
+    {
+      "album": {
+        "name": "Zaphenath-Paneah",
+        "url": "https://open.spotify.com/album/1R86zqSXZUOa8YzeCcUahT"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Zaphenath-Paneah",
+      "url": "https://open.spotify.com/track/0ix7G2QeKm326GI71bElVG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcC9sWdkmZbU"

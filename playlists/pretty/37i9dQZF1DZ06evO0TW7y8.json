@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 324065,
+  "num_followers": 324089,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAZTTJ5FC/2L2ab0uBTKoCA",
+  "snapshot_id": "ab8xAAAAAABcqN38WXDt07BG+0YmqL1+",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Where Did I Go?",
-      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Price Of It All (Music From the Original Series \"Bait\")",
-        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Price Of It All",
-      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
+      "duration_ms": 191992,
+      "name": "Where Did I Go?",
+      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 232630,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV"
+      "duration_ms": 357960,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 357960,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+      "duration_ms": 232630,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV"
     },
     {
       "added_at": null,

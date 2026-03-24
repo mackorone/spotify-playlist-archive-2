@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9023,
+  "num_followers": 9026,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAM5ibZBBnW6tWVkQ7d53ln",
+  "snapshot_id": "ab8xAAAAAAClEqrU50IkfFDcdUajvzrX",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mina Quente",
+        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "taldiBruna",
+          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
+        }
+      ],
+      "duration_ms": 233357,
+      "name": "Set Btrem - As Minas do Rio",
+      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outro Som de Sacanagem",
         "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
@@ -955,46 +995,6 @@
       "duration_ms": 127866,
       "name": "cria de caxias",
       "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mina Quente",
-        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "taldiBruna",
-          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
-        }
-      ],
-      "duration_ms": 233357,
-      "name": "Set Btrem - As Minas do Rio",
-      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
     },
     {
       "added_at": null,

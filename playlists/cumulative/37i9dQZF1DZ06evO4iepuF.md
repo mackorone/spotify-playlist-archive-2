@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-122 songs - 3 hr 58 min
+123 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 | 2024-12-14 | 2025-06-07 |
 | [fantasy world](https://open.spotify.com/track/0pw9A3y3zdv9PQ9OCBaMwT) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 2:33 | 2025-06-30 | 2025-07-10 |
 | [feel like a folder](https://open.spotify.com/track/15jlJhtJB2vrgy2zUOobN0) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:27 | 2024-12-14 |  |
+| [first thing](https://open.spotify.com/track/6gDNltaZ6lgkffabRFC0SH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:44 | 2026-03-24 |  |
 | [floating!](https://open.spotify.com/track/2aNSeFTOT0g94FsTYFhZpn) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [floating!](https://open.spotify.com/album/25bETwAaO6uWv6RtDiLxD9) | 1:04 | 2024-12-14 | 2026-03-10 |
 | [for you](https://open.spotify.com/track/48gn8xtsCaYQjBnHmVMvSN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [for you](https://open.spotify.com/album/3cB8j0mIGPbXfpsqHF9QgW) | 1:09 | 2025-05-11 | 2025-05-25 |
 | [free falling](https://open.spotify.com/track/6P0fdIOhMJdrkzaqrCgMpE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling](https://open.spotify.com/album/2466ogzhqDOXmr0T4J3l7g) | 1:31 | 2025-09-12 | 2025-09-19 |
@@ -69,7 +70,7 @@
 | [idk how to make music whore](https://open.spotify.com/track/7KMQ7rpiU7eqq8uYtfqaBy) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:04 | 2025-09-04 | 2025-09-16 |
 | [im part of the PAWblem​!​!](https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [im part of the PAWblem​!​!](https://open.spotify.com/album/660oyPv15JOys26fZXNdE7) | 1:40 | 2024-12-14 |  |
 | [in my heart](https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx) | 2:14 | 2024-12-14 | 2026-03-20 |
-| [inhuman](https://open.spotify.com/track/3n30RfCNebeSTEcj08kkx4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:24 | 2024-12-14 |  |
+| [inhuman](https://open.spotify.com/track/3n30RfCNebeSTEcj08kkx4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:24 | 2024-12-14 | 2026-03-24 |
 | [iNSaNiTY](https://open.spotify.com/track/1SQK8160GZWi2tBJBqqT76) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [iNSaNiTY](https://open.spotify.com/album/6jfjgXQEMUrulLtER06jsc) | 4:57 | 2025-09-04 |  |
 | [intergalactic fractal](https://open.spotify.com/track/5cWLlJafnB5ALhSUmS72mi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [intergalactic fractal](https://open.spotify.com/album/2QyKIZdMkffelqWfcpvt37) | 1:11 | 2024-12-14 |  |
 | [it will be okay!!](https://open.spotify.com/track/1S3tp6591XdTxZw7Q1PQQr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [it will be okay!!](https://open.spotify.com/album/5L5c4lAg9iFRR1o3MkdUNw) | 2:22 | 2024-12-14 |  |

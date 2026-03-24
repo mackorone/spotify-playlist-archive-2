@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 44 songs - 2 hr 45 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 |
 | 43 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 |
 | 44 | [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 |
+| 45 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 |
+| 46 | [Feels Good](https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B) | [Jude Todd](https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le) | [Feels Good](https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG) | 2:14 |
 
-Snapshot ID: `AAAkFVIJCfU7jpH9gbtS/AiN8xerV0b6`
+Snapshot ID: `AAAkF8VPyzoDU9VTpfATcGbONilahtux`

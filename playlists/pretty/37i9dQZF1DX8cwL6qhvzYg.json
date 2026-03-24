@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 444866,
+  "num_followers": 445007,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 281640,
       "name": "T\u00fa Me Haces Falta",
       "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Me Voy al Amanecer",
+        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 202029,
+      "name": "Me Voy al Amanecer",
+      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Dame Una Se\u00f1al",
         "url": "https://open.spotify.com/album/4zFH3sOTGYIC3rsCqW2W2N"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 280807,
       "name": "Dame Una Se\u00f1al",
       "url": "https://open.spotify.com/track/3iAD9ey6jjDwihBDaML2Mr"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Me Voy al Amanecer",
-        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 202029,
-      "name": "Me Voy al Amanecer",
-      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Quiero Ser Feliz",
-        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
-      },
-      "artists": [
-        {
-          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Sue\u00f1o del Alma",
-      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
         "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 170500,
       "name": "Sera El Amor",
       "url": "https://open.spotify.com/track/4hi3efC8QrfV2PIJ8tE7sh"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Quiero Ser Feliz",
+        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
+      },
+      "artists": [
+        {
+          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Sue\u00f1o del Alma",
+      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache (En Vivo)",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 198843,
       "name": "Coronada",
       "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache (En Vivo)",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1215,26 +1215,6 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "El Negrito - En Vivo",
-      "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "El Negrito - En Vivo",
+      "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1307,6 +1307,42 @@
       "duration_ms": 250541,
       "name": "Dile, Cuentale",
       "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 151928,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1343,42 +1379,6 @@
       "duration_ms": 194986,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Martin Ramos",
-          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
-      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 151928,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "En Contacto (En Vivo)",
+        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "El Agua Clara - En Vivo",
+      "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Desde la Expogan 2023",
         "url": "https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 138332,
       "name": "La Maquina",
       "url": "https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1483,22 +1487,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "En Contacto (En Vivo)",
-        "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
       "artists": [
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 172608,
-      "name": "El Agua Clara - En Vivo",
-      "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "La Minifalda (En Vivo)",
-        "url": "https://open.spotify.com/album/7uqv2mkX3wX8DqOFL3oMdC"
-      },
-      "artists": [
-        {
-          "name": "Los Rk Oficial",
-          "url": "https://open.spotify.com/artist/6YVykXdVX5iIbzvdK6tqAP"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "La Minifalda - En Vivo",
-      "url": "https://open.spotify.com/track/7in4vqCYwHd3yVcEyazmf4"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 180671,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "La Minifalda (En Vivo)",
+        "url": "https://open.spotify.com/album/7uqv2mkX3wX8DqOFL3oMdC"
+      },
+      "artists": [
+        {
+          "name": "Los Rk Oficial",
+          "url": "https://open.spotify.com/artist/6YVykXdVX5iIbzvdK6tqAP"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "La Minifalda - En Vivo",
+      "url": "https://open.spotify.com/track/7in4vqCYwHd3yVcEyazmf4"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Ya No Hay Beatles (2026 Remasterizada)",
+        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 168917,
+      "name": "Ya No Hay Beatles - 2026 Remasterizada",
+      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Cumbia de la Paz",
         "url": "https://open.spotify.com/album/7uDifysgu7cgcCWT4EKFTW"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 166083,
       "name": "Bajo el Trupillo Guajiro",
       "url": "https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Ya No Hay Beatles (2026 Remasterizada)",
-        "url": "https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 168917,
-      "name": "Ya No Hay Beatles - 2026 Remasterizada",
-      "url": "https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ"
     },
     {
       "added_at": "2026-03-13 19:07:31",

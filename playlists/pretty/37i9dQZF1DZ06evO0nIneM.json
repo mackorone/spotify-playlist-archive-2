@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93492,
+  "num_followers": 93495,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABp/YsO5AOgiMzJc8zYvLVO",
+  "snapshot_id": "ab8xAAAAAADadUfnO/Yjr9k+gJ+gEroS",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Mooie Dag",
-      "url": "https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Is Liefde",
         "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 209755,
       "name": "Alles Is Liefde",
       "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Mooie Dag",
+      "url": "https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Blauwe Ruis",
-      "url": "https://open.spotify.com/track/65hR9p90SF1JUv4VCRnatj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watermakers",
         "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 225266,
       "name": "Ze Is Er Niet",
       "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Blauwe Ruis",
+      "url": "https://open.spotify.com/track/65hR9p90SF1JUv4VCRnatj"
     },
     {
       "added_at": null,

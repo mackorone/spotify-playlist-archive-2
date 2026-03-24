@@ -11267,6 +11267,28 @@
     },
     {
       "album": {
+        "name": "JUST A PART OF ME",
+        "url": "https://open.spotify.com/album/5vMxSOt0t5KJT9JUF6LEEZ"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "JUST A PART OF ME",
+      "url": "https://open.spotify.com/track/2yDlUK6T3DwuHDxtVPqwyV"
+    },
+    {
+      "album": {
         "name": "Just Dance",
         "url": "https://open.spotify.com/album/5JKQ1by0GaQLYzgR1IyyS4"
       },

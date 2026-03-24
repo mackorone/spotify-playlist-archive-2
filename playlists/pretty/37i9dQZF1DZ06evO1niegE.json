@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8933,
+  "num_followers": 8929,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADKOR3KQeppAVriL0C85vw4",
+  "snapshot_id": "ab8xAAAAAAASKwPpmtR71/gtqRJaurMG",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+        "name": "DESPEDIDA",
+        "url": "https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb"
       },
       "artists": [
         {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
+      "duration_ms": 213785,
+      "name": "DESPEDIDA",
+      "url": "https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 190053,
       "name": "Casual (YTQDV)",
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parece Un Chiste Con RENEE",
-        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 149731,
-      "name": "Parece Un Chiste",
-      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
     },
     {
       "added_at": null,
@@ -599,22 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESPEDIDA",
-        "url": "https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb"
+        "name": "Parece Un Chiste Con RENEE",
+        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
       },
       "artists": [
         {
-          "name": "Paco Miranda",
-          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 213785,
-      "name": "DESPEDIDA",
-      "url": "https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI"
+      "duration_ms": 149731,
+      "name": "Parece Un Chiste",
+      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
     },
     {
       "added_at": null,

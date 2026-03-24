@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1ycWjuaAGUQIlMOcAPWJJr"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ"
       },
@@ -260,7 +282,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 207360,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V"
@@ -705,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Samsaruh",
+          "url": "https://open.spotify.com/artist/1TsJYonLU3ogjhzPP9qOhu"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "Beneath The Silence",
+      "url": "https://open.spotify.com/track/6pjoDOlQKTrkTIDocNfO87"
+    },
+    {
+      "album": {
         "name": "Beneath The Silence",
         "url": "https://open.spotify.com/album/7fymCA6jtZGPLHe7xQ2jYm"
       },
@@ -720,7 +764,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 252413,
       "name": "Beneath The Silence",
       "url": "https://open.spotify.com/track/7Jxe0WEJBV9dVnTMhglzIy"
@@ -1244,7 +1288,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 202476,
       "name": "Chrysalis - Electronic",
       "url": "https://open.spotify.com/track/58CjMVyZtZoZBhsnIlDlHR"
@@ -2861,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212568,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4OsCyMfQCcj8ul3ZdkekL2"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0f7cB5hnss4BIKllYqeg6L"
       },
@@ -2872,7 +2934,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 212568,
       "name": "Home",
       "url": "https://open.spotify.com/track/69LMNzIhjmTMKsL0dJGH5q"
@@ -4227,6 +4289,28 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Samsaruh",
+          "url": "https://open.spotify.com/artist/1TsJYonLU3ogjhzPP9qOhu"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224886,
+      "name": "Love Is The Cure",
+      "url": "https://open.spotify.com/track/5tG9JP0rl2bIASUdQvGYZv"
+    },
+    {
+      "album": {
         "name": "Love Is The Cure",
         "url": "https://open.spotify.com/album/6vKJFosGLicoqtwrW0bpVf"
       },
@@ -4242,7 +4326,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 224886,
       "name": "Love Is The Cure",
       "url": "https://open.spotify.com/track/6bw4Uiz3QxgAiOHro34r20"
@@ -4413,6 +4497,28 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233268,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/2ioYHJBgmVWgsRczTJzQW6"
+    },
+    {
+      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -4532,7 +4638,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 152000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/3XovubwzGKYpP9Aite7eV9"
@@ -5099,6 +5205,28 @@
     },
     {
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Nicki Wells",
+          "url": "https://open.spotify.com/artist/0z6TVKyjgXLDIY0FSIIDUv"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219924,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/0xkHYe1uJtPMsnncKtejC3"
+    },
+    {
+      "album": {
         "name": "No Way Back",
         "url": "https://open.spotify.com/album/5s8xkA86nR4wb1IbsjExrF"
       },
@@ -5114,7 +5242,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 219924,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/7EsGZ6VujrpTScGwMfiNKP"
@@ -5242,10 +5370,32 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 212067,
       "name": "One",
       "url": "https://open.spotify.com/track/3dmYWFjHYZfhG1JpjsUCZr"
+    },
+    {
+      "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/6Vi09vrhiqUzAI2f69SIHh"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212067,
+      "name": "One",
+      "url": "https://open.spotify.com/track/4D5UXZvuzAeUM99JqEat8u"
     },
     {
       "album": {
@@ -5770,6 +5920,28 @@
       "duration_ms": 293972,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7"
+    },
+    {
+      "album": {
+        "name": "Reflections (Electronic)",
+        "url": "https://open.spotify.com/album/1RlG3jkWFY1RpRsdKiUN0s"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        },
+        {
+          "name": "Klama",
+          "url": "https://open.spotify.com/artist/7GWK6d9j0JrAUU8B55zRsY"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "Reflections - Electronic",
+      "url": "https://open.spotify.com/track/0TugQjIeUu0L0XMr8GGVGZ"
     },
     {
       "album": {

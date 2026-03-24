@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,275 likes - 141 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 142 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 80 | [Why Is She Still Here?](https://open.spotify.com/track/10RQeKnNwAUuGULmDd2Vp7) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:30 |
 | 81 | [say something](https://open.spotify.com/track/5QrXG4SLiyAo58HaHEJi19) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:24 |
 | 82 | [you're so cool](https://open.spotify.com/track/5XLgE4yoU9MyR5vkjNxpdF) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:50 |
-| 83 | [FAST](https://open.spotify.com/track/5fRyoUp0UOyt9OZqwao7tp) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [FAST](https://open.spotify.com/album/1ZWTlivbZSFkmow0ho97xf) | 3:14 |
-| 84 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
+| 83 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
+| 84 | [FAST](https://open.spotify.com/track/5fRyoUp0UOyt9OZqwao7tp) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [FAST](https://open.spotify.com/album/1ZWTlivbZSFkmow0ho97xf) | 3:14 |
 | 85 | [THE LINE \(feat\. d4vd\)](https://open.spotify.com/track/6peLcllXcq0BQ6XiwtlVA7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:32 |
 | 86 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 87 | [WHERE DO YOU SLEEP?](https://open.spotify.com/track/2og0kmQOGkkO1Ebjis0JqA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 |
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 139 | [Rapture](https://open.spotify.com/track/57RlvQFW7iYSoXQT0ig4KD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 3:24 |
 | 140 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 141 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
+| 142 | [The Visitor](https://open.spotify.com/track/09FguG41UTBFcJuj2sDssl) | [John Rod Dondoyano](https://open.spotify.com/artist/2opN2BRNgnBJIO932Kyr3U) | [The Visitor](https://open.spotify.com/album/5Kwri33nzNWZSmi7eRX9wW) | 3:55 |
 
-Snapshot ID: `AcM2FAAAAADJUmmdHhr+FEEaWe8gobxR`
+Snapshot ID: `AcM7tAAAAABgFNeconwkABfYCePuot9x`

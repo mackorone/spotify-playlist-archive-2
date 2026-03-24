@@ -7202,7 +7202,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 228075,
       "name": "Cirkas",
       "url": "https://open.spotify.com/track/61Ri0FdXdSxWshM78pQMAb"
@@ -12272,7 +12272,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -18332,7 +18332,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -29208,7 +29208,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -31890,6 +31890,24 @@
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj"
+    },
+    {
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172796,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
     },
     {
       "album": {
@@ -37942,7 +37960,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2RfaNuS3O8IblZzeI7PEHp"
@@ -44228,7 +44246,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 178437,
       "name": "VISI \u017dENKLAI",
       "url": "https://open.spotify.com/track/57l4D9dzqDcRS6gPWnFRZI"
@@ -47438,7 +47456,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 254165,
       "name": "\u0160ypsenos",
       "url": "https://open.spotify.com/track/5pK9XlCYezMBbdFNmiczMq"

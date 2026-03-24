@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,489 likes - 99 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,501 likes - 99 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 67 | [Credit Collector](https://open.spotify.com/track/3ZqN2iA11Lte0vwFLZUW6t) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [gLowDaKidd](https://open.spotify.com/artist/62Cddbv2BB2J6cmt1xSOzv) | [Credit Collector](https://open.spotify.com/album/4go55TNBwonxqzIXucVpBT) | 2:46 |
 | 68 | [LOCKED IN](https://open.spotify.com/track/4xnp33xgbXmzDv3ptrgBXT) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [LOCKED IN](https://open.spotify.com/album/4DfBb1FxKSna3f2TIyxfLa) | 2:28 |
 | 69 | [Swish Swish](https://open.spotify.com/track/3dQpwPKTHS69f0Oiyqbu4c) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Swish Swish](https://open.spotify.com/album/2vM0TfXRcbK2rHLPGWfLpW) | 2:24 |
-| 70 | [OLD ME](https://open.spotify.com/track/57D0ELUjvKxsmaqlywRjhD) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u), [2ru](https://open.spotify.com/artist/3TqUV6HnhPZaZz4lhKF3LY) | [OLD ME](https://open.spotify.com/album/1NT0rHpBdyA5oxjtzkC3eD) | 3:24 |
+| 70 | [OLD ME](https://open.spotify.com/track/57D0ELUjvKxsmaqlywRjhD) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u), [2ru](https://open.spotify.com/artist/65WOOSO9d8f7PvqgHqGWj3) | [OLD ME](https://open.spotify.com/album/1NT0rHpBdyA5oxjtzkC3eD) | 3:24 |
 | 71 | [Valley](https://open.spotify.com/track/0HH3uVsAUpi8gwh64LY9i5) | [THIAGO](https://open.spotify.com/artist/2FJfmQKv4jm8Zfi5K9uaUO), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Valley](https://open.spotify.com/album/5fYnfkNEBp3GQF6eIPQXYg) | 3:05 |
 | 72 | [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 |
 | 73 | [VULNERABLE](https://open.spotify.com/track/1VyhOEutHm8fhycDyid6oq) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [DreBeeze Da Godson](https://open.spotify.com/artist/2HVOHorbpCUYRkYjNuQS93) | [VULNERABLE](https://open.spotify.com/album/0oRk8mfwxkndUzjG7USTTo) | 2:45 |

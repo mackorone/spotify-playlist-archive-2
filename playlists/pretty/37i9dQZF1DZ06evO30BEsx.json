@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1916,
+  "num_followers": 1917,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADjS0fb2l9tdt1T5+Xt8b3c",
+  "snapshot_id": "ab8xAAAAAACsIuVJBmoIJcH4susiBx1n",
   "tracks": [
     {
       "added_at": null,
@@ -519,34 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
-        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Andreas Ottensamer",
-          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 459213,
-      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
-      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destination Paris",
         "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
@@ -571,6 +543,34 @@
       "duration_ms": 152600,
       "name": "Heure exquise (From La Veuve joyeuse)",
       "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
+        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 459213,
+      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
+      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
         "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
@@ -1059,34 +1087,6 @@
       "duration_ms": 253253,
       "name": "Over the Rainbow (From \"The Wizard of Oz\")",
       "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        }
-      ],
-      "duration_ms": 387440,
-      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
     },
     {
       "added_at": null,
@@ -1243,6 +1243,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 342626,
       "name": "Boreas",
       "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAACLCjhyIUW+8oekOPpT38Q9",
+  "snapshot_id": "ab8xAAAAAAAKlpL/KuSH37R0m9ZAu5rr",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Occult Box (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 320320,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Were There",
         "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
       },
@@ -132,25 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What You Would Hear",
-        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 235768,
-      "name": "What You Would Hear",
-      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+        "name": "What You Would Hear",
+        "url": "https://open.spotify.com/album/3BOEbFnyzuUNQvKITmKGrR"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
+      "duration_ms": 235768,
+      "name": "What You Would Hear",
+      "url": "https://open.spotify.com/track/4gL7RlSNgtRcl567oOVkYY"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
+      "duration_ms": 218705,
+      "name": "The Vine",
+      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218705,
-      "name": "The Vine",
-      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
     }
   ],
   "unique_name": "This Is Salt Creek",

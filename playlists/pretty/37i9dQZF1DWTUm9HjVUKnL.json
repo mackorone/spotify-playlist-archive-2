@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAAIRAVR4XTU4D+OWMSVbct4dlakzA",
   "tracks": [
+    {
+      "added_at": "2026-03-23 12:49:49",
+      "album": {
+        "name": "The Best of Both Worlds (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 180061,
+      "name": "The Best of Both Worlds - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf"
+    },
     {
       "added_at": "2026-03-05 20:08:28",
       "album": {

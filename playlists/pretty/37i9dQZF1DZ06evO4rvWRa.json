@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638233,
+  "num_followers": 1638216,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABrHwZ7a4HqA95UqOZ4NZtc",
+  "snapshot_id": "ab8xAAAAAACGsK9cbVhIxTL5Cz+ou4bK",
   "tracks": [
     {
       "added_at": null,
@@ -307,34 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "SEUNGRI",
-          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
-        }
-      ],
-      "duration_ms": 210288,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
       },
@@ -359,6 +331,34 @@
       "duration_ms": 167976,
       "name": "Play",
       "url": "https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "SEUNGRI",
+          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
+        }
+      ],
+      "duration_ms": 210288,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Home",
-        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 120624,
-      "name": "Not Home",
-      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak Melody",
         "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 191830,
       "name": "Heartbreak Melody",
       "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Habits (From Delta Force Game)",
         "url": "https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 190926,
       "name": "Old Habits (From Delta Force Game)",
       "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": null,

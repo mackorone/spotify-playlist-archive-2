@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,177 songs - 9 day 6 hr 25 min
+4,180 songs - 9 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3475,7 +3475,7 @@
 | [Summer of the Shark](https://open.spotify.com/track/5UcbZB06vuCDRaG4EflhBc) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [The Great Regression](https://open.spotify.com/album/7CHysqi9XojKnr2DpqfHG1) | 2:49 | 2025-11-04 |  |
 | [Sun On My Brain](https://open.spotify.com/track/6Pm6sScJg8Z2xGoaMt8hAg) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac), [Cyber Bully](https://open.spotify.com/artist/0COIH4xHDEcFfN0x0p2x7e) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:34 | 2025-07-01 |  |
 | [sun&moon](https://open.spotify.com/track/1gmOkIOhtOu0NYfJ2NOJiB) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:41 | 2026-02-01 |  |
-| [Sunday](https://open.spotify.com/track/1rBSCtZ1wkeFATpnZ9bTKL) | [Myqwan](https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW), [rhver](https://open.spotify.com/artist/61XecHCUKmtyHxjUjEGTw2) | [Sunday](https://open.spotify.com/album/1KSuUHadYkDa2ofZWbQvjU) | 2:04 | 2025-10-07 |  |
+| [Sunday](https://open.spotify.com/track/1rBSCtZ1wkeFATpnZ9bTKL) | [Myqwan](https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW) | [Sunday](https://open.spotify.com/album/1KSuUHadYkDa2ofZWbQvjU) | 2:04 | 2025-10-07 |  |
 | [Sunny Laxx \- Instrumental Version](https://open.spotify.com/track/4YsBNrob4b0iJqiEjKfZMj) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Can't please everyone \(Instrumental Versions\)](https://open.spotify.com/album/7cmbPn2zMRLL1gJf3UlTle) | 3:52 | 2025-07-02 |  |
 | [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 | 2026-02-16 |  |
 | [Sunrise](https://open.spotify.com/track/7tl6dTehSZtwoaEVywqDUF) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:34 | 2025-09-26 |  |
@@ -3535,6 +3535,7 @@
 | [Take Me Back](https://open.spotify.com/track/7BCT9UAhxcYuHQN8JVI1g6) | [CJB Jnr](https://open.spotify.com/artist/7BsNlZZVLEHXzDKaAYRgui), [Pulse Music Ent](https://open.spotify.com/artist/1I5ORkmGfHlBxLUssLC0fo) | [Resurrection](https://open.spotify.com/album/62B0vNPOeLFxBbtCe0tRG5) | 4:18 | 2025-11-24 |  |
 | [Take Me On](https://open.spotify.com/track/78ss9sJxFyTLnC0qOmce9J) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [Take Me On](https://open.spotify.com/album/3lC1EqYHqkYxTmH3hOVQzJ) | 2:36 | 2025-08-18 |  |
 | [Take the Night](https://open.spotify.com/track/3BkQ6VtWiFKhkyQ5whtddS) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Take the Night](https://open.spotify.com/album/50snlwgkjDK8Dx5z9pZDhf) | 3:21 | 2025-05-22 |  |
+| [Take your time](https://open.spotify.com/track/6k43hYhureKliDglbdwkSP) | [ARTIC BABA](https://open.spotify.com/artist/7DXL7EaMxzmogl4Zs0Dvud) | [Take your time](https://open.spotify.com/album/358Zd3t23VYFfKiDzGP9os) | 3:53 | 2026-03-23 |  |
 | [Taklukan Egoku](https://open.spotify.com/track/3OGFKV63C7j7A72ejdGBzL) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Taklukan Egoku](https://open.spotify.com/album/5hRcG8mjx1X1RQICSQWhNt) | 3:05 | 2025-06-11 |  |
 | [Tales](https://open.spotify.com/track/2P0uIabsr1ZJIS6Q9qpQyR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:59 | 2025-08-20 |  |
 | [Tales \(another\)](https://open.spotify.com/track/7gyHbg1Ga56d4yA0LAPfQV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:39 | 2025-08-20 |  |
@@ -3626,6 +3627,7 @@
 | [The Rustle of Tomorrow](https://open.spotify.com/track/36KXI2Bj6EnztjozCgXL7r) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:29 | 2025-09-19 |  |
 | [The Rustle of Tomorrow \(another\)](https://open.spotify.com/track/6bJpxqzexfceCIFfk7cPFY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:31 | 2025-09-19 |  |
 | [The Same](https://open.spotify.com/track/0iVmfN4Un1VRuMsEnlO673) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [Femme Fatale](https://open.spotify.com/album/1qR865q68eI3yrc6Kq2Miq) | 2:10 | 2025-11-16 |  |
+| [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 |  |
 | [The Sea Is My Friend](https://open.spotify.com/track/5fLlgagZIXX3z8t9tSewXY) | [The Dream Machine](https://open.spotify.com/artist/2ngmfPvH3LUeSGOX0kXIgi) | [Vol 2: On The Water](https://open.spotify.com/album/7KCF84Dt27IiTg0baJasv2) | 2:13 | 2025-11-05 |  |
 | [The Sinner & the Saint](https://open.spotify.com/track/5mZkuKUQgZ249uB9cq45G0) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya) | [Broken](https://open.spotify.com/album/7gZ1s1zTcGtPPP5ZrLHuy4) | 3:42 | 2025-07-19 |  |
 | [the sleeppin dead](https://open.spotify.com/track/7kCk3ACL37w1qHkFJkNjxv) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:22 | 2025-10-03 |  |
@@ -3684,6 +3686,7 @@
 | [Time](https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq) | [Saint Cassady](https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU) | [Time](https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV) | 3:34 | 2026-01-01 | 2026-02-06 |
 | [Time Bomb](https://open.spotify.com/track/00KwdidNkOntPgDsBHBYPs) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [Time Bomb](https://open.spotify.com/album/79PyZH8T3m2vezl3B5NeQt) | 3:19 | 2025-06-05 |  |
 | [Time for the Other Song](https://open.spotify.com/track/7mabZvppZ7FTLrsWO9GJYJ) | [Carbox](https://open.spotify.com/artist/3b7TkmnH3ZNro3MJlhTRMl) | [Dark Down](https://open.spotify.com/album/0qAizbg3D61QB2pZe10dQC) | 4:07 | 2025-10-07 |  |
+| [TIME PASSES](https://open.spotify.com/track/5VhNq876BupaVKaIl7cgzx) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:07 | 2026-03-23 |  |
 | [Timeless Love](https://open.spotify.com/track/3xMFvP0X8VPOu1xbw29nVu) | [MAX LRF](https://open.spotify.com/artist/7DWogRuA8IOFVZn8YXEI00) | [Timeless Love](https://open.spotify.com/album/2wkFV9ZPXsXABdDiTJ3bY0) | 3:44 | 2025-04-05 |  |
 | [Times In Nines](https://open.spotify.com/track/5VVzMEj50XeSrY2CBnzvaC) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [With You \(Days In Nines\)](https://open.spotify.com/album/0mT6aPu2ePb3lvjrqQM1Xz) | 3:20 | 2025-03-03 |  |
 | [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 | 2025-11-24 |  |

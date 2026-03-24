@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Hollander. The essential tracks, all in one playlist.",
-  "num_followers": 27,
+  "num_followers": 26,
   "original_name": "This Is Celia Hollander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAB9EiYjot4kra4z7L+DfOMw",
+  "snapshot_id": "ab8xAAAAAADArgGDKFbxX/u4bCglQVZi",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 218029,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO"
+      "duration_ms": 108680,
+      "name": "Night Bloomer",
+      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 108680,
-      "name": "Night Bloomer",
-      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
+      "duration_ms": 218029,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 80888,
-      "name": "Air / Air",
-      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
+      "duration_ms": 172421,
+      "name": "Water / Water",
+      "url": "https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 172421,
-      "name": "Water / Water",
-      "url": "https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7"
+      "duration_ms": 80888,
+      "name": "Air / Air",
+      "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
     }
   ],
   "unique_name": "This Is Celia Hollander",

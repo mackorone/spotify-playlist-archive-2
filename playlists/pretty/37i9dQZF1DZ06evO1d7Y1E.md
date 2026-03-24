@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 > This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,720 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,712 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 45 | [Frio e Calculista](https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [DiCastro](https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:43 |
 | 46 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 |
 | 47 | [Sigo na Fé do Pai](https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Bielzin](https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O) | [Sigo na Fé do Pai](https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ) | 4:24 |
-| 48 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
+| 48 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
 | 49 | [Pesadão](https://open.spotify.com/track/5X4PNc9g7KIQSRk4crioOO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:49 |
-| 50 | [No Baile Nós É Mídia](https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ) | [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [No Baile Nós É Mídia](https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr) | 2:02 |
+| 50 | [Vida de Chefe](https://open.spotify.com/track/6tMrKuPeS4WXORZf8pASCr) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Vida de Chefe](https://open.spotify.com/album/1AXdA0ag7FPITUgyXsbW8T) | 2:48 |
 
-Snapshot ID: `ab3fgAAAAABuItg/0qokFL1FjL/bpgWG`
+Snapshot ID: `ab8xAAAAAADl228rDmBtR/7sAo8yyggM`

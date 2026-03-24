@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Augustine
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,987 likes - 262 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,002 likes - 262 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 55678,
+  "num_followers": 55681,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABR367INHbj2QpGcamP2E+A",
+  "snapshot_id": "ab8xAAAAAADbjARkDijgvMWH7AnmW25o",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 240379,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
+      "duration_ms": 170080,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 170080,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
+      "duration_ms": 240379,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9644,
+  "num_followers": 9643,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADtpd/Fs0m4GxFc49t6a4mE",
+  "snapshot_id": "ab8xAAAAAAAMrONF0CqtrKZTnLnmtIv3",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 122600,
-      "name": "I'll Remember For Me, I'll Remember For You",
-      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Passed Me By",
-      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     }
   ],
   "unique_name": "This Is Yaeji",

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-254 songs - 15 hr 24 min
+255 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 | 2024-04-18 | 2026-01-23 |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 | 2024-04-19 |
 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 | 2025-06-06 |
-| [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 | 2024-06-12 |  |
+| [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 | 2024-06-12 | 2026-03-24 |
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 |  |
 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 | 2023-12-05 | 2024-10-04 |
 | [Het Land van Koning Jan](https://open.spotify.com/track/4szdNd2JPBB9ZbKQbg3MFs) | [Josee Koning](https://open.spotify.com/artist/3PRhhgaXVHQakRPsQ7AOHR), [Jim de Groot](https://open.spotify.com/artist/2FfF1kzEqtGUJ4dmvt6ssc), [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Testament \- Lennaert Nijgh 75 Jaar](https://open.spotify.com/album/5Doruzt40llLcaa2k886Kh) | 4:26 | 2023-02-10 | 2023-09-15 |
@@ -186,6 +186,7 @@
 | [Onderaan De Dijk](https://open.spotify.com/track/0fpPlJwTctbUBo94f1mJ8F) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Herman van Veen Plus](https://open.spotify.com/album/1wqI5QPzyIUJkE9Yzmi9Fs) | 2:49 | 2025-11-03 |  |
 | [Onderwater](https://open.spotify.com/track/208q1Mqq8Y9Sbn5o88qaBC) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Onderwater](https://open.spotify.com/album/5tTBQdqzBW0s3uA4pWzf55) | 3:01 | 2023-11-09 | 2025-05-23 |
 | [Ongeveer](https://open.spotify.com/track/197PHOBtgwBTSky9oye0u9) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Het Is](https://open.spotify.com/album/1Yc0HbRlIZwaOY9jGpxMY5) | 4:41 | 2023-02-10 | 2023-11-11 |
+| [Ons Hart](https://open.spotify.com/track/1twrDS67jyp2YXGZ89jAF3) | [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Ons Hart](https://open.spotify.com/album/2SVy3vM8Lw9w9MOXICtsJI) | 2:54 | 2026-03-23 |  |
 | [Ons huis](https://open.spotify.com/track/60gmU9gSmU41iszHNh4GZO) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Ons huis](https://open.spotify.com/album/3HRExOCSuLAwYNs7g7gfnT) | 4:17 | 2023-02-10 | 2024-10-11 |
 | [Op De Golven Dansen Wij](https://open.spotify.com/track/6berCqnYACzx2FPxRWNLLF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op De Golven Dansen Wij](https://open.spotify.com/album/2TMDybox8xa21ydtLm9Bsn) | 3:03 | 2023-02-10 | 2024-09-13 |
 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 | 2023-02-10 | 2025-09-05 |

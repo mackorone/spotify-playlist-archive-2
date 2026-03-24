@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,427 songs - 5 day 21 hr 51 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 563 likes - 2,446 songs - 5 day 22 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2435,5 +2435,24 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2425 | [Tidebirds](https://open.spotify.com/track/0ZtLNjmb5YhUEHwhPdpyAc) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Songs from Tidebury](https://open.spotify.com/album/1UvyWZvCCP1konkCAV6mx0) | 3:15 |
 | 2426 | [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 |
 | 2427 | [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 |
+| 2428 | [Scattered Across The Sky](https://open.spotify.com/track/4UKwvLIC2iw5KndgoEePRt) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Sedative Sands](https://open.spotify.com/album/45fnkLss7v7uHi8lOcgQxV) | 2:54 |
+| 2429 | [Good Ones](https://open.spotify.com/track/1MCEYC0dXXLIbH0OSOZRYX) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Good Ones](https://open.spotify.com/album/1I8j722XEJdMHvYH5FxWLJ) | 3:11 |
+| 2430 | [Sad Green Eyes](https://open.spotify.com/track/4FNEjYpBKx0igmV5Emvdks) | [Richard Scott](https://open.spotify.com/artist/1fHyu6rULofa3awJf1Bh5t) | [Sad Green Eyes](https://open.spotify.com/album/0d3Em78EUvzTePFQJJwmRl) | 5:11 |
+| 2431 | [Everybody Does](https://open.spotify.com/track/5rjdzNR8XR5OeNoBnkzEu6) | [Neon Trace](https://open.spotify.com/artist/3H3dnLHdnGFfto918KeiAf) | [New Days//Lost Days](https://open.spotify.com/album/0SqT4DaeXdkZpCwYJKj0Ay) | 4:31 |
+| 2432 | [The Magician's Hand](https://open.spotify.com/track/0NsB7m38S8KmDpsE7ZL3lG) | [Neon Aero](https://open.spotify.com/artist/2cwE0Ulo4HipQNS8dYRD6J) | [The Magician's Hand](https://open.spotify.com/album/7dr7pD93gkgEaAt0rXH2M7) | 2:11 |
+| 2433 | [I Regret That Now](https://open.spotify.com/track/7u7GQWMtanL18L3uTfs5qi) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/705RCARzXj0a9mbHkkd3SU) | 2:59 |
+| 2434 | [Mi Amor](https://open.spotify.com/track/6oO6YCi6SWRYNe8b8SlHp0) | [K2iraoff](https://open.spotify.com/artist/0wYQ920rSRvoyDH7GiiPDq) | [Il Était Une Fois : Chapitre 1](https://open.spotify.com/album/5eha6r0NIazAK73nOKRwPB) | 2:38 |
+| 2435 | [B.Z.M.](https://open.spotify.com/track/1xoYrU0he8WBoVd8XDflhY) | [Tandaram Way](https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog) | [B.Z.M.](https://open.spotify.com/album/5N1gHvCRYrs9YrMYcbHsiE) | 3:24 |
+| 2436 | [I Can Stay](https://open.spotify.com/track/4QxTwgAJZWY9mYRu9BLEbo) | [Ryan McDavid](https://open.spotify.com/artist/76Txp4eDTx24joHD6B24CQ), [Ben Franklyn](https://open.spotify.com/artist/2A5E8yZCclpCwKU0Jh5ucQ) | [I Can Stay](https://open.spotify.com/album/2F3vR22eozZgiMCrRnyTSr) | 3:39 |
+| 2437 | [ICOSAHEDRAL FLIGHT OF BUTTERFLIES](https://open.spotify.com/track/03u14u7dSTTMGoEWkIJ8g8) | [Sergio Di Martino](https://open.spotify.com/artist/1dXzSKQi5XTnlRXKNu1E1g) | [GEOMETRY THROUGH INSECT EYES](https://open.spotify.com/album/1miCEJVCQWRL6TuwqzipYj) | 2:15 |
+| 2438 | [Αν εχεις κατι να μου πεις](https://open.spotify.com/track/3ejFO9XwltNTpUgOP1eINT) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [My Demo Tapes, Pt\. 2](https://open.spotify.com/album/4EGZ3XtODxpUzCpIA7gBFR) | 3:17 |
+| 2439 | [2013](https://open.spotify.com/track/57rMcCG6plomqIjwpDjzOU) | [Interstellar Noise](https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT) | [2013](https://open.spotify.com/album/0ueNDRd4d50lXblAyfXpt7) | 3:52 |
+| 2440 | [No Day Like Today](https://open.spotify.com/track/3gcHdvtukBxrkXZsu5S3dc) | [Red Sky Revival](https://open.spotify.com/artist/1TungonbuYs9Ls1ppCYpBQ) | [No Warranty](https://open.spotify.com/album/2H4vCyyYv7IrjbdKOzG1ne) | 3:35 |
+| 2441 | [These Dire Days](https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [These Dire Days](https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs) | 3:29 |
+| 2442 | [Teresa](https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 4:11 |
+| 2443 | [Queen 94](https://open.spotify.com/track/2A2cXIvluBYM4v1BbqFRWg) | [The River Noir](https://open.spotify.com/artist/2CshPfHFubq7EAbtKTcuGx) | [Queen 94](https://open.spotify.com/album/6337sCRW0ozrtqiT2rbwBo) | 4:31 |
+| 2444 | [String](https://open.spotify.com/track/6xVGECLL0CqEca5lG2GTh7) | [Eye No](https://open.spotify.com/artist/4mLGvOqHGuu5ZfTYIyU5Yu) | [String](https://open.spotify.com/album/0gwB70bEKeFzirHB4Gwyoi) | 2:31 |
+| 2445 | [Stay Back](https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Stay Back](https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ) | 2:25 |
+| 2446 | [Forgiveness \(Redux\)](https://open.spotify.com/track/64GwsWtFMpbmblchEoRE3p) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2) | [Forgiveness \(Redux\)](https://open.spotify.com/album/2cA3JR9TRe22zShtc00mUp) | 3:56 |
 
-Snapshot ID: `AAAKEi4im34ik8x7iOyTmW6hW64wnsCc`
+Snapshot ID: `AAAKJeUQVjD1tcUAw4aKB+Ww38juL64d`

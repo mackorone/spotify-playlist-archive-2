@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,263 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,275 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN) | 3:02 |
 | 50 | [Special](https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 3:12 |
 
-Snapshot ID: `ab3fgAAAAABQKtlGprikMc21ms373O2v`
+Snapshot ID: `ab8xAAAAAAAZYMFIr5cmS+nd634Jz6QL`

@@ -1,13 +1,29 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 278,
+  "num_followers": 279,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAICy5zn2qg5qvzh3uIi2UR5ZZ1vp71",
+  "snapshot_id": "AAAIDiK8AtJYB/97sfOBSndSWMNHKwQM",
   "tracks": [
+    {
+      "added_at": "2026-03-23 10:31:09",
+      "album": {
+        "name": "Take your time",
+        "url": "https://open.spotify.com/album/358Zd3t23VYFfKiDzGP9os"
+      },
+      "artists": [
+        {
+          "name": "ARTIC BABA",
+          "url": "https://open.spotify.com/artist/7DXL7EaMxzmogl4Zs0Dvud"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "Take your time",
+      "url": "https://open.spotify.com/track/6k43hYhureKliDglbdwkSP"
+    },
     {
       "added_at": "2026-03-18 17:32:57",
       "album": {
@@ -56602,10 +56618,6 @@
         {
           "name": "Myqwan",
           "url": "https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW"
-        },
-        {
-          "name": "rhver",
-          "url": "https://open.spotify.com/artist/61XecHCUKmtyHxjUjEGTw2"
         }
       ],
       "duration_ms": 124732,
@@ -69115,6 +69127,38 @@
       "duration_ms": 235000,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/0l2EatGlh3Sk7IsAQnhvjd"
+    },
+    {
+      "added_at": "2026-03-23 12:36:16",
+      "album": {
+        "name": "the same (jersey club remix)",
+        "url": "https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N"
+      },
+      "artists": [
+        {
+          "name": "Ni$ha Da Chef",
+          "url": "https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB"
+        }
+      ],
+      "duration_ms": 125518,
+      "name": "the same - jersey club remix",
+      "url": "https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7"
+    },
+    {
+      "added_at": "2026-03-23 14:21:19",
+      "album": {
+        "name": "EMPTINESS",
+        "url": "https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk"
+      },
+      "artists": [
+        {
+          "name": "StellaGhost",
+          "url": "https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "TIME PASSES",
+      "url": "https://open.spotify.com/track/5VhNq876BupaVKaIl7cgzx"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,854 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,855 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Konsten att leva](https://open.spotify.com/track/4DW1djy1y82mTdTcyAioUB) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Konsten att leva](https://open.spotify.com/album/0uV4gLRea8tuc1vSvKYpLa) | 3:02 |
-| 2 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
-| 3 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
+| 1 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 |
+| 2 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
+| 3 | [Konsten att leva](https://open.spotify.com/track/4DW1djy1y82mTdTcyAioUB) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Konsten att leva](https://open.spotify.com/album/0uV4gLRea8tuc1vSvKYpLa) | 3:02 |
 | 4 | [Min vita kanin](https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP) | 3:52 |
 | 5 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 6 | [Jack & Coke](https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Jack & Coke](https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ) | 2:49 |
 | 7 | [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 |
 | 8 | [Rockenrollen](https://open.spotify.com/track/3AjnXyw1G38KLVOIEiESww) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Rockenrollen](https://open.spotify.com/album/1N0sJpiWaZfEqaBDg72WR0) | 3:06 |
 | 9 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 |
-| 10 | [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 |
-| 11 | [Honest](https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Honest](https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU) | 3:39 |
+| 10 | [Honest](https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Honest](https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU) | 3:39 |
+| 11 | [Stockholmstjej](https://open.spotify.com/track/2MQCdTiotCwYvruN87lgTC) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Stockholmstjej](https://open.spotify.com/album/57UPe5M0HnwnuK6VjhLgGM) | 3:08 |
 | 12 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 13 | [Space](https://open.spotify.com/track/0w88RbYHwVDAbLGSJzsRa9) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Space](https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ) | 4:02 |
 | 14 | [Min barndoms sång](https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag håller hjärtat i min hand](https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2) | 3:15 |
-| 15 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
-| 16 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
-| 17 | [Stockholmstjej](https://open.spotify.com/track/2MQCdTiotCwYvruN87lgTC) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Stockholmstjej](https://open.spotify.com/album/57UPe5M0HnwnuK6VjhLgGM) | 3:08 |
+| 15 | [Om Igen](https://open.spotify.com/track/5Ab8yA30d8lVfsdjE9EEke) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:49 |
+| 16 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
+| 17 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 18 | [Först in, Sist ut](https://open.spotify.com/track/0yIoYFKspCirfE8mTldWxB) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Först in, Sist ut](https://open.spotify.com/album/3ieiu13lpbzceAksD7sv7B) | 3:03 |
 | 19 | [Dinner Party](https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT) | 2:34 |
 | 20 | [Ung \- Acoustic](https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Ung Acoustic](https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ) | 2:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 100 | [Hallå](https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK) | [Emma Winther](https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hallå](https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3) | 3:15 |
 | 101 | [Ingenting](https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Ingenting](https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ) | 2:47 |
 
-Snapshot ID: `AAAAANVWTA5FPUinTWqlT9tGxSEiwUTe`
+Snapshot ID: `AAAAAH9MLrWy98uaqjLF4HLjA0ee4G/w`

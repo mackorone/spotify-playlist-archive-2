@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,740 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,739 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 |
 | 2 | [Again](https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:42 |
-| 3 | [S/O Alysa Liu](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O Alysa Liu](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 |
-| 4 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 |
+| 3 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 |
+| 4 | [S/O Alysa Liu](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O Alysa Liu](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 |
 | 5 | [MARDI GRAS \(GO CRAZY\)](https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:15 |
 | 6 | [HELE](https://open.spotify.com/track/0mPOWNkYxl2eA5CwjGl9sq) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [OMGKENNY](https://open.spotify.com/artist/5T34n8lqqgWAoZUcCgnynj), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [HELE](https://open.spotify.com/album/55GX3rem3cG6AvragfUwTK) | 2:36 |
 | 7 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 |
 | 50 | [DAMN](https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:55 |
 
-Snapshot ID: `ab3fgAAAAAAbgKvsYhoBVdQgW2naoRBV`
+Snapshot ID: `ab8xAAAAAACChnDEl6jq1NJr57lrbLFc`

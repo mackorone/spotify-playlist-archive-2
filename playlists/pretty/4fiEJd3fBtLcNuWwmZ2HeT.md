@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 447 songs - 1 day 1 hr 43 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 455 songs - 1 day 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -455,5 +455,13 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 445 | [くたばろうぜ](https://open.spotify.com/track/3r6xYYqdyPLrKjEgxaW2N5) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/2L84XD90kjs9HVG51eb4jK) | 3:26 |
 | 446 | [天国へ行こう](https://open.spotify.com/track/11mV5Ol1OcOimE20hpASVR) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 4:39 |
 | 447 | [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 |
+| 448 | [Honey Moon Un Deux Trois \- Cover](https://open.spotify.com/track/1pobAbvKkBrmryjJfoPt1e) | [Tsukino](https://open.spotify.com/artist/6VMzfvrk8D2oPPKtXWM2Xm) | [ChandeLiaR](https://open.spotify.com/album/2OCfl9vOnQnwkiwMszHzpW) | 4:13 |
+| 449 | [不幸屋の娘](https://open.spotify.com/track/1PQOrdvbXXTfFtVGCm2ybp) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:35 |
+| 450 | [Suicide of the 21st century](https://open.spotify.com/track/6lkJKbOu7COoTKAqpC7xyR) | [0.8Syooogeki](https://open.spotify.com/artist/2bQl2eVUqMrlo9oncfmwtF) | [ESUNOFANKYDOFUTOEFUSUKICAMCAMCULB](https://open.spotify.com/album/0Biieu4eDMwmS5K8XmTCaH) | 2:20 |
+| 451 | [Freak Show](https://open.spotify.com/track/0nyYmENd3hd1brLRHcAper) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Chuuzuri Shoujo \(Tagai Ban\)](https://open.spotify.com/album/6FjD4Ssk9b5Olb20zfrCR7) | 4:17 |
+| 452 | [Cat Child](https://open.spotify.com/track/4NpAzHtwKN9ktcoj2Y4SSJ) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/36sx9zofL5sI6StsgsB3ms) | 4:11 |
+| 453 | [Retry Now](https://open.spotify.com/track/7gKt5lOImlJ2bOOcrODFQY) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [Retry Now](https://open.spotify.com/album/5WTKvvgEGjvC39sOPFekjB) | 2:02 |
+| 454 | [Binomi](https://open.spotify.com/track/31sTYZVT7fyt82zq6tWYxC) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Binomi](https://open.spotify.com/album/6MiRWDh9PBab6Mow3hwtDu) | 3:03 |
+| 455 | [Cure \(VIVINOS \- ALNST 2nd Anniversary Remix Part.2\)](https://open.spotify.com/track/78eXwJtw4uwqTH8RBYU0Yw) | [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo), [C!naH](https://open.spotify.com/artist/0vA45SriohIjcLXbwPhF2p) | [Cure \(VIVINOS \- ALNST 2nd Anniversary Remix Part.2\)](https://open.spotify.com/album/03x0EPG93xHTlbpMLB4NsG) | 4:08 |
 
-Snapshot ID: `AAAJ+8WpoZLpGwmNs0AYCCm82q3fhHCm`
+Snapshot ID: `AAAKA/giRzRB0upDETe5Gcc0wOZqHZkq`

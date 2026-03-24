@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,804 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,805 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 2 | [No More Rain \(In This Cloud\)](https://open.spotify.com/track/6mZI2vbLv1UvlclwDQ4uvc) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 4:43 |
 | 3 | [Keep Your Worries](https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:58 |
-| 4 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
+| 4 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 5 | [More Than A Woman \(feat\. Calvin\)](https://open.spotify.com/track/0fgVs2FjWxf60Gk8aaoECK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:53 |
 | 6 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 |
 | 7 | [Excuse Me](https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:24 |
-| 8 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
+| 8 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 | 9 | [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 |
 | 10 | [Life Story](https://open.spotify.com/track/3DaRelvnlOkN8YHzIQzYNR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 4:09 |
 | 11 | [Signed, Sealed, Delivered I'm Yours](https://open.spotify.com/track/7MaWQOSdpVNvQFXu2KspC6) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Guilty](https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Come Home \(Live With Me\)](https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:57 |
 | 50 | [Hold Me Down \(feat\. Angie Stone\)](https://open.spotify.com/track/7oYRjaI7yDJB7hCa20kbbD) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Time To Share](https://open.spotify.com/album/6b8QS64EfefuXpdZ0dLHWX) | 3:21 |
 
-Snapshot ID: `ab3fgAAAAACyrpPm2Wmxlj7PR0HQEkIn`
+Snapshot ID: `ab8xAAAAAADA0w84gqi8qJTDzLkjsp7q`

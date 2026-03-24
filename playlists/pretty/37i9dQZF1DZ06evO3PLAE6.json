@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11856,
+  "num_followers": 11857,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAA54r+ccSd6Ugg6R29IVy8O",
+  "snapshot_id": "ab8xAAAAAAA3IQAwj5j+STMyk18qucOU",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Nullarbor Song",
+      "url": "https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart Like A House",
         "url": "https://open.spotify.com/album/1ug6bA2s4izUb3Xe9VdJzv"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 236666,
       "name": "Like A River",
       "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Nullarbor Song",
-      "url": "https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wreck & Ruin",
         "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 155693,
       "name": "The Quiet Life",
       "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/4kc6kPD2eOqzvN9XxvlVyG"
     },
     {
       "added_at": null,
@@ -818,11 +818,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 205920,
-      "name": "Arlo",
-      "url": "https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq"
+      "duration_ms": 210899,
+      "name": "My Kingdom Come",
+      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
     },
     {
       "added_at": null,
@@ -834,15 +838,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 210899,
-      "name": "My Kingdom Come",
-      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
+      "duration_ms": 205920,
+      "name": "Arlo",
+      "url": "https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq"
     }
   ],
   "unique_name": "This Is Kasey Chambers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Rancore in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,417 likes - 91 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,411 likes - 91 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 50487,
+  "num_followers": 50510,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAACGA7Br3z1fespWTa1tDazN",
+  "snapshot_id": "ab8xAAAAAACXZRw4VDM29TnEeWuc0s9f",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es Un Avivamiento",
         "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 256295,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 464320,
-      "name": "Despierta Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 349187,
       "name": "Encuentro Glorioso",
       "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 464320,
+      "name": "Despierta Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/0oXynWN5dOPgOa6rLBczTM"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 388186,
-      "name": "Aliento De Vida",
-      "url": "https://open.spotify.com/track/3S7srdmi98Ey4YW0fjBknA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 342227,
       "name": "Hacedor De Milagros",
       "url": "https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/0oXynWN5dOPgOa6rLBczTM"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 388186,
+      "name": "Aliento De Vida",
+      "url": "https://open.spotify.com/track/3S7srdmi98Ey4YW0fjBknA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3828,
+  "num_followers": 3837,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADZvqfsTXfdwA0xmKEYYgsD",
+  "snapshot_id": "ab8xAAAAAACGArLaJ+HBoFZZZwHXXGRq",
   "tracks": [
     {
       "added_at": null,
@@ -375,26 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Drawing Board",
-        "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
       "artists": [
         {
-          "name": "Art Department",
-          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
-        },
-        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
         }
       ],
-      "duration_ms": 379013,
-      "name": "We Call Love",
-      "url": "https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2"
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -455,22 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tambores Te Llaman",
-        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
+        "name": "The Drawing Board",
+        "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
       "artists": [
+        {
+          "name": "Art Department",
+          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
+        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Carlos Mena",
-          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
         }
       ],
-      "duration_ms": 379360,
-      "name": "Los Tambores Te Llaman - Original Mix",
-      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
+      "duration_ms": 379013,
+      "name": "We Call Love",
+      "url": "https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2"
     },
     {
       "added_at": null,
@@ -491,8 +487,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+        "name": "Los Tambores Te Llaman",
+        "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Carlos Mena",
+          "url": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Los Tambores Te Llaman - Original Mix",
+      "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+      "duration_ms": 258617,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 258617,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -607,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+        "name": "Exit Music - Songs with Radio Heads EP 4",
+        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Erro",
+          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+      "duration_ms": 398320,
+      "name": "Everything in Its Right Place",
+      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 414247,
       "name": "Human Beings - Atjazz Remix",
       "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exit Music - Songs with Radio Heads EP 4",
-        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Erro",
-          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
-        }
-      ],
-      "duration_ms": 398320,
-      "name": "Everything in Its Right Place",
-      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
     },
     {
       "added_at": null,

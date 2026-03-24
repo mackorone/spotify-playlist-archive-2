@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,682 likes - 50 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,706 likes - 50 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
 | 50 | [A Love Supreme, Pt\. IV \- Psalm](https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:02 |
 
-Snapshot ID: `ab3fgAAAAAA2CF+qykSTLd4P5nkFRddH`
+Snapshot ID: `ab8xAAAAAAD1SqjaeVNk7L7OB4Ipj/Fy`

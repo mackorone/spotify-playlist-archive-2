@@ -4,13 +4,14 @@
 
 > If you're blessed!
 
-576 songs - 1 day 14 hr 24 min
+577 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [247](https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Quabena Asare](https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd) | [247](https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV) | 3:06 | 2026-03-13 | 2026-03-20 |
 | [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-10-03 | 2025-10-11 |
 | [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 | 2025-11-28 |
+| [A Cikin Inuwarka](https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR) | [Hallel Wrshp](https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP) | [Africa Rejoice!](https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX) | 3:27 | 2026-03-20 |  |
 | [ABBA](https://open.spotify.com/track/3Ax7llYlSKhJwxd9kjspeX) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [ABBA](https://open.spotify.com/album/3JZ54vFyyjJfEufP9Xvsmt) | 2:39 | 2025-10-03 | 2026-01-15 |
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2024-09-27 |  |
 | [Adonai](https://open.spotify.com/track/5q4o2JtCVOwoNAxpSkbfIn) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Spirit of Prophecy](https://open.spotify.com/album/1Kkxf41K8ewlPrmuxOBjOr) | 3:26 | 2025-10-31 | 2026-01-16 |
@@ -453,7 +454,7 @@
 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 | 2024-09-30 | 2026-03-20 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2024-09-27 | 2026-03-20 |
 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 |  |
-| [Reckless Lover](https://open.spotify.com/track/01wQGrvbSOlBevXSX9anha) | [Rosey](https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L) | [Reckless Lover](https://open.spotify.com/album/0ZbS7b4vWFO6SYJ9uwSDJK) | 2:45 | 2026-02-06 |  |
+| [Reckless Lover](https://open.spotify.com/track/01wQGrvbSOlBevXSX9anha) | [Rosey](https://open.spotify.com/artist/2nUGMD83hQ6sJSOyNy559L) | [Reckless Lover](https://open.spotify.com/album/0ZbS7b4vWFO6SYJ9uwSDJK) | 2:45 | 2026-02-06 | 2026-03-24 |
 | [Rendezvous \(On Calvary\)](https://open.spotify.com/track/0KZVdIDYk1lsPiXhkUeqzL) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Rendezvous \(On Calvary\)](https://open.spotify.com/album/3oPnUzjDzPLGnnGUq3iU3h) | 2:43 | 2025-04-04 | 2025-05-23 |
 | [Rescue Me](https://open.spotify.com/track/7pQeK2L95IQGFHFubpv2tK) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Jason Jhms](https://open.spotify.com/artist/2CdYJFoCCnW8gJUQuGfOni) | [Alignment](https://open.spotify.com/album/7ycNJJmewzS404nsJ2v2HE) | 2:44 | 2025-08-29 | 2025-10-03 |
 | [Rest](https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Rest](https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN) | 2:16 | 2026-03-20 |  |

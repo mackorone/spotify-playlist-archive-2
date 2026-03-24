@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: BTS
 
-1,348 songs - 2 day 20 hr 56 min
+1,351 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 | 2025-09-25 | 2026-01-15 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-24 | 2025-06-20 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-08 | 2025-03-14 |
+| [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-23 |  |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-30 | 2023-07-01 |
 | [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 | 2025-10-16 | 2026-02-07 |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-24 | 2023-04-28 |
@@ -305,6 +306,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-05-01 | 2025-07-11 |
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-21 | 2024-03-01 |
 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 | 2023-06-22 | 2023-09-30 |
+| [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 | 2026-03-23 |  |
 | [Don't Think Twice](https://open.spotify.com/track/71Wbx42eCUNH5LmBQL7Z4E) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Don't Think Twice](https://open.spotify.com/album/3t0S2oFPp7wx4klCHOs1nz) | 3:14 | 2024-10-10 | 2024-12-13 |
 | [Don't Wait Till Monday](https://open.spotify.com/track/2yOXnHStV5Jud782FOcATg) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Don't Wait Till Monday](https://open.spotify.com/album/4EIbsmNvyDmitb58SGaTaP) | 2:35 | 2025-08-28 | 2025-11-14 |
 | [Don’t Blame It On Me](https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Don’t Blame It On Me](https://open.spotify.com/album/7tWMNiHjYhhW943tF7ByEe) | 3:01 | 2026-01-29 |  |
@@ -391,7 +393,7 @@
 | [feel it all](https://open.spotify.com/track/5Rpc2HDYk3C9hcwfS3aPVW) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [feel it all](https://open.spotify.com/album/4foh7Gb8M1UuHGO5Y1InO9) | 2:57 | 2024-05-16 | 2024-07-19 |
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-26 | 2024-07-03 |
 | [Feelings](https://open.spotify.com/track/2NtqPvAZ11JW8Rvsq6xLoY) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Feelings](https://open.spotify.com/album/1F7nhgRD4yVQyuBk9Gt1Oh) | 2:34 | 2023-11-09 | 2024-02-09 |
-| [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 | 2026-01-26 |  |
+| [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 | 2026-01-26 | 2026-03-24 |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-02-26 |  |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-11 | 2023-08-18 |
 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 | 2023-11-07 | 2024-02-23 |
@@ -422,7 +424,7 @@
 | [FU & UF](https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [FU & UF](https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1) | 2:39 | 2025-10-30 | 2026-02-13 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-16 | 2023-06-23 |
 | [Full Attention](https://open.spotify.com/track/6Yhzabh1wK19kniAJOz1G2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Full Attention](https://open.spotify.com/album/25Gn5IvV9ykJTPDGigx452) | 3:04 | 2025-05-12 | 2025-07-18 |
-| [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 | 2026-01-23 |  |
+| [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 | 2026-01-23 | 2026-03-24 |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 | 2025-08-29 |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-06 | 2023-07-01 |
 | [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 | 2024-09-03 | 2024-11-08 |
@@ -529,6 +531,7 @@
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-08 | 2023-09-08 |
 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 | 2025-07-17 | 2025-09-26 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-06 |  |
+| [Honest](https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Honest](https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU) | 3:39 | 2026-03-23 |  |
 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 | 2025-05-22 | 2025-08-05 |
 | [Hoop Dat Jij Me Mist](https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hoop Dat Jij Me Mist](https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj) | 2:45 | 2024-05-09 | 2024-06-25 |
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-25 | 2024-06-25 |
@@ -1004,7 +1007,7 @@
 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 | 2026-02-26 |  |
 | [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 | 2026-02-19 |  |
 | [Save Yourself](https://open.spotify.com/track/4McCCgQlZm7dOOarZRtpRI) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Save Yourself](https://open.spotify.com/album/0qE9OIMQ7segzpUxdaV5KG) | 3:15 | 2024-05-02 | 2024-07-16 |
-| [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 | 2026-01-29 |  |
+| [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 | 2026-01-29 | 2026-03-24 |
 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2025-11-27 | 2026-02-27 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-18 | 2025-03-14 |
 | [Scatterbrain](https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/0CUgWWL0bEnputEKbNiAsv) | 2:09 | 2023-03-09 | 2023-05-19 |

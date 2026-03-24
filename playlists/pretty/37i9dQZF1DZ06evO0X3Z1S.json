@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88031,
+  "num_followers": 88040,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABtI2N72cKvNZ+DE/4Cb2Q0",
+  "snapshot_id": "ab8xAAAAAADQNwswOk6vz+ZjUbgeezm7",
   "tracks": [
     {
       "added_at": null,
@@ -1047,22 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard",
-        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         },
         {
-          "name": "Tifa Chen",
-          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         }
       ],
-      "duration_ms": 172728,
-      "name": "Billboard",
-      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
     }
   ],
   "unique_name": "This Is Jonas Blue",

@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-267 songs - 8 hr 17 min
+269 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,8 @@
 | [symbiotic intwinement \- Instrumental](https://open.spotify.com/track/15sR23P0IwmIav5dusZDAr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:55 | 2024-07-13 |  |
 | [synthesize \(acapella\)](https://open.spotify.com/track/1BYPmXMcBcme1QpgSuV7eb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 0:56 | 2026-01-22 |  |
 | [TALK SHIT!!](https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [TALK SHIT!!](https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB) | 2:46 | 2024-11-17 |  |
+| [telephone line](https://open.spotify.com/track/4ugixbUYTzeWMco1CD5AEl) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [telephone line](https://open.spotify.com/album/59FYDC9ZQXgBG0rUdpWalY) | 3:58 | 2026-03-23 |  |
+| [telephone line \- Instrumental](https://open.spotify.com/track/0RxEplR64yF2XYADiYZmug) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [telephone line](https://open.spotify.com/album/59FYDC9ZQXgBG0rUdpWalY) | 3:58 | 2026-03-23 |  |
 | [Tell me!!](https://open.spotify.com/track/0pLAxdzTL52Q4g9RvTb3Fl) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO) | 3:13 | 2025-04-14 |  |
 | [Tell me!!](https://open.spotify.com/track/3iIRxUCaiWHbluydLzfQb2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Tell me!!](https://open.spotify.com/album/1GEwT92iCntlSBBlFwjeki) | 3:13 | 2024-04-12 |  |
 | [Tell me!!](https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 3:13 | 2026-01-13 |  |

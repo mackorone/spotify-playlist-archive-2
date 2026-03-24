@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,878 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,888 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [He Moved Through the Fair \(with Sinéad O'Connor\)](https://open.spotify.com/track/2mgy5u8FMN14B0eODWnp68) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Long Black Veil](https://open.spotify.com/album/1rClywJWYiXuEZOpOqQMC0) | 4:54 |
 | 50 | ['Til I Whisper U Something](https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 6:07 |
 
-Snapshot ID: `ab3fgAAAAAA2bNZXUsZdzhSu50CITZUI`
+Snapshot ID: `ab8xAAAAAABnEBUW53g3jJ7yQ7SQJ7El`

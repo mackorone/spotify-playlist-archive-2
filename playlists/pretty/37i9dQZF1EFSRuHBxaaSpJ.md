@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 59 | [L'EFFORT \- interlude](https://open.spotify.com/track/5jCrLazhdpVCeXPnd2XiDH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 1:48 |
 | 60 | [Love Therapy](https://open.spotify.com/track/0gIphsFucR85iYwuMcqxiv) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 5:08 |
 | 61 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 |
-| 62 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 |
-| 63 | [Crazy](https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura x G\-Wave](https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf) | 2:24 |
+| 62 | [Crazy](https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura x G\-Wave](https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf) | 2:24 |
+| 63 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 |
 | 64 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 |
 | 65 | [Ce soir](https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:57 |
 | 66 | [Lalala](https://open.spotify.com/track/0QY2cfSWkWtY4bXWfAlMSf) | [Sifax](https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK) | [La Mentale](https://open.spotify.com/album/3gnmXOGZpZrM4lpFTjqUqu) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 84 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 85 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcM2FAAAAACIj/gvuF1DmsZLB5ScHoLA`
+Snapshot ID: `AcM7tAAAAABxaDwoma+9XE2y9qSqXEO6`

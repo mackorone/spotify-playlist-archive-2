@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,351 songs - 3 day 9 hr 13 min
+1,352 songs - 3 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1146,6 +1146,7 @@
 | [Thank You \- Spotify Singles](https://open.spotify.com/track/7aZYmiZWN7BNsvDX4f1qmn) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:21 | 2022-08-24 |  |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-01-19 |  |
 | [The Best \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/7cBAltYsu55X4BgiOUjaSY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 4:21 | 2022-01-19 |  |
+| [The Best of Both Worlds \- Spotify Singles](https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [The Best of Both Worlds \(Spotify Singles\)](https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9) | 3:00 | 2026-03-23 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-25 |  |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0kcgr15TmIyDXJoOfw4zgp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 2:19 | 2022-01-19 |  |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6RasuQ5G0sJNP0v5feNurh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 2:19 | 2022-07-05 | 2024-04-19 |

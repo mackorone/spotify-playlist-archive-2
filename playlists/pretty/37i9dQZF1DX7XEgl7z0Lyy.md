@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,582 likes - 125 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,697 likes - 125 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 35 | [ROCKST4R](https://open.spotify.com/track/6Gd9ab4irg5sQOrS9GA18T) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [ROCKST4R](https://open.spotify.com/album/3uCTv5sotyLk7SzbyyVOe9) | 1:59 |
 | 36 | [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 |
 | 37 | [EYES ON ME](https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [EYES ON ME](https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq) | 1:56 |
-| 38 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
+| 38 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
 | 39 | [CR4CK HOUSE](https://open.spotify.com/track/0dUnW52SwzwPEAHS1oM9xT) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [CR4CK HOUSE](https://open.spotify.com/album/5Cm7ZRDa3KEnpc9nNrNxO5) | 2:05 |
 | 40 | [HEADSHOT \- Instrumental](https://open.spotify.com/track/5NfrtBvM1z7sY7vfceTt5b) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [HEADSHOT](https://open.spotify.com/album/5q4APfGSboWnF8OCJxvEQl) | 1:20 |
 | 41 | [DICE AND ROLL](https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DICE AND ROLL](https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a) | 2:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 124 | [PURPLE HEART \(w/ Don Toliver\)](https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 2:05 |
 | 125 | [Just A Hint](https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 1](https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw) | 2:14 |
 
-Snapshot ID: `AAAAAFEdtdstIs9bplpLbIZAkTZvg2A+`
+Snapshot ID: `AAAAAMCDPERLa477DCnGmC4SgOuY+IWc`

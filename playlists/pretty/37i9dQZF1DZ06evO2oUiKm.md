@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,473 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,475 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 25 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 |
 | 26 | [God Only Knows \(feat\. yMusic\)](https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY) | [God Only Knows \(feat\. yMusic\)](https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU) | 3:21 |
 | 27 | [Intro \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:40 |
-| 28 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 28 | [Worst Of Me](https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
 | 29 | [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 |
 | 30 | [When You Believe](https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk) | [When You Believe](https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi) | 4:07 |
 | 31 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 3:03 |
-| 32 | [Worst Of Me](https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
+| 32 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 |
 | 33 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 |
 | 34 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 |
 | 35 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 |
 | 50 | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg), [Matt Jones \(Re\-Collective Orchestra\)](https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC) | [Together \(Soundtrack from Year in Search\)](https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy) | 3:12 |
 
-Snapshot ID: `ab3fgAAAAAAcWGxqipJ6O0sYzx/Yrzx2`
+Snapshot ID: `ab8xAAAAAACZNKV8314pdhTejBslzlva`

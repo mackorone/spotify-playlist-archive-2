@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe alternative & rock releases. Cover: SONS",
-  "num_followers": 58472,
+  "num_followers": 58468,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBKaXo+a9z9dpSqnfPDXNLOB2j2",
+  "snapshot_id": "AAAAABIYfbM/dCcvq1mUXecpRh4yhwd6",
   "tracks": [
     {
       "added_at": "2026-03-20 12:26:05",
@@ -23,6 +23,22 @@
       "duration_ms": 119926,
       "name": "Surfin'",
       "url": "https://open.spotify.com/track/2c5K25BaMvcGEVovHGMScS"
+    },
+    {
+      "added_at": "2026-03-20 12:26:05",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-03-20 12:26:05",
@@ -107,22 +123,6 @@
       "duration_ms": 179705,
       "name": "War",
       "url": "https://open.spotify.com/track/0cpNm8islXs1Cm5Y319F5w"
-    },
-    {
-      "added_at": "2026-03-20 12:26:05",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 215196,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "added_at": "2026-03-20 12:26:05",

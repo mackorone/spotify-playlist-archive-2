@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-500 songs - 1 day 6 hr 2 min
+501 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Madana Mohana](https://open.spotify.com/track/3zgwUXkrvDhdw7Sm5iHTRv) | [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Madana Mohana](https://open.spotify.com/album/4iceg1DMLNXG4vIr8H9Tjq) | 2:56 | 2023-06-22 | 2023-07-11 |
 | [Madhura](https://open.spotify.com/track/5Y6S7V3wyaa8aZtiBpKOUe) | [Vinod Viola](https://open.spotify.com/artist/0ejdZrvlP0GKy8CO5as9WL), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Sai Bhavana Krovvida](https://open.spotify.com/artist/7qWAZBh15FCFhHdijvLkkD) | [Madhura](https://open.spotify.com/album/4ThLPRJ62yZJZM4QndHCGR) | 4:07 | 2023-02-14 | 2023-06-10 |
 | [Maguva](https://open.spotify.com/track/2asFMnzLmUXIK4aM8sGdgl) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Maguva](https://open.spotify.com/album/2DKW5XKHCVKC94w7VgY7gg) | 2:52 | 2025-10-28 | 2025-12-20 |
-| [Malli](https://open.spotify.com/track/0628Dj8mPaQkvFDN8dfw9U) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Malli](https://open.spotify.com/album/2uOCZDqhcAnydzgnD2cFsI) | 3:15 | 2025-09-10 |  |
+| [Malli](https://open.spotify.com/track/0628Dj8mPaQkvFDN8dfw9U) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Malli](https://open.spotify.com/album/2uOCZDqhcAnydzgnD2cFsI) | 3:15 | 2025-09-10 | 2026-03-24 |
 | [Malupu](https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW) | [Malupu](https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI) | 4:56 | 2022-07-18 | 2023-05-23 |
 | [Manasa](https://open.spotify.com/track/3oxEW6HwUcGJo0prrFC1sz) | [ReddyBhau](https://open.spotify.com/artist/0Vay4tn6aXMqr5Scvpz51g) | [Manasa](https://open.spotify.com/album/6L9qphCHwfyMpeu00DqbPP) | 2:48 | 2025-08-04 | 2025-11-19 |
 | [Manasara](https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Manasara](https://open.spotify.com/album/77h3fTEmgoEsLbv7MF1kAI) | 2:46 | 2022-07-18 | 2023-06-20 |
@@ -439,6 +439,7 @@
 | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7) | [VuSe](https://open.spotify.com/artist/71I1aowbFdmoD5ydQ4TObT) | [SunRisers Hyderabad Anthem \- 2024](https://open.spotify.com/album/5w3AoIm6vGGMYPqaVzq2CY) | 1:29 | 2024-03-26 | 2024-04-19 |
 | [Swapnam](https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Swapnam](https://open.spotify.com/album/0gh8MM140CnK7VwM1u5Q5K) | 3:36 | 2024-07-12 | 2025-11-07 |
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 | 2023-09-22 |
+| [Taara \- Live](https://open.spotify.com/track/7si2JnbJv6gAkAcG0mUaWX) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Taara](https://open.spotify.com/album/6HmUoSa5sOjbZuOFK2KKVa) | 3:59 | 2026-03-23 |  |
 | [Taara Katha](https://open.spotify.com/track/5fwGpMlM2GbhGJl2ae0wyi) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Taara Katha](https://open.spotify.com/album/2LyAB86oecp0Arq3iqoVDb) | 3:38 | 2026-02-14 |  |
 | [Taaraley](https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Himasri Divakaruni](https://open.spotify.com/artist/34tqqa7FjkHTtGeic6CtaK) | [Taaraley](https://open.spotify.com/album/4NoSNc7ChtXfR2HkkNXiyP) | 4:03 | 2026-02-14 |  |
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 | 2023-07-04 |

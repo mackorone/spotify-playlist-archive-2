@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (08/03/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (22/03/2026)",
   "tracks": [
     {
       "album": {
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
       },
@@ -354,6 +372,28 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
+    },
+    {
+      "album": {
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
     },
     {
       "album": {
@@ -684,6 +724,32 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
+    {
+      "album": {
+        "name": "Camins, Somnis i Promeses",
+        "url": "https://open.spotify.com/album/3iTPpCdpJyp4u2CsgA5lzk"
+      },
+      "artists": [
+        {
+          "name": "Sopa De Cabra",
+          "url": "https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        },
+        {
+          "name": "Mon DJ",
+          "url": "https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161820,
+      "name": "Camins, Somnis i Promeses",
+      "url": "https://open.spotify.com/track/6jGPtl4cmJc9ee2S5KtjWF"
     },
     {
       "album": {
@@ -1542,7 +1608,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -1762,7 +1828,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 141173,
       "name": "Ha valgut la pena - amb Nil Moliner",
       "url": "https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y"
@@ -2212,7 +2278,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
@@ -2608,7 +2674,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
@@ -2846,6 +2912,28 @@
       "duration_ms": 168136,
       "name": "M\u00f2bil, claus i cartera",
       "url": "https://open.spotify.com/track/6IAHliI122x980aplpGvie"
+    },
+    {
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "album": {
@@ -3405,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Raps\u00f2dia del teu cos",
+        "url": "https://open.spotify.com/album/5P72lMQxkOUTg7kk0Fm4Tt"
+      },
+      "artists": [
+        {
+          "name": "Diana Murr",
+          "url": "https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189406,
+      "name": "Raps\u00f2dia del teu cos",
+      "url": "https://open.spotify.com/track/0J2kQXNmZBLNUu7UmjFufw"
+    },
+    {
+      "album": {
         "name": "REBOBINAR",
         "url": "https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ"
       },
@@ -3916,7 +4022,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"

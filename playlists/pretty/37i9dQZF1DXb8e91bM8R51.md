@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,040 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,045 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 53 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 |
 | 54 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 |
 | 55 | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU) | 2:39 |
-| 56 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
-| 57 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/0tyusV99fK1l3x73AhciJI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 3:20 |
+| 56 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/0tyusV99fK1l3x73AhciJI) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 3:20 |
+| 57 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
 | 58 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 59 | [Bitch Please II](https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Marshall Mathers LP](https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ) | 4:48 |
 | 60 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 |

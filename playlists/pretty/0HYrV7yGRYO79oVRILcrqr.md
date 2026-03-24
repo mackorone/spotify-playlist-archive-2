@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,752 likes - 102 songs - 6 hr 47 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,754 likes - 107 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 100 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 |
 | 101 | [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 |
 | 102 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 |
+| 103 | [Retro Blonde](https://open.spotify.com/track/2jDTCQurwYsjoaUSeWApOf) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Retro Blonde](https://open.spotify.com/album/0DvHilEkBl7OCZ87Hsxeam) | 3:33 |
+| 104 | [La marea](https://open.spotify.com/track/5m4cTTcv22aQ9KMjoZVLaS) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Caronte](https://open.spotify.com/album/5rqL6C7JSvi45eBjE86B2o) | 3:49 |
+| 105 | [Bottle on the table](https://open.spotify.com/track/6gP8B1kKEaeY2OBUfYbfD8) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:52 |
+| 106 | [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 |
+| 107 | [The Tallahatchie Bridge](https://open.spotify.com/track/21LLRRYgZ2NiuVgrr2p5eT) | [Tim Hall and Buffalo Country](https://open.spotify.com/artist/6yGS5pRLuajIewHjZO2f8a) | [The Tallahatchie Bridge](https://open.spotify.com/album/00itmvsffnRW14XIlToe1F) | 3:34 |
 
-Snapshot ID: `AAAK4YZ2KrptEKEoaxvYKK1uD7Djtl2e`
+Snapshot ID: `AAAK5hlSKaXm4WhoqRQwj4NNgn0R3Ka0`

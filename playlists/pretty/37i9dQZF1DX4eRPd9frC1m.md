@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575,846 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,575,867 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 62 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 |
 | 63 | [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 |
 | 64 | [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 |
-| 65 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
-| 66 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 |
+| 65 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 |
+| 66 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
 | 67 | [A MILLI \(Zoey's Version\)](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 |
 | 68 | [Restless](https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Restless](https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu) | 3:25 |
 | 69 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 |

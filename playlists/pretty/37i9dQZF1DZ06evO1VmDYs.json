@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 200563,
+  "num_followers": 200614,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABmzOGb9RiTmNUG31KsF7v/",
+  "snapshot_id": "ab8xAAAAAACL9uevV73p+NPzlZNptIim",
   "tracks": [
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
+      "duration_ms": 169293,
+      "name": "I've Had It Up To Here",
+      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 169293,
-      "name": "I've Had It Up To Here",
-      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
+      "duration_ms": 179533,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
     },
     {
       "added_at": null,

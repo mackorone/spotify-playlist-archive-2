@@ -41365,6 +41365,28 @@
     },
     {
       "album": {
+        "name": "Gold Wrapper",
+        "url": "https://open.spotify.com/album/2L2f5L4B8q52B1LsZKV2hY"
+      },
+      "artists": [
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Gold Wrapper",
+      "url": "https://open.spotify.com/track/2N4vWw0RoA902Sw3TbjOAQ"
+    },
+    {
+      "album": {
         "name": "The Understudy",
         "url": "https://open.spotify.com/album/5sEuEM1OXuOWFP01dqICQs"
       },

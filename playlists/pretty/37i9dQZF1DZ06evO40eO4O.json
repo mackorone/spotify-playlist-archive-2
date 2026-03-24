@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 6684,
+  "num_followers": 6713,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAhd5E4S04mS2R4x7KFrqNy",
+  "snapshot_id": "ab8xAAAAAACBl6qUCD2PbSd4rqsoaUHI",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+        "name": "mitad",
+        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 172392,
+      "name": "mitad",
+      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "mitad",
-        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 172392,
-      "name": "mitad",
-      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": null,

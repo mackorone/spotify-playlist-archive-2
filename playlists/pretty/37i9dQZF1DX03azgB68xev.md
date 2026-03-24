@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Tenroc
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,987 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,997 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 12 | [Walk With Me](https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Walk With Me](https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz) | 2:55 |
 | 13 | [So Long Sad Songs](https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [So Long Sad Songs](https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG) | 3:05 |
 | 14 | [Thank You Isn't Enough](https://open.spotify.com/track/77772WZUj2IYuZAgH5Ufuy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Thank You Isn't Enough](https://open.spotify.com/album/0iN5UvjZ7yBilr9o7tZA4s) | 3:06 |
-| 15 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
+| 15 | [Gunpowder](https://open.spotify.com/track/27A0b6I98O6Y47FVyvYNz4) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Gunpowder](https://open.spotify.com/album/0jlQXYdBpHw0C5VwATIv35) | 3:33 |
 | 16 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
 | 17 | [I'm Yours](https://open.spotify.com/track/10m15J7EySBUzDsNQbMED1) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [I'm Yours](https://open.spotify.com/album/4o9TuyAypBVSYnL4bgOfaY) | 3:31 |
 | 18 | [oxygen \- H3nry Thr!ll Version](https://open.spotify.com/track/0m66iu9iCSTEspCzVsbrLA) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [H3nry Thr!ll](https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5) | [oxygen \(H3nry Thr!ll Version\)](https://open.spotify.com/album/0rSbx6nUiWRtbmm0YR8oPa) | 2:00 |

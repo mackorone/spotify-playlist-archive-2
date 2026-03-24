@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Big Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,307 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,308 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 58 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 |
 | 59 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
 | 60 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
-| 61 | [Pra todo mundo que é emocionado](https://open.spotify.com/track/6Hedc0amuGreddUN16w30s) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Pra todo mundo que é emocionado](https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg) | 2:51 |
-| 62 | [Seu Zé](https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Seu Zé](https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N) | 2:16 |
+| 61 | [Seu Zé](https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Seu Zé](https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N) | 2:16 |
+| 62 | [Pra todo mundo que é emocionado](https://open.spotify.com/track/6Hedc0amuGreddUN16w30s) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [EXQUEÇA TUDO PAPAI](https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Pra todo mundo que é emocionado](https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg) | 2:51 |
 | 63 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
 | 64 | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg) | 2:55 |
 | 65 | [Magia](https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [LV](https://open.spotify.com/artist/6zpsBEhkNvcSFlt5x4jBmK), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Pedro Toro](https://open.spotify.com/artist/2FHYFId438DDYQT3crCjvf) | [Magia](https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz) | 2:18 |

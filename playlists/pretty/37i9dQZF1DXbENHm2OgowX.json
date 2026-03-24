@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 328268,
+  "num_followers": 328447,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "her story",
+        "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
+      },
+      "artists": [
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "her story",
+      "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "now i know what i mean",
         "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
@@ -547,6 +563,26 @@
       "duration_ms": 127792,
       "name": "no good",
       "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "burnout",
+        "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
+      },
+      "artists": [
+        {
+          "name": "ist",
+          "url": "https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka"
+        },
+        {
+          "name": "Raouf",
+          "url": "https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "burnout",
+      "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -607,26 +643,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "burnout",
-        "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
-      },
-      "artists": [
-        {
-          "name": "ist",
-          "url": "https://open.spotify.com/artist/7ngiG9OzPYYIEW0yZuQZka"
-        },
-        {
-          "name": "Raouf",
-          "url": "https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "burnout",
-      "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "its never enough",
         "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "of folded photographs",
+        "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "of folded photographs",
+      "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -743,22 +775,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "of folded photographs",
-        "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
-      },
-      "artists": [
-        {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "of folded photographs",
-      "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -823,6 +839,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -843,22 +879,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -891,22 +923,6 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -999,6 +1015,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Heaven in Time",
+        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "Heaven in Time",
+      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -1019,18 +1051,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Heaven in Time",
-        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
+        "name": "For One Another",
+        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
       "artists": [
         {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
         }
       ],
-      "duration_ms": 164386,
-      "name": "Heaven in Time",
-      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
+      "duration_ms": 230173,
+      "name": "For One Another",
+      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1067,46 +1107,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "For One Another",
-        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        },
-        {
-          "name": "Harbors",
-          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "For One Another",
-      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 213832,
       "name": "Out Of The Past",
       "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "her story",
-        "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
-      },
-      "artists": [
-        {
-          "name": "leadwave",
-          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "her story",
-      "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/17wnWBr68OQoLFULf9uVXD"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
       "artists": [
         {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
         }
       ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+      "duration_ms": 146064,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1523,6 +1523,22 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 146064,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Bolted (Deconstructed)",
         "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "do you love me?",
+        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "do you love me?",
+      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Even The Horizon Knows Its Bounds",
         "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "do you love me?",
-        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
-      },
-      "artists": [
-        {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "do you love me?",
-      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 159000,
       "name": "wake up",
       "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+      },
+      "artists": [
+        {
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2026-03-20 04:00:38",

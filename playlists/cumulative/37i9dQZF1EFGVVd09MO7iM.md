@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,005 songs - 2 day 15 hr 48 min
+1,006 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,8 @@
 | [Number One](https://open.spotify.com/track/3r4U9UpHaFurMtq1oCZoAp) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:56 | 2024-01-29 |  |
 | [Numbers](https://open.spotify.com/track/1BHquBolJN628btHI6X0vq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:18 | 2024-01-29 |  |
 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 | 2024-01-29 | 2025-11-28 |
-| [Objects in the Mirror](https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP) | 4:19 | 2025-11-27 |  |
+| [Objects in the Mirror](https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U) | 4:19 | 2026-03-23 |  |
+| [Objects in the Mirror](https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP) | 4:19 | 2025-11-27 | 2026-03-24 |
 | [Obsession](https://open.spotify.com/track/46n0Eptf02RAR1xZbSKEal) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2ksJHf3VXQ9GHI6Ng5bafL) | 4:13 | 2024-06-20 |  |
 | [Oceans](https://open.spotify.com/track/3VeW0pO2pae144rAX2oXPP) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:57 | 2024-01-29 |  |
 | [Oh No](https://open.spotify.com/track/36UY7RDSa2F5C4DtDrHV4s) | [Capone](https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH) | [The Source Magazine \(Fr\) Mixtapes, Vol\. 7](https://open.spotify.com/album/744HwPbVb94Pn1coown2BC) | 2:41 | 2024-01-29 |  |

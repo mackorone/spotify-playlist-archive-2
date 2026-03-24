@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16543,
+  "num_followers": 16542,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADr8X2IuntZLGtS9xD+6b6Q",
+  "snapshot_id": "ab8xAAAAAABt8NkHPPllOqmJHnjlzCf+",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eardrum",
         "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
       },
@@ -299,22 +331,6 @@
       "duration_ms": 235973,
       "name": "In the Mood (feat. Kanye West & Roy Ayers)",
       "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
       "duration_ms": 102812,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avery*Sunshine",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 334360,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 350546,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -579,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
       "artists": [
         {
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 350546,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+      "duration_ms": 280466,
+      "name": "Red, Black & Green",
+      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 142127,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Red, Black & Green",
-      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 333173,
+      "name": "Papa Was A Rolling Stone",
+      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 205167,
       "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
       "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Papa Was A Rolling Stone",
-      "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
     },
     {
       "added_at": null,

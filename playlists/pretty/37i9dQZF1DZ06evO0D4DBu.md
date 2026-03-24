@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,270 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,268 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 44 | [Do You Remember](https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:56 |
 | 45 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 46 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 |
-| 47 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
-| 48 | [Coast Is Clear \(with Chance the Rapper and The Social Experiment\)](https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Donnie Trumpet](https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 4:03 |
+| 47 | [Coast Is Clear \(with Chance the Rapper and The Social Experiment\)](https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Donnie Trumpet](https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 4:03 |
+| 48 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
 | 49 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
 | 50 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 |
 
-Snapshot ID: `ab3fgAAAAAD9giTKYGW5YhFvZPaNi4vz`
+Snapshot ID: `ab8xAAAAAABgWpKLstGBtz/cRDdXcwaV`

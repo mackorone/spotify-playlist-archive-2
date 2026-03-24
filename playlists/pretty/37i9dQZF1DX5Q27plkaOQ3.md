@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 featuring beastboi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,722 likes - 200 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,683 likes - 200 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

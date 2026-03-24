@@ -4,7 +4,7 @@
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 59 min
+69 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [It's Only Country](https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:10 | 2023-06-17 |  |
 | [Keep on Truckin'](https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 | 2023-06-17 |  |
 | [Kokoda \- Only the Brave Ones](https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [John Schumann](https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 4:12 | 2023-06-17 | 2026-01-24 |
-| [Leave Him in the Longyard \- Remastered 2017](https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:16 | 2023-06-17 |  |
+| [Leave Him in the Longyard](https://open.spotify.com/track/5PihL5QfokNByf6OEbjjeI) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best of Lee Kernaghan: Three Decades of Hits](https://open.spotify.com/album/71vxA0KghqPpuiXFc3qGVl) | 3:16 | 2026-03-24 |  |
+| [Leave Him in the Longyard \- Remastered 2017](https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:16 | 2023-06-17 | 2026-03-24 |
 | [Let There Be Cowgirls](https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 2:49 | 2023-06-17 |  |
 | [Lights on the Hill](https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Beautiful Noise \(Deluxe Edition\)](https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X) | 3:30 | 2023-06-17 |  |
 | [Listen to the Radio \- Remastered 2017](https://open.spotify.com/track/0FqHsYbCL25ppr7PyHajbL) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The New Bush](https://open.spotify.com/album/77sAOoJegr423FoQPpLJ4M) | 3:06 | 2023-06-23 | 2025-11-06 |

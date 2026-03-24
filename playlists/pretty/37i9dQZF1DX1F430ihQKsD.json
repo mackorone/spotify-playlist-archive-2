@@ -1,32 +1,28 @@
 {
   "description": "100 % chill, 100 % Montr\u00e9al. Photo: Moses B\u00e9langer",
-  "num_followers": 141341,
+  "num_followers": 141360,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALoAgDkSJNwaNiFJB1C1tlvJ9ocs",
+  "snapshot_id": "AAAAAPD2raMP/krPXY5rkWJd1q0byh+J",
   "tracks": [
     {
       "added_at": "2026-03-20 11:33:55",
       "album": {
-        "name": "Combien de fois",
-        "url": "https://open.spotify.com/album/3jr8O02969iZU43rdaPuyo"
+        "name": "Deux places au cimeti\u00e8re",
+        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
       "artists": [
         {
-          "name": "Moses Belanger",
-          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
-        },
-        {
-          "name": "Mantisse",
-          "url": "https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7"
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Le prix de la paix",
-      "url": "https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt"
+      "duration_ms": 148979,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
     },
     {
       "added_at": "2026-03-20 11:33:55",
@@ -63,18 +59,22 @@
     {
       "added_at": "2026-03-20 11:33:55",
       "album": {
-        "name": "Deux places au cimeti\u00e8re",
-        "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
+        "name": "Combien de fois",
+        "url": "https://open.spotify.com/album/3jr8O02969iZU43rdaPuyo"
       },
       "artists": [
         {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+          "name": "Moses Belanger",
+          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
+        },
+        {
+          "name": "Mantisse",
+          "url": "https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7"
         }
       ],
-      "duration_ms": 148979,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
+      "duration_ms": 187826,
+      "name": "Le prix de la paix",
+      "url": "https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt"
     },
     {
       "added_at": "2026-03-20 11:33:55",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-03-20 11:33:55",
       "album": {
-        "name": "Ici",
-        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
-      },
-      "artists": [
-        {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
-        }
-      ],
-      "duration_ms": 168358,
-      "name": "Ici",
-      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
-    },
-    {
-      "added_at": "2026-03-20 11:33:55",
-      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/1LbHo45fmt3UG6bbWoyLv5"
       },
@@ -139,6 +123,38 @@
       "duration_ms": 180000,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/7nK8G1zc8hegcyZkkHqxuT"
+    },
+    {
+      "added_at": "2026-03-20 11:33:55",
+      "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
+    },
+    {
+      "added_at": "2026-03-20 11:33:55",
+      "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
     },
     {
       "added_at": "2026-03-20 11:33:55",
@@ -227,22 +243,6 @@
       "duration_ms": 154200,
       "name": "La confr\u00e9rie du N\u00e9ant",
       "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
-    },
-    {
-      "added_at": "2026-03-20 11:33:55",
-      "album": {
-        "name": "i see red",
-        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 176138,
-      "name": "i see red",
-      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
     },
     {
       "added_at": "2026-03-20 11:33:55",
@@ -347,6 +347,22 @@
       "duration_ms": 186259,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/5bL4y2bkcG3DAHmFa8jmk1"
+    },
+    {
+      "added_at": "2026-03-23 14:13:22",
+      "album": {
+        "name": "Les jours o\u00f9 il neige \u00e0 tous les postes",
+        "url": "https://open.spotify.com/album/6b7Gvih39GaKHDgs2MDXrL"
+      },
+      "artists": [
+        {
+          "name": "Catherine Leduc",
+          "url": "https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn"
+        }
+      ],
+      "duration_ms": 232429,
+      "name": "Des heurts et des ratages",
+      "url": "https://open.spotify.com/track/52gBEjxp38AXHZ3CAWIbjL"
     },
     {
       "added_at": "2026-03-20 11:33:55",

@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,049 songs - 2 day 4 hr 37 min
+1,050 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 | 2025-06-26 | 2025-08-01 |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-26 | 2025-09-19 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-22 | 2023-09-28 |
-| [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 | 2025-04-14 |  |
+| [BASSIANI](https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB) | 2:43 | 2025-04-14 | 2026-03-24 |
 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-08-25 | 2022-09-20 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-22 | 2025-01-10 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-12 | 2024-09-27 |
@@ -338,6 +338,7 @@
 | [Frero](https://open.spotify.com/track/0hV8s6veVWGJiOaN1XYyF0) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Frero](https://open.spotify.com/album/5MiAugswi2g5TCP8RbK2YD) | 2:56 | 2023-05-02 | 2023-05-12 |
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2023-10-19 | 2023-11-24 |
 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 | 2025-05-23 |
+| [Fröjdo Frido](https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Fröjdo Frido](https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e) | 2:36 | 2026-03-23 |  |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2024-11-15 |
 | [FUCK MITT EKS](https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [FUCK MITT EKS](https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj) | 2:29 | 2022-01-13 | 2022-04-12 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-08-02 | 2023-10-13 |

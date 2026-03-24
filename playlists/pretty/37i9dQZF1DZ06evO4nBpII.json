@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1424,
+  "num_followers": 1437,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABMBzxqDRjQhNqucadBd3L3",
+  "snapshot_id": "ab8xAAAAAABEPuFU4wzVY5QM7UfYRaj1",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - The Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 203640,
-      "name": "When It's Time",
-      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "American Idiot - The Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+      "duration_ms": 203640,
+      "name": "When It's Time",
+      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
     },
     {
       "added_at": null,

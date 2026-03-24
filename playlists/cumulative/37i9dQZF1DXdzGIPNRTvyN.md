@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-447 songs - 21 hr 1 min
+449 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 | 2024-12-13 |
 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 | 2023-03-13 | 2026-01-22 |
 | [Archipelago](https://open.spotify.com/track/0IWNLm9QRIoXOjaepNJLhh) | [Abstract Time](https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ) | [Archipelago](https://open.spotify.com/album/76ohf0RIK8o31vwN8TPqND) | 2:50 | 2026-03-16 |  |
+| [Areal](https://open.spotify.com/track/3KDp84OrH2TLsjs85tS37b) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Areal](https://open.spotify.com/album/7jFuzAjDvq7uMGZuofQL10) | 2:34 | 2026-03-16 |  |
 | [Arms Reach](https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Arms Reach](https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl) | 2:53 | 2024-03-01 | 2025-04-30 |
 | [Arvandor](https://open.spotify.com/track/19eZSugiuVjEkYF88fiOmH) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Arvandor](https://open.spotify.com/album/6toRRHyZY9NCU1eFy4s0En) | 2:37 | 2026-03-16 |  |
 | [As Time Passes By](https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Time Passes By](https://open.spotify.com/album/663yqKc7AQSnZuBhw1x2yi) | 2:50 | 2024-01-30 | 2026-01-23 |
@@ -167,6 +168,7 @@
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-04-01 |  |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-04-01 |  |
 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 | 2023-04-06 | 2024-06-04 |
+| [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-03-16 |  |
 | [Haamesha Flow](https://open.spotify.com/track/4xI5sTLf0MV5fS4NDWjXbV) | [Inner Versum](https://open.spotify.com/artist/1DDrPd2XA55nmMZ04syZvY) | [Haamesha](https://open.spotify.com/album/4qoCXSnaEXrcewdMwokCCI) | 3:22 | 2023-12-18 | 2024-01-19 |
 | [Habitat](https://open.spotify.com/track/3SgW6ntZSJqtndVkHgCnNl) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Habitat](https://open.spotify.com/album/7aOV06bE8iDApcqnE5Ov1X) | 2:54 | 2026-03-06 |  |
 | [Halcyon River](https://open.spotify.com/track/54fAW6nglw7I5bjyeOcka4) | [Mairana](https://open.spotify.com/artist/6gySgP4653N5ZgbBcikirP) | [Halcyon River](https://open.spotify.com/album/0mAEvAFeCwBYKxZNd9V1lz) | 2:43 | 2023-03-13 | 2023-03-21 |
@@ -267,7 +269,7 @@
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-01-24 | 2024-04-02 |
 | [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-24 | 2025-04-02 |
 | [Nature's Collection](https://open.spotify.com/track/1OyWJlEHNl6VTK9QTYTDhG) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Nature's Collection](https://open.spotify.com/album/5Abb45GZUl46sVY20DfZ9F) | 2:57 | 2024-08-22 |  |
-| [Nature's Ocarina](https://open.spotify.com/track/1CTJ1PCxbYhOaCQxvPNVv1) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Nature's Ocarina](https://open.spotify.com/album/79amceda2rWsW6JmzGYA26) | 3:25 | 2026-03-16 |  |
+| [Nature's Ocarina](https://open.spotify.com/track/1CTJ1PCxbYhOaCQxvPNVv1) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Nature's Ocarina](https://open.spotify.com/album/79amceda2rWsW6JmzGYA26) | 3:25 | 2026-03-16 | 2026-03-24 |
 | [Nature's Voice](https://open.spotify.com/track/3SgkVWRFrcnBMfQKOqnYfm) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Nature's Voice](https://open.spotify.com/album/1FzQbuZeM1nOZk6DrwIhjB) | 2:49 | 2025-10-01 |  |
 | [Nemora](https://open.spotify.com/track/5gplkckudyKkAp3qnxikb0) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Nemora](https://open.spotify.com/album/68wGpiY8PWGypZqXofzdm7) | 2:15 | 2026-02-18 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
@@ -293,7 +295,7 @@
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/5VDpXmKgYlhwcDRm7Mzgm8) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/23kRnl0gIuVBMmeOn1DWae) | 1:17 | 2023-05-30 | 2023-12-19 |
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9) | 1:17 | 2023-01-24 | 2023-04-30 |
 | [Peace Of Mind](https://open.spotify.com/track/4VRVPzvG6bleF8tvfYhBxX) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Peace Of Mind](https://open.spotify.com/album/2wZIPAxLs8TMTt9ieu6hiY) | 2:48 | 2024-11-28 |  |
-| [Peaceful Moment](https://open.spotify.com/track/6chXXOZRhCIpdSeDSR3uev) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Peaceful Moment](https://open.spotify.com/album/0hu15zfDRbSdwPaBAmzfvE) | 2:29 | 2026-03-16 |  |
+| [Peaceful Moment](https://open.spotify.com/track/6chXXOZRhCIpdSeDSR3uev) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Peaceful Moment](https://open.spotify.com/album/0hu15zfDRbSdwPaBAmzfvE) | 2:29 | 2026-03-16 | 2026-03-24 |
 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 | 2025-10-01 | 2026-03-07 |
 | [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-28 | 2026-01-22 |
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Don Diablo, Wiz Khalifa & Chri$stian Gate$
 
-924 songs - 1 day 23 hr 10 min
+925 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 | 2025-08-04 | 2025-09-19 |
 | [Hold On](https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Hold On](https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv) | 3:24 | 2025-10-23 | 2025-11-28 |
 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 | 2025-10-31 | 2025-11-28 |
-| [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 | 2026-02-19 |  |
+| [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 | 2026-02-19 | 2026-03-24 |
 | [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 | 2025-11-27 | 2025-12-05 |
 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 | 2026-01-29 | 2026-02-20 |
 | [Hot Girls](https://open.spotify.com/track/4u3Veq00x3OwGg8CYtjBvT) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Hot Girls](https://open.spotify.com/album/6pfpwgpCyQUzvbbrwZbZVB) | 2:22 | 2025-12-11 | 2026-01-30 |
@@ -357,6 +357,7 @@
 | [House Nation](https://open.spotify.com/track/1MKW6cawwale9HH9W7NoNN) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [House Nation](https://open.spotify.com/album/2Iox15UAlzKEdxyLPmbfy3) | 2:48 | 2026-01-08 | 2026-02-13 |
 | [House On Fire](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [So Far](https://open.spotify.com/album/4ph2JlJubDNUoqj6ceA6WV) | 2:48 | 2025-12-11 | 2026-01-27 |
 | [House Party](https://open.spotify.com/track/5Xey2vHNJPAYfrRPOs81mA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [House Party](https://open.spotify.com/album/67Fig18sgK6uebGB6CaNw5) | 3:17 | 2025-09-18 | 2025-10-10 |
+| [Houseboy](https://open.spotify.com/track/6SI6m9H51acvV0poAOvGHS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Houseboy](https://open.spotify.com/album/04lXyW1kr6xRKw89cnqNJO) | 2:18 | 2026-03-23 |  |
 | [How Does It Feel](https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [How Does It Feel](https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V) | 3:33 | 2026-03-12 |  |
 | [How This Ends](https://open.spotify.com/track/2sBmi7DdkifJWgCDpuF6YL) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [How This Ends](https://open.spotify.com/album/2NaFfIJV7kiIatOKiZSp3U) | 3:01 | 2025-12-04 | 2026-01-23 |
 | [Howweroll](https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Howweroll](https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz) | 2:35 | 2025-12-11 | 2026-01-20 |

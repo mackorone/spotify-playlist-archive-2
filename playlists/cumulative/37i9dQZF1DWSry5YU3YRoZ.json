@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 191945,
       "name": "of the waves",
       "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
@@ -2000,6 +2000,24 @@
       "duration_ms": 292276,
       "name": "ONGI (Warmth)",
       "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
+    },
+    {
+      "album": {
+        "name": "Our Season",
+        "url": "https://open.spotify.com/album/1gltA7mMAzVSqI65XNroCz"
+      },
+      "artists": [
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Our Season",
+      "url": "https://open.spotify.com/track/0rnr4jI4qTZ6pUoi9Lmlbf"
     },
     {
       "album": {
@@ -2580,6 +2598,24 @@
       "duration_ms": 224066,
       "name": "They say, that is the love",
       "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
+    },
+    {
+      "album": {
+        "name": "A diary for me",
+        "url": "https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1"
+      },
+      "artists": [
+        {
+          "name": "Jo SoJeong",
+          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Think of you",
+      "url": "https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG"
     },
     {
       "album": {

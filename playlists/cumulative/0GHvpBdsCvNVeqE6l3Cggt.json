@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Feels Good",
+        "url": "https://open.spotify.com/album/5l63DQvlXDJTbETo4xCGFG"
+      },
+      "artists": [
+        {
+          "name": "Jude Todd",
+          "url": "https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Feels Good",
+      "url": "https://open.spotify.com/track/3tmBkPuLf9v9ogrcT2dp9B"
+    },
+    {
+      "album": {
         "name": "Fool Me Once",
         "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
       },
@@ -1022,6 +1040,24 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "album": {
+        "name": "Mechanical Ghost",
+        "url": "https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH"
+      },
+      "artists": [
+        {
+          "name": "Holographica",
+          "url": "https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191839,
+      "name": "Love\u2019s Sweet Tide",
+      "url": "https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ"
     },
     {
       "album": {

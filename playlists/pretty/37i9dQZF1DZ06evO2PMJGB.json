@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265014,
+  "num_followers": 265021,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADfNR3SKF3p7KTK0CkvDNNW",
+  "snapshot_id": "ab8xAAAAAACx4dmh34BapsMbDbDAfaEQ",
   "tracks": [
     {
       "added_at": null,
@@ -582,11 +582,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 186121,
-      "name": "penhasco.",
-      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -611,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 171490,
-      "name": "Consola\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -647,26 +631,6 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -695,6 +659,22 @@
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 186121,
+      "name": "penhasco.",
+      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 171490,
+      "name": "Consola\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -747,26 +747,6 @@
       "duration_ms": 130446,
       "name": "INTERE$$EIRA",
       "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 234950,
-      "name": "Um Pouco de Mim",
-      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 234950,
+      "name": "Um Pouco de Mim",
+      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 181173,
       "name": "CAF\u00c9 DA MANH\u00c3 ;P",
       "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 152752,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posi\u00e7\u00e3o de Ataque",
         "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 149090,
       "name": "Posi\u00e7\u00e3o de Ataque",
       "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 154867,
-      "name": "Carta ao Tom 74",
-      "url": "https://open.spotify.com/track/4zkEPGEg0k40aFpUDlX47g"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 162406,
       "name": "Calling Me",
       "url": "https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 154867,
+      "name": "Carta ao Tom 74",
+      "url": "https://open.spotify.com/track/4zkEPGEg0k40aFpUDlX47g"
     },
     {
       "added_at": null,

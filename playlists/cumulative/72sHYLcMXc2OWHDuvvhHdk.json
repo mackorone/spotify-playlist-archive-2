@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "2013",
+        "url": "https://open.spotify.com/album/0ueNDRd4d50lXblAyfXpt7"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "2013",
+      "url": "https://open.spotify.com/track/57rMcCG6plomqIjwpDjzOU"
+    },
+    {
+      "album": {
         "name": "28 degrees by night",
         "url": "https://open.spotify.com/album/3D17g7UNRR2H7uPT4kiz9O"
       },
@@ -2444,6 +2462,24 @@
       "duration_ms": 202728,
       "name": "A|| 0vr the Place",
       "url": "https://open.spotify.com/track/6ya5WcHhu3pJNJ1kvh9qAF"
+    },
+    {
+      "album": {
+        "name": "B.Z.M.",
+        "url": "https://open.spotify.com/album/5N1gHvCRYrs9YrMYcbHsiE"
+      },
+      "artists": [
+        {
+          "name": "Tandaram Way",
+          "url": "https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204959,
+      "name": "B.Z.M.",
+      "url": "https://open.spotify.com/track/1xoYrU0he8WBoVd8XDflhY"
     },
     {
       "album": {
@@ -10105,6 +10141,24 @@
     },
     {
       "album": {
+        "name": "New Days//Lost Days",
+        "url": "https://open.spotify.com/album/0SqT4DaeXdkZpCwYJKj0Ay"
+      },
+      "artists": [
+        {
+          "name": "Neon Trace",
+          "url": "https://open.spotify.com/artist/3H3dnLHdnGFfto918KeiAf"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271033,
+      "name": "Everybody Does",
+      "url": "https://open.spotify.com/track/5rjdzNR8XR5OeNoBnkzEu6"
+    },
+    {
+      "album": {
         "name": "Wonder Baa",
         "url": "https://open.spotify.com/album/3iibsPquM37ODtiEpwUCxN"
       },
@@ -11661,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Forgiveness (Redux)",
+        "url": "https://open.spotify.com/album/2cA3JR9TRe22zShtc00mUp"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Panetta",
+          "url": "https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Forgiveness (Redux)",
+      "url": "https://open.spotify.com/track/64GwsWtFMpbmblchEoRE3p"
+    },
+    {
+      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/0hIn4Ci4fYrkJNT9ydUxmw"
       },
@@ -12760,6 +12832,24 @@
       "duration_ms": 208000,
       "name": "Good Bye Love",
       "url": "https://open.spotify.com/track/4ebGxk7Z1lSffdyOfYtNio"
+    },
+    {
+      "album": {
+        "name": "Good Ones",
+        "url": "https://open.spotify.com/album/1I8j722XEJdMHvYH5FxWLJ"
+      },
+      "artists": [
+        {
+          "name": "CEDER",
+          "url": "https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191419,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/1MCEYC0dXXLIbH0OSOZRYX"
     },
     {
       "album": {
@@ -15337,6 +15427,28 @@
     },
     {
       "album": {
+        "name": "I Can Stay",
+        "url": "https://open.spotify.com/album/2F3vR22eozZgiMCrRnyTSr"
+      },
+      "artists": [
+        {
+          "name": "Ryan McDavid",
+          "url": "https://open.spotify.com/artist/76Txp4eDTx24joHD6B24CQ"
+        },
+        {
+          "name": "Ben Franklyn",
+          "url": "https://open.spotify.com/artist/2A5E8yZCclpCwKU0Jh5ucQ"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219028,
+      "name": "I Can Stay",
+      "url": "https://open.spotify.com/track/4QxTwgAJZWY9mYRu9BLEbo"
+    },
+    {
+      "album": {
         "name": "I Can't Afford to Miss You In This Economy",
         "url": "https://open.spotify.com/album/2FBPvWL9SfUwNN8feW7LBk"
       },
@@ -15868,6 +15980,24 @@
       "duration_ms": 164681,
       "name": "I promised",
       "url": "https://open.spotify.com/track/51aMzak9UFFxXVjYbzMoXV"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/705RCARzXj0a9mbHkkd3SU"
+      },
+      "artists": [
+        {
+          "name": "Cyfnos",
+          "url": "https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179363,
+      "name": "I Regret That Now",
+      "url": "https://open.spotify.com/track/7u7GQWMtanL18L3uTfs5qi"
     },
     {
       "album": {
@@ -16434,6 +16564,24 @@
       "duration_ms": 163304,
       "name": "Icon",
       "url": "https://open.spotify.com/track/4kK1b2DaVJ7vgBRIOLq1D3"
+    },
+    {
+      "album": {
+        "name": "GEOMETRY THROUGH INSECT EYES",
+        "url": "https://open.spotify.com/album/1miCEJVCQWRL6TuwqzipYj"
+      },
+      "artists": [
+        {
+          "name": "Sergio Di Martino",
+          "url": "https://open.spotify.com/artist/1dXzSKQi5XTnlRXKNu1E1g"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135705,
+      "name": "ICOSAHEDRAL FLIGHT OF BUTTERFLIES",
+      "url": "https://open.spotify.com/track/03u14u7dSTTMGoEWkIJ8g8"
     },
     {
       "album": {
@@ -21627,6 +21775,24 @@
     },
     {
       "album": {
+        "name": "Il \u00c9tait Une Fois : Chapitre 1",
+        "url": "https://open.spotify.com/album/5eha6r0NIazAK73nOKRwPB"
+      },
+      "artists": [
+        {
+          "name": "K2iraoff",
+          "url": "https://open.spotify.com/artist/0wYQ920rSRvoyDH7GiiPDq"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6oO6YCi6SWRYNe8b8SlHp0"
+    },
+    {
+      "album": {
         "name": "Mi Coraz\u00f3n En Pedazos",
         "url": "https://open.spotify.com/album/0JgLGUnsb4SXd6Z0IyQum3"
       },
@@ -23374,6 +23540,24 @@
       "duration_ms": 168979,
       "name": "NO AIR",
       "url": "https://open.spotify.com/track/5mHnbg3IyKiL73v4UDYzs2"
+    },
+    {
+      "album": {
+        "name": "No Warranty",
+        "url": "https://open.spotify.com/album/2H4vCyyYv7IrjbdKOzG1ne"
+      },
+      "artists": [
+        {
+          "name": "Red Sky Revival",
+          "url": "https://open.spotify.com/artist/1TungonbuYs9Ls1ppCYpBQ"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215711,
+      "name": "No Day Like Today",
+      "url": "https://open.spotify.com/track/3gcHdvtukBxrkXZsu5S3dc"
     },
     {
       "album": {
@@ -26837,6 +27021,24 @@
     },
     {
       "album": {
+        "name": "Queen 94",
+        "url": "https://open.spotify.com/album/6337sCRW0ozrtqiT2rbwBo"
+      },
+      "artists": [
+        {
+          "name": "The River Noir",
+          "url": "https://open.spotify.com/artist/2CshPfHFubq7EAbtKTcuGx"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271719,
+      "name": "Queen 94",
+      "url": "https://open.spotify.com/track/2A2cXIvluBYM4v1BbqFRWg"
+    },
+    {
+      "album": {
         "name": "Quel Giorno (Caesar's Friend Rmx)",
         "url": "https://open.spotify.com/album/64c74PRa6UxS6US4CDPFAJ"
       },
@@ -28431,6 +28633,24 @@
     },
     {
       "album": {
+        "name": "Sad Green Eyes",
+        "url": "https://open.spotify.com/album/0d3Em78EUvzTePFQJJwmRl"
+      },
+      "artists": [
+        {
+          "name": "Richard Scott",
+          "url": "https://open.spotify.com/artist/1fHyu6rULofa3awJf1Bh5t"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311327,
+      "name": "Sad Green Eyes",
+      "url": "https://open.spotify.com/track/4FNEjYpBKx0igmV5Emvdks"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/3Qw5Ol4sl6tEvEjSdT11yM"
       },
@@ -28770,6 +28990,24 @@
       "duration_ms": 311771,
       "name": "Scarborough Station",
       "url": "https://open.spotify.com/track/6UfZkwpvJ5zCP5zJ36Y93Y"
+    },
+    {
+      "album": {
+        "name": "Sedative Sands",
+        "url": "https://open.spotify.com/album/45fnkLss7v7uHi8lOcgQxV"
+      },
+      "artists": [
+        {
+          "name": "A Walking Miracle",
+          "url": "https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174367,
+      "name": "Scattered Across The Sky",
+      "url": "https://open.spotify.com/track/4UKwvLIC2iw5KndgoEePRt"
     },
     {
       "album": {
@@ -31123,6 +31361,24 @@
     },
     {
       "album": {
+        "name": "Stay Back",
+        "url": "https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145157,
+      "name": "Stay Back",
+      "url": "https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC"
+    },
+    {
+      "album": {
         "name": "The Clone",
         "url": "https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs"
       },
@@ -31434,6 +31690,24 @@
       "duration_ms": 236104,
       "name": "Streets",
       "url": "https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1"
+    },
+    {
+      "album": {
+        "name": "String",
+        "url": "https://open.spotify.com/album/0gwB70bEKeFzirHB4Gwyoi"
+      },
+      "artists": [
+        {
+          "name": "Eye No",
+          "url": "https://open.spotify.com/artist/4mLGvOqHGuu5ZfTYIyU5Yu"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "String",
+      "url": "https://open.spotify.com/track/6xVGECLL0CqEca5lG2GTh7"
     },
     {
       "album": {
@@ -33075,6 +33349,24 @@
     },
     {
       "album": {
+        "name": "El regreso de Misha",
+        "url": "https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb"
+      },
+      "artists": [
+        {
+          "name": "Ribera del J\u00facar Revival",
+          "url": "https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Teresa",
+      "url": "https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK"
+    },
+    {
+      "album": {
         "name": "Teri Meri",
         "url": "https://open.spotify.com/album/4VB6QPt9CCl7rl34JdY8wQ"
       },
@@ -33819,6 +34111,24 @@
     },
     {
       "album": {
+        "name": "The Magician's Hand",
+        "url": "https://open.spotify.com/album/7dr7pD93gkgEaAt0rXH2M7"
+      },
+      "artists": [
+        {
+          "name": "Neon Aero",
+          "url": "https://open.spotify.com/artist/2cwE0Ulo4HipQNS8dYRD6J"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "The Magician's Hand",
+      "url": "https://open.spotify.com/track/0NsB7m38S8KmDpsE7ZL3lG"
+    },
+    {
+      "album": {
         "name": "Room 23",
         "url": "https://open.spotify.com/album/4WnZsAmV1pWbVEL05raEG3"
       },
@@ -34438,6 +34748,24 @@
       "duration_ms": 288104,
       "name": "These City Streets",
       "url": "https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18"
+    },
+    {
+      "album": {
+        "name": "These Dire Days",
+        "url": "https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs"
+      },
+      "artists": [
+        {
+          "name": "Calum Baird",
+          "url": "https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "These Dire Days",
+      "url": "https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1"
     },
     {
       "album": {

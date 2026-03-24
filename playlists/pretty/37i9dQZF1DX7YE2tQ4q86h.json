@@ -1,12 +1,12 @@
 {
   "description": "Cannons are having their main pop girl moment \ud83c\udd98",
-  "num_followers": 223993,
+  "num_followers": 224006,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARexCtDjCokHeQEo7WHTU/L0D2a",
+  "snapshot_id": "AAAAAAk6M/p5Yc94lqoiZT0hhOCXPlVn",
   "tracks": [
     {
       "added_at": "2026-03-20 04:00:57",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
     },
     {
-      "added_at": "2026-03-20 04:00:57",
-      "album": {
-        "name": "Digital Girl",
-        "url": "https://open.spotify.com/album/7sTZXQHgiLUZBUBVrugT51"
-      },
-      "artists": [
-        {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Digital Girl",
-      "url": "https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh"
-    },
-    {
       "added_at": "2026-03-13 04:00:45",
       "album": {
         "name": "Club Song",
@@ -55,38 +39,6 @@
       "duration_ms": 147706,
       "name": "Club Song",
       "url": "https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y"
-    },
-    {
-      "added_at": "2026-03-20 04:00:57",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/6c2DnNX1aGy7dAJ3xSaXlb"
-      },
-      "artists": [
-        {
-          "name": "Honey.",
-          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
-        }
-      ],
-      "duration_ms": 188702,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5GiFgGd6y4X3YtyCWAF26N"
-    },
-    {
-      "added_at": "2026-03-20 04:00:57",
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
-        }
-      ],
-      "duration_ms": 162683,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -107,6 +59,70 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:57",
+      "album": {
+        "name": "Digital Girl",
+        "url": "https://open.spotify.com/album/7sTZXQHgiLUZBUBVrugT51"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/3GpQ2bhljJkAF1IXaShbMh"
+    },
+    {
+      "added_at": "2026-03-24 02:26:25",
+      "album": {
+        "name": "NOW!!",
+        "url": "https://open.spotify.com/album/3Rg8j02dpIfrU2Wts4XoHF"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "duration_ms": 229785,
+      "name": "NOW!!",
+      "url": "https://open.spotify.com/track/0sKwm4X2Btkg5HpUUt5Vov"
+    },
+    {
+      "added_at": "2026-03-20 04:00:57",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "duration_ms": 162683,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
+    },
+    {
+      "added_at": "2026-03-20 04:00:57",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/6c2DnNX1aGy7dAJ3xSaXlb"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "duration_ms": 188702,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5GiFgGd6y4X3YtyCWAF26N"
     },
     {
       "added_at": "2026-03-20 04:00:57",
@@ -1019,22 +1035,6 @@
       "duration_ms": 180480,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/2hljNj7WvI5hEHzC4qFWoz"
-    },
-    {
-      "added_at": "2026-02-06 05:00:02",
-      "album": {
-        "name": "Some Kinda Heaven",
-        "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Some Kinda Heaven",
-      "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
     },
     {
       "added_at": "2026-02-06 05:00:02",

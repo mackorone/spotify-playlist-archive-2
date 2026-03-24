@@ -6,7 +6,7 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB206HSetlVfprErjJDFm0Ko2IjJ/M9",
+  "snapshot_id": "AAB298MzM0ejqPyxE9+th1ni5fS2iBBe",
   "tracks": [
     {
       "added_at": "2026-03-20 15:26:56",
@@ -23,6 +23,22 @@
       "duration_ms": 275621,
       "name": "I Can't Sleep",
       "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
+    },
+    {
+      "added_at": "2026-02-26 17:03:26",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf"
+      },
+      "artists": [
+        {
+          "name": "The Shambles",
+          "url": "https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON"
     },
     {
       "added_at": "2026-03-22 11:46:49",
@@ -55,22 +71,6 @@
       "duration_ms": 228866,
       "name": "Patsy Kensit",
       "url": "https://open.spotify.com/track/6rWaw5oGNDOcT52Zsysjx9"
-    },
-    {
-      "added_at": "2026-02-26 17:03:26",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf"
-      },
-      "artists": [
-        {
-          "name": "The Shambles",
-          "url": "https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON"
     },
     {
       "added_at": "2026-02-26 17:03:36",
@@ -331,6 +331,22 @@
       "duration_ms": 185227,
       "name": "Out Of Wine",
       "url": "https://open.spotify.com/track/3GmBZBdFrcipnjygnZkLkq"
+    },
+    {
+      "added_at": "2026-03-21 11:17:58",
+      "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
       "added_at": "2026-02-26 17:10:54",
@@ -709,6 +725,38 @@
       "url": "https://open.spotify.com/track/3xtFNPUmFR9XuKZvKZ5uXI"
     },
     {
+      "added_at": "2026-03-24 01:11:27",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:11:13",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
       "added_at": "2026-03-21 11:11:50",
       "album": {
         "name": "Beginnings and Endings",
@@ -835,6 +883,38 @@
       "duration_ms": 157259,
       "name": "Scars",
       "url": "https://open.spotify.com/track/6KHI4YRxRA4CYq17tC0Rd4"
+    },
+    {
+      "added_at": "2026-03-24 01:10:20",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:10:58",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
     },
     {
       "added_at": "2026-02-26 17:16:45",
@@ -1401,70 +1481,6 @@
       "url": "https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ"
     },
     {
-      "added_at": "2026-03-21 11:18:05",
-      "album": {
-        "name": "I Can't Sleep",
-        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
-      },
-      "artists": [
-        {
-          "name": "Diving Horse",
-          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
-        }
-      ],
-      "duration_ms": 275621,
-      "name": "I Can't Sleep",
-      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
-    },
-    {
-      "added_at": "2026-03-20 15:27:32",
-      "album": {
-        "name": "I Can't Sleep",
-        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
-      },
-      "artists": [
-        {
-          "name": "Diving Horse",
-          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
-        }
-      ],
-      "duration_ms": 275621,
-      "name": "I Can't Sleep",
-      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
-    },
-    {
-      "added_at": "2026-03-21 11:18:33",
-      "album": {
-        "name": "I Can't Sleep",
-        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
-      },
-      "artists": [
-        {
-          "name": "Diving Horse",
-          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
-        }
-      ],
-      "duration_ms": 275621,
-      "name": "I Can't Sleep",
-      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
-    },
-    {
-      "added_at": "2026-03-21 11:17:58",
-      "album": {
-        "name": "I Can't Sleep",
-        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
-      },
-      "artists": [
-        {
-          "name": "Diving Horse",
-          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
-        }
-      ],
-      "duration_ms": 275621,
-      "name": "I Can't Sleep",
-      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
-    },
-    {
       "added_at": "2026-03-06 22:19:41",
       "album": {
         "name": "Sunday feelin blue",
@@ -1497,36 +1513,52 @@
       "url": "https://open.spotify.com/track/2RsppsDbLFjkmBodREdLqE"
     },
     {
-      "added_at": "2026-03-06 22:19:49",
+      "added_at": "2026-03-22 12:59:26",
       "album": {
-        "name": "Death by Love",
-        "url": "https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
       },
       "artists": [
         {
-          "name": "Sean By Mercy",
-          "url": "https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ"
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
         }
       ],
-      "duration_ms": 272707,
-      "name": "Death by Love",
-      "url": "https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6"
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
     },
     {
-      "added_at": "2026-03-21 10:56:53",
+      "added_at": "2026-03-24 01:00:16",
       "album": {
-        "name": "Yes Father (Again?)",
-        "url": "https://open.spotify.com/album/0oTi8DDW8hi5I3i0HUHcef"
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
       },
       "artists": [
         {
-          "name": "Clay Rings",
-          "url": "https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp"
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
         }
       ],
-      "duration_ms": 249813,
-      "name": "Yes Father (Again?)",
-      "url": "https://open.spotify.com/track/1p5RMafrbvHIggdHuUj6MT"
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-21 11:18:05",
+      "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
     },
     {
       "added_at": "2026-03-06 22:27:31",
@@ -1545,6 +1577,86 @@
       "url": "https://open.spotify.com/track/4j4acJGSIldTQkArPPnLeM"
     },
     {
+      "added_at": "2026-03-06 22:19:49",
+      "album": {
+        "name": "Death by Love",
+        "url": "https://open.spotify.com/album/0990HRFNLTzvf4l9Qi3elQ"
+      },
+      "artists": [
+        {
+          "name": "Sean By Mercy",
+          "url": "https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ"
+        }
+      ],
+      "duration_ms": 272707,
+      "name": "Death by Love",
+      "url": "https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6"
+    },
+    {
+      "added_at": "2026-03-24 01:10:11",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:10:47",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
+      "added_at": "2026-03-20 15:27:32",
+      "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
+    },
+    {
+      "added_at": "2026-03-21 10:56:53",
+      "album": {
+        "name": "Yes Father (Again?)",
+        "url": "https://open.spotify.com/album/0oTi8DDW8hi5I3i0HUHcef"
+      },
+      "artists": [
+        {
+          "name": "Clay Rings",
+          "url": "https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Yes Father (Again?)",
+      "url": "https://open.spotify.com/track/1p5RMafrbvHIggdHuUj6MT"
+    },
+    {
       "added_at": "2026-03-21 10:47:55",
       "album": {
         "name": "I Feel Fine",
@@ -1561,7 +1673,135 @@
       "url": "https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk"
     },
     {
-      "added_at": "2026-03-22 12:59:26",
+      "added_at": "2026-03-24 01:10:16",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:10:52",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
+      "added_at": "2026-03-21 11:18:33",
+      "album": {
+        "name": "I Can't Sleep",
+        "url": "https://open.spotify.com/album/6DCMGA5F8dE1xNmucjNDtB"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "duration_ms": 275621,
+      "name": "I Can't Sleep",
+      "url": "https://open.spotify.com/track/2assc1m91VaGSE02N1fyVR"
+    },
+    {
+      "added_at": "2026-03-24 01:10:25",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:10:29",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:10:34",
+      "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-24 01:11:05",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
+      "added_at": "2026-03-24 01:11:09",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"
+      },
+      "artists": [
+        {
+          "name": "The Cosmic Dead",
+          "url": "https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje"
+    },
+    {
+      "added_at": "2026-03-24 01:11:37",
       "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8"

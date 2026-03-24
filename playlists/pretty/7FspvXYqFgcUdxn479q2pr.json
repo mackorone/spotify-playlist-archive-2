@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31664,
+  "num_followers": 31660,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvh7OT7t3G2vYl2fQonvFXruqpOSbK",
+  "snapshot_id": "AAAviQgk56o9j7k5LjAcxCXJb6e9kYBM",
   "tracks": [
     {
       "added_at": "2026-03-20 20:21:51",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/0DBFy1e04NZJqcKFaeJRvk"
     },
     {
+      "added_at": "2026-03-23 15:09:09",
+      "album": {
+        "name": "Everybody On The Floor",
+        "url": "https://open.spotify.com/album/5osayCMUsuWmGbIRpW134T"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fowler",
+          "url": "https://open.spotify.com/artist/2LqVchXnpLa7zhwxwVcsjW"
+        }
+      ],
+      "duration_ms": 213543,
+      "name": "Everybody On The Floor",
+      "url": "https://open.spotify.com/track/6w42JMnW2hxLoij8t4mJGB"
+    },
+    {
       "added_at": "2026-03-20 20:21:51",
       "album": {
         "name": "Missin U",
@@ -1695,6 +1711,26 @@
       "duration_ms": 196691,
       "name": "Paradise 3000",
       "url": "https://open.spotify.com/track/16bnMSxKPt9ZxTkm3NacEe"
+    },
+    {
+      "added_at": "2026-03-23 15:09:10",
+      "album": {
+        "name": "Feel It Coming",
+        "url": "https://open.spotify.com/album/7gBhZhywuVuiC3z44IwW0B"
+      },
+      "artists": [
+        {
+          "name": "Sallok",
+          "url": "https://open.spotify.com/artist/3Z8RsSMEuDW1tS3EP0x4WJ"
+        },
+        {
+          "name": "Jolie",
+          "url": "https://open.spotify.com/artist/3TwN012FBy5wpDOnw0YLoZ"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "Feel It Coming",
+      "url": "https://open.spotify.com/track/6ikgTIeT1PyqmJg7JfiYeS"
     },
     {
       "added_at": "2026-03-20 20:21:51",

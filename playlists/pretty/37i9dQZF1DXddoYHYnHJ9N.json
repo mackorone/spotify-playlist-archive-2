@@ -1,15 +1,15 @@
 {
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T.Danny",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T. Danny",
   "num_followers": 94575,
   "original_name": "Hot Hits Magyarorsz\u00e1g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5Wk8nDECX4Y1wrBUjlxJkdXkBy",
+  "snapshot_id": "AAAAALp20kSu0jM41obN2JqeQp5vOiz9",
   "tracks": [
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "xXx",
         "url": "https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
-        "name": "Magyar Tenger Kal\u00f3zai",
-        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 191193,
-      "name": "\u00c1llamhaj\u00f3",
-      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "H\u0171tlen D\u00e9lib\u00e1b",
         "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
@@ -61,7 +65,39 @@
       "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "Magyar Tenger Kal\u00f3zai",
+        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 191193,
+      "name": "\u00c1llamhaj\u00f3",
+      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -81,7 +117,31 @@
       "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "TIP TIP",
+        "url": "https://open.spotify.com/album/35FPaskal0aoiu8iVfXgFD"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "TIP TIP",
+      "url": "https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "TAKE YOUR TIME",
         "url": "https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot"
@@ -97,7 +157,7 @@
       "url": "https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
@@ -113,7 +173,7 @@
       "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
@@ -133,7 +193,7 @@
       "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Magyar Tenger Kal\u00f3zai",
         "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
@@ -149,23 +209,7 @@
       "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -181,7 +225,7 @@
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "TOP TIER",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
@@ -197,7 +241,23 @@
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
@@ -221,23 +281,59 @@
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 137388,
+      "name": "Passenger Princess",
+      "url": "https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "STARBOY",
         "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
@@ -253,7 +349,7 @@
       "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "HATALMASABB, MINT GONDOLN\u00c1D",
         "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
@@ -269,7 +365,35 @@
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "Tirpa",
+          "url": "https://open.spotify.com/artist/0JKuWiUU9NSMX6aHa2hX6S"
+        },
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "BUDAI GETT\u00d3",
+      "url": "https://open.spotify.com/track/5fMwBmQDvzR4NlDPbNklZf"
+    },
+    {
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "BOTR\u00c1NY",
         "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
@@ -285,7 +409,7 @@
       "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "NU M\u0102 LAS\u0102",
         "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
@@ -305,7 +429,7 @@
       "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -325,23 +449,23 @@
       "url": "https://open.spotify.com/track/7K7nE6SeqGPcYpQ6Z1M6qx"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R"
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
       },
       "artists": [
         {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 137388,
-      "name": "Passenger Princess",
-      "url": "https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl"
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -357,7 +481,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "ICE SPICE",
         "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
@@ -373,7 +497,7 @@
       "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "AFTERPARTY",
         "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
@@ -393,7 +517,7 @@
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -413,7 +537,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
@@ -433,7 +557,7 @@
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Megcsalok veled ak\u00e1rkit",
         "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
@@ -449,7 +573,7 @@
       "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "KERTES H\u00c1Z",
         "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
@@ -465,7 +589,7 @@
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Felsz\u00e1ll\u00f3 \u00c1g",
         "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
@@ -489,7 +613,7 @@
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -505,7 +629,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "SeanPaul",
         "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
@@ -537,7 +661,7 @@
       "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
@@ -557,7 +681,7 @@
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Lelkem, Nyugodj",
         "url": "https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q"
@@ -573,7 +697,7 @@
       "url": "https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "vemzavr!",
         "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
@@ -593,7 +717,7 @@
       "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
         "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
@@ -613,7 +737,7 @@
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "FREY TIMI",
         "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
@@ -629,7 +753,7 @@
       "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "HA MEGHALOK SE",
         "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
@@ -649,39 +773,7 @@
       "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-        "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 135172,
-      "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-      "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -701,7 +793,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Pap\u00edrom",
         "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
@@ -717,7 +809,7 @@
       "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
@@ -737,7 +829,7 @@
       "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
@@ -757,7 +849,7 @@
       "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
@@ -773,7 +865,7 @@
       "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "BE VAGYOK Z\u00c1RVA",
         "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
@@ -789,31 +881,7 @@
       "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
-        },
-        {
-          "name": "Essemm",
-          "url": "https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu"
-        },
-        {
-          "name": "Beat",
-          "url": "https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD"
-        }
-      ],
-      "duration_ms": 176969,
-      "name": "Rajosan 3",
-      "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -829,39 +897,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "KETT\u0150/KETT\u0150",
-        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "KETT\u0150/KETT\u0150",
-      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -877,27 +913,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-03-16 16:57:49",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2026-03-16 16:57:49",
+      "added_at": "2026-03-23 13:49:54",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"

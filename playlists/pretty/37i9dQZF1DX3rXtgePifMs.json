@@ -491,6 +491,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "What Comes Will Come",
+      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 168000,
       "name": "Killa",
       "url": "https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "STRUGGLER",
-        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "What Comes Will Come",
-      "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Why You Waiting?",
         "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "The Gates Will Open",
-        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
-      },
-      "artists": [
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 346775,
-      "name": "The Gates Will Open",
-      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

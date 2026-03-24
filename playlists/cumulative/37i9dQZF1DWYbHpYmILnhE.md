@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-133 songs - 6 hr 4 min
+134 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-31 |  |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 | 2025-11-07 |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
+| [Grace](https://open.spotify.com/track/47ACx4QM5utvprs5ecI0bO) | [Stahgee](https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj) | [Different 1](https://open.spotify.com/album/5SdBedpAlk3lCjX3BaLtn7) | 2:28 | 2026-03-23 |  |
 | [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 | 2025-09-05 |  |
 | [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 | 2024-09-10 |
 | [High As Fuck](https://open.spotify.com/track/4rCNAyarEBQagsU86tpwzg) | [Houseofnoregret](https://open.spotify.com/artist/3J6v498ZVQVUMSM7oIUH3H), [KINGICON](https://open.spotify.com/artist/0yT0vIdMNKPh8ONPYSsLTP), [B.I.G Pandah](https://open.spotify.com/artist/09HH6z5ApPKsV4ZIlIv0jZ), [4:44](https://open.spotify.com/artist/29WLPf8ADJ9wJgrLJ4MGrr) | [High As Fuck](https://open.spotify.com/album/6Zv8HT9bHWAd0OGbOocHC1) | 2:33 | 2024-06-28 | 2024-11-09 |
@@ -88,7 +89,7 @@
 | [NOBODY](https://open.spotify.com/track/7zez4kQXEoH831LiVNEAPc) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [NOBODY](https://open.spotify.com/album/1n9oLXOtGnDdTjwne0LLh2) | 2:26 | 2026-03-06 |  |
 | [Normal Day](https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [N6](https://open.spotify.com/artist/7FFQabcYovGITece3mUXZM), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Normal Day](https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE) | 3:20 | 2024-06-28 | 2025-09-05 |
 | [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 | 2024-07-26 | 2026-02-20 |
-| [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 | 2026-02-20 |  |
+| [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 | 2026-02-20 | 2026-03-24 |
 | [O Di Dan Dan \- The Remix](https://open.spotify.com/track/6Dc89QRm8WbjBKTs8RNl80) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [O Di Dan Dan \(The Remix\)](https://open.spotify.com/album/7BCI6sgVdCRMjCDMhfcHi2) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 | 2024-06-28 |  |
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2024-06-28 | 2025-04-01 |

@@ -13566,7 +13566,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 145978,
       "name": "DON'T KILL MY VIBE",
       "url": "https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86"
@@ -27856,7 +27856,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 160629,
       "name": "Kein Vodka x World Hold On",
       "url": "https://open.spotify.com/track/0EuhbRzyqb4NOLAcClP0mB"
@@ -27874,7 +27874,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 160629,
       "name": "Kein Vodka x World Hold On",
       "url": "https://open.spotify.com/track/5MgEwd8GVOzgKPolL8WSkF"
@@ -40268,7 +40268,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 157019,
       "name": "Perfekte Liebe",
       "url": "https://open.spotify.com/track/7AQR52IR0nKUHMRNw7QuCM"
@@ -41853,6 +41853,28 @@
     },
     {
       "album": {
+        "name": "Rambazamba",
+        "url": "https://open.spotify.com/album/7cEYWILqIVRYYCCmoWhF0X"
+      },
+      "artists": [
+        {
+          "name": "KaaCee",
+          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+        },
+        {
+          "name": "ISO 3000",
+          "url": "https://open.spotify.com/artist/0HN1PBgXg9vz0xbPuCe8rx"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Rambazamba",
+      "url": "https://open.spotify.com/track/2rAlonMKRv3mESivk4Wn7O"
+    },
+    {
+      "album": {
         "name": "Rambo Zambo (Was is Bubatz?) [feat. Fritze Merz]",
         "url": "https://open.spotify.com/album/0SCCxN43WJdTP4elZTQNWB"
       },
@@ -42944,7 +42966,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -43226,7 +43248,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 133618,
       "name": "Rotes Halsband",
       "url": "https://open.spotify.com/track/32igCcGjazdDWcxYFaaATV"
@@ -43368,7 +43390,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -43386,7 +43408,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -43830,7 +43852,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 153981,
       "name": "Samurai Schwert",
       "url": "https://open.spotify.com/track/4W8Nib7ekr4ydmfk0iaBUc"
@@ -45594,7 +45616,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 120687,
       "name": "Shards",
       "url": "https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV"
@@ -50856,7 +50878,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 208965,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3j849LjxCe8WZMQjiKsl8Z"

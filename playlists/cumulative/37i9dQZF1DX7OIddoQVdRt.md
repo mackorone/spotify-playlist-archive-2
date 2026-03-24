@@ -2,9 +2,9 @@
 
 ### [Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX7OIddoQVdRt)
 
-> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: CeCe Winans & Shirley Caesar
+> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tasha Cobbs Leonard
 
-306 songs - 1 day 2 hr 50 min
+307 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 | 2024-02-02 | 2024-11-30 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-10-06 | 2024-07-19 |
 | [Try Love](https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 4:32 | 2024-07-19 | 2026-02-08 |
+| [Turn It Around](https://open.spotify.com/track/511ZzubAccO7n3hAwhY3EW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Confetti & Conspiracies: The Amen Mixtape](https://open.spotify.com/album/3n1ZcpEmjNKXc7M5VPmkZX) | 2:17 | 2026-03-23 |  |
 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 | 2021-06-25 | 2024-02-03 |
 | [Victory \- Live](https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:09 | 2023-10-06 | 2024-02-03 |
 | [Victory Belongs To Jesus](https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS) | 5:44 | 2021-06-25 | 2022-07-29 |
@@ -312,7 +313,7 @@
 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 | 2021-06-25 | 2023-12-24 |
 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 | 2021-06-25 | 2025-12-06 |
 | [Your Great Name](https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob) | 6:24 | 2023-10-06 | 2024-04-19 |
-| [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-07-13 |  |
+| [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-07-13 | 2026-03-24 |
 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 | 2021-06-25 | 2024-07-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

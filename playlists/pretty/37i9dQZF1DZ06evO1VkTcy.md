@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,355 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,354 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 32 | [Na Areia](https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 4:49 |
 | 33 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU) | 2:43 |
 | 34 | [Quando Você Voltar](https://open.spotify.com/track/3DchA8j5XAzU6E6gGV2Njr) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [billboard Brasil](https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3) | [Lourena Acústico Estúdio Billboard](https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx) | 4:04 |
-| 35 | [Tava Tudo Tranquilin](https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Tava Tudo Tranquilin](https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin) | 2:36 |
-| 36 | [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 |
+| 35 | [Deixa Ir](https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5) | 2:32 |
+| 36 | [Tava Tudo Tranquilin](https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Tava Tudo Tranquilin](https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin) | 2:36 |
 | 37 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 38 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 |
 | 39 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [Poetisas No Topo 2](https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Poetisas No Topo 2](https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu) | 9:16 |
 | 50 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
 
-Snapshot ID: `ab3fgAAAAAAboDSay29AzMrOXdZLB49m`
+Snapshot ID: `ab8xAAAAAAC7yf/GYAEvuZvcoTEHLmi9`

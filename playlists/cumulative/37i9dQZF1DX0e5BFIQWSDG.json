@@ -181,6 +181,24 @@
     },
     {
       "album": {
+        "name": "4YOU",
+        "url": "https://open.spotify.com/album/7jrzbw5xB8LFzxxL3nwJCb"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "4YOU",
+      "url": "https://open.spotify.com/track/1AEcnXDp6GjkF5mXOugTpQ"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
       },
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 263056,
       "name": "Gia Mia Mera",
       "url": "https://open.spotify.com/track/077O8CMDH8oED1YGATZLHR"
@@ -4098,6 +4116,32 @@
       "duration_ms": 178560,
       "name": "Gin & Bacardi",
       "url": "https://open.spotify.com/track/0j4ZUJgIYKPG3EsnvH6l2Q"
+    },
+    {
+      "album": {
+        "name": "GKD",
+        "url": "https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "GKD",
+      "url": "https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP"
     },
     {
       "album": {
@@ -4686,7 +4730,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 179999,
       "name": "JALLA",
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
@@ -4734,7 +4778,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 155422,
       "name": "K9",
       "url": "https://open.spotify.com/track/3E65jZP7aoEUhyKrKFEdHi"
@@ -8357,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "SANKARA",
+        "url": "https://open.spotify.com/album/40pMN8dHtoda3RaBBTf2ma"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150879,
+      "name": "SANKARA",
+      "url": "https://open.spotify.com/track/0YJSqoXGkJrnUgV9t8ln4e"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/6NigROCnaigsr6FroYtDAu"
       },
@@ -9707,6 +9769,32 @@
     },
     {
       "album": {
+        "name": "To Soundtrack tou Ellinikou Gia ton Alki Alkaio",
+        "url": "https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR"
+      },
+      "artists": [
+        {
+          "name": "Mariana Katsimicha",
+          "url": "https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY"
+        },
+        {
+          "name": "Dimitris Bakoulis",
+          "url": "https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz"
+        },
+        {
+          "name": "Dimitris Karras",
+          "url": "https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205682,
+      "name": "To Vals Ton Oniron",
+      "url": "https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg"
+    },
+    {
+      "album": {
         "name": "To Viografiko",
         "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
       },
@@ -10468,7 +10556,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 209310,
       "name": "ZELJKO",
       "url": "https://open.spotify.com/track/4TiuDw2IxnpGAYtLDODAbG"

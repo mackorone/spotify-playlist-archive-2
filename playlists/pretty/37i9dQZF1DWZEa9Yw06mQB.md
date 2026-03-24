@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 
 > Los clásicos de hoy y siempre\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,996 likes - 150 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,103 likes - 150 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

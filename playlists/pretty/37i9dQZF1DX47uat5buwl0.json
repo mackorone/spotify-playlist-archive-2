@@ -1,12 +1,12 @@
 {
   "description": "Banger na banger. Cover: Bausa \ud83d\udd25",
-  "num_followers": 313576,
+  "num_followers": 313577,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOZQJe2wUvN6RBRZBkG5m9xgdt7h",
+  "snapshot_id": "AAAAAI6OmxTGSf/ke0iod6t7LoJ5cxO1",
   "tracks": [
     {
       "added_at": "2026-03-12 23:01:02",
@@ -87,30 +87,6 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Shoulder Lean",
-        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "GP UIT G",
-          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
-        },
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        }
-      ],
-      "duration_ms": 154310,
-      "name": "Shoulder Lean",
-      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
         "name": "Talk To You",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
       },
@@ -147,6 +123,66 @@
       "duration_ms": 147042,
       "name": "Ode To The Bouncer",
       "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Lijntje",
+        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Lijntje",
+      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Shoulder Lean",
+        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "duration_ms": 154310,
+      "name": "Shoulder Lean",
+      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -191,22 +227,26 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Lijntje",
-        "url": "https://open.spotify.com/album/7rSKhMvO7Ng4MYeLpElCvX"
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Lijntje",
-      "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -243,22 +283,6 @@
       "duration_ms": 158748,
       "name": "Palermo",
       "url": "https://open.spotify.com/track/1KU4DCpFnKz3HWvLsZZAKQ"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -323,6 +347,26 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
+        "name": "Knalprobleem",
+        "url": "https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "Knalprobleem",
+      "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
         "name": "Stiekem Dansen",
         "url": "https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci"
       },
@@ -351,30 +395,6 @@
       "duration_ms": 117960,
       "name": "DOLCE & GABBANA",
       "url": "https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
-        "name": "Makina Time",
-        "url": "https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "Dj Konik",
-          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
-        }
-      ],
-      "duration_ms": 130090,
-      "name": "Makina Time",
-      "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -443,26 +463,6 @@
       "duration_ms": 134138,
       "name": "This is my house",
       "url": "https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
-        "name": "Knalprobleem",
-        "url": "https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "Knalprobleem",
-      "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Diamanten 2026",
-        "url": "https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Diamanten 2026",
-      "url": "https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
         "name": "Take Me Up (Gotta Get Up)",
         "url": "https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo"
       },
@@ -731,22 +711,38 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Spookstad (NewTone Remix)",
-        "url": "https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ"
+        "name": "Ain't No Party",
+        "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
       },
       "artists": [
         {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "NewTone",
-          "url": "https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH"
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
         }
       ],
-      "duration_ms": 313803,
-      "name": "Spookstad - NewTone Remix",
-      "url": "https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel"
+      "duration_ms": 185769,
+      "name": "Ain't No Party",
+      "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Boccaccio",
+        "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 187727,
+      "name": "Boccaccio",
+      "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -817,20 +813,20 @@
       "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
     },
     {
-      "added_at": "2026-03-12 23:01:02",
+      "added_at": "2026-03-23 18:24:14",
       "album": {
-        "name": "Ain't No Party",
-        "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
+        "name": "Niet Yusu",
+        "url": "https://open.spotify.com/album/58iLqC8WicZ6nxHk3CNlmA"
       },
       "artists": [
         {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+          "name": "Matz Voskamp",
+          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
         }
       ],
-      "duration_ms": 185769,
-      "name": "Ain't No Party",
-      "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
+      "duration_ms": 147192,
+      "name": "Niet Yusu",
+      "url": "https://open.spotify.com/track/4unCaFwAKU0C4bNTbYwMqN"
     },
     {
       "added_at": "2026-03-12 23:01:02",
@@ -871,22 +867,22 @@
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Boccaccio",
-        "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
+        "name": "Spookstad (NewTone Remix)",
+        "url": "https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "NewTone",
+          "url": "https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH"
         }
       ],
-      "duration_ms": 187727,
-      "name": "Boccaccio",
-      "url": "https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe"
+      "duration_ms": 313803,
+      "name": "Spookstad - NewTone Remix",
+      "url": "https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel"
     },
     {
       "added_at": "2026-03-12 23:01:02",

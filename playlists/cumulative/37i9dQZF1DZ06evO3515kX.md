@@ -4,7 +4,7 @@
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 59 min
+34 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Rock N Roll](https://open.spotify.com/track/5dfDYizNZT5aL99pOxkRDC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:16 | 2026-03-07 |  |
 | [Saturday Nite Special](https://open.spotify.com/track/4eoozcjvDmy5f5AmtV0fnc) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:39 | 2026-03-07 |  |
 | [School Days](https://open.spotify.com/track/2DwZAzU2SZmjmfEdWlT4tK) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 2:53 | 2026-03-07 |  |
-| [Wait For Me](https://open.spotify.com/track/5nhDarZPg8pMoY0r2QnVpj) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 4:55 | 2026-03-07 |  |
+| [Trash Can Murders](https://open.spotify.com/track/4MZyqgbeAf9VdWdyak146s) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:16 | 2026-03-24 |  |
+| [Wait For Me](https://open.spotify.com/track/5nhDarZPg8pMoY0r2QnVpj) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 4:55 | 2026-03-07 | 2026-03-24 |
 | [Wasted](https://open.spotify.com/track/6PXUO3U78bz7ygA2jirvOE) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:26 | 2026-03-07 |  |
 | [Wild Thing \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/0QLh8gGYP4t7RXOEl1REmA) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:47 | 2026-03-07 |  |
 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 | 2026-03-07 |  |

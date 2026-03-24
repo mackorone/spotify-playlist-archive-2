@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-424 songs - 1 day 2 hr 39 min
+430 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,9 @@
 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 | 2024-09-19 | 2025-03-14 |
 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 | 2024-08-22 | 2024-09-20 |
 | [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 | 2024-08-29 | 2024-09-20 |
+| [Bitter Fruit](https://open.spotify.com/track/5FT5JjlKQuBlrYfLxRfq5p) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Bitter Fruit](https://open.spotify.com/album/0WXBb2QXrD2JaaF7wXgHwV) | 3:17 | 2026-03-23 |  |
 | [Black Mamba](https://open.spotify.com/track/31INWASDAVj7l1smhUNunx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Black Mamba](https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9) | 4:57 | 2025-04-24 | 2025-10-03 |
+| [Blackbird](https://open.spotify.com/track/7HFSVYp0PEsDpTkwoG7eZe) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Blackbird](https://open.spotify.com/album/2uiBm9ipbGCY1igEgfSxOl) | 3:29 | 2026-03-23 |  |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-16 | 2025-02-28 |
 | [Blood Covenant](https://open.spotify.com/track/5Fu92pIctIhDh4tngZjt3e) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Blood Covenant](https://open.spotify.com/album/07I7OdOJ8FvUch5y06hd2G) | 4:48 | 2025-10-23 |  |
 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 | 2024-12-05 | 2025-02-14 |
@@ -84,6 +86,7 @@
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-08 | 2025-09-05 |
 | [Caroline](https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Caroline](https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y) | 4:56 | 2024-06-27 | 2024-08-02 |
 | [Caroline](https://open.spotify.com/track/7wksA9YtIiCcDH80n1ZmNk) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:56 | 2024-11-07 | 2025-01-17 |
+| [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-03-23 |  |
 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 | 2024-08-29 | 2025-03-28 |
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 | 2024-09-20 |
 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 | 2025-10-23 |  |
@@ -199,6 +202,7 @@
 | [In The Name Of Rock'n'Roll](https://open.spotify.com/track/1nr9EZdOkarDuJQL8SKZmO) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [In The Name Of Rock'n'Roll](https://open.spotify.com/album/3dLGXZaEqQT9HsyNVLacGI) | 4:40 | 2025-05-08 | 2025-11-07 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-21 | 2025-10-03 |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-06-27 | 2024-08-30 |
+| [Into The Ground](https://open.spotify.com/track/4qV6jreikyokvMUOnsEb8k) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Into The Ground](https://open.spotify.com/album/05dEe5FJhNTFfcWARldHLa) | 4:19 | 2026-03-23 |  |
 | [Is It Victory](https://open.spotify.com/track/3BgBY4bzuPpk3W9prz9YP4) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Is It Victory](https://open.spotify.com/album/49KLWetmqTtgfOiNGaeo3E) | 2:46 | 2024-06-27 | 2024-11-08 |
 | [It All Goes Away in the End](https://open.spotify.com/track/4k6m9bL6oJ7I1Z4c5RqUBr) | [Liar Thief Bandit](https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi) | [It All Goes Away in the End](https://open.spotify.com/album/160VrklzKoBgKT574qEqyC) | 3:21 | 2024-06-27 | 2025-01-10 |
 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 | 2024-11-07 | 2025-02-28 |
@@ -306,6 +310,7 @@
 | [Shoreline](https://open.spotify.com/track/6HSmNUrdAiQNforGJMNqmq) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [We Are Shadows](https://open.spotify.com/album/5szZPN7qrKaey9QqZCzdH3) | 3:37 | 2025-11-20 |  |
 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2024-11-07 | 2025-04-12 |
 | [Silent Divide](https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silent Divide](https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW) | 5:03 | 2025-09-04 | 2025-10-10 |
+| [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 | 2026-03-23 |  |
 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 | 2024-11-14 | 2025-01-17 |
 | [Skin From Bones](https://open.spotify.com/track/1R7IwHP908OjMlRy6u6byr) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Skin From Bones](https://open.spotify.com/album/5sOEmkQ0IoI8cQATzsi6yj) | 3:20 | 2025-02-27 | 2025-04-25 |
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-06-27 | 2025-08-15 |
@@ -366,6 +371,7 @@
 | [The Idiot](https://open.spotify.com/track/3hT2V0iUOOViY7Rwfn7eom) | [Gluecifer](https://open.spotify.com/artist/0f49vykMeD4Nb8ONN6IMVJ) | [The Idiot](https://open.spotify.com/album/2ClsXTrYxCLu1uCnddarRU) | 2:42 | 2025-09-25 | 2025-11-14 |
 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2024-12-19 | 2025-10-10 |
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-09 | 2025-11-21 |
+| [The North Will Rise \(feat\. Sonata Arctica\)](https://open.spotify.com/track/3NfKh2juPFmKxdNeDJSzAX) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm), [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [The North Will Rise \(feat\. Sonata Arctica\)](https://open.spotify.com/album/3wRtTAFcvgYBo8JGLX7eAU) | 3:22 | 2026-03-23 |  |
 | [The Sirens Sound](https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [The Head & The Habit](https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq) | 4:32 | 2024-06-27 | 2024-09-20 |
 | [The Way We Fall](https://open.spotify.com/track/518P4gzAy8ByaUb5G3A47l) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [The Way We Fall](https://open.spotify.com/album/4Lr5rGevct5TxqOxK6cVT3) | 3:23 | 2025-03-27 | 2025-09-05 |
 | [The Wheel Of Pain](https://open.spotify.com/track/10D2HlPX6SSapZQCPxxpo5) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [The Wheel Of Pain](https://open.spotify.com/album/733rSnjOewHp03HWOxQT1Q) | 3:23 | 2024-09-13 | 2024-10-18 |

@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 241998,
       "name": "Ancient of Days (reimagined)",
       "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "AUTOMATIC",
+        "url": "https://open.spotify.com/album/4ZFTys5yabsYmedawVN4Q0"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "AUTOMATIC",
+      "url": "https://open.spotify.com/track/1iHAGNjy0Nj9f92AXHxIeC"
+    },
+    {
+      "album": {
         "name": "Awe!",
         "url": "https://open.spotify.com/album/33lg7H8wGe368kafecZ3hk"
       },
@@ -630,7 +652,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 190612,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/6yo94FrK0Nj7JZwMteXfMt"
@@ -945,6 +967,28 @@
     },
     {
       "album": {
+        "name": "BLESS ME",
+        "url": "https://open.spotify.com/album/1U3pVRS5vSJDBswrzKu9ek"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118615,
+      "name": "BLESS ME",
+      "url": "https://open.spotify.com/track/4StSX1ppHrrqOBT2FqcDPs"
+    },
+    {
+      "album": {
         "name": "Boundaries",
         "url": "https://open.spotify.com/album/30i1uRGryZeao36QjA1uuC"
       },
@@ -1213,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Calling My Name",
+        "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Calling My Name",
+      "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
+    },
+    {
+      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -1348,7 +1414,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 144374,
       "name": "Christ-Fell-A",
       "url": "https://open.spotify.com/track/3WFIg0J1Vp2gX5Wk1d6AP5"
@@ -1472,7 +1538,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 127514,
       "name": "closer",
       "url": "https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB"
@@ -2120,7 +2186,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169494,
       "name": "EASY - REMIX",
       "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
@@ -3436,7 +3502,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 194936,
       "name": "Groove",
       "url": "https://open.spotify.com/track/3qB1ofzNRxrb3WLiMO1JNn"
@@ -4004,7 +4070,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 200357,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
@@ -4762,7 +4828,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 194187,
       "name": "if i have u",
       "url": "https://open.spotify.com/track/01EqCQJU8ciJzBWiM44rvO"
@@ -4806,7 +4872,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 150508,
       "name": "In My Zone",
       "url": "https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM"
@@ -5188,7 +5254,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 161000,
       "name": "Just Watch",
       "url": "https://open.spotify.com/track/6AENZlyGRmIY9GdXeHKRuX"
@@ -5232,6 +5298,24 @@
       "duration_ms": 150653,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE"
+    },
+    {
+      "album": {
+        "name": "KEEP MOVING",
+        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KEEP MOVING",
+      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
     },
     {
       "album": {
@@ -5932,7 +6016,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 140893,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/0aNKeOOHCahZiYHMU4oYar"
@@ -6347,6 +6431,32 @@
     },
     {
       "album": {
+        "name": "mourning 2 dancing",
+        "url": "https://open.spotify.com/album/4nbGCL267piZpeBJ7jQsFq"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "mourning 2 dancing",
+      "url": "https://open.spotify.com/track/3T2vuPqaHbXLwegNZyeRVa"
+    },
+    {
+      "album": {
         "name": "Find Me Here - EP",
         "url": "https://open.spotify.com/album/26K7ZSbt4kjEe3mVS293hk"
       },
@@ -6402,7 +6512,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
@@ -6446,7 +6556,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 198352,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/00lhBqWtz3kIwBD3DFtM3I"
@@ -6723,6 +6833,24 @@
     },
     {
       "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/27dzEpotrYbxsiC022uNwT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229658,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/1JSjQMTkSTQrZjXYKVEEFc"
+    },
+    {
+      "album": {
         "name": "Newness (Kevin Davis Remix)",
         "url": "https://open.spotify.com/album/7yVJ3taYqT89usM6c5otBu"
       },
@@ -6973,6 +7101,28 @@
     },
     {
       "album": {
+        "name": "ON MY OWN",
+        "url": "https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "ON MY OWN",
+      "url": "https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z"
+    },
+    {
+      "album": {
         "name": "Out Of Body",
         "url": "https://open.spotify.com/album/740c1lmrFgWszOD0auolea"
       },
@@ -7201,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z"
       },
@@ -7252,7 +7420,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 284666,
       "name": "Praise",
       "url": "https://open.spotify.com/track/0vHNyqRl992fbaPUaJjbPE"
@@ -7292,7 +7460,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 170353,
       "name": "PRAISES (remix)",
       "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
@@ -7318,7 +7486,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 201779,
       "name": "Praying Out Loud - Cade Legat Remix",
       "url": "https://open.spotify.com/track/5Rm7Bu9wnKisXPe0I4yjMW"
@@ -9189,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1monos (Live)",
+        "url": "https://open.spotify.com/album/7mPcP5Hv0RgbrFf9eGggG1"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "V\u00e1monos - Live",
+      "url": "https://open.spotify.com/track/7tON1d29TqPXV42hbhytye"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -9222,6 +9408,28 @@
       "duration_ms": 209429,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
+    },
+    {
+      "album": {
+        "name": "Waterfall (Edit)",
+        "url": "https://open.spotify.com/album/34C74dScR7DTLjgp36oXCT"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        },
+        {
+          "name": "Nofsky",
+          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Waterfall - Edit",
+      "url": "https://open.spotify.com/track/0Ex4LayPEy56W7a0ym069O"
     },
     {
       "album": {
@@ -9852,7 +10060,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 154901,
       "name": "You",
       "url": "https://open.spotify.com/track/3jhlcmuz08z1eaZmH20nui"
@@ -9928,7 +10136,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 140625,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz"

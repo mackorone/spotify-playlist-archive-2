@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,245 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,251 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

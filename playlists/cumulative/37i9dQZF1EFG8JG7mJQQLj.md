@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-614 songs - 1 day 10 hr 35 min
+615 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Hurt Me \- From "Songland"](https://open.spotify.com/track/1zHmzN75pKHflokUGZh7sA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hurt Me \(From "Songland"\)](https://open.spotify.com/album/4YP60BnlLCXFtfKun5GBje) | 3:17 | 2024-01-29 | 2025-04-12 |
 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 | 2024-01-29 |  |
 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 | 2024-01-29 |  |
-| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2024-01-30 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2024-01-30 | 2026-03-24 |
 | [I Ain't Worried](https://open.spotify.com/track/1bNapzbrWh3wI8gqd06ejG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried](https://open.spotify.com/album/7vFwTbOPsY6pMaYDcvCyCr) | 2:34 | 2024-01-29 | 2024-02-02 |
 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 | 2024-01-29 |  |
 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 | 2025-04-25 |  |
@@ -495,8 +495,9 @@
 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 | 2024-02-02 |  |
 | [Stay the Night](https://open.spotify.com/track/4xehFId93Nx6T7l6V9duDW) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Stay the Night](https://open.spotify.com/album/71uw3gF4VqTxqZQCNoESGD) | 3:50 | 2024-01-29 | 2024-02-02 |
 | [Stone Cold Love](https://open.spotify.com/track/3mSaE1mYeLgZkdHwGFxkRi) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/4LFmLeMR7MGMxxLgrBSj9b) | 2:42 | 2025-05-18 | 2025-09-21 |
-| [Stone Cold Love](https://open.spotify.com/track/2u3xMFhm3jIgvbL9Q2J1um) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/3Qea9kfTfWWk5mREvVdApw) | 2:42 | 2025-09-20 |  |
+| [Stone Cold Love](https://open.spotify.com/track/2u3xMFhm3jIgvbL9Q2J1um) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/3Qea9kfTfWWk5mREvVdApw) | 2:42 | 2025-09-20 | 2026-03-24 |
 | [Stone Cold Love](https://open.spotify.com/track/3Fwf0jLVPFqdFapeVqAoHv) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/2xVc7EF6PqGBpgakw1Ey3h) | 2:42 | 2024-01-29 | 2025-05-19 |
+| [Stone Cold Love](https://open.spotify.com/track/4wlKxqsOjmWpzGxL60N8s6) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Good Road to Follow](https://open.spotify.com/album/09xqRWrHigHENC6dSJEBGM) | 2:42 | 2026-03-23 |  |
 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 | 2024-01-29 |  |
 | [Stranger Than Fiction](https://open.spotify.com/track/1fTv59goJRtA7yHrIxgyI3) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:31 | 2024-01-29 |  |
 | [Stranger Things](https://open.spotify.com/track/2c4voUCNC12xUtXDyYQslM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Stranger Things](https://open.spotify.com/album/7DHtDaGYs5ti7dMoZsnAqn) | 3:42 | 2024-01-29 | 2024-02-01 |
@@ -563,7 +564,7 @@
 | [Turning Tables](https://open.spotify.com/track/6myjRCWhMVgwgJEYNIGah3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:10 | 2024-01-29 |  |
 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 | 2024-01-29 |  |
-| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 | 2026-03-23 |
+| [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 |  |
 | [Unbroken \- Israel Remix](https://open.spotify.com/track/4fijxCLZxkask6LJH51Hzg) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Israel](https://open.spotify.com/artist/6ZIjO7ivv7IxVuyD4HqrAD) | [From The Inside Out](https://open.spotify.com/album/1AlBB0rTOKDXK2k7lf9tUT) | 3:46 | 2024-07-31 |  |
 | [Undone](https://open.spotify.com/track/4toeIDt20W3pA6hoce1P8W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 4:14 | 2024-01-29 |  |
 | [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 | 2024-11-14 |  |

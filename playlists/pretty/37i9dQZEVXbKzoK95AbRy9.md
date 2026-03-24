@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,463 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,479 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Semi Nua 2](https://open.spotify.com/track/4mWvUyxAax81We11pYY4up) | [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Dena](https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Semi Nua 2](https://open.spotify.com/album/57nkN6ENnsejnJDhCeJHnB) | 10:55 |
 | 50 | [É Tudo Sobre Você / Ser Mudado \- Ao Vivo](https://open.spotify.com/track/1h0yBDChztCJRTqmI5U6ou) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Só Voz \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/1nvgIwTyHcYpxu5Xk6o0ZY) | 7:22 |
 
-Snapshot ID: `MVNUGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

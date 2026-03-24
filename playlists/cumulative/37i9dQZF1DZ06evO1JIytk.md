@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 0 min
+131 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Liar](https://open.spotify.com/track/4F1Do1YLRWwsduK20Dxn3B) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 1:52 | 2023-06-18 | 2026-02-23 |
 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 | 2023-09-15 |  |
 | [Mind the G.A.T.T.](https://open.spotify.com/track/6jP08vvhuFYZedF8iI7cUS) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:14 | 2022-09-16 | 2022-11-05 |
-| [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/6ryk9mshVmR6KoXkguU7fV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:35 | 2023-05-09 |  |
+| [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/6ryk9mshVmR6KoXkguU7fV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:35 | 2023-05-09 | 2026-03-24 |
 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:36 | 2023-01-09 | 2023-04-09 |
 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 | 2022-10-07 | 2023-05-10 |
 | [Mumia's Song](https://open.spotify.com/track/1rGA7S3uo32WJqgtbmA0OP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Mobilize](https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I) | 2:24 | 2025-03-13 | 2025-05-10 |
@@ -122,6 +122,7 @@
 | [Turncoat](https://open.spotify.com/track/3HA8pLvjBGoBpDJbaLjFNo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:10 | 2022-09-16 | 2023-09-16 |
 | [Turncoat](https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:17 | 2023-09-15 |  |
 | [Underground Network](https://open.spotify.com/track/3PcbU6v5Fw118EKLEvWNEu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 4:03 | 2022-09-16 | 2023-09-16 |
+| [Underground Network](https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 4:03 | 2026-03-24 |  |
 | [VICTORY OR DEATH \(WE GAVE 'EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:31 | 2023-05-13 |  |
 | [VICTORY OR DEATH \(WE GAVE ‘EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/0KJlByUOgSDVSDXSDCxgyq) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:31 | 2023-02-25 | 2023-03-29 |
 | [VICTORY OR DEATH \(WE GAVE ‘EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/4P5rqjqcNmCkD5ipTUhhFS) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [VICTORY OR DEATH \(WE GAVE ‘EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/album/1g9OgCVZgWNVmQfHoSJ72Q) | 3:31 | 2022-12-02 | 2023-05-14 |

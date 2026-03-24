@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 29 | [Kickin' Pushin'](https://open.spotify.com/track/1ge67dpLAdg7HQzFxSjMGH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:16 |
 | 30 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
 | 31 | [Your Hand Is Safe in Mine](https://open.spotify.com/track/3YJebXo5hYFcEhnSvuzUQQ) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Your Hand Is Safe in Mine](https://open.spotify.com/album/3s549VD9aZNQwdlXlfDZOh) | 3:36 |
-| 32 | [Feel Alright](https://open.spotify.com/track/3GjEM7WIYqIFrnjGpPlWl6) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 2:55 |
-| 33 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
+| 32 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
+| 33 | [Feel Alright](https://open.spotify.com/track/3GjEM7WIYqIFrnjGpPlWl6) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 2:55 |
 | 34 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
 | 35 | [You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/1oTztL8s8W0RsJhzKpfhuI) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [DIME TRAP](https://open.spotify.com/album/6BLPwtPvpmqKHp2pFfpSIT) | 3:50 |
 | 36 | [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 86 | [WADE](https://open.spotify.com/track/67T80y4xJHFL0HZ9E1068T) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw), [Jessie B\. Horne](https://open.spotify.com/artist/6YQQd6atMpVumxmPoHjK4U) | [WADE](https://open.spotify.com/album/5BZVvweppmNfgpe5cbcem3) | 2:46 |
 | 87 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcM2FAAAAABm6LJhXJOhRobz90wosSRQ`
+Snapshot ID: `AcM7tAAAAADmSA23MW1mlY3/zwrjxyIV`

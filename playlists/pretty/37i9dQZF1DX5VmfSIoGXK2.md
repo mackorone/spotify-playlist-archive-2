@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Lagos & beyond 🕊️ featuring SPINALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,454 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,510 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 4 | [On & On](https://open.spotify.com/track/6Khjz6ZTdxhVujmB4fUWsK) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [On & On](https://open.spotify.com/album/4XvcHGJNQVWOVbpigdS10Y) | 3:27 |
 | 5 | [The 1](https://open.spotify.com/track/4xxgoorB2txwjJxoGRcHNS) | [Kevin Oliphant](https://open.spotify.com/artist/3kynCqDWeQO4roNBcObjrE) | [The Jazz Fro Soul Project EP](https://open.spotify.com/album/6Y9t09LdDKp59HNIGLSAtO) | 4:40 |
 | 6 | [Take your time.](https://open.spotify.com/track/7z6FOZE1aQoZa3D2dPXlLm) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Take your time.](https://open.spotify.com/album/2THEfgRsxFGMq0NYAvta42) | 2:32 |
-| 7 | [Postcard from 2023 \(TABLE Flip\)](https://open.spotify.com/track/45xJZ2o05IZflfJGZche9z) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Postcard from 2023 \(TABLE Flip\)](https://open.spotify.com/album/6xa0z7RibBesSocjKRp2NG) | 2:17 |
+| 7 | [Postcard from 2023 \(TABLE Flip\)](https://open.spotify.com/track/45xJZ2o05IZflfJGZche9z) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Postcard from 2023 \(TABLE Flip\)](https://open.spotify.com/album/6xa0z7RibBesSocjKRp2NG) | 2:17 |
 | 8 | [Marble Cake](https://open.spotify.com/track/27vTFD5njMbl233nLAYq2b) | [Acco](https://open.spotify.com/artist/3Zro0pGcmNIHBkm2pY0DW4) | [Marble Cake](https://open.spotify.com/album/6nWqodNlfdUi1CxWrKgPTJ) | 3:27 |
 | 9 | [Island Of Vibes](https://open.spotify.com/track/7jUIG9bGtK8djfjj8UuKjj) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Island Of Vibes](https://open.spotify.com/album/3ObQKUDBA3YPdE8mofro2B) | 2:47 |
 | 10 | [Sofía y yo](https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Sofía y yo](https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF) | 2:11 |

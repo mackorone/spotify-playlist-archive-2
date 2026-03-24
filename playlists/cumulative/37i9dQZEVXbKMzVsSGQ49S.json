@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -13258,7 +13258,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -32216,7 +32216,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
@@ -34292,10 +34292,32 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "album": {
+        "name": "The Watchers",
+        "url": "https://open.spotify.com/album/4jobDkwKOfvol9tl5fFdMN"
+      },
+      "artists": [
+        {
+          "name": "The Hated Crew",
+          "url": "https://open.spotify.com/artist/2UIjxg40RnR1DlR3RizVJk"
+        },
+        {
+          "name": "Paul Johnson's",
+          "url": "https://open.spotify.com/artist/6EH2Ym8vlXXj5jt5IJXdOZ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206995,
+      "name": "Might - Remix",
+      "url": "https://open.spotify.com/track/5q0nrczV4ChX52AAdGnJqB"
     },
     {
       "album": {
@@ -39154,7 +39176,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -51192,7 +51214,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -60404,6 +60426,24 @@
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "album": {
+        "name": "ZaZa",
+        "url": "https://open.spotify.com/album/2UZI9aoFX2nw7TxFRfpFhi"
+      },
+      "artists": [
+        {
+          "name": "SK Code",
+          "url": "https://open.spotify.com/artist/4neh2ved5QBh3lQ0619phZ"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192702,
+      "name": "ZaZa",
+      "url": "https://open.spotify.com/track/6WP5Y30drcBgViQ5zwYI7X"
     },
     {
       "album": {

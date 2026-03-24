@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,165 songs - 6 day 21 hr 55 min
+3,167 songs - 6 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [annoin mun sydämen \- sped up](https://open.spotify.com/track/2AJ6rvmP2r9015CgO4bFG6) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [annoin mun sydämen \(sped up\)](https://open.spotify.com/album/2zhjNljeteuATbvNDMhNMP) | 2:21 | 2023-02-04 | 2023-02-19 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2023-04-02 |
 | [Anteeks](https://open.spotify.com/track/5nawVr53Lj9JMQ2OcvrCSS) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Anteeks](https://open.spotify.com/album/5NsOArM94dVoYQzE62hluU) | 3:00 | 2023-06-17 | 2023-08-13 |
-| [Anteeks](https://open.spotify.com/track/0Q7KNm5QKHLfJJBKVecyHL) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 3:13 | 2026-03-22 |  |
+| [Anteeks](https://open.spotify.com/track/0Q7KNm5QKHLfJJBKVecyHL) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 3:13 | 2026-03-22 | 2026-03-24 |
 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 | 2024-11-30 | 2025-05-11 |
 | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/track/3Ac9v4pFJyTlMc5ZCDWuZ6) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/album/7xuvRuxXjOzepUrtfnoQCr) | 2:40 | 2024-02-10 | 2024-03-03 |
 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 | 2024-12-14 | 2024-12-16 |
@@ -260,6 +260,7 @@
 | [Beyonce](https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 2:58 | 2025-10-18 | 2026-03-22 |
 | [Bezos I](https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 0:58 | 2021-07-22 | 2021-08-08 |
 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 | 2026-01-31 | 2026-02-02 |
+| [Big Boy](https://open.spotify.com/track/69XT7iriFi7iuDz5nkIXYe) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Shakespeare 2](https://open.spotify.com/album/1Imbnq0xCkuFKWt3joj2TF) | 2:42 | 2026-03-23 |  |
 | [Big Boy](https://open.spotify.com/track/6X38y7OrRUY7UFalQveDIi) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 2:42 | 2026-03-21 | 2026-03-23 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-15 | 2024-08-25 |
 | [Big Steppa](https://open.spotify.com/track/3oL6LBuc6KTge87a0lj6f3) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Big Steppa](https://open.spotify.com/album/7w9kuaedxNmAwNAVRALRNt) | 2:38 | 2022-11-26 | 2022-12-03 |
@@ -410,7 +411,8 @@
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-05-21 | 2022-05-27 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 | 2023-06-11 |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-05-27 |
-| [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 | 2026-03-21 |  |
+| [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 | 2026-03-21 | 2026-03-24 |
+| [DD](https://open.spotify.com/track/395VR5pcjvUJ1bIwQzVtI7) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/1Imbnq0xCkuFKWt3joj2TF) | 1:55 | 2026-03-23 |  |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-22 |
 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 | 2024-10-12 | 2025-03-09 |
 | [Dead Presidents](https://open.spotify.com/track/3g1BfmXifo0XZ7bKeRMSg7) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Monsteri](https://open.spotify.com/album/3Mj6pHxrnOyE4mXWMp5Gi7) | 3:01 | 2025-03-08 | 2025-05-16 |

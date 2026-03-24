@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Blown My Cover",
+        "url": "https://open.spotify.com/album/2MvkZfxw3gpNZge7O54L2n"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "Blown My Cover",
+      "url": "https://open.spotify.com/track/7Jj6ILc7a6HLQNPChHqQfL"
+    },
+    {
+      "album": {
         "name": "With Love From",
         "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 208476,
       "name": "Days On End",
       "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
@@ -2244,6 +2262,24 @@
       "duration_ms": 213453,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/5PeW97MvpM487CWIfFK3jK"
+    },
+    {
+      "album": {
+        "name": "dog with a bone",
+        "url": "https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200060,
+      "name": "dog with a bone",
+      "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
     },
     {
       "album": {
@@ -7684,7 +7720,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
@@ -10082,7 +10118,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"

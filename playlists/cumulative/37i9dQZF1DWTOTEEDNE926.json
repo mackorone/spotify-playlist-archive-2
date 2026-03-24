@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "las mujeres ya no lloran \u2728 EMJAY en portada.",
+  "description": "las mujeres ya no lloran \u2728 Lu\u00edsa Sonza en portada.",
   "name": "Rica, Latina y Famosa",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -1116,6 +1116,24 @@
       "duration_ms": 203865,
       "name": "cu\u00eddame de mi",
       "url": "https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F"
+    },
+    {
+      "album": {
+        "name": "DESAYUNO",
+        "url": "https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147001,
+      "name": "DESAYUNO",
+      "url": "https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE"
     },
     {
       "album": {
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 154912,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 156160,
       "name": "Par\u00eds (Junto a Ti)",
       "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
@@ -3439,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Ruleta Rusa",
+      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
+    },
+    {
+      "album": {
         "name": "De Chava",
         "url": "https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn"
       },
@@ -3715,6 +3751,28 @@
     },
     {
       "album": {
+        "name": "Surfboard",
+        "url": "https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Surfboard",
+      "url": "https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384"
+    },
+    {
+      "album": {
         "name": "Su\u00e9ltate",
         "url": "https://open.spotify.com/album/6cWIv2C8VPNbNL3Xi8aQpJ"
       },
@@ -3770,6 +3828,24 @@
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+    },
+    {
+      "album": {
+        "name": "Telefone",
+        "url": "https://open.spotify.com/album/2va62ELLdq6PygdowajASo"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91750,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"
     },
     {
       "album": {
@@ -4120,7 +4196,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 192000,
       "name": "Y si peleamos",
       "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"

@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "For Your Eyes Only - Remastered",
+      "url": "https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C"
+    },
+    {
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 39393,
       "name": "Warm-Up",
       "url": "https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc"

@@ -4,7 +4,7 @@
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 3 min
+69 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [End to End](https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Curse of Blondie](https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU) | 3:59 | 2025-03-08 | 2026-01-15 |
 | [End To End](https://open.spotify.com/track/3Tl6l1nAmOcmpbx3ODqLkL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:59 | 2026-01-15 |  |
 | [Fan Mail \- Remastered](https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:38 | 2025-03-08 |  |
+| [For Your Eyes Only \- Remastered](https://open.spotify.com/track/17k0de5yK5aJ06xx7Xqj2C) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Hunter](https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad) | 3:07 | 2026-03-24 |  |
 | [Fun](https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:19 | 2025-03-08 |  |
 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 | 2025-03-08 |  |
 | [Hanging On The Telephone \- Remastered 2001](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 | 2025-03-08 |  |
@@ -73,7 +74,7 @@
 | [The Tide Is High \- Live](https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt) | 4:04 | 2025-03-08 | 2026-03-19 |
 | [Union City Blue \- Single Version](https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:22 | 2025-03-08 |  |
 | [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 | 2026-02-25 |  |
-| [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 | 2025-03-08 |  |
+| [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 | 2025-03-08 | 2026-03-24 |
 | [What I Heard](https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Panic of Girls](https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t) | 3:17 | 2025-03-08 |  |
 | [X Offender \- Remastered 2001](https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:14 | 2025-03-08 |  |
 

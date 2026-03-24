@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 668 likes - 66 songs - 3 hr 40 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 676 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 64 | [Lust](https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Love/Lust](https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt) | 1:53 |
 | 65 | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m) | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ) | 2:22 |
 | 66 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 |
+| 67 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 |
+| 68 | [Testify](https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 5:34 |
+| 69 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 |
 
-Snapshot ID: `AAADTCxjD4dfLpXb0mqSyXGB0TKBzOvq`
+Snapshot ID: `AAADT0uEJ1xMZVPaKiakw4iz+di6PcwD`

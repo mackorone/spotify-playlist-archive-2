@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, Locus Noir, AlligatorX and more",
+  "description": "With Die Oberherren, AlligatorX, Tangled Horns and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 348933,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/4EtUmhhCKDq0MDpYEc8Ie5"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 281800,
       "name": "Auto Pilot",
       "url": "https://open.spotify.com/track/7EYkf0kYoJkWJUii8bn9Z4"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 209123,
       "name": "Boston Red Sox",
       "url": "https://open.spotify.com/track/5XHKbXdOlS4QGrIF7vvLHt"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 245950,
       "name": "Don't Trust Anyone",
       "url": "https://open.spotify.com/track/0e9zvGl4VZMeynWO8xSZQ9"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 272375,
       "name": "En fr\u00e4mlings \u00f6gon - Live",
       "url": "https://open.spotify.com/track/3Pz950R3kw0u3eskbPYr2u"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 229925,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0ag5MdcFWcTqZlkFSJdc54"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 196600,
       "name": "Full Moon Theri\u00adanthropy",
       "url": "https://open.spotify.com/track/1DUSjz70AMjOayuWDKQM2T"
@@ -2810,6 +2810,24 @@
       "duration_ms": 222857,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1ACBwGOWhLqstenkrApSBK"
+    },
+    {
+      "album": {
+        "name": "Girotondo",
+        "url": "https://open.spotify.com/album/7pX7a5gG9oNwnFfiAL2VtX"
+      },
+      "artists": [
+        {
+          "name": "The Chronicles of Manimal and Samara",
+          "url": "https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332999,
+      "name": "Girotondo",
+      "url": "https://open.spotify.com/track/4sg5uCVAFTvj5beUEMJuoo"
     },
     {
       "album": {
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 260622,
       "name": "Man In The Box",
       "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 272732,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3UOVbtjP7Sp5eB6N7Gi973"
@@ -4582,7 +4600,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 124000,
       "name": "Mind Riots",
       "url": "https://open.spotify.com/track/47LkoKpccLo3UDq4CpM81H"
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 276633,
       "name": "My Aurora (2023 Remastered)",
       "url": "https://open.spotify.com/track/3LB56oc6adNgHJbe79HU58"
@@ -4994,6 +5012,24 @@
       "duration_ms": 325440,
       "name": "Nattmennesker",
       "url": "https://open.spotify.com/track/7kEKr1EmbBupbIUgxMaZB5"
+    },
+    {
+      "album": {
+        "name": "Dead, White, & Gloom EP",
+        "url": "https://open.spotify.com/album/287qst8yQWrVHD1ZmQf9rp"
+      },
+      "artists": [
+        {
+          "name": "Ghoulbox",
+          "url": "https://open.spotify.com/artist/1xFuQcZhFfJSBH7YZdWVve"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216443,
+      "name": "Necrokiss",
+      "url": "https://open.spotify.com/track/4I0uYyUQPcDoxLBODneuQ5"
     },
     {
       "album": {
@@ -5448,7 +5484,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5556,7 +5592,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 274983,
       "name": "Pale Moon",
       "url": "https://open.spotify.com/track/2DgMzhpPuAh3Euh7N7PMbx"
@@ -5751,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "Go Far",
+        "url": "https://open.spotify.com/album/2Tu1pqW8eVtGd1uTEb2N57"
+      },
+      "artists": [
+        {
+          "name": "Arvin Eliot",
+          "url": "https://open.spotify.com/artist/0YxlWpijyyNpkpqx6LTUWJ"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Phrase",
+      "url": "https://open.spotify.com/track/1CAGvNhqJw5iu0iTV0B1H5"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1Reb521PcOYXpJEZzxUpPj"
       },
@@ -5798,7 +5852,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 211461,
       "name": "Pimeyden sulhanen",
       "url": "https://open.spotify.com/track/0SBfnN69Mx4jes3um9HVl1"
@@ -5856,7 +5910,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -6470,7 +6524,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -6819,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Hyenaz!",
+        "url": "https://open.spotify.com/album/2ZUV1Xyd2mxao4lclWYEnU"
+      },
+      "artists": [
+        {
+          "name": "Miguel and the Living Dead",
+          "url": "https://open.spotify.com/artist/2tnGY6SyCH12EMeYne5n9C"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "Speaking In Smoke",
+      "url": "https://open.spotify.com/track/1DtjHQOd7iF8LuLn1rja36"
+    },
+    {
+      "album": {
         "name": "Spirit of Love",
         "url": "https://open.spotify.com/album/5Mh6l0kd1SWl4xlRHfIyNJ"
       },
@@ -6986,6 +7058,24 @@
       "duration_ms": 264207,
       "name": "Strobelight",
       "url": "https://open.spotify.com/track/3W1NYG4pnGubSlwWVIhfyf"
+    },
+    {
+      "album": {
+        "name": "Annihilove EP",
+        "url": "https://open.spotify.com/album/4hOWAJSZaAEcGpd23Nzeiz"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Suburban Decay",
+      "url": "https://open.spotify.com/track/4X5ZUHqi7EogCNb8SGaoEB"
     },
     {
       "album": {
@@ -7184,7 +7274,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 365697,
       "name": "Take This Waltz",
       "url": "https://open.spotify.com/track/1gIoMyoS1okNkMs19TkJMe"
@@ -7296,7 +7386,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 269520,
       "name": "The Break Up Song",
       "url": "https://open.spotify.com/track/79KYP1BhYzgTeWPP4fmQ22"
@@ -7444,6 +7534,24 @@
       "duration_ms": 250146,
       "name": "The Girl With The Blue Hat",
       "url": "https://open.spotify.com/track/5Ra5F82U6bYLW3EZp4RU43"
+    },
+    {
+      "album": {
+        "name": "Hyenaz!",
+        "url": "https://open.spotify.com/album/2ZUV1Xyd2mxao4lclWYEnU"
+      },
+      "artists": [
+        {
+          "name": "Miguel and the Living Dead",
+          "url": "https://open.spotify.com/artist/2tnGY6SyCH12EMeYne5n9C"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368253,
+      "name": "The Great Replacement",
+      "url": "https://open.spotify.com/track/6RAcTglUaypJX3WLrRxgbV"
     },
     {
       "album": {
@@ -7704,7 +7812,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -8466,7 +8574,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 217618,
       "name": "Vackra djur g\u00f6r fula saker - Live",
       "url": "https://open.spotify.com/track/3zzCBHUDAw6kLCp4jEazOZ"
@@ -8658,6 +8766,24 @@
       "duration_ms": 346259,
       "name": "Waker Trace",
       "url": "https://open.spotify.com/track/12O1Iub7g4aipJhH75akR0"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/3yBddbL8CxPGYNwdCswsPf"
+      },
+      "artists": [
+        {
+          "name": "Jeramiad",
+          "url": "https://open.spotify.com/artist/4zFyS0Du4NiihzKMeXWfi2"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150441,
+      "name": "Wanted Man",
+      "url": "https://open.spotify.com/track/1E7J5fllSpHooYUuSpOPzk"
     },
     {
       "album": {
@@ -8928,7 +9054,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
@@ -8946,7 +9072,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-24",
       "duration_ms": 197168,
       "name": "Why",
       "url": "https://open.spotify.com/track/2KalwUS2OytygrlEdloBCb"

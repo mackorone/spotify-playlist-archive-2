@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,043 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,077 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 32 | [Gave My Life](https://open.spotify.com/track/2KZM55HCrW4Mxrw38fXRwm) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [the north starr](https://open.spotify.com/album/4YBN34TJuHA5Z1uMPw4MuW) | 3:18 |
 | 33 | [CTRL](https://open.spotify.com/track/0UZp9nzD0OLe4GUG1AnXTg) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [CTRL](https://open.spotify.com/album/1PAmdOAHNPSzrjpyhz1kyf) | 2:30 |
 | 34 | [VULNERABLE](https://open.spotify.com/track/1VyhOEutHm8fhycDyid6oq) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [DreBeeze Da Godson](https://open.spotify.com/artist/2HVOHorbpCUYRkYjNuQS93) | [VULNERABLE](https://open.spotify.com/album/0oRk8mfwxkndUzjG7USTTo) | 2:45 |
-| 35 | [OLD ME](https://open.spotify.com/track/57D0ELUjvKxsmaqlywRjhD) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u), [2ru](https://open.spotify.com/artist/3TqUV6HnhPZaZz4lhKF3LY) | [OLD ME](https://open.spotify.com/album/1NT0rHpBdyA5oxjtzkC3eD) | 3:24 |
+| 35 | [OLD ME](https://open.spotify.com/track/57D0ELUjvKxsmaqlywRjhD) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u), [2ru](https://open.spotify.com/artist/65WOOSO9d8f7PvqgHqGWj3) | [OLD ME](https://open.spotify.com/album/1NT0rHpBdyA5oxjtzkC3eD) | 3:24 |
 | 36 | [ACTIVE](https://open.spotify.com/track/4SuklMY4Hed8e0jdandHJZ) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [ACTIVE](https://open.spotify.com/album/6p6IXGuufHs2PTeBxArxbe) | 3:06 |
 | 37 | [Fighting Myself](https://open.spotify.com/track/2nonDtKgjG8bO0FfLf9CHG) | [Tyson James](https://open.spotify.com/artist/1y5jzAFGwRwzBQq7QnqyLE) | [Fighting Myself](https://open.spotify.com/album/1UAKBWA6F3tc2siVmHuLiO) | 3:27 |
 | 38 | [Make Me Brand New](https://open.spotify.com/track/54Zh8KK7NsTxrHYOTRb989) | [Dante' pride](https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj), [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Make Me Brand New](https://open.spotify.com/album/1kidFJphO4idvviuMT76qo) | 3:06 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 43 | [Hit'em Up](https://open.spotify.com/track/75Gt84R9tEswNrxlDV4Us0) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Hit'em Up](https://open.spotify.com/album/3WObwPEtU6mBt1h5rn74Ox) | 4:11 |
 | 44 | [BAGGITARIUS \- REMIX](https://open.spotify.com/track/5DJa4szBrBxSfYDR9rVp6e) | [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [BAGGITARIUS \(REMIX\)](https://open.spotify.com/album/5HqUy438IKDC7DvmIhR2F9) | 3:27 |
 | 45 | [WHERE HE AT?](https://open.spotify.com/track/6uHYznjqZfD5DVfEC0VMKO) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Lul DreDay](https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT) | [WHERE HE AT?](https://open.spotify.com/album/1yhTS3m4LtFCIuoyxFvWx6) | 2:32 |
-| 46 | [Bank On It](https://open.spotify.com/track/4KAtRm6mrG0ENzFNX3Yrxw) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Bank On It](https://open.spotify.com/album/49QiBNqVMipFIgpGrFR0v4) | 2:15 |
+| 46 | [Bank On It](https://open.spotify.com/track/4KAtRm6mrG0ENzFNX3Yrxw) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Bank On It](https://open.spotify.com/album/49QiBNqVMipFIgpGrFR0v4) | 2:17 |
 | 47 | [MIRACLE WORKER](https://open.spotify.com/track/5qKMC4NDcCxWBP1KjmxZnO) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [OPHANIM](https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5) | 3:47 |
 | 48 | [WAY I LIVE](https://open.spotify.com/track/4h542Q3dGPmPaH31eIyWoG) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [WAY I LIVE](https://open.spotify.com/album/6lg8w6SfMH9jLZZduEbqKj) | 2:20 |
 | 49 | [RIGHT BACK](https://open.spotify.com/track/6JIOSVd7S3A8D5jtArZy0o) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [RIGHT BACK](https://open.spotify.com/album/1pIDvBTzC2X9DKZ6wlns8k) | 3:03 |

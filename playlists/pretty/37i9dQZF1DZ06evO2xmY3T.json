@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 692167,
+  "num_followers": 692208,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAA17U8XpJiZUZ3BtnJJU93c",
+  "snapshot_id": "ab8xAAAAAABXiexmE720YbOc8JMIZq+2",
   "tracks": [
     {
       "added_at": null,
@@ -582,15 +582,11 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+      "duration_ms": 146560,
+      "name": "ErrTime",
+      "url": "https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX"
     },
     {
       "added_at": null,
@@ -682,11 +678,15 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 146560,
-      "name": "ErrTime",
-      "url": "https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX"
+      "duration_ms": 177893,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
       "added_at": null,

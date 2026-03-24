@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50645,
+  "num_followers": 50649,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAADgOyNEG89xKE8WG+HtD/Qw",
+  "snapshot_id": "ab8xAAAAAAAiEkmW2ExY2Cn14lnaZDp8",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+      "duration_ms": 226434,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 226434,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/6hYiwLZyGQ0hYlLLTzQMzg"
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22343,
+  "num_followers": 22342,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAABI5XRaSVyB1vGgxqcUEd8o",
+  "snapshot_id": "ab8xAAAAAAByHDUjDWwHpNvRCGNwoNJ1",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Rip Rip Woodchip",
-      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -75,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
       "artists": [
         {
@@ -84,25 +68,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 165013,
-      "name": "Beautiful Words (Come From You)",
-      "url": "https://open.spotify.com/track/1JfTPxJEv6mF8t8e3qmRm9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J.W.'s Family Album",
-        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Old Man Emu",
-      "url": "https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj"
+      "duration_ms": 182893,
+      "name": "Rip Rip Woodchip",
+      "url": "https://open.spotify.com/track/2b56dVNyNzRDP01lM3b8n0"
     },
     {
       "added_at": null,
@@ -123,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Old Man Emu",
+      "url": "https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 271160,
       "name": "Raining on the Rock",
       "url": "https://open.spotify.com/track/4RZXrZvFHCZY8BOQG2JzAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 165013,
+      "name": "Beautiful Words (Come From You)",
+      "url": "https://open.spotify.com/track/1JfTPxJEv6mF8t8e3qmRm9"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Red",
-        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Prairie Hotel Parachilna",
-      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 197666,
       "name": "Mallee Boy",
       "url": "https://open.spotify.com/track/72NkwThw0PDHasUu7WomDm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Red",
+        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Prairie Hotel Parachilna",
+      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Three Sons",
-      "url": "https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 232133,
       "name": "Cootamundra Wattle",
       "url": "https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Three Sons",
+      "url": "https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Galleries of Pink Galahs",
+      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -319,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
       },
       "artists": [
         {
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Galleries of Pink Galahs",
-      "url": "https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit"
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
       "added_at": null,
@@ -351,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
       "artists": [
         {
@@ -360,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Flower on the Water",
-      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
+      "duration_ms": 189733,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
     },
     {
       "added_at": null,
@@ -379,22 +395,6 @@
       "duration_ms": 210253,
       "name": "Goodbye Blinky Bill",
       "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking for a Story",
-        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "I Was Only 19 - Live",
-      "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 192240,
       "name": "Amazing Day",
       "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Looking for a Story",
+        "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 304493,
+      "name": "I Was Only 19 - Live",
+      "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 243506,
       "name": "Why They Call Him Sundown",
       "url": "https://open.spotify.com/track/2biGoEHo1LIcddn2NeXvXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "Mates on the Road",
+        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 158866,
-      "name": "Wobbly Boot Hotel",
-      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
+      "duration_ms": 71520,
+      "name": "Chain Around My Ankle",
+      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mates on the Road",
-        "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 71520,
-      "name": "Chain Around My Ankle",
-      "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+      "duration_ms": 158866,
+      "name": "Wobbly Boot Hotel",
+      "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
     },
     {
       "added_at": null,

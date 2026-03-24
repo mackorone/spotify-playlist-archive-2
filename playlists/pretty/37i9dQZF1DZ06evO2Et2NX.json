@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 8801,
+  "num_followers": 8803,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab3fgAAAAAAGC506PGfMEq7+TidVYjMq",
+  "snapshot_id": "ab8xAAAAAACKHr4wm8AjsNpVwhLLZ5tw",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+        "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
+      "duration_ms": 210943,
+      "name": "Can I Go On",
+      "url": "https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Center Won't Hold",
-        "url": "https://open.spotify.com/album/4KQlQyPKHNR04xTBwHosuK"
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 210943,
-      "name": "Can I Go On",
-      "url": "https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe"
+      "duration_ms": 224840,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 218586,
-      "name": "The Last Song",
-      "url": "https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK"
+      "duration_ms": 212760,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Cities to Love",
         "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Start Together",
-      "url": "https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu"
+      "duration_ms": 218586,
+      "name": "The Last Song",
+      "url": "https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 64160,
-      "name": "A Real Man",
-      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
+      "duration_ms": 158946,
+      "name": "Start Together",
+      "url": "https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 200773,
-      "name": "Burn, Don't Freeze!",
-      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
+      "duration_ms": 64160,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK"
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Hell",
-      "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
+      "duration_ms": 200773,
+      "name": "Burn, Don't Freeze!",
+      "url": "https://open.spotify.com/track/2mleFoqDXcD3uCP3bDTAkK"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hot Rock (Remastered)",
-        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 200840,
-      "name": "The End of You",
-      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
+      "duration_ms": 193516,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 171986,
       "name": "Needlessly Wild",
       "url": "https://open.spotify.com/track/5o3ombwsKQAYnHyKa9Jbwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hot Rock (Remastered)",
+        "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "The End of You",
+      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Beat (Remastered)",
+        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Light Rail Coyote",
+      "url": "https://open.spotify.com/track/64TJvG2yQQJTUSWHHDsiHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hot Rock (Remastered)",
         "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 128759,
       "name": "Banned from the End of the World",
       "url": "https://open.spotify.com/track/5IQiaXm1uhVLRg40PfZLZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Untidy Creature",
-      "url": "https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Beat (Remastered)",
-        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 188640,
-      "name": "Light Rail Coyote",
-      "url": "https://open.spotify.com/track/64TJvG2yQQJTUSWHHDsiHt"
+      "duration_ms": 208906,
+      "name": "Untidy Creature",
+      "url": "https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,426 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,450 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

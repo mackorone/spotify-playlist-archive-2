@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 38498,
+  "num_followers": 38546,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-03-13 13:07:04",
       "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Bawa",
+      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
+    },
+    {
+      "added_at": "2026-03-13 13:07:04",
+      "album": {
         "name": "Ichhabal Modern Punjabi Poerty",
         "url": "https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-03-13 13:07:04",
       "album": {
-        "name": "Bemisaal Jagjit Singh",
-        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+        "name": "Dil Nu",
+        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
       },
       "artists": [
         {
-          "name": "Chitra Singh",
-          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+          "name": "Sukhjinder Alfaaz",
+          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
         }
       ],
-      "duration_ms": 320306,
-      "name": "Bawa",
-      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
+      "duration_ms": 271749,
+      "name": "Dil Nu",
+      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
     },
     {
       "added_at": "2026-03-13 13:07:04",
@@ -739,38 +755,6 @@
     {
       "added_at": "2026-03-13 13:07:04",
       "album": {
-        "name": "Dil Nu",
-        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
-      },
-      "artists": [
-        {
-          "name": "Sukhjinder Alfaaz",
-          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
-        }
-      ],
-      "duration_ms": 271749,
-      "name": "Dil Nu",
-      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
-    },
-    {
-      "added_at": "2026-03-13 13:07:04",
-      "album": {
-        "name": "Bemisaal Jagjit Singh",
-        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Ishq",
-      "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
-    },
-    {
-      "added_at": "2026-03-13 13:07:04",
-      "album": {
         "name": "Dhola (The Sweetheart)",
         "url": "https://open.spotify.com/album/6i2mTMica3getExPlNOSMs"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 380240,
       "name": "Tu Na Bhuldi",
       "url": "https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx"
+    },
+    {
+      "added_at": "2026-03-13 13:07:04",
+      "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR"
     },
     {
       "added_at": "2026-03-13 13:07:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,126 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,130 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,33 +14,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 4 | [Man Next Door](https://open.spotify.com/track/5KIdc61y8co2zgfiweoUm5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Sherwood At The Controls: Volume 1 1979 \- 1984](https://open.spotify.com/album/7l6Rrf26u7qp9iU3iMIN4s) | 3:30 |
 | 5 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 6 | [Spend, Spend, Spend](https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:15 |
-| 7 | [Difficult Fun](https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:05 |
-| 8 | [First sight](https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [First sight](https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U) | 3:43 |
+| 7 | [First sight](https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [First sight](https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U) | 3:43 |
+| 8 | [Difficult Fun](https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:05 |
 | 9 | [Instant Hit](https://open.spotify.com/track/18sfTFdvZqJAtdqmVDCLNp) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 2:43 |
 | 10 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 |
-| 11 | [Walkabout](https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:42 |
-| 12 | [Slits Tradition](https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 3:20 |
+| 11 | [Slits Tradition](https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 3:20 |
+| 12 | [Walkabout](https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:42 |
 | 13 | [Newtown](https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:48 |
 | 14 | [Adventures Close To Home](https://open.spotify.com/track/0fIdKFpALGsshmcombaz13) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:24 |
-| 15 | [Improperly Dressed](https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:27 |
-| 16 | [Full moon](https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Full moon](https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI) | 3:03 |
+| 15 | [Full moon](https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Full moon](https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI) | 3:03 |
+| 16 | [Improperly Dressed](https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:27 |
 | 17 | [So Tough](https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 2:40 |
 | 18 | [Liebe And Romanze \- Slow Version](https://open.spotify.com/track/3x66JmjdpL74nL44lmqYiW) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 4:44 |
-| 19 | [Animal Space / Spacier](https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 6:40 |
-| 20 | [Fade Away](https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:41 |
+| 19 | [Fade Away](https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:41 |
+| 20 | [Animal Space / Spacier](https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 6:40 |
 | 21 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
 | 22 | [Une Homme et Un Slit \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 0:55 |
-| 23 | [Or What Is It?](https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:23 |
-| 24 | [From The Basement](https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [From The Basement](https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs) | 1:38 |
-| 25 | [Grapevine \(Live\)](https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Skateboard Punk Hits](https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv) | 3:32 |
+| 23 | [Grapevine \(Live\)](https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Skateboard Punk Hits](https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv) | 3:32 |
+| 24 | [Or What Is It?](https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:23 |
+| 25 | [From The Basement](https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [From The Basement](https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs) | 1:38 |
 | 26 | [Kill Them Wtih love](https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 4:07 |
 | 27 | [Split \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/6PdY3m4TaBMZUTNmsffJUD) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 1:53 |
 | 28 | [Number One Enemy](https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 2:14 |
-| 29 | [Vaseline \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:15 |
+| 29 | [Femme Fatale \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:47 |
 | 30 | [Slime](https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 2:26 |
-| 31 | [Femme Fatale \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:47 |
+| 31 | [Vaseline \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:15 |
 | 32 | [A Boring Life](https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:00 |
 | 33 | [Enemy Numero Uno \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 5:22 |
 | 34 | [In The Beginning](https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 6:05 |
 
-Snapshot ID: `ab3fgAAAAADSrs+DSICq6TgttqagVWLT`
+Snapshot ID: `ab8xAAAAAAA+PAg1j8R4z/b41sVPJL1h`

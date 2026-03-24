@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,645 likes - 149 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,663 likes - 149 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:58 |
+| 1 | [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:56 |
 | 2 | [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 |
 | 3 | [I DON'T BARGAIN](https://open.spotify.com/track/0KTym6MHSmlfXYKrwtfGHQ) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/1sEhPdw88BoROmJeijHBFZ) | 2:55 |
 | 4 | [Baby, Honey](https://open.spotify.com/track/4aScgS59UgkUjZsnYYfGHT) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/53YWR2QYfULvJSuh2FOJSC) | 2:30 |
