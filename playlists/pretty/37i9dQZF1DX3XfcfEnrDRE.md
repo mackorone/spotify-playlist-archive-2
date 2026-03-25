@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Tommee Profitt & Crowder
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,609 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,625 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 20 | [ALWAYS \(You Should Know\)](https://open.spotify.com/track/1mDFQrM8qnCnaLe1CLcdaJ) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd) | [ALWAYS \(You Should Know\)](https://open.spotify.com/album/1wp7T8vtSOmHfbLpjOLegJ) | 3:35 |
 | 21 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
 | 22 | [one step](https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [one step](https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f) | 3:36 |
-| 23 | [Jesus I Miss You](https://open.spotify.com/track/3a4Zo8KH3A5UKdYgarRt4J) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Jesus I Miss You](https://open.spotify.com/album/4FBhiNzx2OgzQXZviCnh61) | 4:17 |
+| 23 | [Get Me Outta The Way](https://open.spotify.com/track/68wrokN3yZVgnnH1fgcgGp) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Get Me Outta The Way](https://open.spotify.com/album/6NHIcI7rvh0Uw5rkKwfC5V) | 2:28 |
 | 24 | [I Watched](https://open.spotify.com/track/04ozkcUZsXUdhHIkoAgxdo) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [I Watched](https://open.spotify.com/album/7DtkQisH7shX8Aidu8E0dm) | 2:39 |
 | 25 | [Flame](https://open.spotify.com/track/0g1SsfhWdHa2FfNwN2iSJe) | [Grace + Max](https://open.spotify.com/artist/1slHwQqkai0tDfw5GzCHBr) | [Flame](https://open.spotify.com/album/20JZwZgncQZHWSaIo9a36e) | 2:42 |
 | 26 | [BE LIKE YOU](https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq) | [aftrthght](https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY) | [BE LIKE YOU](https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 69 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 70 | [Like A Branch](https://open.spotify.com/track/4y8Wk5PoOBDzwV28dzbWDW) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Like A Branch](https://open.spotify.com/album/49SOAzWIFEzXKTbyudAraE) | 4:42 |
 
-Snapshot ID: `AAAAAOb8kLRZjqQoNCnqzfRm5R3mbGkP`
+Snapshot ID: `AAAAAJ9hURkwrD8VbK8z0bRRb50+AmIW`

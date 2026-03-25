@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,285 songs - 3 day 5 hr 44 min
+1,287 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 | 2025-07-23 |
 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-26 | 2025-07-07 |
 | [Back to zero](https://open.spotify.com/track/3xDCorvyyw6kwnRVo6wYdG) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Back to zero](https://open.spotify.com/album/3QQ2iixWjRfdk25MMks8zO) | 2:50 | 2025-12-04 | 2026-02-24 |
-| [bad friend](https://open.spotify.com/track/6uCPuIVSEE2xXBjROxJAPg) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [bad friend](https://open.spotify.com/album/1pjxuYytNXtjCEfw2SAtMM) | 2:42 | 2026-02-09 |  |
+| [bad friend](https://open.spotify.com/track/6uCPuIVSEE2xXBjROxJAPg) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [bad friend](https://open.spotify.com/album/1pjxuYytNXtjCEfw2SAtMM) | 2:42 | 2026-02-09 | 2026-03-25 |
 | [Bad News](https://open.spotify.com/track/62n9pY9ASBu876GnTNESYO) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Bad News](https://open.spotify.com/album/3Ypjq0ayZL9QeSzpc6iyZj) | 3:12 | 2025-09-22 | 2025-11-03 |
 | [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 | 2024-05-10 |
 | [Bad Thinkin'](https://open.spotify.com/track/6LaJ5XmWySED10xKG3edR7) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [Bad Thinkin'](https://open.spotify.com/album/7xKsX3msABCAOOpcl7j6HQ) | 2:44 | 2024-06-06 | 2024-06-19 |
@@ -121,7 +121,7 @@
 | [Better Me](https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [BE](https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX) | 3:20 | 2022-03-31 | 2022-04-21 |
 | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/track/6wgQeSCttPKaIRJgwK3EJn) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Betty Boop♥ \(collab\. ULKIN CANVAS\)](https://open.spotify.com/album/0sUQyZG2rfJH6tASxHks3p) | 2:17 | 2025-04-03 | 2025-04-11 |
 | [Beyond the Nights](https://open.spotify.com/track/3ABjDPEgS3IfmWkGcgbzvC) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Beyond the Nights](https://open.spotify.com/album/3J1ybIIdZkqPGxNmfzPPy0) | 3:56 | 2022-03-03 | 2022-07-15 |
-| [Beyond the Steam](https://open.spotify.com/track/3VTmZHSgOCOQmESVB4FRmI) | [Shin Seung Eun](https://open.spotify.com/artist/4z5v6JmVbuYYVLwHbJPzIm) | [Beyond the Steam](https://open.spotify.com/album/3rgEoH4x4AElapQ8zKcTqO) | 3:10 | 2026-02-06 |  |
+| [Beyond the Steam](https://open.spotify.com/track/3VTmZHSgOCOQmESVB4FRmI) | [Shin Seung Eun](https://open.spotify.com/artist/4z5v6JmVbuYYVLwHbJPzIm) | [Beyond the Steam](https://open.spotify.com/album/3rgEoH4x4AElapQ8zKcTqO) | 3:10 | 2026-02-06 | 2026-03-25 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-01-27 | 2022-02-17 |
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-19 | 2025-02-13 |
@@ -449,6 +449,7 @@
 | [Heavy Going \- Single Ver.](https://open.spotify.com/track/2o3wx46DLWC0kUiS6js2OJ) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Heavy Going](https://open.spotify.com/album/0YFFUQOr36O0gobK7vyuQd) | 4:04 | 2024-04-30 | 2024-05-10 |
 | [Hello, Goodbye](https://open.spotify.com/track/6MKJgg1iFKGOOpqge8vhhD) | [Ruru](https://open.spotify.com/artist/4flinhIhFYE7Ehy3fFBg3l) | [Hello, Goodbye](https://open.spotify.com/album/0HONgJtedOHoxfciPlocSQ) | 2:41 | 2025-09-09 | 2025-10-15 |
 | [Help](https://open.spotify.com/track/1d54SppEn5ZLbNySfrAtQq) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Help / New Love](https://open.spotify.com/album/3A35BTiOnFGO28PopdmgXZ) | 3:43 | 2024-04-30 | 2024-05-10 |
+| [HELP!](https://open.spotify.com/track/5pKnUr9JRnNU49YvKWqNDU) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Bunny Tale](https://open.spotify.com/album/1GcXoTQr1o73yClQ4w8B8t) | 3:31 | 2026-03-24 |  |
 | [her.](https://open.spotify.com/track/6Qf6rGWVYUgolA02Y1Si1Q) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [her.](https://open.spotify.com/album/0SjIGRHSAiqAIcreD9U1yO) | 3:21 | 2025-09-11 | 2025-10-18 |
 | [Here Comes Spring](https://open.spotify.com/track/0HoqKELIFy538h4oF7GxFT) | [Graphy](https://open.spotify.com/artist/6oEnCMb1JA0fhSK2UTUvI6) | [Here Comes Spring](https://open.spotify.com/album/0DshiGUF4rKrdZoFsgmnH2) | 3:59 | 2021-12-12 | 2022-07-23 |
 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 | 2021-12-12 | 2025-07-26 |
@@ -1126,6 +1127,7 @@
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
 | [Uncertainty](https://open.spotify.com/track/110fmD1UZunfVmFqrgMJ2o) | [Wah Wah Wah](https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG), [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [UBUBU](https://open.spotify.com/album/6pbrTmdUYrorSP876yMIFm) | 9:47 | 2025-09-30 | 2025-11-03 |
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |
+| [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 | 2026-03-24 |  |
 | [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 | 2026-03-23 |  |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |

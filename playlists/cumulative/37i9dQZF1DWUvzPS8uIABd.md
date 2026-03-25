@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-920 songs - 1 day 21 hr 55 min
+921 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 | 2024-10-31 | 2024-11-08 |
 | [Jos tuut vielä vastaan](https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Jos tuut vielä vastaan](https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7) | 2:53 | 2024-09-19 | 2024-10-18 |
 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 | 2026-03-08 |
-| [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 | 2025-09-18 |  |
+| [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 | 2025-09-18 | 2026-03-25 |
 | [Jossain sä oot](https://open.spotify.com/track/2ZvQ60llWT1r7KbTAsozYW) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Jossain sä oot](https://open.spotify.com/album/6LN6ZANO9lhVSZNFf1i8ou) | 3:37 | 2025-11-20 | 2026-01-16 |
 | [Jouluks kotiin](https://open.spotify.com/track/0lPnlw2OqYerwBT9MyoLex) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Jouluks kotiin](https://open.spotify.com/album/0YvTm6IHgUXyUr8Ywow0rn) | 2:44 | 2024-12-12 | 2025-01-03 |
 | [Joutsenet](https://open.spotify.com/track/758Kl8JokCJSFBBdn2Kp6h) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Joutsenet](https://open.spotify.com/album/6FmA5jUIwpLY1QvgFMZ8UJ) | 3:20 | 2025-12-11 | 2026-01-15 |
@@ -269,6 +269,7 @@
 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 | 2024-09-12 | 2024-10-25 |
 | [Kaikki Menee!](https://open.spotify.com/track/04x88ZQsjsEdYQcfM6bZ3S) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [Kaikki Menee!](https://open.spotify.com/album/14s2JQLCpc7tZ93pT8LDtI) | 2:34 | 2024-10-24 | 2024-11-08 |
 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 | 2024-11-21 | 2025-03-07 |
+| [Kaikki päättyy meihin](https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Kaikki päättyy meihin](https://open.spotify.com/album/05WXs6ariojObbFucrzg69) | 2:52 | 2026-03-19 |  |
 | [Kaikki tahtoo rakastaa \- Vain elämää kausi 15](https://open.spotify.com/track/2i0l16zo5QZwXsDNFWDvMb) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Kaikki tahtoo rakastaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/4fDDiieDCgfTpRIxg17GDv) | 3:12 | 2024-10-31 | 2024-11-08 |
 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 | 2025-03-20 | 2025-10-24 |
 | [Kakskytä milliä \(Vain elämää kausi 15\)](https://open.spotify.com/track/6RTn3JCwDjxaRJCMNpWEdE) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC) | [Kakskytä milliä \(Vain elämää kausi 15\)](https://open.spotify.com/album/3p8czdUrT2iCGLxEw8AE2J) | 2:46 | 2024-09-13 | 2024-09-20 |

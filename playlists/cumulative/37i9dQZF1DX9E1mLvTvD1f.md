@@ -2,7 +2,7 @@
 
 ### [90s Rock Drive](https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f)
 
-> 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
+> 90s rock to fuel your ride
 
 89 songs - 5 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-196 songs - 10 hr 52 min
+198 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,8 @@
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/7kNbvAcTd6uiA4yWc5eOMr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/6p4huDF8rJ4HVPQD3TF3iJ) | 3:38 | 2025-07-15 | 2025-08-20 |
 | [SWIM](https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga) | 3:56 | 2026-03-20 |  |
 | [SWIM](https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM](https://open.spotify.com/album/2Hb9BBHUN5ZDqcWj5ySyZm) | 3:56 | 2026-03-20 |  |
+| [SWIM \(Performance Video\)](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 | 2026-03-24 |  |
+| [SWIM \(Performance Video\)](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 | 2026-03-24 |  |
 | [The Reason](https://open.spotify.com/track/2byNQPJUMOmyKdaQSw0k15) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason](https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw) | 3:08 | 2025-12-13 |  |
 | [THIS IS FOR](https://open.spotify.com/track/5D3yEO19Qolv5NNK4WUyDL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/62742xRMCVA32EzRjyie94) | 2:13 | 2025-07-15 |  |
 | [THRILLER](https://open.spotify.com/track/0pKZGh1aecHm3JwouoKTdU) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/6g6IrJ9NH4WzXeegihzWjI) | 2:57 | 2025-10-24 |  |

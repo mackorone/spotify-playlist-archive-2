@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,175 songs - 2 day 18 hr 10 min
+1,178 songs - 2 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 | 2026-03-05 |  |
 | [Double Vision](https://open.spotify.com/track/6iouDofENf4lkfN8hbHaCs) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [James Price](https://open.spotify.com/artist/17ITCxYzF82ZxhNAmKYIjW), [Lia Magu](https://open.spotify.com/artist/6jyY9gOCAGSvYgaHYQkLtM), [Judular](https://open.spotify.com/artist/047wzkCMnsMG0Z7cYQyPXF) | [Homegrown](https://open.spotify.com/album/3peM8AAagRvh6LhfbHrhtJ) | 3:33 | 2025-10-23 | 2025-12-10 |
 | [Down in A Hole](https://open.spotify.com/track/4c1vW7vyXE0BDRqRi0hOEe) | [dirth.](https://open.spotify.com/artist/4AXYaezweit6i4xoEtBoAu) | [Down in A Hole](https://open.spotify.com/album/1YGIlMHK8sPw1TgJFONB0z) | 4:19 | 2025-12-04 | 2026-02-03 |
+| [Down on Richmond](https://open.spotify.com/track/7n2vhgZt1Kk8TMRCzgbfl3) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/1ZqmD4wXzSqAYbAcEsQiO2) | 1:59 | 2026-03-24 |  |
 | [Down To Mexico \- Live](https://open.spotify.com/track/5DxXxF5WPqNL3HySoXBgtt) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:13 | 2025-11-08 | 2026-01-15 |
 | [Dr\. Morbid & Iguana Bob](https://open.spotify.com/track/4bnwxxhkF1suj1bUjp6aGP) | [Highwayman](https://open.spotify.com/artist/3UEaff5wuK2Y6B6Ti5xlgm) | [Issue \#1 Dec 2025: Paid in Caps](https://open.spotify.com/album/14jFvrOmBhRf7L9D4qN3uU) | 3:24 | 2026-03-11 |  |
 | [Drama \(remaster\)](https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:48 | 2025-09-18 |  |
@@ -304,6 +305,7 @@
 | [Dust](https://open.spotify.com/track/1g5OgqOOiwHj9iMwpPoecb) | [FOLD](https://open.spotify.com/artist/21EhExoKzvszapvs9YlN2k) | [Dust](https://open.spotify.com/album/6zgZ7YNzE7mX8tTFauJGgW) | 4:17 | 2025-11-13 | 2025-12-10 |
 | [Désolée](https://open.spotify.com/track/012mQzh8uUUCbZuEFALOZ8) | [Popsonic](https://open.spotify.com/artist/4maUf0qQSl1rGWZpaHZxiw) | [Désolée](https://open.spotify.com/album/6BByIBTAXuP8YDpJoGmScj) | 2:37 | 2026-03-20 |  |
 | [Easy Tiger \- Live](https://open.spotify.com/track/2pczCxdV30ODAjDEsu8OTW) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:32 | 2025-11-08 | 2026-01-15 |
+| [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-03-24 |  |
 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:33 | 2025-08-03 |  |
 | [Echo Chambers \- Radio Edit](https://open.spotify.com/track/7io4vhWULhZDLHmPBcnrPi) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Cleopatra Does The Nasty](https://open.spotify.com/album/6MFW4hr1KMuHHi1CFZUcSa) | 3:38 | 2026-01-08 | 2026-01-17 |
 | [Echoes of a Scream](https://open.spotify.com/track/0wu7MRbBXcUDgYsfLfc9aT) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Echoes of a Scream](https://open.spotify.com/album/1Fn5k5nnwikeYzzQZFPizS) | 3:42 | 2026-01-27 | 2026-02-24 |
@@ -739,6 +741,7 @@
 | [Pawned Melody](https://open.spotify.com/track/2ds7E6cBtrgMk08bMYYWnb) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:16 | 2025-10-31 | 2025-12-10 |
 | [Pax Humana \(remaster\)](https://open.spotify.com/track/1ghVtuSyq2HfBJccvrQc5h) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:05 | 2025-09-18 |  |
 | [Payback's a Bitch](https://open.spotify.com/track/57yypeuNQDGdt9YaqwXoeZ) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [MUTANTE](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 5:35 | 2026-03-01 | 2026-03-21 |
+| [PELUCA](https://open.spotify.com/track/3KbY5CV42zjVCBxS5PAUty) | [Mercedes & Marxx](https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8) | [PELUCA](https://open.spotify.com/album/4XEHb88Irn4IBcQg0g6uhQ) | 3:13 | 2026-03-24 |  |
 | [Pendulum Days](https://open.spotify.com/track/1qZ6g0mIS1mPOtMsNAwhQU) | [King\-Mob](https://open.spotify.com/artist/6AtM0lknJzg2W9TXmSqhks) | [Arabesque](https://open.spotify.com/album/3Ci9lnpfoobOGL3XIS12Y7) | 4:36 | 2026-02-28 |  |
 | [Penetrate](https://open.spotify.com/track/5fWCPWfiVKaPa7nVGOYJiL) | [Donzii](https://open.spotify.com/artist/6ezSXwGUhE3a3g6uEr38oU) | [Fishbowl](https://open.spotify.com/album/4jh3rTNuzr1DoGvP4uHIPJ) | 3:43 | 2025-12-22 | 2026-01-15 |
 | [Perdu dans forêt](https://open.spotify.com/track/0Q4kxJMTgDTNgTGQyh9ltg) | [Méchant colosse](https://open.spotify.com/artist/0jY2ojXQVoIeZhB609uHxl) | [Perdu dans forêt](https://open.spotify.com/album/2Nv9ZI0Qwq0MUbwmvfZqRf) | 6:32 | 2026-02-02 | 2026-02-27 |

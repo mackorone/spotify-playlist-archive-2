@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: THE SIXTH LIE",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: NOISEMAKER",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -3137,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "KINTSUGI feat. Koie",
+        "url": "https://open.spotify.com/album/2zxxqSTBxBJ8YHuz2Q8NKy"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        },
+        {
+          "name": "Koie",
+          "url": "https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203547,
+      "name": "KINTSUGI feat. Koie",
+      "url": "https://open.spotify.com/track/4mOGeF0xI6dThLtCkB1jbn"
+    },
+    {
+      "album": {
         "name": "KiSS OF DEATH",
         "url": "https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg"
       },
@@ -4320,7 +4342,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 243376,
       "name": "NORTH WIND feat. CVLTE / GEN",
       "url": "https://open.spotify.com/track/5W7749bJxOGkcFcTRm87io"
@@ -4378,7 +4400,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 159706,
       "name": "Oblivious",
       "url": "https://open.spotify.com/track/0tLILvueivAra0zEWZDAX4"
@@ -8434,6 +8456,24 @@
       "duration_ms": 106500,
       "name": "\u611f\u60c5is MINE",
       "url": "https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi"
+    },
+    {
+      "album": {
+        "name": "\u58ca\u308c\u3066\u6d88\u3048\u308b\u307e\u3067",
+        "url": "https://open.spotify.com/album/6LPAR5MIqWdco9QZKNMpnr"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119266,
+      "name": "\u6211\u4e3b\u6211\u4e3b\u6211\u4e3b\u301cOh!Soccer!\u301c",
+      "url": "https://open.spotify.com/track/5N7Zvls0z25oyEfrBRwxMy"
     },
     {
       "album": {

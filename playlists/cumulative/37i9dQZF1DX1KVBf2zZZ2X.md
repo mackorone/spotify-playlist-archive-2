@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-326 songs - 15 hr 13 min
+329 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Balcons Verdoyants](https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Balcons Verdoyants](https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq) | 3:25 | 2023-09-01 | 2025-06-12 |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-03-03 | 2025-06-12 |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 | 2025-04-19 |
-| [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 |  |
+| [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 | 2026-03-25 |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 | 2024-03-21 |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2025-06-12 |
 | [Beyond the Trees](https://open.spotify.com/track/14fQdcdoIkXx0Xdga2hFOZ) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Beyond the Trees](https://open.spotify.com/album/5k8Ca0yBwHEoHlyqGRHPkN) | 2:25 | 2026-03-20 |  |
@@ -132,7 +132,7 @@
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2026-02-27 |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-03-19 | 2026-03-21 |
 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 | 2025-09-25 |
-| [Glint](https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH) | [Golden Mirage](https://open.spotify.com/artist/77CkzRAWnnxgtcSDY8BXD6) | [Glint](https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi) | 2:39 | 2026-03-20 |  |
+| [Glint](https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH) | [Golden Mirage](https://open.spotify.com/artist/77CkzRAWnnxgtcSDY8BXD6) | [Glint](https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi) | 2:39 | 2026-03-20 | 2026-03-25 |
 | [Glistening](https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Glistening](https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y) | 2:49 | 2026-03-20 |  |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-03-03 | 2025-06-12 |
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2025-12-03 | 2026-03-21 |
@@ -141,6 +141,7 @@
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-05-01 |  |
 | [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-03-20 |  |
 | [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 | 2024-03-20 |  |
+| [Hands of Peace](https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Hands of Peace](https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns) | 3:27 | 2026-03-20 |  |
 | [Harp For The Forest](https://open.spotify.com/track/3utL3Ht0qABfrg6cwRMEMf) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [Harp For The Forest](https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o) | 3:05 | 2024-02-06 | 2024-11-23 |
 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 | 2023-03-03 | 2024-04-26 |
 | [Held in the Unseen](https://open.spotify.com/track/6BLWQzCeyUnNgzHT3gDvG5) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Held in the Unseen](https://open.spotify.com/album/0NWfsXREqQRkTnnfNwMlN2) | 3:31 | 2026-03-20 |  |
@@ -154,7 +155,7 @@
 | [Hum of Nature](https://open.spotify.com/track/6xZZPNVplKrbBbummb1VrS) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Hum of Nature](https://open.spotify.com/album/3oHGle3A4HHKCOtR7FcMgG) | 2:57 | 2025-02-21 | 2026-03-21 |
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-03-03 | 2024-03-02 |
 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 | 2023-03-03 | 2024-11-23 |
-| [Imaginations](https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Imaginations](https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ) | 2:47 | 2026-03-20 |  |
+| [Imaginations](https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW) | [Jnana Flow](https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52) | [Imaginations](https://open.spotify.com/album/1qtaFw9D2LjV88OogD6JIQ) | 2:47 | 2026-03-20 | 2026-03-25 |
 | [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 | 2023-09-01 | 2024-07-19 |
 | [Inner Peace](https://open.spotify.com/track/4xgIZplTSDOLVDJ5sUhGSl) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Inner Peace](https://open.spotify.com/album/4a2A5yW9e0nNGbdYmnyjkT) | 1:58 | 2026-03-20 |  |
 | [inner room healing](https://open.spotify.com/track/09DzwPpPRylxmmoldKNCiC) | [Julien Abbadie](https://open.spotify.com/artist/4VzZQ0uOnKgLowRSZvNcrW) | [inner room healing](https://open.spotify.com/album/2KIBDGOVELhfy2rMnjwqO8) | 2:52 | 2024-10-01 | 2025-01-16 |
@@ -184,6 +185,7 @@
 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 | 2023-09-28 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-03 | 2024-08-24 |
 | [Midnight](https://open.spotify.com/track/06sSsDhDSjhMXF9Y65CfWc) | [Bergdahl](https://open.spotify.com/artist/2imD2tcPPvJrdB8qzu1fqU) | [Midnight](https://open.spotify.com/album/4vEVnCGo8rzZQLCbKJrQ1S) | 2:47 | 2025-01-15 |  |
+| [Midrib](https://open.spotify.com/track/5oYxD5jqVkJLLld1Wxw6mb) | [Canopy Sound](https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s) | [Midrib](https://open.spotify.com/album/5GsUgnGOmiBv0tYrDzYrky) | 2:05 | 2026-03-20 |  |
 | [Mindspring](https://open.spotify.com/track/7uFxNG7npT3u3616NVIrUW) | [Aron Verne](https://open.spotify.com/artist/660tFAiz8h0EhFzkv3mn8f) | [Mindspring](https://open.spotify.com/album/10VQjCmWmU6gwRpXMqpeLm) | 2:44 | 2026-03-20 |  |
 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 | 2023-10-26 | 2025-10-16 |
 | [Morning light](https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Morning light](https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz) | 2:20 | 2024-05-01 | 2025-09-25 |
@@ -264,6 +266,7 @@
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 | 2024-09-05 |
 | [Slow Morning](https://open.spotify.com/track/25jZO62Z6Z9fg39kzFU2h1) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Slow Morning](https://open.spotify.com/album/01aduQj2WuqOWsj3Ksy6wt) | 3:10 | 2025-01-15 | 2026-03-21 |
 | [Slow Movements](https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Slow Movements](https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN) | 3:02 | 2025-03-19 | 2026-03-21 |
+| [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-03-20 |  |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2025-07-09 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 | 2025-10-18 |
 | [softly softly](https://open.spotify.com/track/6QHbTSoQOh8VRwt56OWuNK) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [softly softly](https://open.spotify.com/album/0InMpm8lvLDcfj8Mw5RHSG) | 2:24 | 2026-01-21 |  |

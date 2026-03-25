@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 131541,
+  "num_followers": 131527,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Paraphernalia",
+        "url": "https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Paraphernalia",
+      "url": "https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 220106,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Paraphernalia",
-        "url": "https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Paraphernalia",
-      "url": "https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -519,38 +519,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Metaverse",
-        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Metaverse",
-      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Meet Glen Campbell",
+        "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Ur Mum",
         "url": "https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 210026,
       "name": "Reaching Out To You",
       "url": "https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Meet Glen Campbell",
-        "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Nature Always Wins",
-        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Why Must A Building Burn?",
-      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "A Hero's Death",
         "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 233626,
       "name": "A Lucid Dream",
       "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Nature Always Wins",
+        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 182210,
+      "name": "Why Must A Building Burn?",
+      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
     },
     {
       "added_at": "2024-07-12 23:20:36",

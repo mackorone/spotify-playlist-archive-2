@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,194 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,190 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
 | 17 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 18 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
-| 19 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
-| 20 | [Moje Sve](https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Moje Sve](https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk) | 2:42 |
+| 19 | [Moje Sve](https://open.spotify.com/track/1LBWVVGfTCr8EYNSd92W81) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Moje Sve](https://open.spotify.com/album/5k44BwZZocI0dnbgy3vyQk) | 2:42 |
+| 20 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
 | 21 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 |
 | 22 | [Strip \- Bonus Track](https://open.spotify.com/track/25A62Eer2PaUqnOeJQWora) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:47 |
 | 23 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/7LyJ6qAXj3m3MoLWF6WHLZ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/5lXNBt6jCFso3HJf2hewul) | 3:25 |
 | 28 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
 | 29 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
-| 30 | [Ignorance is Bliss](https://open.spotify.com/track/5MrvwTkrocYxMBEelpCxeD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:34 |
-| 31 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
+| 30 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
+| 31 | [Ignorance is Bliss](https://open.spotify.com/track/5MrvwTkrocYxMBEelpCxeD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:34 |
 | 32 | [Who](https://open.spotify.com/track/5ChsCz0T4RykLavAqqwzHv) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Vitamin C](https://open.spotify.com/album/1o9XRpFT8v4VCNf6ZxT9Uo) | 3:01 |
 | 33 | [Himbeerrot \(One Kiss\)](https://open.spotify.com/track/6ub3LwPQu9vU9RwolFnuku) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Traumfabrik](https://open.spotify.com/album/3EcTBOqj2T6XFPcM9Bo3Pc) | 2:31 |
 | 34 | [Hiding In The Dark](https://open.spotify.com/track/6JaNr1kOG3yJ4JYhzMqQqN) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [KUOKO](https://open.spotify.com/album/5wqigbrWLM8OaieMgdImXm) | 3:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [vitamin d\[u\]](https://open.spotify.com/track/15bLQkwoNRFcvT8hcvf4QP) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [vitamin d\[u\]](https://open.spotify.com/album/5180jSrzjoFLALDABAJgWC) | 2:06 |
 | 37 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 |
 | 38 | [FUCK BABY I'M IN LOVE](https://open.spotify.com/track/3Ay2TKv5ouYna7iP4uRQVR) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [WORAN HÄLTST DU DICH FEST, WENN ALLES ZERBRICHT?](https://open.spotify.com/album/4xmhtPurl9t7IFDxUnyCrt) | 2:50 |
-| 39 | [Melody](https://open.spotify.com/track/0kdpQ3yq9JDvpiuOlMBqzs) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Melody](https://open.spotify.com/album/3m4FDyJe4YiXuQt4b5PxKb) | 2:46 |
-| 40 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
+| 39 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
+| 40 | [Melody](https://open.spotify.com/track/0kdpQ3yq9JDvpiuOlMBqzs) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Melody](https://open.spotify.com/album/3m4FDyJe4YiXuQt4b5PxKb) | 2:46 |
 | 41 | [Frei](https://open.spotify.com/track/2YtSRsWYbmXibPDiyfg47K) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Madonna Whore Komplex](https://open.spotify.com/album/4W33bBRbpEkrd8yQhiubqX) | 2:37 |
 | 42 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 43 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |

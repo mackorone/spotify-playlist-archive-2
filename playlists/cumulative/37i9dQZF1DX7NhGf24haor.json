@@ -15261,6 +15261,28 @@
     },
     {
       "album": {
+        "name": "HIT THE FLOOR",
+        "url": "https://open.spotify.com/album/0W1zMynkLKO0YFXKcbMyfU"
+      },
+      "artists": [
+        {
+          "name": "ONYX",
+          "url": "https://open.spotify.com/artist/7LDgld7Fj9yqmGskMG8Pro"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142124,
+      "name": "HIT THE FLOOR",
+      "url": "https://open.spotify.com/track/02NBOYp5wENGLYHfFibSCK"
+    },
+    {
+      "album": {
         "name": "Hit The Floor (E-Force Remix) [Unresolved Bad Blood FR Edit]",
         "url": "https://open.spotify.com/album/5iBTmbPP44LqLjX200aeSn"
       },
@@ -15666,7 +15688,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 242544,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/7tH6RazLAw5T2uqm9zSrvm"
@@ -37109,6 +37131,24 @@
     },
     {
       "album": {
+        "name": "Touch The Sky",
+        "url": "https://open.spotify.com/album/4HmxvGtwD5N9H494TRAeg0"
+      },
+      "artists": [
+        {
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2eK3syfnX49rMPosxcRW18"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4r9gVPNQm6fwwMj3L8GycV"
       },
@@ -38872,7 +38912,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 257636,
       "name": "Warbound - Bloodline 2026 OST",
       "url": "https://open.spotify.com/track/4NSgJTIJdspwDL6MsJKqHj"

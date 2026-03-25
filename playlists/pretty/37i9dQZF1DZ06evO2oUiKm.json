@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11475,
+  "num_followers": 11477,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab8xAAAAAACZNKV8314pdhTejBslzlva",
+  "snapshot_id": "acCCgAAAAAAdJu9zOpqu5HSigmq5ZMhW",
   "tracks": [
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/1R5nuRHEJTGMMN9wy6FdfD"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 41861,
+      "name": "No Place Like Home - Commentary",
+      "url": "https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -947,38 +963,6 @@
       "duration_ms": 77077,
       "name": "Somebody Gonna Love You",
       "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together (Soundtrack from Year in Search)",
-        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
-      },
-      "artists": [
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Chicago Children's Choir",
-          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
-        },
-        {
-          "name": "Matt Jones (Re-Collective Orchestra)",
-          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
-        }
-      ],
-      "duration_ms": 192873,
-      "name": "Together (Soundtrack from Year in Search)",
-      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

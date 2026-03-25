@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Put It Down",
+        "url": "https://open.spotify.com/album/6ne3KEQaXE40PhFMnrG1lJ"
+      },
+      "artists": [
+        {
+          "name": "Kuya",
+          "url": "https://open.spotify.com/artist/13EfXFxIDvullSdwr08yOy"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Brand New Amiri",
+      "url": "https://open.spotify.com/track/3W5SG8RsXkHSrztfXsLo7h"
+    },
+    {
+      "album": {
         "name": "Buckzz Flow",
         "url": "https://open.spotify.com/album/2f16689m1hfRWRnsMQ2Pcb"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > ADÉLA is so into you 💝 for <a href="https://newsroom.spotify.com/2026\-02\-24/greatest\-pop\-songs\-streaming\-era/">Spotify's 100 Greatest Pop Songs of the Streaming Era</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097,355 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,097,190 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Disney Channel Hits](https://open.spotify.com/playlist/37i9dQZF1DWXe3uGcHMBcq)
 
-> Listen to your favorite Disney Channel Hits, including Descendants/ZOMBIES: Worlds Collide Tour \- The Live Album.
+> Celebrate Hannah Montana turning 20 by reliving your favorite Disney Channel hits!
 
 202 songs - 9 hr 33 min
 

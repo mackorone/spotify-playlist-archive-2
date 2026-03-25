@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc0e4\uc774\ub2dd (Still Shining)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc138\uc774\ub80c (Siren's Kiss)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -4680,7 +4680,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 271000,
       "name": "End of a Day, You",
       "url": "https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh"
@@ -4882,6 +4882,24 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/0G1BMH6LPxLNeBBf55rsb1"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Every moment",
+      "url": "https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB"
     },
     {
       "album": {
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 183000,
       "name": "Got Me Good",
       "url": "https://open.spotify.com/track/3M2JSpzTrNNyN3dIH1f98P"
@@ -6306,6 +6324,24 @@
       "duration_ms": 184040,
       "name": "HALLEY",
       "url": "https://open.spotify.com/track/2gakxR9lhOOXkTP83F2RSz"
+    },
+    {
+      "album": {
+        "name": "Curtain Up, Class, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5F81ApGvEVHrfmVLrwvOa7"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Happened",
+      "url": "https://open.spotify.com/track/3PqUBTDWpZ6Bffq0aI8oYm"
     },
     {
       "album": {
@@ -6547,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "Siren's Kiss (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/5GAq5rGmqpkS5lWHQjgUiK"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5z9xBkTjtyYhgrAx1guUND"
+    },
+    {
+      "album": {
         "name": "18 again, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV"
       },
@@ -6760,7 +6814,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 262000,
       "name": "Hold me tight (The Winning Try : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/4jKYDFzYLbhXWn2tjL0AaV"
@@ -11992,7 +12046,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 194000,
       "name": "My Curly Hair Is Dancing In The Light",
       "url": "https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J"
@@ -12854,6 +12908,24 @@
       "duration_ms": 192226,
       "name": "No Return",
       "url": "https://open.spotify.com/track/59928cqGkFZaX111vOsN8Y"
+    },
+    {
+      "album": {
+        "name": "Mad Concrete Dreams, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5GSmTbeGVvw670tOPTKawa"
+      },
+      "artists": [
+        {
+          "name": "NARIN",
+          "url": "https://open.spotify.com/artist/1yUBUFUm2vgW9QC0onmEfQ"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "NO SAVIOR",
+      "url": "https://open.spotify.com/track/1GDpS338KDVy4kU5SIXde0"
     },
     {
       "album": {
@@ -14422,6 +14494,24 @@
       "duration_ms": 157609,
       "name": "Refresh!",
       "url": "https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH"
+    },
+    {
+      "album": {
+        "name": "Still Shining OST Part.5",
+        "url": "https://open.spotify.com/album/26DRHTH2gLi39cNBp1cY66"
+      },
+      "artists": [
+        {
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/03TzGrcj9wA6OShCB1chZX"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Rekindling Memories",
+      "url": "https://open.spotify.com/track/7HPtra6fwCtCD0EaTQPTI0"
     },
     {
       "album": {
@@ -16388,7 +16478,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 209240,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4W1b3MxwZL87B1BNYLCtvW"

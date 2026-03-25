@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,641 likes - 110 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,652 likes - 110 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 83 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 |
 | 84 | [Thank You](https://open.spotify.com/track/4QrcCtSGa3xaR1DpVfV2jB) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:05 |
 | 85 | [My Thanksgiving \(Mowadupe\)](https://open.spotify.com/track/4PLZyuPZB3Nxe5LsMUjAI1) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [My Thanksgiving \(Mowadupe\)](https://open.spotify.com/album/1tuCNPr1PewkXDZNe5eVMv) | 5:27 |
-| 86 | [Pharaoh](https://open.spotify.com/track/5LaMgVNwe9RlaoplkbdSFS) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Elijah The Worshipper](https://open.spotify.com/artist/32FEyq30dc3OWCsyJEePkN) | [Pharaoh](https://open.spotify.com/album/0feSZCdHVTIuy4vIvKJqe0) | 3:21 |
+| 86 | [Pharaoh](https://open.spotify.com/track/5LaMgVNwe9RlaoplkbdSFS) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [ELIJAH THE WORSHIPER](https://open.spotify.com/artist/5cPShzpsGw6TGDnIfg66lR) | [Pharaoh](https://open.spotify.com/album/0feSZCdHVTIuy4vIvKJqe0) | 3:21 |
 | 87 | [HASKE](https://open.spotify.com/track/5it5DZNFHCOQlHXxVDll3S) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [HASKE](https://open.spotify.com/album/1DCDoYPp7dMNgYxkWjboAL) | 3:13 |
 | 88 | [ASANTE](https://open.spotify.com/track/7quwERQrPg8gkhXGIXKOnw) | [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak) | [ASANTE](https://open.spotify.com/album/341kXkHHTouzUfeYiBRNJi) | 3:00 |
 | 89 | [All The Praise](https://open.spotify.com/track/1BGZ8RdettQqXBN4OerVN9) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [All The Praise](https://open.spotify.com/album/4xwAr47XDSNr7ShZZgkQHf) | 2:40 |

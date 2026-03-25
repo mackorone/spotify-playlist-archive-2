@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 374440,
+  "num_followers": 374545,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2026-03-13 19:16:54",
-      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2026-03-13 19:16:54",
+      "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -555,8 +555,8 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Gba Stage (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
@@ -564,17 +564,13 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Dan\u00fabia M.J",
-          "url": "https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR"
-        },
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
         }
       ],
-      "duration_ms": 303527,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -731,8 +727,8 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+        "name": "Gba Stage (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ"
       },
       "artists": [
         {
@@ -740,13 +736,17 @@
           "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         },
         {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+          "name": "Dan\u00fabia M.J",
+          "url": "https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR"
+        },
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+      "duration_ms": 303527,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
-    },
-    {
-      "added_at": "2026-03-13 19:16:54",
-      "album": {
         "name": "Romanos 12",
         "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 288402,
       "name": "Romanos 12",
       "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
+    },
+    {
+      "added_at": "2026-03-13 19:16:54",
+      "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Ora\u00e7\u00e3o pela Paz",
-        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+        "name": "Seremos o Amor",
+        "url": "https://open.spotify.com/album/11269KCRvrv5jBX520lIDb"
       },
       "artists": [
         {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+          "name": "Minist\u00e9rio Reacender",
+          "url": "https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX"
         },
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+          "name": "Par\u00f3quia Santa Terezinha",
+          "url": "https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8"
         }
       ],
-      "duration_ms": 221476,
-      "name": "Ora\u00e7\u00e3o pela Paz",
-      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+      "duration_ms": 405974,
+      "name": "Seremos o Amor",
+      "url": "https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Seremos o Amor",
-        "url": "https://open.spotify.com/album/11269KCRvrv5jBX520lIDb"
+        "name": "Restitui",
+        "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Reacender",
-          "url": "https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX"
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
         },
         {
-          "name": "Par\u00f3quia Santa Terezinha",
-          "url": "https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
         }
       ],
-      "duration_ms": 405974,
-      "name": "Seremos o Amor",
-      "url": "https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA"
+      "duration_ms": 273013,
+      "name": "Restitui",
+      "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
     },
     {
       "added_at": "2026-03-13 19:16:54",
@@ -1199,42 +1199,6 @@
     {
       "added_at": "2026-03-13 19:16:54",
       "album": {
-        "name": "Restitui",
-        "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
-      },
-      "artists": [
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "Restitui",
-      "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
-    },
-    {
-      "added_at": "2026-03-13 19:16:54",
-      "album": {
-        "name": "Dias Melhores Vir\u00e3o",
-        "url": "https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O"
-      },
-      "artists": [
-        {
-          "name": "Juliana de Paula",
-          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
-        }
-      ],
-      "duration_ms": 261853,
-      "name": "Dias Melhores Vir\u00e3o",
-      "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
-    },
-    {
-      "added_at": "2026-03-13 19:16:54",
-      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -1255,6 +1219,42 @@
       "duration_ms": 240188,
       "name": "Grande Rei",
       "url": "https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ"
+    },
+    {
+      "added_at": "2026-03-13 19:16:54",
+      "album": {
+        "name": "Dias Melhores Vir\u00e3o",
+        "url": "https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O"
+      },
+      "artists": [
+        {
+          "name": "Juliana de Paula",
+          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Dias Melhores Vir\u00e3o",
+      "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
+    },
+    {
+      "added_at": "2026-03-13 19:16:54",
+      "album": {
+        "name": "Ora\u00e7\u00e3o pela Paz",
+        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "Ora\u00e7\u00e3o pela Paz",
+      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
     },
     {
       "added_at": "2026-03-13 19:16:54",

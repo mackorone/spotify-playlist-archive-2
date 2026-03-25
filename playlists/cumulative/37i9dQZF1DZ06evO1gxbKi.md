@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-172 songs - 8 hr 31 min
+173 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Savior Don't Pass Me By](https://open.spotify.com/track/5b1rhm53dU2JXv18Dle40F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Best Of Sister Rosetta Tharpe](https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x) | 4:05 | 2025-07-02 |  |
 | [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 | 2022-05-25 | 2025-10-14 |
 | [Saviour Don't Pass Me By](https://open.spotify.com/track/7I9xtC86aRfW7jRpJIIt6F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:46 | 2025-03-05 | 2025-10-26 |
-| [Shout, Sister, Shout!](https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7) | [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-25 |  |
+| [Shout Sister Shout](https://open.spotify.com/track/6kw3HnWrIDHtwh0alQM33J) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [Just Shout!](https://open.spotify.com/album/0xVdSd5cOmnLrp96uLqAPR) | 2:44 | 2026-03-25 |  |
+| [Shout, Sister, Shout!](https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7) | [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-25 | 2026-03-25 |
 | [Sing and Shout](https://open.spotify.com/track/31ZnDwW7ERlKZRvLrWKgrl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 3:20 | 2023-12-31 | 2024-06-28 |
 | [Sing and Shout \- Remastered](https://open.spotify.com/track/4qNa7Uq1ev1NoNyLfaFNyE) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 3:20 | 2022-05-26 | 2022-07-22 |
 | [Singing In My Soul](https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:54 | 2022-05-25 |  |

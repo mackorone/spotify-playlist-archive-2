@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-242 songs - 14 hr 4 min
+243 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-02 | 2026-01-17 |
 | [Colours They Don't See](https://open.spotify.com/track/0FwGNBbGSDIg6NCnhCIxT3) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Colours They Don't See](https://open.spotify.com/album/020hrMuM4OcrEgZ88aEfQD) | 3:19 | 2026-02-16 |  |
 | [Comatose](https://open.spotify.com/track/4IxGpophDYgt0dj6nv4UfF) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Comatose](https://open.spotify.com/album/72boVn8Nvk0ZwxiGwRIHYB) | 3:37 | 2026-03-09 |  |
+| [Come on Home](https://open.spotify.com/track/5NUz4rCdmgCTGtD6o1Qk5D) | [Kristy Wilkins](https://open.spotify.com/artist/3c1coxeyHjp3W1RwzzzOYr) | [Devoted](https://open.spotify.com/album/3saAtiUaTp2bJId7BrNfC3) | 3:33 | 2026-03-24 |  |
 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 | 2026-01-28 | 2026-03-10 |
 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-03-10 |  |
 | [CRASHOUT](https://open.spotify.com/track/7EPzWnfd7oVBlsQHZQrPsR) | [SALLIE](https://open.spotify.com/artist/11nm1LNMhlPFZyljj3IGrC) | [ASK ME IF I'M OKAY](https://open.spotify.com/album/2UNzkfXa2aUPYjE6jsu3cb) | 3:16 | 2025-11-14 | 2026-01-17 |

@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "In Santa We Trust",
+        "url": "https://open.spotify.com/album/6ykOQ2DXafiHwmid5ybwfJ"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80914,
+      "name": "In Santa We Trust",
+      "url": "https://open.spotify.com/track/4Z0w9hjTHl5t2LOGkiU8Up"
+    },
+    {
+      "album": {
         "name": "Prima J",
         "url": "https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG"
       },

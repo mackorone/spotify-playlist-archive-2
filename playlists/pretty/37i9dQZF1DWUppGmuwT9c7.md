@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,478 likes - 104 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,529 likes - 104 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 50 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
 | 51 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx) | 2:32 |
 | 52 | [Is Het Een Droom](https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Is Het Een Droom](https://open.spotify.com/album/5MBUQmInGm8RCXa5ihoGKn) | 2:35 |
-| 53 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 |
-| 54 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
-| 55 | [Als Ik 't Anders Zou Doen](https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Ik 't Anders Zou Doen](https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh) | 2:46 |
-| 56 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
-| 57 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
-| 58 | [Ferry de Roze Flamingo](https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Ferry de Roze Flamingo](https://open.spotify.com/album/4Kc5we1zceYF8XYHB9TESc) | 2:51 |
-| 59 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
-| 60 | [Straf](https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0) | [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Straf](https://open.spotify.com/album/4tg3Z1C9Tvkj3TOk8FOiN0) | 1:59 |
-| 61 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 |
+| 53 | [Spijt](https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Spijt](https://open.spotify.com/album/1oJnhUDpKzf2y4uNIsQU7F) | 2:48 |
+| 54 | [Als Ik 't Anders Zou Doen](https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Ik 't Anders Zou Doen](https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh) | 2:46 |
+| 55 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
+| 56 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
+| 57 | [Ferry de Roze Flamingo](https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Ferry de Roze Flamingo](https://open.spotify.com/album/4Kc5we1zceYF8XYHB9TESc) | 2:51 |
+| 58 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
+| 59 | [Straf](https://open.spotify.com/track/78WPtoNB7gvWk8UUxzsEg0) | [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Straf](https://open.spotify.com/album/4tg3Z1C9Tvkj3TOk8FOiN0) | 1:59 |
+| 60 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 |
+| 61 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 |
 | 62 | [Met Je Moeder Niks Te Maken](https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Met Je Moeder Niks Te Maken](https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI) | 2:39 |
 | 63 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
 | 64 | [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 103 | [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 |
 | 104 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 
-Snapshot ID: `AAAAAJ6cxr/dMRx7Xj37fqCCT897acUt`
+Snapshot ID: `AAAAAP61hTCWQX5fD4harN2/JeHaU/KC`

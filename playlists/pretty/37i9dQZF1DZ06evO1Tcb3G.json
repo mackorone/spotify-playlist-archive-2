@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 518847,
+  "num_followers": 518889,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab8xAAAAAACtZ12jtw7FH6ggCPxuKEPe",
+  "snapshot_id": "acCCgAAAAACMxtVn3ccTK3kqOnSaecwI",
   "tracks": [
     {
       "added_at": null,
@@ -358,11 +358,15 @@
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Alleycat",
-      "url": "https://open.spotify.com/track/6JleMHKhuoAHMq6Ureh6FM"
+      "duration_ms": 192333,
+      "name": "Icarus (with Gigi Perez)",
+      "url": "https://open.spotify.com/track/7KK6Cd4lhD1szEpIUGCB1O"
     },
     {
       "added_at": null,

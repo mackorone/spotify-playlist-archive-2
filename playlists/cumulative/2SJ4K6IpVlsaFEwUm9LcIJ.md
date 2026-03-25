@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-943 songs - 2 day 9 hr 2 min
+946 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Diamonds and Gems](https://open.spotify.com/track/3W9d5rNGDNC3plYtX76Qy8) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:07 | 2025-04-02 | 2025-05-09 |
 | [Disco Divina](https://open.spotify.com/track/0OaIzsNk36CofcdcdAZGam) | [Il Guardiano Del Faro](https://open.spotify.com/artist/4PmDAzACdkCCxw0Yt17db8) | [Oasis](https://open.spotify.com/album/7hEiLSzmYKkFggRKacZ4kH) | 4:06 | 2025-09-16 | 2025-10-14 |
 | [Disconnection Notice](https://open.spotify.com/track/04pdroSBYn8G41Z6RlweJb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Murray St.](https://open.spotify.com/album/3jYv3H9FDiWyl8K0PMcsyp) | 6:24 | 2026-01-08 | 2026-03-13 |
+| [Distant Ships](https://open.spotify.com/track/7IhwT37vQe9IsXv51h9V7x) | [Rose Melberg](https://open.spotify.com/artist/3UArwiOs2JWYZ9oNxfTUBM) | [Distant Ships](https://open.spotify.com/album/5wWKCNj3559eqDbykB93CL) | 2:04 | 2026-03-24 |  |
 | [Distractions](https://open.spotify.com/track/3Sk7msDsVButqx4LKFQZoA) | [Insides](https://open.spotify.com/artist/7oFNZi5wfNdERJPWeH3gmd) | [Euphoria](https://open.spotify.com/album/38TVnnFHcoPrVNheaR6Y7t) | 5:49 | 2026-03-12 |  |
 | [Do It Yourself](https://open.spotify.com/track/7mqzQCR7KIPxvPFU5IoFkn) | [Salako](https://open.spotify.com/artist/681XmC6JREhgFVeUAiy4QN) | [Musicality](https://open.spotify.com/album/7crq1NPqPUrCptNM8o1Chn) | 2:56 | 2025-03-06 | 2025-05-09 |
 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 | 2024-08-05 | 2024-08-29 |
@@ -535,6 +536,7 @@
 | [Morning](https://open.spotify.com/track/6PiyGCHWohgYXBONLLEIoC) | [Chris & Cosey](https://open.spotify.com/artist/2lHpa4rwVeFbEnA0X7d0Tt) | [Techno Primitiv](https://open.spotify.com/album/5d9uxtsGVloKHNGaQBB5sA) | 4:32 | 2025-07-03 | 2025-09-11 |
 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 | 2025-01-20 | 2025-03-02 |
 | [Mother](https://open.spotify.com/track/5LYiV6wYgkKgkzyqyI7DyO) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [Loneliest In The Morning](https://open.spotify.com/album/2LGJoiH5Vjj7t7B49vYKHm) | 2:30 | 2025-03-31 | 2025-05-09 |
+| [Mother Of Pearl](https://open.spotify.com/track/3UYbX558Zg0bte6PlOWw3v) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [The Museum Of Imaginary Animals](https://open.spotify.com/album/39KtuXAPlbb1O88ozEyTZS) | 5:09 | 2026-03-24 |  |
 | [MOTION SICKNESS](https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 1:45 | 2024-10-18 | 2024-11-14 |
 | [Mountain Language](https://open.spotify.com/track/0oyjNHLOXu0aewrfGaxk75) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:16 | 2025-03-02 | 2025-05-09 |
 | [Mournin' Glory Story](https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Harry](https://open.spotify.com/album/1lQCkCt8zS3ZWSIE0YAmKW) | 2:12 | 2024-10-22 | 2024-11-14 |
@@ -654,6 +656,7 @@
 | [Puddles on My Pillow](https://open.spotify.com/track/6r15HLqlrLaxKesH2qaAVL) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Swimming Pool](https://open.spotify.com/album/5Fz76M7GkaDO8pObe6MRFs) | 2:00 | 2025-04-20 | 2025-05-09 |
 | [Punk as Fuck](https://open.spotify.com/track/6FcGBRTiMQMAY7g6xquoxg) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 4:09 | 2024-04-04 | 2024-05-16 |
 | [Pure](https://open.spotify.com/track/0a82sKc2ZEDcvvl8aekakp) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/0p9UOhjPADXDVJUzk4bZv0) | 3:47 | 2024-11-13 | 2024-11-20 |
+| [Push Ups](https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh) | [Natasha Sandworms](https://open.spotify.com/artist/4CCbEgPF1jwGjIyTGNP2ba) | [No Magic](https://open.spotify.com/album/1AUJCbAlbRugB3hAo5fzHt) | 5:12 | 2026-03-24 |  |
 | [Pyro](https://open.spotify.com/track/5xzCsSWJkLi2LmhgoSb5V3) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:36 | 2024-01-10 | 2024-03-10 |
 | [Qi Velocity](https://open.spotify.com/track/4jwqOfpGkR0OdiASvDj4OB) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:27 | 2024-01-29 | 2024-03-10 |
 | [Queen Majesty](https://open.spotify.com/track/6q8BTWNtC7T3eMyhbluIZx) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Classics](https://open.spotify.com/album/6KgY1PUeQP7wjwiQPTVpK6) | 3:12 | 2025-09-10 | 2025-11-15 |

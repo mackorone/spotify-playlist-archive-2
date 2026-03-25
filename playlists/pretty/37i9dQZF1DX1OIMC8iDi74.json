@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with EVAN GIIA & Pauline Herr",
-  "num_followers": 881588,
+  "num_followers": 881579,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/1UOGgRO18kY2BlIRWxw0jl"
       },
@@ -1099,38 +1115,18 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
       },
       "artists": [
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "LOOK",
-        "url": "https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 159964,
-      "name": "LOOK",
-      "url": "https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS"
+      "duration_ms": 108669,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3"
+        "name": "LOOK",
+        "url": "https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
         }
       ],
-      "duration_ms": 108669,
-      "name": "No Brakes",
-      "url": "https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q"
+      "duration_ms": 159964,
+      "name": "LOOK",
+      "url": "https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "EGO! (TAKE IT BACK)",
         "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 141686,
       "name": "Killa",
       "url": "https://open.spotify.com/track/5QrzHMtPWyS2ho4VodUHBx"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
       },
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "WRECKLESS",
-        "url": "https://open.spotify.com/album/5nCsEV5JAy3zfOCuchh6gl"
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
       },
       "artists": [
         {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
         },
         {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
         }
       ],
-      "duration_ms": 151071,
-      "name": "WRECKLESS",
-      "url": "https://open.spotify.com/track/4oejX73F36hVfzAMaaOKem"
+      "duration_ms": 171000,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f"
+        "name": "WRECKLESS",
+        "url": "https://open.spotify.com/album/5nCsEV5JAy3zfOCuchh6gl"
       },
       "artists": [
         {
-          "name": "NEOTEK",
-          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
         },
         {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
+      "duration_ms": 151071,
+      "name": "WRECKLESS",
+      "url": "https://open.spotify.com/track/4oejX73F36hVfzAMaaOKem"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
         }
       ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+      "duration_ms": 217846,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "Lazarus Rise",
         "url": "https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
-      },
-      "artists": [
-        {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
+        "name": "What U Got",
+        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "What U Got",
+      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
         "name": "CONTROL",
         "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 144000,
       "name": "EGOTRIP",
       "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
-        "name": "What U Got",
-        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "What U Got",
-      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "iwannaliveinadream",
-        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "iwannaliveinadream",
-      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
         "name": "HI-FASHION (feat. Matt Ox, Dj Smokey)",
         "url": "https://open.spotify.com/album/0bRNwBjkZTYH6u87PxdbFB"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 182584,
       "name": "HI-FASHION (feat. Matt Ox, DJ Smokey)",
       "url": "https://open.spotify.com/track/0ca78EYblROFZ2hrdIGMSU"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
+        "name": "iwannaliveinadream",
+        "url": "https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "iwannaliveinadream",
+      "url": "https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
-    },
-    {
-      "added_at": "2026-03-20 17:16:15",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
+    },
+    {
+      "added_at": "2026-03-20 17:16:15",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "added_at": "2026-03-20 17:16:15",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2026-03-20 17:16:15",
       "album": {
-        "name": "GHOST WORLD",
-        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+        "name": "need2know",
+        "url": "https://open.spotify.com/album/62woKz3YaWjZi1nTVc2cRu"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/5Em5UrJqGc5dshy1xQh9L0"
+      "duration_ms": 228691,
+      "name": "need2know",
+      "url": "https://open.spotify.com/track/64OfsokBDQLKONzokhUh1h"
     }
   ],
   "unique_name": "Trap Mojito",

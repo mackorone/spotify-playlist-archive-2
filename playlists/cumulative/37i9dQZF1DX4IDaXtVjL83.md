@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: aespa & <br/>Anderson .Paak\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: FIFTY FIFTY\)
 
-269 songs - 14 hr 5 min
+270 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-04 | 2025-08-01 |
 | [Whiplash \(Steve Aoki Remix\)](https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:45 | 2025-03-28 |  |
 | [Wish I Was Right For You](https://open.spotify.com/track/6Zib96PhBuBL0o9ycIbX0l) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Call Me Back When You Get A Moment](https://open.spotify.com/album/6bE6HDahCecQQ8QnrEIP6l) | 3:04 | 2023-04-07 | 2024-03-16 |
+| [Wish You Were Here](https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Wish You Were Here](https://open.spotify.com/album/4fc4n1ntpTwzc4IZL7LFYp) | 3:11 | 2026-03-24 |  |
 | [WONDERLAND \- English Ver.](https://open.spotify.com/track/3NjXKo1nVrBfTzyFBflLCB) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [WONDERLAND \(English Ver.\)](https://open.spotify.com/album/65M3yBqe7D8gzIRKCa0ip5) | 2:57 | 2023-05-25 | 2024-05-18 |
 | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl) | 3:22 | 2024-08-09 |  |
 | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg) | 2:50 | 2022-01-21 | 2022-12-06 |

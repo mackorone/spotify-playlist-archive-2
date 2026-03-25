@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
-  "num_followers": 116176,
+  "num_followers": 116461,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANDELspkW2twOjZLOYuXY327JVcb",
+  "snapshot_id": "AAAAABU7zeZ5dwGfhi2YffUNj3Fn31L0",
   "tracks": [
     {
       "added_at": "2026-03-20 00:01:36",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H"
     },
     {
+      "added_at": "2026-03-24 06:56:21",
+      "album": {
+        "name": "DEPART",
+        "url": "https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y"
+      },
+      "artists": [
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "DEPART",
+      "url": "https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB"
+    },
+    {
       "added_at": "2026-03-20 00:01:36",
       "album": {
         "name": "Mimti",
@@ -183,22 +199,6 @@
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
-    },
-    {
-      "added_at": "2026-03-20 00:01:36",
-      "album": {
-        "name": "BOOMX3",
-        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "BOOMX3",
-      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
     },
     {
       "added_at": "2026-03-20 00:01:36",
@@ -231,6 +231,22 @@
       "duration_ms": 194005,
       "name": "BON COURAGE",
       "url": "https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6"
+    },
+    {
+      "added_at": "2026-03-20 00:01:36",
+      "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
     },
     {
       "added_at": "2026-03-20 00:01:36",
@@ -627,22 +643,6 @@
     {
       "added_at": "2026-03-20 00:01:36",
       "album": {
-        "name": "Blati",
-        "url": "https://open.spotify.com/album/2k14r77YeNBGF00ZzgH2BK"
-      },
-      "artists": [
-        {
-          "name": "NovaQueen",
-          "url": "https://open.spotify.com/artist/6YYhmFoGalGnK51QReSoVE"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Blati",
-      "url": "https://open.spotify.com/track/4l58OohLgIY6vMAABsjG1t"
-    },
-    {
-      "added_at": "2026-03-20 00:01:36",
-      "album": {
         "name": "RS6",
         "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
       },
@@ -699,22 +699,18 @@
     {
       "added_at": "2026-03-20 00:01:36",
       "album": {
-        "name": "YA BABA",
-        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
+        "name": "Blati",
+        "url": "https://open.spotify.com/album/2k14r77YeNBGF00ZzgH2BK"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "NovaQueen",
+          "url": "https://open.spotify.com/artist/6YYhmFoGalGnK51QReSoVE"
         }
       ],
-      "duration_ms": 168894,
-      "name": "YA BABA",
-      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
+      "duration_ms": 146400,
+      "name": "Blati",
+      "url": "https://open.spotify.com/track/4l58OohLgIY6vMAABsjG1t"
     },
     {
       "added_at": "2026-03-20 00:01:36",
@@ -747,6 +743,26 @@
       "duration_ms": 192000,
       "name": "El Hlawa",
       "url": "https://open.spotify.com/track/6GO2By21Bc9nWETXxhCHvN"
+    },
+    {
+      "added_at": "2026-03-20 00:01:36",
+      "album": {
+        "name": "YA BABA",
+        "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 168894,
+      "name": "YA BABA",
+      "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"
     },
     {
       "added_at": "2026-03-20 00:01:36",
@@ -887,22 +903,6 @@
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
-    },
-    {
-      "added_at": "2026-03-20 00:01:36",
-      "album": {
-        "name": "Chkoun Ntiya",
-        "url": "https://open.spotify.com/album/0i2NCxG20ngXCFWdEqso6n"
-      },
-      "artists": [
-        {
-          "name": "Probador",
-          "url": "https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL"
-        }
-      ],
-      "duration_ms": 217301,
-      "name": "Chkoun Ntiya",
-      "url": "https://open.spotify.com/track/6xH01d8YetZfuRCSlPCymQ"
     }
   ],
   "unique_name": "Hit Maghribi",

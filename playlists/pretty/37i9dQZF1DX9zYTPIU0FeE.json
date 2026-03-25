@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 13082,
+  "num_followers": 13093,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Intlambululo: Ukuhlambulula",
-        "url": "https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg"
-      },
-      "artists": [
-        {
-          "name": "Mandisi Dyantyis",
-          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
-        }
-      ],
-      "duration_ms": 354824,
-      "name": "Amyoli",
-      "url": "https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Azania",
         "url": "https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 253498,
       "name": "uThixo uKhona",
       "url": "https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Intlambululo: Ukuhlambulula",
+        "url": "https://open.spotify.com/album/2hxynae0xcceJMSPSjDuhg"
+      },
+      "artists": [
+        {
+          "name": "Mandisi Dyantyis",
+          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
+        }
+      ],
+      "duration_ms": 354824,
+      "name": "Amyoli",
+      "url": "https://open.spotify.com/track/2oV2mK0Jui9PEhz9Dd1hmA"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "nomthandazo",
-        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Modiga",
-          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "indlela",
-      "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "African Time",
         "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 173240,
       "name": "Thixo Akunangqalelo",
       "url": "https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "nomthandazo",
+        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "indlela",
+      "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "A Dance More Sweetly Played",
-        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
-      },
-      "artists": [
-        {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
-        }
-      ],
-      "duration_ms": 384853,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Hamba No Malume",
         "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
       },
@@ -335,18 +319,38 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Love Drive",
-        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
       },
       "artists": [
         {
-          "name": "Vimbs Mavimbs",
-          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
         }
       ],
-      "duration_ms": 274091,
-      "name": "Love Drive",
-      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
+      "duration_ms": 384853,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -383,26 +387,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "At This Point in Time: Voices in Volumes",
         "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 484551,
       "name": "Wozani Nonke Sizothandaza",
       "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Love Drive",
+        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "duration_ms": 274091,
+      "name": "Love Drive",
+      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+        "name": "Ndilapha",
+        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
       "artists": [
         {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+          "name": "Nomfundo Xaluva",
+          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
         }
       ],
-      "duration_ms": 311750,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
+      "duration_ms": 257096,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -467,22 +467,6 @@
       "duration_ms": 398891,
       "name": "Inveterate",
       "url": "https://open.spotify.com/track/3rADL2yuY67rUBUs5o2Zib"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "Ndilapha",
-        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
-      },
-      "artists": [
-        {
-          "name": "Nomfundo Xaluva",
-          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
-        }
-      ],
-      "duration_ms": 257096,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -519,6 +503,22 @@
       "duration_ms": 199480,
       "name": "Our People",
       "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 311750,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -651,6 +635,38 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -695,22 +711,6 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -811,34 +827,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
       "artists": [
         {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
-        }
-      ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
-      },
-      "artists": [
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+        },
         {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+      "duration_ms": 270120,
+      "name": "Ngeke!",
+      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -883,46 +887,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
       "artists": [
         {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
         }
       ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "People of the South",
-        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
-      },
-      "artists": [
-        {
-          "name": "Viwe Mkizwana Ensemble",
-          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
-        },
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        },
-        {
-          "name": "Marcus Wyatt",
-          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "People of the South",
-      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -951,6 +927,30 @@
       "duration_ms": 471952,
       "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
       "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "People of the South",
+        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+      },
+      "artists": [
+        {
+          "name": "Viwe Mkizwana Ensemble",
+          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Marcus Wyatt",
+          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "People of the South",
+      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
     },
     {
       "added_at": "2026-03-13 08:01:55",

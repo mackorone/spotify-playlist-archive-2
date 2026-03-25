@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,181 songs - 5 day 7 hr 32 min
+2,182 songs - 5 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Kansas Tornado](https://open.spotify.com/track/577VH4uHIShw1SFuSw4M7I) | [Eagleman Band](https://open.spotify.com/artist/2Ib0Pp6JhSWt9DQqHntKBk) | [Kansas Tornado](https://open.spotify.com/album/63Z7pbrSI5LjKU6YuwBT76) | 3:27 | 2025-10-14 |  |
 | [Kara Dut](https://open.spotify.com/track/7w729ogTt2Tim4jhWIlEBl) | [Deniz Elver](https://open.spotify.com/artist/2TGf96h8rVqCjWFzB0AzP0) | [Bugünden Yarına Mesaj](https://open.spotify.com/album/3c5aTf0M2t5rcHVV4Cj7JS) | 3:36 | 2025-11-04 |  |
 | [Karaşar Zeybeği](https://open.spotify.com/track/6QDarBKKvLfgQ38eCls6AV) | [Durmuş Ali Öztürk](https://open.spotify.com/artist/1kq0dWHa90uPdE841HnLFB), [Emre Ay](https://open.spotify.com/artist/2zuSuBrWIWYn6ELSlf2Vx2) | [Flav'our](https://open.spotify.com/album/4jreMGZsplEqTwP5eSp7xF) | 5:07 | 2025-06-16 |  |
+| [Karlar düşer](https://open.spotify.com/track/52dcHswvjMI6WPutpeLdMC) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Karlar düşer](https://open.spotify.com/album/4cZ7Xkvqu74aFhjpvdWaer) | 2:51 | 2026-03-25 |  |
 | [KASALA](https://open.spotify.com/track/2lFtWNaAtdf9LZsrcTaWrz) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T) | [KASALA](https://open.spotify.com/album/0VBE5HaU33800S64toSedh) | 4:21 | 2025-01-28 |  |
 | [Keep in Mind](https://open.spotify.com/track/3z4JPk7Bq2AaALAIksdKxs) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Keep in Mind](https://open.spotify.com/album/3tG5GZQHOqvk0evqrqRUe0) | 2:41 | 2025-09-08 |  |
 | [Keep Me in Your Heart](https://open.spotify.com/track/0FSgc494ZE9xclHo09DW2m) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Keep Me in Your Heart](https://open.spotify.com/album/4aABtHIiGJ0YpjGcPuZYQo) | 3:54 | 2024-08-28 |  |

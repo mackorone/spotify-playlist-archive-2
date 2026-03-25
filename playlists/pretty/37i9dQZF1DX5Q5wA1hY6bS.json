@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1343198,
+  "num_followers": 1343057,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 203673,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "duration_ms": 203673,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "One Is Always Heading Somewhere",
-        "url": "https://open.spotify.com/album/01aK4s2HVJ3Alji7lRF37U"
-      },
-      "artists": [
-        {
-          "name": "Womb",
-          "url": "https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "One Is Always Heading Somewhere",
-      "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 220175,
       "name": "Teenage Drug",
       "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "One Is Always Heading Somewhere",
+        "url": "https://open.spotify.com/album/01aK4s2HVJ3Alji7lRF37U"
+      },
+      "artists": [
+        {
+          "name": "Womb",
+          "url": "https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "One Is Always Heading Somewhere",
+      "url": "https://open.spotify.com/track/1nTCvb1GHKtGmj1up3z6Tx"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Mountain Man",
-      "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 229662,
       "name": "Star to Star",
       "url": "https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Mountain Man",
+      "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
     },
     {
       "added_at": "2025-12-12 15:56:47",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
-        "name": "Not Like It Was",
-        "url": "https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 175103,
-      "name": "Not Like It Was",
-      "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
         "name": "Getting It Right",
         "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 170280,
       "name": "Getting It Right",
       "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
+        "name": "Not Like It Was",
+        "url": "https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 175103,
+      "name": "Not Like It Was",
+      "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
     },
     {
       "added_at": "2025-12-12 15:56:47",

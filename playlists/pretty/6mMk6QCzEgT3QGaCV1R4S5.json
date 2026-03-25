@@ -1,12 +1,12 @@
 {
   "description": "Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025",
-  "num_followers": 35369,
+  "num_followers": 35366,
   "original_name": "Dancefloor Beats",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAi0CuXxtq4Z5nHY770Zopy3YqVlZDf",
+  "snapshot_id": "AAAi18pliq6MEbmT+57moEoYE1Hzf7Qf",
   "tracks": [
     {
       "added_at": "2026-03-20 19:57:33",
@@ -359,6 +359,66 @@
       "duration_ms": 261333,
       "name": "Only Human - MPH Remix",
       "url": "https://open.spotify.com/track/6s0XiiD5NE5MetCoOVY0yM"
+    },
+    {
+      "added_at": "2026-03-24 19:32:45",
+      "album": {
+        "name": "Let It Go (feat. Nevve)",
+        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Let It Go (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-03-24 19:33:31",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/64cXhx8WR3ajHanczSaoZS"
+      },
+      "artists": [
+        {
+          "name": "Evenity",
+          "url": "https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv"
+        }
+      ],
+      "duration_ms": 160310,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/7Bu68Eqh8saQYCOy9PVoWH"
+    },
+    {
+      "added_at": "2026-03-24 19:34:28",
+      "album": {
+        "name": "U & Me",
+        "url": "https://open.spotify.com/album/1XQQbeZiRiTh3GBa1FWZoB"
+      },
+      "artists": [
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
+        },
+        {
+          "name": "sone.",
+          "url": "https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c"
+        }
+      ],
+      "duration_ms": 198376,
+      "name": "U & Me",
+      "url": "https://open.spotify.com/track/4tj4Ui5fdBAu92pOjMl5fM"
     },
     {
       "added_at": "2026-03-20 19:57:33",
@@ -1907,94 +1967,6 @@
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
-    },
-    {
-      "added_at": "2026-03-20 19:57:33",
-      "album": {
-        "name": "Midnight City",
-        "url": "https://open.spotify.com/album/3ptdXZfNqNX2IEx4YZd3kz"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 179542,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/3HJd6Q30wXWzFj7V3OTwmN"
-    },
-    {
-      "added_at": "2026-03-20 19:57:33",
-      "album": {
-        "name": "T-Shirt",
-        "url": "https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        },
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "duration_ms": 170416,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK"
-    },
-    {
-      "added_at": "2026-03-20 19:57:33",
-      "album": {
-        "name": "I'm Going Out",
-        "url": "https://open.spotify.com/album/1nQzYYPVXMKPb23hoAnioP"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "XANDRA",
-          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 149237,
-      "name": "I'm Going Out",
-      "url": "https://open.spotify.com/track/3yy2x178PndVRPFmLmtqDB"
-    },
-    {
-      "added_at": "2026-03-20 19:57:33",
-      "album": {
-        "name": "CALL ME",
-        "url": "https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        }
-      ],
-      "duration_ms": 130825,
-      "name": "CALL ME",
-      "url": "https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno"
     }
   ],
   "unique_name": "Dancefloor Beats",

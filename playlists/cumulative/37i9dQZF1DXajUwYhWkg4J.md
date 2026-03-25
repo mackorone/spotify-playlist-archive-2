@@ -2,7 +2,7 @@
 
 ### [Best of: Coke Studio Sufi ](https://open.spotify.com/playlist/37i9dQZF1DXajUwYhWkg4J)
 
-> Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
+> Top Sufi tracks of Coke Studio Pakistan\. Cover: Naseebo Lal
 
 63 songs - 8 hr 35 min
 

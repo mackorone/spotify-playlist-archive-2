@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 177197,
       "name": "Beautiful Nature",
       "url": "https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 159368,
       "name": "Glint",
       "url": "https://open.spotify.com/track/2CNs8gg77FhVmadqvhrueH"
@@ -2404,6 +2404,24 @@
       "duration_ms": 164112,
       "name": "Hands In The Sky",
       "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
+    },
+    {
+      "album": {
+        "name": "Hands of Peace",
+        "url": "https://open.spotify.com/album/4Dktl0OS3gUY0CrymbhZns"
+      },
+      "artists": [
+        {
+          "name": "Man Dala",
+          "url": "https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Hands of Peace",
+      "url": "https://open.spotify.com/track/09k98ZBBIc5Dn261HfMaO7"
     },
     {
       "album": {
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 167692,
       "name": "Imaginations",
       "url": "https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW"
@@ -3178,6 +3196,24 @@
       "duration_ms": 167139,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/06sSsDhDSjhMXF9Y65CfWc"
+    },
+    {
+      "album": {
+        "name": "Midrib",
+        "url": "https://open.spotify.com/album/5GsUgnGOmiBv0tYrDzYrky"
+      },
+      "artists": [
+        {
+          "name": "Canopy Sound",
+          "url": "https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125763,
+      "name": "Midrib",
+      "url": "https://open.spotify.com/track/5oYxD5jqVkJLLld1Wxw6mb"
     },
     {
       "album": {
@@ -4618,6 +4654,24 @@
       "duration_ms": 182857,
       "name": "Slow Movements",
       "url": "https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD"
+    },
+    {
+      "album": {
+        "name": "Slow River",
+        "url": "https://open.spotify.com/album/774opILeSkptANsD6z00tS"
+      },
+      "artists": [
+        {
+          "name": "Elaifas",
+          "url": "https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Slow River",
+      "url": "https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7"
     },
     {
       "album": {

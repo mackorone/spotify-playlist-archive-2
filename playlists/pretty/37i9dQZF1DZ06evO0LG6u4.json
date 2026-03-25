@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 372,
+  "num_followers": 374,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab8xAAAAAABVDg+7uQDtjSgAoXNZtXfX",
+  "snapshot_id": "acCCgAAAAAD4r/Pg/7A9jJTgASnI90Dp",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48993,
-      "name": "Musique pour l'image",
-      "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"
+      "duration_ms": 105400,
+      "name": "Mutation de l'oeuvre",
+      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 105400,
-      "name": "Mutation de l'oeuvre",
-      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 100019,
+      "name": "Le reflet",
+      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 100019,
-      "name": "Le reflet",
-      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
+      "duration_ms": 48433,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/5iFT5Xi0wixMPmBw8PI0Lh"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 48993,
+      "name": "Musique pour l'image",
+      "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: SINN6R",
-  "num_followers": 271804,
+  "num_followers": 271796,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-13 00:00:10",
       "album": {
-        "name": "Chanel Boy",
-        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Chanel Boy",
-      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
-    },
-    {
-      "added_at": "2026-03-13 00:00:10",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-03-13 00:00:10",
       "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "added_at": "2026-03-13 00:00:10",
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -921,7 +921,7 @@
       "artists": [
         {
           "name": "Digga",
-          "url": "https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro"
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
       "duration_ms": 111462,

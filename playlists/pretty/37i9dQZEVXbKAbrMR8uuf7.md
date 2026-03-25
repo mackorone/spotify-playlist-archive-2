@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,600 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,618 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [La Tengo De Vaceo](https://open.spotify.com/track/0lvrZEPXXGY4tAvBJzWVzu) | [Papa Jeison](https://open.spotify.com/artist/4BtCo7zwiMbbsQMAHHwTby) | [La Tengo De Vaceo](https://open.spotify.com/album/1TglFiGVDDdHTawcAda3WT) | 2:37 |
 | 50 | [ENCUERA](https://open.spotify.com/track/4fclQgqgZDLbiEkNhtZ0Mx) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [July Queen](https://open.spotify.com/artist/6B1OtjbuEkKs8RV3HruvJO) | [ENCUERA](https://open.spotify.com/album/6J3cjGoymPt1tF9rdWGAvy) | 2:07 |
 
-Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVX3GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,390 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,398 likes - 60 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 6 | [Fena](https://open.spotify.com/track/6TtLKXKZp7jXsDVSGUj6LZ) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena EP](https://open.spotify.com/album/0RlAKqN7uzZr9kaxtPg1fR) | 4:44 |
 | 7 | [Alhaji](https://open.spotify.com/track/1zA5rG1hcPSLmfZhU4XJ0e) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Dejavu](https://open.spotify.com/album/0uHZlGCfAvwrbiuTWE5JHG) | 2:01 |
 | 8 | [Fibre Axis](https://open.spotify.com/track/7oi0tg1vbaS8AtgpXBGfwV) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Cross Passage](https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP) | 6:18 |
-| 9 | [Bring in the Katz \- Original Mix](https://open.spotify.com/track/7bLyV7vbRhhhjSlgWPrnZZ) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Pork Chop](https://open.spotify.com/artist/27N7UTGtDzvIkjBemCZnXe) | [Club Constructions Volume 3](https://open.spotify.com/album/6fre01LnENddK89ssp8Z15) | 4:24 |
+| 9 | [Bring in the Katz \- Original Mix](https://open.spotify.com/track/7bLyV7vbRhhhjSlgWPrnZZ) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [Club Constructions Volume 3](https://open.spotify.com/album/6fre01LnENddK89ssp8Z15) | 4:24 |
 | 10 | [Overpass](https://open.spotify.com/track/3VbmTLiIuX84czfDNf1fNi) | [Aurora Halal](https://open.spotify.com/artist/4I8qgsaz4mQa9ICeCPibIF) | [Passageway](https://open.spotify.com/album/5j8YBaD1zOAxgEmzhMnZ6Y) | 4:17 |
 | 11 | [you are my shotgun](https://open.spotify.com/track/5wAJjq2ojuw0XYg7DDr8W4) | [Layn Haley](https://open.spotify.com/artist/2kXPUwlhOck4KdJEZLVAuq) | [you are my shotgun](https://open.spotify.com/album/1F8JLVFB6tDHMLH9HJ8577) | 2:51 |
 | 12 | [PAUSE](https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [PAUSE](https://open.spotify.com/album/50c1nz74rz07dgXW30TYaY) | 5:18 |

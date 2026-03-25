@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Neyna",
-  "num_followers": 243076,
+  "num_followers": 243131,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -415,42 +415,6 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Noninho Navarro",
-          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
-        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
-        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 186922,
-      "name": "Amar Pela Metade",
-      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
         "name": "Ver\u00e3o",
         "url": "https://open.spotify.com/album/322fwTocCvHnvXcZTIeHHQ"
       },
@@ -471,6 +435,42 @@
       "duration_ms": 244702,
       "name": "Ver\u00e3o",
       "url": "https://open.spotify.com/track/0emu6J77PCmzWNG6ScLtmA"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
+        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 186922,
+      "name": "Amar Pela Metade",
+      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "Passada",
-        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 223657,
-      "name": "Passada",
-      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 182023,
       "name": "Akanadja",
       "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "Passada",
+        "url": "https://open.spotify.com/album/6iAjsqDaXBNlnU1o2hjpdG"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 223657,
+      "name": "Passada",
+      "url": "https://open.spotify.com/track/5ig7dqFjwpLy9FlM7IkGws"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
         "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
         "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 237717,
       "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
       "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "CICLOS",
-        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
         "name": "11\u00b0 Ano",
         "url": "https://open.spotify.com/album/3Cl9iASC8gLoBjBh9KoQg3"
       },
@@ -1123,8 +1107,8 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
+        "name": "Te Avisei",
+        "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
       },
       "artists": [
         {
@@ -1132,21 +1116,29 @@
           "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         },
         {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        },
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
           "name": "Shalom Beatz",
           "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
         }
       ],
-      "duration_ms": 181764,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
+      "duration_ms": 166153,
+      "name": "Te Avisei",
+      "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "CICLOS",
+        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -1207,6 +1199,34 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
         "name": "Hey Odja",
         "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 167180,
       "name": "Hey Odja",
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
-        "name": "Te Avisei",
-        "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Te Avisei",
-      "url": "https://open.spotify.com/track/2MnGRWPN0GXLajqzxBCUqq"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
         "name": "Simbiose",
         "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 218426,
       "name": "Simbiose",
       "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-03-20 00:00:22",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-03-20 00:00:22",
       "album": {
+        "name": "Namorado",
+        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Namorado",
+      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
+    },
+    {
+      "added_at": "2026-03-20 00:00:22",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2026-03-20 00:00:22",
-      "album": {
-        "name": "Namorado",
-        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Namorado",
-      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
     },
     {
       "added_at": "2026-03-20 00:00:22",

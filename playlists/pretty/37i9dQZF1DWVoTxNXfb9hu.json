@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 174547,
+  "num_followers": 174610,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Makhna (From \"Drive\")",
         "url": "https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 183000,
       "name": "Makhna - From \"Drive\"",
       "url": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -743,6 +743,38 @@
       "duration_ms": 223991,
       "name": "Dance Basanti",
       "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Ram Ji Aake Bhala Karenge (From \"Bhooth Bangla\")",
+        "url": "https://open.spotify.com/album/5Ht9mM4fiMphsDAKPkmlQE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Aarvan",
+          "url": "https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "Ram Ji Aake Bhala Karenge - From \"Bhooth Bangla\"",
+      "url": "https://open.spotify.com/track/76amTizokuA7JolW7aAZ16"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -839,38 +871,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Ram Ji Aake Bhala Karenge (From \"Bhooth Bangla\")",
-        "url": "https://open.spotify.com/album/5Ht9mM4fiMphsDAKPkmlQE"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Aarvan",
-          "url": "https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Mellow D",
-          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Ram Ji Aake Bhala Karenge - From \"Bhooth Bangla\"",
-      "url": "https://open.spotify.com/track/76amTizokuA7JolW7aAZ16"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Badrinath Ki Dulhania",
         "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
       },
@@ -947,42 +947,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Pathaan",
-        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Sukriti Kakar",
-          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 208164,
-      "name": "Jhoome Jo Pathaan",
-      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
       },
@@ -1015,6 +979,42 @@
       "duration_ms": 187006,
       "name": "Kala Chashma",
       "url": "https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 208164,
+      "name": "Jhoome Jo Pathaan",
+      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1111,34 +1111,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Nazia Hassan",
-          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "The Disco Song",
-      "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6"
       },
@@ -1167,6 +1139,34 @@
       "duration_ms": 184171,
       "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "The Disco Song",
+      "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Khadke Glassy (From \"Jabariya Jodi\")",
-        "url": "https://open.spotify.com/album/7vW69P07tJxYsk3KWqYez2"
+        "name": "Yo Yo Honey Singh Is Back",
+        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
       },
       "artists": [
         {
@@ -1328,29 +1328,13 @@
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Ashok Mastie",
-          "url": "https://open.spotify.com/artist/4Tgckldx1Aq3eGdjsBig1I"
-        },
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        },
-        {
-          "name": "Channi Rakhala",
-          "url": "https://open.spotify.com/artist/5zDAwOU58LnRJa6ioecSWX"
-        },
-        {
-          "name": "Bonafide",
-          "url": "https://open.spotify.com/artist/71lCqsaQXjuCSOcC7olKTL"
-        },
-        {
-          "name": "Koncept",
-          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         }
       ],
-      "duration_ms": 200710,
-      "name": "Khadke Glassy - From \"Jabariya Jodi\"",
-      "url": "https://open.spotify.com/track/7ttE95JHwVFsYsGOTK6PEw"
+      "duration_ms": 243319,
+      "name": "Sunny Sunny (From \"Yaariyan\")",
+      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1423,50 +1407,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Junooniyat",
-        "url": "https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1"
-      },
-      "artists": [
-        {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
-        },
-        {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-        },
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        }
-      ],
-      "duration_ms": 251513,
-      "name": "Nachange Saari Raat",
-      "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Yo Yo Honey Singh Is Back",
-        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Sunny Sunny (From \"Yaariyan\")",
-      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -1491,6 +1431,42 @@
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Khadke Glassy (From \"Jabariya Jodi\")",
+        "url": "https://open.spotify.com/album/7vW69P07tJxYsk3KWqYez2"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Ashok Mastie",
+          "url": "https://open.spotify.com/artist/4Tgckldx1Aq3eGdjsBig1I"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Channi Rakhala",
+          "url": "https://open.spotify.com/artist/5zDAwOU58LnRJa6ioecSWX"
+        },
+        {
+          "name": "Bonafide",
+          "url": "https://open.spotify.com/artist/71lCqsaQXjuCSOcC7olKTL"
+        },
+        {
+          "name": "Koncept",
+          "url": "https://open.spotify.com/artist/1vInbTSMFJUspkFo3PsSZL"
+        }
+      ],
+      "duration_ms": 200710,
+      "name": "Khadke Glassy - From \"Jabariya Jodi\"",
+      "url": "https://open.spotify.com/track/7ttE95JHwVFsYsGOTK6PEw"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1535,6 +1511,30 @@
       "duration_ms": 261004,
       "name": "Chalti Hai Kya 9 Se 12",
       "url": "https://open.spotify.com/track/06wmFmUzR15wlWpjTYwVTr"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Junooniyat",
+        "url": "https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "duration_ms": 251513,
+      "name": "Nachange Saari Raat",
+      "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Kuch Kuch Locha Hai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc"
       },
@@ -1647,46 +1663,26 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Nawabzaade",
-        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+        "name": "Main Khiladi (From \"Selfiee\")",
+        "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
       },
       "artists": [
         {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
         }
       ],
-      "duration_ms": 179099,
-      "name": "High Rated Gabru",
-      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Baghban",
-        "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
-      },
-      "artists": [
-        {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "Hori Khele Raghuveera",
-      "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
+      "duration_ms": 187099,
+      "name": "Main Khiladi - From \"Selfiee\"",
+      "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1719,26 +1715,26 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Main Khiladi (From \"Selfiee\")",
-        "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
       },
       "artists": [
         {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
           "name": "Tanishk Bagchi",
           "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
         }
       ],
-      "duration_ms": 187099,
-      "name": "Main Khiladi - From \"Selfiee\"",
-      "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1763,26 +1759,30 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+        "name": "Baghban",
+        "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
       },
       "artists": [
         {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
         },
         {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
         },
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
+      "duration_ms": 339533,
+      "name": "Hori Khele Raghuveera",
+      "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
     },
     {
       "added_at": "2026-03-19 09:40:44",

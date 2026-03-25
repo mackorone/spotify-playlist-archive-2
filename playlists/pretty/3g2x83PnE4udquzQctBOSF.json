@@ -1,13 +1,85 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2709,
+  "num_followers": 2713,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARtW+uhNoUjUnnq3lFBcPRi3aO0nZ5",
+  "snapshot_id": "AAARud3eca75p5iGGTIlFlKyH2GuFAzo",
   "tracks": [
+    {
+      "added_at": "2026-03-24 21:58:56",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/4v0grW16pKDOC6w25jTrqM"
+      },
+      "artists": [
+        {
+          "name": "MUSIKINO",
+          "url": "https://open.spotify.com/artist/3GsIYLvgLnKXiUt08rVCAd"
+        }
+      ],
+      "duration_ms": 428374,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0fQakQC0oyu7nIOuPXf6Y6"
+    },
+    {
+      "added_at": "2026-03-24 11:20:32",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/50XdV1aDvViwriaxLYe60X"
+      },
+      "artists": [
+        {
+          "name": "Luke DB",
+          "url": "https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6"
+        },
+        {
+          "name": "Don Calo",
+          "url": "https://open.spotify.com/artist/14SNXavDJ4MeIMkEnYHtMN"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5c5RvH5E4jUF8SiWXKEshY"
+    },
+    {
+      "added_at": "2026-03-24 11:19:31",
+      "album": {
+        "name": "Want to Take",
+        "url": "https://open.spotify.com/album/6I3RCwRkLHQcmptKg8LCbu"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        },
+        {
+          "name": "Mauro Fiore",
+          "url": "https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Want to Take",
+      "url": "https://open.spotify.com/track/2iwr7QByWmDI2ubd453VUh"
+    },
+    {
+      "added_at": "2026-03-24 10:07:05",
+      "album": {
+        "name": "Midnight Temptation",
+        "url": "https://open.spotify.com/album/72KQ7LHhNDoxXDH912jdEs"
+      },
+      "artists": [
+        {
+          "name": "Just Ben",
+          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Midnight Temptation",
+      "url": "https://open.spotify.com/track/3MQ7AzuBNN1RZr2GzgLLAu"
+    },
     {
       "added_at": "2026-03-24 00:32:04",
       "album": {

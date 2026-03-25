@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIziGrG0ytLQgnVd7RxCvI8Z2VISjs",
+  "snapshot_id": "AAAI0sFUFW43B2oa1mr0QimynDAzE954",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11525,26 +11525,6 @@
       "url": "https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD"
     },
     {
-      "added_at": "2026-03-23 04:51:23",
-      "album": {
-        "name": "RUAB",
-        "url": "https://open.spotify.com/album/3kcLseJNFGfubBeDxpG66V"
-      },
-      "artists": [
-        {
-          "name": "Dhanji",
-          "url": "https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV"
-        },
-        {
-          "name": "unfuckman",
-          "url": "https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC"
-        }
-      ],
-      "duration_ms": 154749,
-      "name": "TEJI",
-      "url": "https://open.spotify.com/track/4zRuUgwyR9r3p1Wc7ZMtde"
-    },
-    {
       "added_at": "2026-03-23 14:23:14",
       "album": {
         "name": "PUSH & PAINT",
@@ -11599,6 +11579,26 @@
       "duration_ms": 343190,
       "name": "Sherpa",
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
+    },
+    {
+      "added_at": "2026-03-25 00:08:35",
+      "album": {
+        "name": "Drive-in Cinema 2.1",
+        "url": "https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM"
+      },
+      "artists": [
+        {
+          "name": "Dhanji",
+          "url": "https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV"
+        },
+        {
+          "name": "RASLA",
+          "url": "https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd"
+        }
+      ],
+      "duration_ms": 47250,
+      "name": "Traffick",
+      "url": "https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya"
     }
   ],
   "unique_name": "Zacklog",

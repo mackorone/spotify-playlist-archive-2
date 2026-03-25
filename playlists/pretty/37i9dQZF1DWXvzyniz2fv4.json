@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158893,
+  "num_followers": 158890,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "Ravi",
-        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "DJ Gbeats",
-          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
-        },
-        {
-          "name": "Bollivia",
-          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Ravi",
-      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "Ravi",
+        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ Gbeats",
+          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
+        },
+        {
+          "name": "Bollivia",
+          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Ravi",
+      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -1043,26 +1059,6 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "Primeira Vez (Studio Rec #8)",
-        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Trem Caro",
-          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
-        }
-      ],
-      "duration_ms": 163218,
-      "name": "Primeira Vez (Studio Rec #8)",
-      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+        "name": "Primeira Vez (Studio Rec #8)",
+        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
       },
       "artists": [
         {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Trem Caro",
+          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
         }
       ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+      "duration_ms": 163218,
+      "name": "Primeira Vez (Studio Rec #8)",
+      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1127,6 +1127,26 @@
       "duration_ms": 192296,
       "name": "BUND\u00c3O GG",
       "url": "https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "Jam #2",
+        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        }
+      ],
+      "duration_ms": 214509,
+      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
+      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1175,26 +1195,6 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        }
-      ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2026-03-13 19:34:39",

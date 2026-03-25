@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "cuLE viaJE",
+        "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
+      },
+      "artists": [
+        {
+          "name": "Till High",
+          "url": "https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "cuLE viaJE",
+      "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
+    },
+    {
+      "album": {
         "name": "Curame",
         "url": "https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H"
       },
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 159135,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"

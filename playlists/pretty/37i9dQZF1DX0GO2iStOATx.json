@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 227594,
+  "num_followers": 227644,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tee L",
-          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "Poh Di Raat",
-      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Amar Singh Chamkila - Live Recorded",
         "url": "https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 117536,
       "name": "Pat Doon Chugti Ni",
       "url": "https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tee L",
+          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "Poh Di Raat",
+      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Kharku",
+      "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 173638,
       "name": "Future",
       "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Kharku",
-      "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 275083,
-      "name": "Psychotic",
-      "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
+      "duration_ms": 148158,
+      "name": "Cry Later",
+      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 148158,
-      "name": "Cry Later",
-      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
+      "duration_ms": 275083,
+      "name": "Psychotic",
+      "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
     },
     {
       "added_at": "2026-01-30 11:13:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 158513,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
-    },
-    {
-      "added_at": "2026-01-30 11:13:46",
-      "album": {
         "name": "Advisory",
         "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164133,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
+    },
+    {
+      "added_at": "2026-01-30 11:13:46",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 158513,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
     },
     {
       "added_at": "2026-01-30 11:13:46",

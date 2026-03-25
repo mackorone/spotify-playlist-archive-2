@@ -3021,6 +3021,42 @@
     },
     {
       "album": {
+        "name": "SWIM (Performance Video)",
+        "url": "https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166430,
+      "name": "SWIM (Performance Video)",
+      "url": "https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa"
+    },
+    {
+      "album": {
+        "name": "SWIM (Performance Video)",
+        "url": "https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166430,
+      "name": "SWIM (Performance Video)",
+      "url": "https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw"
       },

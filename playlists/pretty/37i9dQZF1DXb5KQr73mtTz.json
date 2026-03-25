@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 21564,
+  "num_followers": 21566,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-23 02:42:57",
       "album": {
-        "name": "Only for You (Original Soundtrack from Last Summer)",
-        "url": "https://open.spotify.com/album/11CI2a9Aif2XJCu9TzxTx1"
-      },
-      "artists": [
-        {
-          "name": "ZO ZAZZ",
-          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "Only for You",
-      "url": "https://open.spotify.com/track/3vKAAh1JFuC7EakZPtT7ve"
-    },
-    {
-      "added_at": "2026-03-23 02:42:57",
-      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2026-03-23 02:42:57",
+      "album": {
+        "name": "Only for You (Original Soundtrack from Last Summer)",
+        "url": "https://open.spotify.com/album/11CI2a9Aif2XJCu9TzxTx1"
+      },
+      "artists": [
+        {
+          "name": "ZO ZAZZ",
+          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Only for You",
+      "url": "https://open.spotify.com/track/3vKAAh1JFuC7EakZPtT7ve"
     },
     {
       "added_at": "2026-03-23 02:42:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-23 02:42:57",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC"
-      },
-      "artists": [
-        {
-          "name": "KIM KI TAE",
-          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq"
-    },
-    {
-      "added_at": "2026-03-23 02:42:57",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240266,
       "name": "The Island",
       "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
+    },
+    {
+      "added_at": "2026-03-23 02:42:57",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq"
     },
     {
       "added_at": "2026-03-23 02:42:57",

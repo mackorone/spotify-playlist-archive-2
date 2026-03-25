@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,875 songs - 5 day 7 hr 22 min
+1,876 songs - 5 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1407,6 +1407,7 @@
 | [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 | 2026-02-21 |
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
+| [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 | 2026-03-20 |  |
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 | 2022-12-29 |
 | [Seamount](https://open.spotify.com/track/0zCp6ijK245KSVf4YO28K2) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ) | [After The Rain](https://open.spotify.com/album/6CLXlv3FVca6uNMKmpTOHo) | 3:55 | 2025-10-17 | 2025-10-24 |
@@ -1768,7 +1769,7 @@
 | [Waiting For The Sun](https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Waiting For The Sun](https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4) | 3:42 | 2023-09-08 | 2024-08-03 |
 | [Waiting for You](https://open.spotify.com/track/2L0wPdpLIZBSMmkS8RDFtw) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Waiting for You](https://open.spotify.com/album/3p9GXL95N0rNtU2t0bqXPS) | 2:32 | 2020-03-17 | 2021-03-06 |
 | [Wake Up \- BAILE Remix](https://open.spotify.com/track/3BCaiamID008P5wudGP5Yh) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Wake Up \(BAILE Remix\)](https://open.spotify.com/album/2lb9R2jTgHus3J1QnF3xF5) | 3:50 | 2021-06-11 | 2022-09-24 |
-| [Walk](https://open.spotify.com/track/2T3z0bTwU2Vg0zW4y9HoGb) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Walk](https://open.spotify.com/album/4FJQyEWfwQQ4L4f7Dfyr8Z) | 3:21 | 2026-03-20 |  |
+| [Walk](https://open.spotify.com/track/2T3z0bTwU2Vg0zW4y9HoGb) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Walk](https://open.spotify.com/album/4FJQyEWfwQQ4L4f7Dfyr8Z) | 3:21 | 2026-03-20 | 2026-03-25 |
 | [Walk You Home](https://open.spotify.com/track/0pQLATJZDRlQzAb4Wzq46G) | [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Together, Apart](https://open.spotify.com/album/75WBIZQ8VFTS5sArhDMg2r) | 4:16 | 2025-08-08 | 2025-08-16 |
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2020-05-18 | 2020-10-09 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2022-08-26 | 2022-09-10 |

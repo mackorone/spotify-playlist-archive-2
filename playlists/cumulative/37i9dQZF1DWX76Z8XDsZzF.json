@@ -25,7 +25,7 @@
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 261172,
+      "duration_ms": 262044,
       "name": "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
       "url": "https://open.spotify.com/track/06y0NcmJ1VuTyAQkHnwko0"
     },
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic\"",
       "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"
@@ -2084,6 +2084,36 @@
       "duration_ms": 208600,
       "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Disda (From \"Bhooth Bangla\")",
+        "url": "https://open.spotify.com/album/7KMLTs8phfJh2QGVR2qYdE"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277565,
+      "name": "Tu Hi Disda - From \"Bhooth Bangla\"",
+      "url": "https://open.spotify.com/track/4mjAJxu1OQMd0Pf5lOLNQL"
     },
     {
       "album": {

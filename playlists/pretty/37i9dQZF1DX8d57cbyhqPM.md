@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,495 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,557 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 3 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 |
 | 4 | [Sans Limite](https://open.spotify.com/track/6y1BjAYImpEQM34ZNBhHcb) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Sans Limite](https://open.spotify.com/album/03640yWOZYtlfUdVBo7PpU) | 6:27 |
 | 5 | [Pourquoi tu me fais ça](https://open.spotify.com/track/2vwPG1A7m2X5NIBLRFu1xt) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Pourquoi tu me fais ça](https://open.spotify.com/album/0KLKUEtiB639nVAoVdSLqx) | 2:52 |
-| 6 | [Mon Parcours](https://open.spotify.com/track/5bH8HsrNwVK3sdBpRf7dSJ) | [Joel Lusilawo](https://open.spotify.com/artist/5tlupGqIZ09zDKD2VoCjCD), [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc), [Benitha L.](https://open.spotify.com/artist/4rCa3Nefoy1h8Ncx9nL329) | [Mon Parcours](https://open.spotify.com/album/0VzagStUEqD2GjnEKh2tuN) | 3:30 |
+| 6 | [Mon Parcours](https://open.spotify.com/track/5bH8HsrNwVK3sdBpRf7dSJ) | [Joel Lusilawo](https://open.spotify.com/artist/7uLeNuymbhbmrjsv3je0YW), [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc), [Benitha L.](https://open.spotify.com/artist/4rCa3Nefoy1h8Ncx9nL329) | [Mon Parcours](https://open.spotify.com/album/0VzagStUEqD2GjnEKh2tuN) | 3:30 |
 | 7 | [NINTENDO \(feat\. Cash Crime\)](https://open.spotify.com/track/59mFNcQ4w1ivAexgua99F0) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:21 |
 | 8 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 |
 | 9 | [Remise En Question](https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [Remise En Question](https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3) | 3:03 |

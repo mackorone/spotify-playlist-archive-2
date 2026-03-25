@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,991 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,995 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 74 | [Segredo](https://open.spotify.com/track/08Iu2ZSjpqhpOb3JyhguEj) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:25 |
 | 75 | [You're a Mistake](https://open.spotify.com/track/4YCJhx6heSXEW82FytIDFU) | [XATIVA](https://open.spotify.com/artist/6Z9CAjUjXuLv4h9rlaepj8) | [You're a Mistake](https://open.spotify.com/album/6RKGpgss1HAK57vL7iuUwg) | 3:11 |
 
-Snapshot ID: `AAAAAOEQFSHoJg2hX5JHtUzsUGZnNq1N`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

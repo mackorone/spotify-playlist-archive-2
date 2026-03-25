@@ -4,7 +4,7 @@
 
 > 
 
-280 songs - 16 hr 2 min
+281 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Ya me conocen todos los gatos](https://open.spotify.com/track/2fbe1PmUkOpT4LJPXsOduX) | [El Trastero](https://open.spotify.com/artist/3Uny2BsFQbuW1o5mZPQbCx) | [Un poquito de Rock](https://open.spotify.com/album/1zIinmF7ye2fCTGs3l33Fo) | 3:00 | 2025-03-18 |  |
 | [You're Better Than Yesterday](https://open.spotify.com/track/5q3P9CaSNIYaPJOGWGJjne) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [You're Better Than Yesterday](https://open.spotify.com/album/04ETpY7jVyjCm2jQrPSOQ6) | 3:18 | 2025-01-28 |  |
 | [Your Lies \. \- Live](https://open.spotify.com/track/222uqyOezu3Ymv36FmLQSA) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 5:07 | 2025-10-24 |  |
+| [¿Qué Sientes al Dar?](https://open.spotify.com/track/2WG4nnvnlqGog03RmcTywy) | [Javier Marval Ross](https://open.spotify.com/artist/72FYWQsfatZShho1er5m3t) | [¿Qué Sientes al Dar?](https://open.spotify.com/album/5ngarvdoBmBsQEUIk0yYes) | 3:41 | 2026-03-24 |  |
 | [ÍCARO](https://open.spotify.com/track/2bIA5i8Bm8tEo3m23AsclJ) | [eneteka](https://open.spotify.com/artist/6RHLAgaaDfd253CDttKmKn) | [NIÑO PROBLEMA](https://open.spotify.com/album/5ylmrdvMnQzN7ANzrCzVHc) | 2:46 | 2025-05-08 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-02-01 |  |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "You still believe in love, grand gestures, and songs that feel like a slow dance in the rain.",
+  "description": "If love is in the air then you've got your own gas tank. No roses. Just vibes.",
   "name": "Your Valentine's Mood",
   "tracks": [
     {
@@ -738,6 +738,24 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+    },
+    {
+      "album": {
+        "name": "Freestyle EP",
+        "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
     },
     {
       "album": {
@@ -5712,7 +5730,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 155500,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/7K9wl9YIk1nCnTKNE1K3ta"

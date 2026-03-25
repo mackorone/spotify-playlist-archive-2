@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from K.O, Lizzo, Nobuhle, RAYE,  Asake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,784 likes - 84 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,829 likes - 84 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [HERO](https://open.spotify.com/track/4rOY30i8QKji34xzE359Z6) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [HERO](https://open.spotify.com/album/1VmcuK9GaA3TXQVBaa578w) | 2:49 |
 | 63 | [Yoh](https://open.spotify.com/track/6bbEc2wI3XwX2rkNWnlk8i) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj), [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [Yoh](https://open.spotify.com/album/16IlZ0ToSpbkQtCRQO8Q0G) | 4:04 |
 | 64 | [uNkulunkulu](https://open.spotify.com/track/3GXtP3Yd7r4FNiE4fx8nCK) | [Mr Gkay](https://open.spotify.com/artist/11tOJWNJVqDx03hUTrxfkY), [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR) | [EVOLUTION OF 3STEP](https://open.spotify.com/album/6wy9ZWxJm00Cpb6MJFTXju) | 7:08 |
-| 65 | [Kushushu](https://open.spotify.com/track/6s7YCPW4awBylIZo0pU8rw) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Infinite Sounds Musiq](https://open.spotify.com/artist/5wuJQ4wjWTzX8w8PeNV1JI), [Drakhula](https://open.spotify.com/artist/5blBaQ3C5HFiGkCNK6z4oi) | [Kushushu](https://open.spotify.com/album/4A1BRXpOsMMp7FhxDOh8dx) | 5:09 |
+| 65 | [Kushushu](https://open.spotify.com/track/6s7YCPW4awBylIZo0pU8rw) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Infinite Sounds Musiq](https://open.spotify.com/artist/2J6AapdjtwXrj0h7pBnR81), [Drakhula](https://open.spotify.com/artist/5blBaQ3C5HFiGkCNK6z4oi) | [Kushushu](https://open.spotify.com/album/4A1BRXpOsMMp7FhxDOh8dx) | 5:09 |
 | 66 | [Amuni](https://open.spotify.com/track/73KsdVMaEzGA7tJUam4rTq) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Amuni](https://open.spotify.com/album/3N5IJC3q2cl4nwlY3W0Z8H) | 2:20 |
 | 67 | [Body Tea](https://open.spotify.com/track/2SIPNmncpm1dJhoKZGC7ON) | [Juanita](https://open.spotify.com/artist/2Itueij8fk67HWdPAJYqJ9) | [Body Tea](https://open.spotify.com/album/1PcJi8Y5AYmRW4pqPpZGot) | 3:00 |
 | 68 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |

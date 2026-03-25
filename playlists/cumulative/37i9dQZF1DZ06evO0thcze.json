@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "BALANCE [PARTE DOS]",
+        "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198507,
+      "name": "Hag\u00e1moslo",
+      "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
         "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
       },
@@ -1990,7 +2012,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Girl Scout✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,770 likes - 195 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,760 likes - 195 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-189 songs - 8 hr 15 min
+190 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Fly The Flag](https://open.spotify.com/track/33fG4PXgTNTNsaRcs5onCg) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Rainbow Warrior](https://open.spotify.com/album/2WyJJ8W800AXuxPx1pXDZX) | 1:07 | 2024-11-25 | 2024-11-26 |
 | [Flying](https://open.spotify.com/track/5palyI7Y9KI4gKVMsHfHYJ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 3:52 | 2022-05-29 |  |
 | [Friends and Neighbours](https://open.spotify.com/track/1I4L9RvTHWkoOOUeceXIfW) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Sounds of the 60's & 70's \- 2](https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH) | 2:02 | 2022-06-25 |  |
-| [Fuel Injection](https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Luke Vibert's Nuggets 3](https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK) | 2:50 | 2022-05-29 |  |
+| [Fuel Injection](https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Luke Vibert's Nuggets 3](https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK) | 2:50 | 2022-05-29 | 2026-03-25 |
 | [Getaway](https://open.spotify.com/track/4QbHgvorkRqnZPwnW8gyE0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:37 | 2023-01-10 | 2024-12-11 |
 | [Getting It Together](https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 4:12 | 2022-05-29 |  |
 | [Gingerbread](https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:17 | 2022-05-29 |  |
@@ -97,6 +97,7 @@
 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 | 2022-05-29 | 2025-11-07 |
 | [London Hilton](https://open.spotify.com/track/7zreWwu1eicUJJ4gkPjKnI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Lounging at Dave's](https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Adam Mills](https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m) | [Bootleg Beats](https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22) | 1:57 | 2022-08-17 | 2024-08-31 |
+| [Love at First Sight](https://open.spotify.com/track/2rQZoKACyXJ9ZC5yxGemkw) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Romantic Mood](https://open.spotify.com/album/0fJ3B0md5hgkeqfxJaRI24) | 2:35 | 2026-03-25 |  |
 | [Love For Sale](https://open.spotify.com/track/3OAxeUwS0bY7SHglr4df3F) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Misty Collage](https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD) | 4:15 | 2025-08-23 | 2025-10-22 |
 | [Love Of Life](https://open.spotify.com/track/5OsBULLtMHBHyE2OEKQQK6) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [High Drama](https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr) | 3:10 | 2022-05-29 | 2022-06-17 |
 | [Madrid](https://open.spotify.com/track/1hhrHU4bBF3ebMUrPsaC4c) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Misty Collage](https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD) | 3:44 | 2025-08-23 | 2026-03-21 |

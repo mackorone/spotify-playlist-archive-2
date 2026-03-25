@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Asake, Joeboy,  Bees n Honey, King Promise & Mr Eazi, Salle,  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,221 likes - 68 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,362 likes - 68 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

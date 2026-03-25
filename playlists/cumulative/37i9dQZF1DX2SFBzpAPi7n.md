@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 음율 \(UmYull\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,152 songs - 2 day 21 hr 59 min
+1,154 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2022-06-03 | 2022-07-24 |
 | [Baby Blue](https://open.spotify.com/track/08O5mGYJTLi1AW653UVyS4) | [ZUYONI](https://open.spotify.com/artist/7cEawQRJjV5Rko3bFOh4re) | [Baby Blue](https://open.spotify.com/album/1ewqY8kXu3JApoFDUgkqmW) | 2:45 | 2022-07-22 | 2022-07-24 |
 | [Baby Darling](https://open.spotify.com/track/6ceCfr7wxH6RhurnXw6EaZ) | [Zhangguyy](https://open.spotify.com/artist/1LZpQEPSamphvIM3CDo3Nu), [Ripley](https://open.spotify.com/artist/0ZOlZ3kA0ge17iMQGn8bY6) | [Zhang's love](https://open.spotify.com/album/2OCnmVWz00fOCKVtQCj8YL) | 3:11 | 2022-07-04 | 2022-07-09 |
-| [Back To Me](https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:44 | 2024-05-09 |  |
+| [Back To Me](https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:44 | 2024-05-09 | 2026-03-25 |
 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-07-24 | 2024-03-22 |
 | [Bad connection](https://open.spotify.com/track/2TboUKOXnklvdbFUVhFsDi) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Bad connection](https://open.spotify.com/album/3vcNF1tch0KPpcA2Y2i0Dh) | 3:36 | 2022-07-04 | 2022-07-29 |
 | [Baekdusan](https://open.spotify.com/track/4aIBucKtM7VVc5kezRgtzf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Forest of Tigers](https://open.spotify.com/album/762c2TcvqsgYfHZsEigMiE) | 3:28 | 2022-04-12 | 2022-07-28 |
@@ -311,7 +311,7 @@
 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-11-07 |
 | [Fluffy Seed](https://open.spotify.com/track/6DnScO243n4YyRj9ac4q3A) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Fluffy Seed](https://open.spotify.com/album/777hQeslUl6VOKAlRYSqkd) | 3:44 | 2025-09-22 | 2025-09-24 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
-| [Flying Penguin](https://open.spotify.com/track/7vjESRlqwF41EyqnHDwyLC) | [21univ.](https://open.spotify.com/artist/52FGfGmeJ6UTKcPYGRWo4i) | [Flying Penguin](https://open.spotify.com/album/5nB4Q0y8NHp3QXFxJed0vb) | 2:55 | 2026-03-23 |  |
+| [Flying Penguin](https://open.spotify.com/track/7vjESRlqwF41EyqnHDwyLC) | [21univ.](https://open.spotify.com/artist/52FGfGmeJ6UTKcPYGRWo4i) | [Flying Penguin](https://open.spotify.com/album/5nB4Q0y8NHp3QXFxJed0vb) | 2:55 | 2026-03-23 | 2026-03-25 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-24 | 2023-05-02 |
 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 | 2025-07-24 | 2025-08-12 |
 | [Footsteps](https://open.spotify.com/track/5nqhxQ7tib6VYjiXAw9pyq) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 1.5](https://open.spotify.com/album/2EA3CQpxbUQPgnlhuiyrsa) | 2:56 | 2024-11-06 | 2024-12-03 |
@@ -394,6 +394,7 @@
 | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/track/6MUXMpfPsIhEftomfUrBaD) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Heavy Days of Youth \(Prod\. Jeong DongHwan\) \(Veiled Musician X LEE MU JIN with Hwagok\-dong\)](https://open.spotify.com/album/4pUm7glXKf1SzTcfWbFAPw) | 3:28 | 2023-11-30 | 2024-05-10 |
 | [hellbound](https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [hellbound](https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo) | 3:07 | 2025-01-30 | 2025-03-18 |
 | [Help \(Sunset Rollercoaster Remake\)](https://open.spotify.com/track/58C85JaneCTbZO0d9oQWEh) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Help \(Sunset Rollercoaster Remake\)](https://open.spotify.com/album/6agvtrq5ueMLJhJa5NiwKq) | 4:12 | 2022-04-12 | 2022-04-21 |
+| [HELP!](https://open.spotify.com/track/5pKnUr9JRnNU49YvKWqNDU) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Bunny Tale](https://open.spotify.com/album/1GcXoTQr1o73yClQ4w8B8t) | 3:31 | 2026-03-24 |  |
 | [Here I Am](https://open.spotify.com/track/1ICoFDPrfZJq0Q8x9PxWZV) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Here I Am](https://open.spotify.com/album/1PXRZirPD7AJSe05EwLe0s) | 4:01 | 2022-05-24 | 2022-06-26 |
 | [Hero](https://open.spotify.com/track/0qpUF29Va52nwO9OijdZTg) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Hero](https://open.spotify.com/album/177rk2soHgPKt1uN1MF8Ta) | 3:01 | 2024-05-08 | 2024-05-10 |
 | [Hero](https://open.spotify.com/track/3qDFTgwGko13BbFYoSiDgh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/5CBLXresvf69JUSU9TsR0r) | 3:16 | 2025-03-17 | 2025-04-12 |
@@ -1088,6 +1089,7 @@
 | [Wish](https://open.spotify.com/track/0gQZQVfbC3sYddHIrnidp4) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Wish](https://open.spotify.com/album/7ncMzzIhPqCPaAVRwtrgkl) | 3:51 | 2025-05-20 | 2025-06-10 |
 | [Wish](https://open.spotify.com/track/28GGqZ2M6bEQEvKSRhnniw) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wish](https://open.spotify.com/album/7pRxHjR74IRAoQzlNdpCYf) | 3:07 | 2026-01-15 | 2026-01-27 |
 | [Wish You Luck](https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#2](https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2) | 3:34 | 2025-01-30 | 2025-03-18 |
+| [Wish You Were Here](https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Wish You Were Here](https://open.spotify.com/album/4fc4n1ntpTwzc4IZL7LFYp) | 3:11 | 2026-03-24 |  |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |
 | [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 |  |
 | [Wolf](https://open.spotify.com/track/3UcdoC9ncaGdjzgpNaQivP) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:07 | 2022-04-22 | 2022-07-23 |

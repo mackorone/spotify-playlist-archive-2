@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483788,
+  "num_followers": 483790,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Pennied Days",
-        "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
-      },
-      "artists": [
-        {
-          "name": "Night Moves",
-          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Border On Border",
-      "url": "https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 154181,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Pennied Days",
+        "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Border On Border",
+      "url": "https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
-      },
-      "artists": [
-        {
-          "name": "The Terrys",
-          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "News of the Universe",
         "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212075,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Things Left to Do",
-        "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
-      },
-      "artists": [
-        {
-          "name": "Room Service",
-          "url": "https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Soft Rock Band",
         "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 492280,
       "name": "Soft Rock Band",
       "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Things Left to Do",
+        "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
+      },
+      "artists": [
+        {
+          "name": "Room Service",
+          "url": "https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 212490,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "twenty bucks (the friend song)",
-        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
-      },
-      "artists": [
-        {
-          "name": "boxboys",
-          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
-        }
-      ],
-      "duration_ms": 113232,
-      "name": "twenty bucks (the friend song)",
-      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Out Of Here",
         "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 151838,
       "name": "Out Of Here",
       "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "MOVING ON",
         "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+      },
+      "artists": [
+        {
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Stargazer",
         "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
       "artists": [
         {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1143,6 +1127,22 @@
       "duration_ms": 275962,
       "name": "Peace In Me",
       "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
     },
     {
       "added_at": "2026-01-23 05:00:19",

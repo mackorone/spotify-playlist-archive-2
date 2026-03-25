@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,338 likes - 130 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,424 likes - 130 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 69 | [Scatter](https://open.spotify.com/track/3qORtOCSInAMHTFR3GGLd2) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Treasure Self Love](https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf) | 3:54 |
 | 70 | [Wild n Rich](https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Wild n Rich](https://open.spotify.com/album/4F8cagn4gHpHk8tPA8SPfR) | 2:47 |
 | 71 | [Really Like U](https://open.spotify.com/track/5Ph0B4BDJQM7RipTy75EEk) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Really Like U](https://open.spotify.com/album/61Ueu7TdmorehxJMhRXPFP) | 3:50 |
-| 72 | [Do For Do](https://open.spotify.com/track/7jIEWdxO1j4nMgt2g1gi20) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL), [Stadic & Jonny Blaze](https://open.spotify.com/artist/6mQ3J6CfPD4I2Irm6jWy3N), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Do For Do](https://open.spotify.com/album/7mG4GlKV0mJnCddQZ3QobJ) | 2:57 |
+| 72 | [Do For Do](https://open.spotify.com/track/7jIEWdxO1j4nMgt2g1gi20) | [JESSIE](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL), [Stadic & Jonny Blaze](https://open.spotify.com/artist/6mQ3J6CfPD4I2Irm6jWy3N), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Do For Do](https://open.spotify.com/album/7mG4GlKV0mJnCddQZ3QobJ) | 2:57 |
 | 73 | [Eh](https://open.spotify.com/track/3pg4tQGG58DvyEI2PlCoYt) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big) | [Eh](https://open.spotify.com/album/2Cib8n91qqK0FthCEE1NOX) | 2:47 |
 | 74 | [Outside](https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Outside](https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA) | 2:56 |
 | 75 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |

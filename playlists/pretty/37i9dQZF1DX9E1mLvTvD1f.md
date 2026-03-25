@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 ### [90s Rock Drive](https://open.spotify.com/playlist/37i9dQZF1DX9E1mLvTvD1f)
 
-> 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
+> 90s rock to fuel your ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,865 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,193 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 79 | [Andres](https://open.spotify.com/track/0nidu6qIs1DlnuYC4qyzvm) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [Hungry For Stink](https://open.spotify.com/album/5jebyF3m9OSl7mPNvsTtTY) | 3:03 |
 | 80 | [Volcano](https://open.spotify.com/track/09JxX9P3dqSl0I3lDGrTie) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [II](https://open.spotify.com/album/04BaNUriK88MZEdnhU3PyW) | 2:58 |
 
-Snapshot ID: `AAAAALAcM4IK616WK36FpsWJ8NYl14ES`
+Snapshot ID: `AAAAALBgP8Zga9ILr+9Ys1sf87tgVnqa`

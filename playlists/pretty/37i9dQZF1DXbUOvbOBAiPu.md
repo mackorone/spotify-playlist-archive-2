@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Lost Frequencies x Nathan Nicholson, Tayc, Muse and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,416 likes - 123 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,419 likes - 123 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

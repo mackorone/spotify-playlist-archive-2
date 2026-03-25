@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80199,
+  "num_followers": 80211,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "De los Besos Que Te Di",
         "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 163790,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1503,22 +1503,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "C\u00f3mo Quisiera",
-        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
+        "name": "Tu Amor Barato",
+        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
       },
       "artists": [
         {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
         },
         {
-          "name": "Toly Fu",
-          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
+          "name": "Incondicionales",
+          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
         }
       ],
-      "duration_ms": 230542,
-      "name": "C\u00f3mo Quisiera",
-      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
+      "duration_ms": 196862,
+      "name": "Tu Amor Barato",
+      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1555,22 +1555,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Tu Amor Barato",
-        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
+        "name": "C\u00f3mo Quisiera",
+        "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
         },
         {
-          "name": "Incondicionales",
-          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
         }
       ],
-      "duration_ms": 196862,
-      "name": "Tu Amor Barato",
-      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
+      "duration_ms": 230542,
+      "name": "C\u00f3mo Quisiera",
+      "url": "https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Vivo en Tinieblas",
-        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
+        "name": "El Solovino",
+        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 226727,
-      "name": "Vivo en Tinieblas",
-      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
+      "duration_ms": 183525,
+      "name": "El Solovino",
+      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1675,34 +1675,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Solovino",
-        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
+        "name": "Vivo en Tinieblas",
+        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
         }
       ],
-      "duration_ms": 183525,
-      "name": "El Solovino",
-      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
+      "duration_ms": 226727,
+      "name": "Vivo en Tinieblas",
+      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1723,18 +1707,34 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     }
   ],
   "unique_name": "Ranchera Chilena",

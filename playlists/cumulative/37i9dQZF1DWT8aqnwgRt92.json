@@ -1375,6 +1375,40 @@
     },
     {
       "album": {
+        "name": "ARCANA",
+        "url": "https://open.spotify.com/album/67nq2ZlhrHCC4EbYbyeRAi"
+      },
+      "artists": [
+        {
+          "name": "I.ADORE",
+          "url": "https://open.spotify.com/artist/4oubAjl8GhDm4G8vLqmzXx"
+        },
+        {
+          "name": "R01",
+          "url": "https://open.spotify.com/artist/1MPomO2r21x5Adhn9TGfH5"
+        },
+        {
+          "name": "\u8a60\u91ce\u30e1\u30af\u30eb",
+          "url": "https://open.spotify.com/artist/0pQxe99MfSxaQ9q4mSJ5Of"
+        },
+        {
+          "name": "\u751f\u6708\u5b66\u6597",
+          "url": "https://open.spotify.com/artist/1SPgj5xYN6GQIiErfLtBfp"
+        },
+        {
+          "name": "\u5e72\u4e8c\u652f\u5408\u4e5d",
+          "url": "https://open.spotify.com/artist/30FthdU1FJGqaMBzT0osE2"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195668,
+      "name": "ARCANA",
+      "url": "https://open.spotify.com/track/6qdwhN60WZuzwEsFuUFPpr"
+    },
+    {
+      "album": {
         "name": "As the Gods Say EP",
         "url": "https://open.spotify.com/album/0LxE26kNQTFVyr08f81Sex"
       },
@@ -2866,7 +2900,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 318946,
       "name": "Bokura no Mirai",
       "url": "https://open.spotify.com/track/7bJCCED4SWqvAmEJiuRpCl"
@@ -18464,7 +18498,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 241640,
       "name": "REAL - SYMPHONIC REMIX Ver.",
       "url": "https://open.spotify.com/track/2oiJ0mNVW6Z2GaEgf7Fl7D"
@@ -22544,7 +22578,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
@@ -35713,6 +35747,24 @@
     },
     {
       "album": {
+        "name": "\u30d7\u30ea\u30f3\u3068\u30de\u30d5\u30a3\u30f3\u306e\u30dd\u30e0\u30dd\u30e0\u30d3\u30fc\u30c8\u2606",
+        "url": "https://open.spotify.com/album/0Hk1E0ew6MrTuFMb7e0uIg"
+      },
+      "artists": [
+        {
+          "name": "\u30dd\u30e0\u30dd\u30e0\u30d7\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/7LGKtFZf6Mm5AoZWl68uGL"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212369,
+      "name": "\u30d7\u30ea\u30f3\u3068\u30de\u30d5\u30a3\u30f3\u306e\u30dd\u30e0\u30dd\u30e0\u30d3\u30fc\u30c8\u2606",
+      "url": "https://open.spotify.com/track/5JzW5UnfWJQKQxdh18YNos"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30ec\u30a4\u30e1\u30fc\u30ab\u30fc feat.\u5927\u91ce\u96c4\u5927(from Da-iCE)",
         "url": "https://open.spotify.com/album/08AYBn8vne85ZsuZpydVIB"
       },
@@ -35840,6 +35892,24 @@
       "duration_ms": 252600,
       "name": "\u30dd\u30b1\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0IHBe0KFpJ2QeasyRprvUx"
+    },
+    {
+      "album": {
+        "name": "\u30dd\u30e0\u30dd\u30e0Pow",
+        "url": "https://open.spotify.com/album/5hJ2JjEl0AEW41K3EYBxb3"
+      },
+      "artists": [
+        {
+          "name": "\u30dd\u30e0\u30dd\u30e0\u30d7\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/7LGKtFZf6Mm5AoZWl68uGL"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "\u30dd\u30e0\u30dd\u30e0Pow",
+      "url": "https://open.spotify.com/track/73SZWy0x4sxvya9mr9KQg5"
     },
     {
       "album": {

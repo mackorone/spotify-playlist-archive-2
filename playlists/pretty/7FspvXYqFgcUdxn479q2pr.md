@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,660 likes - 128 songs - 6 hr 48 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,657 likes - 128 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 56 | [Dreaming](https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [HEADER](https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0) | [Dreaming](https://open.spotify.com/album/1G9YU8mm4glQy0NETkozvK) | 3:12 |
 | 57 | [Tell Me](https://open.spotify.com/track/3TpFAj8et1kH2itPoYl5nw) | [Kyma](https://open.spotify.com/artist/1QXuKqkIgMctl04pkc4TuV), [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [Tell Me](https://open.spotify.com/album/0V14YIXAle9DNcimHEDua4) | 2:40 |
 | 58 | [Silhouette](https://open.spotify.com/track/5Xz8PkEUH17dpejLn9U4gm) | [STRAAW](https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS) | [Silhouette](https://open.spotify.com/album/2ExUasbUjTMBEaQ7rU7Cyd) | 2:00 |
-| 59 | [Cut the line](https://open.spotify.com/track/3iGtYKpyNWQFp5SDcIMWPE) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [Cut the line](https://open.spotify.com/album/0qXKD4X2TEy2JmVVjNmJbT) | 3:38 |
+| 59 | [Cut the line](https://open.spotify.com/track/3iGtYKpyNWQFp5SDcIMWPE) | [NO\. SYGNL](https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun) | [Cut the line](https://open.spotify.com/album/0qXKD4X2TEy2JmVVjNmJbT) | 3:36 |
 | 60 | [Excited](https://open.spotify.com/track/71S4gY0EEAxa0uzE8Jq1q6) | [Callous K.](https://open.spotify.com/artist/687NoFB1z4uTuvRScBc8dU), [clrwtr](https://open.spotify.com/artist/2U33zsqZScV7z2VvTxC6Ps) | [Excited](https://open.spotify.com/album/7B3XL8FTyxDzvxRtcpf6Fe) | 2:05 |
 | 61 | [Turn The Lights Off](https://open.spotify.com/track/1cSjPLxfBNGD3ogkFnkUvR) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off \(with Jaxstyle\) \[HILLS & Dansyn Remix\]](https://open.spotify.com/album/2NRbHo7WXkTYorgCnz3r0T) | 2:42 |
 | 62 | [Dance Above It](https://open.spotify.com/track/3ENcRrCq2yFxlWk4epUafr) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B), [Silvia Doro](https://open.spotify.com/artist/6z4dhiZWnGczWJDij9ndcC) | [Dance Above It](https://open.spotify.com/album/7I78XWG6pMjpcZs8oqrnu3) | 3:16 |

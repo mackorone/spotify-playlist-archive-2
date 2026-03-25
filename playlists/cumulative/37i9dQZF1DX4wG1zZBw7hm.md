@@ -4,7 +4,7 @@
 
 > techno you can relax/study to
 
-109 songs - 12 hr 44 min
+110 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 | 2025-03-14 |  |
 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 | 2025-03-14 |  |
 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 | 2025-03-14 |  |
+| [City Centre](https://open.spotify.com/track/1TMdcMofJBGCvP8fSLaEE0) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Hash\-Bar Loops](https://open.spotify.com/album/74NLq4PVXYySHginT0pcOb) | 6:27 | 2025-08-28 |  |
 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 | 2025-03-14 |  |
 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 | 2025-03-14 |  |
 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 | 2025-03-14 |  |
@@ -93,7 +94,7 @@
 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 | 2025-03-14 |  |
 | [Sleepygirl 1](https://open.spotify.com/track/7d7BxwnjpR4WrBHmyo5tnA) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Sleepygirls](https://open.spotify.com/album/1C04uwe7mOJ9ogiOCjnKqd) | 5:23 | 2025-03-14 |  |
 | [Slowing and Spinning](https://open.spotify.com/track/3o1wphDvQXC1XUpJZPcanr) | [Vactrol Park](https://open.spotify.com/artist/0xznqEZUaSB7a2JvIXpVLU) | [5 Years Compilation](https://open.spotify.com/album/3Xr0TiuRPWCuw2U7zVyvwd) | 10:22 | 2025-03-14 | 2025-09-24 |
-| [Sogni D'oro](https://open.spotify.com/track/7vGlHIN3gFi2UYnZTGEyER) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Enter \(Deluxe\)](https://open.spotify.com/album/6GxFHSII49ehi2JNQDvlPb) | 4:48 | 2025-03-14 |  |
+| [Sogni D'oro](https://open.spotify.com/track/7vGlHIN3gFi2UYnZTGEyER) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Enter \(Deluxe\)](https://open.spotify.com/album/6GxFHSII49ehi2JNQDvlPb) | 4:48 | 2025-03-14 | 2026-03-25 |
 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 | 2025-08-28 |  |
 | [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 | 2025-03-14 |  |
 | [Stephan](https://open.spotify.com/track/54XsLtQxFGxk4IZnREKPqC) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Peaks & Troughs 3/3](https://open.spotify.com/album/43CVa2RETrPk8JZdSw4ALp) | 6:17 | 2025-03-14 |  |

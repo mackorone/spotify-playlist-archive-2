@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u5409\u6fa4\u5609\u4ee3\u5b50 Kayoko Yoshizawa",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3068\u305f Tota",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -9013,6 +9013,24 @@
     },
     {
       "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296912,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+    },
+    {
+      "album": {
         "name": "Welcome to My Castle",
         "url": "https://open.spotify.com/album/6DSelDneeVFEluC97trMur"
       },
@@ -16340,7 +16358,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 265100,
       "name": "If We Hold On Together",
       "url": "https://open.spotify.com/track/6YFXCBwms92omyGTnWUuqG"
@@ -22166,7 +22184,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 240849,
       "name": "Merry -band ver-",
       "url": "https://open.spotify.com/track/6o92av9bOg5kHlLsCukGGi"
@@ -22542,7 +22560,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 149760,
       "name": "MINE",
       "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
@@ -23970,7 +23988,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 132999,
       "name": "Neko Ni Natte",
       "url": "https://open.spotify.com/track/4mVRhZS5ww3WlbZUcuR3Ny"
@@ -25764,7 +25782,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 237418,
       "name": "One more smile",
       "url": "https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0"
@@ -28768,7 +28786,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 144900,
       "name": "RETAKE",
       "url": "https://open.spotify.com/track/3pnG6ECc3XByUP98Iouvvq"
@@ -33920,7 +33938,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 270405,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR"
@@ -36457,6 +36475,24 @@
     },
     {
       "album": {
+        "name": "Sebone -spinal column-",
+        "url": "https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/5EqtOr3Tw3wM3b8WlVqC6r"
+    },
+    {
+      "album": {
         "name": "Trank",
         "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
       },
@@ -37200,6 +37236,24 @@
       "duration_ms": 217028,
       "name": "U.N.O",
       "url": "https://open.spotify.com/track/23V8oTBux55lKxNPBLpII6"
+    },
+    {
+      "album": {
+        "name": "KEISOUDO",
+        "url": "https://open.spotify.com/album/5lzzogUrW0KKsmnthNNIfP"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79572,
+      "name": "ultra soul",
+      "url": "https://open.spotify.com/track/2AlU0ltG2bfCvpuV5vVaGY"
     },
     {
       "album": {
@@ -38632,7 +38686,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 156294,
       "name": "weather lore",
       "url": "https://open.spotify.com/track/5zAWYFpxzYYnn1b8tgg3jd"

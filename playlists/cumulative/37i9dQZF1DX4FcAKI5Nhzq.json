@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: LATENCY (\ub808\uc774\ud134\uc2dc))",
+  "description": "Future K-Pop hits! (Cover: Baby DONT Cry)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 192474,
       "name": "A Minute, A Second",
       "url": "https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70"
@@ -2614,6 +2614,24 @@
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "album": {
+        "name": "AFTER CRY",
+        "url": "https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200089,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
     },
     {
       "album": {
@@ -5356,7 +5374,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 201771,
       "name": "cloud palace",
       "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
@@ -20491,6 +20509,24 @@
     },
     {
       "album": {
+        "name": "POP IT LIKE",
+        "url": "https://open.spotify.com/album/2kYqSRsYnz72I69rWVylNe"
+      },
+      "artists": [
+        {
+          "name": "NouerA",
+          "url": "https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "POP IT LIKE",
+      "url": "https://open.spotify.com/track/0gvr5CBsUgd1PlYsHmvJ3V"
+    },
+    {
+      "album": {
         "name": "SUMMER POPUP ALBUM [POPPING]",
         "url": "https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6"
       },
@@ -24642,7 +24678,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 173732,
       "name": "Still In Time",
       "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
@@ -29626,6 +29662,24 @@
       "duration_ms": 174906,
       "name": "WINNER (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/4fc4n1ntpTwzc4IZL7LFYp"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31"
     },
     {
       "album": {

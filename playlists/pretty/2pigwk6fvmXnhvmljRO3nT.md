@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,399 songs - 21 day 9 hr 48 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,400 songs - 21 day 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7428,7 +7428,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7418 | [New Youth](https://open.spotify.com/track/5fXIzJRkr08Oo57zY2sXQo) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/0fDeHCMCA3UZ1s2dKSawFQ) | 4:49 |
 | 7419 | [Flaming Hot Cheetos](https://open.spotify.com/track/7iKcCH5vpjZgCJRNm7yD3L) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/7r4hiK0374MEgTiD5KRDMS) | 2:03 |
 | 7420 | [Paul](https://open.spotify.com/track/34I9xTKNDIOYqqfT43h3Mv) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:30 |
-| 7421 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 |
+| 7421 | [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [ç…§äº•é †æ”¿](https://open.spotify.com/artist/0LL1khAhRvan2EqhpzEn9R) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 |
 | 7422 | [うららかな調べ\(2012 Version\)](https://open.spotify.com/track/19sUxgxFZNrxH5ZCftMQm1) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:52 |
 | 7423 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 7424 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
@@ -8407,5 +8407,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8397 | [only my railgun](https://open.spotify.com/track/7JyF9j6r37HP2MKnTWmNoi) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6pCDW6tI7cGtJSTBQFziZb) | 4:17 |
 | 8398 | [ワガママMIRROR HEART](https://open.spotify.com/track/5CyHyrAW1RPip3ruorIWyo) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 4:36 |
 | 8399 | [My Soul, Your Beats!](https://open.spotify.com/track/6czE5Nsi4SG2NPAufqxPMH) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Key+Lia Best 2001\-2010](https://open.spotify.com/album/5MgFWwnqo9OpN6ISUcIN1B) | 4:35 |
+| 8400 | [アイヲウタエ](https://open.spotify.com/track/4fNyKwXchDtiVwcf0ZPik5) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:09 |
 
-Snapshot ID: `AAALbKXwIT4IGdZ0YANUxngotUWUMAVC`
+Snapshot ID: `AAALbc+wLttYneZXGuExQOPEBxAkSCI1`

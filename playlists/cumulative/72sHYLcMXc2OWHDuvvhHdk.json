@@ -18281,6 +18281,24 @@
     },
     {
       "album": {
+        "name": "Karlar d\u00fc\u015fer",
+        "url": "https://open.spotify.com/album/4cZ7Xkvqu74aFhjpvdWaer"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fcr\u00fcmeyen Merdiven",
+          "url": "https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171492,
+      "name": "Karlar d\u00fc\u015fer",
+      "url": "https://open.spotify.com/track/52dcHswvjMI6WPutpeLdMC"
+    },
+    {
+      "album": {
         "name": "KASALA",
         "url": "https://open.spotify.com/album/0VBE5HaU33800S64toSedh"
       },

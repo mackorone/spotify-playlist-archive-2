@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > This playlist features Dylan Brady, underscores, and more good hyperpop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,000 likes - 125 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,045 likes - 125 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 28 | [PRTY 4 U :\)](https://open.spotify.com/track/4nCsd9bkLsQc6MIapeCBNz) | [Kidd Kleto](https://open.spotify.com/artist/0HIrqtxwmnvX2ySgodpk0m) | [PRTY 4 U :\)](https://open.spotify.com/album/6HXTja1soebjzTKumKemcU) | 2:19 |
 | 29 | [Missing](https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ) | [Ethanplus](https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s) | [Missing](https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW) | 1:48 |
 | 30 | [4me?](https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [4me?](https://open.spotify.com/album/0Y8iEEG9eYOq6saas4yZYD) | 2:27 |
-| 31 | [coalesce](https://open.spotify.com/track/38YqVXNfWVssWOVfklkOhW) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [coalesce](https://open.spotify.com/album/1FfsPl5gTyviERVIuBUvlT) | 3:11 |
+| 31 | [Coalesce](https://open.spotify.com/track/38YqVXNfWVssWOVfklkOhW) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Coalesce](https://open.spotify.com/album/1FfsPl5gTyviERVIuBUvlT) | 3:11 |
 | 32 | [YUM\-ME \- Big Softy Remix](https://open.spotify.com/track/5iTm9Ud5amR61Yr1I3koZy) | [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Two Planets](https://open.spotify.com/artist/7ujhs6kppvxNBZyeDVZKhr), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9), [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [YUM\-ME \(Big Softy Remix\)](https://open.spotify.com/album/5givvfq7JorHlh6vIffJjK) | 2:40 |
 | 33 | [Play that](https://open.spotify.com/track/28JOX6h6wYoYTtj7Y6oIa1) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Play that](https://open.spotify.com/album/2hOwj6e9eW57LQHO0Iknpg) | 1:37 |
 | 34 | [Sojourn](https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:56 |

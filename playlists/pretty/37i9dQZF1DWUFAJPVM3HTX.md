@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=w0d3EUWjRWq\-7HEB4xjW\-g">Isaiah Kaleo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,965 likes - 193 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,992 likes - 193 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 192 | [Keeper](https://open.spotify.com/track/2gb8nz0dk0pYSEoR1NMeSm) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Keeper](https://open.spotify.com/album/16R8fQHebbHRtKAUWpEWp7) | 2:22 |
 | 193 | [Take It Slow](https://open.spotify.com/track/1E0C0qP1ZgIxboC6KnRShJ) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Are You Bored Yet?](https://open.spotify.com/album/5cQnXNogeOsQhyYMesRS4O) | 3:00 |
 
-Snapshot ID: `AAAAADnvS51z9Vn3JoxJj8tDQP1X/S4O`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

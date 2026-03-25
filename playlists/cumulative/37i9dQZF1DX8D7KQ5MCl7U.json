@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio Sessions: Season 3",
+        "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
+      },
+      "artists": [
+        {
+          "name": "Amanat Ali",
+          "url": "https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "date_added": "2025-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285624,
+      "name": "Aisha",
+      "url": "https://open.spotify.com/track/1EoZK72TANYTz2Ndv9ABXa"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 988000,
       "name": "Kangna",
       "url": "https://open.spotify.com/track/7ipGJsMs1sKMTTOUZy0NfL"
@@ -6466,7 +6488,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 348962,
       "name": "Pritam",
       "url": "https://open.spotify.com/track/5UCgxHhw5HdEvHcYsv7jaY"
@@ -8288,7 +8310,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 425093,
       "name": "Tora Bahraam Khaana",
       "url": "https://open.spotify.com/track/17TBaTYEuvR0QtKCry15iF"

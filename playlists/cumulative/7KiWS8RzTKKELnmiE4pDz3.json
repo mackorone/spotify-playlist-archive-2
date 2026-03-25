@@ -2671,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "A Piece Of Strange",
+        "url": "https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA"
+      },
+      "artists": [
+        {
+          "name": "CunninLynguists",
+          "url": "https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/5WmxGs0hBmoo9bcGlY0twV"
+    },
+    {
+      "album": {
         "name": "Been A While",
         "url": "https://open.spotify.com/album/73XJk2IRPVp7FWUQg3JTGp"
       },

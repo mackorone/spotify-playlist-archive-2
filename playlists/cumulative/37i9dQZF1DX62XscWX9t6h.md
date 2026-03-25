@@ -98,7 +98,7 @@
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-10-20 | 2024-01-31 |
 | [Jako](https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Ladaniva](https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk) | 2:25 | 2024-05-20 |  |
 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 | 2021-10-20 |  |
-| [Jevâ](https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl) | 4:49 | 2025-09-02 |  |
+| [Jevâ](https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt) | [Massimo Silverio](https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI) | [Hrudja](https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl) | 4:49 | 2025-09-02 | 2026-03-25 |
 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 | 2022-02-25 |  |
 | [Kacharpayita](https://open.spotify.com/track/5MKFM1T9UdPCOxRCOXMMKU) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr) | [Inti Watana \- El Retorno del Sol](https://open.spotify.com/album/0D6YYJNgMsXd1BPt0ea0lL) | 3:41 | 2024-10-04 | 2025-01-03 |
 | [kamaapyë](https://open.spotify.com/track/47RY33H89Tiq36dTmyKLLT) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [kamaapyë](https://open.spotify.com/album/4rVuRc9Re8SOPuOR1rMFph) | 7:39 | 2024-09-06 | 2024-10-05 |
@@ -245,6 +245,6 @@
 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 | 2022-04-06 |  |
 | [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 | 2021-10-20 | 2024-04-19 |
 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 | 2022-09-15 |  |
-| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 | 2026-01-15 |
+| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

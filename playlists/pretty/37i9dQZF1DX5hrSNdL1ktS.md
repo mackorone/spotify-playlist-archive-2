@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Kenia Os y Lola Indigo en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,971 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,017 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

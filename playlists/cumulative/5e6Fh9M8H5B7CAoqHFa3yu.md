@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,022 songs - 5 day 0 hr 3 min
+2,023 songs - 5 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Carnival Dub](https://open.spotify.com/track/7aEQzimZylddMGhIbyEMU0) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:53 | 2024-03-25 |  |
 | [Carnival Steppa](https://open.spotify.com/track/7qhBgqcdglTK6ng8HGX7fn) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:42 | 2024-03-25 |  |
 | [Carosello](https://open.spotify.com/track/6kmlwM94J4MmnBEgAH3Oeb) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Carosello](https://open.spotify.com/album/0nlIJ1YO4UbYIYl5mNe1gp) | 3:35 | 2025-05-06 |  |
+| [Casa de Memorias](https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memorias](https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR) | 4:12 | 2026-03-24 |  |
 | [Castles In The Sand](https://open.spotify.com/track/69BPGdSMjgoqMc7ARHTWD3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Castles In The Sand](https://open.spotify.com/album/0DAvX41yl9ymrUie0E6Dp9) | 3:57 | 2026-02-05 |  |
 | [Catch a Vibe](https://open.spotify.com/track/2LXdb1bFCf6rdl9W8kE9Te) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:19 | 2024-06-30 |  |
 | [Catch A Wave](https://open.spotify.com/track/71NOaWAnbzTlUjmXT718MP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:58 | 2026-03-08 |  |

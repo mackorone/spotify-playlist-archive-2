@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 418130,
+  "num_followers": 418201,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Deusa Do Amor (Reggae Version)",
-        "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "tranq\u00fcilo inc",
-          "url": "https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 312490,
-      "name": "Deusa Do Amor - Reggae Version",
-      "url": "https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -895,18 +887,26 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+        "name": "Deusa Do Amor (Reggae Version)",
+        "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "tranq\u00fcilo inc",
+          "url": "https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+      "duration_ms": 312490,
+      "name": "Deusa Do Amor - Reggae Version",
+      "url": "https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia"
     },
     {
       "added_at": "2026-01-09 03:01:26",

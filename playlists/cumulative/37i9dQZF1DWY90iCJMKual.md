@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Waiian, Bad Indie Eye
 
-479 songs - 1 day 2 hr 8 min
+482 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2024-11-06 | 2026-02-25 |
 | [Galit](https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u) | [Galit](https://open.spotify.com/album/4NpsJCdOhCApSkJEuSzXSJ) | 3:05 | 2024-07-08 | 2024-11-09 |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 | 2025-01-17 |
+| [GET 2 KNOW U](https://open.spotify.com/track/1L9hGUkEa141Z76qe4kdEl) | [Darren Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6), [dree](https://open.spotify.com/artist/5ikU74erwupGYJpTmzIVoD) | [GET 2 KNOW U](https://open.spotify.com/album/0TUHdnP6Cc0CM0P3mYTMus) | 2:21 | 2026-03-24 |  |
 | [Get Dat](https://open.spotify.com/track/0tiTHNFceq3bd9oFv8w5fq) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Get Dat](https://open.spotify.com/album/1bsM1bf9DHxnFrnHO7tkun) | 2:10 | 2025-10-24 | 2025-12-04 |
 | [Get Lost](https://open.spotify.com/track/0oTOptuiMynGFuyFQhBC10) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [CUH](https://open.spotify.com/album/1JLxfhlVwfcQKg06LtlvrU) | 2:46 | 2025-12-03 | 2026-02-14 |
 | [get lost.](https://open.spotify.com/track/0pSDzhQRvNWRw2w1mVkqlm) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [get lost.](https://open.spotify.com/album/2u9fbDDi10hsJXfuwTOuKE) | 2:46 | 2024-11-08 | 2025-10-25 |
@@ -266,6 +267,7 @@
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 | 2023-07-29 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-06 | 2024-03-30 |
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 | 2024-01-27 |
+| [Luxury](https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR), [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Luxury](https://open.spotify.com/album/7kBweeovFGldh5ORLMdXE7) | 3:09 | 2026-03-24 |  |
 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 | 2023-09-06 | 2023-11-11 |
 | [MAGIC](https://open.spotify.com/track/3XvLg5slzPY1EwJDmTliuB) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [MAGIC](https://open.spotify.com/album/5dhHgdAMdCJGNB12rZCQ3b) | 3:17 | 2025-07-12 | 2025-12-04 |
 | [MAHAL KO](https://open.spotify.com/track/4IX8ITFvjlxO8YKVArV2u1) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa) | [MAHAL KO](https://open.spotify.com/album/5NkqZb1VpsydkEMM0tndAz) | 3:55 | 2025-08-29 | 2025-12-04 |
@@ -282,7 +284,7 @@
 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 | 2023-12-02 |
 | [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 | 2023-08-17 |
 | [Maria Hiwaga](https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Maria Hiwaga](https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn) | 3:07 | 2023-06-26 | 2023-10-03 |
-| [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 |  |
+| [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 | 2026-03-25 |
 | [MARLBORO BLACK 3](https://open.spotify.com/track/5g44fkdzvWCk4btj6hh5tA) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [HEARTBREAK SZN 3](https://open.spotify.com/album/0OYk10DGvHILpIDDtsk1Ad) | 4:10 | 2024-08-23 | 2025-05-28 |
 | [Martir](https://open.spotify.com/track/57LBLMp60RqNxO9EzXKFcX) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc) | [Martir](https://open.spotify.com/album/4Q3r9x9a5dVe0Il1bQ99pp) | 5:14 | 2023-07-28 | 2023-11-18 |
 | [May Iba Na Ba?](https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [May Iba Na Ba?](https://open.spotify.com/album/5j0c3ufCKiRztCGOKqmbDb) | 2:28 | 2023-06-26 | 2023-11-11 |
@@ -339,7 +341,7 @@
 | [pangalan](https://open.spotify.com/track/6sWE2HOMuYoAgsEX8PsqzI) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pangalan](https://open.spotify.com/album/1xozCy63NzVrKrSOpTLkuY) | 4:09 | 2024-11-29 | 2026-02-28 |
 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2024-03-12 |  |
 | [Para Lang Sa'yo](https://open.spotify.com/track/3UlM8h84n3BoJyOAV2XbBS) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [Para Lang Sa'yo](https://open.spotify.com/album/64IGUK4c80Ki79J8GL53sL) | 2:25 | 2026-02-23 |  |
-| [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 |  |
+| [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-21 | 2026-03-25 |
 | [Paraiso](https://open.spotify.com/track/5BfDIUvbucoFiJDQCcJeNp) | [Anji Salvacion](https://open.spotify.com/artist/5dUnvFYDMwg7j5JcERaGMk) | [Paraiso](https://open.spotify.com/album/6i6wKxhKqdmxvp6doDn3lg) | 3:08 | 2023-04-21 | 2023-08-17 |
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 | 2023-07-29 |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 | 2023-05-18 |
@@ -350,6 +352,7 @@
 | [Patid](https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Patid](https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em) | 4:07 | 2023-10-11 | 2024-01-16 |
 | [pelikula](https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Pasakalye](https://open.spotify.com/album/6wsRiy69i3LW7LSRF2Wlrg) | 3:34 | 2026-02-02 |  |
 | [Phases](https://open.spotify.com/track/0m1FSRVrQ4LEqFGicqjcDt) | [Aloura](https://open.spotify.com/artist/0kLp0sF2loscGK68sPESxQ) | [Phases](https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2) | 3:35 | 2022-10-12 | 2023-07-29 |
+| [Pilit Pinili](https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ) | [Bugoy Drilon](https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8) | [Pilit Pinili](https://open.spotify.com/album/1wrSjJ6cWnolOVptINC7As) | 2:10 | 2026-03-24 |  |
 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 | 2022-10-12 | 2023-07-29 |
 | [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |
 | [Playaz Diary](https://open.spotify.com/track/38aXG1JKhrtwp9W9nY80TI) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Playaz Diary](https://open.spotify.com/album/5IIqgH8FutgMzWsS8AxSUM) | 2:25 | 2024-02-06 | 2025-01-17 |
@@ -472,7 +475,7 @@
 | [WASTE MY TIME](https://open.spotify.com/track/2JPP3bJ6ERn0VIEqvIuOdY) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [WASTE MY TIME](https://open.spotify.com/album/4cQINuLI5XfdLn1IyiiEw8) | 3:08 | 2025-09-12 | 2025-12-04 |
 | [WENNA](https://open.spotify.com/track/4inWT7wUgLQhWoIhE23WVE) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Gaspari](https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi) | [WENNA](https://open.spotify.com/album/2D0ozhWJjzNJMduXT5Qydi) | 2:48 | 2026-02-13 |  |
 | [West](https://open.spotify.com/track/1CxebQctjzYLp4D9oylEZy) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [West](https://open.spotify.com/album/4wukwPD2soVS5RCVTkM5mR) | 2:26 | 2024-11-06 | 2026-03-19 |
-| [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-03 |  |
+| [What U Need](https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [What U Need](https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U) | 2:49 | 2024-12-03 | 2026-03-25 |
 | [What’s Yo Name?](https://open.spotify.com/track/6vuuKCxfDhXrcK9jCa4bBm) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [What’s Yo Name?](https://open.spotify.com/album/32KtqZVeijTXVypIIjmwu6) | 3:30 | 2025-11-21 | 2025-12-04 |
 | [WHO AM I TO YOU](https://open.spotify.com/track/29g22zgl7BL9P7LJV0yqUp) | [Kenneth Amores](https://open.spotify.com/artist/2ZNeBokyn4VOYpbQa5rcuY) | [WHO AM I TO YOU](https://open.spotify.com/album/26stt1ByhnU4KsyBvlBzM5) | 3:34 | 2022-10-12 | 2023-07-29 |
 | [Wide Awake](https://open.spotify.com/track/3zRflkppYT7jVEkswrnmcV) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Wide Awake](https://open.spotify.com/album/1y6tqS1vFzxdCh1I38EqQE) | 2:45 | 2025-11-21 | 2025-12-04 |

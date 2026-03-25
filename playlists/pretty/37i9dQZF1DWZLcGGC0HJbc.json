@@ -1,6 +1,6 @@
 {
   "description": "Voor boslucht, koffie en kalmte.",
-  "num_followers": 97946,
+  "num_followers": 97965,
   "original_name": "Indie Folk Coffee & Cedar",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-03-23 23:00:33",
       "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+    },
+    {
+      "added_at": "2026-03-23 23:00:33",
+      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2026-03-23 23:00:33",
       "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
-    },
-    {
-      "added_at": "2026-03-23 23:00:33",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/0nuneId81O8XGxUjSCL316"
+    },
+    {
+      "added_at": "2026-03-23 23:00:33",
+      "album": {
+        "name": "garden green eyes",
+        "url": "https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn"
+      },
+      "artists": [
+        {
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "garden green eyes",
+      "url": "https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA"
     },
     {
       "added_at": "2026-03-23 23:00:33",
@@ -363,22 +379,6 @@
       "duration_ms": 174087,
       "name": "Nothing Comes Easy",
       "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
-    },
-    {
-      "added_at": "2026-03-23 23:00:33",
-      "album": {
-        "name": "garden green eyes",
-        "url": "https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn"
-      },
-      "artists": [
-        {
-          "name": "Orange Oak",
-          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "garden green eyes",
-      "url": "https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA"
     },
     {
       "added_at": "2026-03-23 23:00:33",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-03-23 23:00:33",
       "album": {
-        "name": "Colour On The Wall",
-        "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 198189,
-      "name": "Colour On The Wall",
-      "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
-    },
-    {
-      "added_at": "2026-03-23 23:00:33",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235000,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2026-03-23 23:00:33",
+      "album": {
+        "name": "Colour On The Wall",
+        "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 198189,
+      "name": "Colour On The Wall",
+      "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
     },
     {
       "added_at": "2026-03-23 23:00:33",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-23 23:00:33",
       "album": {
-        "name": "Lovesongs",
-        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
-      },
-      "artists": [
-        {
-          "name": "Loverman",
-          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu"
-    },
-    {
-      "added_at": "2026-03-23 23:00:33",
-      "album": {
         "name": "Bus Back To Richmond / More Than Friends",
         "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2026-03-23 23:00:33",
       "album": {
-        "name": "Groundwork Rising",
-        "url": "https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh"
+        "name": "Lovesongs",
+        "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
       "artists": [
         {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+          "name": "Loverman",
+          "url": "https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky"
         }
       ],
-      "duration_ms": 252080,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB"
+      "duration_ms": 197684,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu"
+    },
+    {
+      "added_at": "2026-03-23 23:00:33",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     }
   ],
   "unique_name": "Indie Folk Coffee & Cedar",

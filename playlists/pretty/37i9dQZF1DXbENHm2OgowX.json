@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 328447,
+  "num_followers": 328642,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "her story",
+        "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
+      },
+      "artists": [
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "her story",
+      "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "i was always there for you",
         "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "her story",
-        "url": "https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m"
-      },
-      "artists": [
-        {
-          "name": "leadwave",
-          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "her story",
-      "url": "https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "now i know what i mean",
         "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
@@ -535,38 +535,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "burning memories",
-        "url": "https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5"
-      },
-      "artists": [
-        {
-          "name": "Unnholy",
-          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
-        }
-      ],
-      "duration_ms": 98126,
-      "name": "burning memories",
-      "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "no good",
-        "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 127792,
-      "name": "no good",
-      "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "burnout",
         "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
       },
@@ -583,6 +551,54 @@
       "duration_ms": 105000,
       "name": "burnout",
       "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "burning memories",
+        "url": "https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        }
+      ],
+      "duration_ms": 98126,
+      "name": "burning memories",
+      "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "of folded photographs",
+        "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "of folded photographs",
+      "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "no good",
+        "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 127792,
+      "name": "no good",
+      "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -655,22 +671,6 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "of folded photographs",
-        "url": "https://open.spotify.com/album/7cKD8VOgZRKmc7UK4jqR7J"
-      },
-      "artists": [
-        {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "of folded photographs",
-      "url": "https://open.spotify.com/track/3v5uNZ4MV6gV1ZhuuwOiLO"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
-      },
-      "artists": [
-        {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Asleep On The Wing",
         "url": "https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 220500,
       "name": "Asleep On The Wing - Pt. 4",
       "url": "https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "thoughts inside my head",
-        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
       "artists": [
         {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
         }
       ],
-      "duration_ms": 134314,
-      "name": "thoughts inside my head",
-      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
       },
       "artists": [
         {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
         }
       ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "losing",
+        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
+      },
+      "artists": [
+        {
+          "name": "donnow.",
+          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
+        },
+        {
+          "name": "julez",
+          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
+        }
+      ],
+      "duration_ms": 90861,
+      "name": "losing",
+      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "hexa",
         "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
@@ -1183,22 +1203,6 @@
       "duration_ms": 149333,
       "name": "hexa",
       "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "losing",
-        "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "donnow.",
-          "url": "https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME"
-        },
-        {
-          "name": "julez",
-          "url": "https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 90861,
-      "name": "losing",
-      "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "duration_ms": 146064,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1371,50 +1371,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Common",
-        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "Common",
-      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1435,6 +1403,78 @@
       "duration_ms": 199933,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Common",
+      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "you were never really mine.",
+        "url": "https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I"
+      },
+      "artists": [
+        {
+          "name": "calven",
+          "url": "https://open.spotify.com/artist/0BPlDdeN0haeHlQvIvITO2"
+        },
+        {
+          "name": "alper6nen",
+          "url": "https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj"
+        },
+        {
+          "name": "\u00e9rror",
+          "url": "https://open.spotify.com/artist/0NqwfCVg5pbnGssFNXATTQ"
+        }
+      ],
+      "duration_ms": 142038,
+      "name": "i still remember the first place we met.",
+      "url": "https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1467,46 +1507,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "you were never really mine.",
-        "url": "https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I"
-      },
-      "artists": [
-        {
-          "name": "calven",
-          "url": "https://open.spotify.com/artist/0BPlDdeN0haeHlQvIvITO2"
-        },
-        {
-          "name": "alper6nen",
-          "url": "https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj"
-        },
-        {
-          "name": "\u00e9rror",
-          "url": "https://open.spotify.com/artist/0NqwfCVg5pbnGssFNXATTQ"
-        }
-      ],
-      "duration_ms": 142038,
-      "name": "i still remember the first place we met.",
-      "url": "https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 146064,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "do you love me?",
+        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "do you love me?",
+      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1559,6 +1575,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -1591,6 +1623,22 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "a long road",
+        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "a long road",
+      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1647,22 +1695,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "do you love me?",
-        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
-      },
-      "artists": [
-        {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "do you love me?",
-      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Even The Horizon Knows Its Bounds",
         "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
@@ -1687,22 +1719,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
-      },
-      "artists": [
-        {
-          "name": "Blu Velvet",
-          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
         "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 276866,
       "name": "Squatter's Quarters",
       "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "a long road",
-        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "a long road",
-      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
     },
     {
       "added_at": "2026-03-20 04:00:38",

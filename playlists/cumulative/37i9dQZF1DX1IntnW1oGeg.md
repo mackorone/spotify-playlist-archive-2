@@ -4,7 +4,7 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-18 songs - 1 hr 7 min
+20 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,8 @@
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d) | 4:10 | 2025-11-19 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F) | 4:24 | 2025-11-19 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V) | 4:24 | 2025-11-19 |  |
+| [SWIM \(Performance Video\)](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 | 2026-03-24 |  |
+| [SWIM \(Performance Video\)](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 | 2026-03-24 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq) | 2:49 | 2025-11-19 |  |
 | [Upside Down Kiss](https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Upside Down Kiss](https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q) | 2:49 | 2025-11-19 |  |
 

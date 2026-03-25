@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 167 | [do you have a soul?](https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:03 |
 | 168 | [Morning After](https://open.spotify.com/track/6iykpl5QF9TmSYXr62dbTf) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 3:06 |
 | 169 | [Don't Play Pretend](https://open.spotify.com/track/2h2xz9EWgGASYWSv3mSpBU) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Broken Perfection](https://open.spotify.com/album/5LHftTy5Aqf2pk3ut49Y6g) | 3:07 |
-| 170 | [Alone](https://open.spotify.com/track/3VieUTeRgHhHSgizhHOaRW) | [CaRter](https://open.spotify.com/artist/5sXPLn0XElTS3Aq0STgm4H) | [Alone](https://open.spotify.com/album/0XBsTxjqhwqQFpwf5GvaYg) | 3:33 |
-| 171 | [Mad in Love](https://open.spotify.com/track/6HYEyEv1J30JSAjtMNIR3q) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
+| 170 | [Mad in Love](https://open.spotify.com/track/6HYEyEv1J30JSAjtMNIR3q) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
+| 171 | [Alone](https://open.spotify.com/track/3VieUTeRgHhHSgizhHOaRW) | [CaRter](https://open.spotify.com/artist/5sXPLn0XElTS3Aq0STgm4H) | [Alone](https://open.spotify.com/album/0XBsTxjqhwqQFpwf5GvaYg) | 3:33 |
 | 172 | [Because Of Me](https://open.spotify.com/track/1RXNLByngQMjFp5nKjtgNa) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BANA](https://open.spotify.com/album/3duEXG68pXzlRmbeL5PYRD) | 2:25 |
 | 173 | [24 Hours](https://open.spotify.com/track/6EZ1Row0FVGVrTpvNmsqVo) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:21 |
 | 174 | [Harley's Outro](https://open.spotify.com/track/2pY4gqUNyRh1O2sZXn1BKq) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 0:52 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 203 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 204 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcM7lgAAAABdiMlqLkVfufz1psY9vQpj`
+Snapshot ID: `AcNBNgAAAAAt9KtO5n1aDPU4m+moxS+E`

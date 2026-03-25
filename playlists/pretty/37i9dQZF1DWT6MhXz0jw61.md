@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,064 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,119 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 13 | [Why Would I \(feat\. G Herbo\)](https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summertime Butch 2](https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn) | 2:46 |
 | 14 | [HNIC](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
 | 15 | [Sanctuary](https://open.spotify.com/track/5Blbbh0UxwFFx2In6w9yMf) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Sanctuary](https://open.spotify.com/album/0kBOm35DEoJ4T0GAF17jMM) | 3:08 |
-| 16 | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |
+| 16 | [Reminders](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |
 | 17 | [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 |
 | 18 | [Highway 95 pt.2](https://open.spotify.com/track/5OUtx1HW0cLbt1bCuSHlw8) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:48 |
 | 19 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |

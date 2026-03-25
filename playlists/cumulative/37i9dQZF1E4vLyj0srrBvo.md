@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Phantogram, Mareux and more
+> With Crystal Castles, Pastel Ghost, Phantogram and more
 
 1,848 songs - 4 day 17 hr 47 min
 

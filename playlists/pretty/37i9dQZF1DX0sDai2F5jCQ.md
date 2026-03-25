@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Coi Leray, YougBoy Never Broke Again.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,909 likes - 76 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,894 likes - 76 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 18 | [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 |
 | 19 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 20 | [Whistle](https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Whistle](https://open.spotify.com/album/6wdBvLfeROObJGi5nIlyDD) | 2:22 |
-| 21 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga](https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
+| 21 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
 | 22 | [MR DND](https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [From Me 2 U](https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY) | 1:44 |
 | 23 | [WHITE TEETH](https://open.spotify.com/track/6ow0YfalWa4voVee9u9AVu) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS) | [WHITE TEETH](https://open.spotify.com/album/6KYatViFJmhg83SObsMP55) | 2:46 |
 | 24 | [NO LOVE](https://open.spotify.com/track/6TFk7Htqf0AauDfeFhCLIo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [SOUTH LDN LOVER GIRL](https://open.spotify.com/album/6NgizYchTMIgAtm5UU5zqm) | 3:22 |

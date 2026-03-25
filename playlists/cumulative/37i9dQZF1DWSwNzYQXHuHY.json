@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Pit a Pat",
+        "url": "https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4"
+      },
+      "artists": [
+        {
+          "name": "Yu Seung Woo",
+          "url": "https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf"
+        },
+        {
+          "name": "WOOHYO",
+          "url": "https://open.spotify.com/artist/6jFvKvItiwnMx2nG3y1Hx9"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212161,
+      "name": "45.7cm (feat.OOHYO)",
+      "url": "https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW"
+    },
+    {
+      "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
       },
@@ -2241,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "No, Thank You OST Part.2",
+        "url": "https://open.spotify.com/album/65Sjg70pHSmlRW5RHFRcb9"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182342,
+      "name": "How is it?",
+      "url": "https://open.spotify.com/track/2iDaalTfhjBWcNTInRk5DZ"
+    },
+    {
+      "album": {
         "name": "you don't know",
         "url": "https://open.spotify.com/album/3VnA1BOm8DnF1tWnCZdRy1"
       },
@@ -2270,7 +2310,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 257666,
       "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
@@ -2846,6 +2886,24 @@
       "duration_ms": 204013,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
+    },
+    {
+      "album": {
+        "name": "It\u2019s secret",
+        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "It\u2019s secret",
+      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
     },
     {
       "album": {
@@ -3652,7 +3710,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 191000,
       "name": "MY PRIDE",
       "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
@@ -6592,7 +6650,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"

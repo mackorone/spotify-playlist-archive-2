@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 309658,
+  "num_followers": 309768,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 245626,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Human Behaviour",
-      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Brighten the Corners",
-        "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Shady Lane",
-      "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Brighten the Corners",
+        "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Shady Lane",
+      "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Bubble & Scrape",
-        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
       "artists": [
         {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Soul And Fire",
-      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
+      "duration_ms": 254160,
+      "name": "Cold Blooded Old Times",
+      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+        "name": "Rooney",
+        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Rooney",
+          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
         }
       ],
-      "duration_ms": 254160,
-      "name": "Cold Blooded Old Times",
-      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
+      "duration_ms": 214120,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Rooney",
-        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
+        "name": "Bubble & Scrape",
+        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
       },
       "artists": [
         {
-          "name": "Rooney",
-          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
         }
       ],
-      "duration_ms": 214120,
-      "name": "I'm Shakin'",
-      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
+      "duration_ms": 226600,
+      "name": "Soul And Fire",
+      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
     },
     {
       "added_at": "2025-01-15 04:11:50",

@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 502676,
+  "num_followers": 502795,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
@@ -1771,26 +1787,6 @@
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "Lo Peor de Mi",
-        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 280450,
-      "name": "Lo Peor de Mi",
-      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

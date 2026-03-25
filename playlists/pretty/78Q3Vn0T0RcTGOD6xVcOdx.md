@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 485 likes - 280 songs - 16 hr 2 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 485 likes - 281 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,5 +288,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 278 | [Inconfundible](https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Inconfundible](https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF) | 3:37 |
 | 279 | [Calle amanecer](https://open.spotify.com/track/6zRO3xl2W8zKqTLII5pJ4H) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Calle amanecer](https://open.spotify.com/album/4DsV2paVA0niwYG51jLEE5) | 3:32 |
 | 280 | [Fuego](https://open.spotify.com/track/1fCFjHamH9I3w9Qd32vjW3) | [Chicoselfie](https://open.spotify.com/artist/2jiH07cfJhSjf95VGyJsrR) | [Fuego](https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN) | 5:00 |
+| 281 | [¿Qué Sientes al Dar?](https://open.spotify.com/track/2WG4nnvnlqGog03RmcTywy) | [Javier Marval Ross](https://open.spotify.com/artist/72FYWQsfatZShho1er5m3t) | [¿Qué Sientes al Dar?](https://open.spotify.com/album/5ngarvdoBmBsQEUIk0yYes) | 3:41 |
 
-Snapshot ID: `AAAA9vYVVutZidw2NJwoyfcq4aHqg7Rm`
+Snapshot ID: `AAAA92i6Q5Hit34r8zep1lX2EqkX24CZ`

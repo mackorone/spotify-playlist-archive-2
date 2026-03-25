@@ -1,13 +1,29 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIDiK8AtJYB/97sfOBSndSWMNHKwQM",
+  "snapshot_id": "AAAIEaS3jFDkvVVv2SVhSP4YUn+PXD3k",
   "tracks": [
+    {
+      "added_at": "2026-03-24 17:21:05",
+      "album": {
+        "name": "Fracture",
+        "url": "https://open.spotify.com/album/5DkG7qRMPB0b9QCPuqXWPy"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Belle",
+          "url": "https://open.spotify.com/artist/25mq1k9LZ2ziRtCy1mBVWS"
+        }
+      ],
+      "duration_ms": 311520,
+      "name": "Fracture",
+      "url": "https://open.spotify.com/track/3q2onxJCnxGLvT4ts5vSH9"
+    },
     {
       "added_at": "2026-03-23 10:31:09",
       "album": {
@@ -69159,6 +69175,38 @@
       "duration_ms": 187533,
       "name": "TIME PASSES",
       "url": "https://open.spotify.com/track/5VhNq876BupaVKaIl7cgzx"
+    },
+    {
+      "added_at": "2026-03-24 09:20:40",
+      "album": {
+        "name": "Perfect Husband",
+        "url": "https://open.spotify.com/album/0KJaZTaZA8YaSPFI0FSKpY"
+      },
+      "artists": [
+        {
+          "name": "Lex Grey",
+          "url": "https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C"
+        }
+      ],
+      "duration_ms": 203119,
+      "name": "Perfect Husband",
+      "url": "https://open.spotify.com/track/5ZgTgzeEKjUaaXHXjGfAVf"
+    },
+    {
+      "added_at": "2026-03-24 09:23:21",
+      "album": {
+        "name": "Ramounie",
+        "url": "https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr"
+      },
+      "artists": [
+        {
+          "name": "DJ ToloV",
+          "url": "https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7"
+        }
+      ],
+      "duration_ms": 235159,
+      "name": "Ramounie",
+      "url": "https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ"
     }
   ],
   "unique_name": "playlist spotify free",

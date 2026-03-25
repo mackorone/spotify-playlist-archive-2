@@ -1,6 +1,6 @@
 {
   "description": "Pour yourself a mai tai \ud83c\udf79 and festoon yourself with lei \ud83c\udf3a, welcome to the Hawaiian party! \ud83c\udf34\ud83e\udd6d\ud83c\udf89",
-  "num_followers": 136065,
+  "num_followers": 136075,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Days Of Wine And Roses",
-        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Slow And Easy",
-      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Esquivel! 1968",
         "url": "https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 217133,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Days Of Wine And Roses",
+        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Slow And Easy",
+      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Cool Heat + Exotic Dreams",
-        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
-      },
-      "artists": [
-        {
-          "name": "Ethel Azama",
-          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
-        }
-      ],
-      "duration_ms": 154575,
-      "name": "Ringo Oiwake",
-      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Exotic World",
         "url": "https://open.spotify.com/album/5Q5D1PmZjo2l6bG3dOsKQ5"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Cool Heat + Exotic Dreams",
+        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
+      },
+      "artists": [
+        {
+          "name": "Ethel Azama",
+          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
+        }
+      ],
+      "duration_ms": 154575,
+      "name": "Ringo Oiwake",
+      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Kirby Allen Presents: Eye Of The Spectre",
         "url": "https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 207892,
       "name": "Bim-Boo",
       "url": "https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yma Sumac - Story Of The Jivaro Vol. 1",
-        "url": "https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1231,6 +1215,22 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0THpBIexGSqkHkvkyk51CJ"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yma Sumac - Story Of The Jivaro Vol. 1",
+        "url": "https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx"
     },
     {
       "added_at": "2021-01-20 03:50:53",

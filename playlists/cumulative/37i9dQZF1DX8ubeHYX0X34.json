@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
+  "description": "Timeless Pakistani hits, all in one place. Cover - Hadiqa Kiani",
   "name": "All Time Pakistani Hits",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 380373,
       "name": "Aitebar",
       "url": "https://open.spotify.com/track/3xDoL9bDd18aDRvAYe2Oup"
@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Wajd, Vol. 1",
+        "url": "https://open.spotify.com/album/6vjOYyX7IFntL0d7nnMf5R"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404001,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/7J2YEpZ1fIodpfsZqSY6wK"
+    },
+    {
+      "album": {
         "name": "Dhaani",
         "url": "https://open.spotify.com/album/21luKloROzEZKHzgbhye2U"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 249240,
       "name": "Chup",
       "url": "https://open.spotify.com/track/0HpJhBhVcST88qiItro5Bj"
@@ -1329,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Bol (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Hona Tha Pyar",
+      "url": "https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF"
+    },
+    {
+      "album": {
         "name": "Humsafar (2011)",
         "url": "https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH"
       },
@@ -1546,6 +1586,24 @@
       "duration_ms": 215655,
       "name": "Izhar",
       "url": "https://open.spotify.com/track/6wDFgRCGUEO4l5hgUc6hmy"
+    },
+    {
+      "album": {
+        "name": "Jaanay Iss Dil",
+        "url": "https://open.spotify.com/album/7db89UuEFJ3ABQShmj1KBL"
+      },
+      "artists": [
+        {
+          "name": "Hadiqa Kiani",
+          "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505865,
+      "name": "Jaanay Iss Dil",
+      "url": "https://open.spotify.com/track/26qEGHtclfxUIWGQwB8y5a"
     },
     {
       "album": {
@@ -2970,7 +3028,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 261546,
       "name": "Pyaar Bina",
       "url": "https://open.spotify.com/track/33lDINCEHJM5jeVhcnJfdE"
@@ -3378,7 +3436,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 360093,
       "name": "Sawaal",
       "url": "https://open.spotify.com/track/78ebXoVF2HmY4RfaO1Eyk5"
@@ -3800,7 +3858,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 271999,
       "name": "Ujaloun Mein",
       "url": "https://open.spotify.com/track/3DFT1hfyJl6FRKbvPmn1nn"

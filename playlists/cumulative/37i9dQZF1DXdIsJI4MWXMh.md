@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-170 songs - 11 hr 21 min
+171 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,11 +104,12 @@
 | [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 | 2025-09-18 |  |
 | [Las Flores de Tu Florero](https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Éxitos de Antología](https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee) | 2:57 | 2023-03-03 | 2025-12-31 |
 | [Lloviendo Estrellas](https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:28 | 2023-03-03 |  |
+| [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 | 2026-02-19 |  |
 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 | 2023-03-03 |  |
 | [Lágrimas Frente Al Mar](https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV) | [Los Supercumbieros de Galvarino](https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9) | [Románticos De La Cumbia](https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3) | 4:43 | 2023-03-03 | 2025-08-03 |
 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 | 2023-03-03 |  |
 | [María Elena](https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:22 | 2023-03-03 | 2026-02-02 |
-| [Matalas](https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Yo Lo Canto y Tu Lo Bailas](https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1) | 3:51 | 2023-03-03 |  |
+| [Matalas](https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Yo Lo Canto y Tu Lo Bailas](https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1) | 3:51 | 2023-03-03 | 2026-03-25 |
 | [Me Opongo](https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7) | [J Matt](https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96) | [Me Opongo](https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d) | 2:57 | 2026-02-19 |  |
 | [Me Quisiste Jugar A La Mala](https://open.spotify.com/track/46PIRSCePoQ6iJ8cFeZtAi) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Me Quisiste Jugar a La Mala](https://open.spotify.com/album/1EX91QM9Yuy4uI3q0MfR8x) | 4:16 | 2025-06-13 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW) | [Banda Salvaje](https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg) | [Descaderando Viejos por Todo Chile](https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q) | 4:47 | 2023-03-03 | 2026-02-16 |

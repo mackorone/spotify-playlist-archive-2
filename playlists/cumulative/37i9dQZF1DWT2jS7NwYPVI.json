@@ -14045,6 +14045,24 @@
     },
     {
       "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "DADDY DON'T CRY",
+      "url": "https://open.spotify.com/track/7E3IYir0rWx6Y2f8ypZW6s"
+    },
+    {
+      "album": {
         "name": "DADDY ISSUES",
         "url": "https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0"
       },

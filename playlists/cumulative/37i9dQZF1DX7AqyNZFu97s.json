@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Ghoulish",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: FIZA",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 219724,
       "name": "2002",
       "url": "https://open.spotify.com/track/6TqVKoxTLB6ad0WqNABBSF"
@@ -1380,6 +1380,24 @@
       "duration_ms": 152842,
       "name": "A La Mode",
       "url": "https://open.spotify.com/track/1cHLSnf5ZHpVxgq500J4Ns"
+    },
+    {
+      "album": {
+        "name": "A Little Less",
+        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
     },
     {
       "album": {
@@ -7920,7 +7938,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 150000,
       "name": "Boy U R",
       "url": "https://open.spotify.com/track/0YQpmBsYxkJtAhLS8jPN54"
@@ -24728,7 +24746,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 196967,
       "name": "Headside In Da Skiez (Babycham Supernova)",
       "url": "https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk"
@@ -29401,6 +29419,24 @@
     },
     {
       "album": {
+        "name": "Pumpkin",
+        "url": "https://open.spotify.com/album/1oyQLu3dZxTUaRT7jbuFBx"
+      },
+      "artists": [
+        {
+          "name": "Georgia Parker",
+          "url": "https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219260,
+      "name": "If I Could, I Would Try Again",
+      "url": "https://open.spotify.com/track/4S8i56ybCTUu0myPHzligZ"
+    },
+    {
+      "album": {
         "name": "IF I GAVE U MY DREAM",
         "url": "https://open.spotify.com/album/64Tr9k5I08BhGd42SkRHlq"
       },
@@ -31752,7 +31788,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 240451,
       "name": "Joy and Despair",
       "url": "https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT"
@@ -36909,6 +36945,24 @@
     },
     {
       "album": {
+        "name": "Mama, My Heart Is Achin'",
+        "url": "https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "Mama, My Heart Is Achin'",
+      "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
+    },
+    {
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/7Gtd4VfBcBRgU475HsyLqJ"
       },
@@ -41107,6 +41161,24 @@
     },
     {
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/3gX3YXmWs2gUprpjQgERZA"
+      },
+      "artists": [
+        {
+          "name": "jonty",
+          "url": "https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217074,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/5Y1AzdsSQ1bdKWJ0TncFLx"
+    },
+    {
+      "album": {
         "name": "No Need To Be Shy",
         "url": "https://open.spotify.com/album/1VuHpYETdoOWSbTMnGRWCA"
       },
@@ -42214,7 +42286,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 125562,
       "name": "Nurse Depression",
       "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
@@ -51328,7 +51400,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 166824,
       "name": "shibuya",
       "url": "https://open.spotify.com/track/1Cw8gSzcpNfTTTMQiQxcE1"
@@ -53966,6 +54038,24 @@
       "duration_ms": 174286,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/6FvONiMvj4TLK7EgOfNS7e"
+    },
+    {
+      "album": {
+        "name": "Behind The Wings",
+        "url": "https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
     },
     {
       "album": {
@@ -64724,7 +64814,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 126770,
       "name": "wonton rice",
       "url": "https://open.spotify.com/track/4fGBlr1k2tplUIhJ4ad5oh"

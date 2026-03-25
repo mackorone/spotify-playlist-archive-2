@@ -571,22 +571,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
-      },
-      "artists": [
-        {
-          "name": "Blue Katrice",
-          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
-        }
-      ],
-      "duration_ms": 212618,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 165378,
       "name": "La rivi\u00e8re",
       "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
+      },
+      "artists": [
+        {
+          "name": "Blue Katrice",
+          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "COMA",
+        "url": "https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy"
+      },
+      "artists": [
+        {
+          "name": "PAR.SEK",
+          "url": "https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx"
+        }
+      ],
+      "duration_ms": 181931,
+      "name": "COMA",
+      "url": "https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Roots (Extended)",
         "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 132600,
       "name": "INSURGENCIA",
       "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "COMA",
-        "url": "https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy"
-      },
-      "artists": [
-        {
-          "name": "PAR.SEK",
-          "url": "https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx"
-        }
-      ],
-      "duration_ms": 181931,
-      "name": "COMA",
-      "url": "https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Tout change",
         "url": "https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 158122,
       "name": "Changer",
       "url": "https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
     },
     {
       "added_at": "2025-11-20 17:00:08",

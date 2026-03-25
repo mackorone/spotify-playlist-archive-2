@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104727,
+  "num_followers": 104720,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Clean Girl",
-        "url": "https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V"
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
       },
       "artists": [
         {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 177951,
-      "name": "Clean Girl",
-      "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -651,22 +655,18 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+        "name": "Clean Girl",
+        "url": "https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V"
       },
       "artists": [
         {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        },
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
+      "duration_ms": 177951,
+      "name": "Clean Girl",
+      "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "iPhone",
-        "url": "https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv"
-      },
-      "artists": [
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 151216,
-      "name": "iPhone",
-      "url": "https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
         "name": "Solmui",
         "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
       },
@@ -719,22 +703,18 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
-        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
+        "name": "iPhone",
+        "url": "https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv"
       },
       "artists": [
         {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        },
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
         }
       ],
-      "duration_ms": 147807,
-      "name": "Mit\u00e4 vaan",
-      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+      "duration_ms": 151216,
+      "name": "iPhone",
+      "url": "https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -759,6 +739,26 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
+        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
+        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 147807,
+      "name": "Mit\u00e4 vaan",
+      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
         "name": "Toimitusjohtaja",
         "url": "https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 165438,
       "name": "Toimitusjohtaja",
       "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
+        "name": "Aito freak",
+        "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 138159,
+      "name": "Aito freak",
+      "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -791,26 +807,6 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "20:30 (feat. Karim B)",
-        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
-      },
-      "artists": [
-        {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        },
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "20:30 (feat. Karim B)",
-      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l"
       },
@@ -827,18 +823,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Aito freak",
-        "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
+        "name": "20:30 (feat. Karim B)",
+        "url": "https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG"
       },
       "artists": [
         {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        },
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
         }
       ],
-      "duration_ms": 138159,
-      "name": "Aito freak",
-      "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
+      "duration_ms": 171280,
+      "name": "20:30 (feat. Karim B)",
+      "url": "https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 125135,
       "name": "Aikuinen mies",
       "url": "https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
-        "name": "LADABOIS",
-        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
-      },
-      "artists": [
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Rakkaudesta manii",
-      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
     },
     {
       "added_at": "2026-03-19 22:00:25",

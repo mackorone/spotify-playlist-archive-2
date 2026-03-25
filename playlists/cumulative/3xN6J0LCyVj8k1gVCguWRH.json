@@ -49041,6 +49041,24 @@
     },
     {
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/3do9UySkuHrEmk5fPxLL0j"
+      },
+      "artists": [
+        {
+          "name": "Charin Mendes",
+          "url": "https://open.spotify.com/artist/0oAHxVBwb9WKz52MCCz6YP"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194076,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/65I9cdqmavC5DNTr4Gf652"
+    },
+    {
+      "album": {
         "name": "Rema",
         "url": "https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8"
       },

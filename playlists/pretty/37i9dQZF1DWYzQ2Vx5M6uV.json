@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143112,
+  "num_followers": 143128,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "Dolares",
+        "url": "https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Dolares",
+      "url": "https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Mesera",
         "url": "https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G"
       },
@@ -1547,6 +1563,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "WAYO :(",
+        "url": "https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI"
+      },
+      "artists": [
+        {
+          "name": "RICCII",
+          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
+        }
+      ],
+      "duration_ms": 145405,
+      "name": "WAYO :(",
+      "url": "https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Momento Zero",
         "url": "https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d"
       },
@@ -1563,22 +1595,6 @@
       "duration_ms": 157699,
       "name": "Momento Zero",
       "url": "https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "WAYO :(",
-        "url": "https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI"
-      },
-      "artists": [
-        {
-          "name": "RICCII",
-          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
-        }
-      ],
-      "duration_ms": 145405,
-      "name": "WAYO :(",
-      "url": "https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Dolares",
-        "url": "https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Dolares",
-      "url": "https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "ohsaye",
         "url": "https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "COMO VOS | THIS IS CURREN",
         "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Ese Habladito",
         "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
       },
@@ -1723,6 +1723,42 @@
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "cuLE viaJE",
+        "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
+      },
+      "artists": [
+        {
+          "name": "Till High",
+          "url": "https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie"
+        }
+      ],
+      "duration_ms": 158285,
+      "name": "cuLE viaJE",
+      "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "No Esperes",
+        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "No Esperes",
+      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1747,26 +1783,6 @@
       "duration_ms": 187562,
       "name": "LUNA LLENA",
       "url": "https://open.spotify.com/track/72Ldu7eqNDaJNs55JjlPxd"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "No Esperes",
-        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        }
-      ],
-      "duration_ms": 194347,
-      "name": "No Esperes",
-      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1883,26 +1899,6 @@
       "duration_ms": 156063,
       "name": "EN EL MOMENTO",
       "url": "https://open.spotify.com/track/4oRZXIY18vpKC7bB0CrCY4"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "GioBulla",
-          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
-        }
-      ],
-      "duration_ms": 159135,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
     }
   ],
   "unique_name": "Afro Ritmo",

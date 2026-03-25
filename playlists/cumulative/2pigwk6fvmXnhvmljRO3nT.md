@@ -4,7 +4,7 @@
 
 > 
 
-8,554 songs - 21 day 19 hr 1 min
+8,555 songs - 21 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3124,7 +3124,7 @@
 | [Idle Away from Mountains](https://open.spotify.com/track/1jR61nc98OPr6B1kBtKP1t) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jade Moon Upon a Sea of Clouds \(Original Game Soundtrack\)](https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T) | 1:14 | 2025-11-29 |  |
 | [If](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hong Gil Dong OST](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) | 4:25 | 2025-01-15 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2024-12-05 |  |
-| [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 | 2025-08-06 |  |
+| [If I Am With You](https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC) | [ç…§äº•é †æ”¿](https://open.spotify.com/artist/0LL1khAhRvan2EqhpzEn9R) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:26 | 2025-08-06 |  |
 | [If I Can Dream](https://open.spotify.com/track/3C6pSIVeBKIbSpCFtaw1r8) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:11 | 2025-01-03 |  |
 | [If I Can Dream \- Live from the '68 Comeback Special](https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 | 2025-03-17 |  |
 | [If I Can Stop One Heart From Breaking](https://open.spotify.com/track/7f3GFn9aFk8yKrrSQ8VnTp) | [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [INSIDE](https://open.spotify.com/album/0max2UoPzegnhjwv1yhyEC) | 3:22 | 2025-01-15 |  |
@@ -7542,6 +7542,7 @@
 | [アイム・ア・ビリーバー](https://open.spotify.com/track/2gVEP5chQzs7pHEemZpMBO) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:37 | 2025-05-09 |  |
 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2024-12-10 |  |
 | [アイロニックマイロジック \(feat\. つずな\)](https://open.spotify.com/track/4qnKnbVuAyshyVVeuFTLC0) | [Room97](https://open.spotify.com/artist/108nJRZjRbGcX9TXqKLDpg), [つずな](https://open.spotify.com/artist/4OolY76b96632hWfTPrbuq) | [MY WORLD+](https://open.spotify.com/album/30eXgV7IFPE8Aeac03vYVn) | 4:23 | 2025-01-15 |  |
+| [アイヲウタエ](https://open.spotify.com/track/4fNyKwXchDtiVwcf0ZPik5) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:09 | 2026-03-24 |  |
 | [アイヲウタエ](https://open.spotify.com/track/14nodLi5goNw4cAxrkRNnR) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Nekomonogatari \(Shiro\) Gekihanongakushu \[Original Soundtrack\]](https://open.spotify.com/album/7BPZGcFGCvH4Sf2vTfYCq5) | 4:12 | 2025-01-04 |  |
 | [アイヲウタエ](https://open.spotify.com/track/6gKqFm3AQizlP6Mag5Q5C0) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 4:12 | 2025-01-04 |  |
 | [アウトサイダー](https://open.spotify.com/track/4cecxfR44krxQZ527CVGJ1) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [おとぎ](https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct) | 3:27 | 2025-01-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Gabriel EMC
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,040 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,077 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 2 | [Vuelve](https://open.spotify.com/track/1rBjXZFPW6MnpZ0LwnzUmG) | [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [Vuelve](https://open.spotify.com/album/4yihjmFPz0VUaz2Qx3fHHX) | 2:11 |
 | 3 | [Asi Es Tu Amor](https://open.spotify.com/track/0gjwTXkVBBSCnUmhUsWRDb) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Asi Es Tu Amor](https://open.spotify.com/album/7k1iXg8ujRqGTuCQZgC0XN) | 2:54 |
 | 4 | [Copero](https://open.spotify.com/track/6MIxgfy1huCAiwralAMQDj) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Copero](https://open.spotify.com/album/4eyWJ77iMjZh6PIGBeL4UV) | 2:54 |
-| 5 | [DESTINO](https://open.spotify.com/track/0tR4lnHlkR0FaJTflIm4G2) | [Matteo](https://open.spotify.com/artist/71tcMlBuPcL4nAVJ0ec8CA), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd), [Ross](https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG) | [DESTINO: RD](https://open.spotify.com/album/6M4dKzWemLtde9Ml79vL4r) | 2:27 |
+| 5 | [DESTINO](https://open.spotify.com/track/0tR4lnHlkR0FaJTflIm4G2) | [Matteo](https://open.spotify.com/artist/71tcMlBuPcL4nAVJ0ec8CA), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [DESTINO: RD](https://open.spotify.com/album/6M4dKzWemLtde9Ml79vL4r) | 2:27 |
 | 6 | [Su Atención](https://open.spotify.com/track/6qjJikrtlur7PMiHsuGs3f) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Su Atención](https://open.spotify.com/album/3gQvGSxMxuTRtr8jfTTDdV) | 3:33 |
 | 7 | [Ateo vs Cristiano 2.0](https://open.spotify.com/track/2Lo9MPPpIJ6Yn9sNOF9Fst) | [Junior Delgado Music](https://open.spotify.com/artist/0cVT6RdWUCUZIDu2PN1Brb), [Knelofree](https://open.spotify.com/artist/4ejDe31YZuRDxCU8u0qvrF), [l3tter](https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt), [La Qadra Music](https://open.spotify.com/artist/2bTPXV9qqB8r1ujLb7K19m) | [Ateo vs Cristiano 2.0](https://open.spotify.com/album/4eoUqxlf5sC5RVNey3VbZM) | 5:03 |
 | 8 | [Diles que les Amo \- Intro](https://open.spotify.com/track/6rzQAH1tGL7MIcZxX03Uot) | [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC) | [DILES QUE LES AMO](https://open.spotify.com/album/24Xd9Vzgf4oKX5nQY5LHO8) | 3:26 |

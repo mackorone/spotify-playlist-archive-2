@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=1k\_yT26TS5mkQA\_JB6h3SQ"> Khalighraph Jones</a> and <a href="https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43?si=Jd5Ri7jUQaebxR7BK7\_Tew"> Johnny Vigeti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,567 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,600 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

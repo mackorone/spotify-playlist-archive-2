@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Casa de Memorias",
+        "url": "https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252708,
+      "name": "Casa de Memorias",
+      "url": "https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS"
+    },
+    {
+      "album": {
         "name": "Castles In The Sand",
         "url": "https://open.spotify.com/album/0DAvX41yl9ymrUie0E6Dp9"
       },

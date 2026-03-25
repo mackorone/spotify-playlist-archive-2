@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Fight Pausa in cover \(circondato da cuscini\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,869 likes - 105 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,863 likes - 105 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 195936,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
@@ -3498,6 +3498,24 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "album": {
+        "name": "Million Reasons",
+        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
+      },
+      "artists": [
+        {
+          "name": "Shelby Means",
+          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
     },
     {
       "album": {

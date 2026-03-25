@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 104 songs - 6 hr 4 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 102 | [togher](https://open.spotify.com/track/5Fmqxc6IvItrprHWLpEVc9) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [togher](https://open.spotify.com/album/1ReFEzctIfWYIzbUidlBNT) | 3:15 |
 | 103 | [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 |
 | 104 | [Sevacabar](https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Sevacabar](https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm) | 2:50 |
+| 105 | [Come on Home](https://open.spotify.com/track/5NUz4rCdmgCTGtD6o1Qk5D) | [Kristy Wilkins](https://open.spotify.com/artist/3c1coxeyHjp3W1RwzzzOYr) | [Devoted](https://open.spotify.com/album/3saAtiUaTp2bJId7BrNfC3) | 3:33 |
 
-Snapshot ID: `AAANx5zO+ogL81xKBY3ethbZgn4njGzI`
+Snapshot ID: `AAANyMfuEI3FTGaF0BkumpBTNIobPilT`

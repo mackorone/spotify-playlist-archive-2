@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-318 songs - 20 hr 43 min
+319 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Kiss Me](https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [The Sidekicks](https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI) | [Pickin' on the 90s](https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi) | 3:18 | 2026-02-04 |  |
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 | 2024-07-13 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-08-20 | 2022-04-02 |
-| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 |  |
+| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 | 2026-03-25 |
 | [Let Your Love Flow](https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 2:57 | 2022-10-07 | 2024-01-20 |
 | [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 | 2022-10-14 |
 | [Let's Get It Started](https://open.spotify.com/track/0Ti70H69CvNwtfku4ajGTA) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Let's Get It Started](https://open.spotify.com/album/6fiyjUrbHehvrjmiWvBwiw) | 3:29 | 2023-03-17 | 2023-07-29 |
@@ -192,6 +192,7 @@
 | [Maple Leaf Rag](https://open.spotify.com/track/4djgZz36Jx4Oz3hv8LXEA8) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Maple Leaf Rag](https://open.spotify.com/album/3KkTtsG3XwyprW9uH6xkhU) | 3:43 | 2022-10-07 | 2023-05-14 |
 | [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 | 2022-08-10 |
 | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh) | [Tompall & The Glaser Brothers](https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py) | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV) | 6:36 | 2024-05-10 |  |
+| [Million Reasons](https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw) | [Shelby Means](https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj) | [Million Reasons](https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w) | 3:42 | 2026-02-04 |  |
 | [Misirlou](https://open.spotify.com/track/4xzE6PHaq9MQf2ZKTGBL9z) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Misirlou](https://open.spotify.com/album/3QjwvTaEt6WBksPrs00Mb7) | 2:25 | 2022-07-15 | 2022-08-10 |
 | [Miss You](https://open.spotify.com/track/5ezfm5XJ0Wn7Kkd7Ewtu3d) | [Tommy Drinkard](https://open.spotify.com/artist/0WUnSuDkHH73JTgCuysUsR), [the Remedy](https://open.spotify.com/artist/6YgPmTwGDVLEBXtbP6pWXC) | [Miss You](https://open.spotify.com/album/1lpSWEvrJDqd18hsKGSViU) | 4:09 | 2024-11-22 | 2026-02-05 |
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 | 2023-05-20 |

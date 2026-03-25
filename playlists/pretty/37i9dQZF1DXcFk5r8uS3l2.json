@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067723,
+  "num_followers": 1067753,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4wMk7mjtzYXFuMSEA8AIcb"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 152626,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yw4C8rft1mCGdTlsrCY4X"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -353,6 +353,26 @@
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
     },
     {
+      "added_at": "2026-03-04 15:51:29",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "JPEG RAW",
@@ -391,26 +411,6 @@
       "duration_ms": 213733,
       "name": "What Good Is My Love?",
       "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
-    },
-    {
-      "added_at": "2026-03-04 15:51:29",
-      "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
-      },
-      "artists": [
-        {
-          "name": "Chris Tapp",
-          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
-        },
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Sweet Southern Sounds",
+        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 301430,
+      "name": "Sweet Southern Sounds",
+      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -605,20 +621,28 @@
       "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-20 04:00:30",
       "album": {
-        "name": "Sweet Southern Sounds",
-        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Hollie Rogers",
+          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "Beth Nielsen Chapman",
+          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
         }
       ],
-      "duration_ms": 301430,
-      "name": "Sweet Southern Sounds",
-      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
+      "duration_ms": 234596,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -729,30 +753,6 @@
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
-      "added_at": "2026-03-20 04:00:30",
-      "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
-      },
-      "artists": [
-        {
-          "name": "Hollie Rogers",
-          "url": "https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp"
-        },
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        },
-        {
-          "name": "Beth Nielsen Chapman",
-          "url": "https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu"
-        }
-      ],
-      "duration_ms": 234596,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Goodbye's Kickin' In",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "The Love Endeavour",
-        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
-      },
-      "artists": [
-        {
-          "name": "PAPA | PEET",
-          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
-        }
-      ],
-      "duration_ms": 275712,
-      "name": "The Love Endeavour",
-      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Blues Worse Than I Ever Had",
         "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 211666,
       "name": "Blues Worse Than I Ever Had",
       "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
-      "added_at": "2026-03-06 05:00:04",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
-      },
-      "artists": [
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
-        }
-      ],
-      "duration_ms": 220775,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
-    },
-    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Crossroads",
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Antique Hearts: Revisited",
-        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
       "artists": [
         {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 219380,
-      "name": "Antique Hearts",
-      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -985,20 +969,36 @@
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-06 05:00:04",
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
         }
       ],
-      "duration_ms": 250765,
-      "name": "Mileage",
-      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+      "duration_ms": 220775,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Antique Hearts: Revisited",
+        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 219380,
+      "name": "Antique Hearts",
+      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 347674,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "What's Not To Love?",
         "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-06 05:00:04",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
       "artists": [
         {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
         }
       ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1321,20 +1321,20 @@
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
     },
     {
-      "added_at": "2026-03-06 05:00:04",
+      "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
       "artists": [
         {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
         }
       ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-02-13 05:00:37",

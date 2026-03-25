@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Lost Pieces",
+        "url": "https://open.spotify.com/album/6se9CvfskawVxCslsdaINh"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233802,
+      "name": "A Map of Pain",
+      "url": "https://open.spotify.com/track/7EVi83wWHOXQ6cTUITpPZD"
+    },
+    {
+      "album": {
         "name": "A Snowy Field",
         "url": "https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 180453,
       "name": "Did you just play some light jazz?",
       "url": "https://open.spotify.com/track/7cuApcXcpQ8xxbZAzCWJt4"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 212000,
       "name": "romanticismo",
       "url": "https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR"
@@ -3755,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Soul To Soul",
+        "url": "https://open.spotify.com/album/47dRkJiLd9DSa9ekATRGfv"
+      },
+      "artists": [
+        {
+          "name": "KIM JU-HWAN",
+          "url": "https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289969,
+      "name": "Soul To Soul",
+      "url": "https://open.spotify.com/track/5WaPMIlMr934RgQ9dv40tT"
+    },
+    {
+      "album": {
         "name": "Space Ladder (Lofi)",
         "url": "https://open.spotify.com/album/2NqyLxvNOCIxDw1jAgoVXQ"
       },
@@ -3936,6 +3972,24 @@
       "duration_ms": 200000,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
+    },
+    {
+      "album": {
+        "name": "Sugar Pie",
+        "url": "https://open.spotify.com/album/1ZMZwAEckQCxawleAmHBNL"
+      },
+      "artists": [
+        {
+          "name": "Haewon Moon",
+          "url": "https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143418,
+      "name": "Sugar Pie",
+      "url": "https://open.spotify.com/track/4sCb4VFZ62Az2O0Jy9ngJn"
     },
     {
       "album": {
@@ -4260,7 +4314,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 217346,
       "name": "The Night View In Seoul (Feat. Ahn Seo Jin) - Big Band ver.",
       "url": "https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul"

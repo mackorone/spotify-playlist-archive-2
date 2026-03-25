@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 55071,
+  "num_followers": 55089,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab8xAAAAAAAx6A6KTJ0u9rVWIjWUYoBK",
+  "snapshot_id": "acCCgAAAAACQ5Q0I2RWN6F7rZS4YFDhy",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 136660,
-      "name": "Vivo Alegre",
-      "url": "https://open.spotify.com/track/7v4DwHg2BsIFM5qoxqv2PF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slapperz",
         "url": "https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 185000,
       "name": "El Mas Buscado",
       "url": "https://open.spotify.com/track/0WfsC4o9f4nYUyeP7hYPuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 136660,
+      "name": "Vivo Alegre",
+      "url": "https://open.spotify.com/track/7v4DwHg2BsIFM5qoxqv2PF"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Que Puedo Puedo",
-        "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 173789,
-      "name": "De Que Puedo Puedo",
-      "url": "https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen Que Soy Belicon",
         "url": "https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 186125,
       "name": "Dicen Que Soy Belicon",
       "url": "https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Que Puedo Puedo",
+        "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 173789,
+      "name": "De Que Puedo Puedo",
+      "url": "https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Mexico Para El Mundo",
-        "url": "https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 148999,
-      "name": "De Mexico Para El Mundo",
-      "url": "https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 217000,
       "name": "El Mando",
       "url": "https://open.spotify.com/track/6Zeams0oSJ5cxadvaXGT1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Mexico Para El Mundo",
+        "url": "https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 148999,
+      "name": "De Mexico Para El Mundo",
+      "url": "https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mando R1",
-        "url": "https://open.spotify.com/album/5LbS8IhEYRbQvA2RLaWZqD"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 206593,
-      "name": "Mando R1",
-      "url": "https://open.spotify.com/track/4Dp4yBwownUl5hKlvOkfoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pluma De Wax",
         "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
       },
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chino Infierno",
-        "url": "https://open.spotify.com/album/6pHHWQ40suS3C5mpEfqMMy"
+        "name": "Mando R1",
+        "url": "https://open.spotify.com/album/5LbS8IhEYRbQvA2RLaWZqD"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 189597,
-      "name": "Chino Infierno",
-      "url": "https://open.spotify.com/track/6lMBbdjLbywu7wVwJuVfB0"
+      "duration_ms": 206593,
+      "name": "Mando R1",
+      "url": "https://open.spotify.com/track/4Dp4yBwownUl5hKlvOkfoI"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chino Infierno",
+        "url": "https://open.spotify.com/album/6pHHWQ40suS3C5mpEfqMMy"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 189597,
+      "name": "Chino Infierno",
+      "url": "https://open.spotify.com/track/6lMBbdjLbywu7wVwJuVfB0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Que Se Anim\u00f3",
-        "url": "https://open.spotify.com/album/2gmbx5bkVJSrpT5jd6QJiv"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 160374,
-      "name": "Al Que Se Anim\u00f3",
-      "url": "https://open.spotify.com/track/02jMRNIJ5emIg43xkKOn5b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -895,22 +879,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerveza Al Aire",
-        "url": "https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ"
+        "name": "Al Que Se Anim\u00f3",
+        "url": "https://open.spotify.com/album/2gmbx5bkVJSrpT5jd6QJiv"
       },
       "artists": [
         {
           "name": "Los Farmerz",
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 231248,
-      "name": "Cerveza Al Aire",
-      "url": "https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO"
+      "duration_ms": 160374,
+      "name": "Al Que Se Anim\u00f3",
+      "url": "https://open.spotify.com/track/02jMRNIJ5emIg43xkKOn5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo a Lo Nuevo",
+        "url": "https://open.spotify.com/album/1uf2UUnk1JURqncmsHvey3"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 139090,
+      "name": "El Soltero",
+      "url": "https://open.spotify.com/track/5Sw1yWgCX5pNmubcZgIUwt"
     }
   ],
   "unique_name": "This Is Los Farmerz",

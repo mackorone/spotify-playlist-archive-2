@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 293 likes - 2,095 songs - 5 day 4 hr 22 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 292 likes - 2,096 songs - 5 day 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2103,5 +2103,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2093 | [No era amor](https://open.spotify.com/track/7tvmnvzxQP2fkP4jIgoSib) | [Music Meets Tourism](https://open.spotify.com/artist/3Z8OU3bxIjEmNkZug9hrto), [DREA ELIS](https://open.spotify.com/artist/4igsB2sYA6iIu8eq4FPDU8) | [No era amor](https://open.spotify.com/album/5H0jzVGhifrWTYgpMY7rnS) | 3:02 |
 | 2094 | [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 |
 | 2095 | [Echoes of the Embers \- Special Version](https://open.spotify.com/track/600D7s8LSYbGvBkNiNq1XN) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Echoes of the Embers \(Special Version\)](https://open.spotify.com/album/2bG2B4aIQuyRfNJyzw1xkW) | 4:13 |
+| 2096 | [Casa de Memorias](https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memorias](https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR) | 4:12 |
 
-Snapshot ID: `AAAIzwE03w4azV5JsWwFWjSmKxOnGjie`
+Snapshot ID: `AAAI0CItRa90l22zdE98q0ZeTMH+z9VM`

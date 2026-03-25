@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,850 songs - 13 day 14 hr 50 min
+5,851 songs - 13 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2586,6 +2586,7 @@
 | [INTOXICATED](https://open.spotify.com/track/75tQhhigB2RmUfn3oPhkOI) | [DosiRo](https://open.spotify.com/artist/78Y3oUHXPqMiKsIB4RgePP) | [INTOXICATED](https://open.spotify.com/album/1pZu75gXgMI4nwbMYoHZoj) | 2:43 | 2024-03-10 | 2024-03-18 |
 | [Intuition](https://open.spotify.com/track/4laRXYXMuAsRmSzFFtSf7n) | [R E L](https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D) | [Intuition](https://open.spotify.com/album/3cB9HMKRix6RXelhkfiLMO) | 3:21 | 2024-02-04 | 2024-02-16 |
 | [Int’l Party](https://open.spotify.com/track/3eFn8wx9I80PliBsZeTt9q) | [Adaorah](https://open.spotify.com/artist/471qbXz9E4x8plVhUAKkmM) | [Int’l Party](https://open.spotify.com/album/3qz5xeWTSEdkBgRMk0Qxvh) | 2:35 | 2026-01-25 | 2026-02-24 |
+| [Invisible](https://open.spotify.com/track/65I9cdqmavC5DNTr4Gf652) | [Charin Mendes](https://open.spotify.com/artist/0oAHxVBwb9WKz52MCCz6YP) | [Invisible](https://open.spotify.com/album/3do9UySkuHrEmk5fPxLL0j) | 3:14 | 2026-03-24 |  |
 | [Iron Man](https://open.spotify.com/track/5bGMedm8ohIGxe8pLRv7E3) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 3:21 | 2019-09-29\* | 2021-11-19 |
 | [Is It Real Now?](https://open.spotify.com/track/42oNE8VxD5XMvp3cBlwe77) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [Who Do You Think You Are?](https://open.spotify.com/album/7j2OkUZ8o7cNg6rTqhBdzp) | 1:38 | 2025-04-09 | 2025-04-20 |
 | [IS IT WORTH IT](https://open.spotify.com/track/7rckmmrLq6kvvkliw7goas) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [CRYBABY](https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y) | 3:40 | 2024-12-21 | 2025-02-09 |

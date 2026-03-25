@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,048 likes - 360 songs - 18 hr 18 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,050 likes - 360 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,7 +235,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 225 | [changes](https://open.spotify.com/track/6Uupikwilql6TppeZPKZql) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida II](https://open.spotify.com/album/653nMZvSNpCmCkjqb5k7tM) | 5:46 |
 | 226 | [Always Hated](https://open.spotify.com/track/4ix39AucihLeMNCe64fR6F) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Always Hated](https://open.spotify.com/album/1UY6s7nnSEBXgyuwRrJOq2) | 2:57 |
 | 227 | [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 |
-| 228 | [MONSTER](https://open.spotify.com/track/3hNR5SxXH0UYEwWSOpJMcB) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [MONSTER](https://open.spotify.com/album/6QRvEFKB3oihHwzaeUxmVK) | 3:45 |
+| 228 | [MONSTER \- Single Version](https://open.spotify.com/track/3hNR5SxXH0UYEwWSOpJMcB) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [MONSTER](https://open.spotify.com/album/6QRvEFKB3oihHwzaeUxmVK) | 3:45 |
 | 229 | [Outside](https://open.spotify.com/track/0NZYY7pVDk67cx23sqLgjh) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Ghosts](https://open.spotify.com/album/2RpPntOn2UMMuMeJDJESpt) | 1:56 |
 | 230 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 |
 | 231 | [how it feels to fly](https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP) | [Sarajevo Noise Beat](https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf), [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [how it feels to fly](https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD) | 4:29 |

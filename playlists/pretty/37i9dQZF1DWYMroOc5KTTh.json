@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 735618,
+  "num_followers": 735682,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-23 00:00:42",
       "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
-    },
-    {
-      "added_at": "2026-01-23 00:00:42",
-      "album": {
         "name": "That's a Vibe",
         "url": "https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 272681,
       "name": "Are U Still Smiling?",
       "url": "https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR"
+    },
+    {
+      "added_at": "2026-01-23 00:00:42",
+      "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "added_at": "2026-01-23 00:00:42",

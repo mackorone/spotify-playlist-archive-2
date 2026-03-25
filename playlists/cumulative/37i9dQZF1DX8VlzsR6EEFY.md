@@ -2,9 +2,9 @@
 
 ### [La Miscelánea](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Guardianes Del Amor De Arturo Rodriguez y Los Askis en portada 🌹
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Vivian Baeza y María León en portada 🌹
 
-411 songs - 21 hr 20 min
+412 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 | 2026-02-06 |  |
 | [Sin Restricciones](https://open.spotify.com/track/55dxdLpehKWzWsxPwLkoBk) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Sin Restricciones](https://open.spotify.com/album/3f1u3CVH8GISuEK8becTRD) | 2:36 | 2024-04-19 | 2024-07-13 |
 | [Solitos](https://open.spotify.com/track/69xdXyltln7iQExXgY9Xtw) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 2:51 | 2024-08-02 | 2024-10-05 |
-| [SOLO](https://open.spotify.com/track/0WJabBXclWUKZS16P4ktPL) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Secretos En Mi Cuarto Vol\. 1](https://open.spotify.com/album/1sjJNDy5XIRtqt4eWfMS0j) | 2:07 | 2026-02-06 |  |
+| [SOLO](https://open.spotify.com/track/0WJabBXclWUKZS16P4ktPL) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Secretos En Mi Cuarto Vol\. 1](https://open.spotify.com/album/1sjJNDy5XIRtqt4eWfMS0j) | 2:07 | 2026-02-06 | 2026-03-25 |
 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 | 2024-03-08 | 2024-04-19 |
 | [Son Cosas De La Peda](https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Son Cosas De La Peda](https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE) | 2:35 | 2024-03-08 | 2024-04-19 |
 | [Soy Como Quiero Ser](https://open.spotify.com/track/5fj9XNJjscbBoZUkJOKDYu) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser](https://open.spotify.com/album/3rmJcsxTIFLu4AzQu3QuZK) | 2:35 | 2024-03-08 | 2024-05-25 |
@@ -412,9 +412,10 @@
 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 | 2024-03-08 | 2024-04-27 |
 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 | 2024-03-08 | 2024-07-13 |
 | [Zona De Amigos](https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Zona De Amigos](https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD) | 2:54 | 2024-09-20 | 2025-11-15 |
+| [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 | 2026-03-24 |  |
 | [¿Así o Más?](https://open.spotify.com/track/0DnnpeEsFgvuhXNLyHgxkn) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [¿Así o Más?](https://open.spotify.com/album/3DQWLHvgCZSYUiI91OrLH2) | 3:19 | 2025-05-23 |  |
 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 | 2024-04-19 | 2024-07-19 |
-| [¿Dónde está el amor?](https://open.spotify.com/track/22CAr0LBSNTxbL2UYgbuZy) | [Sultán](https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [¿Dónde está el amor?](https://open.spotify.com/album/3ktlLcTS7iZRy5hKyvRVVl) | 3:14 | 2025-10-24 |  |
+| [¿Dónde está el amor?](https://open.spotify.com/track/22CAr0LBSNTxbL2UYgbuZy) | [Sultán](https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [¿Dónde está el amor?](https://open.spotify.com/album/3ktlLcTS7iZRy5hKyvRVVl) | 3:14 | 2025-10-24 | 2026-03-25 |
 | [¿Qué Fuimos?](https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Qué Fuimos?](https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC) | 3:30 | 2024-03-08 | 2024-08-03 |
 | [¿Qué Puedes Perder? \(En Vivo\)](https://open.spotify.com/track/4XC08iW7MDM7zEyctHTWSM) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Haciendo Caminito \(En Vivo\)](https://open.spotify.com/album/3Ne5dpgjKBICSbDHyUnEb9) | 2:58 | 2024-12-20 | 2025-11-15 |
 | [¿Qué Se Siente?](https://open.spotify.com/track/4160uHuO33PVowET0ZZfON) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Qué Se Siente?](https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9) | 2:56 | 2024-03-08 | 2024-11-16 |

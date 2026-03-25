@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Anemoia Vol.2",
+        "url": "https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175904,
+      "name": "Dumb Girls",
+      "url": "https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB"
+    },
+    {
+      "album": {
         "name": "Endless and Free",
         "url": "https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx"
       },

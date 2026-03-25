@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: S.O.N Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,842 likes - 109 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,851 likes - 109 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 89 | [Baba/you make me wonder/Somebody say baba \- Medley](https://open.spotify.com/track/5FcbPL756b2dcFx4je23yt) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Baba/you make me wonder/Somebody say baba \(Medley\)](https://open.spotify.com/album/1pPixdneRSUufeEM1D00JQ) | 7:58 |
 | 90 | [Hold On](https://open.spotify.com/track/1YQaqPM7tiqSmg4l1kseWq) | [SEHVEN](https://open.spotify.com/artist/7pQMML3OL5q2YakI4KtsqM), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Hold On](https://open.spotify.com/album/0pZppuP12YL9jShVhp0zz5) | 3:04 |
 | 91 | [Sing for You](https://open.spotify.com/track/1IjWj9IbynPzjM1hRVIFR1) | [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Yusuf Fist](https://open.spotify.com/artist/39r5htdRsiGJajqY6je43G) | [Sing for You](https://open.spotify.com/album/02QrOO2oBCabBWzD2lb1cs) | 2:57 |
-| 92 | [Pharaoh](https://open.spotify.com/track/5LaMgVNwe9RlaoplkbdSFS) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Elijah The Worshipper](https://open.spotify.com/artist/32FEyq30dc3OWCsyJEePkN) | [Pharaoh](https://open.spotify.com/album/0feSZCdHVTIuy4vIvKJqe0) | 3:21 |
+| 92 | [Pharaoh](https://open.spotify.com/track/5LaMgVNwe9RlaoplkbdSFS) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [ELIJAH THE WORSHIPER](https://open.spotify.com/artist/5cPShzpsGw6TGDnIfg66lR) | [Pharaoh](https://open.spotify.com/album/0feSZCdHVTIuy4vIvKJqe0) | 3:21 |
 | 93 | [the sound of being okay](https://open.spotify.com/track/3SwukFJJk27HmmDnhaBImE) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ) | [the sound of being okay](https://open.spotify.com/album/5bmY6uvR88LXQUldxjMwPt) | 3:17 |
 | 94 | [Water](https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Water](https://open.spotify.com/album/6AWWQnjfpWdbCTbS0N76T3) | 2:54 |
 | 95 | [Goodness and Mercy \- Rap Version](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 |

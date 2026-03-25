@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 235008,
       "name": "Bygones at night",
       "url": "https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 186697,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
@@ -558,6 +558,24 @@
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
+    },
+    {
+      "album": {
+        "name": "COLORING",
+        "url": "https://open.spotify.com/album/3Ouw5zc6rnkhYWfK8q8iXo"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "COLORING",
+      "url": "https://open.spotify.com/track/5HxhCvXhUkMWobnWvkJRSd"
     },
     {
       "album": {
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 221613,
       "name": "Night thinking 'bout you",
       "url": "https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs"
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 183645,
       "name": "Spring illusion",
       "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
@@ -2861,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Spring, day",
+        "url": "https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254100,
+      "name": "Spring, day",
+      "url": "https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8"
+    },
+    {
+      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -3036,6 +3072,24 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "album": {
+        "name": "LOWKEY US Vol.1",
+        "url": "https://open.spotify.com/album/3K92gTppnPdQgUsbDk74E2"
+      },
+      "artists": [
+        {
+          "name": "HYOJIN",
+          "url": "https://open.spotify.com/artist/2ZSycsw08uAqPhM7j37Slg"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Teddy Bear Love",
+      "url": "https://open.spotify.com/track/65s4h7veO1bPWin92rx7xU"
     },
     {
       "album": {
@@ -3472,6 +3526,24 @@
       "duration_ms": 192000,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/6stuM0FwGSHB2sDpVJBQuT"
+    },
+    {
+      "album": {
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/5qOhC1bkR3CdCFQytnGsOx"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187501,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Whitehorse
 
-689 songs - 1 day 17 hr 44 min
+690 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 | 2023-08-05 |
 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-29 | 2024-04-19 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 | 2024-07-23 |
+| [I wish I was a mole in the ground](https://open.spotify.com/track/5gBuoiTMZu7VfKh00hsiV8) | [Zachary Lucky](https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E) | [The Lost River Sessions](https://open.spotify.com/album/5DeBqJ0io8B4LByrvoK6z5) | 3:05 | 2026-02-27 |  |
 | [I Would Be Me](https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light of Day](https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC) | 3:27 | 2023-01-27 | 2023-03-11 |
 | [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 | 2022-05-13 | 2023-02-01 |
 | [I'll Find A Way \(To Carry It All\)](https://open.spotify.com/track/4WP2lTksH5pxmm8uPqpG3d) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [I'll Find A Way \(To Carry It All\)](https://open.spotify.com/album/4wSsREguKiYzErGexb5NBz) | 4:21 | 2024-05-03 | 2024-06-08 |
@@ -455,7 +456,7 @@
 | [Not Unlike A Rock](https://open.spotify.com/track/2yoFY6f2XAA9IWYbbtJxsL) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/09EwURVtWWshH7WEMFeUUa) | 4:53 | 2022-10-28 | 2023-04-22 |
 | [Not Unlike A Rock](https://open.spotify.com/track/3aWIfiGuUjvgqtnS6899s6) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/7DxWJ7orr7mrjcOEelvNGD) | 4:53 | 2022-05-13 | 2022-11-09 |
 | [Notawe \(Father\)](https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Notawe \(Father\)](https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f) | 3:56 | 2023-08-18 | 2023-08-31 |
-| [Nothing To Do](https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Nothing To Do](https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50) | 4:14 | 2025-10-24 |  |
+| [Nothing To Do](https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Nothing To Do](https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50) | 4:14 | 2025-10-24 | 2026-03-25 |
 | [Now](https://open.spotify.com/track/1eLu0QKysJo90dmaI5KV17) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 3:26 | 2022-05-13 | 2022-07-30 |
 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 | 2025-07-26 |
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-05-13 | 2022-11-12 |

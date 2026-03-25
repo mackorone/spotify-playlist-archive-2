@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,259 likes - 17 songs - 1 hr 13 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,261 likes - 20 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
 | 16 | [Meaning Business](https://open.spotify.com/track/2NlsCmQjDF6MtFdcXOQZE2) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Meaning Business](https://open.spotify.com/album/73gasAEPo2MCGHHIZNj9oN) | 4:18 |
 | 17 | [Radio Love](https://open.spotify.com/track/0Wjlg4pMxRFOLDkg4Ci2XI) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [The Sun Shines Here: The Roots Of Indie\-Pop 1980\-1984](https://open.spotify.com/album/7G4CGjxbKfdmUyNTxyle96) | 4:06 |
+| 18 | [Distant Ships](https://open.spotify.com/track/7IhwT37vQe9IsXv51h9V7x) | [Rose Melberg](https://open.spotify.com/artist/3UArwiOs2JWYZ9oNxfTUBM) | [Distant Ships](https://open.spotify.com/album/5wWKCNj3559eqDbykB93CL) | 2:04 |
+| 19 | [Mother Of Pearl](https://open.spotify.com/track/3UYbX558Zg0bte6PlOWw3v) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [The Museum Of Imaginary Animals](https://open.spotify.com/album/39KtuXAPlbb1O88ozEyTZS) | 5:09 |
+| 20 | [Push Ups](https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh) | [Natasha Sandworms](https://open.spotify.com/artist/4CCbEgPF1jwGjIyTGNP2ba) | [No Magic](https://open.spotify.com/album/1AUJCbAlbRugB3hAo5fzHt) | 5:12 |
 
-Snapshot ID: `AAAOCSPD0uvahxu5Bo8AlBa/lMe9KOpr`
+Snapshot ID: `AAAODE2YodAqanVpJphsBWqeTyvGCIEo`

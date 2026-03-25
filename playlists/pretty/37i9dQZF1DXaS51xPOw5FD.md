@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,725 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,748 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 62 | [Back To Back \(B2B\)](https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Back To Back \(B2B\)](https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s) | 2:55 |
 | 63 | [Differently \(Feat\. MIST\)](https://open.spotify.com/track/6E2mwRT1vHBmvd4XTmbF8h) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Differently \(Feat\. MIST\)](https://open.spotify.com/album/0nL1RvbwfO0PP5LGyoTR1s) | 2:28 |
 | 64 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
-| 65 | [Power](https://open.spotify.com/track/2tO19fnOEkxZYSAeez4nSY) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Power](https://open.spotify.com/album/2HX3wYrMqUacbssXHi5G47) | 3:28 |
-| 66 | [Makes Me Feel Alive](https://open.spotify.com/track/14w8W3LfenVfz7CaEzaGY8) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Makes Me Feel Alive](https://open.spotify.com/album/6YSf2vzReWTwWRqIyVE4G2) | 3:29 |
+| 65 | [Makes Me Feel Alive](https://open.spotify.com/track/14w8W3LfenVfz7CaEzaGY8) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Makes Me Feel Alive](https://open.spotify.com/album/6YSf2vzReWTwWRqIyVE4G2) | 3:29 |
+| 66 | [Power](https://open.spotify.com/track/2tO19fnOEkxZYSAeez4nSY) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Power](https://open.spotify.com/album/2HX3wYrMqUacbssXHi5G47) | 3:28 |
 | 67 | [Where You Are](https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Where You Are](https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu) | 3:24 |
 | 68 | [Echoes](https://open.spotify.com/track/095kxoz2yvKE4ReO9Ca8yJ) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Echoes](https://open.spotify.com/album/5j1CUdzGgCgKDt8Towax9f) | 3:20 |
 | 69 | [Sinner](https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Sinner](https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW) | 2:37 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 96 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design Soundtape](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 |
 | 97 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
 | 98 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
-| 99 | [Cold](https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Cold](https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV) | 2:25 |
+| 99 | [Stronger](https://open.spotify.com/track/6s1VtDd5JdK489f7bNNpIm) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Stronger](https://open.spotify.com/album/49xZUoFrCqdqxN9STJWYbl) | 4:25 |
 
 Snapshot ID: `AAAAAFAS7E0qei4JbI6vZGSiN3Cl8lGC`

@@ -2951,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "AFTER CRY",
+        "url": "https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200089,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
+    },
+    {
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 246000,
       "name": "Blue Whale",
       "url": "https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0"
@@ -4719,7 +4737,7 @@
     },
     {
       "album": {
-        "name": "Chance",
+        "name": "Chance ~ \u597d\u304d\u3060\u3063\u3066\u3044\u3046\u524d\u306b ~",
         "url": "https://open.spotify.com/album/6jNQ5W9wj5qPZjXKUzFa9T"
       },
       "artists": [
@@ -4732,7 +4750,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223904,
-      "name": "Chance",
+      "name": "Chance ~ \u597d\u304d\u3060\u3063\u3066\u3044\u3046\u524d\u306b ~",
       "url": "https://open.spotify.com/track/0QqW5kG5GgHiu6E62k55rt"
     },
     {
@@ -7460,7 +7478,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 224000,
       "name": "DOREMI",
       "url": "https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8"
@@ -12825,6 +12843,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny"
+    },
+    {
+      "album": {
         "name": "GOLDEN HOUR : Part.2",
         "url": "https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z"
       },
@@ -17152,6 +17188,24 @@
       "duration_ms": 133904,
       "name": "MotoSpeed 24",
       "url": "https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97"
+    },
+    {
+      "album": {
+        "name": "MOVEURBODY",
+        "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136817,
+      "name": "MOVEURBODY",
+      "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
       "album": {
@@ -22572,7 +22626,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 184477,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/3bLIGrwGTdupBvjcujZEmc"

@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 155146,
       "name": "Amiya",
       "url": "https://open.spotify.com/track/3lsozc7nWJJBDvqprtzwV7"
@@ -240,6 +240,24 @@
       "duration_ms": 101866,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7o7eNpioa3v4pPszRgZvqg"
+    },
+    {
+      "album": {
+        "name": "Arknights: Rise from Ember (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/45dQGtZR13oQg9dZd5Jq41"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "Black Snake",
+      "url": "https://open.spotify.com/track/3YrNBaqexhT70IYU4EczD8"
     },
     {
       "album": {

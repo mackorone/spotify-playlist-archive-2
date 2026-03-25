@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,015 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,020 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 | 49 | [Malá dáma](https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4) | [Kabát](https://open.spotify.com/artist/2f1Czzz5n4BX80U6cksGr9) | [Corrida](https://open.spotify.com/album/5saPJqUMK2xlnsPX1xZBKO) | 3:23 |
 | 50 | [SI JE\*LA](https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [SI JE\*LA](https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq) | 3:27 |
 
-Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVX3GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

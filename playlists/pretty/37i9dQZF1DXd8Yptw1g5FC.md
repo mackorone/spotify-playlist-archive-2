@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aysel Yakupoğlu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,374 likes - 129 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,377 likes - 129 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 61 | [if i'm lucky](https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 2:57 |
 | 62 | [Kötü Dünya](https://open.spotify.com/track/2UaYM5uJGZYpmxzcLyIQ4l) | [yiitsama](https://open.spotify.com/artist/0qsr4UwK6fYhXzCs4uOwRL), [Batın](https://open.spotify.com/artist/58C6z59UGjOZQqAKhz9dGt) | [Kötü Dünya](https://open.spotify.com/album/21GLr4Ungx0KWAyNzhTp3q) | 4:24 |
 | 63 | [Take My Heart](https://open.spotify.com/track/5oUHwkNMDE1KnJScpzihsT) | [Luminoise](https://open.spotify.com/artist/5yZKxu7aNynfQxaCYYEl7j), [MUSHROOMZ](https://open.spotify.com/artist/4QxP4u9hclfweHXBHZCDzV) | [Take My Heart](https://open.spotify.com/album/60AAdosiGpoqC70jwI3ExR) | 2:45 |
-| 64 | [Vasiyet](https://open.spotify.com/track/1eQrmUVxrz7Q8QCGUsspG8) | [wayb](https://open.spotify.com/artist/29gpTAlwRTTA0LPefQr22Y), [El Cano](https://open.spotify.com/artist/1kKgRlk5xrks4uRvmN2usH) | [Vasiyet](https://open.spotify.com/album/0AthbaFEox2gyTDQMFf4yW) | 2:37 |
-| 65 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/14hIlItle6OLmO3HdTyxIp) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
+| 64 | [Vasiyet](https://open.spotify.com/track/1eQrmUVxrz7Q8QCGUsspG8) | [wayb](https://open.spotify.com/artist/29gpTAlwRTTA0LPefQr22Y), [ELCANO](https://open.spotify.com/artist/1FCshPzkq4n4J1N6pJvBDo) | [Vasiyet](https://open.spotify.com/album/0AthbaFEox2gyTDQMFf4yW) | 2:37 |
+| 65 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/057ReRdRcnTRIYOYOHM3ns) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
 | 66 | [Maye](https://open.spotify.com/track/4FhylFpQxfnbrkkJUWZWLT) | [Kaan Çelik](https://open.spotify.com/artist/2heQOzLUmQAIkn11BeThGA), [Mert Erkan](https://open.spotify.com/artist/3aRIQ7ZH2Z4p5GO2IImSfn), [HMWL](https://open.spotify.com/artist/6CVwhNoDmLG9vhfCAJSzmV) | [Maye](https://open.spotify.com/album/2v0efthPSyhOnjaDD5z5LT) | 3:32 |
 | 67 | [BU GECE](https://open.spotify.com/track/6cY5tUZNH5wio9I20tguBT) | [Lixtery](https://open.spotify.com/artist/0kfmxor2hjSfnCncP5onUf), [Elodine](https://open.spotify.com/artist/5Hei2h8LxiU3ZYqzaurg5O) | [BU GECE](https://open.spotify.com/album/4rv546cLSi72MYZvyWuerF) | 2:42 |
-| 68 | [Sokak Zor](https://open.spotify.com/track/5HiJTIevJhEYHDYL9rpWEz) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ), [Armo](https://open.spotify.com/artist/1RqYZ6C4v8nDzKInNX3bqS) | [Sokak Zor](https://open.spotify.com/album/1XGgNzknqYEsDDwJuZBByv) | 2:09 |
+| 68 | [Sokak Zor](https://open.spotify.com/track/5HiJTIevJhEYHDYL9rpWEz) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [Sokak Zor](https://open.spotify.com/album/1XGgNzknqYEsDDwJuZBByv) | 2:09 |
 | 69 | [DRAMA](https://open.spotify.com/track/53VeSO65i2oriD1V4g074j) | [İsmail Kaksal](https://open.spotify.com/artist/4MXCYuRQoxheUGWw5K0GbU) | [DRAMA](https://open.spotify.com/album/1ZQHnnUUpmfHnFZZWNvKn1) | 1:36 |
 | 70 | [SIZDEN BIRI DEGILIM](https://open.spotify.com/track/325R6K9QSaQytSy45m22S7) | [Rabona](https://open.spotify.com/artist/1mwuHzE5NvoLLinPmLpOau) | [SIZDEN BIRI DEGILIM](https://open.spotify.com/album/7sfWnk6mdMoxJuOwZ8aoS4) | 2:28 |
 | 71 | [Pula Dönersin](https://open.spotify.com/track/6l61busWvnSMEV0EqXtRQ5) | [Hülya Evrensel](https://open.spotify.com/artist/6JVkiXE4QmX20m9tWsuicT) | [Pula Dönersin](https://open.spotify.com/album/3Rc6wHbHaKWfsXXx0XCRKe) | 4:55 |

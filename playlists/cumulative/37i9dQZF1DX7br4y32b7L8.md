@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist
 
-865 songs - 1 day 19 hr 26 min
+866 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-03-09 |  |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-02-23 | 2023-04-12 |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-11-27 | 2025-03-28 |
-| [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 | 2026-02-12 |  |
+| [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 | 2026-02-12 | 2026-03-25 |
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-08-11 | 2023-12-30 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-02-23 | 2023-03-08 |
 | [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer and the Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2025-11-19 | 2025-12-02 |
@@ -379,6 +379,7 @@
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 | 2023-10-03 |
 | [J'me tire](https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 4:09 | 2024-11-11 | 2025-10-02 |
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-05-01 | 2024-09-12 |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 | 2026-03-24 |  |
 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 | 2025-04-16 | 2025-05-08 |
 | [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 | 2024-02-12 | 2024-05-07 |
 | [Je Moeder Heet Henk](https://open.spotify.com/track/4Ad0exLo9eeBUa380xCUsc) | [Jan Henk](https://open.spotify.com/artist/0OaG9oBiozKOxBICtrwZ1i) | [Je Moeder Heet Henk](https://open.spotify.com/album/2XSzITGoBapz1wiX3lbQmq) | 1:23 | 2023-08-31 | 2023-09-08 |

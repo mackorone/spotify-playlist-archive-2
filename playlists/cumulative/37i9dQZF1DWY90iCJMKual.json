@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "GET 2 KNOW U",
+        "url": "https://open.spotify.com/album/0TUHdnP6Cc0CM0P3mYTMus"
+      },
+      "artists": [
+        {
+          "name": "Darren Cashwell",
+          "url": "https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6"
+        },
+        {
+          "name": "dree",
+          "url": "https://open.spotify.com/artist/5ikU74erwupGYJpTmzIVoD"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "GET 2 KNOW U",
+      "url": "https://open.spotify.com/track/1L9hGUkEa141Z76qe4kdEl"
+    },
+    {
+      "album": {
         "name": "Get Dat",
         "url": "https://open.spotify.com/album/1bsM1bf9DHxnFrnHO7tkun"
       },
@@ -5181,6 +5203,28 @@
     },
     {
       "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/7kBweeovFGldh5ORLMdXE7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Domingo",
+          "url": "https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR"
+        },
+        {
+          "name": "pastels",
+          "url": "https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189530,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA"
+    },
+    {
+      "album": {
         "name": "Magdamag",
         "url": "https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh"
       },
@@ -5492,7 +5536,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
@@ -6642,7 +6686,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 196750,
       "name": "Para Pilitin Ka",
       "url": "https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct"
@@ -6838,6 +6882,24 @@
       "duration_ms": 215212,
       "name": "Phases",
       "url": "https://open.spotify.com/track/0m1FSRVrQ4LEqFGicqjcDt"
+    },
+    {
+      "album": {
+        "name": "Pilit Pinili",
+        "url": "https://open.spotify.com/album/1wrSjJ6cWnolOVptINC7As"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Drilon",
+          "url": "https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130064,
+      "name": "Pilit Pinili",
+      "url": "https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ"
     },
     {
       "album": {
@@ -9328,7 +9390,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 169565,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Artie 5ive in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,242 likes - 113 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,270 likes - 113 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 15 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
 | 16 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 |
 | 17 | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Pura Purissima \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR) | 2:33 |
-| 18 | [CC2](https://open.spotify.com/track/4loQOD27AMf1xHT7YEG1kZ) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [CRACK MUSICA II](https://open.spotify.com/album/2F2oWAicT6LTTTa7QbvWU6) | 2:21 |
+| 18 | [CC2 \(feat\. Pyrex\)](https://open.spotify.com/track/4loQOD27AMf1xHT7YEG1kZ) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [CRACK MUSICA II](https://open.spotify.com/album/2F2oWAicT6LTTTa7QbvWU6) | 2:21 |
 | 19 | [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:15 |
 | 20 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 |
 | 21 | [RATATA](https://open.spotify.com/track/3QjM7blH1a157YfP8G33TA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20 \(Deluxe Edition\)](https://open.spotify.com/album/5k3P92L8FfhP1n8ye6FotE) | 3:34 |

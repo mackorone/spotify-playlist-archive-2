@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 331305,
       "name": "Cloudweaver",
       "url": "https://open.spotify.com/track/7zSq8v0bPBtcCgmYkgX8fo"
@@ -2280,10 +2280,28 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+    },
+    {
+      "album": {
+        "name": "Keep Me Out",
+        "url": "https://open.spotify.com/album/3fPkf382XAFK2ppa80ymkx"
+      },
+      "artists": [
+        {
+          "name": "DLEMMA",
+          "url": "https://open.spotify.com/artist/2jlo3qJEA9g8qcYwX3qpbp"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194712,
+      "name": "Dog In A Nightgown",
+      "url": "https://open.spotify.com/track/5DLCfuaYFa7aKQkmydQgjN"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 282551,
       "name": "For Now (feat. Emily Gray)",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -3402,7 +3420,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -4371,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Juicy Lucy",
+        "url": "https://open.spotify.com/album/6ZW8pfYxw6kkqcSQQtQqFA"
+      },
+      "artists": [
+        {
+          "name": "Rumours in Gold",
+          "url": "https://open.spotify.com/artist/2wToOP5NJLDprHF611hGUe"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230952,
+      "name": "Juicy Lucy",
+      "url": "https://open.spotify.com/track/2p3uS5Tx2LcCYHXX3WT4Kh"
+    },
+    {
+      "album": {
         "name": "The Monsters Within",
         "url": "https://open.spotify.com/album/2hNTQFQlMU7f5AYny2KIvU"
       },
@@ -4628,6 +4664,24 @@
       "duration_ms": 278122,
       "name": "Land of Confusion",
       "url": "https://open.spotify.com/track/2x45NimJc5F5W1BnkobHLb"
+    },
+    {
+      "album": {
+        "name": "Last Life",
+        "url": "https://open.spotify.com/album/06IIKH3uGLKgI6siCkfKwZ"
+      },
+      "artists": [
+        {
+          "name": "Thea May",
+          "url": "https://open.spotify.com/artist/6xLGFcntYI6WZdy54Qd7Ar"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Last Life",
+      "url": "https://open.spotify.com/track/7tXv1zympQDmUL8eDqfvTn"
     },
     {
       "album": {
@@ -4960,7 +5014,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 167000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/77xe4sZAX1YmDREwxDfpcI"
@@ -5270,7 +5324,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5454,7 +5508,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -5588,6 +5642,36 @@
       "duration_ms": 230975,
       "name": "never enough",
       "url": "https://open.spotify.com/track/3xOGzJzfPKYLVSk1MF9Zrl"
+    },
+    {
+      "album": {
+        "name": "NEVER SAY NEVER",
+        "url": "https://open.spotify.com/album/5dIDi8NI3XifptBiHCx0wT"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        },
+        {
+          "name": "Diane Sagnier",
+          "url": "https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay"
+        },
+        {
+          "name": "Rocket Mike",
+          "url": "https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU"
+        },
+        {
+          "name": "Leo Hellden",
+          "url": "https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100466,
+      "name": "NEVER SAY NEVER",
+      "url": "https://open.spotify.com/track/6XPcu70sHifvKuJn3REepm"
     },
     {
       "album": {
@@ -6082,7 +6166,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -6520,7 +6604,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 181202,
       "name": "Run",
       "url": "https://open.spotify.com/track/2urgbOQnor6omGLg1h0P8G"
@@ -6639,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Sanguine",
+        "url": "https://open.spotify.com/album/2kvEsq57qMyuZVfpp6ldGb"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sanguine",
+      "url": "https://open.spotify.com/track/7rARuszC0Pa239vUm2JZoV"
+    },
+    {
+      "album": {
         "name": "Sapphic Lipstain",
         "url": "https://open.spotify.com/album/6ZGoYMO1jQWbDjWAR4hJqm"
       },
@@ -6668,7 +6770,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -6686,7 +6788,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -6740,7 +6842,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/2fvKCHlsP7AboO4HMRrub3"
@@ -8410,7 +8512,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -8728,7 +8830,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 234717,
       "name": "To Nothing",
       "url": "https://open.spotify.com/track/7DfKjEwt7CIiiDPBO0JmBX"
@@ -8764,7 +8866,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -9074,7 +9176,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"

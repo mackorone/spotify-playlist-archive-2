@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+    },
+    {
+      "album": {
         "name": "Camino al \u00c9xito",
         "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 231393,
       "name": "Matalas",
       "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"

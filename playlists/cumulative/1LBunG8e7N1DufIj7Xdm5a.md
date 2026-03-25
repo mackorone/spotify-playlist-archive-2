@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,180 songs - 9 day 6 hr 34 min
+4,183 songs - 9 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1436,6 +1436,7 @@
 | [four](https://open.spotify.com/track/73rMth2QZrsngyNdLFxAVJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 5:13 | 2025-08-20 |  |
 | [fourteen](https://open.spotify.com/track/5JHVQXie9is8g4AiiCkjwI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:33 | 2025-08-20 |  |
 | [Fra](https://open.spotify.com/track/1PbjACsnYy58cp8z4jZtC0) | [Lozì](https://open.spotify.com/artist/0q3SPGeBvqr3ZXhficzgJu) | [Fra](https://open.spotify.com/album/7xO5fVKW1BHsbMoqQblFXu) | 3:43 | 2025-06-01 |  |
+| [Fracture](https://open.spotify.com/track/3q2onxJCnxGLvT4ts5vSH9) | [Rochelle Belle](https://open.spotify.com/artist/25mq1k9LZ2ziRtCy1mBVWS) | [Fracture](https://open.spotify.com/album/5DkG7qRMPB0b9QCPuqXWPy) | 5:11 | 2026-03-24 |  |
 | [Fractured Anthem](https://open.spotify.com/track/6Cul35RsLPHk8G3bBiWOZH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:49 | 2025-09-17 |  |
 | [Fractured Anthem \(another\)](https://open.spotify.com/track/0lj6lR6XoaK27OU8PJ9yDN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:44 | 2025-09-17 |  |
 | [Fractured Fists](https://open.spotify.com/track/1iGKz3HJUH5XA41XzbVl5Z) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 3:24 | 2025-09-17 |  |
@@ -2769,6 +2770,7 @@
 | [Peppermint Dreams \(another\)](https://open.spotify.com/track/0HdJNoZjrPK5FfpNXu2Ahi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 4:00 | 2025-09-17 |  |
 | [Per Amor Della Musica](https://open.spotify.com/track/1mo4kgONl8VYwV1L5GOvBS) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 4:12 | 2025-06-15 |  |
 | [PER SEMPRE DENTRO ME](https://open.spotify.com/track/6zfKkbBZ1YJEvXnSA53f3p) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [PER SEMPRE DENTRO ME](https://open.spotify.com/album/0v4QFtsY1j2w1fxctUCEpl) | 3:27 | 2025-05-27 |  |
+| [Perfect Husband](https://open.spotify.com/track/5ZgTgzeEKjUaaXHXjGfAVf) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Perfect Husband](https://open.spotify.com/album/0KJaZTaZA8YaSPFI0FSKpY) | 3:23 | 2026-03-24 |  |
 | [Perfect score](https://open.spotify.com/track/0jgQU8xlIESx3GZn0qlldW) | [Cess](https://open.spotify.com/artist/19eEmlPdBf0H2B2IrnRK2Y) | [Perfect score](https://open.spotify.com/album/4twebpmlfFjkSrSR9EqUln) | 2:20 | 2025-12-04 |  |
 | [Peri](https://open.spotify.com/track/3k1pgfxcmHrZSE7VXnN8Av) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:34 | 2025-09-22 |  |
 | [Pericolo giallo](https://open.spotify.com/track/2HvyzMmiFEvjmQyyfkLeYx) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [Pericolo giallo](https://open.spotify.com/album/0NTgMryPXL9i5HOTRhACv7) | 2:55 | 2025-11-12 |  |
@@ -2892,6 +2894,7 @@
 | [Ragni \- Versione Rock \- Sessione Intima](https://open.spotify.com/track/5BW9jqpWIEdON36ymFvJgh) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 3:32 | 2025-04-04 |  |
 | [Raindrops on Tape](https://open.spotify.com/track/2jc8EmYCCOTk1323zAV7ZE) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Raindrops on Tape](https://open.spotify.com/album/54b8ervzuPB07kVJqEv3HA) | 1:50 | 2025-06-05 |  |
 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 | 2025-12-10 |  |
+| [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2026-03-24 |  |
 | [Rapiscimi](https://open.spotify.com/track/5ovAb0FfxXhehuCrXMjPo9) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Rapiscimi](https://open.spotify.com/album/6FEZc9L6giUwfX3KePRYd9) | 3:03 | 2025-06-06 |  |
 | [Ratio](https://open.spotify.com/track/4MbDluyiFkfSXG8Rb5Whlh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:14 | 2025-09-17 |  |
 | [Rattlesnake](https://open.spotify.com/track/5l7dS18SkGuzYTfHmPMMI8) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Rattlesnake](https://open.spotify.com/album/7FKvWEwg3s5sbDbV4o5fgo) | 3:07 | 2025-06-10 |  |

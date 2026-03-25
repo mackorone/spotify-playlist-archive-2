@@ -8474,6 +8474,24 @@
     {
       "album": {
         "name": "Cry",
+        "url": "https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-09",
+      "duration_ms": 195848,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
+    },
+    {
+      "album": {
+        "name": "Cry (feat. Kenny G)",
         "url": "https://open.spotify.com/album/2AGIiRCZ9q5cYOfQ8LmU3B"
       },
       "artists": [
@@ -8490,26 +8508,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187240,
-      "name": "Cry",
+      "name": "Cry (feat. Kenny G)",
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
-    },
-    {
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa"
-      },
-      "artists": [
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
-      "duration_ms": 195848,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 695 songs - 1 day 21 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 695 songs - 1 day 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -699,9 +699,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 689 | [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 |
 | 690 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
 | 691 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |
-| 692 | [TEJI](https://open.spotify.com/track/4zRuUgwyR9r3p1Wc7ZMtde) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/3kcLseJNFGfubBeDxpG66V) | 2:34 |
-| 693 | [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 |
-| 694 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
-| 695 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
+| 692 | [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 |
+| 693 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
+| 694 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
+| 695 | [Traffick](https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [RASLA](https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd) | [Drive\-in Cinema 2.1](https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM) | 0:47 |
 
-Snapshot ID: `AAAIziGrG0ytLQgnVd7RxCvI8Z2VISjs`
+Snapshot ID: `AAAI0sFUFW43B2oa1mr0QimynDAzE954`

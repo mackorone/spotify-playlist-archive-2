@@ -4987,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s del Show",
+        "url": "https://open.spotify.com/album/52tCGnjcDVvOQjWZQWCWhx"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Despu\u00e9s del Show",
+      "url": "https://open.spotify.com/track/0Ry3P1f5h0B6SqFdIhta2J"
+    },
+    {
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -8262,7 +8284,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 198037,
       "name": "Fotograf\u00edas",
       "url": "https://open.spotify.com/track/18LLAuP9ZqWPFsRNja3TuU"
@@ -10262,7 +10284,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
@@ -19524,7 +19546,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 190359,
       "name": "TODO PENDEJO",
       "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
@@ -20760,7 +20782,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 183311,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 130126,
+  "num_followers": 130185,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 214973,
       "name": "Whatcha See Is Whatcha Get",
       "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Car Wash",
         "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "I Want A Love I Can See",
-      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 197826,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "I Want A Love I Can See",
+      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
-      },
-      "artists": [
-        {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
-        }
-      ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+      },
+      "artists": [
+        {
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+        }
+      ],
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Tonight's The Night",
-        "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Best Of The Gap Band",
         "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 376640,
       "name": "Outstanding - Original 12\" Mix",
       "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Tonight's The Night",
+        "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Sisters of Soul; the Sweeter Voices of Soul",
-        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
-      },
-      "artists": [
-        {
-          "name": "The Fuzz",
-          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "SalSoul",
         "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 270826,
       "name": "Mujer Mia",
       "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Sisters of Soul; the Sweeter Voices of Soul",
+        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
+      },
+      "artists": [
+        {
+          "name": "The Fuzz",
+          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm"
     },
     {
       "added_at": "2025-05-23 07:54:59",

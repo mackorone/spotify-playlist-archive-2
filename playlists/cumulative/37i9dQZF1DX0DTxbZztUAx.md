@@ -4,7 +4,7 @@
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-151 songs - 7 hr 1 min
+152 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blood Runs Deep](https://open.spotify.com/track/4hP6yMHRvp1ysIiEUrWVsG) | [WOW JONES & JIMIJAME$](https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN) | [Tyler Perry's Beauty in Black: Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2) | 4:04 | 2024-10-24 |  |
 | [BNB](https://open.spotify.com/track/1RWTz7WHqbQHu5IlwuX3vG) | [OG Stevo](https://open.spotify.com/artist/5aRDdDmqVemjmxlwBeHj9S) | [BNB](https://open.spotify.com/album/4EMQ7mQHmwxqIqa9d8ttk4) | 2:53 | 2025-09-11 |  |
 | [Bounce](https://open.spotify.com/track/1cqTyjGUsdOOkbCCPtWrfE) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 1:52 | 2024-10-24 |  |
+| [Brand New Amiri](https://open.spotify.com/track/3W5SG8RsXkHSrztfXsLo7h) | [Kuya](https://open.spotify.com/artist/13EfXFxIDvullSdwr08yOy) | [Put It Down](https://open.spotify.com/album/6ne3KEQaXE40PhFMnrG1lJ) | 3:17 | 2026-03-24 |  |
 | [Buckzz Flow](https://open.spotify.com/track/3Vwx8Tghqn1HrsBPEKrr7j) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Buckzz Flow](https://open.spotify.com/album/2f16689m1hfRWRnsMQ2Pcb) | 2:33 | 2024-10-24 |  |
 | [Buss It](https://open.spotify.com/track/73b2nyZY6hIOUpUIa4W69g) | [Helena](https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ) | [Do It To 'Em](https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi) | 2:14 | 2024-10-24 |  |
 | [By Any Means](https://open.spotify.com/track/3cEbk0jeDHzfW0TF9GTdRn) | [Quise.B](https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S) | [Big Dawg](https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY) | 2:11 | 2025-03-06 |  |

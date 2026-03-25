@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-111 songs - 7 hr 19 min
+113 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,15 @@
 | [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 | 2025-09-18 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6x54eQF63AZ6deVSsaL5a2) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:28 | 2025-07-15 |  |
 | [eternally](https://open.spotify.com/track/6T8sCCkNMRYSh0fy6OU8px) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [eternally](https://open.spotify.com/album/26E5Y1olZdeeJLIJuujCTP) | 4:23 | 2025-10-15 |  |
+| [Every moment](https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0G1BMH6LPxLNeBBf55rsb1) | 3:14 | 2026-03-24 |  |
 | [every moment with you](https://open.spotify.com/track/0a9YcS9sCCTBmN8ZTffX3p) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Jang Beom June 3rd](https://open.spotify.com/album/6sQXDlp5kXH6DKJuMYTqFc) | 3:59 | 2025-04-22 |  |
 | [Everyday with You](https://open.spotify.com/track/1KFlYzWk8EMJY94RzM84MC) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 | 2024-12-19 |  |
+| [Everything](https://open.spotify.com/track/01dQuBmezs1DTXWzK2Z37Z) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Everything](https://open.spotify.com/album/10zyG0ZN07o9QFfjif7ToP) | 3:31 | 2026-03-24 |  |
 | [Fairytale](https://open.spotify.com/track/3QGVqALPnJCiHgFmXWUoM7) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Fairytale](https://open.spotify.com/album/576lPsLjry1tcvu6XlTYNP) | 3:10 | 2025-12-04 |  |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
 | [Fateful Love](https://open.spotify.com/track/6sBGzSFa4g3GYZrU6gsK7M) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [The Package \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6R1uLodyCmYvSJ8RlfR88M) | 3:50 | 2026-03-17 |  |
 | [Film Love](https://open.spotify.com/track/1cXTdenfd8MRKw9Elge6ru) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Film Love](https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz) | 4:03 | 2026-03-17 |  |
-| [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 |  |
+| [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 | 2026-03-25 |
 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 | 2024-12-19 | 2025-06-24 |
 | [FOREVER](https://open.spotify.com/track/0IjaSeBp6SHXTELm4C9ifk) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Resident Playbook, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3QMQGg2xrPJ9FaxLJmfBQL) | 4:03 | 2025-04-29 |  |
 | [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 | 2025-04-15 |  |
@@ -74,7 +76,7 @@
 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-11-04 |  |
 | [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 | 2025-09-03 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2024-12-19 |  |
-| [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 |  |
+| [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 | 2026-03-25 |
 | [Promise You](https://open.spotify.com/track/5nQzf9FRmBrrYmWBNaev0b) | [최성용](https://open.spotify.com/artist/492Q6vvWOLl71ahg8rWm9W) | [Promise You](https://open.spotify.com/album/6a78mSTN8eTY1PYqWsYWk2) | 3:09 | 2026-03-10 |  |
 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 | 2025-02-14 |  |
 | [Propose Song](https://open.spotify.com/track/5bgwb5zurggKqjD3T5KUqS) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [The 5th Album Vol.2 \[Thank You\]](https://open.spotify.com/album/6vOCXDs4BlGMsSbbgFEgsI) | 4:11 | 2025-04-22 |  |

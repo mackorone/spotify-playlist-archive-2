@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225428,
+      "name": "Bob Dylan",
+      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
+    },
+    {
+      "album": {
         "name": "BOM",
         "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 162984,
       "name": "Intergeneratie - Single Edit",
       "url": "https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo"

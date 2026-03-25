@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20722,
+  "num_followers": 20726,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 247098,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "crumbs in my bed",
         "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 157936,
       "name": "grab my coat",
       "url": "https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 247098,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Introverted Stoner",
-        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Introverted Stoner",
-      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "SE17",
         "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 202058,
       "name": "SE17",
       "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Introverted Stoner",
+        "url": "https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Introverted Stoner",
+      "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Golden House",
-        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 162644,
-      "name": "Golden House",
-      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL"
       },
@@ -1003,18 +987,34 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "KIWI",
-        "url": "https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB"
+        "name": "Golden House",
+        "url": "https://open.spotify.com/album/4P8HYH6sHDAbdZSxGYxHbH"
       },
       "artists": [
         {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
         }
       ],
-      "duration_ms": 219433,
-      "name": "KIWI",
-      "url": "https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14"
+      "duration_ms": 162644,
+      "name": "Golden House",
+      "url": "https://open.spotify.com/track/0qVAabtnJ4hHFiiL8YiBD7"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        }
+      ],
+      "duration_ms": 198997,
+      "name": "City",
+      "url": "https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr"
+        "name": "KIWI",
+        "url": "https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB"
       },
       "artists": [
         {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
         }
       ],
-      "duration_ms": 198997,
-      "name": "City",
-      "url": "https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb"
+      "duration_ms": 219433,
+      "name": "KIWI",
+      "url": "https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "What We Become",
-        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
-      },
-      "artists": [
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 288000,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
-      },
-      "artists": [
-        {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Makin' You Mine/WHATCHUNEED",
         "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 138916,
       "name": "Makin' You Mine",
       "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+      },
+      "artists": [
+        {
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "iwtwbaigwap",
+        "url": "https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL"
+      },
+      "artists": [
+        {
+          "name": "Leo Chavez",
+          "url": "https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "iwtwbaigwap",
+      "url": "https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "iwtwbaigwap",
-        "url": "https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL"
-      },
-      "artists": [
-        {
-          "name": "Leo Chavez",
-          "url": "https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv"
-        }
-      ],
-      "duration_ms": 235374,
-      "name": "iwtwbaigwap",
-      "url": "https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6"
     },
     {
       "added_at": "2025-08-07 15:52:15",

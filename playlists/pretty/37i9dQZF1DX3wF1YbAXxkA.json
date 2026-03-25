@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 123224,
+  "num_followers": 123237,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
       "added_at": "2024-09-16 22:46:03",
       "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
@@ -243,22 +259,6 @@
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "A Tear in Space (Airlock)",
-        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203989,
-      "name": "A Tear in Space (Airlock)",
-      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "King of Sweden",
-        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "King of Sweden",
-      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "VER KA\u00c7",
         "url": "https://open.spotify.com/album/3JDWZAU8nvhdxeeCmsioDS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145560,
       "name": "VER KA\u00c7",
       "url": "https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "King of Sweden",
+        "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "King of Sweden",
+      "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Ultra 85",
-        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "Gardens III",
-      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Shook Up",
         "url": "https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN"
       },
@@ -927,22 +911,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
       },
       "artists": [
         {
-          "name": "Dpart",
-          "url": "https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9"
-        },
-        {
-          "name": "Niall T",
-          "url": "https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         }
       ],
-      "duration_ms": 181403,
-      "name": "Tainted",
-      "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
+      "duration_ms": 314826,
+      "name": "Gardens III",
+      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -959,6 +939,26 @@
       "duration_ms": 136875,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
+      },
+      "artists": [
+        {
+          "name": "Dpart",
+          "url": "https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9"
+        },
+        {
+          "name": "Niall T",
+          "url": "https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X"
+        }
+      ],
+      "duration_ms": 181403,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Big Time Nothing",
-        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "The Flower That Knew",
         "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 157424,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Big Time Nothing",
+        "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "GOODTIME",
+        "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
+      },
+      "artists": [
+        {
+          "name": "Shelailai",
+          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "GOODTIME",
+      "url": "https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "GOODTIME",
-        "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
-      },
-      "artists": [
-        {
-          "name": "Shelailai",
-          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "GOODTIME",
-      "url": "https://open.spotify.com/track/3CN6YEns6bX9k88E49tFbu"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "My Reason",
-        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "My Reason",
-      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3mr3f08assS0OeICVBci5s"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 189767,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/6PCiKb4TDIEtLZppK9fqzM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "My Reason",
+        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "My Reason",
+      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Fighter",
         "url": "https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 202465,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
-      "added_at": "2024-10-18 20:43:05",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Los Hombres Tambi\u00e9n Lloran",
@@ -1675,6 +1659,22 @@
       "duration_ms": 131684,
       "name": "Billete",
       "url": "https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4"
+    },
+    {
+      "added_at": "2024-10-18 20:43:05",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "BABE",
-        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Roses Ether",
         "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 178032,
       "name": "Roses Ether",
       "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BABE",
+        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
     },
     {
       "added_at": "2024-09-16 11:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 金音獎進入第 16 年了！Spotify 當然全力支持！立即欣賞這些最令人驚喜與回味的好作品 ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,656 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,654 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 14 | [燒香拜佛](https://open.spotify.com/track/5lSgwHGiopjN5ShUZFgbHp) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [當然無恙](https://open.spotify.com/album/2Of76YsFKAuVmdenA46sAg) | 3:45 |
 | 15 | [Dead Talents Society \- 電影《鬼才之道》英文版主題曲](https://open.spotify.com/track/69z26h3BwWQ6JPAJSDOxBy) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [《鬼才之道》電影原聲帶](https://open.spotify.com/album/5sKUukKPQ7Mzr8Q8pAyQWJ) | 4:23 |
 | 16 | [This is My World](https://open.spotify.com/track/1bLPfmlCbI0uVnriHKzswv) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:40 |
-| 17 | [Dipin Kari Tang 麵包 咖哩 刺蝟 \(feat\. 泰武古謠傳唱\)](https://open.spotify.com/track/0m7vXtSMVkSzi2b7wbF1Ix) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy), [Taiwu Ancient Ballads Troupe](https://open.spotify.com/artist/71KirfZKef46fHe99Y1UVY) | [VAIVAIK 尋走](https://open.spotify.com/album/4sKvkrgAi1bOwv8ejXkK8D) | 4:31 |
+| 17 | [Dipin Kari Tang 麵包 咖哩 刺蝟 \(feat\. TBT 泰武古謠傳唱\)](https://open.spotify.com/track/0m7vXtSMVkSzi2b7wbF1Ix) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy), [TBT 泰武古謠傳唱](https://open.spotify.com/artist/3aPSb2223dsQtvHula7hHu) | [VAIVAIK 尋走](https://open.spotify.com/album/4sKvkrgAi1bOwv8ejXkK8D) | 4:31 |
 | 18 | [偏南風](https://open.spotify.com/track/10nw9cTqrTj7uc9QQPIHKG) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:33 |
 | 19 | [南迴之子](https://open.spotify.com/track/4hv555pGmf0LpLL6oA5PUs) | [張淦勛 Giyu Tjuljaviya](https://open.spotify.com/artist/6164qyIB1Wgt5q2TeZsNp4) | [雲就要翻過山](https://open.spotify.com/album/7L5MqjfXAMNA65V96WSG8b) | 4:02 |
 | 20 | [Rule男Freestyle](https://open.spotify.com/track/3lNJtgHLxriWNj64BkjYFD) | [楊舒雅](https://open.spotify.com/artist/1VkkkELF3uUCzCB9EZTlKO) | [Rule男Freestyle](https://open.spotify.com/album/0DcCcIEDaVBKsUJhT14SYE) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 46659,
+  "num_followers": 46678,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Caldo",
-        "url": "https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poco Sole",
-      "url": "https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Ritratto di Mina: I singoli, Vol. 1",
         "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 179060,
       "name": "Tintarella di luna",
       "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Caldo",
+        "url": "https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poco Sole",
+      "url": "https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
-        "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 138920,
-      "name": "24 mila baci",
-      "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "I Marcellos Ferial",
         "url": "https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 133240,
       "name": "Sei Diventata Nera",
       "url": "https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
+        "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 138920,
+      "name": "24 mila baci",
+      "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Il Ballo Del Mattone",
-      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
+      "duration_ms": 133226,
+      "name": "La Partita Di Pallone",
+      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
         }
       ],
-      "duration_ms": 133226,
-      "name": "La Partita Di Pallone",
-      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
+      "duration_ms": 137573,
+      "name": "Il Ballo Del Mattone",
+      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
     },
     {
       "added_at": "2025-05-02 09:12:30",

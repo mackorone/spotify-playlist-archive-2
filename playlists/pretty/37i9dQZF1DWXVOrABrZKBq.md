@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Eman
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,621 likes - 73 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,637 likes - 73 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

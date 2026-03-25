@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Het Algoritme",
-  "num_followers": 11325,
+  "num_followers": 11328,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
-        "name": "Niks Is Zeker",
-        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 181539,
-      "name": "Niks Is Zeker",
-      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
         "name": "Niemand Gaat Het Voor Je Doen",
         "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 148159,
       "name": "Fuck Je Gucci Shirt",
       "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
+        "name": "Niks Is Zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 181539,
+      "name": "Niks Is Zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
     },
     {
       "added_at": "2026-03-19 23:01:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
-        "name": "Platonisch",
-        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
-        }
-      ],
-      "duration_ms": 182929,
-      "name": "Platonisch",
-      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
         "name": "Praat Te Veel",
         "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 142560,
       "name": "Praat Te Veel",
       "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
+        "name": "Platonisch",
+        "url": "https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
+        }
+      ],
+      "duration_ms": 182929,
+      "name": "Platonisch",
+      "url": "https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy"
     },
     {
       "added_at": "2026-03-19 23:01:08",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
+        "name": "Nederland",
+        "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        },
+        {
+          "name": "Vinkenoog",
+          "url": "https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Nederland",
+      "url": "https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 141051,
       "name": "Ik Weet Hoe Het Werkt",
       "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
-        "name": "Nederland",
-        "url": "https://open.spotify.com/album/45DRLkQnQCjxiPDLrK0x63"
-      },
-      "artists": [
-        {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
-        },
-        {
-          "name": "Vinkenoog",
-          "url": "https://open.spotify.com/artist/6AGDhC3w4fUUMOwuzQlysK"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Nederland",
-      "url": "https://open.spotify.com/track/6lByEnaXlZS78u7YxvKEF4"
     },
     {
       "added_at": "2026-03-19 23:01:08",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
+        "name": "Bang Dat Ik Spring",
+        "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        },
+        {
+          "name": "Saartje Van Camp",
+          "url": "https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Bang Dat Ik Spring",
+      "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
         "name": "Vrijplaats II",
         "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
       },
@@ -651,26 +671,6 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
-        "name": "Bang Dat Ik Spring",
-        "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
-      },
-      "artists": [
-        {
-          "name": "Spinvis",
-          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
-        },
-        {
-          "name": "Saartje Van Camp",
-          "url": "https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Bang Dat Ik Spring",
-      "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
         "name": "Wie de fak is Sophie Straat",
         "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
-        "name": "Magneten",
-        "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 190704,
-      "name": "Magneten",
-      "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
         "name": "Videotheek (Recht Uit Een Film)",
         "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 218704,
       "name": "Videotheek (Recht Uit Een Film)",
       "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
+        "name": "Magneten",
+        "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 190704,
+      "name": "Magneten",
+      "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
     },
     {
       "added_at": "2026-03-19 23:01:08",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
+        "name": "Was Het Nou Maar Zo",
+        "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 194125,
+      "name": "Was Het Nou Maar Zo",
+      "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
         "name": "Kubus In Een Ballenbak",
         "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 153428,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "Bob Dylan",
+      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
     },
     {
       "added_at": "2026-03-19 23:01:08",
@@ -847,6 +863,22 @@
     {
       "added_at": "2026-03-19 23:01:08",
       "album": {
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
+    },
+    {
+      "added_at": "2026-03-19 23:01:08",
+      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -859,38 +891,6 @@
       "duration_ms": 201627,
       "name": "Maskers",
       "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
-        "name": "Intergeneratie",
-        "url": "https://open.spotify.com/album/5D5UDX6XptnLPrzfDZx29w"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 162984,
-      "name": "Intergeneratie - Single Edit",
-      "url": "https://open.spotify.com/track/21JMJOw8TTaUkiBjTXuMLo"
-    },
-    {
-      "added_at": "2026-03-19 23:01:08",
-      "album": {
-        "name": "Was Het Nou Maar Zo",
-        "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 194125,
-      "name": "Was Het Nou Maar Zo",
-      "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
     }
   ],
   "unique_name": "indie.nl",

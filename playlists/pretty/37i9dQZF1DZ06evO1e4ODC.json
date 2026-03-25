@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 212162,
+  "num_followers": 212188,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ab8xAAAAAAA7v8FYUzxoWD7U6mg353T0",
+  "snapshot_id": "acCCgAAAAACFronTl8fok2l+akGLhnri",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontrarme Contigo",
-        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
+        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite",
-          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
-        },
-        {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
         }
       ],
-      "duration_ms": 255960,
-      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
-      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
+      "duration_ms": 360666,
+      "name": "Al Estar Ante Ti - En Vivo",
+      "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Sat\u00e9lite",
+          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
         },
         {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 360666,
-      "name": "Al Estar Ante Ti - En Vivo",
-      "url": "https://open.spotify.com/track/6VME9YhmZh1lnqliUGnx5y"
+      "duration_ms": 255960,
+      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
+      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
     },
     {
       "added_at": null,

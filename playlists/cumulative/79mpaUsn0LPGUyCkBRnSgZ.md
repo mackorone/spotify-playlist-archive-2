@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,095 songs - 2 day 23 hr 18 min
+1,096 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,7 +904,7 @@
 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2023-06-28 | 2023-07-05 |
 | [TECHNOPOLIS \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/2ZFSgNZWT6Jvp3nAc3ncJv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Solid State Survivor](https://open.spotify.com/album/5z480Ywi9Hn3EQV8N4UwEN) | 4:14 | 2025-07-23 |  |
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
-| [TEJI](https://open.spotify.com/track/4zRuUgwyR9r3p1Wc7ZMtde) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/3kcLseJNFGfubBeDxpG66V) | 2:34 | 2026-03-23 |  |
+| [TEJI](https://open.spotify.com/track/4zRuUgwyR9r3p1Wc7ZMtde) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB](https://open.spotify.com/album/3kcLseJNFGfubBeDxpG66V) | 2:34 | 2026-03-23 | 2026-03-25 |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |
 | [Tell It To Me](https://open.spotify.com/track/2AgTYr7uZM1C2wfItdtvlc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/5Y83CwSuyymvHbtg2KgK7j) | 2:47 | 2025-10-23 |  |
 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 | 2024-05-28 |  |
@@ -997,6 +997,7 @@
 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 | 2024-09-17 |  |
 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 | 2023-05-19 | 2024-01-09 |
 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 | 2026-03-04 |  |
+| [Traffick](https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [RASLA](https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd) | [Drive\-in Cinema 2.1](https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM) | 0:47 | 2026-03-25 |  |
 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 | 2025-12-15 |  |
 | [ttgwh](https://open.spotify.com/track/1YDEfY4n05BucPJIW1BalS) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 1:14 | 2025-11-07 |  |
 | [Tubi](https://open.spotify.com/track/0qT6t3DZrOEqw5P8IDnGxF) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [MADE BY DOPE](https://open.spotify.com/album/4HgGbZrruExGMeXaQ3DOlb) | 2:03 | 2026-01-19 | 2026-02-20 |

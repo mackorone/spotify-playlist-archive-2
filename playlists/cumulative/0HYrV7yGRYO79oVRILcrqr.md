@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-385 songs - 1 day 0 hr 7 min
+387 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-03-11 |  |
 | [Ain't It Fun?](https://open.spotify.com/track/5XTkhdlsfIAMm5DvRYpG4Z) | [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [regina hum](https://open.spotify.com/artist/1GzBgXa7ZG3GRRHkhZXYSK), [Gabriel Peralta](https://open.spotify.com/artist/1qhj4RJDwgkhjWXssCAQva) | [Ain't It Fun?](https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK) | 5:01 | 2025-09-22 | 2025-12-17 |
+| [All Alone \- Went to the Bone Solo Version](https://open.spotify.com/track/5RnLoAlp8H4oKl15MGtM4y) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Back of the Wreck](https://open.spotify.com/album/1UeyVHTtupC0nBL7fr8H9V) | 2:37 | 2026-03-24 |  |
 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 | 2026-02-24 | 2026-03-18 |
 | [Alone \- Cover](https://open.spotify.com/track/6WApzR1hWPqV4BQSyr5ETL) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Alone \(Cover\)](https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez) | 3:39 | 2026-01-13 | 2026-03-18 |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-01-22 | 2026-03-18 |
@@ -318,6 +319,7 @@
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 | 2026-03-18 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-01-13 | 2026-03-18 |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |
+| [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 |  |
 | [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 | 2026-01-05 | 2026-03-18 |
 | [Stoner](https://open.spotify.com/track/2dOiAm5I3PFizdsj77ywI5) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Stoner](https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB) | 3:50 | 2025-12-08 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 | 2025-12-17 |

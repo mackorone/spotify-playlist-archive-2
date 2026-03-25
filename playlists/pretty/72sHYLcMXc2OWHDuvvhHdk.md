@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 563 likes - 2,446 songs - 5 day 22 hr 56 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,448 songs - 5 day 23 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2454,5 +2454,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2444 | [String](https://open.spotify.com/track/6xVGECLL0CqEca5lG2GTh7) | [Eye No](https://open.spotify.com/artist/4mLGvOqHGuu5ZfTYIyU5Yu) | [String](https://open.spotify.com/album/0gwB70bEKeFzirHB4Gwyoi) | 2:31 |
 | 2445 | [Stay Back](https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Stay Back](https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ) | 2:25 |
 | 2446 | [Forgiveness \(Redux\)](https://open.spotify.com/track/64GwsWtFMpbmblchEoRE3p) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2) | [Forgiveness \(Redux\)](https://open.spotify.com/album/2cA3JR9TRe22zShtc00mUp) | 3:56 |
+| 2447 | [Karlar düşer](https://open.spotify.com/track/52dcHswvjMI6WPutpeLdMC) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Karlar düşer](https://open.spotify.com/album/4cZ7Xkvqu74aFhjpvdWaer) | 2:51 |
+| 2448 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 |
 
-Snapshot ID: `AAAKJeUQVjD1tcUAw4aKB+Ww38juL64d`
+Snapshot ID: `AAAKJ7K+/i7C/1riWDaFCvbhs8EyVyj4`

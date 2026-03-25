@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,015 songs - 2 day 0 hr 34 min
+1,017 songs - 2 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Anthazit Plastics](https://open.spotify.com/track/0LEzTG4JEiFgNg6XbgGQh2) | [Starshine Strum](https://open.spotify.com/artist/3dmDs1HKPCEKt9jQzfRSLs) | [Anthazit Plastics](https://open.spotify.com/album/1qhzVs7AkR7CihkNpUtPFW) | 3:31 | 2024-04-05 | 2024-11-06 |
 | [Apastron](https://open.spotify.com/track/2NoQByFcJqc2ztjhuufB5c) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Apastron](https://open.spotify.com/album/1bnZhYeL1Z2dNiFhD2o358) | 2:40 | 2026-02-25 | 2026-03-12 |
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2023-03-23 | 2024-03-21 |
+| [Aphelion](https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Aphelion](https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch) | 2:24 | 2026-03-20 |  |
 | [Aphelion](https://open.spotify.com/track/6whrCE5Vc5DtjwKxhDDZz0) | [Astral Steps](https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ) | [Aphelion](https://open.spotify.com/album/0idAKMAPpGjKsGctraHWEk) | 2:40 | 2025-06-17 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2023-03-23 | 2024-01-18 |
 | [Apprised](https://open.spotify.com/track/1Myj2GCUiyNoqmupleLETF) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Apprised](https://open.spotify.com/album/3yS9RWOBRyhmCFNLe5zo59) | 2:53 | 2026-02-25 | 2026-03-12 |
@@ -272,6 +273,7 @@
 | [Dust](https://open.spotify.com/track/3P8JdN7l1cFkcMVkJHOHhF) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Dust](https://open.spotify.com/album/4JazgpRV9g6wD03c4excvY) | 2:56 | 2023-03-23 | 2024-02-09 |
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-03-23 | 2024-03-21 |
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2023-03-23 | 2024-02-09 |
+| [Ease](https://open.spotify.com/track/1VdkBmlS8G3I3Gd3U8hvqz) | [Nocturne Sky](https://open.spotify.com/artist/30MbBEUSCsD7Na1UHEXTge) | [Ease](https://open.spotify.com/album/7f2N7tvzMta1ebMuuEIgJO) | 2:35 | 2026-03-20 |  |
 | [Ease in](https://open.spotify.com/track/3ES4PLrwzVAQMSSdSfhfXT) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Ease in](https://open.spotify.com/album/6GOOaaiTLAGMXerUIpstOT) | 2:37 | 2025-12-03 |  |
 | [Easy](https://open.spotify.com/track/07Z7LOrZp0NwtVhe2b8GcS) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Easy](https://open.spotify.com/album/76urwUuayLvhccasn4G6z6) | 2:50 | 2024-05-04 | 2025-01-23 |
 | [Ebbing](https://open.spotify.com/track/0LNzzyTKPP6NaUUVbY3uYx) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Ebbing](https://open.spotify.com/album/0C1uqlUF3OQGMEo36krG9k) | 2:50 | 2025-12-17 |  |
@@ -892,7 +894,7 @@
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2023-03-23 | 2024-02-09 |
 | [Sunborn 396Hz](https://open.spotify.com/track/6jLSvTOdPH592NgIZpFgs7) | [The Relief Experience](https://open.spotify.com/artist/3NY4Ze0E1m0C4LPlYgFZxr) | [Sunborn 396Hz](https://open.spotify.com/album/1zJmBoVNGNeLStD3orOfiE) | 2:46 | 2024-05-04 | 2025-02-05 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2023-03-23 | 2024-02-09 |
-| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 |  |
+| [Sundial in the Fog](https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9) | [Emberlace](https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC) | [Sundial in the Fog](https://open.spotify.com/album/2QUlbl71LkpvEev7FhoMHv) | 2:58 | 2025-06-17 | 2026-03-25 |
 | [Sunlit Pathway](https://open.spotify.com/track/1LcvWhopXfaoZ7zEyp2tO5) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Sunlit Pathway](https://open.spotify.com/album/3wuR2L2DMZnKdT8rgy1LKG) | 2:31 | 2025-02-04 |  |
 | [Sunlit Understory](https://open.spotify.com/track/1jAbNYgBCIDlQlBaOPLVDf) | [Somnia Flow](https://open.spotify.com/artist/5r14VhQ7URvz9IclyYvrZl) | [Sunlit Understory](https://open.spotify.com/album/5HoY4nF6IewhgaNaBAWPXo) | 2:15 | 2026-01-27 |  |
 | [Sunthread](https://open.spotify.com/track/00UONkk82og7iOStsRQtMG) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Sunthread](https://open.spotify.com/album/3RfL5E3O6eXmGxFFcm7O8f) | 2:12 | 2024-12-12 | 2025-07-29 |
@@ -1011,7 +1013,7 @@
 | [Wishing](https://open.spotify.com/track/7seXR6UboP6T5GHwVSoPSG) | [Foreglow](https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ) | [Wishing](https://open.spotify.com/album/51AuZmAdJCDyVG8LfzvslH) | 2:40 | 2025-04-09 |  |
 | [Within the Light](https://open.spotify.com/track/6Di2mEmryP7AAak4VZMLVJ) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Within the Light \(Ambient Version\)](https://open.spotify.com/album/4qJ6aOT7ZWniQnKQVbIDK8) | 2:29 | 2023-03-23 | 2024-03-21 |
 | [World Beyond](https://open.spotify.com/track/5ivvtayl4QgwCtjUd4JOB1) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [World Beyond](https://open.spotify.com/album/7bYiEz6kPFaPZ0hxnMQnds) | 2:57 | 2023-03-23 | 2024-07-10 |
-| [Yawa](https://open.spotify.com/track/6BfCTIru9IOREx8X7K7W7v) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Yawa](https://open.spotify.com/album/1Q07uY5tKascOM2OSJOUZL) | 2:55 | 2025-09-23 |  |
+| [Yawa](https://open.spotify.com/track/6BfCTIru9IOREx8X7K7W7v) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Yawa](https://open.spotify.com/album/1Q07uY5tKascOM2OSJOUZL) | 2:55 | 2025-09-23 | 2026-03-25 |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2023-03-23 | 2024-01-18 |
 | [Yesterday](https://open.spotify.com/track/0B69bEkM82b4EsNHbePSou) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Yesterday](https://open.spotify.com/album/6hSztVsQ4x1kdSkCBGCoLy) | 3:13 | 2026-02-25 | 2026-03-12 |
 | [You, Me, and Time](https://open.spotify.com/track/1b9MfPekYhGZk48kmEnXsT) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [You, Me, and Time](https://open.spotify.com/album/24QtLl6LZIXjteWTuLA7HS) | 2:49 | 2025-04-09 |  |

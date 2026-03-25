@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 388561,
+  "num_followers": 388774,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,22 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+        "name": "Mediterranea (Dumar Remix)",
+        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
       },
       "artists": [
         {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+          "name": "Giuni Russo",
+          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
+        },
+        {
+          "name": "Dumar",
+          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
         }
       ],
-      "duration_ms": 214466,
-      "name": "One for You, One for Me",
-      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+      "duration_ms": 184672,
+      "name": "Mediterranea - Dumar Remix",
+      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
     },
     {
       "added_at": "2026-03-19 23:01:49",
@@ -515,22 +519,18 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "Mediterranea (Dumar Remix)",
-        "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
       "artists": [
         {
-          "name": "Giuni Russo",
-          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
-        },
-        {
-          "name": "Dumar",
-          "url": "https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba"
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
         }
       ],
-      "duration_ms": 184672,
-      "name": "Mediterranea - Dumar Remix",
-      "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2026-03-19 23:01:49",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-19 23:01:49",
       "album": {
-        "name": "Gemma e le altre",
-        "url": "https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "E\u2026allora\u2026cercasi",
-      "url": "https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6"
-    },
-    {
-      "added_at": "2026-03-19 23:01:49",
-      "album": {
         "name": "From Here to Eternity (Remastered)",
         "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 233080,
       "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
       "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
+    },
+    {
+      "added_at": "2026-03-19 23:01:49",
+      "album": {
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+      },
+      "artists": [
+        {
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     }
   ],
   "unique_name": "Italo Disco",

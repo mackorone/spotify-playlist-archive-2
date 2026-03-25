@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 28 | [Blackout](https://open.spotify.com/track/5sP4Ia6MxZeMzJclka2DFE) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Turn on the Lights](https://open.spotify.com/album/1ospZrjkUT32wmMH7GR7KG) | 2:45 |
 | 29 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 |
 | 30 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 |
-| 31 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 |
-| 32 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 31 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 32 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 |
 | 33 | [DIABLO](https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [DIABLO](https://open.spotify.com/album/6tNmyp4ay7hhthomKB65gW) | 2:45 |
 | 34 | [So Faded](https://open.spotify.com/track/2FNbkIMCOf6W6uoFQa36UX) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Slush Hours](https://open.spotify.com/album/1Uf0MmrF3BJRaglRpUdtZn) | 3:12 |
 | 35 | [Crime \(with Skott\)](https://open.spotify.com/track/59QVRLzAYdNiuOFCrR6tlh) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Crime \(with Skott\)](https://open.spotify.com/album/6p7Uxsq9sa6o5MkOmw28ge) | 2:55 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 59 | [Boys In The Sea](https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Boys In The Sea](https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN) | 3:10 |
 | 60 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 |
 | 61 | [Love Me America](https://open.spotify.com/track/5a6N1TItnXbphH8dcwnlQF) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:29 |
-| 62 | [Wild Hearts](https://open.spotify.com/track/6GFmic5sMMouZ04j8p2RXm) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:49 |
-| 63 | [Effort](https://open.spotify.com/track/5YtsWfOokZx53OLviNpFmu) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:31 |
+| 62 | [Effort](https://open.spotify.com/track/5YtsWfOokZx53OLviNpFmu) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:31 |
+| 63 | [Wild Hearts](https://open.spotify.com/track/6GFmic5sMMouZ04j8p2RXm) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:49 |
 | 64 | [Self Control](https://open.spotify.com/track/0cRC2pnoH7gWoP2JGRSphe) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 3:06 |
 | 65 | [Heartbeat](https://open.spotify.com/track/74w3KQUxPOEJYmQHgmRVsh) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heartbeat](https://open.spotify.com/album/6MAxLHsYH7uI7NM6w7A5Kb) | 2:48 |
 | 66 | [Stay Happy](https://open.spotify.com/track/6sjDl6Ed6ysoZaMPlEr7V3) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Stay Happy](https://open.spotify.com/album/24j1HTpNeOz6altCRbpgAa) | 2:48 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 100 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 101 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcM7lgAAAACNaWPqgOuwmX91QAqdDHxk`
+Snapshot ID: `AcNBNgAAAAD+IHJWNc+OBDR++oSjAsPc`

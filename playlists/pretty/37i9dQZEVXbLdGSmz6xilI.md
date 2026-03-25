@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,811 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,866 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [漫步香港1999](https://open.spotify.com/track/4D1eaEIisnWCVPMnYuMh7q) | [布鲁昔](https://open.spotify.com/artist/07RSJfIHVWCe4SnFciwbmv) | [漫步香港1999](https://open.spotify.com/album/3njfWCxrOd4pZyiVDb2OzD) | 3:41 |
 | 50 | [ex's hate me, Pt.2](https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreaAMEE](https://open.spotify.com/album/3JKB4LRIu5vTuVf9Lmf3FK) | 3:36 |
 
-Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVX3GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

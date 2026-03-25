@@ -4,7 +4,7 @@
 
 > 
 
-1,407 songs - 3 day 2 hr 27 min
+1,408 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Bby Pluto](https://open.spotify.com/track/4X8mODoYMS286wauCWV5If) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:40 | 2023-07-12 | 2023-12-14 |
 | [Be A Man](https://open.spotify.com/track/4QbdsEr10GmPx4vFtvsitd) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Be A Man](https://open.spotify.com/album/4PIRqF6eKBlU7jBnlRp6kT) | 2:17 | 2023-01-03 | 2026-02-08 |
 | [Beat Goes On \(feat\. Kanye West\)](https://open.spotify.com/track/0wFvvGzJn1zJmrwLK2HN6g) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:26 | 2025-08-17 |  |
+| [Beautiful Girl](https://open.spotify.com/track/5WmxGs0hBmoo9bcGlY0twV) | [CunninLynguists](https://open.spotify.com/artist/7EA0bLf8dXCIUkwC3lnaJa) | [A Piece Of Strange](https://open.spotify.com/album/03tgCJ19ar8hr39aRSfUIA) | 3:24 | 2026-03-24 |  |
 | [Been A While](https://open.spotify.com/track/25ct0s3l1VefvBj1ufxedT) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Been A While](https://open.spotify.com/album/73XJk2IRPVp7FWUQg3JTGp) | 2:38 | 2023-01-11 | 2023-05-09 |
 | [Beetleborgs](https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Bin Reaper 3: New Testament](https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL) | 2:25 | 2023-01-13 | 2023-12-14 |
 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 | 2025-04-29 | 2026-02-08 |

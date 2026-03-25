@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJlfUljuZExa.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,367 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,388 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jodoh Lebaran](https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Jodoh Lebaran](https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX) | 3:12 |
 | 2 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
-| 3 | [Suasana Di Hari Raya](https://open.spotify.com/track/2rZIyoaIZBaWtr1954sxyO) | [Anuar & Ellina](https://open.spotify.com/artist/3SDiNzzzX6i660bxil2I3M) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:15 |
+| 3 | [Suasana Di Hari Raya](https://open.spotify.com/track/1IMsCuONQDaYYrgt4ehMbI) | [Anuar & Ellina](https://open.spotify.com/artist/3SDiNzzzX6i660bxil2I3M) | [Suasana Di Hari Raya](https://open.spotify.com/album/0NtEx7iMEd9uI6rw2KkWyP) | 3:15 |
 | 4 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 5 | [Kasih Lebaran](https://open.spotify.com/track/0sifzWpJd8P1uZ15x4nIWY) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Kasih Lebaran](https://open.spotify.com/album/3JmhkFPxKnqrXdC8tgwQl6) | 3:21 |
 | 6 | [Jom Raya](https://open.spotify.com/track/1yT4svUG02wQSgxpB1c5yZ) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [Jom Raya](https://open.spotify.com/album/6fGUJAzJUy6KcU8Reu5gHf) | 2:39 |
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJlfUljuZExa.md) - [plain]
 | 19 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 |
 | 20 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
 | 21 | [Body to Body](https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 |
-| 22 | [Selamat Berhari Raya](https://open.spotify.com/track/5sBz1vOUQFJrkLahGNPoUg) | [Rahimah Rahim](https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 3:31 |
+| 22 | [Selamat Berhari Raya](https://open.spotify.com/track/74SXA9SsaHeOXyg3NxRymf) | [Rahimah Rahim](https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn) | [Selamat Berhari Raya](https://open.spotify.com/album/5nOdd36ZglIVDttRZ4QrLM) | 3:31 |
 | 23 | [Menjelang Hari Raya](https://open.spotify.com/track/5VKesrhjbKQNfsI4NIxZCi) | [Dato' DJ Dave](https://open.spotify.com/artist/6C4Prk8bokz0g2UiDb5DY2) | [Siri Bintang Pujaan](https://open.spotify.com/album/503nEIAHFbaFRXL6iLJETb) | 3:14 |
 | 24 | [Suasana Hari Raya](https://open.spotify.com/track/69xmMtzLEVxACrVckHBrY3) | [Datuk Sharifah Aini](https://open.spotify.com/artist/0EAfDSxGzS4bal72IMoHHQ) | [Syawal 1424](https://open.spotify.com/album/2NCZTtKR9uQjsK5OIlMtpG) | 2:22 |
 | 25 | [Raya Raya Raya](https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Raya Raya Raya](https://open.spotify.com/album/4tri0iQsUj5uWEeb7ye2P5) | 2:47 |
-| 26 | [Selamat Hari Raya](https://open.spotify.com/track/2dX9TQTezNvZXbFsKeoSgr) | [Puan Sri Saloma](https://open.spotify.com/artist/6RhtPXXQGPfHrVrbw6srzL) | [25 Lagu\-Lagu Hari Raya Aidilfitri](https://open.spotify.com/album/2dWkfl56rWXb67roOK0Egc) | 2:36 |
-| 27 | [Balik Kampung](https://open.spotify.com/track/3uMq3720MiINGhVbBU2MOx) | [Dato' Sudirman](https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x) | [Nada Pesona](https://open.spotify.com/album/061W3TLcgDRSiuAP4bPi80) | 3:35 |
+| 26 | [Selamat Hari Raya](https://open.spotify.com/track/7rGfXJN92ttB0FX0FWtHGR) | [Puan Sri Saloma](https://open.spotify.com/artist/6RhtPXXQGPfHrVrbw6srzL) | [Selamat Hari Raya](https://open.spotify.com/album/0QtAQjYOLFI0hddskU9sTN) | 2:37 |
+| 27 | [Balik Kampung](https://open.spotify.com/track/5GIyCpbdhQ5QC17jNUbWbn) | [Dato' Sudirman](https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x) | [Balik Kampung](https://open.spotify.com/album/3KGjxgFj40CxOYfAUzIEcg) | 3:38 |
 | 28 | [Nyam Nyam Ketupat](https://open.spotify.com/track/1MtoGgSCCIeRfluMqyZQaN) | [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD), [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M), [Dinda Dania](https://open.spotify.com/artist/6zA8TCZT3O5MRvbyh50kxo), [MissAlvy](https://open.spotify.com/artist/64JkeaABU8Eck3A5KzZIGS) | [Nyam Nyam Ketupat](https://open.spotify.com/album/3jGOFEAixraFSGrUvAnRHy) | 3:00 |
 | 29 | [Ku Pohon Restu Ayah & Ibu](https://open.spotify.com/track/73i60Qy5YEYab2DZZ0Xhdp) | [Mamat](https://open.spotify.com/artist/4Ws4Jicjsn8gsG40NALncZ) | [Jom Balik Kampung...Raya](https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd) | 2:43 |
 | 30 | [Meriah Lain Macam](https://open.spotify.com/track/174D7DoFp0e6bS1Qu9rnXs) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Meriah Lain Macam](https://open.spotify.com/album/3grjuEMGUgHwgsZroByejW) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJlfUljuZExa.md) - [plain]
 | 49 | [Warna Warni Aidilfitri](https://open.spotify.com/track/2NuXB2BK357vJ2yvLL7OB0) | [Nyanyian Ramai](https://open.spotify.com/artist/5GcHlX35KE7BMgZzvb78CX) | [Jom Balik Kampung...Raya](https://open.spotify.com/album/4kQ5QVgapw3JwOPTAn7abd) | 4:48 |
 | 50 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 
-Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVX3GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Ankur Tewari\n",
-  "num_followers": 133567,
+  "num_followers": 133575,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Zulfein",
-        "url": "https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS"
-      },
-      "artists": [
-        {
-          "name": "Mehul Mahesh",
-          "url": "https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD"
-        },
-        {
-          "name": "Dj AYnik",
-          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
-        }
-      ],
-      "duration_ms": 198831,
-      "name": "Zulfein",
-      "url": "https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt"
-    },
-    {
-      "added_at": "2026-03-05 08:36:54",
-      "album": {
         "name": "Sawaal",
         "url": "https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 211455,
       "name": "Sawaal",
       "url": "https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu"
+    },
+    {
+      "added_at": "2026-03-05 08:36:54",
+      "album": {
+        "name": "Zulfein",
+        "url": "https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS"
+      },
+      "artists": [
+        {
+          "name": "Mehul Mahesh",
+          "url": "https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD"
+        },
+        {
+          "name": "Dj AYnik",
+          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
+        }
+      ],
+      "duration_ms": 198831,
+      "name": "Zulfein",
+      "url": "https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -431,18 +431,26 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Humdum",
-        "url": "https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku"
+        "name": "Kaahe Mose",
+        "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
       "artists": [
         {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Humdum",
-      "url": "https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1"
+      "duration_ms": 219097,
+      "name": "Kaahe Mose",
+      "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -475,26 +483,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Kaahe Mose",
-        "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
+        "name": "Humdum",
+        "url": "https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku"
       },
       "artists": [
         {
-          "name": "Garvit - Priyansh",
-          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
-        },
-        {
-          "name": "Garvit Soni",
-          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
-        },
-        {
-          "name": "Priyansh Srivastava",
-          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
         }
       ],
-      "duration_ms": 219097,
-      "name": "Kaahe Mose",
-      "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
+      "duration_ms": 181500,
+      "name": "Humdum",
+      "url": "https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -671,22 +671,26 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Uljhan",
-        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
       },
       "artists": [
         {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
         },
         {
-          "name": "Sireesha Bhagavatula",
-          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Bandana Datta",
+          "url": "https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp"
         }
       ],
-      "duration_ms": 134139,
-      "name": "Uljhan",
-      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+      "duration_ms": 122240,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -711,26 +715,22 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Saawariya",
-        "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
       "artists": [
         {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
         },
         {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        },
-        {
-          "name": "Bandana Datta",
-          "url": "https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp"
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
         }
       ],
-      "duration_ms": 122240,
-      "name": "Saawariya",
-      "url": "https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0"
+      "duration_ms": 134139,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "With You (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
+        "name": "Tu Hi Hoon",
+        "url": "https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n"
       },
       "artists": [
         {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
         }
       ],
-      "duration_ms": 144923,
-      "name": "With You (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N"
+      "duration_ms": 221769,
+      "name": "Tu Hi Hoon",
+      "url": "https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -883,18 +879,22 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Tu Hi Hoon",
-        "url": "https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n"
+        "name": "With You (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
       },
       "artists": [
         {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
         }
       ],
-      "duration_ms": 221769,
-      "name": "Tu Hi Hoon",
-      "url": "https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4"
+      "duration_ms": 144923,
+      "name": "With You (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -931,18 +931,26 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+        "name": "Dear Maahiya (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
       },
       "artists": [
         {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
         }
       ],
-      "duration_ms": 220695,
-      "name": "Khud Ko Miloon",
-      "url": "https://open.spotify.com/track/2A5Gmg2gCYXpLJ3aVuGYSc"
+      "duration_ms": 237300,
+      "name": "Dear Maahiya (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -983,26 +991,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Dear Maahiya (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
       },
       "artists": [
         {
-          "name": "Tanishka Bahl",
-          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        },
-        {
-          "name": "Showkidd",
-          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
         }
       ],
-      "duration_ms": 237300,
-      "name": "Dear Maahiya (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
+      "duration_ms": 220695,
+      "name": "Khud Ko Miloon",
+      "url": "https://open.spotify.com/track/2A5Gmg2gCYXpLJ3aVuGYSc"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM"
+      },
+      "artists": [
+        {
+          "name": "Yuvi",
+          "url": "https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ"
+        }
+      ],
+      "duration_ms": 189301,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF"
+    },
+    {
+      "added_at": "2026-03-05 08:36:54",
+      "album": {
         "name": "Yeh Duniya Jala Do",
         "url": "https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM"
+        "name": "Aashiyan",
+        "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
       },
       "artists": [
         {
-          "name": "Yuvi",
-          "url": "https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ"
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
         }
       ],
-      "duration_ms": 189301,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF"
+      "duration_ms": 174222,
+      "name": "Aashiyan",
+      "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -1111,22 +1127,6 @@
       "duration_ms": 228000,
       "name": "maikhana",
       "url": "https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt"
-    },
-    {
-      "added_at": "2026-03-05 08:36:54",
-      "album": {
-        "name": "Aashiyan",
-        "url": "https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Aashiyan",
-      "url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Marammat",
-        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+        "name": "Sitaara",
+        "url": "https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh"
       },
       "artists": [
         {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
         }
       ],
-      "duration_ms": 269160,
-      "name": "3am Thoughts",
-      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
+      "duration_ms": 182400,
+      "name": "Sitaara",
+      "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Sitaara",
-        "url": "https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh"
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
       },
       "artists": [
         {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Sitaara",
-      "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
     },
     {
       "added_at": "2026-03-05 08:36:54",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-05 08:36:54",
       "album": {
-        "name": "Dil Behra",
-        "url": "https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 210434,
-      "name": "Dil Behra",
-      "url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR"
-    },
-    {
-      "added_at": "2026-03-05 08:36:54",
-      "album": {
         "name": "Yun Hi Kahin",
         "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 203392,
       "name": "Yun Hi Kahin",
       "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
+    },
+    {
+      "added_at": "2026-03-05 08:36:54",
+      "album": {
+        "name": "Dil Behra",
+        "url": "https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 210434,
+      "name": "Dil Behra",
+      "url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR"
     },
     {
       "added_at": "2026-03-05 08:36:54",

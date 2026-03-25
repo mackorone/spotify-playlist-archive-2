@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:5WQXxSI1Mw50K1bAo7rd62\">Natalia Marczuk</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:5ct2WFb5gFMXAntFsAwA0y\">Sonia Stein</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 160905,
       "name": "bitch u",
       "url": "https://open.spotify.com/track/7yijgH3JSuf7V28BiSVMa9"
@@ -19485,6 +19485,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5001QUmSIYtq9hKisNjdXI"
+      },
+      "artists": [
+        {
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2eCIuJf0knqLiVc8nMFVPJ"
+    },
+    {
+      "album": {
         "name": "Goni\u0119 Cie\u0144",
         "url": "https://open.spotify.com/album/554Gc3g1ZJfGmXiMofI9vD"
       },
@@ -21068,6 +21086,24 @@
       "duration_ms": 172747,
       "name": "Hide a Lion",
       "url": "https://open.spotify.com/track/5lEgfZ17Vlha5k66Zlwu5u"
+    },
+    {
+      "album": {
+        "name": "Hiena",
+        "url": "https://open.spotify.com/album/5gz63hB4QkQ9QbgKbdReBP"
+      },
+      "artists": [
+        {
+          "name": "Tosia Witkosz",
+          "url": "https://open.spotify.com/artist/1B74WD6CDcCqLOa1qBa1ve"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253775,
+      "name": "Hiena",
+      "url": "https://open.spotify.com/track/5UrKvJtRrQszHZOkSN5E2Y"
     },
     {
       "album": {
@@ -28025,6 +28061,32 @@
     },
     {
       "album": {
+        "name": "krater",
+        "url": "https://open.spotify.com/album/0C4AiG8RAyZzrcvC8eOFwv"
+      },
+      "artists": [
+        {
+          "name": "svberia",
+          "url": "https://open.spotify.com/artist/79mtmfbLFLIJweQ0qxkZhe"
+        },
+        {
+          "name": "hesa",
+          "url": "https://open.spotify.com/artist/3ueQnW1kfCP39gUeeRUcal"
+        },
+        {
+          "name": "Hacki",
+          "url": "https://open.spotify.com/artist/3UxQfsAQ3iVPjSKUjbJV1z"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127857,
+      "name": "krater",
+      "url": "https://open.spotify.com/track/2NwuNvAYAw7Y9wajdSOMZK"
+    },
+    {
+      "album": {
         "name": "Kreski",
         "url": "https://open.spotify.com/album/7zkNpcdsUm0490h20JpjcL"
       },
@@ -29896,6 +29958,24 @@
     {
       "album": {
         "name": "Lato",
+        "url": "https://open.spotify.com/album/73UdWdEcJuIm1is5aJi0tf"
+      },
+      "artists": [
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299749,
+      "name": "Lato",
+      "url": "https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9"
+    },
+    {
+      "album": {
+        "name": "Lato",
         "url": "https://open.spotify.com/album/6bhxIjCKRpcyhrnjJi4Zug"
       },
       "artists": [
@@ -31714,6 +31794,24 @@
       "duration_ms": 151846,
       "name": "Low Blow",
       "url": "https://open.spotify.com/track/6u6vq9pOeuLXThqzCbvxzH"
+    },
+    {
+      "album": {
+        "name": "Lubi\u0119",
+        "url": "https://open.spotify.com/album/7wov9ks7ennYn54mj9iKY6"
+      },
+      "artists": [
+        {
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "Lubi\u0119",
+      "url": "https://open.spotify.com/track/3pQ9GG42h7Gltdwh9bQMfZ"
     },
     {
       "album": {
@@ -37062,7 +37160,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 173463,
       "name": "NA NOWO",
       "url": "https://open.spotify.com/track/2zrJj9AIBfBJHaEAy2l4IS"
@@ -37286,7 +37384,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 239260,
       "name": "Na start",
       "url": "https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z"
@@ -53022,7 +53120,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 246857,
       "name": "pusto tu",
       "url": "https://open.spotify.com/track/3z9r2IqhHWAhbTjLkXPt5C"
@@ -79038,7 +79136,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-25",
       "duration_ms": 213600,
       "name": "\u015awiat\u0142ocienie",
       "url": "https://open.spotify.com/track/6jFu4AP7kffoDWWpfSpAqV"

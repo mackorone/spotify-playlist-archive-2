@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Norway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,610 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,609 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 | 49 | [Bring It](https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Bring It](https://open.spotify.com/album/1zhEdgjIV87BqV6k2eJmUK) | 2:41 |
 | 50 | [KØDD HJEMMESNEKK](https://open.spotify.com/track/4LvChklH91BXOsCuDqTYYk) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU), [Hauk](https://open.spotify.com/artist/3JWinOLLAZmuEynr5CwBHI) | [KØDD](https://open.spotify.com/album/4BD6aUYVYXGGMzc8sSl6dP) | 3:18 |
 
-Snapshot ID: `MVSjQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MVX3GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

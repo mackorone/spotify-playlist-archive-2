@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546832,
+  "num_followers": 546843,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162866,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "CVI",
-        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
-      },
-      "artists": [
-        {
-          "name": "Royal Thunder",
-          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
-        }
-      ],
-      "duration_ms": 417720,
-      "name": "Parsonz Curse",
-      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "The Witching Hour",
         "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "CVI",
+        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
+      },
+      "artists": [
+        {
+          "name": "Royal Thunder",
+          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
+        }
+      ],
+      "duration_ms": 417720,
+      "name": "Parsonz Curse",
+      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
+      },
+      "artists": [
+        {
+          "name": "Hippie Death Cult",
+          "url": "https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl"
+        }
+      ],
+      "duration_ms": 362800,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Dopesmoker",
         "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
-      },
-      "artists": [
-        {
-          "name": "Hippie Death Cult",
-          "url": "https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl"
-        }
-      ],
-      "duration_ms": 362800,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1403,34 +1403,34 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
       },
       "artists": [
         {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
         }
       ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
       },
       "artists": [
         {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9"
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1467,34 +1467,34 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
       "artists": [
         {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
         }
       ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9"
     },
     {
       "added_at": "2026-03-13 04:00:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Shai Gilgeous\-Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,367 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,405 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 | 14 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
 | 15 | [Money](https://open.spotify.com/track/5YbnLKnXsVSOqryu8bxuXb) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sli'merre 2](https://open.spotify.com/album/5X400ozwTzYNr4C1Y7CXkh) | 3:13 |
 | 16 | [Pretty Wicky](https://open.spotify.com/track/61luK792S1LMK9csNzb02G) | [Grinchset](https://open.spotify.com/artist/7GftN2wWXXy2Vod4pn1JBs), [Shawny Binladen](https://open.spotify.com/artist/3pb0PFyGpYoANMvHIMyWci) | [Merry Wickmas 4](https://open.spotify.com/album/20eIWOQxsNLxYbU5s1cyAM) | 1:30 |
-| 17 | [Okra & Fiji](https://open.spotify.com/track/0W03WRauxElLod4I1Ow7uy) | [Digga](https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro) | [Okra & Fiji](https://open.spotify.com/album/0dvLKkSZgI8I70XmM0fLJK) | 2:54 |
+| 17 | [Okra & Fiji](https://open.spotify.com/track/0W03WRauxElLod4I1Ow7uy) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Okra & Fiji](https://open.spotify.com/album/0dvLKkSZgI8I70XmM0fLJK) | 2:54 |
 | 18 | [Evicted](https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Evicted](https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP) | 2:41 |
 | 19 | [Dip](https://open.spotify.com/track/7ttAbCCBNE5FXpHMZkyVxH) | [Brennan Jones](https://open.spotify.com/artist/4PaHlM2H2hC3VQV4BfLo4B) | [Dip](https://open.spotify.com/album/4pZVmvkynk0jJFVAAK7V2c) | 1:43 |
 | 20 | [Ghetto Boyz](https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Ghetto Boyz](https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql) | 2:13 |
