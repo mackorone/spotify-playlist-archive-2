@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2448,
+  "num_followers": 2449,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAACiftrYvjNPnaVvWbreI9pS",
+  "snapshot_id": "acHUAAAAAADcyUqc5N4WYUFmAU2BlliG",
   "tracks": [
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 256367,
-      "name": "Pink Sky",
-      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
+      "duration_ms": 309837,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/49mqv6YBQ0clzBmD8r2frU"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 309837,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/49mqv6YBQ0clzBmD8r2frU"
+      "duration_ms": 256367,
+      "name": "Pink Sky",
+      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love (Deluxe)",
         "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244551,
       "name": "Outside Myself",
       "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 246788,
-      "name": "EOS Brussels - Live",
-      "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love (Deluxe)",
         "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 250509,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 246788,
+      "name": "EOS Brussels - Live",
+      "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
     },
     {
       "added_at": null,

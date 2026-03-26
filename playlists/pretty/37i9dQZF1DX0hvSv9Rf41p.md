@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 featuring Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,979 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,998 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SICK FUCK](https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [SICK FUCK](https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN) | 2:33 |
 | 2 | [Goddess](https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Goddess](https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC) | 2:58 |
 | 3 | [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 |
-| 4 | [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:30 |
+| 4 | [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:03 |
 | 5 | [Zouki](https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Zouki](https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS) | 2:38 |
 | 6 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 7 | [LIGHTS GO OUT \- Dennett Remix](https://open.spotify.com/track/1hQAmS4c99YiiXTORf0pCW) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [LIGHTS GO OUT \[Remixes\]](https://open.spotify.com/album/6WRhnNI7NpNq97oD6Onb4l) | 2:46 |

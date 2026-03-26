@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-760 songs - 1 day 14 hr 13 min
+761 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2022-04-01 | 2026-03-21 |
 | [Bad Obsession](https://open.spotify.com/track/7mRzehs3auawQpljt3VeEj) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Lili Ana](https://open.spotify.com/artist/5bfoSoK5eksUCmoDrsNlQs) | [Bad Obsession](https://open.spotify.com/album/6zWJKxOpGWRnLkr916ZaM6) | 2:33 | 2023-05-26 |  |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2024-01-02 | 2024-04-19 |
-| [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2022-01-14 |  |
+| [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2022-01-14 | 2026-03-26 |
 | [Bali Dreams](https://open.spotify.com/track/1iPDwEQL3X0hdtCt1Z8Sy4) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Bali Dreams](https://open.spotify.com/album/6wNYexuk3ahfSbPgsGf1vS) | 2:29 | 2022-12-23 |  |
 | [Be My Lover](https://open.spotify.com/track/1aajQbw23khpQMme1AeKI6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 3:00 | 2022-01-14 | 2022-04-21 |
 | [Be Okay](https://open.spotify.com/track/60cDK8K6EAvk7SI7xOGVun) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Be Okay](https://open.spotify.com/album/6An2vKOOQFR3B4jTq04cK8) | 2:32 | 2022-01-14 | 2023-05-13 |
@@ -619,6 +619,7 @@
 | [Stick Together](https://open.spotify.com/track/2O2eG4ydk3x5gKOZN0XDXp) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Stick Together](https://open.spotify.com/album/3spz9fyI2iLi6rgliW6tTG) | 3:03 | 2023-05-12 | 2023-11-07 |
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-02-18 | 2022-04-09 |
 | [Stop Us Now](https://open.spotify.com/track/407OgfKRnLOrbepgBqwlRO) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/6QiaLv2HcP28eMM5lkmfyg) | 2:13 | 2023-03-10 | 2024-04-19 |
+| [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 | 2026-03-20 |  |
 | [Strong](https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:30 | 2022-06-17 |  |
 | [Stuck In The Rain](https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Stuck In The Rain](https://open.spotify.com/album/7ab7Ci7GlsYDHYwFlPzdEA) | 2:49 | 2024-07-19 | 2025-04-09 |
 | [Stuck On You](https://open.spotify.com/track/6HdURgU5JoS6IbMrTCC3QM) | [On June](https://open.spotify.com/artist/4B5rYujqJxWucM0JyYsaFn) | [Stuck On You](https://open.spotify.com/album/4NfeEcNunybQTtvxVT8TwT) | 3:32 | 2022-01-14 | 2022-04-21 |

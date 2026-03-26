@@ -1390,6 +1390,28 @@
     {
       "album": {
         "name": "Check This Out",
+        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
+    },
+    {
+      "album": {
+        "name": "Check This Out",
         "url": "https://open.spotify.com/album/1XnfpLcJqpAZsnpj7StCSn"
       },
       "artists": [
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 117677,
       "name": "Get Naughty",
       "url": "https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt"

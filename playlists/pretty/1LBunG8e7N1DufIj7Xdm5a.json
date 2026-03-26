@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIEaS3jFDkvVVv2SVhSP4YUn+PXD3k",
+  "snapshot_id": "AAAIFCi2+ugQJ1WlqXGFiMsQJj5p9i0z",
   "tracks": [
     {
       "added_at": "2026-03-24 17:21:05",
@@ -26404,7 +26404,7 @@
       },
       "artists": [
         {
-          "name": "Plaqueboymax",
+          "name": "PlaqueBoyMax",
           "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         },
         {
@@ -26704,7 +26704,7 @@
           "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
         },
         {
-          "name": "Plaqueboymax",
+          "name": "PlaqueBoyMax",
           "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
@@ -26756,7 +26756,7 @@
           "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "Plaqueboymax",
+          "name": "PlaqueBoyMax",
           "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
@@ -69207,6 +69207,58 @@
       "duration_ms": 235159,
       "name": "Ramounie",
       "url": "https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ"
+    },
+    {
+      "added_at": "2026-03-25 08:48:09",
+      "album": {
+        "name": "Tu \u00faltimo trofeo",
+        "url": "https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt"
+      },
+      "artists": [
+        {
+          "name": "Javi Cobo",
+          "url": "https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ"
+        }
+      ],
+      "duration_ms": 186708,
+      "name": "Tu \u00faltimo trofeo",
+      "url": "https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt"
+    },
+    {
+      "added_at": "2026-03-25 22:44:05",
+      "album": {
+        "name": "7 Stories High",
+        "url": "https://open.spotify.com/album/7jicdugUw0UuzGNOqoQUPE"
+      },
+      "artists": [
+        {
+          "name": "Paytron Saint",
+          "url": "https://open.spotify.com/artist/7fYqPJkpE2ME609cAy8HVG"
+        },
+        {
+          "name": "emzae",
+          "url": "https://open.spotify.com/artist/07o9bmQoF82RqJz4ey7oJr"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "7 Stories High",
+      "url": "https://open.spotify.com/track/7lLkM5uwtOko2oRjudvNHp"
+    },
+    {
+      "added_at": "2026-03-25 22:44:08",
+      "album": {
+        "name": "Dream (Ek Khwaab)",
+        "url": "https://open.spotify.com/album/5dfliLlUA3EPs3WlSABvu5"
+      },
+      "artists": [
+        {
+          "name": "Sunsara",
+          "url": "https://open.spotify.com/artist/2vcmaaRJAq9YmTX5OIbrqH"
+        }
+      ],
+      "duration_ms": 182922,
+      "name": "Dream (Ek Khwaab)",
+      "url": "https://open.spotify.com/track/4DSXk7IIAQ6ZCyxaTFOuen"
     }
   ],
   "unique_name": "playlist spotify free",

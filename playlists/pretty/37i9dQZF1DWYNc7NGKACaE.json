@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83796,
+  "num_followers": 83793,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Meus Manos Faz Dinheiro Com Site",
+        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
+      },
+      "artists": [
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Meus Manos Faz Dinheiro Com Site",
+      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Meus Manos Faz Dinheiro Com Site",
-        "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
-      },
-      "artists": [
-        {
-          "name": "St.Borges",
-          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Meus Manos Faz Dinheiro Com Site",
-      "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
     },
     {
       "added_at": "2024-07-08 19:10:57",

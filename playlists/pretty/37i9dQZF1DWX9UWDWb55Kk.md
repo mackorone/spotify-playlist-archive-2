@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,317 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,309 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -332,7 +332,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 322 | [Sombra, Céu e Mar](https://open.spotify.com/track/2NTlkPI3LGiL9NlUjUML4v) | [Pedro Dralha](https://open.spotify.com/artist/68LNRWNYznTvfi4foBhP9w) | [Sombra, Céu e Mar](https://open.spotify.com/album/0Ot4Icq9e8uOuXBmintddD) | 3:14 |
 | 323 | [All In Place \(feat\. Bearcubs\) \[Nathan Fake Remix\]](https://open.spotify.com/track/5F2ktgdhVn79jwhnxouAjO) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [All In Place \(feat\. Bearcubs\) \[Remixes\]](https://open.spotify.com/album/4r6LMenu9pD3n3UYNbmTlp) | 6:24 |
 | 324 | [Throw It Down](https://open.spotify.com/track/5HSncYIiSbQ7BQbhKBoHQh) | [Dominique Young Unique](https://open.spotify.com/artist/6e9YXVneoNtzARrkVUauiz) | [Throw It Down](https://open.spotify.com/album/288UGY9vHGwSEzz95hJYKp) | 3:16 |
-| 325 | [24/7](https://open.spotify.com/track/0HEzXmxtvdjHcPgJW4Hw1K) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Fox](https://open.spotify.com/artist/6eO1jL0l3yjWg5W5AMo9lM) | [24 / 7](https://open.spotify.com/album/4MjxsNYkG5oaoJWPcWX8YD) | 4:10 |
+| 325 | [24/7](https://open.spotify.com/track/0HEzXmxtvdjHcPgJW4Hw1K) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7), [Fox](https://open.spotify.com/artist/6x7WHx1twJS5hrPuAdy8ly) | [24 / 7](https://open.spotify.com/album/4MjxsNYkG5oaoJWPcWX8YD) | 4:10 |
 | 326 | [Como un Dragón](https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 2:50 |
 | 327 | [Vanishing Act](https://open.spotify.com/track/6iQt4NLg66oW2WDtM4NlSc) | [The Serfs](https://open.spotify.com/artist/4hGBPA9OiMmKdflu3mJO8o) | [Sounds of Serfdom](https://open.spotify.com/album/4gFzLOHDSn4mkZHuWBKh8F) | 3:36 |
 | 328 | [CNTRL US](https://open.spotify.com/track/6EkChOeB6ExGbNCTSaiKuO) | [FATA BOOM](https://open.spotify.com/artist/4GioeqLGgBkn9rRB12bor4) | [BOA](https://open.spotify.com/album/66d3YQ2FsyDW1oUTpoEe0Z) | 3:17 |

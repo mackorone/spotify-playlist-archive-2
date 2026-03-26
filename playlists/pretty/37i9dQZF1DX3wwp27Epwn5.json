@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 259753,
+  "num_followers": 259948,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
+        "name": "Chikni Chameli",
+        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Chikni Chameli",
+      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
         "name": "Band Baaja Baaraat",
         "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 267624,
       "name": "Ainvayi Ainvayi",
       "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
-        "name": "Chikni Chameli",
-        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Chikni Chameli",
-      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -635,54 +635,6 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Zinda",
-      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
-        "name": "O Saki Saki (From \"Batla House\")",
-        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        }
-      ],
-      "duration_ms": 191089,
-      "name": "O Saki Saki (From \"Batla House\")",
-      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
-    },
-    {
-      "added_at": "2026-03-19 09:42:36",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -723,30 +675,50 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+        "name": "O Saki Saki (From \"Batla House\")",
+        "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
       "artists": [
         {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
           "name": "Neha Kakkar",
           "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         },
         {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
         },
         {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
         }
       ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
+      "duration_ms": 191089,
+      "name": "O Saki Saki (From \"Batla House\")",
+      "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Zinda",
+      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -775,6 +747,34 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "added_at": "2026-03-19 09:42:36",
+      "album": {
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -1123,26 +1123,30 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Jab Koi Baat - Recreated",
-        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
+        "name": "Loveyatri - A Journey Of Love",
+        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
       },
       "artists": [
         {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
         },
         {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
         }
       ],
-      "duration_ms": 192228,
-      "name": "Jab Koi Baat - Recreated",
-      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+      "duration_ms": 249741,
+      "name": "Chogada",
+      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
     },
     {
       "added_at": "2026-03-19 09:42:36",
@@ -1171,30 +1175,26 @@
     {
       "added_at": "2026-03-19 09:42:36",
       "album": {
-        "name": "Loveyatri - A Journey Of Love",
-        "url": "https://open.spotify.com/album/2zkyMw73XzNXUQaXTb4cio"
+        "name": "Jab Koi Baat - Recreated",
+        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
       "artists": [
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
         },
         {
-          "name": "Lijo George-Dj Chetas",
-          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
         }
       ],
-      "duration_ms": 249741,
-      "name": "Chogada",
-      "url": "https://open.spotify.com/track/1HBGWNyoRJhxvsfO8LLFDo"
+      "duration_ms": 192228,
+      "name": "Jab Koi Baat - Recreated",
+      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
     },
     {
       "added_at": "2026-03-19 09:42:36",

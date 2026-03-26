@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,179 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,196 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 18 | [Universo Paralelo](https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Universo Paralelo](https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj) | 4:57 |
 | 19 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
 | 20 | [Retorno](https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V) | [Trio Cocomarola](https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe) | [20 Superéxitos Originales, Vol\. 2](https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt) | 2:57 |
-| 21 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
-| 22 | [Kilometro 11](https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:42 |
+| 21 | [Kilometro 11](https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:42 |
+| 22 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
 | 23 | [Enero](https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 3:17 |
 | 24 | [Pastor Luna y Su Acordeón](https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [30 Años Con el Chamamé](https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf) | 2:11 |
 | 25 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 58 | [Bien picadito](https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN) | [Los Taitas](https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:48 |
 | 59 | [Pájaro Chogüí](https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh) | [Juanjo Dominguez](https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo), [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Pájaro Chogüí](https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4) | 2:18 |
 | 60 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
-| 61 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
-| 62 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
+| 61 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
+| 62 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
 | 63 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 |
 | 64 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
 | 65 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |

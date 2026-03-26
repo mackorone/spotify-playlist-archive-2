@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-214 songs - 11 hr 9 min
+215 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:09 | 2022-04-20 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:09 | 2022-07-22 | 2024-04-19 |
 | [I\. I\. Know Me](https://open.spotify.com/track/0vB9kOqmrTzT8grUQPmXWZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:38 | 2025-10-10 |  |
+| [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 | 2026-03-25 |  |
 | [ICY](https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2022-04-20 |  |
 | [ICY \- English Ver.](https://open.spotify.com/track/0H76idYK173LwctmFntEdz) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) | 3:11 | 2022-07-22 | 2024-04-19 |

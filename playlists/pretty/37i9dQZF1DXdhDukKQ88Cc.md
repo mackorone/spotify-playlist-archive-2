@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Merro8
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,001 likes - 61 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,991 likes - 61 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

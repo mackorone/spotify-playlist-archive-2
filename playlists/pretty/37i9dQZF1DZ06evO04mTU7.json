@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 13766,
+  "num_followers": 13802,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAADb09kmMRKcrnDCJr2Th3im",
+  "snapshot_id": "acHUAAAAAABGjOKmCuH/wL2l5UzY1Fo0",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 142624,
-      "name": "Pense como uma diva",
-      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
+      "duration_ms": 53375,
+      "name": "Interl\u00fadio [MINI SAIA]",
+      "url": "https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 53375,
-      "name": "Interl\u00fadio [MINI SAIA]",
-      "url": "https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx"
+      "duration_ms": 142624,
+      "name": "Pense como uma diva",
+      "url": "https://open.spotify.com/track/1Y2fWIYNY1faSU6Z7L6Mdo"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Pq a Policia Smp Acaba Com a Festa?",
-      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aju",
         "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 204013,
       "name": "O Suficiente (feat. N.I.N.A)",
       "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pq a Policia Smp Acaba Com a Festa?",
+      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 138545,
-      "name": "Cigana",
-      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Chavosa",
         "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 217306,
       "name": "Mina Chavosa",
       "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 138545,
+      "name": "Cigana",
+      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
     },
     {
       "added_at": null,
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 129386,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 118545,
       "name": "Mil e uma Treta",
       "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 129386,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J"
     },
     {
       "added_at": null,

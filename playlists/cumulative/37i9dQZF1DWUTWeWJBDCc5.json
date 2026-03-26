@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Hypnagogia",
+        "url": "https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx"
+      },
+      "artists": [
+        {
+          "name": "Lee Seol Ah",
+          "url": "https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Hypnagogia",
+      "url": "https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs"
+    },
+    {
+      "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6"
       },

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: eli wan
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,790 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,792 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [cute girls online](https://open.spotify.com/track/1aStOPLlxnzXx2Z8kjkTJI) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [cute girls online](https://open.spotify.com/album/7BTGogfM7cN5cEzVq1uq5q) | 2:53 |
-| 2 | [Track 6](https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Yours Truly](https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw) | 0:00 |
+| 2 | [What You Do](https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Yours Truly](https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw) | 3:30 |
 | 3 | [hello](https://open.spotify.com/track/10HkcKldxntNwW4W9m998V) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [hello](https://open.spotify.com/album/3cxt0budBXJt5kuorU6PxF) | 1:16 |
 | 4 | [Falling](https://open.spotify.com/track/0GqAS4RZn7LrmCE1KEoUqE) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [Falling](https://open.spotify.com/album/1yGXaDRHNo3G0qZSfGCSPg) | 3:24 |
 | 5 | [Lose My Faith](https://open.spotify.com/track/6aMkYzUS4zih0w3ZDmRaHj) | [Runaway Mornings](https://open.spotify.com/artist/4obmRhMTt58taKphbhShpq) | [Lose My Faith](https://open.spotify.com/album/5UJYvothkbvJrTdwcrXiad) | 3:43 |

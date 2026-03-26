@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-329 songs - 15 hr 22 min
+331 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Ceredona Peace \(Nature\)](https://open.spotify.com/track/253f7Tp8DzFA5q1xKlyF4K) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Ceredona Peace \(Nature\)](https://open.spotify.com/album/58qI5TV9Qdnj65CQtzldvH) | 2:42 | 2024-03-05 | 2025-09-25 |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 | 2024-07-19 |
 | [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2025-12-03 |  |
+| [Cleared Minds](https://open.spotify.com/track/3mtc57f0uNe2l10030GdhY) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Cleared Minds](https://open.spotify.com/album/0NRTDJY07T7InXgDq35qJd) | 2:37 | 2026-03-20 |  |
 | [Clearing](https://open.spotify.com/track/6Mwk3R7MPHpUHXutMKS80e) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Clearing](https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH) | 2:37 | 2025-06-11 | 2025-10-05 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2024-01-25 | 2026-03-21 |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2025-02-21 |  |
@@ -126,7 +127,7 @@
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 | 2026-03-21 |
 | [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 | 2026-03-05 |
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
-| [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 |  |
+| [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 | 2026-03-26 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
 | [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-20 |  |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2026-02-27 |
@@ -186,7 +187,7 @@
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-03 | 2024-08-24 |
 | [Midnight](https://open.spotify.com/track/06sSsDhDSjhMXF9Y65CfWc) | [Bergdahl](https://open.spotify.com/artist/2imD2tcPPvJrdB8qzu1fqU) | [Midnight](https://open.spotify.com/album/4vEVnCGo8rzZQLCbKJrQ1S) | 2:47 | 2025-01-15 |  |
 | [Midrib](https://open.spotify.com/track/5oYxD5jqVkJLLld1Wxw6mb) | [Canopy Sound](https://open.spotify.com/artist/6tjeq3snhkGGVQrBRMzr0s) | [Midrib](https://open.spotify.com/album/5GsUgnGOmiBv0tYrDzYrky) | 2:05 | 2026-03-20 |  |
-| [Mindspring](https://open.spotify.com/track/7uFxNG7npT3u3616NVIrUW) | [Aron Verne](https://open.spotify.com/artist/660tFAiz8h0EhFzkv3mn8f) | [Mindspring](https://open.spotify.com/album/10VQjCmWmU6gwRpXMqpeLm) | 2:44 | 2026-03-20 |  |
+| [Mindspring](https://open.spotify.com/track/7uFxNG7npT3u3616NVIrUW) | [Aron Verne](https://open.spotify.com/artist/660tFAiz8h0EhFzkv3mn8f) | [Mindspring](https://open.spotify.com/album/10VQjCmWmU6gwRpXMqpeLm) | 2:44 | 2026-03-20 | 2026-03-26 |
 | [Morning Calm](https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Morning Calm](https://open.spotify.com/album/5Wz3ispw5iUtBpQ44kHNoC) | 2:16 | 2023-10-26 | 2025-10-16 |
 | [Morning light](https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Morning light](https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz) | 2:20 | 2024-05-01 | 2025-09-25 |
 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 | 2023-07-06 | 2026-03-21 |
@@ -226,6 +227,7 @@
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-03 | 2024-07-19 |
 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-03 | 2025-05-30 |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-03-01 |  |
+| [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-03-20 |  |
 | [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
 | [Preserve](https://open.spotify.com/track/6YhbiFMbQqR6gIxVAVmgVc) | [Rothko Field](https://open.spotify.com/artist/6nj5OIlIUCySoVkxI0Hkdi) | [Preserve](https://open.spotify.com/album/1hk3b0vL3gkBybeUvY8Sm0) | 3:46 | 2026-03-20 | 2026-03-23 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |

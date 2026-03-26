@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,694 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,707 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [De Chamaquito](https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [De Chamaquito](https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6) | 2:50 |
-| 2 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
+| 2 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
 | 3 | [YO QUIERO](https://open.spotify.com/track/47sQ0h1xhlDWJ3nHbwYPrg) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El SEI66EIS](https://open.spotify.com/album/35Ti0k1sTuvL2UdCtSieZY) | 2:27 |
 | 4 | [TOPSHELF](https://open.spotify.com/track/6RCX0Bbldbl9kR5cHbaQdj) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 2:52 |
 | 5 | [Loyalty 4 Ever](https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Loyalty 4 Ever](https://open.spotify.com/album/6paSdgWQaYeRJtvhiHdvg1) | 2:15 |

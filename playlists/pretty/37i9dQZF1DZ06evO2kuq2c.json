@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 87826,
+  "num_followers": 87856,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAC0T3JAhxJHHKTZy0pRGJYA",
+  "snapshot_id": "acHUAAAAAABl4Qf6P012+NHj6NEvy9+t",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 228017,
-      "name": "A Match Made in Heaven",
-      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the classic symptoms of a broken spirit",
         "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 259143,
       "name": "burn down my house",
       "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "A Match Made in Heaven",
+      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
     },
     {
       "added_at": null,

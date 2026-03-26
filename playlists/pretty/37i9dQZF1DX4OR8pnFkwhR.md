@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover:  Blue Mash
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,036 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,033 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 2 | [Suisen](https://open.spotify.com/track/2w34CrdjxlPCJCjGjQWtqo) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Suisen](https://open.spotify.com/album/2eDAQhm73NveAr4YcucC3f) | 4:14 |
 | 3 | [Tell me](https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Tell me](https://open.spotify.com/album/0rIcateMjkrV6XnCbaXt2T) | 4:20 |
 | 4 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
-| 5 | [Track 8](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 0:00 |
+| 5 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |
 | 6 | [What is ×？](https://open.spotify.com/track/7y2ovHbWCiD84HJ5Cg70Ie) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [What is ×？](https://open.spotify.com/album/6MwhfUQaPtzG6Y4G4eTStn) | 3:20 |
 | 7 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
 | 8 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |

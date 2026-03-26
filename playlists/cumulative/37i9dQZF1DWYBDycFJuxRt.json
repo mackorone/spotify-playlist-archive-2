@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mr.Children *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344832\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mr.Children *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344995\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3832,6 +3832,24 @@
       "duration_ms": 3420972,
       "name": "2026/3/18 LANA & Elle Teresa\u304c\u30b3\u30e9\u30dc\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u306b\u3057\u306a\u306e\u30ed\u30f3\u30b0\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\u914d\u4fe1\uff01Ado\u306e\u65b0\u66f2\u3001yama\u306eEP\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
       "url": "https://open.spotify.com/episode/6rSsfysq1VWqtTXDzBvn7f"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1368978,
+      "name": "2026/3/25 Mr.Children\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001\u7f8a\u6587\u5b66\u306e\u65b0\u66f2\u3082\uff01kZm\u306e\u65b0\u66f2\u3001\u6ce8\u76ee\u306e\u30cb\u30e5\u30fc\u30ab\u30de\u30fcKianna\u306e\u65b0\u4f5c\u3082\uff01",
+      "url": "https://open.spotify.com/episode/00sQkW8ERGVSUYpF904ruQ"
     },
     {
       "album": {
@@ -39500,6 +39518,24 @@
       "duration_ms": 225635,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/6Ys2psgB8YN94104K19FcO"
+    },
+    {
+      "album": {
+        "name": "Sebone -spinal column-",
+        "url": "https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198285,
+      "name": "Destruction",
+      "url": "https://open.spotify.com/track/6W9PknpFN4App1UrntPMnp"
     },
     {
       "album": {
@@ -116001,6 +116037,24 @@
     },
     {
       "album": {
+        "name": "1626",
+        "url": "https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "one room",
+      "url": "https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t"
+    },
+    {
+      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -148637,6 +148691,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/3G6wttbJTyi0uAxu6vw1Ca"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/6Yt70TWTOVkUZVG9gkMpIk"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2KAeprItZNuxOyd0lelgSD"
       },
@@ -164696,42 +164768,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "Sebone -spinal column-",
-        "url": "https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1"
-      },
-      "artists": [
-        {
-          "name": "Tota",
-          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
-        }
-      ],
-      "date_added": "2026-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6W9PknpFN4App1UrntPMnp"
-    },
-    {
-      "album": {
-        "name": "1626",
-        "url": "https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4"
-      },
-      "artists": [
-        {
-          "name": "Re:name",
-          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
-        }
-      ],
-      "date_added": "2026-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t"
     },
     {
       "album": {

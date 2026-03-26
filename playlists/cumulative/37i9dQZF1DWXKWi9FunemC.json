@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Boundary Lines",
+        "url": "https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9"
+      },
+      "artists": [
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243433,
+      "name": "Boundary Lines",
+      "url": "https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9"
+    },
+    {
+      "album": {
         "name": "Bread of Life (John 6)",
         "url": "https://open.spotify.com/album/2Zg88VYwRmOEkv7mZNW8aU"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 216666,
       "name": "For The Win (feat. BERKLEE Summer Gospel Choir)",
       "url": "https://open.spotify.com/track/3YTY1ZmVqe0UYDjbhdvtQv"

@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108238,
+  "num_followers": 108242,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAD1X5/j7UouBcHDgxMHKrER",
+  "snapshot_id": "acHUAAAAAAAK1hdUHSsl1JppxteGu4ht",
   "tracks": [
     {
       "added_at": null,
@@ -475,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Zomer",
-      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voor Jou",
         "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203933,
       "name": "Ik Weet 'T Zeker",
       "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Zomer",
+      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
     },
     {
       "added_at": null,

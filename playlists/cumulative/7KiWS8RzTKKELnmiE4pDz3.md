@@ -4,7 +4,7 @@
 
 > 
 
-1,408 songs - 3 day 2 hr 31 min
+1,409 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,6 +1056,7 @@
 | [Round Here](https://open.spotify.com/track/2jJeoy0Xq8sEtn3upQCXge) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [2wo2imes](https://open.spotify.com/artist/4o8uzbQaWtcDX3hbgulrPe) | [2wo Glokks](https://open.spotify.com/album/5CPcnwgYWekR1saI8AxHyj) | 2:34 | 2023-02-09 | 2023-05-09 |
 | [Run + Ran](https://open.spotify.com/track/3kB7daTMGpX2hPRXdZww6M) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 4:04 | 2022-03-01 | 2023-05-09 |
 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 | 2025-01-29 | 2026-02-08 |
+| [RUSSIAN ROULETT3](https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [R3SET](https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR) | 3:47 | 2026-03-26 |  |
 | [RZA](https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:12 | 2025-11-11 |  |
 | [S.N.O.R.T.](https://open.spotify.com/track/121dfA7j6eDlvLSeGP1ZDU) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Price Of Tea In China](https://open.spotify.com/album/52yTF9qryiuTlSNqhHObgd) | 3:11 | 2026-03-05 |  |
 | [Salute](https://open.spotify.com/track/1tjpoAROSHmr9QLb7Ibqoq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:45 | 2023-01-10 | 2025-05-21 |

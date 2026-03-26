@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: eli wan
 
-4,475 songs - 10 day 6 hr 42 min
+4,475 songs - 10 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4042,7 +4042,6 @@
 | [TOUR PARTY FREESTYLE](https://open.spotify.com/track/5hdwwOakF2q2EnEgZ7SBAS) | [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO) | [TOUR PARTY FREESTYLE](https://open.spotify.com/album/6zz5U6dT3IH2mDmTbwxHS5) | 2:24 | 2023-04-19 | 2023-05-11 |
 | [Toxic Traits](https://open.spotify.com/track/1x3U1l5mI0KK0nrRAmXJlC) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 3:39 | 2022-03-09 | 2022-03-31 |
 | [Toyfriend](https://open.spotify.com/track/3QFTTRFU90EHB5B4tmMebo) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Toyfriend](https://open.spotify.com/album/15vX7MZz8RKLcGh9Puwpcm) | 3:12 | 2022-11-23 | 2022-12-01 |
-| [Track 6](https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Yours Truly](https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw) | 0:00 | 2026-03-24 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-16 | 2022-09-09 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-08 | 2023-03-02 |
@@ -4303,6 +4302,7 @@
 | [What They Say](https://open.spotify.com/track/378QOKpGBbvh8nhFWfQ5pS) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [What They Say](https://open.spotify.com/album/7q5DmM8ohWhr2Vy0XAk92S) | 2:38 | 2022-07-19 | 2022-08-25 |
 | [What U Do](https://open.spotify.com/track/7HbVJ7YXeHHGl3Ketpl86z) | [Haz' Beats](https://open.spotify.com/artist/2PMFm0z412L9xRCPRfMmkN), [Miloux](https://open.spotify.com/artist/0wxqHrY3M43hkutOC6qDHW), [Diggy Dupé](https://open.spotify.com/artist/4H3PAXVo7CJWQj30ndGKSn) | [What U Do](https://open.spotify.com/album/4HS7vExeFMNa787nkOH8eY) | 3:10 | 2023-02-15 | 2023-03-02 |
 | [What Would I Say?](https://open.spotify.com/track/7qkpgAsNmZf0FXSuuoEqAQ) | [Franjapan](https://open.spotify.com/artist/29ix5Jf7vHFGE2O83rVOph), [Lucinda Grace](https://open.spotify.com/artist/0DtDYMHDqpbrGnLqOeLtZd) | [What Would I Say?](https://open.spotify.com/album/3s7wRZHxNiJSv4IndzfKJ6) | 3:39 | 2026-03-03 |  |
+| [What You Do](https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Yours Truly](https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw) | 3:30 | 2026-03-24 |  |
 | [What You Do When You're Alone](https://open.spotify.com/track/1sQYuiQ4eyj9azn3PzDjSR) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [What You Do When You're Alone](https://open.spotify.com/album/5N7AtTdiKPcZKDEeGN5jOC) | 3:41 | 2023-08-23 | 2024-01-25 |
 | [What you really meant](https://open.spotify.com/track/7BAdjoqu3g8oMaxXSvfl7k) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [What you really meant](https://open.spotify.com/album/7M7kVRwwdRhWXYf5NUGcvw) | 3:36 | 2025-04-16 | 2025-05-07 |
 | [what's stopping u?](https://open.spotify.com/track/6ybAbKJ7Kl69A1dXqyGvXq) | [yung taj](https://open.spotify.com/artist/6OArouH9VE03TBrqTVCDBL) | [what's stopping u?](https://open.spotify.com/album/0OLzSRY5LlZ6ZLCAgKNpHL) | 2:20 | 2022-06-29 | 2022-07-20 |

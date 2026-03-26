@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Feral Child",
+        "url": "https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq"
+      },
+      "artists": [
+        {
+          "name": "Bit Commander",
+          "url": "https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415758,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
       },

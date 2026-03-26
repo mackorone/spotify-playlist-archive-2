@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-575 songs - 1 day 11 hr 25 min
+576 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Her](https://open.spotify.com/track/4qhQ4ociO0X2DJ7f6wfMO1) | [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74), [Kieran San Jose](https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli) | [Her](https://open.spotify.com/album/23bHuDzuxVbdW1TOOwouSZ) | 2:50 | 2024-04-14 | 2024-07-08 |
 | [Here We Go](https://open.spotify.com/track/080bUKejMMUN957hN65IQj) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Here We Go](https://open.spotify.com/album/3S4RwSZnPfKrjz28VqUsoS) | 3:24 | 2024-04-14 | 2024-05-20 |
 | [Hey Dj](https://open.spotify.com/track/4vYxbrQSa8i5iZbSeewOmH) | [Freenzy Music](https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q), [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Carnival 2023](https://open.spotify.com/album/3j1ggzb2j0axnzP9oUXB2h) | 5:27 | 2023-02-12 | 2023-03-06 |
+| [Hey Doctor \(Au Al Metge\)](https://open.spotify.com/track/3zRufxMw9sdcq3Bpevm9Eh) | [Javier Castillo](https://open.spotify.com/artist/5cLWmZxDeP7ZNAas6AWcr7) | [Hey Doctor \(Au Al Metge\)](https://open.spotify.com/album/68ybwxlIHVnRsCcB7EhWg7) | 4:25 | 2026-03-25 |  |
 | [High](https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [High](https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT) | 3:05 | 2023-11-26 | 2024-02-05 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-17 | 2023-12-14 |
 | [Hold Me Closer](https://open.spotify.com/track/4wSBgV0keQ7xyR4haqwcz0) | [Amplified Droid](https://open.spotify.com/artist/6CYQ04X8ltudhGEA9XEasZ) | [Hold Me Closer](https://open.spotify.com/album/56hyhypmdISO8lEzc5LF1w) | 3:44 | 2026-03-22 |  |

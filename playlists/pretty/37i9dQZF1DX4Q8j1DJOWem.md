@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองที่นี่เลย! ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,045 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,046 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [WRU](https://open.spotify.com/track/2oOXUdO2q9NmwiHDNIVZD0) | [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [WRU](https://open.spotify.com/album/5zxJ01PM1eInrvmynZmHwe) | 3:00 |
 | 50 | [เวลาไม่เยียวยา](https://open.spotify.com/track/2XFImI07ekwDgnkDeJkJtk) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [Like You Never Left](https://open.spotify.com/album/33UVHOkjjuWshFXOwMKTNP) | 3:59 |
 
-Snapshot ID: `AAAAAEWDJ0feZxIPzCY64C585ck2wwpq`
+Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

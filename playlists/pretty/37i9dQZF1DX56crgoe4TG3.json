@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284886,
+  "num_followers": 284903,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The Bluegrass Tribute to Guns n' Roses",
-        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
       },
       "artists": [
         {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -395,6 +391,26 @@
       "duration_ms": 229516,
       "name": "She's A Rainbow",
       "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The Bluegrass Tribute to Guns n' Roses",
+        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 299213,
       "name": "Come On In My Kitchen",
       "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
-        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -519,6 +499,26 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 187924,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Hits of Newgrass",
-        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 268800,
       "name": "Linger",
       "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "added_at": "2026-02-04 05:00:53",

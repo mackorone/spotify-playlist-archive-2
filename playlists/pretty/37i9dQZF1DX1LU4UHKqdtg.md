@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: izna
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,556 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,572 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 22 | [RUDE! \- Japanese Ver.](https://open.spotify.com/track/4A6mBa9t394jUD5dLrD2tG) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE! \(Japanese Ver.\)](https://open.spotify.com/album/5gsCmuvFMOEfCcozDRylqL) | 3:20 |
 | 23 | [Swipe It Out](https://open.spotify.com/track/3QgQhBHtQvRpAulIfNwcRG) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Boyfriend on Demand Part 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6mCYF2uLo54ItZStvpX01y) | 2:56 |
 | 24 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
-| 25 | [Chance \~ 好きだっていう前に \~](https://open.spotify.com/track/0QqW5kG5GgHiu6E62k55rt) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Chance \~ 好きだっていう前に \~](https://open.spotify.com/album/6jNQ5W9wj5qPZjXKUzFa9T) | 3:43 |
+| 25 | [Chance \~ switch on \~](https://open.spotify.com/track/0QqW5kG5GgHiu6E62k55rt) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Chance \~ switch on \~](https://open.spotify.com/album/6jNQ5W9wj5qPZjXKUzFa9T) | 3:43 |
 | 26 | [Keychain \- FROM THE FILM K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(FROM THE FILM K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 |
 | 27 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
 | 28 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |

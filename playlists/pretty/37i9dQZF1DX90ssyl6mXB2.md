@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Pimmie
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,075 likes - 169 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,068 likes - 169 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 12 | [FIGURED YOU OUT](https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR) | [Devkota](https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm) | [FIGURED YOU OUT](https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX) | 2:14 |
 | 13 | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/album/3MvMF1icYkiH7fdpXHpOBa) | 2:53 |
 | 14 | [Don't Wait](https://open.spotify.com/track/71oaf11CBiDgpI9wbjkVtD) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Love Games](https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc) | 2:33 |
-| 15 | [wyd \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6BeBTdd0bE2rim6FGePOdC) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [wyd \(feat\. Bryson Tiller\)](https://open.spotify.com/album/3MHYYitTirzsOFjh3mhNv1) | 3:21 |
+| 15 | [wyd \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6BeBTdd0bE2rim6FGePOdC) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [wyd \(feat\. Bryson Tiller\)](https://open.spotify.com/album/3MHYYitTirzsOFjh3mhNv1) | 3:21 |
 | 16 | [AGAIN](https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [AGAIN](https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn) | 2:31 |
 | 17 | [All The Signs \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:20 |
 | 18 | [heartbreak dr](https://open.spotify.com/track/0r8kAkPKjNcGCAv1MbLH68) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [Tyde of your Apologies](https://open.spotify.com/album/51BPyWOGHre1gI1BOWUYtm) | 3:31 |

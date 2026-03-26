@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29851,
+  "num_followers": 29852,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
-      },
-      "artists": [
-        {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173124,
       "name": "Bail\u00e1 Bail\u00e1",
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
+      },
+      "artists": [
+        {
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "I Won't Shake (La La Gunilla)",
-        "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
+        "name": "90-talet",
+        "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
       "artists": [
         {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+          "name": "WAHL",
+          "url": "https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
         }
       ],
-      "duration_ms": 179798,
-      "name": "I Won't Shake (La La Gunilla)",
-      "url": "https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId"
+      "duration_ms": 176578,
+      "name": "90-talet",
+      "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
     }
   ],
   "unique_name": "Mellofest! ",

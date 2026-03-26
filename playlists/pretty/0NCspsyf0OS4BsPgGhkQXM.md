@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,019,976 likes - 153 songs - 7 hr 56 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,019,938 likes - 153 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 23 | [falling down](https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [falling down](https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ) | 2:01 |
 | 24 | [antidepressants](https://open.spotify.com/track/6rWLrj4M3PDu6XpgjY7vAU) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [antidepressants](https://open.spotify.com/album/7ymEP219k33PfwUwrHHI3C) | 1:58 |
 | 25 | [Overthinker](https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/1eCYiLDLT6ZLzCeThN90UF) | 4:28 |
-| 26 | [All Around Me \- Majed Remix](https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg) | [Majed](https://open.spotify.com/artist/1qUxaI5qlJjHsBBCohdkMh), [Luna Orbit](https://open.spotify.com/artist/78VO39HCLuuqEBGzPO6xts) | [All Around Me \(Majed Remix\)](https://open.spotify.com/album/1K4bnbCGdls1tHDR4oLWSC) | 2:59 |
+| 26 | [All Around Me \- Majed Remix](https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg) | [MAJED](https://open.spotify.com/artist/1qUxaI5qlJjHsBBCohdkMh), [Luna Orbit](https://open.spotify.com/artist/78VO39HCLuuqEBGzPO6xts) | [All Around Me \(Majed Remix\)](https://open.spotify.com/album/1K4bnbCGdls1tHDR4oLWSC) | 2:59 |
 | 27 | [Home \- Vintage Culture Remix](https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Home \(Vintage Culture Remix\)](https://open.spotify.com/album/3uSsJLIv6eQeDUZt5tWBaH) | 3:33 |
 | 28 | [Quick Musical Doodles](https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:24 |
 | 29 | [Alive Again](https://open.spotify.com/track/5g5CCZImtkNV2LLAuLpk1A) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [Alive Again](https://open.spotify.com/album/0CZBro2uO2wKiBbmCqDd3F) | 4:00 |

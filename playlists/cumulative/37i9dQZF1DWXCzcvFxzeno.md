@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-363 songs - 1 day 0 hr 45 min
+364 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Can You Feel It](https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [CHAST](https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB) | [Can You Feel It](https://open.spotify.com/album/57bbRzO01n3k5md318EFtK) | 4:06 | 2024-07-21 | 2024-08-06 |
 | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/track/4fXvts788dXktwkYXJeYJt) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/album/2EZpctLyjdoeLVrR5kf7KU) | 3:33 | 2025-02-07 | 2025-02-21 |
 | [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 | 2024-09-07 |
+| [Check This Out](https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf), [Exproz](https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU) | [Check This Out](https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s) | 2:36 | 2026-03-20 |  |
 | [Check This Out](https://open.spotify.com/track/3a89QceqmzHlPRaogH5nJw) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Check This Out](https://open.spotify.com/album/1XnfpLcJqpAZsnpj7StCSn) | 2:47 | 2024-11-08 | 2025-01-21 |
 | [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 | 2025-12-10 |
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 | 2025-02-08 |
@@ -139,7 +140,7 @@
 | [Fuera](https://open.spotify.com/track/7wAsvYuM7hcrVt2n6lgfo7) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Fuera](https://open.spotify.com/album/5HfSoyBymCAg7kjSDv4WEm) | 3:06 | 2024-09-27 | 2025-11-07 |
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 | 2024-08-17 |
 | [Fury](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Fury EP](https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E) | 4:00 | 2025-11-07 | 2026-02-11 |
-| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 |  |
+| [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 | 2026-03-26 |
 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 | 2026-03-08 |
 | [GET THE FUCK OUT](https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [GET THE FUCK OUT](https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK) | 2:49 | 2025-03-19 |  |
 | [Get Up](https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Get Up](https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL) | 3:09 | 2025-02-07 | 2025-02-21 |

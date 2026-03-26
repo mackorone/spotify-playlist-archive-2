@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-950 songs - 1 day 21 hr 51 min
+951 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,7 +835,7 @@
 | [Sunmomi](https://open.spotify.com/track/1Pjyw4lq49jK6TRprYKnze) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn), [Demi Mulla](https://open.spotify.com/artist/3sjh5nINlAnwcXW6ugUzVH) | [Sunmomi](https://open.spotify.com/album/2KtvQiuSit87frcTKKtWpN) | 2:59 | 2024-06-14 | 2024-07-21 |
 | [Sunny Ade](https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70) | [STUBBORN](https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Sunny Ade](https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt) | 2:44 | 2025-09-19 | 2026-01-04 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2023-02-24 |
-| [Super](https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Super](https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5) | 2:46 | 2026-01-30 |  |
+| [Super](https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Super](https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5) | 2:46 | 2026-01-30 | 2026-03-26 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-15 |
 | [Sweater](https://open.spotify.com/track/1ORKjE2EqzLlGVpYtBRakf) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 2:15 | 2025-11-28 | 2026-01-23 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-08-26 |
@@ -847,6 +847,7 @@
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-29 |
 | [Talk](https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Talk](https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL) | 3:16 | 2024-10-25 | 2025-08-09 |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2022-02-11 | 2024-02-16 |
+| [Te Amo](https://open.spotify.com/track/1Bj8o6sOn78GviMwhUN8qP) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Te Amo](https://open.spotify.com/album/6WwBsXaOOx96NYudFyd8w0) | 2:44 | 2026-03-20 |  |
 | [Te Nu Mo](https://open.spotify.com/track/0oyZYjXFFwUhwyDDfxGdU1) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [Te Nu Mo](https://open.spotify.com/album/3o798fSJdqlQZ0o5OA57MB) | 2:55 | 2025-04-04 | 2025-05-13 |
 | [Terminator](https://open.spotify.com/track/0wT0YmeVcN1tKaySevcsKb) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [RKC](https://open.spotify.com/artist/1hAAxPEyfrijnKoH9EnNKt) | [Terminator](https://open.spotify.com/album/3AYBAJRNb7fi9hkqcKagA6) | 2:43 | 2024-06-28 | 2024-06-30 |
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2023-07-20 | 2024-06-28 |

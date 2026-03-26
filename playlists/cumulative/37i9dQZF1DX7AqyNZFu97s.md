@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: FIZA
 
-3,549 songs - 7 day 19 hr 10 min
+3,550 songs - 7 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Destiny](https://open.spotify.com/track/6XgDQoQbJTa3js16aPa0Tw) | [Luke RV](https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd) | [Destiny](https://open.spotify.com/album/4LLXspAko0UrTNfqPsMnlM) | 2:02 | 2024-08-13 | 2024-09-11 |
 | [Detached](https://open.spotify.com/track/4mdKdoSBGmeL5zm2D4AtiU) | [FIZA](https://open.spotify.com/artist/2BgtLvix6Nmae2mM1l0iZN) | [Detached](https://open.spotify.com/album/1vIlQyjcuBpqBJNDVLAJYC) | 4:24 | 2026-03-11 |  |
 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-03-02 | 2022-03-31 |
+| [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 | 2026-03-25 |  |
 | [Devil In Me](https://open.spotify.com/track/0IdCTiwXuGahUKkB3VNgwp) | [Cartwright](https://open.spotify.com/artist/3ZgEf1qY1T2Ik1MhUvCanM) | [Devil In Me](https://open.spotify.com/album/4QpFRBbIyeKcFKtMd7fc8j) | 3:02 | 2022-09-21 | 2022-10-20 |
 | [Devil Éire](https://open.spotify.com/track/3Onx1wdkp2GAxr9gyX1JqU) | [Les Bollocks](https://open.spotify.com/artist/6Bc1lYmawMjdG5DRmP6w6p) | [Devil Éire](https://open.spotify.com/album/7D5lpUpMYxV07gsiuSjrkV) | 4:52 | 2025-04-22 | 2025-05-28 |
 | [Didn't Earn This](https://open.spotify.com/track/0c72K1AxUdMm7xiuiGo1jz) | [Bobby Saffron](https://open.spotify.com/artist/3KD3hSu9pVfI52ERPKNYB8) | [Didn't Earn This](https://open.spotify.com/album/56yBnVEQhnORvMVcXVVJ6I) | 3:07 | 2022-09-14 | 2023-01-05 |

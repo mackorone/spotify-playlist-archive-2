@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,092 songs - 3 day 17 hr 59 min
+1,093 songs - 3 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [FOCUS](https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw), [KMNI](https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2) | [FOCUS](https://open.spotify.com/album/6nKI0eexIovx0Xd8BwC54p) | 3:40 | 2026-02-27 |  |
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-03-25 | 2023-09-30 |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 | 2024-04-19 |
+| [For You \(Assiove\)](https://open.spotify.com/track/03JFIC1mWhGPewQu08Sf46) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [For You \(Assiove\)](https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ) | 3:23 | 2026-03-20 |  |
 | [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-13 | 2025-07-12 |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
 | [Forever](https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Forever](https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU) | 3:35 | 2025-08-22 | 2026-03-14 |
@@ -412,7 +413,7 @@
 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 | 2024-02-23 | 2024-06-22 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
 | [Héroe de México](https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [mari](https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ) | [Héroe de México](https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb) | 3:31 | 2024-07-26 | 2025-05-24 |
-| [i can't make you love me](https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:29 | 2025-11-14 |  |
+| [i can't make you love me](https://open.spotify.com/track/1yfQUD0r1tAHwvpIQSE7Ax) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [i can't make you love me / started over](https://open.spotify.com/album/1u7ZRx3ZJ2Qi2Kq6uag5QD) | 3:29 | 2025-11-14 | 2026-03-26 |
 | [I Don't Know](https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [Jawora](https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg) | [I Don't Know](https://open.spotify.com/album/269aLKNdaU2S3kbh5jCHPP) | 3:15 | 2025-04-25 | 2026-03-14 |
 | [I Feel](https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [I Feel EP](https://open.spotify.com/album/3ejftaZR7ToCHPjcoE3KTr) | 5:16 | 2025-03-21 | 2025-05-24 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-07-01 | 2022-10-15 |

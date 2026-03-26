@@ -4,12 +4,13 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-78 songs - 4 hr 54 min
+80 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2025-02-06 |  |
 | [Alive](https://open.spotify.com/track/5SzUrle1WAaMAJjIEZ2YYy) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 5:07 | 2025-02-06 |  |
+| [Alive!](https://open.spotify.com/track/28cm9uWSKVAfZ0HDBlq4rS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:52 | 2026-03-25 |  |
 | [Attitude](https://open.spotify.com/track/108bp2InL1lMrIi1cFkWI7) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw) | [Big Mood Attitude](https://open.spotify.com/album/4XTGugIUJgEbzoL0oH1l2z) | 2:08 | 2025-02-20 |  |
 | [Avalanche](https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity \(2009 \- Remaster\)](https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P) | 5:09 | 2025-02-06 |  |
 | [Baby Drummer](https://open.spotify.com/track/3AL0jiB2Ix2u6x1MKMNcQv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Bad Nerves](https://open.spotify.com/album/2bs2CFgfCEYfNCwfholBYd) | 2:20 | 2025-02-06 |  |
@@ -59,6 +60,7 @@
 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 | 2025-02-06 |  |
 | [One of a Kind](https://open.spotify.com/track/4bH58CXnPCvRoOsgfvqcX5) | [The N3W N3W](https://open.spotify.com/artist/2pTWadxa7S6m2XrXh1Tbpv), [SYDNY](https://open.spotify.com/artist/2JeLt8IW2gvuRu6aDoTjbU) | [One of a Kind](https://open.spotify.com/album/5paCvDalb4NUv5iPU8kRQa) | 2:21 | 2025-02-06 |  |
 | [Paradise](https://open.spotify.com/track/1yjznOLHmk9nMVskfYSMpr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/6QG66B6oznYRrMPLSXZqPZ) | 2:49 | 2025-02-06 |  |
+| [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2026-03-25 |  |
 | [Riding Solo](https://open.spotify.com/track/7ljBw7FDHlYtWhUVKgcm7z) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Riding Solo](https://open.spotify.com/album/7e0HCVNR9U3CZqU1MCn0I6) | 3:36 | 2025-02-06 |  |
 | [Rock the Bells](https://open.spotify.com/track/33KvuePYdzsx7ZqoTj3rHU) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mayday](https://open.spotify.com/album/4kfwZY4Em7ktEHQ31LSTA2) | 2:51 | 2025-02-20 |  |
 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/5X3i6maFdxK5xyO5bXGoQ6) | 3:15 | 2025-02-06 |  |

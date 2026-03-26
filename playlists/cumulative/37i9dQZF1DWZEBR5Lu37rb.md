@@ -2,7 +2,7 @@
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
+> You still believe in love, grand gestures, and songs that feel like a slow dance in the rain.
 
 324 songs - 21 hr 26 min
 

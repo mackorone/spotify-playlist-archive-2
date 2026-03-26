@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16822,
+  "num_followers": 16830,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Soft Machine (U.S. Version)",
-        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Magic Kraut",
-      "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Minami Deutsch",
         "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 546500,
       "name": "Futsu Ni Ikirenai",
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Magic Kraut",
+      "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 414222,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
-    },
-    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Nieve Afuera",
@@ -1279,6 +1263,22 @@
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 414222,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Driving This Road Until Death Sets You Free",
+        "url": "https://open.spotify.com/album/5A90lH9RRt5QotLIbY84N1"
+      },
+      "artists": [
+        {
+          "name": "Zombie Zombie",
+          "url": "https://open.spotify.com/artist/0HVcyKnveIOLkJdAGsE1pk"
+        }
+      ],
+      "duration_ms": 345426,
+      "name": "Driving This Road Until Death Sets You Free",
+      "url": "https://open.spotify.com/track/6P8FNidnNwaKq6SOCJvc4F"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Driving This Road Until Death Sets You Free",
-        "url": "https://open.spotify.com/album/5A90lH9RRt5QotLIbY84N1"
-      },
-      "artists": [
-        {
-          "name": "Zombie Zombie",
-          "url": "https://open.spotify.com/artist/0HVcyKnveIOLkJdAGsE1pk"
-        }
-      ],
-      "duration_ms": 345426,
-      "name": "Driving This Road Until Death Sets You Free",
-      "url": "https://open.spotify.com/track/6P8FNidnNwaKq6SOCJvc4F"
     }
   ],
   "unique_name": "Krautrock",

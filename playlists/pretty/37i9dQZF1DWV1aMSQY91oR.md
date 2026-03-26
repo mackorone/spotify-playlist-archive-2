@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,280 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,281 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 43 | [BRS2](https://open.spotify.com/track/0JzSDQemQq1F3vU4l1SkGL) | [Crooks](https://open.spotify.com/artist/1W5K8K08gBiFsTO90FJFJH), [celinee](https://open.spotify.com/artist/5MSAAK2cesqZSX52mwhM3o), [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [The Principal of Least Interest \(TPOLI\)](https://open.spotify.com/album/5UPa2ySXfQxe6pjVYagzCc) | 3:06 |
 | 44 | [Ballerina Farm](https://open.spotify.com/track/3AFW0SeNmAGlcrOPogVFfK) | [Eyeda Sophia](https://open.spotify.com/artist/3bFhBY6yOasKbQXq3xTEex), [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [\(In\)Sense](https://open.spotify.com/album/4tIu5dzUb05OqaZITVskJg) | 3:08 |
 | 45 | [Hard Times \(feat\. Hurricane Wisdom\)](https://open.spotify.com/track/4Tw2Bd0Mtw0JSIdu2st5Kc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Hard Times \(feat\. Hurricane Wisdom\)](https://open.spotify.com/album/7hOjIXU3xtbHRhRWFbVRZ7) | 2:30 |
-| 46 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
+| 46 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
 | 47 | [DON'T KILL THE PARTY \(feat\. Tyga, Shoreline Mafia & Quavo\) \- Coast 2 Coast](https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [DON’T KILL THE PARTY \(feat\. Tyga, Shoreline Mafia & Quavo\) \[Coast 2 Coast\]](https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr) | 3:45 |
 | 48 | [Need That](https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Need That](https://open.spotify.com/album/2zj7I1ZBHexwRudk0gXUXK) | 2:59 |
 | 49 | [Red Light \(feat\. Trippie Redd\)](https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Red Light \(feat\. Trippie Redd\)](https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ) | 3:26 |

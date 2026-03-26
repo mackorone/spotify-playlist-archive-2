@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 3월의 노래를 만나보세요.
 
-144 songs - 7 hr 46 min
+145 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [hopelessly falling](https://open.spotify.com/track/0HOuw2iR2bMhajd4urUlRc) | [bast](https://open.spotify.com/artist/3ajeLjEdOpuwPehkzDqb2C) | [hopelessly falling](https://open.spotify.com/album/68GCmbLhxjPShYiCyCxa7K) | 2:56 | 2026-02-04 | 2026-03-04 |
 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-02-04 | 2026-03-04 |
 | [Hustler Musik](https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 5:03 | 2026-03-03 |  |
+| [Hypnagogia](https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Hypnagogia](https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx) | 4:07 | 2026-03-25 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 | 2026-02-04 | 2026-03-04 |
 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-03-03 |  |
 | [I DO ME](https://open.spotify.com/track/6qmfxmtoNEzqucF1FWeXl8) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/66zYzKVkt1U0VCRi94Ek0x) | 3:10 | 2025-12-04 | 2026-02-05 |

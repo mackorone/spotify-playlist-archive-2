@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104720,
+  "num_followers": 104711,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
+        "name": "Mutta mill\u00e4 hinnalla",
+        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Mutta mill\u00e4 hinnalla",
+      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 225061,
       "name": "Syd\u00e4n (feat. Alina Burnet)",
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
-        "name": "Mutta mill\u00e4 hinnalla",
-        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Mutta mill\u00e4 hinnalla",
-      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 170343,
       "name": "Se ei mennyt niin",
       "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 163777,
       "name": "Toivottavasti",
       "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
+        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Ajaton (feat. Gettomasa)",
-        "url": "https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        },
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        }
-      ],
-      "duration_ms": 187354,
-      "name": "Ajaton (feat. Gettomasa)",
-      "url": "https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen"
-    },
-    {
-      "added_at": "2026-03-19 22:00:25",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 233984,
       "name": "Veitsi",
       "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
+    },
+    {
+      "added_at": "2026-03-19 22:00:25",
+      "album": {
+        "name": "Ajaton (feat. Gettomasa)",
+        "url": "https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "duration_ms": 187354,
+      "name": "Ajaton (feat. Gettomasa)",
+      "url": "https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Kuolisin sun kaa (feat. pehmoaino)",
-        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
+        "name": "Aito freak",
+        "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
       },
       "artists": [
         {
-          "name": "Aaro630",
-          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
-        },
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Kuolisin sun kaa (feat. pehmoaino)",
-      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
+      "duration_ms": 138159,
+      "name": "Aito freak",
+      "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "Aito freak",
-        "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
+        "name": "Kuolisin sun kaa (feat. pehmoaino)",
+        "url": "https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G"
       },
       "artists": [
         {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "Aaro630",
+          "url": "https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
         }
       ],
-      "duration_ms": 138159,
-      "name": "Aito freak",
-      "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
+      "duration_ms": 206999,
+      "name": "Kuolisin sun kaa (feat. pehmoaino)",
+      "url": "https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx"
     },
     {
       "added_at": "2026-03-19 22:00:25",
@@ -903,22 +903,18 @@
     {
       "added_at": "2026-03-19 22:00:25",
       "album": {
-        "name": "OMG (feat. Evelina)",
-        "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
+        "name": "NEED SUM MO",
+        "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
       },
       "artists": [
         {
-          "name": "Mikael Laurent",
-          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
-        },
-        {
-          "name": "Evelina",
-          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
         }
       ],
-      "duration_ms": 201187,
-      "name": "OMG (feat. Evelina)",
-      "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
+      "duration_ms": 111593,
+      "name": "MRR",
+      "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
     }
   ],
   "unique_name": "100 Suomi",

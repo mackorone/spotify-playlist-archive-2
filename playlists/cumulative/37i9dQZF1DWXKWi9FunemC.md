@@ -4,7 +4,7 @@
 
 > For the caffeinated Christians!
 
-408 songs - 1 day 2 hr 14 min
+409 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [best thing](https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [best thing](https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9) | 3:53 | 2026-03-23 |  |
 | [Better Plan](https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Better Plan](https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i) | 3:58 | 2024-08-03 | 2026-02-26 |
 | [Blessed](https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [Blessed](https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ) | 4:37 | 2025-08-06 | 2025-10-11 |
+| [Boundary Lines](https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9) | [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Boundary Lines](https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9) | 4:03 | 2026-03-23 |  |
 | [Bread of Life \(John 6\)](https://open.spotify.com/track/0hBKxdCN03JCMX4Svnr47V) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Bread of Life \(John 6\)](https://open.spotify.com/album/2Zg88VYwRmOEkv7mZNW8aU) | 3:53 | 2025-12-12 |  |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-08-07 |
 | [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 | 2024-06-24 |
@@ -113,7 +114,7 @@
 | [Footprints \- Acoustic](https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O) | 4:07 | 2020-08-31 | 2024-04-19 |
 | [For The Joy Set Before Him](https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX) | 4:07 | 2020-08-31 | 2023-05-28 |
 | [For The Joy Set Before Him](https://open.spotify.com/track/5z77cuUf9NLQO6imnFhsE0) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/2WAwtUNSzV2pesSu8ImeQB) | 4:07 | 2020-08-31 | 2022-07-29 |
-| [For The Win \(feat\. BERKLEE Summer Gospel Choir\)](https://open.spotify.com/track/3YTY1ZmVqe0UYDjbhdvtQv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky), [BERKLEE Summer Gospel Choir](https://open.spotify.com/artist/6T1OUbIJBTsdZ818BjP4If) | [For The Win feat\. BERKLEE Summer Gospel Choir](https://open.spotify.com/album/6fkIJ2DFdhgQ8p3mTq0xXM) | 3:36 | 2026-03-23 |  |
+| [For The Win \(feat\. BERKLEE Summer Gospel Choir\)](https://open.spotify.com/track/3YTY1ZmVqe0UYDjbhdvtQv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky), [BERKLEE Summer Gospel Choir](https://open.spotify.com/artist/6T1OUbIJBTsdZ818BjP4If) | [For The Win feat\. BERKLEE Summer Gospel Choir](https://open.spotify.com/album/6fkIJ2DFdhgQ8p3mTq0xXM) | 3:36 | 2026-03-23 | 2026-03-26 |
 | [Fortress](https://open.spotify.com/track/6zcdG0NJ6uCc9rnKo4bZqB) | [BRAG WORSHIP](https://open.spotify.com/artist/6ASpfG4TAcqCK8U5D6IVTT), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [For Your Glory](https://open.spotify.com/album/5LrzsfRZtiVwxAqgusUd76) | 3:22 | 2026-03-23 |  |
 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 | 2020-08-31 | 2025-10-11 |
 | [Found](https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 1](https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0) | 5:50 | 2023-07-28 |  |

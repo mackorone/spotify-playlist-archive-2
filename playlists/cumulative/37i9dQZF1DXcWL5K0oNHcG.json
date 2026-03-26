@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Vimbs Mavimbs. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Jon Onabowu. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -2309,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/7w0Gx3ZApGyRAxPShrQWQx"
+      },
+      "artists": [
+        {
+          "name": "Fel Mont",
+          "url": "https://open.spotify.com/artist/2u9EuWRv2cyDO5L3T5SuCO"
+        },
+        {
+          "name": "Delia Li",
+          "url": "https://open.spotify.com/artist/7tlRw4KWHqV3GqL8bVfJ9b"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153031,
+      "name": "At First Light",
+      "url": "https://open.spotify.com/track/3mB6KMbUu63wQ80VNukV7c"
+    },
+    {
+      "album": {
         "name": "At the Red Room",
         "url": "https://open.spotify.com/album/2kFxfRTDipLnUPbhNLo1fP"
       },
@@ -3350,7 +3372,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 189553,
       "name": "Birdo 3",
       "url": "https://open.spotify.com/track/52Xo8IVjuoBm5Nq9MwlOsn"
@@ -5408,7 +5430,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 247450,
       "name": "Chapter III & IV",
       "url": "https://open.spotify.com/track/79cDSSBoFoQIHKWu5DY5Ly"
@@ -27999,6 +28021,28 @@
     },
     {
       "album": {
+        "name": "The Bounce",
+        "url": "https://open.spotify.com/album/1aYF4Hueds5ABpZsLrDe0k"
+      },
+      "artists": [
+        {
+          "name": "Jon Onabowu",
+          "url": "https://open.spotify.com/artist/1B3fZSaCWJ9RkCUH2ZgYlu"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248602,
+      "name": "The Bounce",
+      "url": "https://open.spotify.com/track/6SQV0gvucW9KhzREeDngOO"
+    },
+    {
+      "album": {
         "name": "Migrations of the Mind",
         "url": "https://open.spotify.com/album/5SV11NqwR49zFQU6phbVmv"
       },
@@ -28994,6 +29038,28 @@
       "duration_ms": 174689,
       "name": "The Sunrise Fool",
       "url": "https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s"
+    },
+    {
+      "album": {
+        "name": "The Tall Green",
+        "url": "https://open.spotify.com/album/5eTL3qfCqatjSlLgznvQic"
+      },
+      "artists": [
+        {
+          "name": "Homer",
+          "url": "https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb"
+        },
+        {
+          "name": "Kendra McKinley",
+          "url": "https://open.spotify.com/artist/7Isx4fVPiWKyIp46kghIVI"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244678,
+      "name": "The Tall Green",
+      "url": "https://open.spotify.com/track/1bmu8RVV7Eitpii25TqXTX"
     },
     {
       "album": {
@@ -32268,7 +32334,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 227746,
       "name": "What\u2019s Next?",
       "url": "https://open.spotify.com/track/2Q4nM8oP3aZgf3Lom5n9Rz"

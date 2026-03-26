@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1dMQtHlKqsxCq7nO1AJUMD"
+      },
+      "artists": [
+        {
+          "name": "BorrenFam",
+          "url": "https://open.spotify.com/artist/17T9lCTLkB0j1nfkNzOAe6"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/7Fcgid3E3CdTbIEGSxhoqi"
+    },
+    {
+      "album": {
         "name": "Faith (Rdmptn Remix)",
         "url": "https://open.spotify.com/album/7sIHKSjWuiiRM1gfzg2qDB"
       },

@@ -1,31 +1,15 @@
 {
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Dro Perez",
-  "num_followers": 2075579,
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Frank Ely",
+  "num_followers": 2075626,
   "original_name": "Tatak Pinoy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxt2KqGF9vKv3IrwjSdQH+Jae0+",
+  "snapshot_id": "AAAAAGdus5L4IXmF12fatZci+V8Zeyba",
   "tracks": [
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Kalapastangan",
-        "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
-      },
-      "artists": [
-        {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Kalapastangan",
-      "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "The Loved One (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/3Ro4baI6qQJeefppUAUoVw"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Kalapastangan",
+        "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Kalapastangan",
+      "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Panaginip",
         "url": "https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI"
@@ -73,23 +73,23 @@
       "url": "https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Ang Pag-Ibig Kong Ito",
-        "url": "https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V"
+        "name": "Pwede Ka Ba?",
+        "url": "https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf"
       },
       "artists": [
         {
-          "name": "dwta",
-          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+          "name": "Frank Ely",
+          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Ang Pag-Ibig Kong Ito",
-      "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
+      "duration_ms": 298000,
+      "name": "Pwede Ka Ba?",
+      "url": "https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Libu-Libong Buwan (Uuwian)",
         "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
@@ -105,7 +105,39 @@
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Ang Pag-Ibig Kong Ito",
+        "url": "https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Ang Pag-Ibig Kong Ito",
+      "url": "https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Pag-Ibig ay Kanibalismo II",
+        "url": "https://open.spotify.com/album/72mYAD3S0oAD9itMzgVDKg"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "Pag-Ibig ay Kanibalismo II",
+      "url": "https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0"
@@ -125,55 +157,23 @@
       "url": "https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Pag-Ibig ay Kanibalismo II",
-        "url": "https://open.spotify.com/album/72mYAD3S0oAD9itMzgVDKg"
+        "name": "Natataranta",
+        "url": "https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF"
       },
       "artists": [
         {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
         }
       ],
-      "duration_ms": 207313,
-      "name": "Pag-Ibig ay Kanibalismo II",
-      "url": "https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7"
+      "duration_ms": 194745,
+      "name": "Natataranta",
+      "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Pwede Ka Ba?",
-        "url": "https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ely",
-          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Pwede Ka Ba?",
-      "url": "https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Saksi Ang Langit",
-        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 259058,
-      "name": "Saksi Ang Langit",
-      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Hiraya Manawari",
         "url": "https://open.spotify.com/album/6Wn9A3lbalaaFWg7QT9jvG"
@@ -193,139 +193,7 @@
       "url": "https://open.spotify.com/track/5Lvud3aK0AjltXJEW7sHGV"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "kahel na langit",
-        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 216382,
-      "name": "kahel na langit",
-      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "TAWID",
-        "url": "https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Ngiti",
-      "url": "https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Natataranta",
-        "url": "https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF"
-      },
-      "artists": [
-        {
-          "name": "Sugarcane",
-          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
-        }
-      ],
-      "duration_ms": 194745,
-      "name": "Natataranta",
-      "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "RD Covers (Live)",
-        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 361106,
-      "name": "Nandito Ako",
-      "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Duyan",
-        "url": "https://open.spotify.com/album/1BS12C5PNcVlIQ2EQFoaGx"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 298484,
-      "name": "Duyan",
-      "url": "https://open.spotify.com/track/4YyVQYnnzEO3y7hHNSn6sg"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Silakbo",
-        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "Pahina",
-      "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Star Song",
-        "url": "https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 236923,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Ano Ba Talaga Tayo?",
-        "url": "https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Ano Ba Talaga Tayo?",
-      "url": "https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Sinungaling",
         "url": "https://open.spotify.com/album/3m0sk4kgBEphytLUt6JMhq"
@@ -341,43 +209,23 @@
       "url": "https://open.spotify.com/track/38if6aDHxB3HIzmMKpRM5C"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Palayo Sa Mundo",
-        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
+        "name": "Star Song",
+        "url": "https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB"
       },
       "artists": [
         {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        },
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 268571,
-      "name": "Palayo Sa Mundo",
-      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
+      "duration_ms": 236923,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Tumaya",
-        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
-      },
-      "artists": [
-        {
-          "name": "Bert Symoun",
-          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Tumaya",
-      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Since Day One",
         "url": "https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI"
@@ -397,7 +245,7 @@
       "url": "https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Paralisado",
         "url": "https://open.spotify.com/album/6GXZDnJ5Z5J9gIrh5COODE"
@@ -417,55 +265,7 @@
       "url": "https://open.spotify.com/track/0uLaVOitbCPo8xOnFbYcfD"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Alanganin",
-        "url": "https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp"
-      },
-      "artists": [
-        {
-          "name": "Le John",
-          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "Alanganin",
-      "url": "https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "kung para sa 'yo",
-        "url": "https://open.spotify.com/album/1wHubkZiZKfoBqKEgB3nOM"
-      },
-      "artists": [
-        {
-          "name": "Kyle Raphael",
-          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
-        }
-      ],
-      "duration_ms": 279248,
-      "name": "kung para sa 'yo",
-      "url": "https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Sabihin Mo Lang",
-        "url": "https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE"
-      },
-      "artists": [
-        {
-          "name": "HEY JUNE!",
-          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Sabihin Mo Lang",
-      "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Kung Akin Ang Mundo",
         "url": "https://open.spotify.com/album/5uewl2UEDN0rwr53owlNrI"
@@ -481,23 +281,23 @@
       "url": "https://open.spotify.com/track/7zIPM8WTLP6tvMIYFB8T0U"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5yheeQ4CUdkQ6gLjC8K9dM"
+        "name": "Alanganin",
+        "url": "https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp"
       },
       "artists": [
         {
-          "name": "BGYO",
-          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
         }
       ],
-      "duration_ms": 144474,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/0XZzGczPj3tnI4pu9oURHv"
+      "duration_ms": 237176,
+      "name": "Alanganin",
+      "url": "https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Sinong Magmamahal Sa \u2018Kin?",
         "url": "https://open.spotify.com/album/5C3U2kNDzhnW5CMRJ2Xk9k"
@@ -513,7 +313,87 @@
       "url": "https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Di Na",
+        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 247413,
+      "name": "Di Na",
+      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Sabihin Mo Lang",
+        "url": "https://open.spotify.com/album/2PgrN7s5f9iQ5cMGVFbYXE"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Sabihin Mo Lang",
+      "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "baka bukas",
+        "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "duration_ms": 207558,
+      "name": "baka bukas",
+      "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "kung para sa 'yo",
+        "url": "https://open.spotify.com/album/1wHubkZiZKfoBqKEgB3nOM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Raphael",
+          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
+        }
+      ],
+      "duration_ms": 279248,
+      "name": "kung para sa 'yo",
+      "url": "https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5yheeQ4CUdkQ6gLjC8K9dM"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "duration_ms": 144474,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/0XZzGczPj3tnI4pu9oURHv"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "VISA",
         "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
@@ -529,155 +409,7 @@
       "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Sa Akin",
-        "url": "https://open.spotify.com/album/4gxkPjllQ8dyLt3frMA5wI"
-      },
-      "artists": [
-        {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
-        }
-      ],
-      "duration_ms": 190124,
-      "name": "Sa Akin",
-      "url": "https://open.spotify.com/track/2v45munevlvd1txsa6cNRx"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "MATIK",
-        "url": "https://open.spotify.com/album/0WKn0lixjdw46WHmvdRqcA"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "MATIK",
-      "url": "https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "MADUMING TIMOG",
-        "url": "https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 204687,
-      "name": "WALANG HIYA",
-      "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/1TTyWGUTIvx6HuvWIJ579O"
-      },
-      "artists": [
-        {
-          "name": "Ryu.",
-          "url": "https://open.spotify.com/artist/1K7VBEW8M30kPkUhBTl2Du"
-        }
-      ],
-      "duration_ms": 202353,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Maligaya Street",
-        "url": "https://open.spotify.com/album/6lgT7l9hshHJGyklt4H93e"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Maligaya Street",
-      "url": "https://open.spotify.com/track/0xT3loVOOSoN3IGeAUrV1k"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Piyesa",
-        "url": "https://open.spotify.com/album/5F9Z1uWD2hl5xqPA9UadDG"
-      },
-      "artists": [
-        {
-          "name": "Minimal Days",
-          "url": "https://open.spotify.com/artist/7xW7KeDiKDjmh2BWwqRsPh"
-        }
-      ],
-      "duration_ms": 238526,
-      "name": "Piyesa",
-      "url": "https://open.spotify.com/track/4Dqxx2U0SSQvWnWcsQ3iop"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Lapit Kapit",
-        "url": "https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas"
-      },
-      "artists": [
-        {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
-        },
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 177517,
-      "name": "Lapit Kapit",
-      "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Unang Kilig / Honey Honey",
-        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Unang Kilig",
-      "url": "https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Kanta kay Ella",
-        "url": "https://open.spotify.com/album/0tyTDNen4dgk3lcmsmiiyF"
-      },
-      "artists": [
-        {
-          "name": "John Sam",
-          "url": "https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Kanta kay Ella",
-      "url": "https://open.spotify.com/track/5lrjZ9je6KX3z31PBt2HX8"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7"
@@ -697,7 +429,123 @@
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "MATIK",
+        "url": "https://open.spotify.com/album/0WKn0lixjdw46WHmvdRqcA"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "MATIK",
+      "url": "https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Unang Kilig / Honey Honey",
+        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Unang Kilig",
+      "url": "https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "MADUMING TIMOG",
+        "url": "https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 204687,
+      "name": "WALANG HIYA",
+      "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Maligaya Street",
+        "url": "https://open.spotify.com/album/6lgT7l9hshHJGyklt4H93e"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Maligaya Street",
+      "url": "https://open.spotify.com/track/0xT3loVOOSoN3IGeAUrV1k"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/1TTyWGUTIvx6HuvWIJ579O"
+      },
+      "artists": [
+        {
+          "name": "Ryu.",
+          "url": "https://open.spotify.com/artist/1K7VBEW8M30kPkUhBTl2Du"
+        }
+      ],
+      "duration_ms": 202353,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Lapit Kapit",
+        "url": "https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 177517,
+      "name": "Lapit Kapit",
+      "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Guhit",
+        "url": "https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        }
+      ],
+      "duration_ms": 225014,
+      "name": "Guhit",
+      "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/7us9nYgkLeGMK5ZuKaSc3F"
@@ -713,23 +561,91 @@
       "url": "https://open.spotify.com/track/1yiO7S3ipTzVOdEdG5j56k"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Di Na",
-        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+        "name": "Pagsibol",
+        "url": "https://open.spotify.com/album/5olTvzPNVcYGJ8UYCJoUnh"
       },
       "artists": [
         {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 247413,
-      "name": "Di Na",
-      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+      "duration_ms": 275172,
+      "name": "Pakikinggan Kita",
+      "url": "https://open.spotify.com/track/6NV6wEZlMjZCHXtv3b3Ehv"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Kanta kay Ella",
+        "url": "https://open.spotify.com/album/0tyTDNen4dgk3lcmsmiiyF"
+      },
+      "artists": [
+        {
+          "name": "John Sam",
+          "url": "https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Kanta kay Ella",
+      "url": "https://open.spotify.com/track/5lrjZ9je6KX3z31PBt2HX8"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Kupido",
+        "url": "https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5"
+      },
+      "artists": [
+        {
+          "name": "The Red Strings",
+          "url": "https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO"
+        }
+      ],
+      "duration_ms": 183024,
+      "name": "Kupido",
+      "url": "https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Naghihilom",
+        "url": "https://open.spotify.com/album/2oNLWSeixoKdn419QQ5tyo"
+      },
+      "artists": [
+        {
+          "name": "Sponge Cola",
+          "url": "https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye"
+        },
+        {
+          "name": "Gigi de Lana",
+          "url": "https://open.spotify.com/artist/0zmtRgl3r6ZB8T5FUp5naq"
+        }
+      ],
+      "duration_ms": 361126,
+      "name": "Naghihilom",
+      "url": "https://open.spotify.com/track/6pm5eFo0aUQapVVmtitNLm"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Sangkalangitan",
+        "url": "https://open.spotify.com/album/4QQhC0oNZtt5Etv23My5UU"
+      },
+      "artists": [
+        {
+          "name": "Da Possibilities",
+          "url": "https://open.spotify.com/artist/3lppNdVaNmAyYV5ESW5i3n"
+        }
+      ],
+      "duration_ms": 272938,
+      "name": "Sangkalangitan",
+      "url": "https://open.spotify.com/track/6DKFuvUtpsbil4puB2sd8m"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/4WAWZfn9JCOtb2fqeuUQA3"
@@ -749,7 +665,23 @@
       "url": "https://open.spotify.com/track/5L0vMWiX4YMOZKs3fCwofx"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Dapit hapon",
+        "url": "https://open.spotify.com/album/2sG87V9HXDgtXTd5FMUltl"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        }
+      ],
+      "duration_ms": 184178,
+      "name": "Dapit hapon",
+      "url": "https://open.spotify.com/track/0FmXwwndEuzyug70tZZLkQ"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "D.T.M.G (Don\u2019t Touch My Girl)",
         "url": "https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW"
@@ -781,7 +713,39 @@
       "url": "https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Gabi",
+        "url": "https://open.spotify.com/album/7wblINp3AEPE9nNOurnaCa"
+      },
+      "artists": [
+        {
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+        }
+      ],
+      "duration_ms": 268703,
+      "name": "Gabi",
+      "url": "https://open.spotify.com/track/5Wgr1W75MsQG9RssVjjjMD"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "TAWID",
+        "url": "https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Ngiti",
+      "url": "https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "Papermoon",
         "url": "https://open.spotify.com/album/30PDrM8FhAyyTexaLFiFHX"
@@ -797,59 +761,79 @@
       "url": "https://open.spotify.com/track/7fmKXSl4UIoE5EM1t69Er8"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "baka bukas",
-        "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
+        "name": "Ano Ba Talaga Tayo?",
+        "url": "https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF"
       },
       "artists": [
         {
-          "name": "Angela Ken",
-          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
-        }
-      ],
-      "duration_ms": 207558,
-      "name": "baka bukas",
-      "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
-    },
-    {
-      "added_at": "2026-03-18 09:39:16",
-      "album": {
-        "name": "Naghihilom",
-        "url": "https://open.spotify.com/album/2oNLWSeixoKdn419QQ5tyo"
-      },
-      "artists": [
-        {
-          "name": "Sponge Cola",
-          "url": "https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye"
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
         },
         {
-          "name": "Gigi de Lana",
-          "url": "https://open.spotify.com/artist/0zmtRgl3r6ZB8T5FUp5naq"
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
         }
       ],
-      "duration_ms": 361126,
-      "name": "Naghihilom",
-      "url": "https://open.spotify.com/track/6pm5eFo0aUQapVVmtitNLm"
+      "duration_ms": 252500,
+      "name": "Ano Ba Talaga Tayo?",
+      "url": "https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
       "album": {
-        "name": "Guhit",
-        "url": "https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q"
+        "name": "We Were There (kabataan ko'y sayo)",
+        "url": "https://open.spotify.com/album/6KKE5fmmY6DueiFO0LLgKY"
       },
       "artists": [
         {
-          "name": "Dro Perez",
-          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+          "name": "Paul Monserrate",
+          "url": "https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD"
         }
       ],
-      "duration_ms": 225014,
-      "name": "Guhit",
-      "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
+      "duration_ms": 192000,
+      "name": "We Were There (kabataan ko'y sayo)",
+      "url": "https://open.spotify.com/track/20lgvwb7zyJc3KmnXcVcXb"
     },
     {
-      "added_at": "2026-03-18 09:39:16",
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "Palayo Sa Mundo",
+        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 268571,
+      "name": "Palayo Sa Mundo",
+      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
       "album": {
         "name": "ELH\u00c9VATE",
         "url": "https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0"
@@ -867,6 +851,22 @@
       "duration_ms": 188852,
       "name": "ngunit hindi sapat",
       "url": "https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb"
+    },
+    {
+      "added_at": "2026-03-25 03:23:14",
+      "album": {
+        "name": "kahel na langit",
+        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 216382,
+      "name": "kahel na langit",
+      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
     }
   ],
   "unique_name": "Tatak Pinoy",

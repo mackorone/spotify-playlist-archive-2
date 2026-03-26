@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학 \(Gogohawk\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,287 songs - 3 day 5 hr 52 min
+1,289 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-19 | 2025-02-13 |
 | [BLACK](https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Space Project, Pt.1](https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq) | 3:07 | 2022-03-31 | 2022-04-19 |
-| [Black Night](https://open.spotify.com/track/2hpmUppgJrIfYCp14ly88K) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Black Night](https://open.spotify.com/album/2YPXYnjEo4EgUhQ3MyYaET) | 4:12 | 2026-02-16 |  |
+| [Black Night](https://open.spotify.com/track/2hpmUppgJrIfYCp14ly88K) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Black Night](https://open.spotify.com/album/2YPXYnjEo4EgUhQ3MyYaET) | 4:12 | 2026-02-16 | 2026-03-26 |
 | [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
 | [Blocks](https://open.spotify.com/track/3WuzkyoFApI0co4QbaltyO) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Somnia 0:00 \- Chapter 1](https://open.spotify.com/album/0yxt6or5KqsURYDJMAMTmi) | 4:01 | 2025-10-30 | 2025-12-05 |
 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 | 2025-06-13 | 2025-07-23 |
@@ -485,6 +485,7 @@
 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 | 2024-10-19 |
 | [Hunting](https://open.spotify.com/track/6d6YI0cNTUjq0ojDurXKjD) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q) | [Hunting](https://open.spotify.com/album/7KHSdoq1Z6g462JkEGyJIg) | 3:00 | 2025-06-19 | 2025-06-25 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
+| [Hypnagogia](https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Hypnagogia](https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx) | 4:07 | 2026-03-25 |  |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-09-21 |
@@ -698,7 +699,7 @@
 | [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-02 | 2025-11-20 |
 | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 | 2025-11-06 | 2026-01-15 |
 | [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 | 2024-05-10 |
-| [Missing You](https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu) | [ESDI](https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW) | [Missing You \(Original Webtoon Soundtrack from Naver Webtoon "Love Revolution Reminds"\)](https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS) | 4:12 | 2026-02-02 |  |
+| [Missing You](https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu) | [ESDI](https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW) | [Missing You \(Original Webtoon Soundtrack from Naver Webtoon "Love Revolution Reminds"\)](https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS) | 4:12 | 2026-02-02 | 2026-03-26 |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Mondegreen](https://open.spotify.com/track/7wEmOuZxqVJDPvArxyaSBw) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/3ttWXgnbXQWVleBm0Xj8TQ) | 3:13 | 2025-10-29 | 2025-11-18 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |
@@ -1134,6 +1135,7 @@
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-11 | 2024-11-07 |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-15 |
+| [Unhappy Ending](https://open.spotify.com/track/2Y3yV7ILRKPwJeO3ebbGNm) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Unhappy Ending](https://open.spotify.com/album/7vB2E47K84M1m1QH3Adto6) | 2:51 | 2026-03-25 |  |
 | [Universe](https://open.spotify.com/track/1PADgC899dnHdG6fXHBLS9) | [Blue Lamb](https://open.spotify.com/artist/1Cr1LdGDo0RY3ihHkXQt7m) | [Universe](https://open.spotify.com/album/4C3NODVeITNjrOpiyCFUIa) | 3:55 | 2022-03-31 | 2022-04-21 |
 | [unsaid](https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [unsaid](https://open.spotify.com/album/3Zj0XuAa3Xzl439gDiFArR) | 3:08 | 2025-11-28 | 2026-02-03 |
 | [Unstable](https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp) | [Itzel](https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O) | [Unstable](https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI) | 2:54 | 2026-02-09 |  |

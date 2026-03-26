@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Champak",
+  "description": "The best new music by independent artists and labels in India. Cover - Pratiksha Vashishtha",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 185649,
       "name": "Afsana",
       "url": "https://open.spotify.com/track/32cYNIZuGaEZTjwIfDx7AW"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 184719,
       "name": "Agarbatti",
       "url": "https://open.spotify.com/track/5Pc4TbtL1u5tsAZhNlcNaE"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 183333,
       "name": "atari",
       "url": "https://open.spotify.com/track/2QbOs8LucCMsNycmZcyxaB"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 247840,
       "name": "Awful Lot",
       "url": "https://open.spotify.com/track/7xJGztH5VcMYWIWoil9keA"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 203418,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/5CbkazSsbSoPUb5cmAUrty"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 218724,
       "name": "Chakor!",
       "url": "https://open.spotify.com/track/72agMGeFLxUrTqnL1P21Tc"
@@ -6006,7 +6006,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 209193,
       "name": "Citylights",
       "url": "https://open.spotify.com/track/4QN9VkuIBFrZr5RweXx6V1"
@@ -7030,7 +7030,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 270337,
       "name": "Dheere Dheere Tu",
       "url": "https://open.spotify.com/track/6tNJrye3bdexZnYzL7ddsV"
@@ -7708,7 +7708,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 144782,
       "name": "Dil Ne Kaha",
       "url": "https://open.spotify.com/track/0UjGo3nujyOVrnoF9iipM2"
@@ -7938,6 +7938,24 @@
       "duration_ms": 239400,
       "name": "Diya",
       "url": "https://open.spotify.com/track/1QZfKWJcUyIU4KVBBhkJu7"
+    },
+    {
+      "album": {
+        "name": "DMTMH",
+        "url": "https://open.spotify.com/album/5YuNuVMuhKVyko0iNrgQOn"
+      },
+      "artists": [
+        {
+          "name": "Sama Thakore",
+          "url": "https://open.spotify.com/artist/464Xq9opykEdtEENXoAlV9"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "DMTMH",
+      "url": "https://open.spotify.com/track/68ettx2RO6hmkGvayF9mVM"
     },
     {
       "album": {
@@ -8486,7 +8504,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 171147,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1JpNxI6Ixk2TBX9ga2LFSb"
@@ -8588,7 +8606,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 235338,
       "name": "Dua",
       "url": "https://open.spotify.com/track/12xd73nvAxwXUx7diFj1hl"
@@ -8650,7 +8668,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 238554,
       "name": "Dua Salaam",
       "url": "https://open.spotify.com/track/2qjXBFAxoOfcCfBz0pY8Bi"
@@ -8886,7 +8904,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 184999,
       "name": "Ehsaas",
       "url": "https://open.spotify.com/track/6tYkm0OVhzS1QvbcADVyLM"
@@ -9618,7 +9636,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 208285,
       "name": "Fidaa",
       "url": "https://open.spotify.com/track/0YdQ6qljvd2PgLi7Rb7r5z"
@@ -9904,7 +9922,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 281000,
       "name": "Fonder",
       "url": "https://open.spotify.com/track/5wUoQZ09DN1TND0bhhbVK3"
@@ -10164,7 +10182,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 165319,
       "name": "Gal Gal",
       "url": "https://open.spotify.com/track/0azQE36qawqCEPvkfOXU2H"
@@ -10738,7 +10756,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 433130,
       "name": "Gulnava",
       "url": "https://open.spotify.com/track/6LXDv3QTjqNrN0CAimsXSV"
@@ -10906,7 +10924,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 184990,
       "name": "Gustakh Dil",
       "url": "https://open.spotify.com/track/02XrFnvCmBUZEY1MkfuGJ7"
@@ -12158,7 +12176,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 239994,
       "name": "Hosh Faraar",
       "url": "https://open.spotify.com/track/2YoUzPbP9AN6eHBi8L9eOR"
@@ -14184,7 +14202,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 168118,
       "name": "Jaane Na",
       "url": "https://open.spotify.com/track/3LzM94pqmmbPnqMsCVOjm7"
@@ -14282,7 +14300,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 232608,
       "name": "Jaanu Naa",
       "url": "https://open.spotify.com/track/3rmqP7EkuLFRN8czzdg9aj"
@@ -17468,7 +17486,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 282983,
       "name": "Kho Diya Hai",
       "url": "https://open.spotify.com/track/6AOSLDT7tLcRl1u6D3A5Do"
@@ -18914,7 +18932,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 307692,
       "name": "Kyon Baar Baar",
       "url": "https://open.spotify.com/track/6gffSXbAaRHPQlo3l21Eyh"
@@ -19088,7 +19106,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 228302,
       "name": "Kyun Yeh Raat",
       "url": "https://open.spotify.com/track/2xKJXhqMCjIt94ZtvxGRxj"
@@ -19110,7 +19128,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 190000,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/10mulA2ZkI5P0T2FAQzfVy"
@@ -19204,7 +19222,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 218000,
       "name": "Laapata",
       "url": "https://open.spotify.com/track/7DNoJNilpWehvLd9wEWZ2o"
@@ -19288,7 +19306,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 184960,
       "name": "Laazmi Nahi",
       "url": "https://open.spotify.com/track/2Ldztc3xl2TjHAxjQMCDHy"
@@ -19683,6 +19701,28 @@
     },
     {
       "album": {
+        "name": "Le Jaaye Jahaan",
+        "url": "https://open.spotify.com/album/2LzKOzLqajQG6N89d1wZiv"
+      },
+      "artists": [
+        {
+          "name": "Pratiksha Vashishtha",
+          "url": "https://open.spotify.com/artist/1kkz7GtycrTZlHi5bvwFmS"
+        },
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204947,
+      "name": "Le Jaaye Jahaan",
+      "url": "https://open.spotify.com/track/5lYweVWwXTl8PgmSD59V1j"
+    },
+    {
+      "album": {
         "name": "Le Jana",
         "url": "https://open.spotify.com/album/5N9VCUXxmRwCXzn5esmaj8"
       },
@@ -19764,7 +19804,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 184450,
       "name": "Leher",
       "url": "https://open.spotify.com/track/1pip69c3zep9RvjTBZCbLn"
@@ -20120,7 +20160,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 275428,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/1o0needEm0b14J5WfmdvFL"
@@ -20674,7 +20714,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 221732,
       "name": "Mahiya ve",
       "url": "https://open.spotify.com/track/71N4rWOuUoazRIzrAaitXW"
@@ -21398,7 +21438,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 164040,
       "name": "Marz",
       "url": "https://open.spotify.com/track/5snmOSMT761hHpVZ4Eovol"
@@ -22142,7 +22182,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 198000,
       "name": "Mere Naina",
       "url": "https://open.spotify.com/track/0wuLwMOt86seeebb4SnpEF"
@@ -22542,7 +22582,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 157677,
       "name": "Mijaj",
       "url": "https://open.spotify.com/track/2Iqn6MKl5mRe4isd9GA1bO"
@@ -23400,7 +23440,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 155708,
       "name": "Na Jaane Kyun",
       "url": "https://open.spotify.com/track/1Zc1JkCj4nQBJjlHdJJrjZ"
@@ -23802,7 +23842,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 210680,
       "name": "Naseeb",
       "url": "https://open.spotify.com/track/5W2hc20sbdk3agcXpYpfBA"
@@ -25774,7 +25814,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 239799,
       "name": "Pehla Nasha",
       "url": "https://open.spotify.com/track/5CJgfgf0ZV5O534KUnnses"
@@ -26046,7 +26086,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 209999,
       "name": "Phir Milenge",
       "url": "https://open.spotify.com/track/0wXb8KhN6Ge2jUWyBMbYMN"
@@ -26264,7 +26304,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 166974,
       "name": "Piya",
       "url": "https://open.spotify.com/track/4MGK3bBOUNobiaHXZ9cDJZ"
@@ -26322,7 +26362,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211568,
       "name": "Plants",
       "url": "https://open.spotify.com/track/2gi279cc9GTu58wcBzqXZr"
@@ -26536,7 +26576,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 195857,
       "name": "Qareeb",
       "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
@@ -26676,7 +26716,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 295434,
       "name": "Raahein",
       "url": "https://open.spotify.com/track/4ybTkAMpdQf95wXbDZAC1h"
@@ -27304,7 +27344,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 154630,
       "name": "Rangreza",
       "url": "https://open.spotify.com/track/2yqzP1gok7VS5TRwzFuPae"
@@ -27594,7 +27634,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 161200,
       "name": "Rehna Tum",
       "url": "https://open.spotify.com/track/5Yj1HrxmyTPVNQ3k7kY6FV"
@@ -28150,7 +28190,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 147155,
       "name": "Ruaan",
       "url": "https://open.spotify.com/track/6quI8no6vmWVCpZsiBxHx7"
@@ -28168,7 +28208,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 208750,
       "name": "Ruan Ruan",
       "url": "https://open.spotify.com/track/5gP3lGGlZY3431pQjM34JM"
@@ -31320,7 +31360,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 209834,
       "name": "Subah Ke Jaisa Tu",
       "url": "https://open.spotify.com/track/1AAzdDRWqDJlxkcWSHOveN"
@@ -31378,7 +31418,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 281632,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/6aLMrkZvokci8lXe2SLOpl"
@@ -32014,7 +32054,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 191538,
       "name": "Tasalli",
       "url": "https://open.spotify.com/track/1CUvyfrmLGWNZnktYLIIwM"
@@ -32514,7 +32554,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211994,
       "name": "Tere Jaisa",
       "url": "https://open.spotify.com/track/4u0s3AqFOyKoJRAkV7K0O4"
@@ -32706,6 +32746,24 @@
       "duration_ms": 111999,
       "name": "Teri Aankhein",
       "url": "https://open.spotify.com/track/59TIrEZy3cj0mj09ynvCqb"
+    },
+    {
+      "album": {
+        "name": "Teri Ada",
+        "url": "https://open.spotify.com/album/2xdkXIDThs4IOeJmQWLY1A"
+      },
+      "artists": [
+        {
+          "name": "Ankit Kr",
+          "url": "https://open.spotify.com/artist/5Hht3H6q7hD9vdc7lsxJLH"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Teri Ada",
+      "url": "https://open.spotify.com/track/3tCWW04eMIe0TopDI0PJL6"
     },
     {
       "album": {
@@ -34138,7 +34196,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 244639,
       "name": "Tu Itnaa Laazmi Kaise Hua",
       "url": "https://open.spotify.com/track/24Ge1zuBN7gqcgaUJIqag3"
@@ -34760,7 +34818,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 232875,
       "name": "Tum Se",
       "url": "https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep"
@@ -34866,7 +34924,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 276359,
       "name": "Tumhare Liye",
       "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
@@ -35850,7 +35908,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 254769,
       "name": "Want It Bad",
       "url": "https://open.spotify.com/track/5w1V0ofiq9uCGJv3hDTOke"

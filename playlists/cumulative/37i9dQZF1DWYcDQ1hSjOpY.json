@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "A New Thought",
+        "url": "https://open.spotify.com/album/0j54C55YZUAw9bjYGcBn2g"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "A New Thought",
+      "url": "https://open.spotify.com/track/441Cz5TOXmznytPLOU0OpJ"
+    },
+    {
+      "album": {
         "name": "A Night Full Of Stars",
         "url": "https://open.spotify.com/album/46MohKiyZoPYkMhnQKcbfV"
       },
@@ -812,6 +830,24 @@
       "duration_ms": 158916,
       "name": "Align",
       "url": "https://open.spotify.com/track/1CC8AgKut63LKBQlW7tPLs"
+    },
+    {
+      "album": {
+        "name": "Aligned",
+        "url": "https://open.spotify.com/album/1E01f25xYCTFRPMDNRgbqm"
+      },
+      "artists": [
+        {
+          "name": "Beyond Time",
+          "url": "https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/3kDS0HKTLqCIvlL8L5nBd6"
     },
     {
       "album": {
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211200,
       "name": "Better Rest",
       "url": "https://open.spotify.com/track/6PlSS5EqEsFslVqcNcHClm"
@@ -2576,7 +2612,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 161506,
       "name": "Between Notes",
       "url": "https://open.spotify.com/track/5YugX1z41a79g5O4qqMlZC"
@@ -7818,7 +7854,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 155322,
       "name": "Faint Light",
       "url": "https://open.spotify.com/track/6b3XdzyGfhd2ZZXgQ0BKRj"
@@ -8582,6 +8618,24 @@
       "duration_ms": 179066,
       "name": "From This Day On",
       "url": "https://open.spotify.com/track/2qlCF0JWVeYCuoseeFndmA"
+    },
+    {
+      "album": {
+        "name": "Frozen Tide",
+        "url": "https://open.spotify.com/album/768LZCA2i84fOowm9Yz0xS"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Frozen Tide",
+      "url": "https://open.spotify.com/track/48qhu2OeTgtcICTivIWFtu"
     },
     {
       "album": {
@@ -10673,6 +10727,24 @@
     },
     {
       "album": {
+        "name": "Inner Beauty",
+        "url": "https://open.spotify.com/album/1zqcVGihCn9n5S3kTeUIt3"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Inner Beauty",
+      "url": "https://open.spotify.com/track/1WOxP8gFTGDIROZdroVZV2"
+    },
+    {
+      "album": {
         "name": "Inner Deep",
         "url": "https://open.spotify.com/album/6pUi1uAiffJv4NfIubyh5n"
       },
@@ -12488,7 +12560,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 216724,
       "name": "Lunessence Dreamfolde",
       "url": "https://open.spotify.com/track/0FpUE6yzqPIrNY2HB9EAxe"
@@ -12776,7 +12848,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 167771,
       "name": "Meadows",
       "url": "https://open.spotify.com/track/2IheO4P1XVghJecAQsorX1"
@@ -16905,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "River Of Reflection",
+        "url": "https://open.spotify.com/album/4U8Bkobac8aIrdZawBcmc7"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Nexus",
+          "url": "https://open.spotify.com/artist/2n6EstH6raQHsVPAz4zIYI"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175044,
+      "name": "River Of Reflection",
+      "url": "https://open.spotify.com/track/7ccQEYerekWy7t06MUo8GG"
+    },
+    {
+      "album": {
         "name": "Rivers in Time",
         "url": "https://open.spotify.com/album/6aQDmaROcPYuaO6Jy9gFj0"
       },
@@ -17748,6 +17838,24 @@
       "duration_ms": 186218,
       "name": "Shape Of A Dream",
       "url": "https://open.spotify.com/track/7M7YsLJWsyu87my5ZnAxau"
+    },
+    {
+      "album": {
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/4flfhvRoaxPZMDwWhG6EQP"
+      },
+      "artists": [
+        {
+          "name": "X-Genie",
+          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Shapes",
+      "url": "https://open.spotify.com/track/729j9DZkin370F2WyHw7p9"
     },
     {
       "album": {
@@ -19616,7 +19724,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 195565,
       "name": "Submission",
       "url": "https://open.spotify.com/track/2gFTkFPVNL3vgz4IAyBhVK"
@@ -20714,7 +20822,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 134032,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/4RKK2JvJ4HcwVt9ZSYVlIT"
@@ -22058,6 +22166,24 @@
       "duration_ms": 155322,
       "name": "Without Coordinates",
       "url": "https://open.spotify.com/track/76mEz1fpph6SHqLTT41ZYn"
+    },
+    {
+      "album": {
+        "name": "Without Edges",
+        "url": "https://open.spotify.com/album/5pVUR6KrYdHcuG0TYGffmu"
+      },
+      "artists": [
+        {
+          "name": "Mindra",
+          "url": "https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Without Edges",
+      "url": "https://open.spotify.com/track/1G99XorZUVwzMx0lVNgVnJ"
     },
     {
       "album": {

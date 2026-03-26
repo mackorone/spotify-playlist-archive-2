@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,22 +92,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 82 | [If I Had](https://open.spotify.com/track/3cZAvJaJ87a4xYl6gZ9FYG) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [FO&O](https://open.spotify.com/album/5WB9VHvp4ttDEv9V5KS6Jg) | 2:43 |
 | 83 | [My Girl](https://open.spotify.com/track/3CZtwixJvnRkfgNOxaF3Dn) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 3:27 |
 | 84 | [Losing a Friend](https://open.spotify.com/track/5WuqhfcJD6iu9xyxo2SiKu) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:14 |
-| 85 | [I Go Ego](https://open.spotify.com/track/6AVaVofzVcFIIhh31M54NL) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 3:29 |
-| 86 | [Naked](https://open.spotify.com/track/692zUiY0W2zLVW4uOxZ32h) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Naked](https://open.spotify.com/album/2NBe0dHXbrQptDoD1xkck8) | 2:52 |
-| 87 | [Scripted Reality](https://open.spotify.com/track/2Wj5DMYpzDL525k0N9w7lm) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Scripted Reality](https://open.spotify.com/album/1jgsTuiJqAp38ymZpzcmRn) | 2:54 |
-| 88 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
-| 89 | [Roller Skater](https://open.spotify.com/track/6f9dDGRWfimvWMcKF7vnQ8) | [Chris Tall ](https://open.spotify.com/artist/67ncboRbwyEWfzLPCjgHKt) | [Roller Skater](https://open.spotify.com/album/6A3aYmLfTT1MfDGjVHAMUp) | 3:49 |
-| 90 | [Used To](https://open.spotify.com/track/6snoQjYyUESGuX6uAiHstG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:44 |
-| 91 | [If You Love Me \- DJ Katch Remix](https://open.spotify.com/track/0cIB1uWdM2HtILlc2S6awi) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [Turn on the Lights \(Remixes\)](https://open.spotify.com/album/3UFWBRvM74gPd5y4tPlpiW) | 3:26 |
-| 92 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
-| 93 | [Let It Kill You](https://open.spotify.com/track/0vWbG3nQ9soEj2dZ1xonTi) | [ISA](https://open.spotify.com/artist/25TgcWHKIx5DuoHjECQC2s) | [Let It Kill You](https://open.spotify.com/album/3Jq0GDWkyZnpY7mzsqc25Z) | 3:08 |
-| 94 | [All of Them](https://open.spotify.com/track/0uNcBFBisLrtcON9kiw2Oe) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS](https://open.spotify.com/album/3VThjt3DkBA6MCIduJnp9Q) | 2:38 |
-| 95 | [Body Conversation](https://open.spotify.com/track/2cE5yqvFZHhX6ZLEzjXgUP) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:36 |
-| 96 | [Firetrucks on Fire](https://open.spotify.com/track/2O6rHKrpbWtcUZGuqBxDNt) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:42 |
-| 97 | [Tigern](https://open.spotify.com/track/10wWAWuHhRihDOhn5VU93i) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Tigern](https://open.spotify.com/album/6AlPgHwm1fO8nreSrdyRHz) | 3:42 |
-| 98 | [Pretty Please](https://open.spotify.com/track/0WTkHRwtsJPMHzucqaaZH4) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 2:22 |
-| 99 | [Chosen Family](https://open.spotify.com/track/205i9kJtHKLX2zvrdrFSrp) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:29 |
-| 100 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
-| 101 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
+| 85 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 |
+| 86 | [I Go Ego](https://open.spotify.com/track/6AVaVofzVcFIIhh31M54NL) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 3:29 |
+| 87 | [Naked](https://open.spotify.com/track/692zUiY0W2zLVW4uOxZ32h) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Naked](https://open.spotify.com/album/2NBe0dHXbrQptDoD1xkck8) | 2:52 |
+| 88 | [Scripted Reality](https://open.spotify.com/track/2Wj5DMYpzDL525k0N9w7lm) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Scripted Reality](https://open.spotify.com/album/1jgsTuiJqAp38ymZpzcmRn) | 2:54 |
+| 89 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
+| 90 | [Roller Skater](https://open.spotify.com/track/6f9dDGRWfimvWMcKF7vnQ8) | [Chris Tall ](https://open.spotify.com/artist/67ncboRbwyEWfzLPCjgHKt) | [Roller Skater](https://open.spotify.com/album/6A3aYmLfTT1MfDGjVHAMUp) | 3:49 |
+| 91 | [Used To](https://open.spotify.com/track/6snoQjYyUESGuX6uAiHstG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:44 |
+| 92 | [If You Love Me \- DJ Katch Remix](https://open.spotify.com/track/0cIB1uWdM2HtILlc2S6awi) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [Turn on the Lights \(Remixes\)](https://open.spotify.com/album/3UFWBRvM74gPd5y4tPlpiW) | 3:26 |
+| 93 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 |
+| 94 | [Let It Kill You](https://open.spotify.com/track/0vWbG3nQ9soEj2dZ1xonTi) | [ISA](https://open.spotify.com/artist/25TgcWHKIx5DuoHjECQC2s) | [Let It Kill You](https://open.spotify.com/album/3Jq0GDWkyZnpY7mzsqc25Z) | 3:08 |
+| 95 | [All of Them](https://open.spotify.com/track/0uNcBFBisLrtcON9kiw2Oe) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS](https://open.spotify.com/album/3VThjt3DkBA6MCIduJnp9Q) | 2:38 |
+| 96 | [Body Conversation](https://open.spotify.com/track/2cE5yqvFZHhX6ZLEzjXgUP) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:36 |
+| 97 | [Firetrucks on Fire](https://open.spotify.com/track/2O6rHKrpbWtcUZGuqBxDNt) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:42 |
+| 98 | [Tigern](https://open.spotify.com/track/10wWAWuHhRihDOhn5VU93i) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Tigern](https://open.spotify.com/album/6AlPgHwm1fO8nreSrdyRHz) | 3:42 |
+| 99 | [Pretty Please](https://open.spotify.com/track/0WTkHRwtsJPMHzucqaaZH4) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 2:22 |
+| 100 | [Chosen Family](https://open.spotify.com/track/205i9kJtHKLX2zvrdrFSrp) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:29 |
+| 101 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
+| 102 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcNBNgAAAAD+IHJWNc+OBDR++oSjAsPc`
+Snapshot ID: `AcNG1gAAAAAm7hrYshaFlNeDda79miMN`

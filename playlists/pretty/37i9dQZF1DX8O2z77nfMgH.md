@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Kenia Os
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,944 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,855 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 31 | [CONTIGO NO VUELVO NI MUERTA](https://open.spotify.com/track/02XW9TbRySEvcSknDv26Um) | [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [CONTIGO NO VUELVO NI MUERTA](https://open.spotify.com/album/65Ui6NYz6cyqYM6Uc4HGYw) | 2:21 |
 | 32 | [Telefone](https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Telefone](https://open.spotify.com/album/2va62ELLdq6PygdowajASo) | 1:31 |
 | 33 | [Alcoolicamente \- Ao Vivo](https://open.spotify.com/track/2fi0l7ZiqbwcZkiBWuQ4AE) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [O Livro \- Capítulo 1 \(Ao Vivo\)](https://open.spotify.com/album/0GqLsLy0wXI3zFAYXchqVr) | 2:54 |
-| 34 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
+| 34 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
 | 35 | [Pal Beauty](https://open.spotify.com/track/6RDIFBEargtm4c6W7EWxgo) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Pal Beauty](https://open.spotify.com/album/3NWEENgAhNeVg1wFy6yTOA) | 3:30 |
 | 36 | [Inverteu](https://open.spotify.com/track/6CwpxATLW0HLzmHpCTWv8c) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Inverteu](https://open.spotify.com/album/5z5EOxHU8ZoPgBdwbfHayg) | 2:54 |
 | 37 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |

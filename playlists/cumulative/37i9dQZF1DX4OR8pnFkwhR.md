@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover:  Blue Mash
 
-2,239 songs - 5 day 16 hr 27 min
+2,239 songs - 5 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Once Upon a Night](https://open.spotify.com/track/5tu4MtskI177URpGVNJQ7P) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 | 2025-01-09 | 2025-01-22 |
 | [Once Upon a Night](https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe) | 3:43 | 2024-07-23 | 2025-01-29 |
 | [One in a million](https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [One in a million](https://open.spotify.com/album/26NDlsFpoSUfRL79Ce7A7K) | 4:32 | 2025-09-23 | 2026-01-15 |
+| [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 | 2026-03-24 |  |
 | [One Summer's Day](https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [One Summer's Day](https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb) | 3:48 | 2023-07-18 | 2023-08-30 |
 | [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 | 2024-12-10 | 2024-12-25 |
 | [only god discotheque](https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [mutist beach](https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu) | 3:37 | 2025-01-28 | 2025-02-26 |
@@ -1197,7 +1198,6 @@
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-17 | 2025-09-03 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-01-15 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-10-19 |
-| [Track 8](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 0:00 | 2026-03-24 |  |
 | [tradition](https://open.spotify.com/track/3jqm9iYwxyYQBM3WLoPiAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 | 2024-01-24 | 2024-02-07 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-29 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |

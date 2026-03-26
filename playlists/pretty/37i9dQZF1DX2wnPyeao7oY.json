@@ -1,13 +1,29 @@
 {
   "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Night Rider",
-  "num_followers": 32399,
+  "num_followers": 32448,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP90KWiQEW7FsUPXcsBeZjWNgFYP",
+  "snapshot_id": "AAAAAETa4De7d1zitGopjHFdy3m/SDZw",
   "tracks": [
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko"
+      },
+      "artists": [
+        {
+          "name": "Maphra",
+          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+        }
+      ],
+      "duration_ms": 275102,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
+    },
     {
       "added_at": "2026-03-18 04:00:18",
       "album": {
@@ -29,6 +45,22 @@
       "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
     },
     {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "CHAPTER THREE: Still Hurts",
+        "url": "https://open.spotify.com/album/7yfMM4SqhjGra5l9rzDAy8"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        }
+      ],
+      "duration_ms": 250695,
+      "name": "Lying Figures",
+      "url": "https://open.spotify.com/track/21I8rQSWJBXKVgQHS20zCU"
+    },
+    {
       "added_at": "2026-03-11 04:00:22",
       "album": {
         "name": "PETTY FUCK",
@@ -45,20 +77,24 @@
       "url": "https://open.spotify.com/track/7iWKbcLo4oZ3StHDIdEWxx"
     },
     {
-      "added_at": "2026-03-18 04:00:18",
+      "added_at": "2026-03-25 04:00:19",
       "album": {
-        "name": "APOLOGY!",
-        "url": "https://open.spotify.com/album/31t43PGKYB8joyNW2krsFj"
+        "name": "burning/bones",
+        "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
       },
       "artists": [
         {
-          "name": "BLANK ERA",
-          "url": "https://open.spotify.com/artist/6m2NxidYFe9kiulMWeyamm"
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        },
+        {
+          "name": "Extortionist",
+          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
         }
       ],
-      "duration_ms": 207692,
-      "name": "APOLOGY!",
-      "url": "https://open.spotify.com/track/44q6Yni4KIb8mi0Tn9Cmao"
+      "duration_ms": 228967,
+      "name": "burning/bones",
+      "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
     },
     {
       "added_at": "2026-03-04 05:00:32",
@@ -77,20 +113,24 @@
       "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
     },
     {
-      "added_at": "2026-03-18 04:00:18",
+      "added_at": "2026-03-25 04:00:19",
       "album": {
-        "name": "Make Us Whole Again",
-        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
       },
       "artists": [
         {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
         }
       ],
-      "duration_ms": 232944,
-      "name": "Make Us Whole Again",
-      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+      "duration_ms": 263161,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
     },
     {
       "added_at": "2026-03-11 04:00:22",
@@ -109,20 +149,20 @@
       "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
     },
     {
-      "added_at": "2026-03-18 04:00:18",
+      "added_at": "2026-03-25 04:00:19",
       "album": {
-        "name": "SUPER TURBO.",
-        "url": "https://open.spotify.com/album/726BjjOZorUfr3BoGbWFUF"
+        "name": "Who We \u042f",
+        "url": "https://open.spotify.com/album/5HeJa8X9yZvAFsHsutO3HY"
       },
       "artists": [
         {
-          "name": "paradise fell.",
-          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+          "name": "DUST IN MIND",
+          "url": "https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7"
         }
       ],
-      "duration_ms": 173456,
-      "name": "SUPER TURBO.",
-      "url": "https://open.spotify.com/track/7HiHUkIPAp8Sgq8AcIoM86"
+      "duration_ms": 274613,
+      "name": "Who We \u042f",
+      "url": "https://open.spotify.com/track/7C1c8R2ezJf0PNMFteaCWK"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -139,6 +179,70 @@
       "duration_ms": 192966,
       "name": "Rip",
       "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Tragedy of The Commons",
+        "url": "https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4"
+      },
+      "artists": [
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "duration_ms": 307693,
+      "name": "Ghost In Flesh",
+      "url": "https://open.spotify.com/track/6ZmTPEHx539ea8dbx8qaSj"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "APOLOGY!",
+        "url": "https://open.spotify.com/album/31t43PGKYB8joyNW2krsFj"
+      },
+      "artists": [
+        {
+          "name": "BLANK ERA",
+          "url": "https://open.spotify.com/artist/6m2NxidYFe9kiulMWeyamm"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "APOLOGY!",
+      "url": "https://open.spotify.com/track/44q6Yni4KIb8mi0Tn9Cmao"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Nothing Exists Beyond Me",
+        "url": "https://open.spotify.com/album/6SolmYJnmTXvEMuV7YoEoi"
+      },
+      "artists": [
+        {
+          "name": "OBEYER",
+          "url": "https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Nothing Exists Beyond Me",
+      "url": "https://open.spotify.com/track/6X6D9XpQZ83BCxhIlsoPHl"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
     },
     {
       "added_at": "2026-03-18 04:00:18",
@@ -173,22 +277,6 @@
       "url": "https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K"
     },
     {
-      "added_at": "2026-03-18 04:00:18",
-      "album": {
-        "name": "without a trace",
-        "url": "https://open.spotify.com/album/6r4WRDPNRX0t6y4CRDsP7Y"
-      },
-      "artists": [
-        {
-          "name": "Chamber",
-          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
-        }
-      ],
-      "duration_ms": 148175,
-      "name": "without a trace",
-      "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"
-    },
-    {
       "added_at": "2026-03-11 04:00:22",
       "album": {
         "name": "Sucker Punch",
@@ -203,6 +291,54 @@
       "duration_ms": 230025,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/2KHKREFlFgNiPSEiyZR4P7"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Pale Shadow",
+        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Pale Shadow",
+      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Falling Away From Me",
+        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
+      },
+      "artists": [
+        {
+          "name": "Overlaps",
+          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
+        }
+      ],
+      "duration_ms": 265384,
+      "name": "Falling Away From Me",
+      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
     },
     {
       "added_at": "2026-03-04 05:00:32",
@@ -257,22 +393,6 @@
       "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
     },
     {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "NO LIES.",
-        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
-      },
-      "artists": [
-        {
-          "name": "paradise fell.",
-          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
-        }
-      ],
-      "duration_ms": 206811,
-      "name": "NO LIES.",
-      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
-    },
-    {
       "added_at": "2026-03-11 04:00:22",
       "album": {
         "name": "Sulphur",
@@ -287,54 +407,6 @@
       "duration_ms": 215051,
       "name": "Atrophy",
       "url": "https://open.spotify.com/track/3Ej7t4j9v6Amm5ce8mJPqi"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Pale Shadow",
-        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Pale Shadow",
-      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Falling Away From Me",
-        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
-      },
-      "artists": [
-        {
-          "name": "Overlaps",
-          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
-        }
-      ],
-      "duration_ms": 265384,
-      "name": "Falling Away From Me",
-      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Death Crown",
-        "url": "https://open.spotify.com/album/3fHUzfvi2IcilNWF8EJrK1"
-      },
-      "artists": [
-        {
-          "name": "Sun Eater",
-          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Death Crown",
-      "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
     },
     {
       "added_at": "2026-03-11 04:00:22",
@@ -367,6 +439,22 @@
       "duration_ms": 237241,
       "name": "You Gotta Get Through Me",
       "url": "https://open.spotify.com/track/1mJl55Ceupn9G9i1hU68dk"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "GIMP",
+        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
+      },
+      "artists": [
+        {
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+        }
+      ],
+      "duration_ms": 240568,
+      "name": "GIMP",
+      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
     },
     {
       "added_at": "2026-03-04 05:00:32",
@@ -465,20 +553,20 @@
       "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
     },
     {
-      "added_at": "2026-02-18 05:00:29",
+      "added_at": "2026-03-18 04:00:18",
       "album": {
-        "name": "GIMP",
-        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
+        "name": "without a trace",
+        "url": "https://open.spotify.com/album/6r4WRDPNRX0t6y4CRDsP7Y"
       },
       "artists": [
         {
-          "name": "Aurora View",
-          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
         }
       ],
-      "duration_ms": 240568,
-      "name": "GIMP",
-      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
+      "duration_ms": 148175,
+      "name": "without a trace",
+      "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -497,22 +585,6 @@
       "url": "https://open.spotify.com/track/7IkdHSHAJRAiRbLBgNFgUC"
     },
     {
-      "added_at": "2026-02-25 00:00:07",
-      "album": {
-        "name": "Exposition",
-        "url": "https://open.spotify.com/album/2H2qC5WCSzfq3coCjCJCjM"
-      },
-      "artists": [
-        {
-          "name": "Foreword",
-          "url": "https://open.spotify.com/artist/48ttMbaYSF1szcPkSvcqyY"
-        }
-      ],
-      "duration_ms": 182984,
-      "name": "Self-Immolate",
-      "url": "https://open.spotify.com/track/2wrtiKxQ8Q4aazZwlecWWl"
-    },
-    {
       "added_at": "2026-02-11 05:00:09",
       "album": {
         "name": "Dumb Luck",
@@ -527,30 +599,6 @@
       "duration_ms": 187546,
       "name": "Dumb Luck",
       "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "MUTE WITNESS",
-        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
-      },
-      "artists": [
-        {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "MUTE WITNESS",
-      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -583,22 +631,6 @@
       "duration_ms": 249639,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Death Is All You Will Know",
-        "url": "https://open.spotify.com/album/4gjyuViL16fkpki6U60Gt3"
-      },
-      "artists": [
-        {
-          "name": "Elision",
-          "url": "https://open.spotify.com/artist/4kkoqDos9OB9xzO07DiiJf"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Death Is All You Will Know",
-      "url": "https://open.spotify.com/track/0fCWEimQozzXs2xWSqnbzE"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -787,38 +819,6 @@
       "duration_ms": 225353,
       "name": "A Place For Those Who Suffer, Alone",
       "url": "https://open.spotify.com/track/4lO7B1kDXNSzFT4Q0McK4j"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Make Them Pay",
-        "url": "https://open.spotify.com/album/0vjBbUNAixxAW2fLLwr491"
-      },
-      "artists": [
-        {
-          "name": "Emergency Broadcast",
-          "url": "https://open.spotify.com/artist/3pWsjFRb6mot6BNOfVQwkE"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Make Them Pay",
-      "url": "https://open.spotify.com/track/7aUbttu1DKwZ8o7qy5KLtq"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Joke's on You",
-        "url": "https://open.spotify.com/album/5wdx6ZrkKeeTwV1naZjo57"
-      },
-      "artists": [
-        {
-          "name": "Whitecollar",
-          "url": "https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "Joke's on You",
-      "url": "https://open.spotify.com/track/2YF0HWuVjKBhvEwH80K6hz"
     },
     {
       "added_at": "2026-02-11 05:00:09",

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 292,
+  "num_followers": 294,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI0CItRa90l22zdE98q0ZeTMH+z9VM",
+  "snapshot_id": "AAAI1V/Ic7ykIiiyScaPtPbBW0or3nkH",
   "tracks": [
     {
       "added_at": "2026-03-18 17:33:09",
@@ -35687,6 +35687,86 @@
       "duration_ms": 252708,
       "name": "Casa de Memorias",
       "url": "https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS"
+    },
+    {
+      "added_at": "2026-03-25 08:44:19",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4H3e7U0UPU2x4RC3IT4Zd5"
+      },
+      "artists": [
+        {
+          "name": "Ovi Caloni",
+          "url": "https://open.spotify.com/artist/0inPbbC0PnvOpFPui3KQK7"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/5GXyCj24iKfdoGUmAmtbg2"
+    },
+    {
+      "added_at": "2026-03-25 08:45:06",
+      "album": {
+        "name": "Life goes on",
+        "url": "https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "duration_ms": 213639,
+      "name": "Life goes on",
+      "url": "https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ"
+    },
+    {
+      "added_at": "2026-03-25 08:47:13",
+      "album": {
+        "name": "Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers",
+        "url": "https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm"
+      },
+      "artists": [
+        {
+          "name": "Susan Salidor",
+          "url": "https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "I Think You Dropped This",
+      "url": "https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy"
+    },
+    {
+      "added_at": "2026-03-25 22:03:40",
+      "album": {
+        "name": "Marc Tom\u00e9 (2024 Remastered Version)",
+        "url": "https://open.spotify.com/album/539xmZHkPOLDGf1OykDTqG"
+      },
+      "artists": [
+        {
+          "name": "Marc Tom\u00e9",
+          "url": "https://open.spotify.com/artist/2y9La4af89lJQxN4UUwUEf"
+        }
+      ],
+      "duration_ms": 218125,
+      "name": "Love Is a Liar (2024 Remastered Version)",
+      "url": "https://open.spotify.com/track/7ljXT4AJy1mRLFBxvH4D0U"
+    },
+    {
+      "added_at": "2026-03-25 23:05:43",
+      "album": {
+        "name": "Little Breaths of Earth",
+        "url": "https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX"
+      },
+      "artists": [
+        {
+          "name": "Wren West",
+          "url": "https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU"
+        }
+      ],
+      "duration_ms": 309190,
+      "name": "Little Breaths of Earth",
+      "url": "https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

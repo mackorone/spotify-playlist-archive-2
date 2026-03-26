@@ -67,6 +67,32 @@
     },
     {
       "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262044,
+      "name": "Aakhri Ishq",
+      "url": "https://open.spotify.com/track/0KjTF8c2qGUJBCuAskhsGT"
+    },
+    {
+      "album": {
         "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms"
       },
@@ -5016,6 +5042,32 @@
       "duration_ms": 283225,
       "name": "Phir Na Aisi Raat Aayegi (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4Zzw8CESa97fNrmrvEdIuL"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar The Revenge",
+        "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354051,
+      "name": "Phir Se",
+      "url": "https://open.spotify.com/track/2NhPxmtxBFZQ8Nr583Iqqt"
     },
     {
       "album": {

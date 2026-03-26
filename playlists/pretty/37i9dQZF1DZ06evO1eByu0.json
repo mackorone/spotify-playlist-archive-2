@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162567,
+  "num_followers": 162571,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAAop2LYcYyR0/RGCXc3gWnV",
+  "snapshot_id": "acHUAAAAAACWH3lGbH2PPGA9h274ijDm",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pai Presente",
-        "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 293684,
-      "name": "Pai Presente",
-      "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pai Presente",
+        "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 293684,
+      "name": "Pai Presente",
+      "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
     },
     {
       "added_at": null,

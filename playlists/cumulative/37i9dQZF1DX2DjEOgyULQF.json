@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds. ",
+  "description": "Ambient with the soothing sounds of water, rain and birds.",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 166229,
       "name": "Astral Awakening",
       "url": "https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez"
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Cleansing Rainfall",
+        "url": "https://open.spotify.com/album/2WSTIWXl6WVMn1P53Kh9qR"
+      },
+      "artists": [
+        {
+          "name": "Natrl Wondrs",
+          "url": "https://open.spotify.com/artist/6iza6KZWScZ1Y7gRwK295V"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Cleansing Rainfall",
+      "url": "https://open.spotify.com/track/7dKNWWHZP6EmLUQtLItDEx"
+    },
+    {
+      "album": {
         "name": "Clearing",
         "url": "https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 226285,
       "name": "Clearing",
       "url": "https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab"
@@ -1424,6 +1442,24 @@
       "duration_ms": 160055,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd"
+    },
+    {
+      "album": {
+        "name": "Eiren Vale",
+        "url": "https://open.spotify.com/album/6RyKg6vRmfvtXmJ3AxcNjf"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190248,
+      "name": "Eiren Vale",
+      "url": "https://open.spotify.com/track/4A2frSnLQt5qQXsuVoeN3z"
     },
     {
       "album": {

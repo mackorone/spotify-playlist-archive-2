@@ -75593,24 +75593,6 @@
     },
     {
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw"
-      },
-      "artists": [
-        {
-          "name": "Olivia Escuyos",
-          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
-        }
-      ],
-      "date_added": "2026-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa"
-    },
-    {
-      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -80524,6 +80506,24 @@
       "duration_ms": 219589,
       "name": "What Would I Say?",
       "url": "https://open.spotify.com/track/7qkpgAsNmZf0FXSuuoEqAQ"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5XOlnwM7OF1XInZ4djuZXw"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "What You Do",
+      "url": "https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-1,012 songs - 2 day 12 hr 8 min
+1,013 songs - 2 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [9](https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 5:14 | 2021-06-25 | 2022-04-21 |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2020-10-16 | 2022-09-30 |
 | [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-29 | 2022-07-19 |
+| [A Couple Minutes](https://open.spotify.com/track/4cEuGH4VIE5DWNt65Xzpk3) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [A Couple Minutes](https://open.spotify.com/album/3ovmQ7e9yyeimUEMi7L8vJ) | 2:04 | 2026-03-25 |  |
 | [A Different Side Of Us](https://open.spotify.com/track/3eG8GFnosxLGJqLak1MMx1) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 3:25 | 2025-03-28 | 2025-07-01 |
 | [A Dream of You](https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [A Dream of You](https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz) | 4:18 | 2020-10-05\* | 2023-01-13 |
 | [A Place Like This](https://open.spotify.com/track/1jRHh8JcdUV9zTiAmyzhU9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS) | 4:21 | 2021-03-22 | 2021-05-28 |
@@ -809,7 +810,7 @@
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-09-08 | 2024-11-16 |
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-17 |  |
-| [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 | 2024-12-17 |  |
+| [Snoopy](https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:00 | 2024-12-17 | 2026-03-26 |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2023-04-06 |  |
 | [So Easy](https://open.spotify.com/track/1d8i5NnfgZFK7mPwkKCWte) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/6CTw5u8BXTze72mbMcah1s) | 3:28 | 2024-11-15 | 2025-01-11 |
 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 | 2024-12-17 | 2025-03-20 |

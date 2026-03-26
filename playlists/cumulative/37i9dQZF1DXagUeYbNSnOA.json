@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Esty. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Nezzah. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 182900,
       "name": "100 A\u00f1os Despu\u00e9s",
       "url": "https://open.spotify.com/track/4zCJOweCQNfcXDi9py4L4q"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 137426,
       "name": "AFILAO",
       "url": "https://open.spotify.com/track/2HmPMCeBcn64cvTQfeyzlH"
@@ -7363,6 +7363,24 @@
     },
     {
       "album": {
+        "name": "Lado A / Lado B IV",
+        "url": "https://open.spotify.com/album/5PVroSmmimln14hqW1sRNm"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198918,
+      "name": "cae la noche",
+      "url": "https://open.spotify.com/track/6hQuEtWIAbzlA9VLwrXYYD"
+    },
+    {
+      "album": {
         "name": "Caer de Pie",
         "url": "https://open.spotify.com/album/0ChEHfakHtNzuRvN0jsZV0"
       },
@@ -10999,6 +11017,24 @@
     },
     {
       "album": {
+        "name": "cuLE viaJE",
+        "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
+      },
+      "artists": [
+        {
+          "name": "Till High",
+          "url": "https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "cuLE viaJE",
+      "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
+    },
+    {
+      "album": {
         "name": "Fauna",
         "url": "https://open.spotify.com/album/2JItddUuvX3ny8JYIrUeGo"
       },
@@ -11290,6 +11326,24 @@
       "duration_ms": 128582,
       "name": "c\u00f3mo se siente",
       "url": "https://open.spotify.com/track/39kJcNDgebjBNyDpxTo2e2"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Te Va?",
+        "url": "https://open.spotify.com/album/1uoUlzntZwu4gbF9HVyJpQ"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155155,
+      "name": "C\u00f3mo Te Va?",
+      "url": "https://open.spotify.com/track/7brvp5qlx3mYCoOexLXSHw"
     },
     {
       "album": {
@@ -11902,7 +11956,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 234000,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/7maxqLIEMaZb3d1gGG3zV5"
@@ -15292,7 +15346,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 182250,
       "name": "El Fuckboy",
       "url": "https://open.spotify.com/track/5b55H5Nxhj09u6nwz8W3OT"
@@ -15910,7 +15964,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
@@ -16418,6 +16472,28 @@
       "duration_ms": 96315,
       "name": "En la Playa Con un Su\u00e9ter",
       "url": "https://open.spotify.com/track/14kNuRVtcIfPcwO0GPeDru"
+    },
+    {
+      "album": {
+        "name": "En Las Estrellas Tu Nombre y el M\u00edo",
+        "url": "https://open.spotify.com/album/67hkfLi2JnLnz72IhrSl5W"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Wallens",
+          "url": "https://open.spotify.com/artist/4kuKEfDDpXOmtqowcLCYUs"
+        },
+        {
+          "name": "irene",
+          "url": "https://open.spotify.com/artist/6MCQ5rHdg8uRPBJ9sl8V9E"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "En Las Estrellas Tu Nombre y el M\u00edo",
+      "url": "https://open.spotify.com/track/6w6iHmyRKg1QbGvvNzKsdv"
     },
     {
       "album": {
@@ -27521,6 +27597,24 @@
     },
     {
       "album": {
+        "name": "MARAT\u00d3N",
+        "url": "https://open.spotify.com/album/6CM5kf3dg3IQntsZGFR9vw"
+      },
+      "artists": [
+        {
+          "name": "Sam Eli",
+          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "MARAT\u00d3N",
+      "url": "https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj"
+    },
+    {
+      "album": {
         "name": "MARBELLA",
         "url": "https://open.spotify.com/album/6p8j2DrRg90oXPowCCg6O8"
       },
@@ -30190,7 +30284,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 191449,
       "name": "MO-VI-MIEN-TO",
       "url": "https://open.spotify.com/track/0yGvw36lPgvq6xwwBhCwse"
@@ -30354,6 +30448,28 @@
       "duration_ms": 153826,
       "name": "Money",
       "url": "https://open.spotify.com/track/2e619mb1Ug2Ws7e62vQteT"
+    },
+    {
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/68TZrJR51i3Z5D7xOJqmF9"
+      },
+      "artists": [
+        {
+          "name": "FE7O",
+          "url": "https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL"
+        },
+        {
+          "name": "Mr Sonic",
+          "url": "https://open.spotify.com/artist/5WJpA3sTvsjYnBjYLS97Wm"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/03KZMwVbWkto3cqV1g5wf8"
     },
     {
       "album": {
@@ -30898,7 +31014,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 209142,
       "name": "My Baby Doesn't Love Me",
       "url": "https://open.spotify.com/track/4B6rEAFf9J4OddHNRApbma"
@@ -38017,6 +38133,24 @@
     },
     {
       "album": {
+        "name": "\u00c9tude",
+        "url": "https://open.spotify.com/album/55jIb7uvbN6PKM6uO6lCby"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220479,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/4rNzJte4Z9YynG79FEjyZC"
+    },
+    {
+      "album": {
         "name": "Puta",
         "url": "https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK"
       },
@@ -38456,6 +38590,24 @@
       "duration_ms": 219341,
       "name": "Que Te Vaya Mal",
       "url": "https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj"
+    },
+    {
+      "album": {
+        "name": "QUE TE VI",
+        "url": "https://open.spotify.com/album/3SnpXl6D2GXuix7SaIs4uT"
+      },
+      "artists": [
+        {
+          "name": "ZYANA",
+          "url": "https://open.spotify.com/artist/7FmzoPfF5XVUV8xpEkJ2pd"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "QUE TE VI",
+      "url": "https://open.spotify.com/track/3jbaLmzIMylmkbSq0WNDoV"
     },
     {
       "album": {
@@ -39146,6 +39298,24 @@
       "duration_ms": 166415,
       "name": "Radio",
       "url": "https://open.spotify.com/track/2JzuPKTLURQDw0aVXuNEbU"
+    },
+    {
+      "album": {
+        "name": "RAINFOREST",
+        "url": "https://open.spotify.com/album/6BDZYwIKatRsXXQxish7Ed"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164105,
+      "name": "RAINFOREST",
+      "url": "https://open.spotify.com/track/2TRmbPMesBxEaFVODHcNkJ"
     },
     {
       "album": {
@@ -41866,7 +42036,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 126270,
       "name": "SI SE DA",
       "url": "https://open.spotify.com/track/6ZQLTRGbRtzS2cdiMcWalv"
@@ -43942,7 +44112,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
@@ -48450,7 +48620,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 158659,
       "name": "Un d\u00eda como hoy",
       "url": "https://open.spotify.com/track/79bBKIZG98S8i2gDqPBGjs"
@@ -50360,6 +50530,24 @@
       "duration_ms": 137000,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/03gG6xaLgGBxSl6Wonot0E"
+    },
+    {
+      "album": {
+        "name": "Vol\u00e1ndose De Ti",
+        "url": "https://open.spotify.com/album/3q9RIPGOFxPwQK6Z7DLWoj"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141789,
+      "name": "Vol\u00e1ndose De Ti",
+      "url": "https://open.spotify.com/track/4lBcbMwhoZG14ia29oiVPP"
     },
     {
       "album": {

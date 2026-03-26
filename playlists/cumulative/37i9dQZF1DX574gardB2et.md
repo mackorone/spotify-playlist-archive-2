@@ -2,7 +2,7 @@
 
 ### [Hit Repeat](https://open.spotify.com/playlist/37i9dQZF1DX574gardB2et)
 
-> The hits you just keep coming back to\. Cover: Djo
+> The hits you just keep coming back to\. Cover: Taylor Swift
 
 177 songs - 9 hr 51 min
 

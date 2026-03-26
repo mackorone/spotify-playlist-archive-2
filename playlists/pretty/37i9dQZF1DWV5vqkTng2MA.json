@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 425448,
+  "num_followers": 425439,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
+        "name": "All My Shades Of Blue",
+        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
+      },
+      "artists": [
+        {
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2026-02-27 05:00:36",
-      "album": {
-        "name": "All My Shades Of Blue",
-        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
-      },
-      "artists": [
-        {
-          "name": "Ruen Brothers",
-          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Summer Sun",
-      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "Hard Working Americans",
-        "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
-      },
-      "artists": [
-        {
-          "name": "Hard Working Americans",
-          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Stomp and Holler",
-      "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
-    },
-    {
-      "added_at": "2026-02-27 05:00:36",
-      "album": {
         "name": "The Criminal Record",
         "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 248493,
       "name": "Funky Ghost",
       "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Hard Working Americans",
+        "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
+      },
+      "artists": [
+        {
+          "name": "Hard Working Americans",
+          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Stomp and Holler",
+      "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
-        }
-      ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
-    },
-    {
-      "added_at": "2026-02-27 05:00:36",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+        }
+      ],
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "King of Bohemia",
-        "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
+        "name": "It Must Change",
+        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
       },
       "artists": [
         {
-          "name": "Betty & Oswald",
-          "url": "https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp"
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
         }
       ],
-      "duration_ms": 218749,
-      "name": "King of Bohemia",
-      "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "It Must Change",
-        "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
+        "name": "King of Bohemia",
+        "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
       "artists": [
         {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+          "name": "Betty & Oswald",
+          "url": "https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp"
         }
       ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0"
+      "duration_ms": 218749,
+      "name": "King of Bohemia",
+      "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2026-02-27 05:00:36",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 246453,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2026-02-27 05:00:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-27 05:00:36",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2026-02-27 05:00:36",
-      "album": {
         "name": "The Dark Of The Morning EP",
         "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 239706,
       "name": "When We Were On Fire",
       "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:36",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2026-02-27 05:00:36",

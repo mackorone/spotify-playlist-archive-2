@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54302,
+  "num_followers": 54324,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAC+sMlwdr84BruBLbdE5WXF",
+  "snapshot_id": "acHUAAAAAAA4rAa8t56PGwSYxqf6MHvq",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Va A Gustar",
-        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "De Cristal O De Papel",
-      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfador",
         "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 172805,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "De Cristal O De Papel",
+      "url": "https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 206133,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Ke Mandan",
-        "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Cristaleros Michoacanos - Banda",
-      "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 198146,
       "name": "Sea Lo Que Sea",
       "url": "https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Ke Mandan",
+        "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Cristaleros Michoacanos - Banda",
+      "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRUZ DE MADERA (Banda)",
-        "url": "https://open.spotify.com/album/348oQZQFKTuNkCkNGRv9af"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 186319,
-      "name": "CRUZ DE MADERA - Banda",
-      "url": "https://open.spotify.com/track/6GeOc1DWj2udALoDvkheGD"
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

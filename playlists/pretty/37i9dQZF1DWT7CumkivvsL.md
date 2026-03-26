@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Will love prove stronger than resentment? Listen to the official playlist for Culpa Mia, Culpa Tuya , and Culpa Nuestra, now streaming on Prime Video
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,967 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,948 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

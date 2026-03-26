@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,294 likes - 307 songs - 16 hr 24 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,298 likes - 319 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,6 +314,18 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 304 | [Do You Like Being Isolated](https://open.spotify.com/track/579vB3uXi1ngRrQ5thu7fc) | [As Particles Collide](https://open.spotify.com/artist/7ECcvHYe1rQzg2Xv6qi9Ed) | [Within Cells Interlinked Pt\. 2](https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu) | 2:05 |
 | 305 | [They Take You to War](https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 2:10 |
 | 306 | [Down on Richmond](https://open.spotify.com/track/7n2vhgZt1Kk8TMRCzgbfl3) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/1ZqmD4wXzSqAYbAcEsQiO2) | 1:59 |
-| 307 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 |
+| 307 | [Varis](https://open.spotify.com/track/19csFxWSwnyNWKMujowoui) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Varis](https://open.spotify.com/album/0pwfvMM4RIfjPVJjaBiUFh) | 5:51 |
+| 308 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 |
+| 309 | [Seven Sins](https://open.spotify.com/track/7t1JJbKRgAEr13HRItBqDK) | [Sylenced](https://open.spotify.com/artist/01I6Uf9qkwbvgFj90wfZC3) | [Seven Sins](https://open.spotify.com/album/4QYnUbbT7JDuEc4dEHwrug) | 4:12 |
+| 310 | [Empty Apartments](https://open.spotify.com/track/4QL3r28wKCWlo2I6Fz4YNk) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Empty Apartments](https://open.spotify.com/album/6Doc1kjxwteeDFYMsB8pKR) | 3:49 |
+| 311 | [Voidware](https://open.spotify.com/track/1yI5dVImM7I23meE5PlV5U) | [Nullgrim](https://open.spotify.com/artist/6jA6QvMx7oLhMmtrrMmNvH) | [Voidware](https://open.spotify.com/album/4gUash0IAx1TO9KMTu7tU5) | 2:22 |
+| 312 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
+| 313 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 |
+| 314 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 |
+| 315 | [Red Stain](https://open.spotify.com/track/1B9QyAQ7n93w9d39YxdIac) | [9VOLT](https://open.spotify.com/artist/1yGIUUNxhETK7t4ccYvaIF) | [Hard to Get Out](https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs) | 1:54 |
+| 316 | [Feel The Monster XXV](https://open.spotify.com/track/51lTKWhkcup4B9x8CMHoQB) | [Killus](https://open.spotify.com/artist/0c44C54LrAHha0u92agfHM) | [XXV Years Feeding the Monster](https://open.spotify.com/album/7Dceor0eHgves2o51kfi6V) | 4:05 |
+| 317 | [Late](https://open.spotify.com/track/25cUCKMr0xNUYBkq3rX5Uw) | [Earth Surrender](https://open.spotify.com/artist/1ggs6MrsfK2uKRb31n5KQx) | [Late](https://open.spotify.com/album/6cQVautDWtSqJldd5dVgEV) | 3:16 |
+| 318 | [Consumed](https://open.spotify.com/track/26cBcYBLQJou1rYRzQ3ZXM) | [Nicole Saphos Band](https://open.spotify.com/artist/0AArU8kQuAaBB1f1kpDClR) | [Consumed](https://open.spotify.com/album/1iCLFZm1emXsdR8kASqJ7N) | 3:47 |
+| 319 | [Eliza](https://open.spotify.com/track/4d3DWOLHRxXmzedStdESfD) | [The Yellow Signal](https://open.spotify.com/artist/2ol9A42hn836UK2TWCe1Vt) | [Eliza](https://open.spotify.com/album/68ugvXdCdjAe2xRtMT5k1u) | 3:02 |
 
-Snapshot ID: `AAAM3jlYHl/QPaoAP0uTNeatFBRgbor3`
+Snapshot ID: `AAAM6joB8YxoqgAqJ8XUmT71rC/+v7Gn`

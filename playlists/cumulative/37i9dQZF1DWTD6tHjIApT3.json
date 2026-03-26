@@ -29301,6 +29301,24 @@
     },
     {
       "album": {
+        "name": "Sebone -spinal column-",
+        "url": "https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2026-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191845,
+      "name": "Rose_Sebone",
+      "url": "https://open.spotify.com/track/5EqtOr3Tw3wM3b8WlVqC6r"
+    },
+    {
+      "album": {
         "name": "routine life",
         "url": "https://open.spotify.com/album/3nO790FKbCxYTZL5HjVsZZ"
       },
@@ -36472,24 +36490,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "Sebone -spinal column-",
-        "url": "https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1"
-      },
-      "artists": [
-        {
-          "name": "Tota",
-          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
-        }
-      ],
-      "date_added": "2026-03-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/5EqtOr3Tw3wM3b8WlVqC6r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: King & Prince
 
-1,656 songs - 3 day 23 hr 8 min
+1,657 songs - 3 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Stargaze](https://open.spotify.com/track/2c0DXz1BW0FdiDXi2h4prp) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Stargaze](https://open.spotify.com/album/2fOvvVnrRNqmMvPWjWxDDx) | 3:57 | 2025-07-08 | 2025-09-10 |
 | [STARLIGHT](https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [STARLIGHT](https://open.spotify.com/album/5TibMNvMzjSot778RCMlDy) | 4:02 | 2026-03-03 | 2026-03-11 |
 | [STARS](https://open.spotify.com/track/7oS96qmtYu3AdEX29HNAKf) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [STARS](https://open.spotify.com/album/4ljcm2YWCYxmd8mV5m9Kos) | 4:06 | 2026-02-03 | 2026-02-25 |
+| [STAY](https://open.spotify.com/track/6Yt70TWTOVkUZVG9gkMpIk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [STAY](https://open.spotify.com/album/3G6wttbJTyi0uAxu6vw1Ca) | 3:06 | 2026-03-24 |  |
 | [Stay With Me](https://open.spotify.com/track/3GVSPTF6hkjISzWNDbWfpM) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/6QW9pw5fNadRfVp6Gg8SpF) | 2:57 | 2026-01-14 | 2026-03-04 |
 | [stay with me](https://open.spotify.com/track/1smgzMnfgCPrp1UagrgOjO) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Rikutsudehanasukimito, Kanjoronnoboku](https://open.spotify.com/album/79a0hGkH01ihpKnnZdAZmu) | 3:39 | 2026-02-10 | 2026-03-11 |
 | [Step!!!!!](https://open.spotify.com/track/69YIXUp9PiSqAD5exWtuqK) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [Step!!!!!](https://open.spotify.com/album/3Lljpf1Fxr45q9vNpqwRpk) | 4:07 | 2024-09-03 | 2024-10-16 |

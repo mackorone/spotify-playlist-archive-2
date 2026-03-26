@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,158 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,250 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 17 | [Something](https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Something](https://open.spotify.com/album/30uZ7QkSe3RiIuNCiRCLWk) | 3:23 |
 | 18 | [Aware](https://open.spotify.com/track/2kp6AKfu0JauDqwqTBSSVP) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm) | [Aware](https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu) | 3:54 |
 | 19 | [He.art \(Omiki & Terra Remix\)](https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [TERRA](https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l) | [He.art \(Omiki & Terra Remix\)](https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU) | 7:12 |
-| 20 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 |
-| 21 | [Octopus \- 3 Of Life & Domestic Remix](https://open.spotify.com/track/4grBMIp5yrboa13rvvzf4s) | [Art Of Trance](https://open.spotify.com/artist/42edDgjfmvA5cRKsF1KH5a), [3 Of Life](https://open.spotify.com/artist/0HSf3WmUsD5jo0QNahAByO), [Domestic](https://open.spotify.com/artist/045CNprh7gdLSnJP6oOryU) | [Octopus](https://open.spotify.com/album/0aOq7th8Ua8R3wW5qFjJRY) | 7:39 |
+| 20 | [Octopus \- 3 Of Life & Domestic Remix](https://open.spotify.com/track/4grBMIp5yrboa13rvvzf4s) | [Art Of Trance](https://open.spotify.com/artist/42edDgjfmvA5cRKsF1KH5a), [3 Of Life](https://open.spotify.com/artist/0HSf3WmUsD5jo0QNahAByO), [Domestic](https://open.spotify.com/artist/045CNprh7gdLSnJP6oOryU) | [Octopus](https://open.spotify.com/album/0aOq7th8Ua8R3wW5qFjJRY) | 7:39 |
+| 21 | [Natural Connection](https://open.spotify.com/track/72eKr4Y8oTl3N6YowhUmgI) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Natural Connection](https://open.spotify.com/album/7fdd3jpfhZQR3sLn5HLQ3V) | 6:59 |
 | 22 | [Ameno](https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8) | [I.GOT.U](https://open.spotify.com/artist/5hxkmR1SqWzX1fj0Z6kDBJ), [RAVE\-N](https://open.spotify.com/artist/5hBMAPBvkQALF1rtGWFtUe) | [Ameno](https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT) | 2:36 |
 | 23 | [Be Right \- Asgard Remix](https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Ritmo](https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT), [Asgard](https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e) | [Be Right](https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x) | 8:20 |
 | 24 | [Lux](https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Lux](https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH) | 5:30 |

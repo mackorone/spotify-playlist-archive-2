@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "And Then",
+        "url": "https://open.spotify.com/album/427j5t0GFrC9U44zwGwmzs"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "And Then",
+      "url": "https://open.spotify.com/track/3jD4FYNB7LVpY3l8497P7P"
+    },
+    {
+      "album": {
         "name": "ECHOES",
         "url": "https://open.spotify.com/album/3wPiMcPYMF0k1wGXX2crFd"
       },
@@ -2688,6 +2706,24 @@
       "duration_ms": 643956,
       "name": "Catenary",
       "url": "https://open.spotify.com/track/4K5Ip7ZljdnSl3dedcLTft"
+    },
+    {
+      "album": {
+        "name": "CATTLE",
+        "url": "https://open.spotify.com/album/4n86SabGo3rJfbAgnPqBm4"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98360,
+      "name": "CATTLE",
+      "url": "https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm"
     },
     {
       "album": {
@@ -7525,6 +7561,24 @@
     },
     {
       "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/67sgzDZLBpj3whWGrox7KO"
+      },
+      "artists": [
+        {
+          "name": "Rosenau & Sanborn",
+          "url": "https://open.spotify.com/artist/6fSXaI61QwhurdSbBWty65"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165248,
+      "name": "Kay",
+      "url": "https://open.spotify.com/track/0ROXPQwUdZyFXcNRjtOsJE"
+    },
+    {
+      "album": {
         "name": "Kazegafuku",
         "url": "https://open.spotify.com/album/74IVWqSvmOxcgM3DWOJCEm"
       },
@@ -11526,7 +11580,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 109106,
       "name": "REALM",
       "url": "https://open.spotify.com/track/6MlWSNGsSVLn2VAEwSM7BY"
@@ -12062,7 +12116,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 203853,
       "name": "Sacred Resonance",
       "url": "https://open.spotify.com/track/0JgV5wIWaj5AqJ10XnpHJW"
@@ -14340,6 +14394,24 @@
       "duration_ms": 453000,
       "name": "Summer Shade",
       "url": "https://open.spotify.com/track/0M0edTo3o0n7DmXJ91NFTD"
+    },
+    {
+      "album": {
+        "name": "Hinterlands",
+        "url": "https://open.spotify.com/album/4p0le5k2zZ0ctvHkVxq1Qm"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sun Dogs",
+      "url": "https://open.spotify.com/track/1unVopRVFojYLDRfxeOXAm"
     },
     {
       "album": {
@@ -17404,6 +17476,24 @@
       "duration_ms": 275133,
       "name": "\u5149\u3068\u6c34",
       "url": "https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx"
+    },
+    {
+      "album": {
+        "name": "enmei",
+        "url": "https://open.spotify.com/album/1lmliCPPBTj2CC1l8yhdC5"
+      },
+      "artists": [
+        {
+          "name": "enmei",
+          "url": "https://open.spotify.com/artist/1a9HpydqWkhpzfy3U9bIUt"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "\u57cb\u846c-maisou-",
+      "url": "https://open.spotify.com/track/0Tc78oWwSnx0bsy8Px2d2k"
     },
     {
       "album": {

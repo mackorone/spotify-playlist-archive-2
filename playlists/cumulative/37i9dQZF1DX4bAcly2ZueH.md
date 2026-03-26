@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-203 songs - 10 hr 36 min
+204 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 | 2022-10-11 | 2023-06-29 |
 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 | 2022-10-11 |  |
 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 | 2022-10-11 |  |
+| [When We Were Small](https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8) | [Naomi Eno](https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo), [mahiro iska](https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo) | [When We Were Small](https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm) | 2:13 | 2026-03-25 |  |
 | [Who.](https://open.spotify.com/track/7FwMwoFxhZPEEAEHxp2bSH) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Who.](https://open.spotify.com/album/3ulL6H4gTjz6Sz0o40qMRB) | 2:00 | 2024-12-03 |  |
 | [Wind](https://open.spotify.com/track/18kpIet027NR4fkxsqpG6R) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/6MNnL9qkX5t3OuVMIDlNy0) | 2:43 | 2024-03-05 |  |
 | [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 | 2022-10-11 | 2023-02-24 |
@@ -207,7 +208,7 @@
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2024-03-05 | 2025-03-19 |
 | [YUYAKE](https://open.spotify.com/track/7L0f6RnRJach8g9EaecCOL) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/4ZRfc25OsAg7bvh1TqIYuE) | 3:00 | 2022-10-11 | 2022-11-13 |
 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 | 2024-08-14 |  |
-| [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 | 2024-03-05 |  |
+| [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 | 2024-03-05 | 2026-03-26 |
 | [多変数](https://open.spotify.com/track/1yrb9lYmUnu8jTC0gwGyUk) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [多変数](https://open.spotify.com/album/6lWSo35E2z9FBgbHuAEElU) | 3:04 | 2025-12-10 |  |
 | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be) | [Alice Crosshart](https://open.spotify.com/artist/6vwJVDJDdf5E7K3OFWHheo), [Mikazuki BIGWAVE](https://open.spotify.com/artist/7dqKRXUJvcgQbg6jq06uFW) | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/album/2fxQxVewN6IoM213Y2cxfX) | 2:40 | 2022-10-11 | 2024-07-18 |
 | [山月](https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD) | [山月](https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT) | 3:13 | 2025-07-16 |  |

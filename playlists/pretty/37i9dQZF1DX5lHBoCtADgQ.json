@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 48490,
+  "num_followers": 48525,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
+        "name": "Mitti - Folk Vibes Of Punjab",
+        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
+      },
+      "artists": [
+        {
+          "name": "Supriya Soni",
+          "url": "https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22"
+        },
+        {
+          "name": "Vanshika Joshi",
+          "url": "https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE"
+        }
+      ],
+      "duration_ms": 117109,
+      "name": "Baajre Da Sitta",
+      "url": "https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
         "name": "Sohni Mahiwal",
         "url": "https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 285714,
       "name": "Sohni Mahiwal",
       "url": "https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
-        "name": "Mitti - Folk Vibes Of Punjab",
-        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
-      },
-      "artists": [
-        {
-          "name": "Supriya Soni",
-          "url": "https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22"
-        },
-        {
-          "name": "Vanshika Joshi",
-          "url": "https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE"
-        }
-      ],
-      "duration_ms": 117109,
-      "name": "Baajre Da Sitta",
-      "url": "https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "The King (Greatest Hits)",
-        "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
+        "name": "Virsa Volume 2",
+        "url": "https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj"
       },
       "artists": [
         {
-          "name": "Surjit Bindrakhia",
-          "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
+          "name": "Jasbir Kaur",
+          "url": "https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju"
         }
       ],
-      "duration_ms": 298251,
-      "name": "(Boliyan) Geetan Da Guldasta",
-      "url": "https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2"
+      "duration_ms": 175386,
+      "name": "Kala Shah Kala - Original",
+      "url": "https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO"
     }
   ],
   "unique_name": "Folk Punjabi",

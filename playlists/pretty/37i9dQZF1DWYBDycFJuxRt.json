@@ -1,13 +1,29 @@
 {
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mr.Children *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344832\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
-  "num_followers": 255711,
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Mr.Children *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344995\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "num_followers": 255750,
   "original_name": "New Music Wednesday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAkDPwJBXkbsyn7AOHnfpYbkKT8",
+  "snapshot_id": "AAAAAGW1p2NmaqkGJ71sHsd5/zdReXEs",
   "tracks": [
+    {
+      "added_at": "2026-03-25 03:13:06",
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "duration_ms": 1368978,
+      "name": "2026/3/25 Mr.Children\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001\u7f8a\u6587\u5b66\u306e\u65b0\u66f2\u3082\uff01kZm\u306e\u65b0\u66f2\u3001\u6ce8\u76ee\u306e\u30cb\u30e5\u30fc\u30ab\u30de\u30fcKianna\u306e\u65b0\u4f5c\u3082\uff01",
+      "url": "https://open.spotify.com/episode/00sQkW8ERGVSUYpF904ruQ"
+    },
     {
       "added_at": "2026-03-24 15:00:34",
       "album": {
@@ -135,6 +151,22 @@
       "duration_ms": 244333,
       "name": "Waltz for Lily",
       "url": "https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf"
+    },
+    {
+      "added_at": "2026-03-24 15:00:34",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/3G6wttbJTyi0uAxu6vw1Ca"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/6Yt70TWTOVkUZVG9gkMpIk"
     },
     {
       "added_at": "2026-03-24 15:00:34",
@@ -268,8 +300,8 @@
           "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 206880,
+      "name": "one room",
       "url": "https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t"
     },
     {
@@ -452,8 +484,8 @@
           "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 198285,
+      "name": "Destruction",
       "url": "https://open.spotify.com/track/6W9PknpFN4App1UrntPMnp"
     },
     {

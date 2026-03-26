@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 180105,
+  "num_followers": 180129,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAACKJRKD8Iv7MxHd3oap+oo6",
+  "snapshot_id": "acHUAAAAAAD9l8FA+p4r49B88mE9d8G+",
   "tracks": [
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 190733,
-      "name": "Pop Song",
-      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
+      "duration_ms": 190733,
+      "name": "Pop Song",
+      "url": "https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 270025,
+  "num_followers": 270064,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Skepta .. Fred",
         "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 225897,
       "name": "Last 1s Left",
       "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "ZOHARA",
-          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "KODAK",
-        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "KODAK",
-      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 220689,
       "name": "Entwined (feat. Grimes)",
       "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "KODAK",
+        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "KODAK",
+      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "WHO (You Know What I'm Waiting For)",
         "url": "https://open.spotify.com/album/5UsK5bC1PptKzN6YGNxsaH"
       },
@@ -1415,6 +1395,50 @@
       "duration_ms": 134400,
       "name": "WHO (You Know What I'm Waiting For)",
       "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Let It Go (feat. Nevve)",
+        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Let It Go (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1507,30 +1531,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Let It Go (feat. Nevve)",
-        "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Let It Go (feat. Nevve)",
-      "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Fast Money",
         "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
       },
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        }
-      ],
-      "duration_ms": 192193,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 161641,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Bring The House Down",
         "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 161641,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Break This Tension",
+        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "Break This Tension",
+      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Scars In Stereo",
         "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
       },
@@ -2051,26 +2071,6 @@
       "duration_ms": 171207,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Break This Tension",
-        "url": "https://open.spotify.com/album/7mVBnGuKuvy9iNRl0xM4Hp"
-      },
-      "artists": [
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "Break This Tension",
-      "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
+        "name": "Trilla",
+        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
+      },
+      "artists": [
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Trilla",
+      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/1Db9mYMaxIPA3mEX5UDesN"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 134418,
       "name": "Sex In The Mosh",
       "url": "https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
-        "name": "Trilla",
-        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
-      },
-      "artists": [
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Trilla",
-      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     },
     {
       "added_at": "2026-03-20 04:00:41",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-03-20 04:00:41",
       "album": {
-        "name": "Ur Not Invited",
-        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Ur Not Invited",
-      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
-    },
-    {
-      "added_at": "2026-03-20 04:00:41",
-      "album": {
         "name": "Howweroll",
         "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 155483,
       "name": "Howweroll",
       "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
+    },
+    {
+      "added_at": "2026-03-20 04:00:41",
+      "album": {
+        "name": "Ur Not Invited",
+        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Ur Not Invited",
+      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
     },
     {
       "added_at": "2026-03-20 04:00:41",

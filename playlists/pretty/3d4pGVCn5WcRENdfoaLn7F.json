@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 586,
+  "num_followers": 589,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADBvQzWPfqdn/n7bCE7kwnsFai4WeT",
+  "snapshot_id": "AAADDrsq/VEAgTVHhYvpUYvAcaYQVbrq",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -39,6 +39,22 @@
       "duration_ms": 297573,
       "name": "No puedes saber",
       "url": "https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3"
+    },
+    {
+      "added_at": "2026-03-26 01:43:30",
+      "album": {
+        "name": "Timewaster",
+        "url": "https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE"
+      },
+      "artists": [
+        {
+          "name": "P\u00d8RTERS",
+          "url": "https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q"
+        }
+      ],
+      "duration_ms": 215844,
+      "name": "Timewaster",
+      "url": "https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk"
     },
     {
       "added_at": "2026-03-11 01:29:20",
@@ -201,22 +217,6 @@
       "url": "https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE"
     },
     {
-      "added_at": "2025-12-05 18:42:05",
-      "album": {
-        "name": "New Shit Has Come To Light",
-        "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 170318,
-      "name": "New Shit Has Come To Light",
-      "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
-    },
-    {
       "added_at": "2025-09-19 01:48:59",
       "album": {
         "name": "I Have Learned",
@@ -247,6 +247,22 @@
       "duration_ms": 236228,
       "name": "Our Path",
       "url": "https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL"
+    },
+    {
+      "added_at": "2025-12-05 18:42:05",
+      "album": {
+        "name": "New Shit Has Come To Light",
+        "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 170318,
+      "name": "New Shit Has Come To Light",
+      "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
     },
     {
       "added_at": "2025-10-29 11:54:04",
@@ -393,22 +409,6 @@
       "url": "https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo"
     },
     {
-      "added_at": "2026-01-11 13:10:27",
-      "album": {
-        "name": "Just A Good Time 80s Jam",
-        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 154376,
-      "name": "Just A Good Time 80s Jam",
-      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
-    },
-    {
       "added_at": "2026-02-07 20:34:56",
       "album": {
         "name": "OK UK",
@@ -551,6 +551,22 @@
       "duration_ms": 190000,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/65DXx4MjmlPwm1RlWtuPvZ"
+    },
+    {
+      "added_at": "2026-01-11 13:10:27",
+      "album": {
+        "name": "Just A Good Time 80s Jam",
+        "url": "https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 154376,
+      "name": "Just A Good Time 80s Jam",
+      "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
       "added_at": "2026-02-16 17:09:58",
@@ -745,22 +761,6 @@
       "url": "https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp"
     },
     {
-      "added_at": "2025-10-21 18:29:01",
-      "album": {
-        "name": "Sign Of The Horns",
-        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 187778,
-      "name": "Sign Of The Horns",
-      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
-    },
-    {
       "added_at": "2026-02-26 15:58:43",
       "album": {
         "name": "Fool Me Once",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
     },
     {
-      "added_at": "2026-03-05 16:24:57",
+      "added_at": "2025-10-21 18:29:01",
       "album": {
-        "name": "Subtle Love",
-        "url": "https://open.spotify.com/album/3PR6WtuBxwmWtFmOaCbIej"
+        "name": "Sign Of The Horns",
+        "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
       },
       "artists": [
         {
-          "name": "Hazy Lane",
-          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
         }
       ],
-      "duration_ms": 231692,
-      "name": "Once Again",
-      "url": "https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs"
+      "duration_ms": 187778,
+      "name": "Sign Of The Horns",
+      "url": "https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9"
     },
     {
       "added_at": "2026-03-06 15:46:16",
@@ -1311,6 +1311,26 @@
       "duration_ms": 173683,
       "name": "Bild aus Asche",
       "url": "https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93"
+    },
+    {
+      "added_at": "2026-03-26 01:39:19",
+      "album": {
+        "name": "The Daylight is Gone",
+        "url": "https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ"
+      },
+      "artists": [
+        {
+          "name": "Isin",
+          "url": "https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z"
+        },
+        {
+          "name": "Vallartis",
+          "url": "https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa"
+        }
+      ],
+      "duration_ms": 238909,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

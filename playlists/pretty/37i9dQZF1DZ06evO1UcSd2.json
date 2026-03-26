@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 81333,
+  "num_followers": 81370,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAAb8pcMj0FKRlID1GXlTd1x",
+  "snapshot_id": "acHUAAAAAABDi1W/N3sffwxBUjMxVKsU",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/2Gn6fUHACYgkXDospTdO1z"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 168085,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/2fN9jKhvXOotH3k0Dx12Ma"
     },
     {
       "added_at": null,
@@ -391,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 179050,
       "name": "Sabe Lo Que Trae",
       "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecado",
-        "url": "https://open.spotify.com/album/2Gn6fUHACYgkXDospTdO1z"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "Pecado",
-      "url": "https://open.spotify.com/track/2fN9jKhvXOotH3k0Dx12Ma"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Guffi - Remix",
-        "url": "https://open.spotify.com/album/4CLCaJZKlWYM2X8DT7PGK1"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Como Te Guffi - Remix",
-      "url": "https://open.spotify.com/track/4S7G1heGcYCIZZfE8QSfnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
         "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 240640,
       "name": "Cuento Chino",
       "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Te Guffi - Remix",
+        "url": "https://open.spotify.com/album/4CLCaJZKlWYM2X8DT7PGK1"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Como Te Guffi - Remix",
+      "url": "https://open.spotify.com/track/4S7G1heGcYCIZZfE8QSfnj"
     },
     {
       "added_at": null,
@@ -931,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy De Agiabampo",
+        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Soy De Agiabampo",
+      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plegarias",
-        "url": "https://open.spotify.com/album/6iFc4jh5yxj9JB2LD3Qom3"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 223638,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/4brGzrH7rgluGqvXLIoIIA"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

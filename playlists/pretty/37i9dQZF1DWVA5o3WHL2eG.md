@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,190 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,477 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 |
 | 22 | [Strip \- Bonus Track](https://open.spotify.com/track/25A62Eer2PaUqnOeJQWora) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:47 |
 | 23 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
-| 24 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
-| 25 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
+| 24 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
+| 25 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
 | 26 | [Again](https://open.spotify.com/track/1fbMPyPcqNJjpPPvmcjhzJ) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Why, Why](https://open.spotify.com/album/0WDjHyGh6JjGnnuLf61gMs) | 3:49 |
 | 27 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/7LyJ6qAXj3m3MoLWF6WHLZ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/5lXNBt6jCFso3HJf2hewul) | 3:25 |
-| 28 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
-| 29 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
+| 28 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
+| 29 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
 | 30 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
 | 31 | [Ignorance is Bliss](https://open.spotify.com/track/5MrvwTkrocYxMBEelpCxeD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:34 |
 | 32 | [Who](https://open.spotify.com/track/5ChsCz0T4RykLavAqqwzHv) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Vitamin C](https://open.spotify.com/album/1o9XRpFT8v4VCNf6ZxT9Uo) | 3:01 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 50 | [Vitamins](https://open.spotify.com/track/5aLY8E1e60iaI4gVCCD7OK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6) | 2:59 |
 | 51 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
 | 52 | [How It Looks Like](https://open.spotify.com/track/1aIkIwdJjLo6DhITYYIzck) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [How It Looks Like](https://open.spotify.com/album/3NrrbI4KX0wDf02RAPDfkw) | 4:37 |
-| 53 | [Silver Lining](https://open.spotify.com/track/1RbBO8JbJrsxz3g2YTcPtn) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 3:22 |
-| 54 | [The Surface](https://open.spotify.com/track/6m1GwaRkBG1ujJcKH9rnic) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 3:55 |
+| 53 | [The Surface](https://open.spotify.com/track/6m1GwaRkBG1ujJcKH9rnic) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 3:55 |
+| 54 | [Silver Lining](https://open.spotify.com/track/1RbBO8JbJrsxz3g2YTcPtn) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 3:22 |
 | 55 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
 | 56 | [Mad](https://open.spotify.com/track/5rG3r8mGTeTlFugpIgMg8E) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:22 |
 | 57 | [Just Keep Swimming](https://open.spotify.com/track/5e30L2Uds20ufO2pjaMhQP) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:23 |

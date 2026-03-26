@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,242 songs - 9 day 9 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,245 songs - 9 day 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1602,7 +1602,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1592 | [Made Sum Plans](https://open.spotify.com/track/5sE9XpE2ukIwC2sYhIvUrs) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Jump Out](https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM) | 2:07 |
 | 1593 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
 | 1594 | [JRJRJR](https://open.spotify.com/track/1mW9XrT9XdnsDPuthSgusZ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [JRJRJR](https://open.spotify.com/album/1rknl8JliYRRZJjs6yhsDF) | 4:28 |
-| 1595 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 |
+| 1595 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 |
 | 1596 | [One Way! 2](https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way! 2](https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf) | 3:45 |
 | 1597 | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/track/3loZeLVTG8DjJLjMbnge2t) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/album/0Oo0LauukZP2mXWR1n4exK) | 2:01 |
 | 1598 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
@@ -1619,10 +1619,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1609 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
 | 1610 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
 | 1611 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 |
-| 1612 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
+| 1612 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
 | 1613 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 |
 | 1614 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
-| 1615 | [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 |
+| 1615 | [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 |
 | 1616 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 |
 | 1617 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 |
 | 1618 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 |
@@ -4250,5 +4250,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4240 | [TIME PASSES](https://open.spotify.com/track/5VhNq876BupaVKaIl7cgzx) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:07 |
 | 4241 | [Perfect Husband](https://open.spotify.com/track/5ZgTgzeEKjUaaXHXjGfAVf) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Perfect Husband](https://open.spotify.com/album/0KJaZTaZA8YaSPFI0FSKpY) | 3:23 |
 | 4242 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 |
+| 4243 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 |
+| 4244 | [7 Stories High](https://open.spotify.com/track/7lLkM5uwtOko2oRjudvNHp) | [Paytron Saint](https://open.spotify.com/artist/7fYqPJkpE2ME609cAy8HVG), [emzae](https://open.spotify.com/artist/07o9bmQoF82RqJz4ey7oJr) | [7 Stories High](https://open.spotify.com/album/7jicdugUw0UuzGNOqoQUPE) | 4:14 |
+| 4245 | [Dream \(Ek Khwaab\)](https://open.spotify.com/track/4DSXk7IIAQ6ZCyxaTFOuen) | [Sunsara](https://open.spotify.com/artist/2vcmaaRJAq9YmTX5OIbrqH) | [Dream \(Ek Khwaab\)](https://open.spotify.com/album/5dfliLlUA3EPs3WlSABvu5) | 3:02 |
 
-Snapshot ID: `AAAIEaS3jFDkvVVv2SVhSP4YUn+PXD3k`
+Snapshot ID: `AAAIFCi2+ugQJ1WlqXGFiMsQJj5p9i0z`

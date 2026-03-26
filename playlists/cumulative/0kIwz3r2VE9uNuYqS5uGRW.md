@@ -4,7 +4,7 @@
 
 > 
 
-176 songs - 9 hr 10 min
+179 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-22 |  |
 | [Dumar Kuba](https://open.spotify.com/track/2Atey8INkA4R0H5acupQ22) | [Kasbah Rockers](https://open.spotify.com/artist/1jwPG5eNGIYa1k2R8eZjPu), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Sam J Samatar](https://open.spotify.com/artist/1JUwjzz1kyxvYll7xbcu7R) | [Dumar Kuba](https://open.spotify.com/album/7dgtgmt05pFVqYgCIS6b5i) | 3:48 | 2025-07-03 |  |
 | [Dying Alone!](https://open.spotify.com/track/0MVZaq5sejk2eTOa8PcmrC) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [Dying Alone!](https://open.spotify.com/album/6kHIMfzflJssAB9d4NA4FP) | 2:50 | 2026-03-15 |  |
+| [E.L.I](https://open.spotify.com/track/4nyxCD4FCZveMonOlO7qgu) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Yua](https://open.spotify.com/artist/1maYXmjvOoGdlq4qYyTSpk), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw) | [E.L.I](https://open.spotify.com/album/5gZLk23Noulnh6PjRK4K8K) | 2:42 | 2026-03-25 |  |
 | [Early Birds](https://open.spotify.com/track/0vR3kZAVHbQdxfELwGbOlB) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Early Birds](https://open.spotify.com/album/2jybjZOdnaBsM685CybAjI) | 4:22 | 2025-03-12 |  |
 | [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 | 2026-01-02 |  |
 | [El Refrán](https://open.spotify.com/track/2db7peohg2RsaCOeXozJjF) | [Yadiell](https://open.spotify.com/artist/0rYolSGwAR5m9g6h4Jlfwq) | [El Refrán](https://open.spotify.com/album/0qKfCoShShQYSWVkdq6Vom) | 2:24 | 2025-07-07 |  |
@@ -132,6 +133,7 @@
 | [pull up](https://open.spotify.com/track/493d2v5Wk3NVhfRdDbLDZp) | [Thékho](https://open.spotify.com/artist/4lCPqhnzBqohZlfqncjtxl), [saranghae](https://open.spotify.com/artist/7lOWCFSEnzDM8WOlsxy1Yj) | [pull up](https://open.spotify.com/album/7JC48ko5wABisFzZNl6JE6) | 1:50 | 2025-06-22 |  |
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
+| [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 | 2026-03-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-06 |  |
@@ -141,6 +143,7 @@
 | [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
+| [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 | 2026-03-25 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
 | [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 | 2026-03-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |

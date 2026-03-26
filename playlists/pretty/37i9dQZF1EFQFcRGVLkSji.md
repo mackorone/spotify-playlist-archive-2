@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 83 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 |
 | 84 | [Bob and Weave](https://open.spotify.com/track/3asben67kRSobuDjUPaWZB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:44 |
 | 85 | [i'm fine](https://open.spotify.com/track/2Ff84Bm75EdzfM0KOT3pn7) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:40 |
-| 86 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
-| 87 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 86 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 87 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
 | 88 | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC) | 3:37 |
 | 89 | [Bad Cameo](https://open.spotify.com/track/1n7DZlKSbu6rQ0WHS7IZb7) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 3:51 |
 | 90 | [ON THE MOON](https://open.spotify.com/track/12A3iqsBa70rozVTjXx4r6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 1:52 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 166 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 167 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcNBVAAAAABcgEpWgj/ei91xusPruBur`
+Snapshot ID: `AcNG9AAAAAB2i+yVGnl4PZ+R2QNnpGYe`

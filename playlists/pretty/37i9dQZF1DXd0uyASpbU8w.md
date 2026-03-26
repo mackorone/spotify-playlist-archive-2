@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from K.O, Lizzo, Nobuhle, RAYE,  Asake and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,829 likes - 84 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,862 likes - 84 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 33 | [Ndi A Ni Funa](https://open.spotify.com/track/2SsNEiaTIx5pYANxFIvn87) | [Eleh](https://open.spotify.com/artist/3kPtdzzTFXY0AZIR1Iyrtl), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Ndi A Ni Funa](https://open.spotify.com/album/2fAkM4cyTKO8zR6FSuKwFz) | 4:32 |
 | 34 | [Inlove](https://open.spotify.com/track/3f5Uqp13pMPR5V5auA8mDb) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi) | [Inqaba](https://open.spotify.com/album/0lN2fNfvn5o8e4vaKbdcJw) | 2:54 |
 | 35 | [Houseboy](https://open.spotify.com/track/6SI6m9H51acvV0poAOvGHS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Houseboy](https://open.spotify.com/album/04lXyW1kr6xRKw89cnqNJO) | 2:18 |
-| 36 | [Impicabadala](https://open.spotify.com/track/6gU37N055QOf0KYGdn7Ryj) | [Msheke Lezinto](https://open.spotify.com/artist/6kJejiet7ijpTmHAWdbDsu), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Carnival King](https://open.spotify.com/artist/6bSHop1y1MB4YNT5a4SADH), [Nandi Ndathane](https://open.spotify.com/artist/3u0q1HjAhQHtDaP4PzlZrz), [Sinny Man'Que](https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m) | [Impicabadala](https://open.spotify.com/album/54VMK6DbhfDjhhuGLEIXG0) | 6:22 |
+| 36 | [Impicabadala](https://open.spotify.com/track/6gU37N055QOf0KYGdn7Ryj) | [Msheke Lezinto](https://open.spotify.com/artist/19cP7Ba9rgtSLpURJaIgxN), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Carnival King](https://open.spotify.com/artist/6bSHop1y1MB4YNT5a4SADH), [Nandi Ndathane](https://open.spotify.com/artist/3u0q1HjAhQHtDaP4PzlZrz), [Sinny Man'Que](https://open.spotify.com/artist/3pkvmcbars2K4OSqmRTC7m) | [Impicabadala](https://open.spotify.com/album/54VMK6DbhfDjhhuGLEIXG0) | 6:22 |
 | 37 | [REAL ONES NEVER DIE](https://open.spotify.com/track/1o15Kj7F3nlLaZNIbjFb4r) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HAVE U BN 2 HEAVEN @ NITE?](https://open.spotify.com/album/3BuIzFRRm9jeLmZlMEbwnj) | 3:01 |
 | 38 | [Mzali](https://open.spotify.com/track/5BypWTU9bN7dN6KWKU87sT) | [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [The Bless](https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5), [Mkeyz](https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ) | [Letters I Didn't Send](https://open.spotify.com/album/6vJ5GJo9VTgZk3fhsZq38Y) | 8:11 |
 | 39 | [Highest](https://open.spotify.com/track/10VuwBAxEi3goN8n3AvrGS) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Detour](https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP) | 2:56 |

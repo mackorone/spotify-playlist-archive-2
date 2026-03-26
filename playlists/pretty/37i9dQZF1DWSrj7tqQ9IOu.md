@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois dernier sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,512 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,503 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 33 | [Lettre à l'Univers \- Live](https://open.spotify.com/track/7a7u8n5xdh5YYhlJq7XpmN) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Lettre à l'Univers \(Live\)](https://open.spotify.com/album/5WJ81Ls7XQbhvC0RoZV1AJ) | 5:50 |
 | 34 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
 | 35 | [rayito de luz](https://open.spotify.com/track/6NN2qLaBD73xIzbuI8LZEK) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [el santo que del cielo quiere bajar](https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H) | 2:14 |
-| 36 | [Nana](https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5), [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Nana](https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC) | 3:13 |
-| 37 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
+| 36 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
+| 37 | [Nana](https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5), [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Nana](https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC) | 3:13 |
 | 38 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 |
 | 39 | [20S](https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [20S](https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9) | 3:04 |
 | 40 | [One Night](https://open.spotify.com/track/1H3yExvvt38qBYULirIfP6) | [command+M](https://open.spotify.com/artist/2iVoor2wzTLqv8pUEjuz7a) | [In the Dark we're Thick as Thieves](https://open.spotify.com/album/6C5fI6lz2H9UmsF2FXpQPh) | 6:55 |

@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1314236,
+  "num_followers": 1314379,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -485,6 +485,26 @@
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
     },
     {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "GHOSTKILLA",
+        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 139469,
+      "name": "GHOSTKILLA",
+      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+    },
+    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "Memphis Cult Vol. 6",
@@ -507,26 +527,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "GHOSTKILLA",
-        "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 139469,
-      "name": "GHOSTKILLA",
-      "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
-        }
-      ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "NO HANDS",
         "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 180580,
       "name": "PACKAPUNCH (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "V-12",
+        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dew'",
+          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
+        }
+      ],
+      "duration_ms": 140460,
+      "name": "V-12",
+      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "STOKELEY",
-        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "STOKELEY",
+        "url": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2025-02-21 22:48:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "KILL!",
         "url": "https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 94235,
       "name": "EXORCIST",
       "url": "https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
-      },
-      "artists": [
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "BLACKED OUT",
         "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 133392,
       "name": "BLACKED OUT",
       "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2024-09-18 21:12:46",

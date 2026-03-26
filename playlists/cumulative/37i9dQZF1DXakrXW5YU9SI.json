@@ -5929,6 +5929,28 @@
     },
     {
       "album": {
+        "name": "Jak to jest",
+        "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        },
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212419,
+      "name": "Jak to jest",
+      "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
+    },
+    {
+      "album": {
         "name": "Jak w filmie",
         "url": "https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6"
       },
@@ -10194,7 +10216,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 169063,
       "name": "Panienka",
       "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"

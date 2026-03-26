@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta",
-  "num_followers": 53855,
+  "num_followers": 53857,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,22 @@
     {
       "added_at": "2026-03-20 13:25:56",
       "album": {
-        "name": "FIM DO NADA DELUXE",
-        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         },
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
-      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2026-03-20 13:25:56",
@@ -911,22 +907,26 @@
     {
       "added_at": "2026-03-20 13:25:56",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "FIM DO NADA DELUXE",
+        "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 240000,
+      "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
+      "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
     },
     {
       "added_at": "2026-03-20 13:25:56",
@@ -971,30 +971,6 @@
     {
       "added_at": "2026-03-20 13:25:56",
       "album": {
-        "name": "FIM DO NADA",
-        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 196276,
-      "name": "T\u00f3xico (feat. Ivandro & WIU)",
-      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2026-03-20 13:25:56",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 156672,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "added_at": "2026-03-20 13:25:56",
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196276,
+      "name": "T\u00f3xico (feat. Ivandro & WIU)",
+      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
       "added_at": "2026-03-20 13:25:56",
@@ -1375,18 +1375,46 @@
     {
       "added_at": "2026-03-20 13:25:56",
       "album": {
-        "name": "festa bem louca",
-        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
+        "name": "Kataleya",
+        "url": "https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis"
       },
       "artists": [
         {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+          "name": "Traficante D'Arte",
+          "url": "https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF"
+        },
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Elji Beatzkilla",
+          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
+        },
+        {
+          "name": "Pempas",
+          "url": "https://open.spotify.com/artist/6l7kK18m55OXGv2bDbkf7X"
+        },
+        {
+          "name": "Lil Star",
+          "url": "https://open.spotify.com/artist/2SgPIGR7IhSl4nK76cKBAj"
+        },
+        {
+          "name": "Sass\u00e1",
+          "url": "https://open.spotify.com/artist/0338A7A7HSYIKVjAB69LiI"
+        },
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        },
+        {
+          "name": "Gang Mka",
+          "url": "https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3"
         }
       ],
-      "duration_ms": 188333,
-      "name": "festa bem louca",
-      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
+      "duration_ms": 476337,
+      "name": "Kataleya",
+      "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
     }
   ],
   "unique_name": "Seda",

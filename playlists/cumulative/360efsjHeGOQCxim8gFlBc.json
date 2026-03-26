@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "11:23am",
+        "url": "https://open.spotify.com/album/0W3vwTvDQbQRAeuVBvBsJw"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "11:23am",
+      "url": "https://open.spotify.com/track/53jIoHomsSQJqVXTiEs5iY"
+    },
+    {
+      "album": {
         "name": "11:33am",
         "url": "https://open.spotify.com/album/56ES1QuoXxtYf8IYgMEL0h"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 139906,
       "name": "11:33am",
       "url": "https://open.spotify.com/track/5GVXB4BXb7ED0jfgSvSwsO"
@@ -1815,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Bright New Morning",
+        "url": "https://open.spotify.com/album/4pU5Fh4tnYu2kjh3b6gNVf"
+      },
+      "artists": [
+        {
+          "name": "Valentino Mancini",
+          "url": "https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142957,
+      "name": "Bright New Morning",
+      "url": "https://open.spotify.com/track/7d72IApcPPgrspzu4yPklv"
+    },
+    {
+      "album": {
         "name": "Broken Waltz",
         "url": "https://open.spotify.com/album/3ie4veJvgpbsyMhUyh5DUu"
       },
@@ -2022,6 +2058,42 @@
       "duration_ms": 176714,
       "name": "Camille's Waltz",
       "url": "https://open.spotify.com/track/4Eftb5OHGISJnTQLfhRCzF"
+    },
+    {
+      "album": {
+        "name": "Can you remember",
+        "url": "https://open.spotify.com/album/5mx6yVBHjMmsWWO3V4pvq4"
+      },
+      "artists": [
+        {
+          "name": "Mariuga",
+          "url": "https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153125,
+      "name": "Can you remember",
+      "url": "https://open.spotify.com/track/7xmb2Iwm9Ti7lvtob4jqlp"
+    },
+    {
+      "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/02coDNTWUVa5BiJbeTNR1k"
+      },
+      "artists": [
+        {
+          "name": "Housman",
+          "url": "https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/1lQDZMVWEDfvbBAteQufjy"
     },
     {
       "album": {
@@ -2592,6 +2664,28 @@
       "duration_ms": 96272,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/6amVq5NcyOSaemNYuTlt86"
+    },
+    {
+      "album": {
+        "name": "Contemplating",
+        "url": "https://open.spotify.com/album/5fOODIgritiBqgzqDhUBSO"
+      },
+      "artists": [
+        {
+          "name": "calmspirit",
+          "url": "https://open.spotify.com/artist/66LxwZjmstTWp5TGqw5OnW"
+        },
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138202,
+      "name": "Contemplating",
+      "url": "https://open.spotify.com/track/5F9gwT2XPQi06sjA87WNmg"
     },
     {
       "album": {
@@ -10101,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4SMVjRQVdYYrO0rsayiUll"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Fontana",
+          "url": "https://open.spotify.com/artist/1OZ67r3FKyVCTwhyPSBzjf"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/72iDZXUfJSd0uGYFG88AGb"
+    },
+    {
+      "album": {
         "name": "nostalgic moments",
         "url": "https://open.spotify.com/album/5MV5gpnKxvZJH6fyUywrdF"
       },
@@ -10532,6 +10644,24 @@
       "duration_ms": 271254,
       "name": "opening",
       "url": "https://open.spotify.com/track/2wBVgeoxXnUBeL5JyipWE0"
+    },
+    {
+      "album": {
+        "name": "Orchard Path",
+        "url": "https://open.spotify.com/album/7523aKJ2xHG9eM8PwIkT1O"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135416,
+      "name": "Orchard Path",
+      "url": "https://open.spotify.com/track/6lmtLaA1o4tEmq4Atdhvdh"
     },
     {
       "album": {
@@ -13451,6 +13581,24 @@
     },
     {
       "album": {
+        "name": "Sparkle (Ambient Piano Cover)",
+        "url": "https://open.spotify.com/album/4YlXkPpv9jMWXYlFReCHRI"
+      },
+      "artists": [
+        {
+          "name": "\u00f8mbr\u0101",
+          "url": "https://open.spotify.com/artist/0C5kV5ZfLLzSgcvEyJCoRN"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98181,
+      "name": "Sparkle (Ambient Piano Cover)",
+      "url": "https://open.spotify.com/track/5kUpK9zpbnKu4wAX10NyvD"
+    },
+    {
+      "album": {
         "name": "Wonderment",
         "url": "https://open.spotify.com/album/6mXkFT4UzV1PfYzcTFMr75"
       },
@@ -13496,6 +13644,24 @@
       "duration_ms": 101725,
       "name": "Spring Honey",
       "url": "https://open.spotify.com/track/5HxYZZni3uzWlb0K80lC61"
+    },
+    {
+      "album": {
+        "name": "springtime",
+        "url": "https://open.spotify.com/album/3q2JKEs0zoAfGNjZ0jdI8N"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98360,
+      "name": "springtime",
+      "url": "https://open.spotify.com/track/5LzVvTo9QABpW7jw4U6uLE"
     },
     {
       "album": {
@@ -16252,6 +16418,24 @@
       "duration_ms": 118227,
       "name": "Where The Path Ended",
       "url": "https://open.spotify.com/track/7cafgrlVL3ECw0rIeTqFSd"
+    },
+    {
+      "album": {
+        "name": "Where Time Stand Still",
+        "url": "https://open.spotify.com/album/4gVJBTfccMSt8NaWmMxSbI"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Fontana",
+          "url": "https://open.spotify.com/artist/1OZ67r3FKyVCTwhyPSBzjf"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127280,
+      "name": "Where The Time Stand Still",
+      "url": "https://open.spotify.com/track/0ZVwrWjoGWWKKnrwaqRkgZ"
     },
     {
       "album": {

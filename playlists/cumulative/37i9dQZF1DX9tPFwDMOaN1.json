@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 168000,
       "name": "body",
       "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
@@ -15270,6 +15270,24 @@
       "duration_ms": 186720,
       "name": "\uae68\uc5b4 (Are You Alive)",
       "url": "https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W"
+    },
+    {
+      "album": {
+        "name": "\ubcc4, \ube5b (STAY)",
+        "url": "https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\ubcc4, \ube5b (STAY)",
+      "url": "https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M"
     },
     {
       "album": {

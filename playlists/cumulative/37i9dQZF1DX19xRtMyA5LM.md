@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: OYSTER \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
 
-368 songs - 16 hr 36 min
+369 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Millies](https://open.spotify.com/track/57XCvqLKEGcHELKgE0dKYl) | [Yenko Forever](https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millies](https://open.spotify.com/album/3BJQFhp1RtASot1fR0ry3P) | 2:24 | 2026-02-19 | 2026-03-06 |
 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 | 2025-11-20 | 2026-03-06 |
 | [MMMD](https://open.spotify.com/track/3ohwio0OTxbt9TRYoo1tiK) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [MMMD](https://open.spotify.com/album/1RH3Ha8FkNzsW9hmIw2r4h) | 2:47 | 2025-07-17 | 2025-08-05 |
-| [Mobil 1](https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Mobil 1](https://open.spotify.com/album/6wl6Jg6VNNWzhEZZ2SQoXB) | 2:48 | 2026-02-19 |  |
+| [Mobil 1](https://open.spotify.com/track/480RzRw1ZHGk3bdNvV8ou6) | [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg) | [Mobil 1](https://open.spotify.com/album/6wl6Jg6VNNWzhEZZ2SQoXB) | 2:48 | 2026-02-19 | 2026-03-26 |
 | [MOCRO MAFFIA](https://open.spotify.com/track/6H9OaYy3fL3etUx7iAaQ39) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [MOCRO MAFFIA](https://open.spotify.com/album/4xa6379PMZPxuQoLzKu2eI) | 2:05 | 2026-02-13 | 2026-02-27 |
 | [Moe Dingen](https://open.spotify.com/track/6br501IZhIusNIiw5VoYeA) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Moe Dingen](https://open.spotify.com/album/0TbOGUiwCEDWyfBvzkzq9p) | 3:06 | 2025-09-25 | 2025-11-14 |
 | [Mokum Praat](https://open.spotify.com/track/2Ergke9dgYeq3np5I28EfI) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Mokum Praat](https://open.spotify.com/album/0yvHdPgOQ6m36wC1jlumfV) | 2:47 | 2025-10-02 | 2026-01-16 |
@@ -238,6 +238,7 @@
 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 | 2026-03-19 |  |
 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 | 2026-01-08 |  |
 | [No Handouts](https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [No Handouts](https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK) | 3:36 | 2026-02-19 |  |
+| [No Lie](https://open.spotify.com/track/29QDdg7SxDDVRiPPveVG6I) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [No Lie](https://open.spotify.com/album/6nN5G3eQhTs5t9QdApVHmm) | 3:46 | 2026-03-25 |  |
 | [NO WARNING](https://open.spotify.com/track/3GIHaBBQj5TjxGdsyxYUHo) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [GIOVANNI I](https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 | 2025-08-14 | 2025-09-05 |
 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 | 2025-07-17 | 2025-09-26 |

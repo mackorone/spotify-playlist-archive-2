@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-387 songs - 1 day 0 hr 14 min
+390 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Selling Marilyn](https://open.spotify.com/track/2YK61LSjiXDFmggC3TwVWG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Selling Marilyn](https://open.spotify.com/album/4q8tEkFrhMyaET5LA0vKuy) | 3:23 | 2025-10-04 | 2025-12-17 |
 | [Selva Oscura](https://open.spotify.com/track/76vzLTBnrWijI7kB0tqcdK) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [Selva Oscura](https://open.spotify.com/album/0tx5Mr8vi0N8XN5hK7LQjr) | 4:35 | 2025-10-14 | 2025-11-28 |
 | [Set Me Free](https://open.spotify.com/track/26lciObPBO9nBveB0LB38Z) | [Violet](https://open.spotify.com/artist/0JrT9TUELhXT5mqUnOC80l) | [Set Me Free](https://open.spotify.com/album/3dcEkwxdvmpIDg4bOh6Ph5) | 4:10 | 2026-01-13 | 2026-03-18 |
+| [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 | 2026-03-25 |  |
 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 | 2025-12-02 | 2025-12-17 |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 | 2025-12-17 |
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-03-16 |  |
@@ -379,11 +380,13 @@
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |
 | [When i see you again](https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce) | [drew mado](https://open.spotify.com/artist/2wSPHPho5VMaJehm6VIywZ) | [Journey without destination](https://open.spotify.com/album/6sTSgNYjdWf7tSe2LMPlrk) | 3:29 | 2026-03-01 |  |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |
+| [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 | 2026-03-25 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 |  |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 | 2026-03-18 |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 |  |
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 | 2025-11-28 |
 | [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 | 2025-12-16 |  |
+| [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 | 2026-03-25 |  |
 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 | 2025-12-17 |
 | [You Don't Believe Me](https://open.spotify.com/track/2b0rWXHdn6ooRui4dlFiBJ) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [Jukebox \(Deluxe Cut\)](https://open.spotify.com/album/0nSvLUSCx70FpkKq8ps9AW) | 3:01 | 2026-01-10 | 2026-03-18 |
 | [You I Love the Most](https://open.spotify.com/track/549UkDfx95rT3K290ftqjc) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [You I Love the Most](https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq) | 5:51 | 2025-11-22 |  |

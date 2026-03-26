@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 433646,
+  "num_followers": 433711,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAABlI8e//0XLaWa9qxPn0jRY",
+  "snapshot_id": "acHUAAAAAAAhxVvpHzdvvMF2xxPQ733R",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Everyday - Remastered 2013",
-      "url": "https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 225173,
       "name": "Falling",
       "url": "https://open.spotify.com/track/7K8GcdnDHcGKa5pYmhg5k6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Everyday - Remastered 2013",
+      "url": "https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Drifting Along - Remastered 2013",
-      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 256640,
       "name": "Stillness in Time",
       "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Drifting Along - Remastered 2013",
+      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 360013,
-      "name": "High Times - Remastered 2013",
-      "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 287960,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 360013,
+      "name": "High Times - Remastered 2013",
+      "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
     },
     {
       "added_at": null,

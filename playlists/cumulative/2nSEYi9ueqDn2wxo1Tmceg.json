@@ -23483,6 +23483,28 @@
     },
     {
       "album": {
+        "name": "Rockcurry",
+        "url": "https://open.spotify.com/album/3S7q9XpuNwuj9Xp3eMSduV"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209056,
+      "name": "Rockcurry",
+      "url": "https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW"
       },

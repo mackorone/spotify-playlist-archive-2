@@ -4639,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Hey Doctor (Au Al Metge)",
+        "url": "https://open.spotify.com/album/68ybwxlIHVnRsCcB7EhWg7"
+      },
+      "artists": [
+        {
+          "name": "Javier Castillo",
+          "url": "https://open.spotify.com/artist/5cLWmZxDeP7ZNAas6AWcr7"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "Hey Doctor (Au Al Metge)",
+      "url": "https://open.spotify.com/track/3zRufxMw9sdcq3Bpevm9Eh"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT"
       },

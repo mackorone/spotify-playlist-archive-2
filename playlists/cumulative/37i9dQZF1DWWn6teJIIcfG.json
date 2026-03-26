@@ -4107,7 +4107,7 @@
     },
     {
       "album": {
-        "name": "Minuet in A Major, D. 334",
+        "name": "Minuet in A major, D. 334",
         "url": "https://open.spotify.com/album/5qdmjQCcicNOkYI3H92MDM"
       },
       "artists": [
@@ -4122,9 +4122,9 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193320,
-      "name": "Minuet in A Major, D. 334",
+      "name": "Minuet in A major, D. 334",
       "url": "https://open.spotify.com/track/6qoKrxleX3tTaDv4kk8jzH"
     },
     {
@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 361493,
       "name": "Piano Concerto No. 6 in B-Flat Major, K. 238: II. Andante un poco adagio",
       "url": "https://open.spotify.com/track/0Bg70fyCFqNJpERbu9UaxJ"

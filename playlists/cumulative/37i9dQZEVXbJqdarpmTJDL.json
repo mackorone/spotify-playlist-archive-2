@@ -15554,7 +15554,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "EMMONI IDEA",
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
@@ -23610,7 +23610,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -34670,7 +34670,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -34822,7 +34822,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 216272,
       "name": "Mpelas",
       "url": "https://open.spotify.com/track/542hRQCGGdPvkXkkLdoVoF"
@@ -39432,7 +39432,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -44746,7 +44746,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 127384,
       "name": "SALAM",
       "url": "https://open.spotify.com/track/1jtHBagR3BPzjzjxK2O8YK"
@@ -44996,7 +44996,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 150879,
       "name": "SANKARA",
       "url": "https://open.spotify.com/track/0YJSqoXGkJrnUgV9t8ln4e"
@@ -54774,7 +54774,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
@@ -56136,7 +56136,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 155489,
       "name": "XHAMAT E ZINJ",
       "url": "https://open.spotify.com/track/2jpfi9jYj0dhqlF7cDBy8p"
@@ -56488,6 +56488,28 @@
       "duration_ms": 130909,
       "name": "XWRIS",
       "url": "https://open.spotify.com/track/0l3lG8DrnazizwBxGeJ9Qy"
+    },
+    {
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/1dOVqT0FstkaL9bTsyKeZV"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/6nlLQysyyJ6vyTxZeEJh1A"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/4FpBBFpqO2fsThvlrwYWWr"
     },
     {
       "album": {

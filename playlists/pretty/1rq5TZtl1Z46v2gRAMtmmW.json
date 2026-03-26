@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31789,
+  "num_followers": 31792,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARNN2jZIM7vh5r1RzaZpJvbb+yfP1o",
+  "snapshot_id": "AAAROO3w8xO5EBkk85xMQtgXVjImjE93",
   "tracks": [
     {
       "added_at": "2026-02-17 22:35:07",
@@ -335,6 +335,22 @@
       "duration_ms": 143791,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL"
+    },
+    {
+      "added_at": "2026-03-25 15:36:48",
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/1j0iAMZTg6zVBHZMSrZiSu"
+      },
+      "artists": [
+        {
+          "name": "ZAINAB",
+          "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/0XeYsLUul7uPLzm38phQVP"
     },
     {
       "added_at": "2026-01-29 10:39:55",

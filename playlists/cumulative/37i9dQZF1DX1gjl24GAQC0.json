@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 158000,
       "name": "Endless Sun",
       "url": "https://open.spotify.com/track/45CAsiLFBU9iKsQtyd2kmq"
@@ -7850,6 +7850,24 @@
       "duration_ms": 173489,
       "name": "Love 119",
       "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
+    },
+    {
+      "album": {
+        "name": "About Love",
+        "url": "https://open.spotify.com/album/7MRt4WWGiTXTquxQPOXpY9"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Love Comes Slowly",
+      "url": "https://open.spotify.com/track/2DHwbEzphzJGOiZ9dMAzEk"
     },
     {
       "album": {
@@ -13884,7 +13902,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
@@ -15202,6 +15220,24 @@
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "album": {
+        "name": "\ubcc4, \ube5b (STAY)",
+        "url": "https://open.spotify.com/album/3ChdptcphAZ5VJHQG0DO7S"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\ubcc4, \ube5b (STAY)",
+      "url": "https://open.spotify.com/track/1Z1NJ4Z1tl4xAaQ8FRGO0M"
     },
     {
       "album": {

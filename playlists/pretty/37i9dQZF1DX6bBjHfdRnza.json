@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Jackyboom. Curated by human Spotify editors. \n",
-  "num_followers": 211218,
+  "num_followers": 211240,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhh2bjyIRnpHzD1OBSjHSVW+pF7",
+  "snapshot_id": "AAAAACKvSH2VrNzUk4M8V+8n76JfrwkO",
   "tracks": [
     {
       "added_at": "2026-03-13 04:00:43",
@@ -23,6 +23,54 @@
       "duration_ms": 170091,
       "name": "Space Funk",
       "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t"
+      },
+      "artists": [
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "duration_ms": 250320,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Hot 'N Heavy",
+        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
+      },
+      "artists": [
+        {
+          "name": "Lenny Delicious",
+          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hot 'N Heavy",
+      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -75,22 +123,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "HOLD BACK",
         "url": "https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s"
       },
@@ -103,6 +135,26 @@
       "duration_ms": 133000,
       "name": "HOLD BACK",
       "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
+      },
+      "artists": [
+        {
+          "name": "NO BILLS",
+          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
+        },
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -897,38 +949,6 @@
       "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     },
     {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
-      },
-      "artists": [
-        {
-          "name": "Bryson Hill",
-          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
-        }
-      ],
-      "duration_ms": 164296,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/7yjdADEVUYAm02AJrfnS3u"
-      },
-      "artists": [
-        {
-          "name": "Toola",
-          "url": "https://open.spotify.com/artist/0eEmBSFK88NKhgsRTtD19k"
-        }
-      ],
-      "duration_ms": 249577,
-      "name": "Player",
-      "url": "https://open.spotify.com/track/0OBS5q06C6kyUn4FrlhtbG"
-    },
-    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "Touched EP",
@@ -1219,22 +1239,6 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/417RYGMC4ZOFiPqjlsc7v6"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "Possibilities",
-      "url": "https://open.spotify.com/track/3INBlTUmrormg1YJ7f4jZH"
     },
     {
       "added_at": "2026-01-30 05:01:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,643 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,788 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 115 | [Tennessee](https://open.spotify.com/track/2O0UWIMFeMtFR0LJMuIPjJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pearl Harbor \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz) | 3:39 |
 | 116 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |
 | 117 | [Introduction \(Titles\)](https://open.spotify.com/track/4T0M3ao3PfYRkIolo5wpLK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq) | 2:36 |
-| 118 | [Love Theme \- From "Romeo and Juliet"](https://open.spotify.com/track/1CDczwnTf6RJ076lukYNpP) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT), [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Royal Philharmonic Orchestra;Tolga Kashif](https://open.spotify.com/artist/1gf0HHWM6iOcJNgTlNXEz7) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 3:06 |
+| 118 | [Love Theme \- From "Romeo and Juliet"](https://open.spotify.com/track/1CDczwnTf6RJ076lukYNpP) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT), [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [The Royal Philharmonic Orchestra/Tolga Kashif](https://open.spotify.com/artist/6HaPWLS9EdexGj2BjTSXfs) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 3:06 |
 | 119 | [Captain Marvel](https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 2:15 |
 | 120 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 |
 | 121 | [The Promise](https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Piano: Music From The Motion Picture](https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A) | 4:16 |

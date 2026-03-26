@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,481 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,538 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 65 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 |
 | 66 | [Cual Fue? \- Remix](https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Cual Fue? \(Remix\)](https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6) | 3:24 |
 | 67 | [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 |
-| 68 | [Caprichosa](https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Su Majestad](https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5) | 3:43 |
-| 69 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 |
-| 70 | [Como te voy a olvidar](https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Volando Alto](https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k) | 4:10 |
+| 68 | [Como te voy a olvidar](https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Volando Alto](https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k) | 4:10 |
+| 69 | [Caprichosa](https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Su Majestad](https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5) | 3:43 |
+| 70 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 |
 | 71 | [Vuelve a Mi Lado](https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 1:44 |
 | 72 | [Si Te Vas](https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Voy a Parar](https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN) | 4:29 |
 | 73 | [Amor Prohibido](https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:26 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 94 | [Poco a Poco](https://open.spotify.com/track/7DOUhxMyjnZzwrZJafjxZ5) | [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1) | [Quien Te Hace Bailar](https://open.spotify.com/album/2r4rjtAQQz4VCodWCY1GdR) | 2:49 |
 | 95 | [El Pibe Villero](https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 4:38 |
 | 96 | [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 |
-| 97 | [Tiempos Dorados](https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Tiempos Dorados](https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B) | 2:37 |
-| 98 | [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 |
-| 99 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 |
+| 97 | [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 |
+| 98 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 |
+| 99 | [Tiempos Dorados](https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Tiempos Dorados](https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B) | 2:37 |
 | 100 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 |
 
 Snapshot ID: `AAAAAMani4Xqz9S2lAAD9qieqibczg5l`

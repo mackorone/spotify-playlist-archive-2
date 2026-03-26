@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Celebrating 5 Years of EQUAL Benelux with the Top 10 most streamed Benelux women\. Cover: Sevdaliza
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,033 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,040 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 82 | [Dancing on the ice](https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861) | [Essyla](https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81) | [Dancing on the ice](https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD) | 3:00 |
 | 83 | [Golden Sun](https://open.spotify.com/track/4jGh4qWS3fNstPVGNXGaxR) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Golden Sun](https://open.spotify.com/album/5be6RMj2mzfppeyNWwhOrq) | 3:29 |
 | 84 | [Crazy](https://open.spotify.com/track/2BK8eF0egnAhLq8lvG91qq) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Crazy](https://open.spotify.com/album/43y4f0ITYpeBsGDBjXbKGL) | 2:48 |
-| 85 | [SOAP](https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [SOAP](https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9) | 2:36 |
+| 85 | [SOAP](https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [SOAP](https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9) | 2:36 |
 | 86 | [Where It Hurts](https://open.spotify.com/track/2Sqj1K35PogUxvsVALBMRo) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Where It Hurts](https://open.spotify.com/album/49DPnEkK6r9FqqkOPp1Eib) | 2:44 |
 | 87 | [Miss You](https://open.spotify.com/track/2I3dBfT6TKeAz94hK4RmJr) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Miss You](https://open.spotify.com/album/3EXkmEMlnEh2BfExp4jZOH) | 2:51 |
 | 88 | [Body Language](https://open.spotify.com/track/2Grp2IRpIyRtCxECP6jkxh) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Body Language](https://open.spotify.com/album/6vH4VuIH29cx6laIIbAxtL) | 3:06 |

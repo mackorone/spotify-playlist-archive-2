@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Nieuw: <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a>",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Nieuw: <a href=\"spotify:artist:4oMzH6lIWPhCdx7KADXLJZ\">Senna</a>",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Alles Wat Ik Nodig Heb",
+        "url": "https://open.spotify.com/album/0y7U633k7fboef4iOSNVWy"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142182,
+      "name": "Alles Wat Ik Nodig Heb",
+      "url": "https://open.spotify.com/track/4hmpOuIVv8kxVQfpKvDBqN"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1Gng9GvjxKFh1QrrHDcfvr"
       },
@@ -220,6 +238,24 @@
       "duration_ms": 179333,
       "name": "Als Thuis",
       "url": "https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV"
+    },
+    {
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "album": {
@@ -418,6 +454,24 @@
       "duration_ms": 184760,
       "name": "Beter Zo",
       "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
+    },
+    {
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "album": {
@@ -968,6 +1022,24 @@
       "duration_ms": 203702,
       "name": "daughter",
       "url": "https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ"
+    },
+    {
+      "album": {
+        "name": "Only Making It Worse",
+        "url": "https://open.spotify.com/album/6W7mdEoe0lAIDFIhAYf8cx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217616,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0xROoITSyC7Ppcx7OC6xst"
     },
     {
       "album": {
@@ -2049,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Ik Kan Je Niet Vergeten",
+        "url": "https://open.spotify.com/album/67xNnUBvFgWuiZnu584INW"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167595,
+      "name": "Ik Kan Je Niet Vergeten",
+      "url": "https://open.spotify.com/track/4JfLBSxENT3T8WPNpTr9jq"
+    },
+    {
+      "album": {
         "name": "Ik Zing (feat. Snelle)",
         "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
       },
@@ -2224,6 +2314,24 @@
       "duration_ms": 202853,
       "name": "Kleine Tornado",
       "url": "https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd"
+    },
+    {
+      "album": {
+        "name": "Kleine Vogel",
+        "url": "https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184007,
+      "name": "Kleine Vogel",
+      "url": "https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG"
     },
     {
       "album": {

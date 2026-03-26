@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 677 likes - 70 songs - 3 hr 55 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 680 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 68 | [Testify](https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 5:34 |
 | 69 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 |
 | 70 | [Home Again](https://open.spotify.com/track/3u0x3rWQgP0oYQckoD0xuU) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Home Again](https://open.spotify.com/album/7k32wXlWA9oS7YtAWn6XzR) | 3:16 |
+| 71 | [Vacío](https://open.spotify.com/track/25iohMwQe32vaFBdLdIPmx) | [Ay!Pod](https://open.spotify.com/artist/7iooJ1Ud7b6jKPnoaDu0mz) | [Vacío](https://open.spotify.com/album/6DmBFlKWiUukKLkYobKww9) | 3:29 |
 
-Snapshot ID: `AAADUItLw8QSe+6PaIiQ5ayZw4nL5CAH`
+Snapshot ID: `AAADURuKwTlvBsLxSMT8iozJ75pZkIUP`

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tito Torbellino Jr en portada.",
-  "num_followers": 528599,
+  "num_followers": 528633,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+        "name": "EN HOT",
+        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+      "duration_ms": 140945,
+      "name": "EN HOT",
+      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Te Cura El Tiempo",
         "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 177600,
       "name": "Te Cura El Tiempo",
       "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "EN HOT",
-        "url": "https://open.spotify.com/album/28h4cylRu35ifCbpcTWYsV"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 140945,
-      "name": "EN HOT",
-      "url": "https://open.spotify.com/track/7MfrxxkPMYfVnvFpNYIkqh"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "No Soy Vegano",
-        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 188657,
-      "name": "No Soy Vegano",
-      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/4sfr7ausWUynywGdlT1C6p"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 156875,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/0rOtJU5F5103vqBYeixFNQ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "No Soy Vegano",
+        "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 188657,
+      "name": "No Soy Vegano",
+      "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Toca Disfrutar",
-        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
-      },
-      "artists": [
-        {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        },
-        {
-          "name": "Nivel 5",
-          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
-        }
-      ],
-      "duration_ms": 193220,
-      "name": "Toca Disfrutar",
-      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Toca Disfrutar",
+        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
+      },
+      "artists": [
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        },
+        {
+          "name": "Nivel 5",
+          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
+        }
+      ],
+      "duration_ms": 193220,
+      "name": "Toca Disfrutar",
+      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Tal Vez Quiere",
-        "url": "https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW"
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 179718,
-      "name": "Tal Vez Quiere",
-      "url": "https://open.spotify.com/track/7qnGZ5kRxpgAU263eR7cxG"
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+        "name": "Tal Vez Quiere",
+        "url": "https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW"
       },
       "artists": [
         {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
+      "duration_ms": 179718,
+      "name": "Tal Vez Quiere",
+      "url": "https://open.spotify.com/track/7qnGZ5kRxpgAU263eR7cxG"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "MENEAITO",
-        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "MENEAITO",
-      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Que Tonto He Sido",
         "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 241333,
       "name": "Que Tonto He Sido",
       "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "MENEAITO",
+        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "MENEAITO",
+      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Pase y Pase (En Vivo)",
         "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Mi Potra",
         "url": "https://open.spotify.com/album/6CtAa222LPUIPcR06yPK3Z"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "El Consejo",
-        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "HOMBRE DE LEY",
-        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "HOMBRE DE LEY",
-      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Las Caguamas",
         "url": "https://open.spotify.com/album/1oquvVQ9VR6b5CrQZyOxsD"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 220184,
       "name": "Las Caguamas",
       "url": "https://open.spotify.com/track/1wp7Br6IhQNgmnwTSn3orZ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "HOMBRE DE LEY",
+        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "HOMBRE DE LEY",
+      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
-      },
-      "artists": [
-        {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Desde Los Angeles (En Vivo)",
         "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 222000,
       "name": "La vida recia - En Vivo",
       "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
+      },
+      "artists": [
+        {
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
     },
     {
       "added_at": "2026-03-13 06:00:11",

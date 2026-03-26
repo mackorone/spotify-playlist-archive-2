@@ -3200,10 +3200,28 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 143279,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/6gOvLsPRoL5ichiApvwDoU"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
     },
     {
       "album": {
@@ -4240,7 +4258,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 133564,
       "name": "Beretta (De Los Cerros La Escuela)",
       "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
@@ -6854,7 +6872,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 94081,
       "name": "Chapul\u00edn",
       "url": "https://open.spotify.com/track/4NkYpLDo4RcBGefiwDeQzW"
@@ -15128,7 +15146,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 168055,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/4K7CIlmQa6SNQ7Nvv9T3bW"
@@ -20480,7 +20498,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 366200,
       "name": "La Memoria",
       "url": "https://open.spotify.com/track/4jdvNdmgHxlNGmX3BACU76"
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 208093,
       "name": "Los Dinosaurios",
       "url": "https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik"
@@ -27236,6 +27254,24 @@
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
+    },
+    {
+      "album": {
+        "name": "My Humps (Aftermix)",
+        "url": "https://open.spotify.com/album/04BfF7B4W0RKO6v8qC6ZU3"
+      },
+      "artists": [
+        {
+          "name": "Lautarogalarza Dj",
+          "url": "https://open.spotify.com/artist/78QGt4tQdJbMihwPvNj7BM"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184755,
+      "name": "My Humps - Aftermix",
+      "url": "https://open.spotify.com/track/5IK91eYC0qpxUdVxp3qgHF"
     },
     {
       "album": {
@@ -35122,7 +35158,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 229622,
       "name": "Rotonda",
       "url": "https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw"
@@ -39822,7 +39858,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 221653,
       "name": "Taste Back",
       "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"

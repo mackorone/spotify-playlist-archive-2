@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 34 | [Zumbi Vive](https://open.spotify.com/track/4r3vMX4rhbjN5dlhol3Fd8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:29 |
 | 35 | [A Hora da Virada](https://open.spotify.com/track/2BYmxtCPQ4v8obbgI5HZpr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:26 |
 | 36 | [Só Jah](https://open.spotify.com/track/7cj8JLDpUkZwc6wjedhysO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:20 |
-| 37 | [O Vivo Irá Perceber](https://open.spotify.com/track/7y1bBV667BFimLVTl0w2sh) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:01 |
-| 38 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1ud28IhuOZ3hDFnZflIcoN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:37 |
+| 37 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1ud28IhuOZ3hDFnZflIcoN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:37 |
+| 38 | [O Vivo Irá Perceber](https://open.spotify.com/track/7y1bBV667BFimLVTl0w2sh) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:01 |
 | 39 | [Resistência](https://open.spotify.com/track/33Y2GpuyjhZyBBQAnkibvY) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 3:59 |
 | 40 | [Pedra](https://open.spotify.com/track/1geiH0v9GYBZ6Z3MeNTaKp) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/5OBYVNXKdfcXzIHx9ZZXSd) | 3:21 |
 | 41 | [Derradeiro \- Ao Vivo](https://open.spotify.com/track/1r2rnORcmN38a42jLwWmib) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/603RWVLWjXNpzmIbg6if0X) | 5:06 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcNBVAAAAAAxDtr7xDmI7Dbm2iKpb49u`
+Snapshot ID: `AcNG9AAAAACuAKv6yrWGe1Z+HNGsaIyz`

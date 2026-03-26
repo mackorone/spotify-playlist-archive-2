@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 NTVG
 
-434 songs - 1 day 3 hr 38 min
+435 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Montaña](https://open.spotify.com/track/2If135FqLwJZvPsCQFcMYl) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Caramelos de Felicidad](https://open.spotify.com/album/7pLDXo36pQJ7Dv2likm6nJ) | 3:01 | 2023-08-11 | 2023-08-26 |
 | [Monte de olvidos](https://open.spotify.com/track/5ZpD8XTJvSSXUw8p2APtjj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos](https://open.spotify.com/album/5umNRvNHP6ubJNA8q5Da8v) | 4:23 | 2025-11-17 | 2026-02-15 |
 | [Montserrat](https://open.spotify.com/track/4fbFFVQfSUPAKtT2bpGZOy) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Montserrat](https://open.spotify.com/album/1IEguUV4oxY3vYe6AE6osq) | 5:11 | 2026-03-06 |  |
+| [Morfina](https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Morfina](https://open.spotify.com/album/4J0CA7aRj6X2RM1tE8MgJq) | 2:40 | 2026-03-25 |  |
 | [MSA \(Movimiento Social Ascendente\)](https://open.spotify.com/track/73naJWJ4EPijLutTTPFEEC) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [MSA \(Movimiento Social Ascendente\)](https://open.spotify.com/album/6Gy4KCBhEwdcjzLdoSJg6V) | 2:13 | 2025-08-15 | 2025-09-05 |
 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 | 2022-06-29 | 2022-07-29 |
 | [Mundo de Cristal](https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Mundo de Cristal](https://open.spotify.com/album/6cl4uIrqDSu297ApS84ZBj) | 4:11 | 2022-07-01 | 2022-07-29 |
@@ -365,7 +366,7 @@
 | [supermercado](https://open.spotify.com/track/1DRzLWG6cEHRfHKZfs6a21) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:56 | 2026-03-19 |  |
 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 | 2023-01-27 | 2023-10-07 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-07-06 |
-| [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-06-29 |  |
+| [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-06-29 | 2026-03-26 |
 | [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 | 2026-02-27 | 2026-03-07 |
 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 | 2022-06-29 |  |
 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 | 2022-06-29 | 2022-07-27 |

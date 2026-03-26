@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-470 songs - 1 day 5 hr 6 min
+472 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bhagavathi](https://open.spotify.com/track/7IveVDpt6GAmdO2KU3SPw0) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Bhagavathi](https://open.spotify.com/album/1dIBUTZE5sRN6p33eWxSmT) | 5:33 | 2024-03-08 | 2024-09-11 |
 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 | 2025-07-19 |
 | [Bhal Lage](https://open.spotify.com/track/4PyKda0dhHiHsruUw3uug9) | [RajdeepMusic](https://open.spotify.com/artist/1w8Fqh5P94YeLgJpMZAZGj), [STANNiUM](https://open.spotify.com/artist/3xjWUU2asayhICfjknfGyf), [Hirak Jyoti Sarma](https://open.spotify.com/artist/20rNQvxTCAk1LQOTtv4pKD) | [Bhal Lage](https://open.spotify.com/album/4PFkaMSOYfqNRXSEpFBA0N) | 2:48 | 2025-02-03 | 2025-04-30 |
+| [Biriyani Chembu](https://open.spotify.com/track/3XjV2Wn76hpG6jpQRC5kSa) | [Baluccciiii](https://open.spotify.com/artist/7wOhPadZzkMCYcHo8GIpho), [Chris Wayne](https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc) | [Biriyani Chembu](https://open.spotify.com/album/2EJr0sEVjzVmyDpldUbyza) | 2:34 | 2026-03-25 |  |
 | [Bleed](https://open.spotify.com/track/39uIWCPy3cJUHqMPqo18NO) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Unkill ji](https://open.spotify.com/artist/37IDTCYm9GJTwptgygP8Wz), [Crustacean](https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2) | [Bait/Switch](https://open.spotify.com/album/5BVFf3JcElyZUD1ds8N0St) | 3:09 | 2024-11-14 | 2025-04-05 |
 | [Bliss Adiche Dishqum Aayie \- From "Olam"](https://open.spotify.com/track/2V98irSeShcB8yZRqvXR9Q) | [Arun Thomas](https://open.spotify.com/artist/2a6BrIDvpkTMf00YJrRRuR), [Nauf Bava](https://open.spotify.com/artist/3MQZvamCrsH4LLsWy0AfMm) | [Bliss Adiche Dishqum Aayie \(From "Olam"\)](https://open.spotify.com/album/4L9rh1Cfjg6m2Lx7csfrJl) | 2:36 | 2023-06-29 | 2023-07-28 |
 | [Bloom in Green](https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA) | [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw), [Kavitha Mohan](https://open.spotify.com/artist/1R9gEh4Lzw6a5p4Ab569n6) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 4:20 | 2023-08-05 | 2024-02-19 |
@@ -73,6 +74,7 @@
 | [Chaare](https://open.spotify.com/track/2o6CMAMz3BlEFpzVF0dgWt) | [Bi.lly](https://open.spotify.com/artist/2GKqMm3o0N3lmeLrdwIGGr) | [Chaare](https://open.spotify.com/album/1D6OWj90X6fXJYxqooJAQg) | 1:05 | 2024-08-28 | 2024-12-13 |
 | [Chaaya Makkaani](https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Chaaya Makkaani](https://open.spotify.com/album/3zm44UwafhPVma414Wp4cI) | 3:26 | 2023-09-09 | 2024-05-25 |
 | [Chaliye Rani](https://open.spotify.com/track/1MkV4LbxSmW0S9mP2DoPAk) | [Himna Hilari](https://open.spotify.com/artist/1VVEKPxaTnYrNeO1dKp9vT), [Hinitha Hilary](https://open.spotify.com/artist/5qfJ6kEOLgOveQ4T1Zec0O), [Ebin Pallichan](https://open.spotify.com/artist/5adupl0QWDO9lNgtKss4sZ) | [Chaliye Rani](https://open.spotify.com/album/5XCeIqWUVCfwwMHGhtZ2wi) | 2:04 | 2025-04-21 | 2025-07-26 |
+| [Changilethudippu pole](https://open.spotify.com/track/1wmjvc24elUaEpzB4hSLPf) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Changilethudippu pole](https://open.spotify.com/album/0UjS5V7geOdpLe3tzeBFoE) | 2:25 | 2026-03-25 |  |
 | [Chanjaal Albikkutti](https://open.spotify.com/track/60QkFnDaHt7fIwLduowiSQ) | [Kuttippa](https://open.spotify.com/artist/4xS2zvc8jaoQwhzBgiQTvL) | [Chanjaal Albikkutti](https://open.spotify.com/album/6dl6T8KlAwVAeINuAYse4B) | 3:56 | 2025-07-23 | 2025-09-04 |
 | [Chayapattu](https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 2:29 | 2023-10-06 | 2024-04-19 |
 | [Chayapattu](https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 2:29 | 2022-06-23 | 2024-07-13 |

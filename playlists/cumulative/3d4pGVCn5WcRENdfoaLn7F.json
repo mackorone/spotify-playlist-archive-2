@@ -1627,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "The Daylight is Gone",
+        "url": "https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ"
+      },
+      "artists": [
+        {
+          "name": "Isin",
+          "url": "https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z"
+        },
+        {
+          "name": "Vallartis",
+          "url": "https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238909,
+      "name": "Guardians",
+      "url": "https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6"
+    },
+    {
+      "album": {
         "name": "Hamor",
         "url": "https://open.spotify.com/album/7K9qp9in51p6CzsQDMPsuU"
       },
@@ -3026,7 +3048,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 231692,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs"
@@ -4328,6 +4350,24 @@
       "duration_ms": 145729,
       "name": "time to part(y)",
       "url": "https://open.spotify.com/track/0ZU8QOJ00sgMaUFh7YFpm5"
+    },
+    {
+      "album": {
+        "name": "Timewaster",
+        "url": "https://open.spotify.com/album/0Zo0pv0cD2ZrszpAw7EJjE"
+      },
+      "artists": [
+        {
+          "name": "P\u00d8RTERS",
+          "url": "https://open.spotify.com/artist/7DWxOAA8RP8Cu0B8ucNy0Q"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215844,
+      "name": "Timewaster",
+      "url": "https://open.spotify.com/track/5LwBGdNj4Vk7hPAP2EqECk"
     },
     {
       "album": {

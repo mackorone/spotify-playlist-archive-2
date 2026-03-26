@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Foo Fighters
 
-1,911 songs - 4 day 14 hr 46 min
+1,912 songs - 4 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 | 2025-04-17 | 2025-05-23 |
 | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/track/7D5xfRWhezT4QyOnwh7lcr) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dear Maria, Count Me In \- ATL's Version](https://open.spotify.com/album/1pH81EVN0YItmlphDI5k6b) | 3:07 | 2024-08-01 | 2024-09-15 |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-03-16 | 2023-04-14 |
-| [deathwish](https://open.spotify.com/track/5oiJoBwi1dV8NfZTPYbqGz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [deathwish](https://open.spotify.com/album/4vJsrxUvCVS8m7QKUoDe9h) | 3:27 | 2026-03-12 |  |
+| [deathwish](https://open.spotify.com/track/5oiJoBwi1dV8NfZTPYbqGz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [deathwish](https://open.spotify.com/album/4vJsrxUvCVS8m7QKUoDe9h) | 3:27 | 2026-03-12 | 2026-03-26 |
 | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/track/4lLSGmYY0E8ZGu2SzpmkAB) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/album/5g20tuP4LcpzftTWYsJaZY) | 2:23 | 2023-06-22 | 2023-06-30 |
 | [Deep Diving](https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Deep Diving](https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX) | 2:59 | 2023-11-30 | 2024-01-12 |
 | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 | 2023-11-16 | 2024-01-05 |
@@ -1799,6 +1799,7 @@
 | [Weaponz](https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Weaponz](https://open.spotify.com/album/3DRQt80MAHsSJC2vraQVaX) | 2:29 | 2024-02-29 | 2024-04-26 |
 | [Weavers' Weft](https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Weavers' Weft](https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX) | 9:41 | 2024-01-04 | 2024-01-12 |
 | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/track/1pkiuQdHbJ2bsdNp3YPKKR) | [Hudson Thames](https://open.spotify.com/artist/3AoNmoBJyEsBxlAjhrdxtw), [Nuno Bettencourt](https://open.spotify.com/artist/3konlNIREmuxZRIFKSPKmK), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Weight \(feat\. Kelsy Karter & The Heroines & Nuno Bettencourt\)](https://open.spotify.com/album/27WrIw6gOgnAkbg2tpeTjD) | 3:19 | 2024-02-08 | 2024-02-16 |
+| [Weight of The Truth](https://open.spotify.com/track/2f59hMF7rBNhT400280pxe) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Weight Of The Truth](https://open.spotify.com/album/7gOX07sQgqrfaNyGJYTUoO) | 3:25 | 2026-03-19 |  |
 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 | 2023-03-30 | 2023-04-21 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-16 | 2023-08-29 |
 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-10 | 2023-08-18 |

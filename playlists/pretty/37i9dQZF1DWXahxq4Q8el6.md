@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,660 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,687 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 8 | [Gabriel's Oboe](https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Mission: Music From The Motion Picture](https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA) | 2:14 |
 | 9 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/17oLsEzzlGFlrBKViCzmGc) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/6NUYObCeRmbNTQjBlLQxXb) | 4:46 |
 | 10 | [My Neighbour TOTORO](https://open.spotify.com/track/7iqFh7Vftu6YfwZCSekgtU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Dream Songs: The Essential Joe Hisaishi](https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T) | 4:07 |
-| 11 | [Glasgow Love Theme \- From "Love Actually"](https://open.spotify.com/track/2LhA68Vm5k6lh0QenNFrDV) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [The Royal Philharmonic Concert Orchestra/Paul Bateman](https://open.spotify.com/artist/3QC1ekeybpRvrDEaGQW34n), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 2:09 |
+| 11 | [Glasgow Love Theme \- From "Love Actually"](https://open.spotify.com/track/2LhA68Vm5k6lh0QenNFrDV) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [The Royal Philharmonic Concert Orchestra/Paul Bateman](https://open.spotify.com/artist/0LijxjzkQTljKCIN3gKUnj) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 2:09 |
 | 12 | [SPARKLES](https://open.spotify.com/track/4BKlkeL9YseSNfmMBw4n26) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [SPARKLES](https://open.spotify.com/album/0XR2sP6y7KWHfZGo2JPyCq) | 3:30 |
 | 13 | [The Risk \- Instrumental](https://open.spotify.com/track/009udixUjGtU5zslULs1fO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
 | 14 | [Hollow in the Ferns \(From "Far from the Madding Crowd" Soundtrack\)](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alyssa Grace
 
-2,045 songs - 5 day 2 hr 18 min
+2,050 songs - 5 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-04-26 | 2023-05-11 |
 | [Dream Girl 101](https://open.spotify.com/track/3kxZrcNytmSDRXGzLPp9Sy) | [Airpark](https://open.spotify.com/artist/3FhYulv2HI8so6GZy7AaU4) | [Dream Girl 101](https://open.spotify.com/album/5ktskSJaqLCCX048m6d2r8) | 4:12 | 2024-05-08 | 2024-07-11 |
 | [Dream House](https://open.spotify.com/track/3DLD1zeS4CdYKVxTxCp4EF) | [Kuinka](https://open.spotify.com/artist/2SgZrcrMDRd6TQjSp4RuNU) | [Dream House](https://open.spotify.com/album/0GlTke4HhxBvcYwpSr0O16) | 3:59 | 2023-05-03 | 2023-06-22 |
-| [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 | 2026-01-14 |  |
+| [Dream Of Mine](https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Dream Of Mine](https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8) | 4:03 | 2026-01-14 | 2026-03-26 |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-09-20 | 2024-01-11 |
 | [dreamer](https://open.spotify.com/track/73n6NRgI6V1B1isZ4eFta8) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [dreamer](https://open.spotify.com/album/4KK4KUZMu03yMPFJ4wSchs) | 3:33 | 2025-07-09 | 2025-10-30 |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2022-11-30 | 2023-01-12 |
@@ -807,6 +807,7 @@
 | [Hatchet Man](https://open.spotify.com/track/7bvpcZ2VY6s7Ypd5yGsrql) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Hatchet Man](https://open.spotify.com/album/7DxookX94qlypzrqeWbNfO) | 4:29 | 2025-07-09 | 2025-10-30 |
 | [Haunt Me](https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Haunt Me](https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix) | 3:15 | 2024-10-23 | 2024-12-05 |
 | [Have I Ever Been](https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Have I Ever Been](https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv) | 2:53 | 2023-01-11 | 2023-03-09 |
+| [Headlamp](https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN) | [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Headlamp](https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F) | 3:18 | 2026-03-25 |  |
 | [Heads](https://open.spotify.com/track/0wWeMbdWg4VZQE8l5uY115) | [lulu melons](https://open.spotify.com/artist/68W6D1jloRxFpOCZ5XxptR) | [Heads](https://open.spotify.com/album/3jWiOtejbFOErjMiFYAlNI) | 3:09 | 2024-10-09 | 2024-12-05 |
 | [heard you](https://open.spotify.com/track/1JLs9Rw4FiIVqO8HgI8IjB) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [hometown / heard you](https://open.spotify.com/album/2idMm9h1mpesFK3dnWoyZw) | 1:51 | 2023-08-02 | 2023-10-05 |
 | [HEART](https://open.spotify.com/track/1nd363z5ygZ9zpHzgFpibM) | [Credit Electric](https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU) | [HEART](https://open.spotify.com/album/2zIn0ZCxpcytXKzY94Dv4L) | 3:36 | 2022-05-25 | 2022-08-04 |
@@ -1170,6 +1171,7 @@
 | [mama](https://open.spotify.com/track/3JT1HTp2jSF9EbFYoXya68) | [BODE](https://open.spotify.com/artist/6Y5yfIGFf8KBsa4amo2gvj) | [mama](https://open.spotify.com/album/4aYDVap5RkEGK38GTLNeWU) | 3:50 | 2022-05-25 | 2022-08-11 |
 | [Mama](https://open.spotify.com/track/3rP3035mM8fkdDQzIrzeZP) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [Mama](https://open.spotify.com/album/1BH4Hke6l5OiR11yLM6yBg) | 2:45 | 2024-01-10 | 2024-02-15 |
 | [Mama, I Already Know](https://open.spotify.com/track/4m0mC7dv6U0NtjazduII4N) | [Drumming Bird](https://open.spotify.com/artist/3x2gRycOH4rmXmGnXwiR2K) | [Mama, I Already Know](https://open.spotify.com/album/0ZaIK6Dld0NYT2WgiZFjHs) | 4:40 | 2025-02-05 | 2025-05-15 |
+| [Mama, My Heart Is Achin'](https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Mama, My Heart Is Achin'](https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT) | 3:45 | 2026-03-25 |  |
 | [Many Moons](https://open.spotify.com/track/0odsUykrr3MbtIDdxxJBnn) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [Moonlight in Visby](https://open.spotify.com/album/0vonzQ2JLELebfzlmI18RX) | 4:45 | 2022-05-25 | 2022-09-09 |
 | [Maple](https://open.spotify.com/track/1iMB2Y2rOqw47evr1Z33sX) | [ZOLA](https://open.spotify.com/artist/1J4ofBDurgOATlfzzyniZp) | [Maple](https://open.spotify.com/album/6ql9dCaLeFoPlWKx2QUUS6) | 2:21 | 2024-06-26 | 2024-10-10 |
 | [Margot](https://open.spotify.com/track/3xczo2EtOsuwIXsEkNpVew) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Margot](https://open.spotify.com/album/04y6tMPVcteO2xVTnfYwUw) | 4:06 | 2024-06-19 | 2024-07-18 |
@@ -1286,7 +1288,7 @@
 | [New](https://open.spotify.com/track/3RLIN2s5AonHu5TGsV8MBg) | [Alyson McNamara](https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby) | [New](https://open.spotify.com/album/0o2uAIV3BtMNvpNoexquqq) | 3:27 | 2025-03-12 | 2025-06-05 |
 | [New California Blue](https://open.spotify.com/track/6qD6vbTppsgtMVIo8hB6as) | [John Andrews & The Yawns](https://open.spotify.com/artist/7mFbJCyj7A2bykWgBTHZwZ) | [Cookbook](https://open.spotify.com/album/3UF5qbcpJVl4M8lN3AL7qV) | 3:58 | 2022-11-30 | 2023-01-12 |
 | [New Number](https://open.spotify.com/track/69VlydpqC3ZOntX3sf2Izs) | [Sianon](https://open.spotify.com/artist/4ZGKNVN3vAyIWr5lsQFVxZ) | [New Number](https://open.spotify.com/album/4R6lg2DhqASfXBXJp1h6ox) | 4:17 | 2025-05-21 | 2025-08-07 |
-| [New Season](https://open.spotify.com/track/1XKkywB0E7fR6antkaTJVl) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [New Season](https://open.spotify.com/album/1ie78xa7IYAseGPHIfO8mO) | 1:56 | 2026-01-14 |  |
+| [New Season](https://open.spotify.com/track/1XKkywB0E7fR6antkaTJVl) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [New Season](https://open.spotify.com/album/1ie78xa7IYAseGPHIfO8mO) | 1:56 | 2026-01-14 | 2026-03-26 |
 | [New World Back](https://open.spotify.com/track/3MWPcF16vFhvIUYTfcVoyS) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Babytooth](https://open.spotify.com/album/25NEizm1s9EIs13f5jqtn5) | 3:28 | 2023-08-23 | 2023-11-11 |
 | [New Years](https://open.spotify.com/track/3iLLnKc0Oz6JTJaMYkzdrY) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [New Years](https://open.spotify.com/album/4a1MoUcaJb7nsNYcSRVU5t) | 3:27 | 2024-01-17 | 2024-03-14 |
 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 | 2022-08-24 | 2023-01-12 |
@@ -1611,6 +1613,7 @@
 | [So It Goes](https://open.spotify.com/track/4KBSi6Kxre3J1YSFqdHCkv) | [Legit Smitty](https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu) | [So It Goes](https://open.spotify.com/album/0szNvV9RKt8MjcVIR9fllm) | 3:06 | 2024-06-12 | 2024-08-22 |
 | [So Long](https://open.spotify.com/track/3lqyDhYF2LySUAxc1PFlsN) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [So Long](https://open.spotify.com/album/6tAMhO8WV1WPcDglep3DpM) | 3:54 | 2023-05-03 | 2024-01-11 |
 | [So Pretty](https://open.spotify.com/track/2CRNlAT8872weon0PKuks2) | [McKenna Esteb](https://open.spotify.com/artist/5R218OuGBko4GEdpGHuf6v) | [So Pretty](https://open.spotify.com/album/2YVdScLIalhtZXFOmuJqEX) | 1:48 | 2023-04-26 | 2023-06-03 |
+| [Sober](https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Sober](https://open.spotify.com/album/6W0OJwruftgimcKiuLXHD5) | 3:14 | 2026-03-25 |  |
 | [Soft Spoken](https://open.spotify.com/track/6n9Izatzeq6U9NmJnNScKb) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Soft Spoken](https://open.spotify.com/album/2dUezGx88lRQIUD48JLtSU) | 4:33 | 2023-10-18 | 2023-12-11 |
 | [Solid Gold](https://open.spotify.com/track/2rlGESvpeqp4fuRWo1SqOO) | [Miles Miller](https://open.spotify.com/artist/0Yss5qOkho0Lg2MYRkJeuZ) | [Solid Gold](https://open.spotify.com/album/1pGXBIgA2ywXPBv5EznqAl) | 3:18 | 2023-03-01 | 2023-04-13 |
 | [Solid Ground](https://open.spotify.com/track/0jtHUZ69AAVSVWaXpEP60D) | [barrett](https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY) | [Solid Ground](https://open.spotify.com/album/3zd0VrYymrE7nK1UZTlRCr) | 3:53 | 2024-08-21 | 2024-12-05 |
@@ -1752,7 +1755,7 @@
 | [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-02-28 | 2024-05-02 |
 | [The Bite](https://open.spotify.com/track/0JJXAho9s6XgwhItVV6kV5) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [The Bite](https://open.spotify.com/album/1WKBH7Kast9jnPiQmestUl) | 2:24 | 2024-08-14 | 2024-12-05 |
 | [the Blade](https://open.spotify.com/track/3xt9FMbT8XKaaz53AaRgXS) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [the Blade](https://open.spotify.com/album/4rDsRmHSnMeSo8NbRWKR9l) | 2:47 | 2026-01-14 |  |
-| [The Blueprint](https://open.spotify.com/track/0MsO0N1PXLazlHz3qnOeKZ) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [The Blueprint](https://open.spotify.com/album/4BQJbpqg6DA0cG8i2X66Gp) | 2:38 | 2026-01-14 |  |
+| [The Blueprint](https://open.spotify.com/track/0MsO0N1PXLazlHz3qnOeKZ) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [The Blueprint](https://open.spotify.com/album/4BQJbpqg6DA0cG8i2X66Gp) | 2:38 | 2026-01-14 | 2026-03-26 |
 | [the cards](https://open.spotify.com/track/1T1xEv50uNtLsBb7qtKtB7) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [the cards](https://open.spotify.com/album/4l73qnloX4HsFd42X5aDwv) | 2:04 | 2024-05-01 | 2024-07-11 |
 | [The Case of Bucky Briar](https://open.spotify.com/track/2O7QpyQxRDANQCH8I7rB4r) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [The Case of Bucky Briar](https://open.spotify.com/album/46TyuPwKIlBpe5Y5563DcL) | 4:27 | 2022-10-05 | 2022-12-01 |
 | [The Centre of Everything](https://open.spotify.com/track/674NESEjDBIx9Xrzlouogc) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [That Hollow Moon](https://open.spotify.com/album/6LDHYso4mlEutd49rEln9H) | 3:29 | 2023-01-11 | 2023-02-23 |
@@ -1899,6 +1902,7 @@
 | [Underdogs](https://open.spotify.com/track/2DXCuZniSyeNnasWrcgtgj) | [His His](https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO) | [Underdogs](https://open.spotify.com/album/1Ck8vQiQptvphCgMMVRJTj) | 3:01 | 2023-07-19 | 2023-09-21 |
 | [Unglow The](https://open.spotify.com/track/4UeVFX3DVDTRrqfAOL2dTa) | [Pearla](https://open.spotify.com/artist/79z2QxbhjUYyMqCOfvta7P) | [Unglow The](https://open.spotify.com/album/6LfVYMRFPAAmkg1YNbL9UJ) | 4:02 | 2023-02-15 | 2023-04-13 |
 | [Unheaven](https://open.spotify.com/track/7bsrLlPmRnmqDyw3i6mgel) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Unheaven](https://open.spotify.com/album/5m3UkrdN0j8MiRUeFnNQVx) | 3:58 | 2025-06-04 | 2025-09-25 |
+| [Universal Human Needs](https://open.spotify.com/track/6g3kLS87owY6Lc0k9YjanE) | [Sham](https://open.spotify.com/artist/3oNsJuENqiK7S8guF6EQjp) | [Universal Human Needs](https://open.spotify.com/album/5tQH0pxxi6cno3ifpEuMMj) | 3:09 | 2026-03-25 |  |
 | [Unravel Myself](https://open.spotify.com/track/2Xr2Lim9QmzDruk6sPhzmH) | [Ivy James](https://open.spotify.com/artist/1WoddWoiAejGKl7zIoyNl7) | [Unravel Myself](https://open.spotify.com/album/1BppxhXRwlhItsVZEaq9t9) | 3:00 | 2024-03-20 | 2024-05-23 |
 | [untitled](https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [untitled](https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx) | 1:41 | 2022-05-25 | 2022-09-29 |
 | [Untitled Love Song](https://open.spotify.com/track/4zcLNqQudp0948BWCbtdd8) | [kendall lujan](https://open.spotify.com/artist/5JvY8N4icJjp1ND34IJAqQ) | [Untitled Love Song](https://open.spotify.com/album/0VHTPcwxDe4nCeJXCLpuRt) | 3:19 | 2025-02-05 | 2025-05-15 |
@@ -2005,6 +2009,7 @@
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-06-05 | 2024-08-08 |
 | [Willy O' winsbury](https://open.spotify.com/track/24UEU7IdFRWHpmLyHdbQ25) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [Lady Moon](https://open.spotify.com/album/2LOgeKFKWqR6aV6shIVbyj) | 5:43 | 2023-04-12 | 2023-06-01 |
 | [Windsor](https://open.spotify.com/track/7pvk9RiV4IsebYyefzMrUw) | [yours, andrew](https://open.spotify.com/artist/2Q9oxqDIcJefvaJrVy4jv9) | [Windsor](https://open.spotify.com/album/6UuovWQYJsC1XsE5YRV5KD) | 3:02 | 2024-07-31 | 2024-10-10 |
+| [Wings](https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Wings](https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr) | 4:08 | 2026-03-25 |  |
 | [Wish I Had You Now](https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T) | [The Finley Ghost](https://open.spotify.com/artist/2FDDxS1r0AdQzitRtjqdsb) | [Wish I Had You Now](https://open.spotify.com/album/1uWCJKpS1fKWPwtn7nj0GW) | 3:57 | 2022-06-29 | 2022-10-27 |
 | [Wishes](https://open.spotify.com/track/1s4vspTIFQuct69jsNjHEv) | [Gracie Gray](https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG) | [Wishes](https://open.spotify.com/album/6NZpGCL4pYJwFVtjFuV8Go) | 3:08 | 2023-10-04 | 2023-12-11 |
 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 | 2023-07-12 | 2024-01-11 |

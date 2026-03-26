@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 174805,
+  "num_followers": 174843,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Porque te vas",
+      "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 168866,
       "name": "Nunca digas",
       "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Porque te vas",
-      "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Castillos en el aire",
         "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 198106,
       "name": "Castillos en el aire",
       "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k"
+        "name": "Solo un Hombre",
+        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
       },
       "artists": [
         {
-          "name": "Silvana Di Lorenzo",
-          "url": "https://open.spotify.com/artist/0jmWbTDAKk9k593xUr6Exe"
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 232040,
-      "name": "Me Muero por Estar Contigo",
-      "url": "https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K"
+      "duration_ms": 158133,
+      "name": "Fresa Salvaje",
+      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Solo un Hombre",
-        "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/29PMfhdMAXdqGOXok1jQ3k"
       },
       "artists": [
         {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+          "name": "Silvana Di Lorenzo",
+          "url": "https://open.spotify.com/artist/0jmWbTDAKk9k593xUr6Exe"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Fresa Salvaje",
-      "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
+      "duration_ms": 232040,
+      "name": "Me Muero por Estar Contigo",
+      "url": "https://open.spotify.com/track/2rmlXDjM5bV6yL2mhljg7K"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Que Alegre Va Mar\u00eda",
+        "url": "https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN"
+      },
+      "artists": [
+        {
+          "name": "Imelda Miller",
+          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "Que Alegre Va Mar\u00eda",
+      "url": "https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 172866,
       "name": "Concierto para enamorados",
       "url": "https://open.spotify.com/track/46JeeXFVAkzDIdD3N86q4F"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Que Alegre Va Mar\u00eda",
-        "url": "https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN"
-      },
-      "artists": [
-        {
-          "name": "Imelda Miller",
-          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "Que Alegre Va Mar\u00eda",
-      "url": "https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "15 Canciones Favoritas",
-        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Canci\u00f3n para una esposa triste",
         "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 223746,
       "name": "Canci\u00f3n para una esposa triste",
       "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "15 Canciones Favoritas",
+        "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/5qF73eA5EDS1rWtIzG24WR"
     },
     {
       "added_at": "2024-07-11 01:42:53",

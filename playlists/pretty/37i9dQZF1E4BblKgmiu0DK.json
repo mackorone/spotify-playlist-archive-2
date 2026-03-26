@@ -1,5 +1,5 @@
 {
-  "description": "With blazingfairis, Die Mannequin, Cherri Bomb and more",
+  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
   "num_followers": 6,
   "original_name": "Renee Cassar Radio",
   "owner": {
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join the Infestation",
-        "url": "https://open.spotify.com/album/0xgMASQX6vORZfwS28Xv0k"
-      },
-      "artists": [
-        {
-          "name": "Celleste",
-          "url": "https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE"
-        }
-      ],
-      "duration_ms": 211448,
-      "name": "Join the Infestation",
-      "url": "https://open.spotify.com/track/57KIpZZRR6uqDtwAK1uDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Part Of You",
         "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 203167,
       "name": "Part Of You",
       "url": "https://open.spotify.com/track/6Bs4jja3M3kRObQMwWIVtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good For December",
+        "url": "https://open.spotify.com/album/2IdfFW8izAnyUU8qCtp219"
+      },
+      "artists": [
+        {
+          "name": "Kade Lu",
+          "url": "https://open.spotify.com/artist/6JA3ES77EuereUknMmj23v"
+        }
+      ],
+      "duration_ms": 249899,
+      "name": "Good For December",
+      "url": "https://open.spotify.com/track/5Ey09ZB8JajjczBe50P2o9"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Error 404: Patience Not Found",
-        "url": "https://open.spotify.com/album/50apzoCURxhJuxqF1ndshG"
-      },
-      "artists": [
-        {
-          "name": "NXXT Sarcasm",
-          "url": "https://open.spotify.com/artist/5kqvbA8fTo1cDKrlxbg7nn"
-        }
-      ],
-      "duration_ms": 172719,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nunca ando deciado",
         "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
@@ -219,34 +203,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+        "name": "Join the Infestation",
+        "url": "https://open.spotify.com/album/0xgMASQX6vORZfwS28Xv0k"
       },
       "artists": [
         {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+          "name": "Celleste",
+          "url": "https://open.spotify.com/artist/3tM3LCbkwu6JuDgLyPzMiE"
         }
       ],
-      "duration_ms": 266386,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
+      "duration_ms": 211448,
+      "name": "Join the Infestation",
+      "url": "https://open.spotify.com/track/57KIpZZRR6uqDtwAK1uDs3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Good For December",
-        "url": "https://open.spotify.com/album/2IdfFW8izAnyUU8qCtp219"
+        "name": "Error 404: Patience Not Found",
+        "url": "https://open.spotify.com/album/50apzoCURxhJuxqF1ndshG"
       },
       "artists": [
         {
-          "name": "Kade Lu",
-          "url": "https://open.spotify.com/artist/6JA3ES77EuereUknMmj23v"
+          "name": "NXXT Sarcasm",
+          "url": "https://open.spotify.com/artist/5kqvbA8fTo1cDKrlxbg7nn"
         }
       ],
-      "duration_ms": 249899,
-      "name": "Good For December",
-      "url": "https://open.spotify.com/track/5Ey09ZB8JajjczBe50P2o9"
+      "duration_ms": 172719,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Studs",
-        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
-      },
-      "artists": [
-        {
-          "name": "Morningwood",
-          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nunca ando deciado",
         "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 157718,
       "name": "Neon Thrash",
       "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stark",
+        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
     },
     {
       "added_at": null,
@@ -347,18 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can Breathe Again",
-        "url": "https://open.spotify.com/album/1WXlRdx0YTPcZC2MbPAdQu"
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
       },
       "artists": [
         {
-          "name": "Frida and The Mann",
-          "url": "https://open.spotify.com/artist/5rhfONpeaUub9YJlqnCpgN"
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 189000,
-      "name": "I Can Breathe Again",
-      "url": "https://open.spotify.com/track/3b5LBBdJ43hADtA0jPJYD6"
+      "duration_ms": 178826,
+      "name": "It Takes One to Know One",
+      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
     },
     {
       "added_at": null,
@@ -379,50 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitchin'",
-        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+        "name": "3",
+        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
       },
       "artists": [
         {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+          "name": "Batfarm",
+          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
         }
       ],
-      "duration_ms": 174236,
-      "name": "Here For The Party",
-      "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is the End of Control",
-        "url": "https://open.spotify.com/album/3rothUjyXzBz0I3fvHD1Cj"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dollyrots",
-        "url": "https://open.spotify.com/album/2BBGdCOmI2y2VhDvAjVxSZ"
-      },
-      "artists": [
-        {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "Because I'm Awesome (2012)",
-      "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
+      "duration_ms": 162000,
+      "name": "3",
+      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
     },
     {
       "added_at": null,
@@ -443,18 +411,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollow Bone",
-        "url": "https://open.spotify.com/album/4ccewCTWruvhwAj9I0aKSK"
+        "name": "Holy Smoke",
+        "url": "https://open.spotify.com/album/0YSYH2O7M9HwAE7ZSd9dKu"
       },
       "artists": [
         {
-          "name": "Kinetic Kaleidoscope",
-          "url": "https://open.spotify.com/artist/5sATOhqIRY5pgA7XCm8l1I"
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Mr. Freakshow",
+      "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/49BS8UnsIYvoudjSdIMqRs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Weber",
+          "url": "https://open.spotify.com/artist/7DCMovDjNJMTyfEyhcPfge"
         }
       ],
       "duration_ms": 215481,
-      "name": "Hollow Bone",
-      "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
+      "name": "Gods",
+      "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Here For The Party",
+      "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
     },
     {
       "added_at": null,
@@ -475,130 +475,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitchin'",
-        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+        "name": "Loop-A-Loop Jam",
+        "url": "https://open.spotify.com/album/3fBbvnwPINkVBrTalcIW2x"
       },
       "artists": [
         {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+          "name": "The Color Collective",
+          "url": "https://open.spotify.com/artist/2d5W8ARqKWty71BUxcSwly"
         }
       ],
-      "duration_ms": 201142,
-      "name": "Better Off Dancing",
-      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
+      "duration_ms": 172582,
+      "name": "Loop-A-Loop Jam",
+      "url": "https://open.spotify.com/track/3cEFnGEOjH9n4wjmf5C3zO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "In New",
-        "url": "https://open.spotify.com/album/56YbU1FZP0W5lZhjm5BNUg"
+        "name": "I Can Breathe Again",
+        "url": "https://open.spotify.com/album/1WXlRdx0YTPcZC2MbPAdQu"
       },
       "artists": [
         {
-          "name": "Laurine Metz",
-          "url": "https://open.spotify.com/artist/0dl4hUvqCdjcWvJAq5PyOg"
+          "name": "Frida and The Mann",
+          "url": "https://open.spotify.com/artist/5rhfONpeaUub9YJlqnCpgN"
         }
       ],
-      "duration_ms": 134260,
-      "name": "In New",
-      "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o"
-      },
-      "artists": [
-        {
-          "name": "Batfarm",
-          "url": "https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "3",
-      "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/1K2J69Uxmz2GgRz4DYu7KF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Smoke",
-        "url": "https://open.spotify.com/album/0YSYH2O7M9HwAE7ZSd9dKu"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Mr. Freakshow",
-      "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Zero",
-        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
-      },
-      "artists": [
-        {
-          "name": "Die Mannequin",
-          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold Medal (U.S. Version 83770)",
-        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
-      },
-      "artists": [
-        {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "It Takes One to Know One",
-      "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "nunca ando deciado",
-        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
-      },
-      "artists": [
-        {
-          "name": "blazingfairis",
-          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
-        }
-      ],
-      "duration_ms": 159433,
-      "name": "Neon Blaze Riot",
-      "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
+      "duration_ms": 189000,
+      "name": "I Can Breathe Again",
+      "url": "https://open.spotify.com/track/3b5LBBdJ43hADtA0jPJYD6"
     },
     {
       "added_at": null,
@@ -619,34 +523,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
       "artists": [
         {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
+      "duration_ms": 111433,
+      "name": "Flexrage Circuit",
+      "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Destructo Doll",
-        "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
       },
       "artists": [
         {
-          "name": "Cassie Steele",
-          "url": "https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X"
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
         }
       ],
-      "duration_ms": 238013,
-      "name": "Mr Colson",
-      "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
+      "duration_ms": 201142,
+      "name": "Better Off Dancing",
+      "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
     },
     {
       "added_at": null,
@@ -667,6 +571,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "In New",
+        "url": "https://open.spotify.com/album/56YbU1FZP0W5lZhjm5BNUg"
+      },
+      "artists": [
+        {
+          "name": "Laurine Metz",
+          "url": "https://open.spotify.com/artist/0dl4hUvqCdjcWvJAq5PyOg"
+        }
+      ],
+      "duration_ms": 134260,
+      "name": "In New",
+      "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Societys Rejects",
+        "url": "https://open.spotify.com/album/63KEdOR0MbE54hguE6AEqx"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "duration_ms": 198778,
+      "name": "Step Outside",
+      "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollow Bone",
+        "url": "https://open.spotify.com/album/4ccewCTWruvhwAj9I0aKSK"
+      },
+      "artists": [
+        {
+          "name": "Kinetic Kaleidoscope",
+          "url": "https://open.spotify.com/artist/5sATOhqIRY5pgA7XCm8l1I"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Hollow Bone",
+      "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
+      },
+      "artists": [
+        {
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
+        }
+      ],
+      "duration_ms": 70290,
+      "name": "Savage Flex Riot",
+      "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold Medal (U.S. Version 83770)",
         "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
       },
@@ -683,76 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/6VcS9j6DtNgcfjGOqgMgOE"
-      },
-      "artists": [
-        {
-          "name": "Corey Faulkner",
-          "url": "https://open.spotify.com/artist/0M2ptB8GxV5mCvmYrxOraY"
-        }
-      ],
-      "duration_ms": 223654,
-      "name": "The Black Hole In The Sky",
-      "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Another After-Break Up Song",
-        "url": "https://open.spotify.com/album/6smbs6607UcjzlNMgVfP5s"
-      },
-      "artists": [
-        {
-          "name": "90's Sisters",
-          "url": "https://open.spotify.com/artist/75YADXI8pr2rrKWs84EsIj"
-        },
-        {
-          "name": "Malinowa M\u0105ka",
-          "url": "https://open.spotify.com/artist/5qDi2p4RYj3g6c5A8eDNox"
-        }
-      ],
-      "duration_ms": 324259,
-      "name": "Another After-Break Up Song",
-      "url": "https://open.spotify.com/track/5Kn0MelgROC2HH4ns360KI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/5KFSqxPZRgKp0BS8pHWKIM"
-      },
-      "artists": [
-        {
-          "name": "Funky Uncle Charlies Kittens",
-          "url": "https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c"
-        }
-      ],
-      "duration_ms": 263875,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/7gp4yIc2FS3UDBOXHNBver"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stark",
-        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
-      },
-      "artists": [
-        {
-          "name": "Cherri Bomb",
-          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/1QPJxq97IfB1tk5OUGRhgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FINO + BLEED",
-        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+        "name": "Neon Zero",
+        "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
       },
       "artists": [
         {
@@ -760,25 +660,41 @@
           "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Bad Medicine",
-      "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
+      "duration_ms": 244533,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gold Medal (U.S. Version 83770)",
-        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+        "name": "The Dollyrots",
+        "url": "https://open.spotify.com/album/2BBGdCOmI2y2VhDvAjVxSZ"
       },
       "artists": [
         {
-          "name": "The Donnas",
-          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Fall Behind Me",
-      "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
+      "duration_ms": 204255,
+      "name": "Because I'm Awesome (2012)",
+      "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destructo Doll",
+        "url": "https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW"
+      },
+      "artists": [
+        {
+          "name": "Cassie Steele",
+          "url": "https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Mr Colson",
+      "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
     },
     {
       "added_at": null,
@@ -799,18 +715,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside The Hollow",
-        "url": "https://open.spotify.com/album/04ZUaYNv07KLNMtKtQPCTG"
+        "name": "nunca ando deciado",
+        "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
       "artists": [
         {
-          "name": "Lillix",
-          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+          "name": "blazingfairis",
+          "url": "https://open.spotify.com/artist/6ajabFuu4RYCyadfv36oSe"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Sweet Temptation (Hollow)",
-      "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
+      "duration_ms": 159433,
+      "name": "Neon Blaze Riot",
+      "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold Medal (U.S. Version 83770)",
+        "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Fall Behind Me",
+      "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINO + BLEED",
+        "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Bad Medicine",
+      "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Middle-Aged Angst",
+        "url": "https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK"
+      },
+      "artists": [
+        {
+          "name": "Ecto Peach",
+          "url": "https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Feast On Scraps",
+      "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/5KFSqxPZRgKp0BS8pHWKIM"
+      },
+      "artists": [
+        {
+          "name": "Funky Uncle Charlies Kittens",
+          "url": "https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c"
+        }
+      ],
+      "duration_ms": 263875,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7gp4yIc2FS3UDBOXHNBver"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Occupied",
+        "url": "https://open.spotify.com/album/5QQDlakE93BeMXyafd2fFM"
+      },
+      "artists": [
+        {
+          "name": "Made You Look / Made You Stare",
+          "url": "https://open.spotify.com/artist/5BYvloCuyhEqJGkyKoQXIp"
+        }
+      ],
+      "duration_ms": 193732,
+      "name": "Occupied",
+      "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
     }
   ],
   "unique_name": "Renee Cassar Radio",

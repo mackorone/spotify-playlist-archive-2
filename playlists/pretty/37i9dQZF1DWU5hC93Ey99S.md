@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,467 likes - 194 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,559 likes - 194 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 151 | [Be The First One](https://open.spotify.com/track/0UsBpozOiItwFrErgLkDAh) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Be The First One](https://open.spotify.com/album/5yNthIBAghTkSfRTtDKd8k) | 2:43 |
 | 152 | [Pollen](https://open.spotify.com/track/3SLLlwtC4vAyiaWhZ6U4pI) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Pollen](https://open.spotify.com/album/6xsuHwZZyZjzfc5GQ2QiB3) | 3:25 |
 | 153 | [2 Go](https://open.spotify.com/track/6bEreC7Z1UdHbMC7JDhcwm) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [2 Go](https://open.spotify.com/album/6ZRtBlfIqF1NOySOUrjz2p) | 4:06 |
-| 154 | [yesterday](https://open.spotify.com/track/1pajzEkuHxBLx5wSzXU4KG) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [memorii](https://open.spotify.com/album/0vNfvLa97NZPAlKiXCSz7J) | 2:32 |
+| 154 | [yesterday](https://open.spotify.com/track/1pajzEkuHxBLx5wSzXU4KG) | [ROMMII](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [memorii](https://open.spotify.com/album/0vNfvLa97NZPAlKiXCSz7J) | 2:32 |
 | 155 | [Cool](https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Joe Farwick](https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s) | [Cool](https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB) | 3:02 |
 | 156 | [Anything4u](https://open.spotify.com/track/71TUIRuDF065JfAvfFRhWU) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Anything4u](https://open.spotify.com/album/5M8Gct5jIiN2SYkgmx6Tll) | 2:00 |
 | 157 | [Once I \(Lose Control\)](https://open.spotify.com/track/2wtfPwtYi2LJVZVPrvjpkB) | [Januar](https://open.spotify.com/artist/0J2UQEazRjVuwWlEXufHsD) | [Once I \(Lose Control\)](https://open.spotify.com/album/2CA3buRlRGat3xJwQKUNaS) | 2:15 |

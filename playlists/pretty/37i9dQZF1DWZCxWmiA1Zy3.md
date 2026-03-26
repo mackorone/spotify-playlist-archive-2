@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 
 > Pátria Rock apresenta.\. O Melhor do Rock 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,850 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,851 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCxWmiA1Zy3.md) - [plain]
 | 27 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 | 28 | [vc já falou pra ela?](https://open.spotify.com/track/5PiqaMiXx7OcayzCbC9yn6) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [vc já falou pra ela?](https://open.spotify.com/album/7E0MY7RLTWs1kViG6FTFYP) | 2:21 |
 | 29 | [Exagerado](https://open.spotify.com/track/7hbRA3u6htLYcBiee7AKU1) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerado](https://open.spotify.com/album/4roVi8jXFmERJfLjYKKO1u) | 2:43 |
-| 30 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 |
+| 30 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [bellizio](https://open.spotify.com/artist/3ZBQerWSIFoQwRvWQvDKWK) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:04 |
 | 31 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 |
 | 32 | [Esperando Você](https://open.spotify.com/track/0ugMAS9SPKkcKTUhnHL1vL) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Gêmeos Live Session](https://open.spotify.com/album/4w6gMS7cV6Khbz3r4ckyV0) | 3:47 |
 | 33 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 |

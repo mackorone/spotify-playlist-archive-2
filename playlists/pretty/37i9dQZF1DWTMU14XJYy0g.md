@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 RYAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,938 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,918 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 98 | [El Fin Del Amor](https://open.spotify.com/track/0U1ktZf1FLmzraWqBQGqda) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Fin Del Amor](https://open.spotify.com/album/5kiuTKPY8IrZu2dargiqHZ) | 3:04 |
 | 99 | [Semáforos](https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:18 |
 
-Snapshot ID: `AAAAAFQbNdfbNcOgul/8gzFuhewNP4ID`
+Snapshot ID: `AAAAANBJHtxsYwPjkFN1sTSh6ltd29D7`

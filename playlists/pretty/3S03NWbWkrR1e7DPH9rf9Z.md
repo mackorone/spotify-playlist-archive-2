@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 212,263 likes - 200 songs - 9 hr 48 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 212,257 likes - 200 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 | 129 | [Take Control](https://open.spotify.com/track/6iqJCu5hhdKko7ywoQgiDW) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [XavieR](https://open.spotify.com/artist/4eo8DUa8wEP7Uc1MaZ5IVT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Take Control](https://open.spotify.com/album/59YRIcCaPVKoZAcuoz7rmE) | 2:27 |
 | 130 | [Brighter](https://open.spotify.com/track/2FmQv4uDrTBw9Hor1dCdBb) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Brighter](https://open.spotify.com/album/4HWqkhmqLAfLJCuy2mS1tz) | 3:00 |
 | 131 | [Rebels Of The Night](https://open.spotify.com/track/4njyPtTel69rKJekUrOTFy) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Rebels Of The Night](https://open.spotify.com/album/5PDeZ02h9CJ7QcHfPR6WtO) | 2:34 |
-| 132 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Liah](https://open.spotify.com/artist/3iFO7dwzsgNbmsaW59HrAi) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 |
+| 132 | [Bad](https://open.spotify.com/track/3MmSFDQ14BHOwGiS6nTI76) | [Lyah Noir](https://open.spotify.com/artist/1kGvH9vElfXBpOpm2MUGY4) | [Bad](https://open.spotify.com/album/1DYT4lDHV9dV5QW5UvmwCJ) | 2:44 |
 | 133 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
 | 134 | [Can You Hear Me](https://open.spotify.com/track/36sRkngMlQND4AhklENGzQ) | [Broken Frequency](https://open.spotify.com/artist/3gb38YdrsmCSEIQoDMnJqU), [MC Roga](https://open.spotify.com/artist/2ZghcB8YjDWv3KKQRB7pzy) | [Can You Hear Me](https://open.spotify.com/album/15U4ntA3zZQSfyjJT8EGbJ) | 2:51 |
 | 135 | [I Feel Whole](https://open.spotify.com/track/3JYeqQ9Gmruj26KRfp5PhH) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [I Feel Whole](https://open.spotify.com/album/7zSt2XDCPGfvZyg4t7931W) | 2:34 |

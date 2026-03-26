@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143128,
+  "num_followers": 143140,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
         "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 135998,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Portate Bonito",
         "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 209541,
       "name": "Portate Bonito",
       "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 135998,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -919,22 +919,18 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+        "name": "El Lugar M\u00e1s Feliz Del Mundo",
+        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
       },
       "artists": [
         {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+      "duration_ms": 193786,
+      "name": "El Lugar M\u00e1s Feliz Del Mundo",
+      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -959,18 +955,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "El Lugar M\u00e1s Feliz Del Mundo",
-        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 193786,
-      "name": "El Lugar M\u00e1s Feliz Del Mundo",
-      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Moviendo El Piso",
-        "url": "https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP"
-      },
-      "artists": [
-        {
-          "name": "Neomai",
-          "url": "https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz"
-        },
-        {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
-        }
-      ],
-      "duration_ms": 128362,
-      "name": "Moviendo El Piso",
-      "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Laho III",
         "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 178909,
       "name": "Laho III",
       "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Moviendo El Piso",
+        "url": "https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP"
+      },
+      "artists": [
+        {
+          "name": "Neomai",
+          "url": "https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "duration_ms": 128362,
+      "name": "Moviendo El Piso",
+      "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "White Wine",
-        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "White Wine",
-      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 158545,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "RAM\u00c9",
+        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 161788,
+      "name": "RAM\u00c9",
+      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "Wapa (Remix)",
         "url": "https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 228693,
       "name": "Wapa - Remix",
       "url": "https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "RAM\u00c9",
-        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 161788,
-      "name": "RAM\u00c9",
-      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        },
-        {
-          "name": "K\u00e9nsel Tell Them",
-          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
-        }
-      ],
-      "duration_ms": 131022,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 183286,
       "name": "Volver a Verte",
       "url": "https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+        }
+      ],
+      "duration_ms": 131022,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1671,6 +1671,38 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "cuLE viaJE",
+        "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
+      },
+      "artists": [
+        {
+          "name": "Till High",
+          "url": "https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie"
+        }
+      ],
+      "duration_ms": 158285,
+      "name": "cuLE viaJE",
+      "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "COMO VOS | THIS IS CURREN",
         "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
       },
@@ -1695,22 +1727,6 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
         "name": "Ese Habladito",
         "url": "https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 192230,
       "name": "Ese Habladito",
       "url": "https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "cuLE viaJE",
-        "url": "https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA"
-      },
-      "artists": [
-        {
-          "name": "Till High",
-          "url": "https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie"
-        }
-      ],
-      "duration_ms": 158285,
-      "name": "cuLE viaJE",
-      "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
     },
     {
       "added_at": "2026-03-20 04:00:59",
@@ -1883,22 +1883,22 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
-        "name": "EN EL MOMENTO",
-        "url": "https://open.spotify.com/album/66SZ21oncuE4M7b1GyBlOS"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S"
       },
       "artists": [
         {
-          "name": "Veronica Pichardo",
-          "url": "https://open.spotify.com/artist/2pJzbbdclqku9nUuKXQQjQ"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         },
         {
-          "name": "Ethan Morris",
-          "url": "https://open.spotify.com/artist/5bV2xk8geXdbZJvNVPprmD"
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
         }
       ],
-      "duration_ms": 156063,
-      "name": "EN EL MOMENTO",
-      "url": "https://open.spotify.com/track/4oRZXIY18vpKC7bB0CrCY4"
+      "duration_ms": 159135,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
     }
   ],
   "unique_name": "Afro Ritmo",

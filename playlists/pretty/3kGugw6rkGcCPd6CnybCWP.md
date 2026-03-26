@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,166 likes - 105 songs - 6 hr 7 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,167 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 91 | [Fake Happiness](https://open.spotify.com/track/6vAbICOt2jE3FsfRHmzWgD) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Fake Happiness](https://open.spotify.com/album/5oN9wBUQom6yKPGqHtExqd) | 3:35 |
 | 92 | [Watch It Burn](https://open.spotify.com/track/4LAenkX9J3bQiVDyuRQdzp) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Watch It Burn](https://open.spotify.com/album/0Cq6PROpzgFHc5V9YpynL1) | 2:45 |
 | 93 | [Used to Be So Easy](https://open.spotify.com/track/1foVO83KMcSfEZD6LgbBlW) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [Salty Beach Friends](https://open.spotify.com/album/33tsEys6xUWR6l31TCjG2R) | 4:03 |
-| 94 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 |
+| 94 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 |
 | 95 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 |
 | 96 | [We Make](https://open.spotify.com/track/6S3fmqlDWZThCvHdf0bXLH) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [We Make](https://open.spotify.com/album/6iYX7uJB6VFEahSSuaw9JO) | 2:53 |
 | 97 | [Level of Life](https://open.spotify.com/track/6mudyCp3eCaKgnYdXKODmw) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Level of Life](https://open.spotify.com/album/2JDkUv7HpUjsNLlq9uFNTO) | 3:17 |

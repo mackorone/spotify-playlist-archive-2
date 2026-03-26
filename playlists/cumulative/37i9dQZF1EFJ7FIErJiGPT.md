@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 22 min
+103 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 | 2026-03-07 |  |
 | [Waste A Tear](https://open.spotify.com/track/6EtZTJwgigLwYQdsi30H71) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/3IgDLxqDbFHBF56ZDvFjvf) | 2:27 | 2026-03-07 |  |
 | [Way Too Good](https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:16 | 2026-03-07 |  |
+| [What Could Possibly Go Wrong?](https://open.spotify.com/track/4keyW2cRIHic8OvfSVNB5N) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [What Could Possibly Go Wrong?](https://open.spotify.com/album/60JtNoLU1MDm3XrzwzywJO) | 3:27 | 2026-03-25 |  |
 | [What Do I Call You](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 2:47 | 2026-03-07 |  |
 | [Who Do You Love](https://open.spotify.com/track/36mcA4Cowre74MZJWdwuLd) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Who Do You Love](https://open.spotify.com/album/6PRIXFY9eyp4njBDtRYlRg) | 2:58 | 2026-03-07 |  |
 | [Wild Hearts](https://open.spotify.com/track/6GFmic5sMMouZ04j8p2RXm) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:49 | 2026-03-07 |  |

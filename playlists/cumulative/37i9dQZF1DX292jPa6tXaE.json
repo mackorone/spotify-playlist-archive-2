@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Heera",
+  "description": "Discover the future of Punjabi Pop! Cover: Yuvraj",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 198311,
       "name": "Broken Tears",
       "url": "https://open.spotify.com/track/19LwdVnHBV7nxFlY63MoAL"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 152727,
       "name": "DOMINANCE",
       "url": "https://open.spotify.com/track/506lbFTPpprPjgfZDo8Fkx"
@@ -4389,6 +4389,32 @@
     },
     {
       "album": {
+        "name": "HER GAZE",
+        "url": "https://open.spotify.com/album/4QYkarttOqXi6VzZBsNVNn"
+      },
+      "artists": [
+        {
+          "name": "Yuvraj",
+          "url": "https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw"
+        },
+        {
+          "name": "Yaari Ghuman",
+          "url": "https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N"
+        },
+        {
+          "name": "Karan Thabal",
+          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "HER GAZE",
+      "url": "https://open.spotify.com/track/2i6kxtci4aYIYgGc4MGVdo"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/7uXnEHJqDwWh1Et2hg0hFH"
       },
@@ -4854,6 +4880,28 @@
       "duration_ms": 162789,
       "name": "INFO.",
       "url": "https://open.spotify.com/track/7F8cjn7IEPqHMBoyoC13R4"
+    },
+    {
+      "album": {
+        "name": "Inner Voice",
+        "url": "https://open.spotify.com/album/5b2bUIsAZdmPcVqzPcBtpO"
+      },
+      "artists": [
+        {
+          "name": "JOLLY BOI",
+          "url": "https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM"
+        },
+        {
+          "name": "Dark Soul Studioz",
+          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Inner Voice",
+      "url": "https://open.spotify.com/track/20UtN1CWRt0Ob4EhYfvIk7"
     },
     {
       "album": {
@@ -6792,7 +6840,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 136956,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/2bKXg6Fcz45WsXO3J2pwVo"
@@ -8338,6 +8386,24 @@
       "duration_ms": 186486,
       "name": "Phulkari",
       "url": "https://open.spotify.com/track/5ZEedmsAn1QfRfMjKP4PrM"
+    },
+    {
+      "album": {
+        "name": "Pind Code",
+        "url": "https://open.spotify.com/album/5e4daQc95tNckB4d9eQW4e"
+      },
+      "artists": [
+        {
+          "name": "Rubab",
+          "url": "https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Pind Code",
+      "url": "https://open.spotify.com/track/2UsTPPfAXrayHLvCsfL4Yq"
     },
     {
       "album": {

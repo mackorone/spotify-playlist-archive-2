@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 188288,
       "name": "Available",
       "url": "https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm"
@@ -13990,6 +13990,32 @@
       "duration_ms": 142978,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
+    },
+    {
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        },
+        {
+          "name": "Fresera",
+          "url": "https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5"
+        },
+        {
+          "name": "Joel Bunjo Annointed",
+          "url": "https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395226,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA"
     },
     {
       "album": {

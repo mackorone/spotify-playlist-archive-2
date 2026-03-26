@@ -4,7 +4,7 @@
 
 > 
 
-250 songs - 14 hr 33 min
+251 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 | 2023-03-23 |  |
 | [Expansion](https://open.spotify.com/track/6NCLQheJJDquZfIXMlhZn8) | [CLFRD](https://open.spotify.com/artist/6YoGAC3Z4jQdZHFlGu8Hlo) | [Plastician Presents \- Wavepool 2](https://open.spotify.com/album/4fPasVJUT0Wp9skLi6EP3R) | 3:14 | 2019-09-28 |  |
 | [FADE](https://open.spotify.com/track/7bhUywrgoZaEWXidXmx9bI) | [WHITE KATANA](https://open.spotify.com/artist/5OtyZM8MxtHrYqOPxetwji), [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [FADE](https://open.spotify.com/album/07jHrZSDK22RASyH0wR99s) | 3:46 | 2018-11-28 |  |
+| [Fade Away](https://open.spotify.com/track/7Fcgid3E3CdTbIEGSxhoqi) | [BorrenFam](https://open.spotify.com/artist/17T9lCTLkB0j1nfkNzOAe6) | [Fade Away](https://open.spotify.com/album/1dMQtHlKqsxCq7nO1AJUMD) | 2:14 | 2026-03-25 |  |
 | [Faith \- Rdmptn Remix](https://open.spotify.com/track/2R1p12DEuwMxE2GHOATyRL) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx), [Rdmptn](https://open.spotify.com/artist/3CtFUcibI889CZ5wcikiUi) | [Faith \(Rdmptn Remix\)](https://open.spotify.com/album/7sIHKSjWuiiRM1gfzg2qDB) | 4:33 | 2021-08-04 |  |
 | [Fall Apart](https://open.spotify.com/track/4UKvtOuCVzFOSLuaRv2JIk) | [Tearz](https://open.spotify.com/artist/0uNg4OGi0R7A0tZDRzzJ8m) | [Fall Apart](https://open.spotify.com/album/5WXU9h3WguZGHGXj9ge2i2) | 3:07 | 2020-11-29 |  |
 | [Fallen Angel](https://open.spotify.com/track/6iKJAUeHx0saIoZ8z69Wam) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Øfdream: Anthology, Pt\. 1](https://open.spotify.com/album/5ErQ2Er5dxb26cG52Kizfj) | 3:56 | 2018-11-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29568,
+  "num_followers": 29576,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 159255,
-      "name": "SHAKE DAT",
-      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
       },
@@ -499,7 +479,27 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "AFTERPARTY",
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 159255,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "AFTERPARTY (Bruno)",
         "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
       },
       "artists": [
@@ -513,7 +513,7 @@
         }
       ],
       "duration_ms": 144069,
-      "name": "AFTERPARTY",
+      "name": "AFTERPARTY - Bruno",
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
@@ -591,7 +591,7 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "TOP TIER",
+        "name": "TOP TIER (SPACCONE)",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
       },
       "artists": [
@@ -601,7 +601,7 @@
         }
       ],
       "duration_ms": 122500,
-      "name": "TOP TIER",
+      "name": "TOP TIER - SPACCONE",
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "KERTES H\u00c1Z",
         "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "BE VAGYOK Z\u00c1RVA",
-        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 137614,
       "name": "Passport",
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
+        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
+      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "Felsz\u00e1ll\u00f3 \u00c1g",
         "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
       },
@@ -951,38 +971,18 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
-        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
       },
       "artists": [
         {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
         }
       ],
-      "duration_ms": 215000,
-      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
-      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
-        "name": "BOTR\u00c1NY",
-        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "BOTR\u00c1NY",
-      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
-      },
-      "artists": [
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
+        "name": "BOTR\u00c1NY",
+        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "BOTR\u00c1NY",
+      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 128140,
       "name": "Sex Music",
       "url": "https://open.spotify.com/track/1DV9ORV9593jJdv9QPUVOF"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -1255,7 +1255,7 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "NINTENDO",
+        "name": "NINTENDO (Bruno)",
         "url": "https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c"
       },
       "artists": [
@@ -1265,7 +1265,7 @@
         }
       ],
       "duration_ms": 126315,
-      "name": "NINTENDO",
+      "name": "NINTENDO - Bruno",
       "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
     },
     {
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
-        "name": "Europa",
-        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+        "name": "Aranybula",
+        "url": "https://open.spotify.com/album/5X7Ndo1wnRcKMEDWkt4Lp0"
       },
       "artists": [
         {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+          "name": "Pamkutya",
+          "url": "https://open.spotify.com/artist/1VuCKCfnGqboppigH0s2Jr"
         }
       ],
-      "duration_ms": 132927,
-      "name": "THC",
-      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
+      "duration_ms": 184800,
+      "name": "Aranybula",
+      "url": "https://open.spotify.com/track/2L5UIZlS4We7uc8bPnjNHi"
     },
     {
       "added_at": "2026-03-23 14:02:34",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-23 14:02:34",
       "album": {
+        "name": "Europa",
+        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "THC",
+      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
+    },
+    {
+      "added_at": "2026-03-23 14:02:34",
+      "album": {
         "name": "H\u0171tlen D\u00e9lib\u00e1b",
         "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 146526,
       "name": "10/10",
       "url": "https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta"
-    },
-    {
-      "added_at": "2026-03-23 14:02:34",
-      "album": {
-        "name": "Aranybula",
-        "url": "https://open.spotify.com/album/5X7Ndo1wnRcKMEDWkt4Lp0"
-      },
-      "artists": [
-        {
-          "name": "Pamkutya",
-          "url": "https://open.spotify.com/artist/1VuCKCfnGqboppigH0s2Jr"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Aranybula",
-      "url": "https://open.spotify.com/track/2L5UIZlS4We7uc8bPnjNHi"
     },
     {
       "added_at": "2026-03-23 14:02:34",

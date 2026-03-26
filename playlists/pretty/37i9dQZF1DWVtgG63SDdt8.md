@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,518 likes - 99 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,545 likes - 99 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 35 | [My Alabaster](https://open.spotify.com/track/0WQXaOoWPqPQ86m3CdM3gP) | [The Revelation Room](https://open.spotify.com/artist/1ApF5UVwTOchQqLMjFPtKu), [Luke Finch](https://open.spotify.com/artist/5B45Cy0OVCfwDu9Us1cCuR), [Grace Harvey](https://open.spotify.com/artist/1BztjJ7zbnLdpDJmsfLff9) | [VOL\. 1](https://open.spotify.com/album/3A7HFhCFB7tcCucmYREUhf) | 9:04 |
 | 36 | [Thank The Lord](https://open.spotify.com/track/0aUdDweqwGWSk5qHN7O4av) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Jami Garcia](https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz) | [House Of Worship](https://open.spotify.com/album/05xxkIx9f2zacGCUQ3x79C) | 4:12 |
 | 37 | [That's How I Know](https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [That's How I Know](https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU) | 3:39 |
-| 38 | [Ancient Of Days](https://open.spotify.com/track/0KitYonaaNZnKAbAYoclok) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Sing! From Generation To Generation](https://open.spotify.com/album/2XpeUhRUx1ONSU23lwDsTy) | 4:54 |
+| 38 | [Ancient Of Days](https://open.spotify.com/track/0KitYonaaNZnKAbAYoclok) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Sing! From Generation To Generation](https://open.spotify.com/album/2XpeUhRUx1ONSU23lwDsTy) | 4:54 |
 | 39 | [Leper's Song \(feat\. Whitney Baize Halsey\)](https://open.spotify.com/track/1fFFxjTmRp62aJJ9HscGPp) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Whitney Baize Halsey](https://open.spotify.com/artist/57NDMabcWpqkQzNn21TWc6) | [Leper's Song \(feat\. Whitney Baize Halsey\)](https://open.spotify.com/album/5OMgKssWrNIKD6jWzXkEqU) | 7:36 |
 | 40 | [COME OUT LAZARUS!](https://open.spotify.com/track/1SGXOCaASMx518upOnT7Gw) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [COME OUT LAZARUS!](https://open.spotify.com/album/3oIhCa6it0WZLx84B71eMW) | 3:38 |
 | 41 | [Home \- Live](https://open.spotify.com/track/3EbyBqzHen1vE9QsoLVz2d) | [MBL Worship](https://open.spotify.com/artist/4cSbFSuaWRrMexs7ywOZgO), [Sarah Voss](https://open.spotify.com/artist/0T0SyohAlV8McMNEJblwGO) | [Home \(Live\)](https://open.spotify.com/album/3VNLBoPTt46sgmnNyorR0m) | 7:38 |

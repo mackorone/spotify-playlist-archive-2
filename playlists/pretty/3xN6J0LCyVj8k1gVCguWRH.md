@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,009 likes - 179 songs - 10 hr 25 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,012 likes - 175 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 42 | [Keep Living Your Life](https://open.spotify.com/track/3Eq26IR0aRRnN1qCN8uiIT) | [Coyote Reverie](https://open.spotify.com/artist/7H9Yipb5FMtPZ00ukEEXu2) | [Keep Living Your Life](https://open.spotify.com/album/1CtlwhI2muX9HeLvuiasdU) | 4:14 |
 | 43 | [I Ain't Worried](https://open.spotify.com/track/6BWvZQWWkfoD7j41jYNHql) | [The Ruffcats](https://open.spotify.com/artist/53TOTyDr7fq6y0tR5wufER), [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [I Ain't Worried](https://open.spotify.com/album/7G6xaujV2Zld2vSo6816fZ) | 3:17 |
 | 44 | [Easy Street](https://open.spotify.com/track/2XPBPlY83gqs67hM2OgWVW) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Easy Street](https://open.spotify.com/album/1hzSK5QEs6G4LRtLzT6QIH) | 3:05 |
-| 45 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 45 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 46 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 |
 | 47 | [Slow Down](https://open.spotify.com/track/2uXlue5xX4tqp5P32lPR0G) | [Monsieur Mellow](https://open.spotify.com/artist/1VkZ1nRa12nZR0mqpnh5WZ), [Taj Ralph](https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4) | [Slow Down](https://open.spotify.com/album/0vinr0DYxX1HFACycssPqC) | 3:10 |
 | 48 | [Miriam](https://open.spotify.com/track/6dfLhFgPxD57R1KYJGmzss) | [Becca Hannah](https://open.spotify.com/artist/77BNxavx0FnuOTcmzkkSoK) | [Tonight In My Dreams](https://open.spotify.com/album/5GCJN8LOWo4jci6nEOIDAr) | 3:05 |
@@ -183,9 +183,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 173 | [Facetime "Teenie Tiny"](https://open.spotify.com/track/4UIogRQxb6R8JM7CEq9D3U) | [Hitmaker](https://open.spotify.com/artist/5osrsxcZIbVLpWbTTbHBHq) | [Facetime](https://open.spotify.com/album/2PRwtdoEkpt921vdR1AXvI) | 2:37 |
 | 174 | [from the start](https://open.spotify.com/track/2G7yAaR8xbACLgB9gZvspa) | [wigi!](https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU) | [Archives](https://open.spotify.com/album/0LPMUZ22PHcsPnK1Baxp3T) | 3:18 |
 | 175 | [HALO](https://open.spotify.com/track/1BAWAKOReuhzM54EiUV2ED) | [JRNXLST](https://open.spotify.com/artist/1q57dJ9KAYm2d4fEElnbNg) | [HALO](https://open.spotify.com/album/1FNhzTvzXi1woZqNrSsse1) | 4:00 |
-| 176 | [GDLT](https://open.spotify.com/track/3iSqqueKQEIJ3qfolvndLp) | [Nino Saint James](https://open.spotify.com/artist/6eE4aVtl7yxEXlU3igY1xd) | [GDLT](https://open.spotify.com/album/7wXoV5QpHgrKf6DQCrO9oM) | 2:42 |
-| 177 | [Durch Das Feuer](https://open.spotify.com/track/36onSaHO0VsQ63dcTilB8c) | [Jilly](https://open.spotify.com/artist/2rc9BcmKFsVGhddxuffhwX) | [Durch Das Feuer](https://open.spotify.com/album/2cPwHuvZ4KMarg7H7MR33G) | 3:25 |
-| 178 | [No Excuses](https://open.spotify.com/track/52UlJttVwuEPbgrhaR9yis) | [FAMGANG JAY](https://open.spotify.com/artist/0D6tIqapCJgUVrIPCBGpEA) | [Road to Mastery DLX](https://open.spotify.com/album/4uN7xJuSG8P3ZO9EtqlkgO) | 3:29 |
-| 179 | [Trabaye](https://open.spotify.com/track/7H9NwYfr5migCTcWo9zCem) | [DLA](https://open.spotify.com/artist/4HH86dyNU4Cqt6tVysvHQH), [Dave Tyma](https://open.spotify.com/artist/1rX3Er8rgcWm1W1sckpKBv) | [Straight from My Heart](https://open.spotify.com/album/20vnNhV5NooILh7952lGSl) | 2:59 |
 
-Snapshot ID: `AAA45S3m/yENy20aapJmFBLTwMqbBJrQ`
+Snapshot ID: `AAA45pjYnaSS0GuZz53H331gHqUwXhBs`

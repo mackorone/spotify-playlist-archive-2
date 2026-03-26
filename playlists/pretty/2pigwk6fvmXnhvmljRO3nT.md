@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,400 songs - 21 day 9 hr 52 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,413 songs - 21 day 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8408,5 +8408,18 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8398 | [ワガママMIRROR HEART](https://open.spotify.com/track/5CyHyrAW1RPip3ruorIWyo) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [PROGRESS](https://open.spotify.com/album/6zLtC2ZFNrCvsEkq4VEdsX) | 4:36 |
 | 8399 | [My Soul, Your Beats!](https://open.spotify.com/track/6czE5Nsi4SG2NPAufqxPMH) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Key+Lia Best 2001\-2010](https://open.spotify.com/album/5MgFWwnqo9OpN6ISUcIN1B) | 4:35 |
 | 8400 | [アイヲウタエ](https://open.spotify.com/track/4fNyKwXchDtiVwcf0ZPik5) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:09 |
+| 8401 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
+| 8402 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
+| 8403 | [Long Kiss Good Bye](https://open.spotify.com/track/5SPwzvYuJCkeXmbwi3lVID) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [TOKYO GROOVE](https://open.spotify.com/album/2Xgzxq7q3Voo8BavfiwbBe) | 4:03 |
+| 8404 | [Hare Bare Fanfare](https://open.spotify.com/track/3yzQfVwsvgXViLEookO45D) | [mimimemeMIMI](https://open.spotify.com/artist/1oe7fztyQ9gHt5kJ1t5BBK) | [I'd Like To Be Your Heroine.](https://open.spotify.com/album/0tUkEwN00hCILU3StNXml0) | 3:40 |
+| 8405 | [光の破片](https://open.spotify.com/track/5JdjDoDHqzQBIrOpUrXmAt) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [光の破片](https://open.spotify.com/album/426kqq1FtOSHh0vSbiBEAr) | 4:15 |
+| 8406 | [明日はきっといい日になる](https://open.spotify.com/track/5RixxUdYFbQeHppfSMQF5R) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [来し方行く末](https://open.spotify.com/album/6DKWKOyEGPbfcp2s1hQpVS) | 4:51 |
+| 8407 | [History Maker](https://open.spotify.com/track/5thv2ft3jvQBKgPKTkKvQm) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Stars of the Lid](https://open.spotify.com/album/7uHUG1gMT0ZZkn31bw1Hou) | 3:13 |
+| 8408 | [One Hand Message](https://open.spotify.com/track/6vko7uAerwtOPEk7i3xKTP) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Hello New World](https://open.spotify.com/album/5byvOpwxEqYXDvKlFKvWL9) | 3:28 |
+| 8409 | [Knew day](https://open.spotify.com/track/0kJ6AB4myHgn4DvZctmbMr) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「灰と幻想のグリムガル」 CD\-BOX『Grimgar, Ashes and Illusions ”BEST”』](https://open.spotify.com/album/3p8DslAqVsS9TMhW37a62l) | 3:56 |
+| 8410 | [Welcome トゥ 混沌](https://open.spotify.com/track/062w9DynFaHIsmNwhoFn90) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」](https://open.spotify.com/album/3HpH1n7caXlRq6133oIQ0Z) | 3:37 |
+| 8411 | [KUMAMIKO DANCING](https://open.spotify.com/track/3mpNg304TzVaDJ6F8xUWor) | [雨宿まち（CV:日岡なつみ）](https://open.spotify.com/artist/19W9l69LDPZfrVD4AOqcOR), [ナツ\(CV:安元洋貴\)](https://open.spotify.com/artist/7vE81dGj0NbXErfHB9WbtZ), [熊出村のみなさん](https://open.spotify.com/artist/5MJN2p1GTtkv2ovbgrDXvB) | [ENDING THEME FROM TV SERIES ”KUMAMIKO” KUMAMIKO DANCING](https://open.spotify.com/album/5CktALOZ84E4MmdmesgWbL) | 4:21 |
+| 8412 | [Morning Glory](https://open.spotify.com/track/2HqZntbPX2Zme30DPFao0V) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「サクラクエスト」CD\-BOX『SAKURA QUEST ”BEST”』](https://open.spotify.com/album/3lSBXkScB6r1Pu7sYaYhoI) | 3:43 |
+| 8413 | [ぐーちょきパレード](https://open.spotify.com/track/3lhB3JMbl5jECvNCt3r4u5) | [とりぷる▲ふぃーりんぐ](https://open.spotify.com/artist/1uaTtaIyAn1qNSXcNpZiDY) | [ぐーちょきパレード\(TVアニメ「三者三葉」エンディング・テーマ\)](https://open.spotify.com/album/6ZealGNHaE3aj2oa2uiY6Z) | 4:23 |
 
-Snapshot ID: `AAALbc+wLttYneZXGuExQOPEBxAkSCI1`
+Snapshot ID: `AAALeh1/0JjDcDqupHEQhVVGRM4wVdbu`

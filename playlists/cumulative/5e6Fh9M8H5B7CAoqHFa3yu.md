@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,023 songs - 5 day 0 hr 7 min
+2,028 songs - 5 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 | 2025-06-09 |  |
 | [Close](https://open.spotify.com/track/3VD3K1yTGF4bvqYddUhbS9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Close](https://open.spotify.com/album/2zeQG69Omrxy1bSrsrB3m7) | 2:55 | 2026-02-05 |  |
 | [Closer to Jah](https://open.spotify.com/track/1TOABTELrbUcgF9VmW53ZQ) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:38 | 2024-03-23 |  |
+| [Coffee](https://open.spotify.com/track/5GXyCj24iKfdoGUmAmtbg2) | [Ovi Caloni](https://open.spotify.com/artist/0inPbbC0PnvOpFPui3KQK7) | [Coffee](https://open.spotify.com/album/4H3e7U0UPU2x4RC3IT4Zd5) | 3:24 | 2026-03-25 |  |
 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 | 2026-01-16 |  |
 | [Coffee in London](https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in London](https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR) | 3:18 | 2026-03-20 |  |
 | [Coffee in Milano](https://open.spotify.com/track/4wsPvkuY4bHwXXYqExwgAh) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Milano](https://open.spotify.com/album/5CaZY1VbdJAJ7uIjMIwx2v) | 3:56 | 2025-10-17 |  |
@@ -803,6 +804,7 @@
 | [I Regret That Now](https://open.spotify.com/track/08lf1HK8B1nfCg51ZMCh6G) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:59 | 2025-10-26 |  |
 | [I Saw You Burn](https://open.spotify.com/track/4Q86bMh5hXc4Ew95w9Hi7D) | [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [I Saw You Burn](https://open.spotify.com/album/41Go2aP9lNmIDfKGvxpZwu) | 3:56 | 2024-03-04 |  |
 | [I That I](https://open.spotify.com/track/78iJPOFmQOs28jR92it9Cr) | [Raidio Tony](https://open.spotify.com/artist/78XTuE89tXERSbDscOB9Zy) | [R2024A](https://open.spotify.com/album/1d76Lwxku7MgjnXRkK42kg) | 2:52 | 2025-10-15 |  |
+| [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-25 |  |
 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2024-03-04 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
 | [I Wish](https://open.spotify.com/track/7pgjoLcAIiG5wf7Vbs6ToQ) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:32 | 2024-05-01 |  |
@@ -1012,6 +1014,7 @@
 | [Life Ain't No Easy](https://open.spotify.com/track/56pa53A7ykgzQ03ZWyslVU) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:06 | 2024-05-01 |  |
 | [Life and Death](https://open.spotify.com/track/74BPX9d28dZxrSSxpW79qg) | [Atossa](https://open.spotify.com/artist/2k1zRozo0VCPb7h3jcqCje) | [Life and Death](https://open.spotify.com/album/6riDH2Kjspqpj0aRuSSFd3) | 3:23 | 2026-01-09 |  |
 | [Life Giver](https://open.spotify.com/track/3lRoi8nA7KhagN9UYQLPcp) | [O.L.M.](https://open.spotify.com/artist/5ILLxboYauCyB25YEmfWor) | [Book Of Daniel](https://open.spotify.com/album/2XzXT3GWKksLTxcaCoQc6I) | 3:38 | 2024-03-25 |  |
+| [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 | 2026-03-25 |  |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2026-03-15 |  |
 | [Life in a Trance](https://open.spotify.com/track/0z1FdNC5zjBUbbCMIozWsX) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:31 | 2024-09-25 |  |
 | [Lifted \- Dub](https://open.spotify.com/track/2197x7hAKTe441x8MspFnu) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Zacheous Jackson](https://open.spotify.com/artist/5UdtdI2aqCEAoUizwEgGvz), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 5:16 | 2024-05-04 |  |
@@ -1031,6 +1034,7 @@
 | [Lions \- Dub](https://open.spotify.com/track/1Sj0PCApBLd0kPxHxGtJd9) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [From Genesis To Revelation](https://open.spotify.com/album/7CxtjOUUSEPlLgGqFMDqGU) | 3:55 | 2024-05-04 |  |
 | [Liquid Bass Conspiracy](https://open.spotify.com/track/4hjhmFMTnWZOChjvRv7Lpj) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Analog Dreams in Digital Times](https://open.spotify.com/album/5F1OlXndPmFIKrt4Y9K44m) | 3:47 | 2025-11-15 |  |
 | [Listening to the Dawn](https://open.spotify.com/track/1qTcmDLgy2ecIdTRGxI1St) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Listening to the Dawn](https://open.spotify.com/album/0mtQyB7Ki0yKflEUeJDsdN) | 3:01 | 2023-03-15 |  |
+| [Little Breaths of Earth](https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ) | [Wren West](https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU) | [Little Breaths of Earth](https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX) | 5:09 | 2026-03-25 |  |
 | [little one's breath](https://open.spotify.com/track/2DyDw9DJeoOft3sJ0VHgBl) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:39 | 2025-10-28 |  |
 | [little seed](https://open.spotify.com/track/2r3n8HZbZxjS158wigVMku) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:37 | 2025-10-28 |  |
 | [little star bright](https://open.spotify.com/track/5anzfIL1DBEM1t5qxjNaaw) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 1:32 | 2025-10-28 |  |
@@ -1051,6 +1055,7 @@
 | [Love & Respect](https://open.spotify.com/track/0Zk088xAy5u56sLo0jCoqL) | [Marlo G](https://open.spotify.com/artist/5xBknrb2vOF6IKEpvXY6ge) | [Love & Respect](https://open.spotify.com/album/0zXoA8yGF3ilY7wWjLEqTj) | 2:44 | 2025-10-07 |  |
 | [Love & War](https://open.spotify.com/track/2h50fiqBFxrtQ3GOjjlbqW) | [Sister Maki Band](https://open.spotify.com/artist/7895Yza9TW5LPPfWRz0F2H) | [Love & War](https://open.spotify.com/album/0ri29zWiUfH98y2wVVC2Ud) | 7:24 | 2024-04-27 |  |
 | [Love In My Head](https://open.spotify.com/track/6AKGpQQBhH4kDvAJmiSQj8) | [Butterfly International Day of Peace](https://open.spotify.com/artist/2cGOGYuQsqwZquuZxsxLaD) | [DIVA WITH GAMMA RAYS](https://open.spotify.com/album/4W1J5g3f9lV7wETlxb2Yvd) | 3:43 | 2025-07-02 |  |
+| [Love Is a Liar \(2024 Remastered Version\)](https://open.spotify.com/track/7ljXT4AJy1mRLFBxvH4D0U) | [Marc Tomé](https://open.spotify.com/artist/2y9La4af89lJQxN4UUwUEf) | [Marc Tomé \(2024 Remastered Version\)](https://open.spotify.com/album/539xmZHkPOLDGf1OykDTqG) | 3:38 | 2026-03-25 |  |
 | [Love Me](https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4) | [Dopamine](https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU), [EUFOREIGN](https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z), [Ch7nky](https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq), [Swaglone.mp4](https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp) | [Love Me](https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb) | 2:56 | 2026-02-16 |  |
 | [Love Not War](https://open.spotify.com/track/1nALCPKvmnZTXFmpPg81Wq) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:59 | 2024-05-01 |  |
 | [Love Version](https://open.spotify.com/track/35EWgBVErvAF2MRUtF6DiP) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 2](https://open.spotify.com/album/4fVqUY29YSEFx1B0yTR27Q) | 2:57 | 2024-05-01 |  |

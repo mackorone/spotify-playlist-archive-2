@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 13093,
+  "num_followers": 13104,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "African Time",
-        "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Thixo Akunangqalelo",
-      "url": "https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "nomthandazo",
         "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 232533,
       "name": "indlela",
       "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "African Time",
+        "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Thixo Akunangqalelo",
+      "url": "https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Hamba No Malume",
-        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 298346,
-      "name": "Hamba No Malume",
-      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "A Dance More Sweetly Played",
         "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 384853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Hamba No Malume",
+        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 298346,
+      "name": "Hamba No Malume",
+      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "At This Point in Time: Voices in Volumes",
-        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 484551,
-      "name": "Wozani Nonke Sizothandaza",
-      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Love Drive",
         "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 274091,
       "name": "Love Drive",
       "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "At This Point in Time: Voices in Volumes",
+        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 484551,
+      "name": "Wozani Nonke Sizothandaza",
+      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
         "name": "Our People",
         "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 311750,
       "name": "War",
       "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ANXIOUSLY PREOCCUPIED",
-        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
-      },
-      "artists": [
-        {
-          "name": "giuliette price",
-          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "speak now",
-      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -635,6 +619,42 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "ANXIOUSLY PREOCCUPIED",
+        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
+      },
+      "artists": [
+        {
+          "name": "giuliette price",
+          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "speak now",
+      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -667,26 +687,6 @@
       "duration_ms": 210666,
       "name": "Bawo Ndi Xolele (Hymn)",
       "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
       "artists": [
         {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
         }
       ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -887,18 +883,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
       "artists": [
         {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+      "duration_ms": 270120,
+      "name": "Ngeke!",
+      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     },
     {
       "added_at": "2026-03-13 08:01:55",

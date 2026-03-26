@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Derxan",
-  "num_followers": 190175,
+  "num_followers": 190186,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-03-20 03:01:03",
       "album": {
-        "name": "Seu Poder",
-        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 222169,
-      "name": "Seu Poder",
-      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
-    },
-    {
-      "added_at": "2026-03-20 03:01:03",
-      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 200405,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+    },
+    {
+      "added_at": "2026-03-20 03:01:03",
+      "album": {
+        "name": "Seu Poder",
+        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 222169,
+      "name": "Seu Poder",
+      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
     },
     {
       "added_at": "2026-03-20 03:01:03",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2026-03-20 03:01:03",
       "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
       },
       "artists": [
         {
           "name": "shiso",
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-03-20 03:01:03",
@@ -1175,6 +1179,26 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+    },
+    {
+      "added_at": "2026-03-20 03:01:03",
+      "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-03-20 03:01:03",
@@ -1207,26 +1231,6 @@
     {
       "added_at": "2026-03-20 03:01:03",
       "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
-    },
-    {
-      "added_at": "2026-03-20 03:01:03",
-      "album": {
         "name": "Lesgo",
         "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2026-03-20 03:01:03",
       "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
       },
       "artists": [
         {
           "name": "shiso",
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
         }
       ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
     },
     {
       "added_at": "2026-03-20 03:01:03",

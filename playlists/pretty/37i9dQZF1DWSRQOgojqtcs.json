@@ -1,13 +1,29 @@
 {
   "description": "Love, sex, and heartbreak. Listen to the official playlist for Heartbreak High, now on Netflix.\n",
-  "num_followers": 51242,
+  "num_followers": 51531,
   "original_name": "Heartbreak High: Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERXpzW2pkifb0KwkHmZVJl+3eRs",
+  "snapshot_id": "AAAAAI0oS2kcUKmOyrAB3Bn33Yf8tHPx",
   "tracks": [
+    {
+      "added_at": "2026-03-25 14:12:24",
+      "album": {
+        "name": "STAMPEDE",
+        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "STAMPEDE",
+      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
+    },
     {
       "added_at": "2026-03-23 20:00:03",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11594,
+  "num_followers": 11596,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-23 03:08:48",
       "album": {
-        "name": "To.",
-        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "dear my loves",
-      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
-    },
-    {
-      "added_at": "2026-03-23 03:08:48",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-03-23 03:08:48",
       "album": {
+        "name": "To.",
+        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "dear my loves",
+      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
+    },
+    {
+      "added_at": "2026-03-23 03:08:48",
+      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2026-03-23 03:08:48",
@@ -783,8 +783,8 @@
     {
       "added_at": "2026-03-23 03:08:48",
       "album": {
-        "name": "Diary",
-        "url": "https://open.spotify.com/album/75dsAreQtSJNsp2HPw2ViK"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 213847,
-      "name": "Diary",
-      "url": "https://open.spotify.com/track/0vhWlFD7OuYack7ubf4srG"
+      "duration_ms": 191945,
+      "name": "of the waves",
+      "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
     },
     {
       "added_at": "2026-03-23 03:08:48",
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

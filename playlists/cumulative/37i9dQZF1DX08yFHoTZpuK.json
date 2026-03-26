@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Keep us in the loop",
+        "url": "https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Keep us in the loop",
+      "url": "https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex"
+    },
+    {
+      "album": {
         "name": "KURU KURU HARAJUKU",
         "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 264473,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo"
@@ -948,6 +966,24 @@
       "duration_ms": 284333,
       "name": "Polynasia",
       "url": "https://open.spotify.com/track/3Ubzwa9vQ7PKGA7pn9A9nC"
+    },
+    {
+      "album": {
+        "name": "PYFPDD",
+        "url": "https://open.spotify.com/album/7CikTOp0SBBM2x2AWdBEhw"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221290,
+      "name": "PYFPDD",
+      "url": "https://open.spotify.com/track/6sJbKZbCcDvF4udMdtf9uE"
     },
     {
       "album": {
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 319452,
       "name": "SynthScale",
       "url": "https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b"

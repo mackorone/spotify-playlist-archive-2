@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-870 songs - 2 day 0 hr 44 min
+871 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-03-13 |  |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-09-27 | 2024-11-22 |
 | [Jagna](https://open.spotify.com/track/5a4jziec5vsP0ktnRZ5KcQ) | [L.U.C.](https://open.spotify.com/artist/1GRpnNhXWlNMgnFf3NqEjv), [Rebel Babel Film Orchestra](https://open.spotify.com/artist/15YEBTmw6GtgzijvG84ynv) | [Chłopi \(Original Soundtrack\)](https://open.spotify.com/album/4bNiBmPncdmzzWdeUSs7DF) | 1:47 | 2025-09-15 | 2025-09-20 |
+| [Jak to jest](https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Jak to jest](https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO) | 3:32 | 2026-03-20 |  |
 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 | 2024-08-20 | 2024-11-22 |
 | [jakby co, to dzwoń](https://open.spotify.com/track/0C3PjVD7octHIivBMmHKSS) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [jakby co, to dzwoń](https://open.spotify.com/album/2o0THpAArDAx3lVksJ58Sn) | 3:25 | 2024-10-25 | 2024-11-09 |
 | [JAKBY JUTRA MIAŁO NIE BYĆ](https://open.spotify.com/track/32RXEFUIE21OJkIy57jOTU) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:48 | 2025-04-25 | 2025-08-08 |
@@ -541,7 +542,7 @@
 | [PAMIĘTAM JAK](https://open.spotify.com/track/3EY2EP0MhMDEMBy4rV6wq1) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:24 | 2025-05-31 | 2025-09-16 |
 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 | 2026-03-13 |  |
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 | 2024-11-22 |
-| [Panienka](https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Panienka](https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x) | 2:49 | 2026-03-13 |  |
+| [Panienka](https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Panienka](https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x) | 2:49 | 2026-03-13 | 2026-03-26 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-07 | 2024-11-22 |
 | [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 | 2024-09-27 | 2024-10-08 |
 | [parasol](https://open.spotify.com/track/6alJAmpYqrl0m6vIIKXwBX) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [parasol](https://open.spotify.com/album/56fkaFJUpQ47XriXEbTHqa) | 3:22 | 2024-10-17 | 2024-10-26 |

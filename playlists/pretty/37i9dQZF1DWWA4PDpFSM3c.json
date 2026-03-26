@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 102537,
+  "num_followers": 102566,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -517,6 +517,26 @@
       "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
     },
     {
+      "added_at": "2026-02-20 08:00:30",
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 244010,
+      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
+    },
+    {
       "added_at": "2023-03-03 17:11:01",
       "album": {
         "name": "Phalana Abbayi Phalana Ammayi",
@@ -539,26 +559,6 @@
       "duration_ms": 261012,
       "name": "Kanula Chatu Meghama",
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
-    },
-    {
-      "added_at": "2026-02-20 08:00:30",
-      "album": {
-        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 244010,
-      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
-      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
     },
     {
       "added_at": "2024-08-28 12:46:30",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
     },
     {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "Geetha Govindam",
-        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Yenti Yenti",
-      "url": "https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT"
-    },
-    {
       "added_at": "2022-09-02 08:32:31",
       "album": {
         "name": "Mahanati",
@@ -979,6 +963,22 @@
       "duration_ms": 197589,
       "name": "Sada Nannu",
       "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "Geetha Govindam",
+        "url": "https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Yenti Yenti",
+      "url": "https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT"
     },
     {
       "added_at": "2022-09-02 08:32:31",

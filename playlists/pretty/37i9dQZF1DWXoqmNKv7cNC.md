@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas a todo volumen! The Warning en portada 💚
+> ¡Mujeres mexicanas a todo volumen! FLVCKKA en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,796 likes - 160 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,880 likes - 160 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 6 | [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 |
 | 7 | [Otra Noche de Llorar](https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:39 |
 | 8 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 |
-| 9 | [XT4S1S](https://open.spotify.com/track/0Gv8aRFmJDfzgIaJAuJ4ZF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Verano Danna](https://open.spotify.com/album/169hGsYdZtmGkNayeeQPeg) | 3:39 |
+| 9 | [XT4S1S](https://open.spotify.com/track/0Gv8aRFmJDfzgIaJAuJ4ZF) | [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Verano Danna](https://open.spotify.com/album/169hGsYdZtmGkNayeeQPeg) | 3:39 |
 | 10 | [Tiempos Dorados](https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tiempos Dorados](https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA) | 3:13 |
 | 11 | [QUERIDA AMALIA:](https://open.spotify.com/track/2EjSwMDWaiaoD9KNEqgMMO) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 3:39 |
 | 12 | [Dime](https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:40 |

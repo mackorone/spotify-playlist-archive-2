@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,138 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,147 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 39 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |
 | 40 | [NOT ME](https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:35 |
 | 41 | [Whatever](https://open.spotify.com/track/7vpZhXMFk3SgcljMZ1xWYC) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [Gangsta Grillz: E.M.N.T \- The Credits](https://open.spotify.com/album/2w0jwPdSW05hCec0BFdz1T) | 3:04 |
-| 42 | [Ghetto](https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Tru Carr](https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ) | [Ghetto](https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3) | 2:10 |
+| 42 | [Ghetto](https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [TruCarr](https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ) | [Ghetto](https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3) | 2:10 |
 | 43 | [Crestside](https://open.spotify.com/track/0xtJIZQhWI37q31lAN7MEp) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE) | [DBoii Ali](https://open.spotify.com/album/4y0tsKyWPFGwHRQbL05DQd) | 2:25 |
 | 44 | [East 2 Da Norf \(feat\. Rucci & D3szn\)](https://open.spotify.com/track/2SV4QQlL9PDKRryX3cTZWz) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn) | [East 2 Da Norf \(feat\. Rucci & D3szn\)](https://open.spotify.com/album/3aIji3gF3g1Q2nZAycarSd) | 3:08 |
 | 45 | [Pesos](https://open.spotify.com/track/5bIXou8W0DdkmU8wmvm4Td) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj) | [Pesos](https://open.spotify.com/album/6NuPTTtnZrQF42ErcBJuGr) | 2:19 |

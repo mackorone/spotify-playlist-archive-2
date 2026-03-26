@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lunar June. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lamb. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 136615,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/5BA49nnwr6bcOqerRPMCiA"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 145129,
       "name": "Almost Did",
       "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 285972,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf"
@@ -4447,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Architect",
+        "url": "https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163198,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
+    },
+    {
+      "album": {
         "name": "are u gonna",
         "url": "https://open.spotify.com/album/5E5dAZJf6Z5FN17pbU3C61"
       },
@@ -4606,6 +4624,24 @@
       "duration_ms": 169080,
       "name": "Arr\u00eate de danser",
       "url": "https://open.spotify.com/track/3mjId5WhDjtDr57YGuGv97"
+    },
+    {
+      "album": {
+        "name": "Arsonist",
+        "url": "https://open.spotify.com/album/3IMet7aJDP08AADNvsWdtM"
+      },
+      "artists": [
+        {
+          "name": "Seanna Pereira",
+          "url": "https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182676,
+      "name": "Arsonist",
+      "url": "https://open.spotify.com/track/0RsEcELExwIYLuQPbP5Zjy"
     },
     {
       "album": {
@@ -11031,6 +11067,24 @@
     },
     {
       "album": {
+        "name": "Burning House",
+        "url": "https://open.spotify.com/album/21BkNmEUShxqfQq8OFZewA"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
+    },
+    {
+      "album": {
         "name": "Burning Trees",
         "url": "https://open.spotify.com/album/1T7igMGRZDjgKA9bxt0mD8"
       },
@@ -16360,7 +16414,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 148352,
       "name": "cycles",
       "url": "https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268"
@@ -21649,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
+      "album": {
         "name": "Even If I Could (I Wouldn't)",
         "url": "https://open.spotify.com/album/6zAUXljBqlqaRckpxMxTOh"
       },
@@ -22446,7 +22518,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 158980,
       "name": "Face Like Yours",
       "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
@@ -25418,6 +25490,24 @@
       "duration_ms": 240341,
       "name": "Forgive You",
       "url": "https://open.spotify.com/track/0seg1XlWx0SZ8OiBPMv8kD"
+    },
+    {
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "album": {
@@ -30366,7 +30456,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 234661,
       "name": "HEARTSONG",
       "url": "https://open.spotify.com/track/5nhN7hPsP3kPY5Q7vXut1M"
@@ -32312,6 +32402,24 @@
       "duration_ms": 263658,
       "name": "Honey",
       "url": "https://open.spotify.com/track/14eK2sQJqLajRdY7uVI8Ps"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/1MmZO7iSto3uDpNgYdLrOW"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm"
     },
     {
       "album": {
@@ -35145,6 +35253,24 @@
     },
     {
       "album": {
+        "name": "I SEE STARS",
+        "url": "https://open.spotify.com/album/2SCOXLRicTMygItg8Ov5JP"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168564,
+      "name": "I SEE STARS",
+      "url": "https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3"
+    },
+    {
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/5ETawageyvGD6MhKFuEgND"
       },
@@ -36294,7 +36420,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 141146,
       "name": "i, february",
       "url": "https://open.spotify.com/track/2wgRHsMq6bbA1fh4k5tzja"
@@ -37996,6 +38122,24 @@
       "duration_ms": 216000,
       "name": "IRIDESCENT",
       "url": "https://open.spotify.com/track/0n9ML0LBpbgUuGmajWMCba"
+    },
+    {
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "album": {
@@ -41724,7 +41868,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 179692,
       "name": "LIGHTKEEPER",
       "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
@@ -49006,7 +49150,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 167654,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
@@ -49258,7 +49402,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 153700,
       "name": "Navel",
       "url": "https://open.spotify.com/track/5gbsQy66jCC97jlSQqN7CL"
@@ -52031,6 +52175,24 @@
     },
     {
       "album": {
+        "name": "OhYeh",
+        "url": "https://open.spotify.com/album/2dikOa2VYcbySCDEiosMxZ"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166201,
+      "name": "OhYeh",
+      "url": "https://open.spotify.com/track/6Lxa6MXt1jf8exZ9XH9Imi"
+    },
+    {
+      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/76MulsxJQcZuCf9EphKOi1"
       },
@@ -52410,7 +52572,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 195149,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9"
@@ -52850,7 +53012,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 162046,
       "name": "Options",
       "url": "https://open.spotify.com/track/79U1nhqDGYttoZimTCGVh7"
@@ -53528,7 +53690,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 120000,
       "name": "overkill",
       "url": "https://open.spotify.com/track/1XvxQuBL7HgmrZlWxHqwlA"
@@ -61520,7 +61682,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 127821,
       "name": "selfish",
       "url": "https://open.spotify.com/track/2ZSmYz3VBxiWAmWLcAhU5K"
@@ -61636,6 +61798,24 @@
       "duration_ms": 183890,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/4sqHszlsjKzLYTAnJpB1E0"
+    },
+    {
+      "album": {
+        "name": "september bby",
+        "url": "https://open.spotify.com/album/7zfAKNW178iXHGjm3Geqi6"
+      },
+      "artists": [
+        {
+          "name": "francene rouelle",
+          "url": "https://open.spotify.com/artist/17RvyiqL4E1d6ecKdJ2x9R"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112271,
+      "name": "september bby",
+      "url": "https://open.spotify.com/track/13VjuEXFmqLCuQ6mNZs8FJ"
     },
     {
       "album": {
@@ -73808,7 +73988,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 163250,
       "name": "TV",
       "url": "https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL"
@@ -79412,7 +79592,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 167065,
       "name": "Won't Be Me",
       "url": "https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF"
@@ -79502,7 +79682,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 157413,
       "name": "Words You Can Twist",
       "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"

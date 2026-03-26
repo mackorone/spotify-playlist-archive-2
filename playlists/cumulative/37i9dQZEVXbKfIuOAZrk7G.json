@@ -6882,7 +6882,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -16428,7 +16428,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -41774,7 +41774,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -42436,7 +42436,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 180123,
       "name": "Irish Pub Song",
       "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
@@ -45538,7 +45538,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 152305,
       "name": "Killeagh",
       "url": "https://open.spotify.com/track/7uxXHzBLTxXmFwwNsra0DL"
@@ -47736,6 +47736,24 @@
       "duration_ms": 146878,
       "name": "lemme land?",
       "url": "https://open.spotify.com/track/4Fmr4dbY1sZiX77ZbljNFC"
+    },
+    {
+      "album": {
+        "name": "Lemon Pound Cake",
+        "url": "https://open.spotify.com/album/65guRv8rg6TwPqnDYKtXwj"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188342,
+      "name": "Lemon Pound Cake",
+      "url": "https://open.spotify.com/track/21nC1okP6wB2jxXt2IMkoM"
     },
     {
       "album": {
@@ -59671,6 +59689,24 @@
     },
     {
       "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
+    },
+    {
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -70334,7 +70370,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 218986,
       "name": "Rocky Road to Dublin",
       "url": "https://open.spotify.com/track/1esmJ8t2PRbYt2yMx2aSEW"
@@ -81678,7 +81714,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 163200,
       "name": "Tell Me Ma",
       "url": "https://open.spotify.com/track/0Z3p6q8nol4dlf3b0WRI1a"
@@ -83254,7 +83290,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 321893,
       "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/054D5EaNJTeQfPSs0UbH0F"
@@ -83298,7 +83334,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 180520,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA"
@@ -84298,7 +84334,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 196720,
       "name": "The Rocky Road To Dublin",
       "url": "https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1"
@@ -86324,7 +86360,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 244973,
       "name": "Tohogd",
       "url": "https://open.spotify.com/track/664mxd7tkS4Nc1ktjuY6C2"
@@ -90440,6 +90476,24 @@
       "duration_ms": 227612,
       "name": "VVV",
       "url": "https://open.spotify.com/track/71H5M1aGUJCEkjxinQWBW2"
+    },
+    {
+      "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/0lL67XdTYaVblCZirwT4YL"
+      },
+      "artists": [
+        {
+          "name": "sweetiele",
+          "url": "https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/26bd5mHcE3k4Z6gdwg3bbO"
     },
     {
       "album": {

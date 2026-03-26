@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-667 songs - 1 day 15 hr 13 min
+668 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
 | [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 | 2024-02-21 |
 | [Umbrella](https://open.spotify.com/track/0o18OyyGIciA1QbaSWiMm0) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Fractal](https://open.spotify.com/album/7nRBNnnHayboasRapn3I91) | 2:56 | 2024-08-10 | 2024-08-23 |
+| [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 | 2026-03-26 |  |
 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 | 2025-07-11 | 2025-08-19 |
 | [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 | 2025-09-02 |
 | [Us \- Acoustic](https://open.spotify.com/track/2VzMN0k5UMrv8xUQFFpVFI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0 \(Acoustic\)](https://open.spotify.com/album/0T7A42knWzQPbhaROLloi6) | 4:06 | 2025-10-10 | 2025-11-14 |
@@ -628,7 +629,7 @@
 | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/album/7v0pFPnfFlTIiXxWXQipYZ) | 3:33 | 2021-12-10 | 2022-07-12 |
 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 | 2022-06-29 | 2022-08-13 |
 | [You're My Spring](https://open.spotify.com/track/2tbeDFuG6El0xAAXF82i7O) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 4:19 | 2022-03-31 | 2022-04-19 |
-| [Young & Naive](https://open.spotify.com/track/6FY6JISyIYFJ8JkN0hIgYP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Curtain Up, Class, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0FrES663wkOIWcoZHrD6E3) | 3:20 | 2026-03-13 |  |
+| [Young & Naive](https://open.spotify.com/track/6FY6JISyIYFJ8JkN0hIgYP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Curtain Up, Class, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0FrES663wkOIWcoZHrD6E3) | 3:20 | 2026-03-13 | 2026-03-26 |
 | [Your Name](https://open.spotify.com/track/7ktr6eDv82BxdKjrN8a3YX) | [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU) | [Your Name](https://open.spotify.com/album/2sugn3G1j8pM001aTlCkXh) | 2:41 | 2023-06-13 | 2023-07-08 |
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-31 | 2022-04-19 |
 | [Your sea \(Acc ver.\)](https://open.spotify.com/track/7gAcFTyzB81ACPs299HS4M) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:16 | 2021-12-10 | 2022-06-17 |

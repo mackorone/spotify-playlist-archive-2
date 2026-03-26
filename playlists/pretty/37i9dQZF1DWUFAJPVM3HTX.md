@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=w0d3EUWjRWq\-7HEB4xjW\-g">Isaiah Kaleo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,992 likes - 193 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,030 likes - 193 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 56 | [DAYDREAM](https://open.spotify.com/track/5znWm5VPJg7E3vwFMalXed) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h) | [DAYDREAM](https://open.spotify.com/album/2pJ4Rz0hds8wVuo5PrSYHA) | 2:32 |
 | 57 | [FIGURED YOU OUT](https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR) | [Devkota](https://open.spotify.com/artist/5e48iUv2r7DgotDwhI9Ulm) | [FIGURED YOU OUT](https://open.spotify.com/album/1vVgp9NEKp3kM3tR4h5DYX) | 2:14 |
 | 58 | [Passport](https://open.spotify.com/track/5A3NYWleEF8IiihYxjakIg) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Passport](https://open.spotify.com/album/34nvulEEywAowu33bsTj4I) | 2:26 |
-| 59 | [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 |
+| 59 | [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 |
 | 60 | [HYPNOTIC](https://open.spotify.com/track/3C8HvNZG1E9EiYmq9Vd9Bm) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [HYPNOTIC](https://open.spotify.com/album/7AuHGq4uur6qqmyW3AqUuW) | 3:18 |
 | 61 | [Come \(Aana\)](https://open.spotify.com/track/62kC69jJDPRvPTOLn8g7tK) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3) | [Come \(Aana\)](https://open.spotify.com/album/0Quw9s5CM27F0ZSn5Zo3gx) | 1:45 |
 | 62 | [Before We Get In Here!](https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Ratchet & Blues](https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd) | 3:14 |

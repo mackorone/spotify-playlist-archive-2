@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 198007,
       "name": "Feeling the Love/Did I Mention Mashup - From \"Descendants\"",
       "url": "https://open.spotify.com/track/68yTaOgIkcHnpw6KQcvhJO"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 213983,
       "name": "Flesh & Bone",
       "url": "https://open.spotify.com/track/72SvoAUIQnaPJIzEspcgW6"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 98899,
       "name": "Heartstomper",
       "url": "https://open.spotify.com/track/2jjNCDLZoljRG90Rel7J73"
@@ -1960,6 +1960,24 @@
       "duration_ms": 229813,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "If We Were A Movie - From \"Hannah Montana\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/52Dw5hXeylenurLTKoFJfZ"
     },
     {
       "album": {
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 232099,
       "name": "Love Is a Battlefield - From \"Prom Pact\"",
       "url": "https://open.spotify.com/track/7wRbxubdMNYHPFMi6hEeP2"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 193924,
       "name": "Music Is Everything",
       "url": "https://open.spotify.com/track/1V0idezZm2qHnlnieAsYv7"
@@ -2786,6 +2804,24 @@
       "duration_ms": 135711,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/6vU3RXPRPw5F5EINuMQ3CD"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7c223RltkvhN8wrxIqspM5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Maluma, Arcángel & NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,572 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,607 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 16 | [Pal Beauty](https://open.spotify.com/track/6RDIFBEargtm4c6W7EWxgo) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Pal Beauty](https://open.spotify.com/album/3NWEENgAhNeVg1wFy6yTOA) | 3:30 |
 | 17 | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
 | 18 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 |
-| 19 | [Ma \- Ma](https://open.spotify.com/track/5F1C1568Lxy8jag5EV4VAY) | [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ma \- Ma](https://open.spotify.com/album/29ilZsAwFT8vbjxItaglUr) | 2:25 |
+| 19 | [Ma \- Ma](https://open.spotify.com/track/5F1C1568Lxy8jag5EV4VAY) | [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Ma \- Ma](https://open.spotify.com/album/29ilZsAwFT8vbjxItaglUr) | 2:25 |
 | 20 | [1y1000](https://open.spotify.com/track/5eKR2HZLPLBCvYEd7RbI0Y) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1) | [1y1000](https://open.spotify.com/album/1dzsGQaUwIn2PJLjUfSBaB) | 4:18 |
 | 21 | [Bugutu](https://open.spotify.com/track/5MRiM0rrx9ORwBGlNq6H0O) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [La Liga Femenina](https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR) | 2:32 |
 | 22 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:45 |

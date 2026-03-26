@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Fern., Al James, O SIDE MAFIA, Because",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Yuridope",
   "name": "KALYE",
   "tracks": [
     {
@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 141461,
       "name": "ALL NIGHT LONG",
       "url": "https://open.spotify.com/track/2nRL6TyECRS4enVo2npLYb"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211218,
       "name": "fujiko",
       "url": "https://open.spotify.com/track/3kL2bSDX3PbeUidTshtMxr"
@@ -3024,6 +3024,24 @@
       "duration_ms": 256695,
       "name": "Hiling Malambing",
       "url": "https://open.spotify.com/track/3j4VMAicreIHM17BuFABCe"
+    },
+    {
+      "album": {
+        "name": "Hindi Pwede",
+        "url": "https://open.spotify.com/album/7bdxfEnIiOZIpgaLIWvcsl"
+      },
+      "artists": [
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171404,
+      "name": "Hindi Pwede",
+      "url": "https://open.spotify.com/track/0Mmy4nQ67MIposiYplapb9"
     },
     {
       "album": {
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 186666,
       "name": "Kanta Sa Kanya",
       "url": "https://open.spotify.com/track/6WgEj1Oxvi9TVIJbUVxZiZ"
@@ -4408,7 +4426,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 152165,
       "name": "Mabisang Pinay",
       "url": "https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8"
@@ -5281,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "One Take Freestyle",
+        "url": "https://open.spotify.com/album/2RonnwShEg5Rar64N29qwn"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "One Take Freestyle",
+      "url": "https://open.spotify.com/track/4NWS9UWEiVkbh0lzhO0grt"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re"
       },
@@ -5526,6 +5562,24 @@
       "duration_ms": 195388,
       "name": "PANO KAYA",
       "url": "https://open.spotify.com/track/7lsL6LS8Lqrn5WVC1ngWCJ"
+    },
+    {
+      "album": {
+        "name": "Pano Na",
+        "url": "https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200878,
+      "name": "Pano Na",
+      "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
     },
     {
       "album": {
@@ -5842,7 +5896,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211875,
       "name": "Problema Mo Na Yan",
       "url": "https://open.spotify.com/track/1C3maMthKx0q9NoR9dC55n"
@@ -6002,6 +6056,24 @@
       "duration_ms": 198688,
       "name": "Pusher",
       "url": "https://open.spotify.com/track/6ukL4PEcXzWfADXyOFcOpU"
+    },
+    {
+      "album": {
+        "name": "Pwede Ba",
+        "url": "https://open.spotify.com/album/7MarpDD9uqHMWDMqi8L9Fd"
+      },
+      "artists": [
+        {
+          "name": "4Ricx",
+          "url": "https://open.spotify.com/artist/28kQkwweJ1oeztqvZ68E0F"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Pwede Ba",
+      "url": "https://open.spotify.com/track/4W0gc9ndREnXogNsOCirF9"
     },
     {
       "album": {
@@ -8138,6 +8210,24 @@
       "duration_ms": 161798,
       "name": "WINSTON REDS 2",
       "url": "https://open.spotify.com/track/0z6ydoj3EzUiUmTO3QduzU"
+    },
+    {
+      "album": {
+        "name": "PABLO: FLOOD THE STREETS MIXTAPE",
+        "url": "https://open.spotify.com/album/0sD9Rae5zpbPxOPUUAwjPX"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223499,
+      "name": "YASAPWAY",
+      "url": "https://open.spotify.com/track/2zLUK0PjtsUUcdk07FDbcv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 695 songs - 1 day 21 hr 22 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 694 songs - 1 day 21 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -696,12 +696,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 686 | [Walk Out Music](https://open.spotify.com/track/0FGRz6asyUOpTylt60xEXd) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:20 |
 | 687 | [Famous Last Words](https://open.spotify.com/track/1axXy2bgUSeEN7h6Ob9Qbo) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 4:16 |
 | 688 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
-| 689 | [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 |
-| 690 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
-| 691 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |
-| 692 | [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 |
-| 693 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
-| 694 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
-| 695 | [Traffick](https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [RASLA](https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd) | [Drive\-in Cinema 2.1](https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM) | 0:47 |
+| 689 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
+| 690 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |
+| 691 | [Talking Quietly of Anything With You](https://open.spotify.com/track/6HU2oa7iUt5C98eSAOIXxj) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:25 |
+| 692 | [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 |
+| 693 | [Traffick](https://open.spotify.com/track/3IrKrhqbRwrVwfWgVd2Nya) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [RASLA](https://open.spotify.com/artist/1VkN0dMJAEpgXQrjU42KMd) | [Drive\-in Cinema 2.1](https://open.spotify.com/album/6cojhL5vnV2GCg3RaZz5bM) | 0:47 |
+| 694 | [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 |
 
-Snapshot ID: `AAAI0sFUFW43B2oa1mr0QimynDAzE954`
+Snapshot ID: `AAAI1eCtfkG37kodfXZrjFLnvhuKZjWC`

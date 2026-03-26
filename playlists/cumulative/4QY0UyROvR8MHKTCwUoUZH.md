@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4QY0UyROvR8MHKTCwUoUZH.md) - cumulative - [plain](/playlists/plain/4QY0UyROvR8MHKTCwUoUZH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4QY0UyROvR8MHKTCwUoUZH)
 
-### [Koffietijd  ☕\| Coffee Lounge 2026 \| Koffiehuis \| Morning Chill ☕](https://open.spotify.com/playlist/4QY0UyROvR8MHKTCwUoUZH)
+### [Koffietijd  ☕ \| Coffee Lounge 2026 \| Koffiehuis \| Morning Chill](https://open.spotify.com/playlist/4QY0UyROvR8MHKTCwUoUZH)
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 

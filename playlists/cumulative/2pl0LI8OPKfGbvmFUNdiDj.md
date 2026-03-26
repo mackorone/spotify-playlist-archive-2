@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-402 songs - 22 hr 33 min
+403 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-17 | 2026-02-21 |
 | [Unseen](https://open.spotify.com/track/4PNJKxfbMdy8ecH9IfHlm9) | [Dascar](https://open.spotify.com/artist/1iZBGqKBPdZhVYt8O7DkHv) | [Unseen](https://open.spotify.com/album/2p6xnyiunmNlFoqXuJpUyl) | 3:23 | 2025-11-30 | 2026-01-05 |
 | [Up on the Map \(Bonus\)](https://open.spotify.com/track/1ipZmDA8TRSdWE1X1I2rU1) | [TUFF Cookie Productions](https://open.spotify.com/artist/3hG8Zkj1Vwzrg2LqiPfELU), [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [TUFF Cookie All\-Stars, Vol\. 1](https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y) | 2:39 | 2025-11-11 | 2025-12-01 |
+| [Vacío](https://open.spotify.com/track/25iohMwQe32vaFBdLdIPmx) | [Ay!Pod](https://open.spotify.com/artist/7iooJ1Ud7b6jKPnoaDu0mz) | [Vacío](https://open.spotify.com/album/6DmBFlKWiUukKLkYobKww9) | 3:29 | 2026-03-25 |  |
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-10 |  |

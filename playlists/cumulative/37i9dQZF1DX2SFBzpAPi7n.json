@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc74c\uc728 (UmYull)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Xdinary Heroes) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
@@ -7172,7 +7172,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 211581,
       "name": "HELP!",
       "url": "https://open.spotify.com/track/5pKnUr9JRnNU49YvKWqNDU"
@@ -19970,7 +19970,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 191000,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31"
@@ -20118,6 +20118,24 @@
       "duration_ms": 202653,
       "name": "WYA",
       "url": "https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA"
+    },
+    {
+      "album": {
+        "name": "X room",
+        "url": "https://open.spotify.com/album/3a11AfrZP9yTiCq8r9nsX3"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "X room",
+      "url": "https://open.spotify.com/track/6lg0Vl8S3carzXwhAB7fvy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59877,
+  "num_followers": 59878,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA0FNTha2Dpzmq4tANBB6d2zNwwkLSC",
+  "snapshot_id": "AAA0HRO6VJNWrNriVEMyWdK+WO/5da4/",
   "tracks": [
     {
       "added_at": "2026-03-23 02:36:46",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
+        "name": "Wants For Everyone",
+        "url": "https://open.spotify.com/album/3ZsHx9LkrY5B3AUOunvMQo"
+      },
+      "artists": [
+        {
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
+        }
+      ],
+      "duration_ms": 153925,
+      "name": "Wants For Everyone",
+      "url": "https://open.spotify.com/track/2Ngpq9xcLawOQ6juOpdMhh"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
         "name": "Follow the Cyborg",
         "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 185327,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/7I6l9SZtExAjNYGtfHREN0"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
-        "name": "Wants For Everyone",
-        "url": "https://open.spotify.com/album/3ZsHx9LkrY5B3AUOunvMQo"
-      },
-      "artists": [
-        {
-          "name": "Slippers",
-          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
-        }
-      ],
-      "duration_ms": 153925,
-      "name": "Wants For Everyone",
-      "url": "https://open.spotify.com/track/2Ngpq9xcLawOQ6juOpdMhh"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
-        "name": "Saw You Out with the Weeds",
-        "url": "https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L"
-      },
-      "artists": [
-        {
-          "name": "Suitor",
-          "url": "https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Blank Americana",
-      "url": "https://open.spotify.com/track/0kxzTszYjrntrC1PNes5lg"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
-        "name": "Wild Guess",
-        "url": "https://open.spotify.com/album/6Uv1WXllevEM4Ci8AGpAO6"
-      },
-      "artists": [
-        {
-          "name": "Robber Robber",
-          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
-        }
-      ],
-      "duration_ms": 238612,
-      "name": "Sea or War",
-      "url": "https://open.spotify.com/track/6epJlIEsbfhuEop4ODDW7n"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
         "name": "Sad Songs",
         "url": "https://open.spotify.com/album/6VvS5rvL8PGgKM1fLmkenj"
       },
@@ -1163,6 +1131,54 @@
       "duration_ms": 237179,
       "name": "Finding Fear (Bonus Track)",
       "url": "https://open.spotify.com/track/6y0vG9J34SO5k0d7j1RtAM"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "Saw You Out with the Weeds",
+        "url": "https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L"
+      },
+      "artists": [
+        {
+          "name": "Suitor",
+          "url": "https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Blank Americana",
+      "url": "https://open.spotify.com/track/0kxzTszYjrntrC1PNes5lg"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "Wild Guess",
+        "url": "https://open.spotify.com/album/6Uv1WXllevEM4Ci8AGpAO6"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "duration_ms": 238612,
+      "name": "Sea or War",
+      "url": "https://open.spotify.com/track/6epJlIEsbfhuEop4ODDW7n"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "Follow The Money",
+        "url": "https://open.spotify.com/album/7pOFrpuYWHBGGk3V88rOje"
+      },
+      "artists": [
+        {
+          "name": "Theo Black",
+          "url": "https://open.spotify.com/artist/5E72GJ3LLgrHkPVnCCFIwz"
+        }
+      ],
+      "duration_ms": 176758,
+      "name": "Follow The Money",
+      "url": "https://open.spotify.com/track/0ux2DKT1byxhCgqw5eZDH7"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -1290,11 +1306,31 @@
         {
           "name": "GiGi Girls",
           "url": "https://open.spotify.com/artist/2Ye4DtL7eIPpcDnlum0wXR"
+        },
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
         }
       ],
       "duration_ms": 259203,
       "name": "Il Futuro",
       "url": "https://open.spotify.com/track/5TktXJYOcnoPt1Xu6DCKTi"
+    },
+    {
+      "added_at": "2026-03-23 02:36:46",
+      "album": {
+        "name": "Don't They Know",
+        "url": "https://open.spotify.com/album/2aXIK4aCxD5CdycAdYPO1a"
+      },
+      "artists": [
+        {
+          "name": "Miljon",
+          "url": "https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Windows 79",
+      "url": "https://open.spotify.com/track/0nPxDZ8dVQCKexpg0Fpff0"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -1607,22 +1643,6 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
-        "name": "Everything's easy",
-        "url": "https://open.spotify.com/album/2SZemDktMLeIu84YGELGXv"
-      },
-      "artists": [
-        {
-          "name": "Penny Arcade",
-          "url": "https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe"
-        }
-      ],
-      "duration_ms": 166173,
-      "name": "Everything's easy",
-      "url": "https://open.spotify.com/track/5SgSsw3OSWrgSdOEBi9TMD"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
         "name": "Another Twilight",
         "url": "https://open.spotify.com/album/5IW08GdffCb0rLtAe0iuhL"
       },
@@ -1719,18 +1739,18 @@
     {
       "added_at": "2026-03-23 02:36:46",
       "album": {
-        "name": "Don't They Know",
-        "url": "https://open.spotify.com/album/2aXIK4aCxD5CdycAdYPO1a"
+        "name": "Everything's easy",
+        "url": "https://open.spotify.com/album/2SZemDktMLeIu84YGELGXv"
       },
       "artists": [
         {
-          "name": "Miljon",
-          "url": "https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7"
+          "name": "Penny Arcade",
+          "url": "https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe"
         }
       ],
-      "duration_ms": 141521,
-      "name": "Windows 79",
-      "url": "https://open.spotify.com/track/0nPxDZ8dVQCKexpg0Fpff0"
+      "duration_ms": 166173,
+      "name": "Everything's easy",
+      "url": "https://open.spotify.com/track/5SgSsw3OSWrgSdOEBi9TMD"
     },
     {
       "added_at": "2026-03-23 02:36:46",
@@ -4203,22 +4223,6 @@
       "duration_ms": 190000,
       "name": "armed & ready",
       "url": "https://open.spotify.com/track/413LD6QpKlCH2qb1ZAGGHJ"
-    },
-    {
-      "added_at": "2026-03-23 02:36:46",
-      "album": {
-        "name": "Follow The Money",
-        "url": "https://open.spotify.com/album/7pOFrpuYWHBGGk3V88rOje"
-      },
-      "artists": [
-        {
-          "name": "Theo Black",
-          "url": "https://open.spotify.com/artist/5E72GJ3LLgrHkPVnCCFIwz"
-        }
-      ],
-      "duration_ms": 176758,
-      "name": "Follow The Money",
-      "url": "https://open.spotify.com/track/0ux2DKT1byxhCgqw5eZDH7"
     },
     {
       "added_at": "2026-03-23 02:36:46",

@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Worst Person in the World",
+        "url": "https://open.spotify.com/album/0RJcag3nU1RYxnlEFzgwIk"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188198,
+      "name": "Worst Person in the World",
+      "url": "https://open.spotify.com/track/6BUQt7ZuoYoNbg1yrCeDCr"
+    },
+    {
+      "album": {
         "name": "First & Foremost",
         "url": "https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG"
       },

@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388772,
+  "num_followers": 388753,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-03-19 23:01:07",
       "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "added_at": "2026-03-19 23:01:07",
+      "album": {
         "name": "Stranger - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4Yzt0EVPbpFPVFvaN4BUkF"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 146430,
       "name": "Stranger - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1QzvrIv4uCWf3pv1xCUvAf"
-    },
-    {
-      "added_at": "2026-03-19 23:01:07",
-      "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
     },
     {
       "added_at": "2026-03-19 23:01:07",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-03-19 23:01:07",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
-    },
-    {
-      "added_at": "2026-03-19 23:01:07",
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "added_at": "2026-03-19 23:01:07",
+      "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-03-19 23:01:07",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-19 23:01:07",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2026-03-19 23:01:07",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2026-03-19 23:01:07",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2026-03-19 23:01:07",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-19 23:01:07",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q"
-      },
-      "artists": [
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 137148,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU"
-    },
-    {
-      "added_at": "2026-03-19 23:01:07",
-      "album": {
         "name": "Your Woman",
         "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 228586,
       "name": "Your Woman",
       "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
+    },
+    {
+      "added_at": "2026-03-19 23:01:07",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "duration_ms": 137148,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU"
     },
     {
       "added_at": "2026-03-19 23:01:07",

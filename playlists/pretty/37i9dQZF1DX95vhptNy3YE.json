@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444372,
+  "num_followers": 444351,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
+        "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
+        "url": "https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "duration_ms": 162507,
+      "name": "Bloco dos Apaixonados",
+      "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
         "name": "SPAM",
         "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 169924,
       "name": "BRENDA",
       "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
-        "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
-        "url": "https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        }
-      ],
-      "duration_ms": 162507,
-      "name": "Bloco dos Apaixonados",
-      "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
+        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 263281,
+      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
         "name": "Esconde Sua Namorada",
         "url": "https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 150886,
       "name": "Esconde Sua Namorada",
       "url": "https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
-        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 263281,
-      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "Fiz Quase Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Fiz Quase Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-03-20 15:12:18",
-      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -979,26 +963,18 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+        "name": "Fiz Quase Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qj7BH0zCD1HM9l9dzWz48"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         }
       ],
-      "duration_ms": 145749,
-      "name": "Rei da Noite",
-      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
+      "duration_ms": 167925,
+      "name": "Fiz Quase Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -1047,6 +1023,30 @@
       "duration_ms": 165525,
       "name": "NOITES TRAI\u00c7OEIRAS",
       "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
+    },
+    {
+      "added_at": "2026-03-20 15:12:18",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 145749,
+      "name": "Rei da Noite",
+      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
     },
     {
       "added_at": "2026-03-20 15:12:18",
@@ -1143,34 +1143,34 @@
     {
       "added_at": "2026-03-20 15:12:18",
       "album": {
-        "name": "Os Caras da Rua, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu"
+        "name": "Yeezy Slide \"REMIX\"",
+        "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
       "artists": [
         {
-          "name": "FM O Dia",
-          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "Fabinho",
-          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
         },
         {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+          "name": "ANTCONSTANTINO",
+          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
         },
         {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 92389,
-      "name": "Nosso Lance - Ao Vivo",
-      "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
+      "duration_ms": 138591,
+      "name": "Yeezy Slide \"REMIX\"",
+      "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
     }
   ],
   "unique_name": "AMPLIFIKA",

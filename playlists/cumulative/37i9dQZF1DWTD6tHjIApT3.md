@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: とた Tota
 
-3,736 songs - 9 day 22 hr 0 min
+3,736 songs - 9 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1552,6 +1552,7 @@
 | [Romance, the Other Day feat\. suis from Yorushika](https://open.spotify.com/track/5jH4zowzlz3GIyR9fm9Pof) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/2A9AypWC3L5IRI6GzEEzCs) | 4:04 | 2023-03-21 | 2023-04-12 |
 | [Rooftop Rhapsody](https://open.spotify.com/track/7fkcgIVRFJHYJeir9e8e7p) | [TWEEDEES](https://open.spotify.com/artist/1LlXc0olPO5z5GbX61yK3C) | [Rooftop Rhapsody](https://open.spotify.com/album/0SEeaTLdugL0UPr46I7RXl) | 3:27 | 2022-09-13 | 2022-09-21 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-06-21 | 2022-07-20 |
+| [Rose\_Sebone](https://open.spotify.com/track/5EqtOr3Tw3wM3b8WlVqC6r) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-spinal column\-](https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1) | 3:11 | 2026-03-24 |  |
 | [routine life](https://open.spotify.com/track/3AdLUaAZTJQyhjs10t5wKk) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [routine life](https://open.spotify.com/album/3nO790FKbCxYTZL5HjVsZZ) | 3:32 | 2024-01-09 | 2024-01-11 |
 | [Routine Life](https://open.spotify.com/track/3U4q2PzQAGlT4iistqvnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Routine Life](https://open.spotify.com/album/0m5mYXIrR6ShDGZsLxkyJ7) | 3:32 | 2024-01-10 | 2024-01-24 |
 | [Ru Sure?](https://open.spotify.com/track/5oEEGBc6AxUpo45XAe0ziN) | [SHŌJO](https://open.spotify.com/artist/6UHps917v3QGDMJ0HkiBO0), [Lisa Remar](https://open.spotify.com/artist/71Pw9VanbUtPzvO0XiO9im) | [Ru Sure?](https://open.spotify.com/album/2XxzQxHIVFtCLwzwKKBiin) | 3:20 | 2024-05-07 | 2024-05-22 |
@@ -1929,7 +1930,6 @@
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 |  |
-| [Track 7](https://open.spotify.com/track/5EqtOr3Tw3wM3b8WlVqC6r) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-spinal column\-](https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1) | 0:00 | 2026-03-24 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |

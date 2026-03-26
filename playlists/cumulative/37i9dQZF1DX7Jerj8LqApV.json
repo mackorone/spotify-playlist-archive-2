@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "i know u by heart",
+        "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "i know u by heart",
+      "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
+    },
+    {
+      "album": {
         "name": "true orange",
         "url": "https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O"
       },
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -4592,7 +4610,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 210354,
       "name": "Nangangamba",
       "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
@@ -5026,6 +5044,24 @@
       "duration_ms": 181032,
       "name": "Pagitan",
       "url": "https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o"
+    },
+    {
+      "album": {
+        "name": "Pagmamahal",
+        "url": "https://open.spotify.com/album/4veS7T0v7QLIXnpT3pkMci"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188190,
+      "name": "Pagmamahal",
+      "url": "https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa"
     },
     {
       "album": {

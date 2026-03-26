@@ -552,7 +552,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 232973,
       "name": "Again",
       "url": "https://open.spotify.com/track/1F978CxXsPtQxnVy1X1tqo"
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Blue City",
+        "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231409,
+      "name": "Blue City",
+      "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
+    },
+    {
+      "album": {
         "name": "Blue Rose (Feat. X.Q)",
         "url": "https://open.spotify.com/album/6HD2bUD9J8uuBMzmwHLpzE"
       },
@@ -1314,6 +1332,24 @@
       "duration_ms": 219666,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/6chkvSijAsVW32AkSZKyza"
+    },
+    {
+      "album": {
+        "name": "Cherry Blossom's View",
+        "url": "https://open.spotify.com/album/0PnBq6kgQcygiDI43eGUwH"
+      },
+      "artists": [
+        {
+          "name": "4 For",
+          "url": "https://open.spotify.com/artist/43kUvYZdk5HaL74vk37Cbl"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208301,
+      "name": "Cherry Blossom's View",
+      "url": "https://open.spotify.com/track/1CaUsmaJ2sEj36i5CSgObh"
     },
     {
       "album": {
@@ -6827,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "4-3",
+        "url": "https://open.spotify.com/album/2sVInwyXlyamZgt7IQ6GFY"
+      },
+      "artists": [
+        {
+          "name": "KIRARA",
+          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "vc19111 - Aseul Remix",
+      "url": "https://open.spotify.com/track/75YrUhxUQfC9ddojwMwS9v"
+    },
+    {
+      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya"
       },
@@ -6982,7 +7036,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 191000,
       "name": "What\u2032re you doing tonight?",
       "url": "https://open.spotify.com/track/7yNjqinAMvuduSc5q99ePd"
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 170000,
       "name": "\ufeffLove Recycle (Hyunyeop SOLO)",
       "url": "https://open.spotify.com/track/0TyUSUYotYKGekdym6DgRR"

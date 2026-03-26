@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,007 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,987 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 49 | [Ingenuidad](https://open.spotify.com/track/1N1v5vnbyLKDTIvEvFOjDY) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Natural](https://open.spotify.com/album/6IaxlceJuqnm5CbC9AhGcf) | 3:45 |
 | 50 | [Buscando Un Final](https://open.spotify.com/track/54WkwkUcQkceca0pAU5lhQ) | [Ilona](https://open.spotify.com/artist/26maRQ2rFqGC9vHNB39a6Z) | [Desde Mi Ventana](https://open.spotify.com/album/5UX026UHSbkr5fOSpygdyT) | 3:08 |
 
-Snapshot ID: `AAAAAOOA4fm8TuYILLtPxAi73g9NAwzv`
+Snapshot ID: `AAAAAE747Nstt8s7otClUKguOwUbpL7u`

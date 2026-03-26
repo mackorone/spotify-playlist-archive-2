@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Kenia OS, Feid, Maluma, CA7RIEL & Paco Amoroso & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,900 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,954 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 32 | [50/50](https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [50/50](https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz) | 3:24 |
 | 33 | [Sin Tanto Visaje](https://open.spotify.com/track/36IKCXv76JFmwH4Ud5ZZAP) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Sin Tanto Visaje](https://open.spotify.com/album/01Xj3ZB8X0i8ZFL6vYZL7B) | 2:08 |
 | 34 | [Volándose De Ti](https://open.spotify.com/track/4lBcbMwhoZG14ia29oiVPP) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6) | [Volándose De Ti](https://open.spotify.com/album/3q9RIPGOFxPwQK6Z7DLWoj) | 2:21 |
-| 35 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
+| 35 | [BABIDI](https://open.spotify.com/track/4wJIK6V5jFaXbOUbuJ7iPd) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [BABIDI](https://open.spotify.com/album/4v27fZfrLTeMsi1xPRBySh) | 2:53 |
 | 36 | [Tan Lleno](https://open.spotify.com/track/7ql7lNTGeVEcoQrHdk92m1) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Tan Lleno](https://open.spotify.com/album/5TW4pZrjx1a5mSX94RB9IJ) | 2:21 |
 | 37 | [FANTASMA](https://open.spotify.com/track/0EjpQT7tuTSwvyNx2NJh4b) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [FANTASMA](https://open.spotify.com/album/4JKTb7vhd2oSYUiCQafhR8) | 2:58 |
 | 38 | [Cómo Te Va?](https://open.spotify.com/track/7brvp5qlx3mYCoOexLXSHw) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Cómo Te Va?](https://open.spotify.com/album/1uoUlzntZwu4gbF9HVyJpQ) | 2:35 |

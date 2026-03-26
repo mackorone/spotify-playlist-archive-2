@@ -1,12 +1,12 @@
 {
   "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b1 \u03c0\u03b9\u03bf \u03c7\u03bf\u03c4 trends \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae!",
-  "num_followers": 55437,
+  "num_followers": 55434,
   "original_name": "Internet Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6fxB2MDapMe1A9yTFyRv4tTCYj",
+  "snapshot_id": "AAAAAJjpzxrAVvN42J3IBZSIL8kJFVsZ",
   "tracks": [
     {
       "added_at": "2026-03-23 10:58:17",
@@ -302,6 +302,14 @@
         {
           "name": "NLE Choppa",
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
         }
       ],
       "duration_ms": 135000,
@@ -1079,22 +1087,6 @@
       "duration_ms": 193099,
       "name": "Ximeia",
       "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
-    },
-    {
-      "added_at": "2026-03-23 10:58:17",
-      "album": {
-        "name": "Dani Paidi",
-        "url": "https://open.spotify.com/album/0vXVFvwiiPojl4EwH372ly"
-      },
-      "artists": [
-        {
-          "name": "Young Corleon",
-          "url": "https://open.spotify.com/artist/3ah56WmgtPVgpVBccNsqjz"
-        }
-      ],
-      "duration_ms": 218615,
-      "name": "Dani Paidi",
-      "url": "https://open.spotify.com/track/1vSRZR7UvMCohinwAbTkVv"
     },
     {
       "added_at": "2026-03-23 10:58:17",

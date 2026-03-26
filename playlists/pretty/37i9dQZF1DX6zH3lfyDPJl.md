@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,459 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,477 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 |
-| 2 | [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 |
-| 3 | [This song is about you](https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [This song is about you](https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M) | 3:07 |
-| 4 | [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 |
-| 5 | [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 |
-| 6 | [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 |
+| 1 | [Love Scales](https://open.spotify.com/track/6iS9krnkTMDrEqRYhAjMta) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Wanna be](https://open.spotify.com/album/6vYVtXrTD3fG4BUFuPyf9D) | 4:13 |
+| 2 | [clouds in my room](https://open.spotify.com/track/4KX6ezCFC1COfMCzSOEjgT) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 11](https://open.spotify.com/album/4pcDPJa2skBamjyaK80l7R) | 3:35 |
+| 3 | [me & u](https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:00 |
+| 4 | [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 |
+| 5 | [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 |
+| 6 | [This song is about you](https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [This song is about you](https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M) | 3:07 |
 | 7 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 8 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 |
 | 9 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 49 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 |
 | 50 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
 
-Snapshot ID: `AAAAAFJwcILd8FzOKW/BVCJu1p6uLwca`
+Snapshot ID: `AAAAAFJ0dNcgCWFVdD472iXJiSMArHKz`

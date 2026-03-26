@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 featuring Rezz
 
-1,729 songs - 3 day 22 hr 17 min
+1,729 songs - 3 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [6 Million](https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [6 Million](https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL) | 2:34 | 2025-12-05 | 2026-02-21 |
 | [6am Bounce](https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [6am Bounce](https://open.spotify.com/album/7KFI76Vox8h6hCCPeB5kVd) | 5:03 | 2023-03-31 | 2023-09-23 |
 | [A MILLI \(Zoey's Version\)](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 | 2025-12-05 |  |
-| [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:30 | 2026-02-13 |  |
+| [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:03 | 2026-02-13 |  |
 | [Abomination](https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination](https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf) | 2:48 | 2025-01-24 | 2025-03-08 |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-11-11 | 2023-07-29 |
 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 | 2024-04-19 | 2025-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aysel Yakupoğlu ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,377 likes - 129 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,379 likes - 129 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

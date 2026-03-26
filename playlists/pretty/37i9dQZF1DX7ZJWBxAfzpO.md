@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 10 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 10 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 9 | [EP 60: In Aid of Being You: It’s Okay To Be OA](https://open.spotify.com/episode/5HbVxhsEY8KA9KavYmIPPf) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 48:48 |
 | 10 | [reading your love confessions!](https://open.spotify.com/episode/3Wad2wW5GgwF8bUAaFiv4w) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 1:10:34 |
 
-Snapshot ID: `AAAAADs63rdMqzlNvl7JBG5SElRQy3lE`
+Snapshot ID: `AAAAAEgOOVax+bclH4B0NEDabMNkU+2H`

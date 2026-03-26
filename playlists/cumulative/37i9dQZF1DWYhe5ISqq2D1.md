@@ -2,9 +2,9 @@
 
 ### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
-> 日本のシンガーソングライターを特集。Cover: 大橋トリオ
+> 日本のシンガーソングライターを特集。Cover: Tele
 
-1,298 songs - 3 day 10 hr 2 min
+1,298 songs - 3 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Deep End](https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [UP TO THE MINUTE MIXTAPE](https://open.spotify.com/album/6s6Pqnd88fCGpFrgpEr9Gg) | 3:47 | 2026-02-10 |  |
 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 | 2025-02-18 | 2025-02-26 |
 | [delulu](https://open.spotify.com/track/3zhCjzd8GO8vy4724tLTk7) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [delulu](https://open.spotify.com/album/7kJLxc5uuoBEJIGrijIpSA) | 2:45 | 2025-09-03 | 2025-09-17 |
+| [Destruction](https://open.spotify.com/track/6W9PknpFN4App1UrntPMnp) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-spinal column\-](https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1) | 3:18 | 2026-03-24 |  |
 | [Detour](https://open.spotify.com/track/3daV5S9HibWDWiaUCx5R36) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-spinal column\-](https://open.spotify.com/album/1qhhvPOZT93q3hUm3b4sC7) | 3:15 | 2026-02-11 | 2026-02-18 |
 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 | 2025-01-14 | 2025-12-03 |
 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 | 2026-01-20 |  |
@@ -148,7 +149,7 @@
 | [Don't tell me](https://open.spotify.com/track/4VEBiiDB1sQxqFmtGl8wAm) | [Kaito Mori](https://open.spotify.com/artist/5VPtV80n9gjnSCjP5Vz37q) | [Don't tell me](https://open.spotify.com/album/2FYLN5bBkyjWZnUURR32GH) | 3:23 | 2025-05-27 | 2025-06-04 |
 | [Doudemoii](https://open.spotify.com/track/5j1thbuHT0MzoDqYfUvYTc) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Doudemoii](https://open.spotify.com/album/7pMSJ3KUWUFC3RTqKfFHhS) | 2:53 | 2025-09-23 | 2025-10-01 |
 | [dress](https://open.spotify.com/track/4QhnvAfJELDV6gsAZFrP7A) | [Shu](https://open.spotify.com/artist/2OYhnqda2aY0DpAsU0ROed) | [To walk](https://open.spotify.com/album/79ZkE8Q8mcR6pXldCGA1Ms) | 2:28 | 2025-11-04 | 2025-11-12 |
-| [déjà vu](https://open.spotify.com/track/6uqRAsd93IzpS2tLR2s9mg) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [déjà vu](https://open.spotify.com/album/0DiLXI23N9Hjarf3MW9jhW) | 3:16 | 2026-02-17 |  |
+| [déjà vu](https://open.spotify.com/track/6uqRAsd93IzpS2tLR2s9mg) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [déjà vu](https://open.spotify.com/album/0DiLXI23N9Hjarf3MW9jhW) | 3:16 | 2026-02-17 | 2026-03-26 |
 | [Earring](https://open.spotify.com/track/4Jh5HJiOWwREsT8zUSOJ7W) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Earring](https://open.spotify.com/album/3bjGlwW1CBhy85iKtkEIGu) | 4:00 | 2025-03-25 | 2025-05-07 |
 | [Eden pt.2](https://open.spotify.com/track/5tXOP2E71sYUk4usrElYyH) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [ダイアリー](https://open.spotify.com/album/3ggYMcB2iUzWi80zjza1JL) | 2:12 | 2025-10-21 | 2025-11-05 |
 | [emily](https://open.spotify.com/track/2MSGvIbzqNmtd8vUQJAwjQ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [emily](https://open.spotify.com/album/16BK4YkgtTcJrvVFxbV9wt) | 3:22 | 2025-09-30 | 2025-10-09 |
@@ -547,7 +548,6 @@
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 2](https://open.spotify.com/track/6W9PknpFN4App1UrntPMnp) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-spinal column\-](https://open.spotify.com/album/7fi7Fg2bORPsARMWnGgZp1) | 0:00 | 2026-03-24 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
@@ -1148,7 +1148,7 @@
 | [残像の愛し方](https://open.spotify.com/track/6QbOl4gx6PZyOZWW9A5bDt) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [残像の愛し方](https://open.spotify.com/album/579rttj1Eu1EtPbLZBbgpO) | 4:37 | 2025-02-25 | 2025-07-16 |
 | [残夏](https://open.spotify.com/track/4NrtcvKgnuI9Qmlg4sbLie) | [Daisuke Nakamura](https://open.spotify.com/artist/7CQmYIOERVN85PMHXarjEe) | [Oleo](https://open.spotify.com/album/52dv2gFYl1gwUM8qVe6ZvL) | 3:10 | 2025-09-16 | 2025-09-24 |
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-07-02 | 2024-10-05 |
-| [気が気じゃないのさ](https://open.spotify.com/track/4XTW8ZGifLeXHejSDyTgNW) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [気が気じゃないのさ](https://open.spotify.com/album/0AlSoBciEZzd3AmdS9507e) | 3:28 | 2026-03-17 | 2026-03-25 |
+| [気が気じゃないのさ](https://open.spotify.com/track/4XTW8ZGifLeXHejSDyTgNW) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [気が気じゃないのさ](https://open.spotify.com/album/0AlSoBciEZzd3AmdS9507e) | 3:28 | 2026-03-17 |  |
 | [水中のメトロ](https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [水中のメトロ](https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM) | 4:21 | 2025-12-23 | 2026-03-25 |
 | [水中リフレクション](https://open.spotify.com/track/1CixtPseK10TD0CZiYJOXR) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [水中リフレクション](https://open.spotify.com/album/5A0pF1fEOtZEt49q2Q0zkm) | 6:28 | 2024-12-24 | 2025-01-27 |
 | [永遠なんて](https://open.spotify.com/track/6qSp8xRaT4YhpWkg1PxjW2) | [魚住英里奈](https://open.spotify.com/artist/7EiNSkVF6UXOKbjfLpXhi5) | [永遠なんて](https://open.spotify.com/album/4W2h4skw1Tim2tDowvAcJz) | 1:54 | 2026-03-24 |  |

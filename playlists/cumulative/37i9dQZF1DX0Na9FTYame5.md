@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-357 songs - 16 hr 11 min
+358 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 | 2024-08-13 |
 | [Aus dem Kopf](https://open.spotify.com/track/0LKgRtXc3yqUodZTcUOYUV) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Aus dem Kopf](https://open.spotify.com/album/2016s4QAFNvbJhxbx0vThM) | 2:30 | 2026-03-19 |  |
 | [AUSGERUTSCHT](https://open.spotify.com/track/71epxkNy3UZ1B6PydH176F) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [DEN UMSTÄNDEN WIDERSPRECHEND](https://open.spotify.com/album/74ZaEXX990KpZCW53Esv00) | 3:26 | 2025-06-18 | 2025-07-04 |
-| [AZADI](https://open.spotify.com/track/3bTCC25oTMrVLKkHA6GOTi) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU) | [AZADI](https://open.spotify.com/album/5tvu8bSlg0IwwALEC9ol13) | 2:09 | 2026-03-19 |  |
+| [AZADI](https://open.spotify.com/track/3bTCC25oTMrVLKkHA6GOTi) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU) | [AZADI](https://open.spotify.com/album/5tvu8bSlg0IwwALEC9ol13) | 2:09 | 2026-03-19 | 2026-03-26 |
 | [Baltimore \(feat\. Trettmann\)](https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [orange \(Deluxe Version\)](https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ) | 2:21 | 2025-10-02 |  |
 | [Beende mich](https://open.spotify.com/track/6mADkpiLqKtVzjQzenXhS4) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [König ohne Krone](https://open.spotify.com/album/7hJsFyludKH0zSJ8vCEM2t) | 2:39 | 2025-11-06 | 2026-01-24 |
 | [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 |  |
@@ -306,6 +306,7 @@
 | [Sterne](https://open.spotify.com/track/0klusyHyos13Rvl1JugmQ2) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Sterne](https://open.spotify.com/album/5hXInU6fLwTqjsJKFRdEWr) | 2:19 | 2025-01-20 | 2025-02-11 |
 | [Sterne \(feat\. Bozza\)](https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Sterne \(feat\. Bozza\)](https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1) | 3:56 | 2024-06-28 | 2025-11-09 |
 | [sterne zählen](https://open.spotify.com/track/63Yiw4d40cEyNqsPVm0IPh) | [Lyno Nine8](https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh) | [sterne zählen](https://open.spotify.com/album/4u2ydW2JE57ZfqL65ry4Vj) | 2:34 | 2025-06-09 |  |
+| [Stück im Puzzle](https://open.spotify.com/track/53QvLhkDWBHifD6fx3sZ0p) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Stück im Puzzle](https://open.spotify.com/album/1JnttU4wSOKLQ1Y2WYcli6) | 2:16 | 2026-03-19 |  |
 | [SUPERHERO Pt\. II](https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [SUPERHERO Pt\. II](https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69) | 2:59 | 2024-06-28 | 2024-08-31 |
 | [Tagebuch](https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Tagebuch](https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn) | 2:18 | 2024-09-16 | 2024-11-19 |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-06-28 |  |

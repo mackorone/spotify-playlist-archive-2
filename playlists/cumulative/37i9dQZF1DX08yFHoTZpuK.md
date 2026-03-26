@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-77 songs - 5 hr 27 min
+79 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 | 2026-01-09 |  |
 | [IN THE RAIN x XDM](https://open.spotify.com/track/1V33peoBd9zVqKX5xUIjuh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:14 | 2025-10-24 |  |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2025-10-24 |  |
+| [Keep us in the loop](https://open.spotify.com/track/6O5GLEknWy44xP432YP2Ex) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Keep us in the loop](https://open.spotify.com/album/4iphPY2yjE09hS7vDryfmU) | 3:15 | 2026-03-25 |  |
 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 | 2025-10-24 |  |
 | [Let Me Take You](https://open.spotify.com/track/3mZvGN3AEPqe62Kxl8MfDO) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN) | [Let Me Take You](https://open.spotify.com/album/1wOXDQrX0hEdmgi6o6m1lf) | 3:49 | 2025-10-24 |  |
 | [Let's go](https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw) | 2:26 | 2025-10-24 |  |
@@ -52,9 +53,10 @@
 | [okay, okay](https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3) | [flip\-flops](https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz) | [okay, okay](https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI) | 2:59 | 2026-01-23 | 2026-02-08 |
 | [Omatcha](https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:37 | 2025-10-24 |  |
 | [Omi \- blackglassG Remix](https://open.spotify.com/track/2xkVBSLP47iYY7cGhd5YDz) | [Sekitova](https://open.spotify.com/artist/1mRPxiVGzbksZ6gZ89sRCW), [blackglassG](https://open.spotify.com/artist/32527tDRJMOAvd68m97kgZ) | [Dance Giggling Dance vol.1](https://open.spotify.com/album/7EDlhYpmKXKRS963SJU2G1) | 6:17 | 2025-10-24 | 2025-11-08 |
-| [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2025-10-24 |  |
+| [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 | 2025-10-24 | 2026-03-26 |
 | [PARABOLA](https://open.spotify.com/track/0Xfu8sjIFjlqy5aU0basOP) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SECTOR RUSH](https://open.spotify.com/album/1NrYV1HcGsZ65clcxYjrK9) | 5:01 | 2025-11-07 | 2026-03-09 |
 | [Polynasia](https://open.spotify.com/track/3Ubzwa9vQ7PKGA7pn9A9nC) | [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [BERLIN TRAX](https://open.spotify.com/album/3ktsz9CUSzxZBVUbLsaYx4) | 4:44 | 2025-10-24 |  |
+| [PYFPDD](https://open.spotify.com/track/6sJbKZbCcDvF4udMdtf9uE) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [PYFPDD](https://open.spotify.com/album/7CikTOp0SBBM2x2AWdBEhw) | 3:41 | 2026-03-25 |  |
 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 | 2025-10-24 |  |
 | [Reason](https://open.spotify.com/track/2O9NEC7T5nwhxdRdkoQOcq) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr), [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF) | [Reason EP](https://open.spotify.com/album/1DQJ48DnUMiPiVagQWlgbP) | 6:25 | 2026-01-09 | 2026-02-26 |
 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 | 2025-11-07 |  |
@@ -66,7 +68,7 @@
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2025-10-24 |  |
 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 | 2025-10-24 |  |
 | [Sunset Girls](https://open.spotify.com/track/4IH5Ner6ZZw7kY8u0OrG3z) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Summer Cutz](https://open.spotify.com/album/4h3n3omyc1zrm5ZZJHJGie) | 3:42 | 2025-10-24 | 2026-01-24 |
-| [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 |  |
+| [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 | 2026-03-26 |
 | [TECHNOPOLIS](https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:14 | 2025-10-24 |  |
 | [The Endless Lovers \- Pasocom Music Club Remix](https://open.spotify.com/track/53tuINhmAtikGpXPmNlUQO) | [CHERRYBOY FUNCTION](https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [suggested function EP\#5](https://open.spotify.com/album/06hsjkU7SE0WktfQskjDPX) | 5:54 | 2025-10-24 | 2025-11-08 |
 | [The Moon's Elbow](https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [The Moon's Elbow](https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ) | 3:05 | 2026-02-10 |  |

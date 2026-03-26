@@ -4,7 +4,7 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-50 songs - 4 hr 27 min
+50 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,6 @@
 | [Tere Mere Saath](https://open.spotify.com/track/0ee11PpglgT26oqSiBHZjm) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:32 | 2023-05-11 |  |
 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2023-05-11 |  |
 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 | 2023-05-11 |  |
-| [Training](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 3:57 | 2024-04-19 |  |
+| [Training](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 3:59 | 2024-04-19 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

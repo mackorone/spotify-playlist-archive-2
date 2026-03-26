@@ -4,7 +4,7 @@
 
 > 
 
-2,917 songs - 6 day 6 hr 52 min
+2,918 songs - 6 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [All I Need](https://open.spotify.com/track/1FTtU8pGRwEYNUjhAf0hWb) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m), [Gearbox Digital](https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6) | [All I Need](https://open.spotify.com/album/0dDuT61zl0ZK4i3WhmGQOu) | 3:25 | 2024-11-12 |  |
 | [All I Need](https://open.spotify.com/track/5azkhpjdETqx7ftzxYuCYe) | [Jackro](https://open.spotify.com/artist/2DmEO1qBeq9jc3HPI7V3H5) | [All I Need](https://open.spotify.com/album/2lH4Z9ifgS7aG0nylev1ao) | 3:25 | 2025-01-13 |  |
 | [All I Need](https://open.spotify.com/track/6AIVUD88vxeXlEGNgDawNl) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [All I Need](https://open.spotify.com/album/4asWJ9o3H0Gz5Ck1BdXenI) | 2:15 | 2025-12-05 |  |
+| [All I Wanna Do](https://open.spotify.com/track/2S9zMuXvsJep8Mw6RGWuGC) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [All I Wanna Do](https://open.spotify.com/album/5CpwpANrfDOaV4x1shwcc9) | 2:43 | 2026-03-25 |  |
 | [All I Want](https://open.spotify.com/track/5RFomRrHLzVah8stzaDtpu) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:23 | 2023-07-14 |  |
 | [ALL MY LIFE](https://open.spotify.com/track/7DBb1ZcFlItvRimzMwGo31) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [ALL MY LIFE](https://open.spotify.com/album/16vAhe50NocQKrsrsXYTek) | 2:46 | 2025-07-17 |  |
 | [All Night](https://open.spotify.com/track/3Y74sjwlDziLuXYxI6AGlc) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm), [D\-Venn](https://open.spotify.com/artist/1xCUPZ21YGSggO8uHPuwvo) | [All Night](https://open.spotify.com/album/4eDeHQLdbrv2wG6iUGunNA) | 3:24 | 2025-11-23 |  |

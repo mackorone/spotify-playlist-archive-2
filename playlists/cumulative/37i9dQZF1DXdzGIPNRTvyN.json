@@ -2785,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Glistening",
+        "url": "https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y"
+      },
+      "artists": [
+        {
+          "name": "Faux Moon",
+          "url": "https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Glistening",
+      "url": "https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249"
+    },
+    {
+      "album": {
         "name": "Glitching",
         "url": "https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8"
       },
@@ -6408,7 +6426,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 165004,
       "name": "Shrine",
       "url": "https://open.spotify.com/track/4YWaQIwg9pXv7ttx0u33LM"

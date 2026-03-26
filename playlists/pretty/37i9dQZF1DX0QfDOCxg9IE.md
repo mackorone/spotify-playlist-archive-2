@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,437 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,434 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 13 | [Aide Male](https://open.spotify.com/track/0fRNQGF5vAvh8RWi7QpiRY) | [PITSI](https://open.spotify.com/artist/5vRlSeu3tTk2kL9QLE4VUD) | [Aide Male](https://open.spotify.com/album/33kwiTqFRyeHm3zeiel1NA) | 2:47 |
 | 14 | [To Glenti \- Matia Mou Kai Go Gia Sena Exo](https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Unplugged 2](https://open.spotify.com/album/3T2qowmSsKM33FKvwFGVf1) | 2:51 |
 | 15 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
-| 16 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
+| 16 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
 | 17 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 18 | [Kontra](https://open.spotify.com/track/0dMasOoYB6bpcu35QpScjc) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Apagorevmeno](https://open.spotify.com/album/23T6QbCsClxJ7imMKAKp0G) | 3:52 |
 | 19 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
@@ -66,7 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 56 | [PARADISO](https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Màdu](https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI) | [PARADISO](https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B) | 3:28 |
 | 57 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
 | 58 | [Ximeia](https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ximeia](https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ) | 3:13 |
-| 59 | [Dani Paidi](https://open.spotify.com/track/1vSRZR7UvMCohinwAbTkVv) | [Young Corleon](https://open.spotify.com/artist/3ah56WmgtPVgpVBccNsqjz) | [Dani Paidi](https://open.spotify.com/album/0vXVFvwiiPojl4EwH372ly) | 3:38 |
-| 60 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 59 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 
-Snapshot ID: `AAAAAG6fxB2MDapMe1A9yTFyRv4tTCYj`
+Snapshot ID: `AAAAAJjpzxrAVvN42J3IBZSIL8kJFVsZ`

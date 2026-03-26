@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500685,
+  "num_followers": 500704,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Bunga Abadi",
-        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
-      },
-      "artists": [
-        {
-          "name": "Rio Clappy",
-          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
-        }
-      ],
-      "duration_ms": 243038,
-      "name": "Bunga Abadi",
-      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Tangga",
         "url": "https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Katakan Saja",
-        "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
-      },
-      "artists": [
-        {
-          "name": "Khifnu",
-          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
-        }
-      ],
-      "duration_ms": 263053,
-      "name": "Katakan Saja",
-      "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Menunggu Kamu - OST Jelita Sejuba",
         "url": "https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 229632,
       "name": "Menunggu Kamu - OST Jelita Sejuba",
       "url": "https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Katakan Saja",
+        "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
+      },
+      "artists": [
+        {
+          "name": "Khifnu",
+          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
+        }
+      ],
+      "duration_ms": 263053,
+      "name": "Katakan Saja",
+      "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
     },
     {
       "added_at": "2026-02-27 14:15:43",

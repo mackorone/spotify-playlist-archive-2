@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Mountain Stream",
+        "url": "https://open.spotify.com/album/4IZzLEcCrmGvmpaPEvPCjI"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9sir\u00e9 Renaud",
+          "url": "https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "Mountain Stream",
+      "url": "https://open.spotify.com/track/6LDHyOcmn6t2oKHMb8O0E6"
+    },
+    {
+      "album": {
         "name": "Noise Of The Forest",
         "url": "https://open.spotify.com/album/0E5PbOCoT5MwE7yEb1jpFS"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 240000,
       "name": "Watching a Stream",
       "url": "https://open.spotify.com/track/5i1szf4HOvoa8O0nNAdrzS"

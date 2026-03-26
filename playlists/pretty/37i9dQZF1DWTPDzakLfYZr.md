@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPDzakLfYZr.md) - [plain]
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Juan Duque
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,630 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,623 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

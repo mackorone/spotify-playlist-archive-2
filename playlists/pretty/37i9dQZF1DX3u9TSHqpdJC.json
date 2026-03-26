@@ -1,13 +1,189 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lunar June. Artwork by Paola Saliby",
-  "num_followers": 237676,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lamb. Artwork by Paola Saliby",
+  "num_followers": 237732,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdBfBLbC+HuxwoP3XZmSjePsW69",
+  "snapshot_id": "AAAAAGAeUm0wvJp7SpYbwLJCkqwOOWet",
   "tracks": [
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Burning House",
+        "url": "https://open.spotify.com/album/21BkNmEUShxqfQq8OFZewA"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Architect",
+        "url": "https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "duration_ms": 163198,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/1MmZO7iSto3uDpNgYdLrOW"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm"
+    },
+    {
+      "added_at": "2026-01-23 05:30:46",
+      "album": {
+        "name": "BUTTERF-LIES",
+        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 128445,
+      "name": "BUTTERF-LIES",
+      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "I SEE STARS",
+        "url": "https://open.spotify.com/album/2SCOXLRicTMygItg8Ov5JP"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 168564,
+      "name": "I SEE STARS",
+      "url": "https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "OhYeh",
+        "url": "https://open.spotify.com/album/2dikOa2VYcbySCDEiosMxZ"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
+        }
+      ],
+      "duration_ms": 166201,
+      "name": "OhYeh",
+      "url": "https://open.spotify.com/track/6Lxa6MXt1jf8exZ9XH9Imi"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "september bby",
+        "url": "https://open.spotify.com/album/7zfAKNW178iXHGjm3Geqi6"
+      },
+      "artists": [
+        {
+          "name": "francene rouelle",
+          "url": "https://open.spotify.com/artist/17RvyiqL4E1d6ecKdJ2x9R"
+        }
+      ],
+      "duration_ms": 112271,
+      "name": "september bby",
+      "url": "https://open.spotify.com/track/13VjuEXFmqLCuQ6mNZs8FJ"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Arsonist",
+        "url": "https://open.spotify.com/album/3IMet7aJDP08AADNvsWdtM"
+      },
+      "artists": [
+        {
+          "name": "Seanna Pereira",
+          "url": "https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R"
+        }
+      ],
+      "duration_ms": 182676,
+      "name": "Arsonist",
+      "url": "https://open.spotify.com/track/0RsEcELExwIYLuQPbP5Zjy"
+    },
     {
       "added_at": "2026-03-18 04:00:18",
       "album": {
@@ -267,22 +443,6 @@
     {
       "added_at": "2026-03-11 04:00:22",
       "album": {
-        "name": "overkill",
-        "url": "https://open.spotify.com/album/6OzNoiGMlUWmO82LKRByck"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "overkill",
-      "url": "https://open.spotify.com/track/1XvxQuBL7HgmrZlWxHqwlA"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
         "name": "Babyface",
         "url": "https://open.spotify.com/album/35D1U5fSg6cq8eSK1N9SJg"
       },
@@ -491,22 +651,6 @@
     {
       "added_at": "2026-02-25 05:00:10",
       "album": {
-        "name": "Words You Can Twist",
-        "url": "https://open.spotify.com/album/7xQ4rymxgoj9PmdcEXlGV1"
-      },
-      "artists": [
-        {
-          "name": "Ryann Barnes",
-          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "Words You Can Twist",
-      "url": "https://open.spotify.com/track/6z0lSPxIBSolW21o0BLpIy"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
         "name": ".5 OF ME",
         "url": "https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ"
       },
@@ -619,22 +763,6 @@
     {
       "added_at": "2026-02-11 13:40:41",
       "album": {
-        "name": "Face Like Yours",
-        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "Face Like Yours",
-      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
-    },
-    {
-      "added_at": "2026-02-11 13:40:41",
-      "album": {
         "name": "break your own heart",
         "url": "https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED"
       },
@@ -697,22 +825,6 @@
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
     },
     {
-      "added_at": "2026-01-23 05:30:46",
-      "album": {
-        "name": "BUTTERF-LIES",
-        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 128445,
-      "name": "BUTTERF-LIES",
-      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
-    },
-    {
       "added_at": "2026-02-04 05:00:17",
       "album": {
         "name": "Love Is Easy Chaos",
@@ -727,22 +839,6 @@
       "duration_ms": 194251,
       "name": "Love Is Easy Chaos",
       "url": "https://open.spotify.com/track/7w8MAjzHIK1nNlbkEzbia6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "cycles",
-        "url": "https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 148352,
-      "name": "cycles",
-      "url": "https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -807,42 +903,6 @@
       "duration_ms": 153665,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Options",
-        "url": "https://open.spotify.com/album/0fsEUQzzgq8tCcTMpwN7O7"
-      },
-      "artists": [
-        {
-          "name": "Seanna Pereira",
-          "url": "https://open.spotify.com/artist/2n7eurO3HF2Qpsu4blCx4R"
-        }
-      ],
-      "duration_ms": 162046,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/79U1nhqDGYttoZimTCGVh7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "HEARTSONG",
-        "url": "https://open.spotify.com/album/71c6xSC2KdN8NOX6rBRdn0"
-      },
-      "artists": [
-        {
-          "name": "ALBI.",
-          "url": "https://open.spotify.com/artist/64GJf2NeiXg0ZxbJSq9Uqb"
-        },
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        }
-      ],
-      "duration_ms": 234661,
-      "name": "HEARTSONG",
-      "url": "https://open.spotify.com/track/5nhN7hPsP3kPY5Q7vXut1M"
     },
     {
       "added_at": "2026-01-28 15:08:44",
@@ -973,22 +1033,6 @@
       "url": "https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2"
     },
     {
-      "added_at": "2026-01-23 05:30:46",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3yZfqxuzwp031yh7cQjldL"
-      },
-      "artists": [
-        {
-          "name": "Maryn Charlie",
-          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
-        }
-      ],
-      "duration_ms": 167654,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
-    },
-    {
       "added_at": "2026-01-16 05:00:46",
       "album": {
         "name": "Girlhood",
@@ -1003,38 +1047,6 @@
       "duration_ms": 223342,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/1i9XzNxzwGVCNLlDixZYQp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/6UdAC6I3beffgXZtSzYwFK"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 195149,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9"
-    },
-    {
-      "added_at": "2026-01-21 15:37:08",
-      "album": {
-        "name": "LIGHTKEEPER",
-        "url": "https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE"
-      },
-      "artists": [
-        {
-          "name": "LAUD",
-          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
-        }
-      ],
-      "duration_ms": 179692,
-      "name": "LIGHTKEEPER",
-      "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
     },
     {
       "added_at": "2026-01-21 15:37:08",
@@ -1069,22 +1081,6 @@
       "url": "https://open.spotify.com/track/77hS4ySY9c5Hr2rLZ0JLKf"
     },
     {
-      "added_at": "2026-01-21 15:37:08",
-      "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/6pGXuEXCkshDxVPyZ8u53n"
-      },
-      "artists": [
-        {
-          "name": "Niiasii",
-          "url": "https://open.spotify.com/artist/4GqtVmzd5skQOVZx1vVsDz"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/5BA49nnwr6bcOqerRPMCiA"
-    },
-    {
       "added_at": "2026-01-14 05:00:01",
       "album": {
         "name": "I Need To Sleep",
@@ -1099,22 +1095,6 @@
       "duration_ms": 179731,
       "name": "I Need To Sleep",
       "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Almost Did",
-        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Almost Did",
-      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
     },
     {
       "added_at": "2026-01-14 05:00:01",
@@ -1215,22 +1195,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Won't Be Me",
-        "url": "https://open.spotify.com/album/0jGSAnDG6ZMOJoODpsYucS"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Won't Be Me",
-      "url": "https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "you got me",
         "url": "https://open.spotify.com/album/2lYryQ557C426J8klJgSmU"
       },
@@ -1243,86 +1207,6 @@
       "duration_ms": 177826,
       "name": "you got me",
       "url": "https://open.spotify.com/track/6ZpVscX4boZ0l5y3St4vCP"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "i, february",
-        "url": "https://open.spotify.com/album/3RQo4ygL8TB3241bzwuFJQ"
-      },
-      "artists": [
-        {
-          "name": "GEORGY",
-          "url": "https://open.spotify.com/artist/0mMGQe3zGT9DXFfxvK3G81"
-        }
-      ],
-      "duration_ms": 141146,
-      "name": "i, february",
-      "url": "https://open.spotify.com/track/2wgRHsMq6bbA1fh4k5tzja"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "selfish",
-        "url": "https://open.spotify.com/album/7MKm08BD3d9TU1ExQpiINv"
-      },
-      "artists": [
-        {
-          "name": "marli",
-          "url": "https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW"
-        }
-      ],
-      "duration_ms": 127821,
-      "name": "selfish",
-      "url": "https://open.spotify.com/track/2ZSmYz3VBxiWAmWLcAhU5K"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2zX9wmpRJ0GeVktkE8T1Sg"
-      },
-      "artists": [
-        {
-          "name": "Alice Costelloe",
-          "url": "https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy"
-        }
-      ],
-      "duration_ms": 285972,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R"
-      },
-      "artists": [
-        {
-          "name": "ALZZY",
-          "url": "https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Navel",
-        "url": "https://open.spotify.com/album/721hRxKYhqJnIT4iBzdJox"
-      },
-      "artists": [
-        {
-          "name": "Michele Lu",
-          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
-        }
-      ],
-      "duration_ms": 153700,
-      "name": "Navel",
-      "url": "https://open.spotify.com/track/5gbsQy66jCC97jlSQqN7CL"
     }
   ],
   "unique_name": "Fresh Finds Pop",

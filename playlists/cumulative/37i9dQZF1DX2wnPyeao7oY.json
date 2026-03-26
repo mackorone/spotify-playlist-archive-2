@@ -1977,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "burning/bones",
+        "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
+      },
+      "artists": [
+        {
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        },
+        {
+          "name": "Extortionist",
+          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228967,
+      "name": "burning/bones",
+      "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
+    },
+    {
+      "album": {
         "name": "Bury Me (One Thousand Times)",
         "url": "https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg"
       },
@@ -2230,6 +2252,28 @@
       "duration_ms": 285120,
       "name": "Chasing Butterflies",
       "url": "https://open.spotify.com/track/5Nk9c15biVx9nLcdyLjxly"
+    },
+    {
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263161,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
     },
     {
       "album": {
@@ -3094,7 +3138,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 215013,
       "name": "Death Crown",
       "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
@@ -3148,7 +3192,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 159910,
       "name": "Death Is All You Will Know",
       "url": "https://open.spotify.com/track/0fCWEimQozzXs2xWSqnbzE"
@@ -3676,6 +3720,24 @@
       "duration_ms": 213333,
       "name": "don't spiral",
       "url": "https://open.spotify.com/track/1LSxnC5p6Ikqp2HNJggHIH"
+    },
+    {
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/6LoD8NHC8yXB6RPLueaRko"
+      },
+      "artists": [
+        {
+          "name": "Maphra",
+          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275102,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
     },
     {
       "album": {
@@ -5371,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Tragedy of The Commons",
+        "url": "https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4"
+      },
+      "artists": [
+        {
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307693,
+      "name": "Ghost In Flesh",
+      "url": "https://open.spotify.com/track/6ZmTPEHx539ea8dbx8qaSj"
+    },
+    {
+      "album": {
         "name": "Lines Crossed",
         "url": "https://open.spotify.com/album/2Wm8QNDrNnLzUsgAuUuUyE"
       },
@@ -7050,7 +7130,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 208997,
       "name": "Joke's on You",
       "url": "https://open.spotify.com/track/2YF0HWuVjKBhvEwH80K6hz"
@@ -7983,6 +8063,24 @@
     },
     {
       "album": {
+        "name": "CHAPTER THREE: Still Hurts",
+        "url": "https://open.spotify.com/album/7yfMM4SqhjGra5l9rzDAy8"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250695,
+      "name": "Lying Figures",
+      "url": "https://open.spotify.com/track/21I8rQSWJBXKVgQHS20zCU"
+    },
+    {
+      "album": {
         "name": "MADARA \u00b7 endless dream",
         "url": "https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1"
       },
@@ -8048,7 +8146,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 148000,
       "name": "Make Them Pay",
       "url": "https://open.spotify.com/track/7aUbttu1DKwZ8o7qy5KLtq"
@@ -8504,7 +8602,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 183121,
       "name": "MUTE WITNESS",
       "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
@@ -9038,6 +9136,24 @@
       "duration_ms": 257760,
       "name": "Nothing Else Frail",
       "url": "https://open.spotify.com/track/1XoBoivCDtdYMeJMs3pcBY"
+    },
+    {
+      "album": {
+        "name": "Nothing Exists Beyond Me",
+        "url": "https://open.spotify.com/album/6SolmYJnmTXvEMuV7YoEoi"
+      },
+      "artists": [
+        {
+          "name": "OBEYER",
+          "url": "https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Nothing Exists Beyond Me",
+      "url": "https://open.spotify.com/track/6X6D9XpQZ83BCxhIlsoPHl"
     },
     {
       "album": {
@@ -10820,7 +10936,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 182984,
       "name": "Self-Immolate",
       "url": "https://open.spotify.com/track/2wrtiKxQ8Q4aazZwlecWWl"
@@ -11986,7 +12102,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 173456,
       "name": "SUPER TURBO.",
       "url": "https://open.spotify.com/track/7HiHUkIPAp8Sgq8AcIoM86"
@@ -14124,6 +14240,24 @@
       "duration_ms": 231201,
       "name": "Whispers In The Corridor",
       "url": "https://open.spotify.com/track/5dZ7I2d5xEYdQceT3t3IXm"
+    },
+    {
+      "album": {
+        "name": "Who We \u042f",
+        "url": "https://open.spotify.com/album/5HeJa8X9yZvAFsHsutO3HY"
+      },
+      "artists": [
+        {
+          "name": "DUST IN MIND",
+          "url": "https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274613,
+      "name": "Who We \u042f",
+      "url": "https://open.spotify.com/track/7C1c8R2ezJf0PNMFteaCWK"
     },
     {
       "album": {

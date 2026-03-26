@@ -7547,6 +7547,32 @@
     },
     {
       "album": {
+        "name": "Maayam Neeyadi",
+        "url": "https://open.spotify.com/album/66XgsDlWKmaHu3TXcztoud"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176341,
+      "name": "Maayam Neeyadi",
+      "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
+    },
+    {
+      "album": {
         "name": "Maayam Seithaai Poovae (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr"
       },
@@ -7798,6 +7824,24 @@
       "duration_ms": 240000,
       "name": "Manam",
       "url": "https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK"
+    },
+    {
+      "album": {
+        "name": "Maname",
+        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Black",
+          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Maname",
+      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
     },
     {
       "album": {
@@ -8930,7 +8974,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 176470,
       "name": "Na Marende",
       "url": "https://open.spotify.com/track/1vMSv6VXFJ654jz5KeZY6i"
@@ -11107,6 +11151,36 @@
     },
     {
       "album": {
+        "name": "Oyaamaley",
+        "url": "https://open.spotify.com/album/0pWxExMHORvz535WnIM7fr"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Samanwitha Prashanth",
+          "url": "https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP"
+        },
+        {
+          "name": "A K PRRIYAN",
+          "url": "https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o"
+        },
+        {
+          "name": "Sowhmya Rajesh",
+          "url": "https://open.spotify.com/artist/4chv4QwjU8noOImfAj2I0W"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Oyaamaley",
+      "url": "https://open.spotify.com/track/2WnpzuKf3aV0oeaIRmkJO4"
+    },
+    {
+      "album": {
         "name": "Paarvai Yenna",
         "url": "https://open.spotify.com/album/3U1cM2Wvdvn93eTjhl9Fql"
       },
@@ -12786,7 +12860,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 190026,
       "name": "Saaikaathey (From \"Pulse\")",
       "url": "https://open.spotify.com/track/2XlOycbqtL8NrmiV1HUEVm"
@@ -13240,7 +13314,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 149243,
       "name": "Sigma Paiyan - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o"
@@ -13630,7 +13704,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 223636,
       "name": "SRIDEVI",
       "url": "https://open.spotify.com/track/7zUuAXiIkm93o4uExglCXp"

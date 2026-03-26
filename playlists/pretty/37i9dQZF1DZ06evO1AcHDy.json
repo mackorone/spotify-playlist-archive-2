@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37462,
+  "num_followers": 37463,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAABT+ciyZL7siS6nU/mFeX7Y",
+  "snapshot_id": "acHUAAAAAACpN+cJwhgkKaX19YhIBfUz",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 333880,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Flavour Of The Month",
-      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+      "duration_ms": 333880,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,821 likes - 90 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,972 likes - 90 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

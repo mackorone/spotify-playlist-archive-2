@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,567 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,584 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 18 | [The Lord Is With Me](https://open.spotify.com/track/7ApoXFcGepvFqgvrgo3rED) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tyler Roberts](https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0) | [The Lord Is With Me](https://open.spotify.com/album/7raeMjldeDDo1al9hxR4BD) | 6:03 |
 | 19 | [Hymn For Communion](https://open.spotify.com/track/64PpOJZIEAcExkljmLsfDM) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Hymn For Communion](https://open.spotify.com/album/6zDRzv92WgTr8mnzYWnr6P) | 3:28 |
 | 20 | [Leper's Song \(feat\. Whitney Baize Halsey\)](https://open.spotify.com/track/1fFFxjTmRp62aJJ9HscGPp) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Whitney Baize Halsey](https://open.spotify.com/artist/57NDMabcWpqkQzNn21TWc6) | [Leper's Song \(feat\. Whitney Baize Halsey\)](https://open.spotify.com/album/5OMgKssWrNIKD6jWzXkEqU) | 7:36 |
-| 21 | [Ancient Of Days](https://open.spotify.com/track/0KitYonaaNZnKAbAYoclok) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Sing! From Generation To Generation](https://open.spotify.com/album/2XpeUhRUx1ONSU23lwDsTy) | 4:54 |
+| 21 | [Ancient Of Days](https://open.spotify.com/track/0KitYonaaNZnKAbAYoclok) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Sing! From Generation To Generation](https://open.spotify.com/album/2XpeUhRUx1ONSU23lwDsTy) | 4:54 |
 | 22 | [Rolled Away \- Sunday Edit](https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Rolled Away \(Sunday Edit\)](https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe) | 4:55 |
 | 23 | [Trumpet Song \- Live](https://open.spotify.com/track/6Vld2Ifdy5LfeHh0X9pDVT) | [Youth Alive](https://open.spotify.com/artist/657V2VJiShpC8NQYWvzcbV), [Ethan Beer](https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM) | [LIVE AT WONDERWORLD, Vol\. 2](https://open.spotify.com/album/5zKc0HGgR5R8YNPoVjIZVP) | 4:15 |
 | 24 | [The Mercy of God \- Acoustic](https://open.spotify.com/track/45A1vJe5jh96eHabBDB0R0) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW) | [The Mercy of God \(Acoustic\)](https://open.spotify.com/album/7q4luUjWQBGPpHW9L8qhI3) | 4:35 |

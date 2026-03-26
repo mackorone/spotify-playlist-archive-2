@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,910 songs - 6 day 6 hr 28 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,911 songs - 6 day 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2918,5 +2918,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2908 | [Outlast](https://open.spotify.com/track/763LvMXwKPjS65yBFdwRwd) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Outlast](https://open.spotify.com/album/7hybV6kgKeP3n7VXuB0zSM) | 3:25 |
 | 2909 | [Bumble Bee](https://open.spotify.com/track/4D3vWPXgol3MiP5EEWKtmr) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Bumble Bee](https://open.spotify.com/album/1GNPH4rgMk5JH2EvJUf9Rh) | 2:55 |
 | 2910 | [Hot \(Like a Woman\)](https://open.spotify.com/track/24dzulqnPdsw339OOT2sas) | [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Hot \(Like a Woman\)](https://open.spotify.com/album/4UjNoLn4ZO1eoGY3HmZV4l) | 2:42 |
+| 2911 | [All I Wanna Do](https://open.spotify.com/track/2S9zMuXvsJep8Mw6RGWuGC) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [All I Wanna Do](https://open.spotify.com/album/5CpwpANrfDOaV4x1shwcc9) | 2:43 |
 
-Snapshot ID: `AAALs9eaIi051tWNh6MTNLHHbAW4T6QM`
+Snapshot ID: `AAALtPzibp8hDcBF55UNY53cISkC0fB9`

@@ -4,7 +4,7 @@
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 3 min
+35 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [I Love Playin' With Fire](https://open.spotify.com/track/7qh5Xb9mMBzFyhKOEByOiD) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 3:21 | 2026-03-07 |  |
 | [I Wanna Be Where The Boys Are \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/6Wu9uWzszLFuCS6dUkVhnx) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:56 | 2026-03-07 |  |
 | [I'm A Million](https://open.spotify.com/track/0paf4ryjjdklDseuFJOePy) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 5:59 | 2026-03-07 |  |
+| [Is It Day Or Night \- Live](https://open.spotify.com/track/5Qrdg3udLE1r1lofzlIl63) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 2:35 | 2026-03-26 |  |
 | [Is It Day Or Night?](https://open.spotify.com/track/1KlGMvdrwAks29kzrqMZd3) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:45 | 2026-03-07 |  |
 | [Kangaroo Hop](https://open.spotify.com/track/4RWXHU8nmgF31B4ftLrIUA) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Explosive Doowops, Vol\. 6](https://open.spotify.com/album/1eV51QEW7s52YzPROjTQV1) | 2:20 | 2026-03-07 |  |
 | [Little Lost Girls](https://open.spotify.com/track/5voJquNkFnFPNW1WQWmp3I) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 4:43 | 2026-03-07 |  |

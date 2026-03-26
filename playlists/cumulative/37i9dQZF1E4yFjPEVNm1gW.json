@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Duwap Kaine, Autumn! and more",
+  "description": "With Yeat, Autumn!, Duwap Kaine and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 142199,
       "name": "Adulthood",
       "url": "https://open.spotify.com/track/7KCgFPgWcTHWCOMdqVMiBj"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -434,6 +434,24 @@
       "duration_ms": 154991,
       "name": "Boys Don\u2019t Cry",
       "url": "https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ"
+    },
+    {
+      "album": {
+        "name": "World Class",
+        "url": "https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe"
+      },
+      "artists": [
+        {
+          "name": "Slash4L",
+          "url": "https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125401,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
     },
     {
       "album": {
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 138461,
       "name": "Ky\u2019reemoo Irving",
       "url": "https://open.spotify.com/track/3DCMa648m8EHDPZwjxrWva"
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 136062,
       "name": "Moe Texas",
       "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"

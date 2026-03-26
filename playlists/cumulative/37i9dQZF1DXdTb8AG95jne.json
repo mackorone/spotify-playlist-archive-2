@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 252461,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/2hpmUppgJrIfYCp14ly88K"
@@ -8931,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Hypnagogia",
+        "url": "https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx"
+      },
+      "artists": [
+        {
+          "name": "Lee Seol Ah",
+          "url": "https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Hypnagogia",
+      "url": "https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs"
+    },
+    {
+      "album": {
         "name": "i",
         "url": "https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD"
       },
@@ -12956,7 +12974,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 252379,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu"
@@ -21062,6 +21080,24 @@
       "duration_ms": 252706,
       "name": "Unhappiness",
       "url": "https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh"
+    },
+    {
+      "album": {
+        "name": "Unhappy Ending",
+        "url": "https://open.spotify.com/album/7vB2E47K84M1m1QH3Adto6"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171006,
+      "name": "Unhappy Ending",
+      "url": "https://open.spotify.com/track/2Y3yV7ILRKPwJeO3ebbGNm"
     },
     {
       "album": {

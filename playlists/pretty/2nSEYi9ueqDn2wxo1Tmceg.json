@@ -6,8 +6,28 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARtNYDXcXpZ5MZYEBZNeChLOnNi0xF",
+  "snapshot_id": "AAARtZhQZdG30tQuXv904tG5khPKDCHw",
   "tracks": [
+    {
+      "added_at": "2026-03-25 13:55:20",
+      "album": {
+        "name": "Rockcurry",
+        "url": "https://open.spotify.com/album/3S7q9XpuNwuj9Xp3eMSduV"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 209056,
+      "name": "Rockcurry",
+      "url": "https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk"
+    },
     {
       "added_at": "2026-03-18 12:17:51",
       "album": {

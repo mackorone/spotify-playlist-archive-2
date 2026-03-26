@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 246688,
       "name": "Behind",
       "url": "https://open.spotify.com/track/6RjoCkeM2zjZXY4xio0nBi"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 194712,
       "name": "Dog In A Nightgown",
       "url": "https://open.spotify.com/track/5DLCfuaYFa7aKQkmydQgjN"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 169230,
       "name": "Last Life",
       "url": "https://open.spotify.com/track/7tXv1zympQDmUL8eDqfvTn"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/77xe4sZAX1YmDREwxDfpcI"
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -5544,7 +5544,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -5877,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/16v2aB6m1M0CfW4vPBMmsu"
+      },
+      "artists": [
+        {
+          "name": "STARSE3D",
+          "url": "https://open.spotify.com/artist/6ISe7SfwdCcG5wQh8L854I"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213937,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/4OIDgQifs1MGAsjeFNnF6R"
+    },
+    {
+      "album": {
         "name": "Orange Juice",
         "url": "https://open.spotify.com/album/1QnQRmvLa85EsQrtTJJrAk"
       },
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -6232,6 +6250,24 @@
       "duration_ms": 224286,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/3YU1NPe6y6Z5BgWG1fwa0d"
+    },
+    {
+      "album": {
+        "name": "Pin Ups",
+        "url": "https://open.spotify.com/album/4itr4L9MsKJLGO7a8LI6d4"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/50UnLkGHxZzbwsoocDKdhd"
     },
     {
       "album": {
@@ -6734,7 +6770,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 144000,
       "name": "Sanguine",
       "url": "https://open.spotify.com/track/7rARuszC0Pa239vUm2JZoV"
@@ -6770,7 +6806,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -6842,7 +6878,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 204500,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/2fvKCHlsP7AboO4HMRrub3"
@@ -8332,7 +8368,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -8512,7 +8548,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 233045,
       "name": "They Don't Care (About You)",
       "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
@@ -8830,7 +8866,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 234717,
       "name": "To Nothing",
       "url": "https://open.spotify.com/track/7DfKjEwt7CIiiDPBO0JmBX"
@@ -9434,6 +9470,24 @@
       "duration_ms": 220474,
       "name": "We're Not Normal",
       "url": "https://open.spotify.com/track/4kcFLWYRCRcKgefkr4vQYO"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/3tIthNqOjRn5Qr7ctaq8x2"
+      },
+      "artists": [
+        {
+          "name": "Hollow Sinatra",
+          "url": "https://open.spotify.com/artist/4EADCwm9YIiMAnvcTXBSub"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180891,
+      "name": "Weaponized Fear",
+      "url": "https://open.spotify.com/track/0uS2kBCBzwBgLYI0RFRS1o"
     },
     {
       "album": {

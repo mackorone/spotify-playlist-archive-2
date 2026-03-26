@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5941,
+  "num_followers": 5943,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAD/s7lExURR5hkoclOdjGOV",
+  "snapshot_id": "acHUAAAAAACB5VlLa52FlwaFwkwoSU9j",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 103882,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Yoruba Worship Medley",
-        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 620000,
-      "name": "Deep Yoruba Worship Medley",
-      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deep Yoruba Worship Medley",
+        "url": "https://open.spotify.com/album/4UvAfaTdKi7UyMEJS4bAgN"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 620000,
+      "name": "Deep Yoruba Worship Medley",
+      "url": "https://open.spotify.com/track/5BDOhkYpiCFySsKi2FYB1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You make all things Beautiful (Piano Session)",
-        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 87405,
-      "name": "You make all things Beautiful (Piano Session)",
-      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 256872,
       "name": "2Cor 5:7",
       "url": "https://open.spotify.com/track/4nNg7C3FRkEseDHingWCqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You make all things Beautiful (Piano Session)",
+        "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 87405,
+      "name": "You make all things Beautiful (Piano Session)",
+      "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 302438,
       "name": "Your Presence Is Heaven",
       "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20Minutes Spontaneous Deep Worship",
+        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1270909,
+      "name": "20Minutes Spontaneous Deep Worship",
+      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
+      "duration_ms": 198400,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
     },
     {
       "added_at": null,
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
-        "url": "https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb"
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2452610,
-      "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
-      "url": "https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB"
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 287316,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
+        "url": "https://open.spotify.com/album/5T3tv3McENIhPWczy2jDVb"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2452610,
+      "name": "INTIMATE SPONTANEOUS WORSHIP SESSION: 40 Minutes.",
+      "url": "https://open.spotify.com/track/2GmLWssF8dy7u4qfVB4JzB"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Find",
-        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 240375,
-      "name": "Never Find",
-      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You are Lifted (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Find",
+        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 240375,
+      "name": "Never Find",
+      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 164155,
       "name": "Na You",
       "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 182488,
       "name": "Joy",
       "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,

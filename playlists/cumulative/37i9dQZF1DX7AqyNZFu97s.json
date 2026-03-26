@@ -14457,6 +14457,24 @@
     },
     {
       "album": {
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07"
+      },
+      "artists": [
+        {
+          "name": "BaggE",
+          "url": "https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA"
+    },
+    {
+      "album": {
         "name": "Devil In Me",
         "url": "https://open.spotify.com/album/4QpFRBbIyeKcFKtMd7fc8j"
       },

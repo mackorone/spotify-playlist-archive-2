@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 292 likes - 2,096 songs - 5 day 4 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 294 likes - 2,101 songs - 5 day 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2104,5 +2104,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2094 | [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 |
 | 2095 | [Echoes of the Embers \- Special Version](https://open.spotify.com/track/600D7s8LSYbGvBkNiNq1XN) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Echoes of the Embers \(Special Version\)](https://open.spotify.com/album/2bG2B4aIQuyRfNJyzw1xkW) | 4:13 |
 | 2096 | [Casa de Memorias](https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memorias](https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR) | 4:12 |
+| 2097 | [Coffee](https://open.spotify.com/track/5GXyCj24iKfdoGUmAmtbg2) | [Ovi Caloni](https://open.spotify.com/artist/0inPbbC0PnvOpFPui3KQK7) | [Coffee](https://open.spotify.com/album/4H3e7U0UPU2x4RC3IT4Zd5) | 3:24 |
+| 2098 | [Life goes on](https://open.spotify.com/track/4zfXcdpq3jpUqhYkzAHcUJ) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Life goes on](https://open.spotify.com/album/45a7pL38m9hkThDfPxmdMM) | 3:33 |
+| 2099 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 |
+| 2100 | [Love Is a Liar \(2024 Remastered Version\)](https://open.spotify.com/track/7ljXT4AJy1mRLFBxvH4D0U) | [Marc Tomé](https://open.spotify.com/artist/2y9La4af89lJQxN4UUwUEf) | [Marc Tomé \(2024 Remastered Version\)](https://open.spotify.com/album/539xmZHkPOLDGf1OykDTqG) | 3:38 |
+| 2101 | [Little Breaths of Earth](https://open.spotify.com/track/5zs4FeblB1ADXD1fFqsFeQ) | [Wren West](https://open.spotify.com/artist/74pbT2LPDxbREIa12eMfxU) | [Little Breaths of Earth](https://open.spotify.com/album/5atEREgUaJnYKMWBAtwYFX) | 5:09 |
 
-Snapshot ID: `AAAI0CItRa90l22zdE98q0ZeTMH+z9VM`
+Snapshot ID: `AAAI1V/Ic7ykIiiyScaPtPbBW0or3nkH`

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Baby Keem",
-  "num_followers": 78740,
+  "num_followers": 78856,
   "original_name": "Editors' Picks: Best Songs of February",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "OLD TECHNOLOGY",
         "url": "https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 159198,
       "name": "OLD TECHNOLOGY",
       "url": "https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
         "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
         "url": "https://open.spotify.com/album/0YmJPpKQdsskngFVgZy8Ss"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 176867,
       "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
       "url": "https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 145181,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "New Age",
         "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Indicator",
-        "url": "https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE"
-      },
-      "artists": [
-        {
-          "name": "John The Blind",
-          "url": "https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD"
-        }
-      ],
-      "duration_ms": 216277,
-      "name": "Beautiful Thing",
-      "url": "https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "Manmade Manmaid",
         "url": "https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 160408,
       "name": "Manmade Manmaid",
       "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Indicator",
+        "url": "https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE"
+      },
+      "artists": [
+        {
+          "name": "John The Blind",
+          "url": "https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD"
+        }
+      ],
+      "duration_ms": 216277,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg"
     },
     {
       "added_at": "2026-03-02 12:43:35",

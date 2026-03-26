@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,755 likes - 109 songs - 7 hr 12 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,758 likes - 112 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 107 | [The Tallahatchie Bridge](https://open.spotify.com/track/21LLRRYgZ2NiuVgrr2p5eT) | [Tim Hall and Buffalo Country](https://open.spotify.com/artist/6yGS5pRLuajIewHjZO2f8a) | [The Tallahatchie Bridge](https://open.spotify.com/album/00itmvsffnRW14XIlToe1F) | 3:34 |
 | 108 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 |
 | 109 | [All Alone \- Went to the Bone Solo Version](https://open.spotify.com/track/5RnLoAlp8H4oKl15MGtM4y) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Back of the Wreck](https://open.spotify.com/album/1UeyVHTtupC0nBL7fr8H9V) | 2:37 |
+| 110 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 |
+| 111 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 |
+| 112 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
 
-Snapshot ID: `AAAK6J4tiBJZnXymOCQ5un09hP6xhrf9`
+Snapshot ID: `AAAK6yh2L88Y8h2DyjCS8v8+vIOl2Woj`

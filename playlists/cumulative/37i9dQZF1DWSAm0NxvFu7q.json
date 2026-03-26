@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Sonic Excess In Its Purest Form",
+        "url": "https://open.spotify.com/album/4Davu5xpuijMwg3dohmKsZ"
+      },
+      "artists": [
+        {
+          "name": "Crowbar",
+          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+      "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo"
+    },
+    {
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk"
       },

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Alive!",
+      "url": "https://open.spotify.com/track/28cm9uWSKVAfZ0HDBlq4rS"
+    },
+    {
+      "album": {
         "name": "Big Mood Attitude",
         "url": "https://open.spotify.com/album/4XTGugIUJgEbzoL0oH1l2z"
       },
@@ -956,6 +974,24 @@
       "duration_ms": 169038,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1yjznOLHmk9nMVskfYSMpr"
+    },
+    {
+      "album": {
+        "name": "Reign In Blood (Expanded)",
+        "url": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255186,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE"
     },
     {
       "album": {

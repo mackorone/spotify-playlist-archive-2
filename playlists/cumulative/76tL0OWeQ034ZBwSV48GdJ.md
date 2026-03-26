@@ -4,7 +4,7 @@
 
 > 
 
-246 songs - 23 hr 10 min
+247 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Momentum](https://open.spotify.com/track/0d5MXy7xzpDcefjJjG2ru7) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH), [Lilly BG](https://open.spotify.com/artist/7bCmyVBrPJmOHKQeSO32Wa) | [Lebendig](https://open.spotify.com/album/7EkFA36dJZBWcTtyqAuj2D) | 4:03 | 2025-10-28 |  |
 | [MONEY ON THE DASH \- Marlon Hoffstadt aka DJ Daddy Trance Remix](https://open.spotify.com/track/2BeoGYw46Le2cYafiZwxOr) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [MONEY ON THE DASH \- Marlon Hoffstadt aka DJ Daddy Trance Remix](https://open.spotify.com/album/5rAc78sdKRhyxYDCTfp2N8) | 5:06 | 2024-06-27 |  |
 | [Moth To A Flame \(feat\. The Weeknd\) \- Adriatique Remix](https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame \(Adriatique Remix\)](https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC) | 6:29 | 2024-07-17 |  |
+| [My Darling \(Suma Suma\) ft\. Dawda](https://open.spotify.com/track/4HSbpA3iui1FWsZNWwpfv2) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [My Darling \(Suma Suma\) ft\. Dawda](https://open.spotify.com/album/1SOzfTt1qsgAMixiHdhgJn) | 3:11 | 2026-03-25 |  |
 | [Need To Feel Loved \- Tinlicker Remix](https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN) | [Reflekt](https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Anjunabeats Volume 14](https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX) | 5:08 | 2021-07-05 |  |
 | [Neuromance](https://open.spotify.com/track/0LtSc0QEFNsCttEVUhxi3q) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 8:41 | 2022-02-08 |  |
 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 | 2023-05-02 |  |
@@ -147,7 +148,7 @@
 | [On My Knees](https://open.spotify.com/track/2ouFrmMwYik8nQX2n9SeZu) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:21 | 2023-05-31 |  |
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2023-05-31 |  |
 | [Once in a Blue Moon \- Extended Mix](https://open.spotify.com/track/25RerHohoUYK9oUuyzVYac) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Once in a Blue Moon](https://open.spotify.com/album/6ScQtnePixkdetBscAO1v1) | 6:16 | 2022-04-20 |  |
-| [One That You Love](https://open.spotify.com/track/2TmjzEaWM0NtvP9kvG2JwA) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [One That You Love](https://open.spotify.com/album/1r5YBIX5oeePjXtF9kxj4A) | 3:05 | 2026-03-20 |  |
+| [One That You Love](https://open.spotify.com/track/2TmjzEaWM0NtvP9kvG2JwA) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [One That You Love](https://open.spotify.com/album/1r5YBIX5oeePjXtF9kxj4A) | 3:05 | 2026-03-20 | 2026-03-26 |
 | [Only Get Better](https://open.spotify.com/track/5KxUNPX2MSgqmMMsrZVIQ1) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:43 | 2023-11-13 |  |
 | [Orca](https://open.spotify.com/track/3gA3UvnTI1r7p37pCWQrLM) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:33 | 2022-02-04 |  |
 | [Outomorrow](https://open.spotify.com/track/1uP4NxIrmoZvBje2JOKr3d) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [A Magic World](https://open.spotify.com/album/3uW3PwT40SJKQDfhrLvwNY) | 4:11 | 2021-10-22 |  |

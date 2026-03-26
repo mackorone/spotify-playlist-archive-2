@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Gotta Be Free (Live Cleveland '76)",
+        "url": "https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155898,
+      "name": "Is It Day Or Night - Live",
+      "url": "https://open.spotify.com/track/5Qrdg3udLE1r1lofzlIl63"
+    },
+    {
+      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 181 songs - 9 hr 27 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 184 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 179 | [fall in love again](https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [fall in love again](https://open.spotify.com/album/7vv4gLpYpoRWlsZ5KLLbyO) | 2:03 |
 | 180 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 |
 | 181 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 |
+| 182 | [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 |
+| 183 | [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 |
+| 184 | [E.L.I](https://open.spotify.com/track/4nyxCD4FCZveMonOlO7qgu) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Yua](https://open.spotify.com/artist/1maYXmjvOoGdlq4qYyTSpk), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw) | [E.L.I](https://open.spotify.com/album/5gZLk23Noulnh6PjRK4K8K) | 2:42 |
 
-Snapshot ID: `AAAVu8cTWcdh5FWu7OemBNVtwwOnbbRa`
+Snapshot ID: `AAAVvtpXqGuAMHs9uqzyK18Kt7rMjon9`

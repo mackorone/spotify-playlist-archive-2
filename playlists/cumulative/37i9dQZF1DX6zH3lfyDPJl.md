@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-203 songs - 12 hr 36 min
+206 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-03-14 |  |
 | [beautiful](https://open.spotify.com/track/2iTIccPiyyQDATAk32V1jq) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [beautiful](https://open.spotify.com/album/6Tesrm78R6HujygeuC74l8) | 2:51 | 2025-10-20 | 2025-11-11 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2024-08-05 | 2025-04-02 |
-| [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 | 2026-03-12 |  |
+| [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 | 2026-03-12 | 2026-03-26 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2024-08-05 | 2025-04-02 |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-08-05 | 2025-04-02 |
 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 | 2025-06-12 |  |
@@ -47,6 +47,7 @@
 | [Caroline](https://open.spotify.com/track/6KMvV8gTiD4ZY3kQCNNdaP) | [hemming](https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu) | [Caroline](https://open.spotify.com/album/3As3FgZcrGsiY9oaRy546s) | 4:15 | 2025-10-20 | 2026-01-27 |
 | [Cherish](https://open.spotify.com/track/22czSIoBdsSi89qKNl5GYA) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:23 | 2026-02-05 | 2026-03-06 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-07-17 |  |
+| [clouds in my room](https://open.spotify.com/track/4KX6ezCFC1COfMCzSOEjgT) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 11](https://open.spotify.com/album/4pcDPJa2skBamjyaK80l7R) | 3:35 | 2026-03-26 |  |
 | [Colors](https://open.spotify.com/track/4FkJCAsrCLPkKePw4zkOip) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Colors](https://open.spotify.com/album/2wFgvSTbDeT9TaXq4nfpbs) | 3:43 | 2025-09-08 | 2026-01-27 |
 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 | 2024-08-05 | 2025-04-02 |
 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 | 2025-03-14 | 2025-04-02 |
@@ -82,7 +83,7 @@
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-24 | 2025-10-21 |
 | [Hangang II \(feat\. prettyhappy\)](https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Hangang II](https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf) | 4:04 | 2025-10-20 | 2025-11-11 |
 | [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 | 2026-02-05 | 2026-02-14 |
-| [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 | 2026-03-12 |  |
+| [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 | 2026-03-12 | 2026-03-26 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 | 2025-05-30 |  |
@@ -106,12 +107,14 @@
 | [LOST](https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [LOST \(Positively Yours X THAMA\) \[Original Soundtrack\]](https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb) | 4:17 | 2026-02-13 | 2026-03-13 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-05 | 2025-05-31 |
 | [Love Is You](https://open.spotify.com/track/5iDpbj6HcDohfP5UCNeIOZ) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Flower](https://open.spotify.com/album/6sR8UXsdokd18ak4Eflyuw) | 3:53 | 2026-01-26 | 2026-02-14 |
+| [Love Scales](https://open.spotify.com/track/6iS9krnkTMDrEqRYhAjMta) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Wanna be](https://open.spotify.com/album/6vYVtXrTD3fG4BUFuPyf9D) | 4:13 | 2026-03-26 |  |
 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2025-04-17 |  |
 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 | 2025-03-14 |  |
 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2024-08-05 | 2026-01-27 |
 | [Lunch Time 점심시간](https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Lunch Time 점심시간](https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp) | 4:36 | 2024-08-05 | 2025-04-02 |
 | [M Television](https://open.spotify.com/track/0F2d4rttCd24RQ0CA5enHl) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:27 | 2024-08-05 | 2025-06-06 |
 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 | 2024-08-05 | 2025-06-27 |
+| [me & u](https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:00 | 2026-03-26 |  |
 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 | 2024-08-05 | 2025-12-27 |
 | [Midnight Call](https://open.spotify.com/track/3TssoZ9ii3dhczxLQGjasQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Midnight Call](https://open.spotify.com/album/5mYcp0Nf4P1KGFPPA01ARr) | 3:04 | 2026-01-26 | 2026-02-06 |
 | [miss u so](https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [Nam Gijun](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [miss u so](https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg) | 3:35 | 2026-03-05 | 2026-03-19 |
@@ -137,7 +140,7 @@
 | [Old Town](https://open.spotify.com/track/0BTaF7WdhyGDuYoQJtv6vb) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Where We Were Together](https://open.spotify.com/album/2uM37yCppwAzlYwvDgKZpO) | 3:53 | 2024-08-05 | 2025-04-02 |
 | [Only Ecstasy](https://open.spotify.com/track/5bzLRH0aGMIu2DKMZLtIvU) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 4:21 | 2024-08-05 | 2025-05-02 |
 | [Organized Chaos](https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Organized Chaos](https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa) | 2:55 | 2024-08-05 | 2025-04-02 |
-| [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 | 2026-03-05 |  |
+| [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 | 2026-03-05 | 2026-03-26 |
 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 | 2024-08-05 | 2025-06-06 |
 | [Overtime](https://open.spotify.com/track/7aU81Qt0Ro5AkjJFVyuvU9) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Roommates // Overtime](https://open.spotify.com/album/4Fj5zzYFkEeSND67m9WbpL) | 3:24 | 2024-08-05 | 2025-04-02 |
 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 | 2024-08-05 | 2025-05-02 |

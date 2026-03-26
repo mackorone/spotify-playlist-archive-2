@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-826 songs - 1 day 13 hr 20 min
+828 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Balkan's note](https://open.spotify.com/track/7kS133srGVKhP0pcpCakvh) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA) | [Balkan's note](https://open.spotify.com/album/5fN5rupmALg7QxMiPvfw2o) | 3:45 | 2021-12-23 | 2022-07-26 |
 | [Barefoot](https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Barefoot](https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj) | 2:40 | 2024-06-07 |  |
 | [bay](https://open.spotify.com/track/0fTKmtZaWDLDl40LSzug3v) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [bay](https://open.spotify.com/album/5WP2xh5FcWDrsKnNHMGVQR) | 3:12 | 2021-12-23 | 2022-07-29 |
-| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 |  |
+| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 | 2026-03-26 |
 | [Bedroom](https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:16 | 2021-12-23 |  |
 | [Before The Dawn](https://open.spotify.com/track/5I6LbB47jbWkDOzKOrUNlF) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Before The Dawn](https://open.spotify.com/album/1dddOp0aC7pN0Vh7f1GKTK) | 1:15 | 2021-12-23 | 2022-07-25 |
 | [beginning](https://open.spotify.com/track/0o3doNBnx1bZ1jwC1Ctd9l) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [beginning](https://open.spotify.com/album/5ghXbPt9oQ8WbZKstyKDfR) | 2:32 | 2023-08-10 | 2024-02-22 |
@@ -360,6 +360,7 @@
 | [keep j](https://open.spotify.com/track/2xOJGbDOvfSenRpdOVzHmS) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [keep j](https://open.spotify.com/album/7aVHJAd8FNUipkIXsmdNQV) | 3:01 | 2022-02-24 | 2022-06-29 |
 | [Keyframe](https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Keyframe](https://open.spotify.com/album/2DVMwBgoDdVVvDdagyeEmk) | 2:00 | 2021-12-23 | 2025-09-19 |
 | [Kiddish](https://open.spotify.com/track/3aJGP2lJwgsCduog1jmGuE) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Kiddish](https://open.spotify.com/album/5Vhwd7DKQWvXzBZh7MVe6n) | 2:08 | 2022-01-06 | 2022-07-16 |
+| [Kingyo](https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Kingyo](https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV) | 2:48 | 2026-03-25 |  |
 | [Kizanka](https://open.spotify.com/track/5IbxNiplCikWjPQIidIpbP) | [Hedge Hop](https://open.spotify.com/artist/73mgRho1n2qDPfYMgvzugF), [Kazuki Arai](https://open.spotify.com/artist/1tLZA82NJkrx6GOPKxlAIK) | [Kizanka](https://open.spotify.com/album/5a9lNbGJcjeLT6j8t3mTfh) | 2:30 | 2021-12-23 | 2022-07-29 |
 | [Kizuna](https://open.spotify.com/track/6bsS5j5OC2q5ZrxlVg9rTs) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Kizuna](https://open.spotify.com/album/1ISgbuRY57vsJWuxiNLtYu) | 3:09 | 2021-12-23 | 2022-07-19 |
 | [Know](https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Know](https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H) | 2:52 | 2022-03-31 | 2023-04-21 |
@@ -618,6 +619,7 @@
 | [Samui](https://open.spotify.com/track/02vMiqjglGHUt0poNcIf5v) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Samui](https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN) | 1:24 | 2022-03-24 | 2022-04-19 |
 | [Samui](https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Samui](https://open.spotify.com/album/3DcZEHiHT7uPkd5Bs8ynn9) | 1:24 | 2022-07-28 | 2022-10-21 |
 | [sanctuary](https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [sanctuary](https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t) | 3:15 | 2025-02-09 | 2025-04-01 |
+| [Sanctuary](https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Sanctuary](https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy) | 2:19 | 2026-03-25 |  |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
 | [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 | 2025-08-20 |
@@ -815,7 +817,7 @@
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-09-07 |  |
 | [You Are My Secret Lounge](https://open.spotify.com/track/1QueZBQEbVioULqaNgawtH) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [You Are My Secret Lounge](https://open.spotify.com/album/3AZVbZBnFq6B54y62BLVpi) | 2:09 | 2023-08-01 | 2023-08-11 |
-| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 |  |
+| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2026-03-26 |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-13 |  |
 | [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 | 2022-12-02 |
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |

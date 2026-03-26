@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Alyssa Grace",
-  "num_followers": 96752,
+  "num_followers": 96757,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWwdeXWYK4fg1kDFib3HNtu5cHm",
+  "snapshot_id": "AAAAAF40r7U1HI5E8qDdOJ7N7iT6csFa",
   "tracks": [
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 248981,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
+    },
     {
       "added_at": "2026-03-11 17:52:44",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 234266,
       "name": "Wandering Star",
       "url": "https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Headlamp",
+        "url": "https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F"
+      },
+      "artists": [
+        {
+          "name": "Ivy Knight",
+          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Headlamp",
+      "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Universal Human Needs",
+        "url": "https://open.spotify.com/album/5tQH0pxxi6cno3ifpEuMMj"
+      },
+      "artists": [
+        {
+          "name": "Sham",
+          "url": "https://open.spotify.com/artist/3oNsJuENqiK7S8guF6EQjp"
+        }
+      ],
+      "duration_ms": 189458,
+      "name": "Universal Human Needs",
+      "url": "https://open.spotify.com/track/6g3kLS87owY6Lc0k9YjanE"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Mama, My Heart Is Achin'",
+        "url": "https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "duration_ms": 225610,
+      "name": "Mama, My Heart Is Achin'",
+      "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6W0OJwruftgimcKiuLXHD5"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
     },
     {
       "added_at": "2026-03-11 17:52:44",
@@ -1135,54 +1215,6 @@
       "duration_ms": 305108,
       "name": "I'm Always Sad",
       "url": "https://open.spotify.com/track/5bl0LwzSmsw4PlQCgrZsgf"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/4BQJbpqg6DA0cG8i2X66Gp"
-      },
-      "artists": [
-        {
-          "name": "Ellis King",
-          "url": "https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "The Blueprint",
-      "url": "https://open.spotify.com/track/0MsO0N1PXLazlHz3qnOeKZ"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "New Season",
-        "url": "https://open.spotify.com/album/1ie78xa7IYAseGPHIfO8mO"
-      },
-      "artists": [
-        {
-          "name": "Katie Lynne Sharbaugh",
-          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "New Season",
-      "url": "https://open.spotify.com/track/1XKkywB0E7fR6antkaTJVl"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Dream Of Mine",
-        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 243570,
-      "name": "Dream Of Mine",
-      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
     }
   ],
   "unique_name": "Fresh Finds Folk",

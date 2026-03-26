@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=8Tf9hIrBSW\-FrG6f9oxfYA">Zaylevelten</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,688 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,703 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Feel Low](https://open.spotify.com/track/5S4TFFPRghc9pI6kKRE6Ma) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Feel Low](https://open.spotify.com/album/5R0py9OArsqpcf8LGRsEYm) | 2:18 |
 | 50 | [Go Back](https://open.spotify.com/track/4u6EGvb0TOh9h3eS4eYd6l) | [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Go Back](https://open.spotify.com/album/4xC2K3DOkwTQaI0mVlHpX6) | 3:40 |
 
-Snapshot ID: `AAAAAEf+Y0ZOOvnouSjviozYw5UWrYYl`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

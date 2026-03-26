@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAAB+0FkWZzwrJVk7XfwFJrnh",
+  "snapshot_id": "acHUAAAAAABYbeKCG3ZrA5dHQI7+F1jH",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Tales: Floating Points",
-        "url": "https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 563427,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/63QmA6FQwtoHIDP3m43UgS"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida - Kara-Lis Coverdale",
       "url": "https://open.spotify.com/track/6zrfr1RV9IM7SKUdYHU4UX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Night Tales: Floating Points",
+        "url": "https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 563427,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 217469,
-      "name": "Circularism",
-      "url": "https://open.spotify.com/track/0hqnrTulWeD25GZBr1SERM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 266500,
       "name": "Imgs /r",
       "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 217469,
+      "name": "Circularism",
+      "url": "https://open.spotify.com/track/0hqnrTulWeD25GZBr1SERM"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Turning Multitudes",
-      "url": "https://open.spotify.com/track/4YRc5vTlfT4dRznuaDLe8j"
+      "duration_ms": 212124,
+      "name": "In Charge of the Hour",
+      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 477000,
-      "name": "Curve Traces of Held Space",
-      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
+      "duration_ms": 644166,
+      "name": "Labyrinth I",
+      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 212124,
-      "name": "In Charge of the Hour",
-      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
+      "duration_ms": 233500,
+      "name": "Turning Multitudes",
+      "url": "https://open.spotify.com/track/4YRc5vTlfT4dRznuaDLe8j"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 644166,
-      "name": "Labyrinth I",
-      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
+      "duration_ms": 477000,
+      "name": "Curve Traces of Held Space",
+      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Lowlands",
-      "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
+      "duration_ms": 213500,
+      "name": "Suspension of Swallowed Earth",
+      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Suspension of Swallowed Earth",
-      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
+      "duration_ms": 102812,
+      "name": "Cumulative Resolution",
+      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 269500,
       "name": "Ad_renaline",
       "url": "https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A 480",
-        "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 122999,
-      "name": "A 476",
-      "url": "https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL"
     },
     {
       "added_at": null,

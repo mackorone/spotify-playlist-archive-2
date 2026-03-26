@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 180759,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/3w6vIquD1OMDr9j1iajnNV"
@@ -2795,6 +2795,28 @@
     },
     {
       "album": {
+        "name": "I'm sorry i could let go",
+        "url": "https://open.spotify.com/album/7vyptl7gBQnM30gmNrimDb"
+      },
+      "artists": [
+        {
+          "name": "JsSenor",
+          "url": "https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9"
+        },
+        {
+          "name": "hiacynth",
+          "url": "https://open.spotify.com/artist/5uKdblWDAh7mYZaXsHhCXG"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138234,
+      "name": "blind",
+      "url": "https://open.spotify.com/track/6qkBwWOC6dElnFEfUYWuXp"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5rBh1tA0ZhWg6UZ22hWPHf"
       },
@@ -2990,7 +3012,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 364657,
       "name": "Bohemian Dreams - Beach Club Mix",
       "url": "https://open.spotify.com/track/0WWrULEhRTCZ6KLT5I33GH"
@@ -3316,6 +3338,24 @@
       "duration_ms": 263759,
       "name": "Broken (Psalm 13)",
       "url": "https://open.spotify.com/track/6qSJZGM4tZaA6Wib4ci1Wq"
+    },
+    {
+      "album": {
+        "name": "Broken Little Pieces (Demo)",
+        "url": "https://open.spotify.com/album/6t5f1GZQeabEc8FiveessK"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "Broken Little Pieces - Demo",
+      "url": "https://open.spotify.com/track/681DnGwxY036zqOAtAuRMb"
     },
     {
       "album": {
@@ -5058,7 +5098,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 192660,
       "name": "d0pamine",
       "url": "https://open.spotify.com/track/3Vvmb3rK8YZ12z1FCgqdWz"
@@ -5258,7 +5298,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 201216,
       "name": "Darling Where Have You Been",
       "url": "https://open.spotify.com/track/0JOEKhCY9fmuNukbFHji2u"
@@ -7361,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "Even Though It Hurts Me",
+        "url": "https://open.spotify.com/album/2POmTHeBc6EdQ5KbLa4bvK"
+      },
+      "artists": [
+        {
+          "name": "Wes D'Alelio",
+          "url": "https://open.spotify.com/artist/7wxu3eoDdPwI9EnNRq35CR"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Even Though It Hurts Me",
+      "url": "https://open.spotify.com/track/3zIU9iCKhqTKF5JrNlAB1O"
+    },
+    {
+      "album": {
         "name": "Heart Shapes",
         "url": "https://open.spotify.com/album/0vTrreeTwPVuUnOc4wAzyD"
       },
@@ -7946,7 +8004,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 174589,
       "name": "Feelz They Faded",
       "url": "https://open.spotify.com/track/32GLCe8Tgjz7WHZWy0XS4j"
@@ -8036,7 +8094,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 160615,
       "name": "Find Me a River - Act II",
       "url": "https://open.spotify.com/track/5M6cIqrl4Dj7yBH2uJJbTq"
@@ -8560,7 +8618,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 395683,
       "name": "Forward Motion",
       "url": "https://open.spotify.com/track/7jmOCmr7szIAECuY4Al023"
@@ -10173,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "Hide Away",
+        "url": "https://open.spotify.com/album/1yKfgbQkWEPodJxQhyxrsY"
+      },
+      "artists": [
+        {
+          "name": "Euan Hammond",
+          "url": "https://open.spotify.com/artist/2nEGoVluqPxGvLKlP20aN3"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/55fyowkhO89KLDit9n8sLA"
+    },
+    {
+      "album": {
         "name": "High for a While",
         "url": "https://open.spotify.com/album/504fTWr8eNO6gLe68bqNhh"
       },
@@ -10690,7 +10766,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 136551,
       "name": "Hot Like a Fever",
       "url": "https://open.spotify.com/track/5n6lG0jqYUUFxe70tMd0vL"
@@ -12784,6 +12860,24 @@
       "duration_ms": 100294,
       "name": "LAME",
       "url": "https://open.spotify.com/track/5mgC2qtoI9xEfrFTxAcOex"
+    },
+    {
+      "album": {
+        "name": "SHADES OF GREEN",
+        "url": "https://open.spotify.com/album/2dvpOw5twM2nxfy6mLSEma"
+      },
+      "artists": [
+        {
+          "name": "manattic",
+          "url": "https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208021,
+      "name": "Landlord",
+      "url": "https://open.spotify.com/track/2CrnNewnn0MGZJlXULuC8S"
     },
     {
       "album": {
@@ -15378,7 +15472,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 245500,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/70snidNwTqtZheK1uvX5It"
@@ -15504,7 +15598,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 287727,
       "name": "Mr. Hadagoodtime",
       "url": "https://open.spotify.com/track/7AaYi1ljhIV9F00UYydx8X"
@@ -15580,6 +15674,24 @@
       "duration_ms": 133770,
       "name": "music box",
       "url": "https://open.spotify.com/track/7MyJHFbpzNqlQMu8NoEzIN"
+    },
+    {
+      "album": {
+        "name": "Music Dimension",
+        "url": "https://open.spotify.com/album/59lif3WHxAMDe1HOXL9sIA"
+      },
+      "artists": [
+        {
+          "name": "Robbie-Lee Valentine",
+          "url": "https://open.spotify.com/artist/4maa8J3b229BtblDTc5Fun"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Music Dimension",
+      "url": "https://open.spotify.com/track/1H3Q1svFhPU3ZuatcRm0CG"
     },
     {
       "album": {
@@ -16178,7 +16290,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 102560,
       "name": "New York, New York (Exodus Parody)",
       "url": "https://open.spotify.com/track/6YAacRRPDvrkwfictoAd3t"
@@ -16250,7 +16362,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 221403,
       "name": "No Matter Where You Are",
       "url": "https://open.spotify.com/track/5C1etEMUUIdx4LRrgbWcUP"
@@ -17811,6 +17923,24 @@
     },
     {
       "album": {
+        "name": "Part Time Lovers",
+        "url": "https://open.spotify.com/album/2dfmToEEZCUKef2Pvl7Tkw"
+      },
+      "artists": [
+        {
+          "name": "EJames",
+          "url": "https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197926,
+      "name": "Part Time Lovers",
+      "url": "https://open.spotify.com/track/4JkJ6hYTDRhYOu093Inpf7"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness - Vol. 3 - Particles",
         "url": "https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn"
       },
@@ -19085,6 +19215,24 @@
     },
     {
       "album": {
+        "name": "Reason We All Share",
+        "url": "https://open.spotify.com/album/7IN9coSLqiMdGcPZocsTft"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192139,
+      "name": "Reason We All Share",
+      "url": "https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/6XBCiCNe0fNfvj6pNs6I5V"
       },
@@ -19418,7 +19566,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 206829,
       "name": "Rewind to Fade",
       "url": "https://open.spotify.com/track/5rjzfPZ8jhERbENZlVjOLI"
@@ -19588,7 +19736,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 181991,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/1VeoY0VLCW1GvHMQyMJQHq"
@@ -19862,7 +20010,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 201119,
       "name": "Sacre Bleu",
       "url": "https://open.spotify.com/track/2ZQR2qa8cYBIVp9V99hlyh"
@@ -23342,7 +23490,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 292590,
       "name": "The Perfect Storm",
       "url": "https://open.spotify.com/track/7nnntwfElXa9djMo39cZfX"
@@ -24636,6 +24784,24 @@
       "duration_ms": 196625,
       "name": "Tug Of War",
       "url": "https://open.spotify.com/track/5izCZPLNC6AdNC9WvPTzEY"
+    },
+    {
+      "album": {
+        "name": "Turn to Him",
+        "url": "https://open.spotify.com/album/6sel0h0cIH1wfTli9Fcdhh"
+      },
+      "artists": [
+        {
+          "name": "Chris Perrine",
+          "url": "https://open.spotify.com/artist/6oD0CDkVU1tQoZJkrLICQ5"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240834,
+      "name": "Turn to Him",
+      "url": "https://open.spotify.com/track/17j03Zl2MGx8lbPo16aYAJ"
     },
     {
       "album": {

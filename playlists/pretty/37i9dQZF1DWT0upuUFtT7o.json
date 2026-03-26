@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Quiet Light",
-  "num_followers": 255154,
+  "num_followers": 255207,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENT6LKYlPA42dbhOd4N/8lfUjmA",
+  "snapshot_id": "AAAAAAO/6hbh8Xwr1rEgQXfTLAsaRkHw",
   "tracks": [
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Behind The Wings",
+        "url": "https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
+    },
     {
       "added_at": "2026-03-11 17:52:17",
       "album": {
@@ -25,20 +41,52 @@
       "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
     },
     {
-      "added_at": "2026-03-18 17:42:54",
+      "added_at": "2026-03-25 16:00:36",
       "album": {
-        "name": "draggin' my feet!",
-        "url": "https://open.spotify.com/album/5vEzSFTbG1LKzP8He9NTAQ"
+        "name": "Never Do It Right",
+        "url": "https://open.spotify.com/album/0YKIrcu1jkPb9MUbObGtUb"
       },
       "artists": [
         {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
         }
       ],
-      "duration_ms": 132587,
-      "name": "draggin' my feet!",
-      "url": "https://open.spotify.com/track/75rjpPPUrJoFcuVoAkkImF"
+      "duration_ms": 248198,
+      "name": "Never Do It Right",
+      "url": "https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "herts on fire",
+        "url": "https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs"
+      },
+      "artists": [
+        {
+          "name": "svn4vr",
+          "url": "https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B"
+        }
+      ],
+      "duration_ms": 119741,
+      "name": "where did everybody go after the show",
+      "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Safeword",
+        "url": "https://open.spotify.com/album/1yIbaul81EmmWh1EjSQLiY"
+      },
+      "artists": [
+        {
+          "name": "Accessory",
+          "url": "https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk"
+        }
+      ],
+      "duration_ms": 135277,
+      "name": "Safeword",
+      "url": "https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B"
     },
     {
       "added_at": "2026-02-25 17:24:17",
@@ -55,6 +103,22 @@
       "duration_ms": 203076,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "To Be Fine",
+        "url": "https://open.spotify.com/album/7l3mAmNxvG0g4lGbQ5lE65"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "duration_ms": 156828,
+      "name": "To Be Fine",
+      "url": "https://open.spotify.com/track/56VBBKn2Vr2YB06ytez7Sm"
     },
     {
       "added_at": "2026-03-18 17:42:54",
@@ -75,22 +139,18 @@
     {
       "added_at": "2026-03-18 17:42:54",
       "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+        "name": "draggin' my feet!",
+        "url": "https://open.spotify.com/album/5vEzSFTbG1LKzP8He9NTAQ"
       },
       "artists": [
         {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
+      "duration_ms": 132587,
+      "name": "draggin' my feet!",
+      "url": "https://open.spotify.com/track/75rjpPPUrJoFcuVoAkkImF"
     },
     {
       "added_at": "2026-03-18 17:42:54",
@@ -107,6 +167,26 @@
       "duration_ms": 216349,
       "name": "Dissociating in New York",
       "url": "https://open.spotify.com/track/6wiesLavHvTWT23wawkVrO"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        },
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
       "added_at": "2026-02-25 17:24:17",

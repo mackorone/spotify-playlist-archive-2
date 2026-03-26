@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1229588,
+  "num_followers": 1229666,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acCCgAAAAACYP6Umktgbds0q6KdPqMFn",
+  "snapshot_id": "acHUAAAAAAA5+RgsD7kgvE8Ucvwsgq9O",
   "tracks": [
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loyal To The Game",
-        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
       "artists": [
         {
@@ -816,13 +816,17 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Soldier Like Me",
-      "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
+      "duration_ms": 217440,
+      "name": "Pac's Life",
+      "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
     },
     {
       "added_at": null,
@@ -847,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pac's Life",
-        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
       "artists": [
         {
@@ -856,17 +860,13 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Pac's Life",
-      "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
+      "duration_ms": 230493,
+      "name": "Soldier Like Me",
+      "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
     },
     {
       "added_at": null,

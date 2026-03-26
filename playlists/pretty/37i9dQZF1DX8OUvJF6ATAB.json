@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 211931,
+  "num_followers": 211943,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
-      "added_at": "2024-01-03 17:16:00",
-      "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "Lizard Point - Remastered 2004",
-      "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Clara",
@@ -311,6 +295,22 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2024-01-03 17:16:00",
+      "album": {
+        "name": "Ambient 4: On Land (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "Lizard Point - Remastered 2004",
+      "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lost Album",
-        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
-      },
-      "artists": [
-        {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
-        }
-      ],
-      "duration_ms": 576000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Ocean Dreams",
         "url": "https://open.spotify.com/album/6yZrvjkD4SOJSwOoXwGK3E"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 113000,
       "name": "Ocean Dreams",
       "url": "https://open.spotify.com/track/4ugKXZBeBMF3hUZjwhwDbh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost Album",
+        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 576000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Grass and Trees",
         "url": "https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 548178,
       "name": "Mirror of Memories",
       "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2023-06-07 02:21:46",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Land III",
+        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        }
+      ],
+      "duration_ms": 284684,
+      "name": "Land III - Vocal Mix",
+      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Tyyni",
         "url": "https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Land III",
-        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Carmen Ruiz",
-          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
-        }
-      ],
-      "duration_ms": 284684,
-      "name": "Land III - Vocal Mix",
-      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
     },
     {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Equivalents",
@@ -1087,6 +1071,22 @@
       "duration_ms": 410133,
       "name": "Equivalent 7",
       "url": "https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos"
+    },
+    {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Die of The Waters",
+        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
+      },
+      "artists": [
+        {
+          "name": "Sharp Veins",
+          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
+        }
+      ],
+      "duration_ms": 186321,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Murmur (Machinefabriek Remix)",
         "url": "https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Die of The Waters",
-        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
-      },
-      "artists": [
-        {
-          "name": "Sharp Veins",
-          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
-        }
-      ],
-      "duration_ms": 186321,
-      "name": "Don't Forget",
-      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sublunar Oracles",
-        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
-      },
-      "artists": [
-        {
-          "name": "Trans-4M",
-          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
-        }
-      ],
-      "duration_ms": 566333,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Senja Recordings",
         "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 292480,
       "name": "Bergsbotn I",
       "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Sublunar Oracles",
+        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
+      },
+      "artists": [
+        {
+          "name": "Trans-4M",
+          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
+        }
+      ],
+      "duration_ms": 566333,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Haust",
         "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 301007,
       "name": "Haust",
       "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
     },
     {
       "added_at": "2023-04-21 14:41:23",

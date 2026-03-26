@@ -1,13 +1,73 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Vimbs Mavimbs. Artwork: Joy Yamusangie.",
-  "num_followers": 240912,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Jon Onabowu. Artwork: Joy Yamusangie.",
+  "num_followers": 240941,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzybWkJZJtuFL724MDQfLfnQGZj",
+  "snapshot_id": "AAAAAMgGym0trkp87bGYgiks7JhqExPd",
   "tracks": [
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "The Bounce",
+        "url": "https://open.spotify.com/album/1aYF4Hueds5ABpZsLrDe0k"
+      },
+      "artists": [
+        {
+          "name": "Jon Onabowu",
+          "url": "https://open.spotify.com/artist/1B3fZSaCWJ9RkCUH2ZgYlu"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 248602,
+      "name": "The Bounce",
+      "url": "https://open.spotify.com/track/6SQV0gvucW9KhzREeDngOO"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/7w0Gx3ZApGyRAxPShrQWQx"
+      },
+      "artists": [
+        {
+          "name": "Fel Mont",
+          "url": "https://open.spotify.com/artist/2u9EuWRv2cyDO5L3T5SuCO"
+        },
+        {
+          "name": "Delia Li",
+          "url": "https://open.spotify.com/artist/7tlRw4KWHqV3GqL8bVfJ9b"
+        }
+      ],
+      "duration_ms": 153031,
+      "name": "At First Light",
+      "url": "https://open.spotify.com/track/3mB6KMbUu63wQ80VNukV7c"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "The Tall Green",
+        "url": "https://open.spotify.com/album/5eTL3qfCqatjSlLgznvQic"
+      },
+      "artists": [
+        {
+          "name": "Homer",
+          "url": "https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb"
+        },
+        {
+          "name": "Kendra McKinley",
+          "url": "https://open.spotify.com/artist/7Isx4fVPiWKyIp46kghIVI"
+        }
+      ],
+      "duration_ms": 244678,
+      "name": "The Tall Green",
+      "url": "https://open.spotify.com/track/1bmu8RVV7Eitpii25TqXTX"
+    },
     {
       "added_at": "2026-03-18 14:37:07",
       "album": {
@@ -361,22 +421,6 @@
       "url": "https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl"
     },
     {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "How to Rebuild",
-        "url": "https://open.spotify.com/album/2wpJ7YSELzBGBU7ypNO8u3"
-      },
-      "artists": [
-        {
-          "name": "David Ecker",
-          "url": "https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx"
-        }
-      ],
-      "duration_ms": 247450,
-      "name": "Chapter III & IV",
-      "url": "https://open.spotify.com/track/79cDSSBoFoQIHKWu5DY5Ly"
-    },
-    {
       "added_at": "2025-09-17 04:00:03",
       "album": {
         "name": "PROTEUS",
@@ -717,30 +761,6 @@
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
     },
     {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Digitalself",
-        "url": "https://open.spotify.com/album/5p1C6L9q1g6ixgdzAYzTEq"
-      },
-      "artists": [
-        {
-          "name": "Szymon Kozikowski",
-          "url": "https://open.spotify.com/artist/42hZKSwwgY9cyxwdxdBMnu"
-        },
-        {
-          "name": "W\u0142adek Folty\u0144ski",
-          "url": "https://open.spotify.com/artist/7LM3tgUw9yOObr4yRExoux"
-        },
-        {
-          "name": "mayke",
-          "url": "https://open.spotify.com/artist/3pz6wDI5WQRQRWj3YtU89d"
-        }
-      ],
-      "duration_ms": 227746,
-      "name": "What\u2019s Next?",
-      "url": "https://open.spotify.com/track/2Q4nM8oP3aZgf3Lom5n9Rz"
-    },
-    {
       "added_at": "2025-06-11 12:45:58",
       "album": {
         "name": "Las tres heridas",
@@ -811,22 +831,6 @@
       "duration_ms": 690973,
       "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
       "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
-    },
-    {
-      "added_at": "2025-07-09 04:00:06",
-      "album": {
-        "name": "Birdo 3",
-        "url": "https://open.spotify.com/album/7m6ZeRF6XMigRf7NRpkROT"
-      },
-      "artists": [
-        {
-          "name": "Varra",
-          "url": "https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Birdo 3",
-      "url": "https://open.spotify.com/track/52Xo8IVjuoBm5Nq9MwlOsn"
     },
     {
       "added_at": "2025-07-09 04:00:06",

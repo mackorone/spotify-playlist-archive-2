@@ -4,7 +4,7 @@
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-22 songs - 1 hr 10 min
+23 songs - 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 | 2025-10-28 | 2026-03-20 |
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2025-10-28 | 2026-03-25 |
 | [Off Balance](https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Off Balance](https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w) | 3:10 | 2025-10-28 |  |
-| [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 | 2025-10-28 |  |
+| [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 | 2025-10-28 | 2026-03-26 |
+| [Popcorn and a Smoothie](https://open.spotify.com/track/3o5Mx627Y6626k2eKcoZnJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:24 | 2026-03-26 |  |
 | [Sink or Swim](https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i was.](https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao) | 2:47 | 2025-10-28 |  |
 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 | 2025-10-28 |  |
 | [Stay For A While](https://open.spotify.com/track/5bawzkHFN5uwIasKhvni7X) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Stay For A While](https://open.spotify.com/album/0ZHmsLeg3D3rrHqe6DROOP) | 3:09 | 2025-10-28 |  |

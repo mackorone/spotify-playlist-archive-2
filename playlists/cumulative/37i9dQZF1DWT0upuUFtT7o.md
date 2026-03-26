@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Quiet Light
 
-3,750 songs - 8 day 15 hr 34 min
+3,755 songs - 8 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2247,6 +2247,7 @@
 | [Nervous Driver](https://open.spotify.com/track/0f5HmYhj7uPga63rQybRH3) | [Emma Munger](https://open.spotify.com/artist/4ip4LQgpGhWnn8DaPhkK8N) | [Pattern](https://open.spotify.com/album/0e2cRdNFlpBFkXG5gEXAOB) | 3:05 | 2025-01-22 | 2025-03-07 |
 | [Never Been so Fine](https://open.spotify.com/track/6DHOd5WttU8RvcHfqoUZhl) | [King Ibis](https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb) | [Never Been so Fine](https://open.spotify.com/album/2VLOseHIDCAT6X77ElkODy) | 4:03 | 2022-08-10 | 2022-09-29 |
 | [Never Coming Home](https://open.spotify.com/track/2LP8iYmEZKJbBWJg8HFUu9) | [Bent Knee](https://open.spotify.com/artist/69f5J6OIgAP1G54zQfesv1) | [Never Coming Home](https://open.spotify.com/album/4p8f75FV2dXfa85yCrPSUZ) | 4:00 | 2024-08-07 | 2024-09-19 |
+| [Never Do It Right](https://open.spotify.com/track/0mV4QNbQb0t7rqKz35sOUa) | [Noah Praise God](https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV) | [Never Do It Right](https://open.spotify.com/album/0YKIrcu1jkPb9MUbObGtUb) | 4:08 | 2026-03-25 |  |
 | [Never Enuf](https://open.spotify.com/track/20BnBCcwI7McdU6uRJ3ZQM) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Never Enuf](https://open.spotify.com/album/5mhkVYszKxrEaO3vya2Y4G) | 3:06 | 2026-01-14 | 2026-02-19 |
 | [Never Enuff](https://open.spotify.com/track/7voMEISUGoR2ktiOBFUYWs) | [Ben Robertson](https://open.spotify.com/artist/1V2Ng0UkJhQjcriZXYhTBN) | [Sharpie](https://open.spotify.com/album/7lMdnF7sxeYhJDiEavd7wV) | 2:44 | 2022-04-06 | 2022-04-27 |
 | [Never Find Me Here Again](https://open.spotify.com/track/3F8wDFIkiUqXbuFbC2UZHi) | [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Never Find Me Here Again](https://open.spotify.com/album/7HKlwKYaD4Y5VWhSxO7a78) | 2:55 | 2022-04-27 | 2022-05-12 |
@@ -2738,6 +2739,7 @@
 | [safe&sound](https://open.spotify.com/track/4rXTf33YpKgW6dUaCCix3d) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [safe&sound](https://open.spotify.com/album/498G3DcCb1NtieGRW00j9w) | 3:38 | 2025-07-16 | 2025-10-16 |
 | [safety](https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:03 | 2022-11-30 | 2023-01-12 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-03 | 2022-10-13 |
+| [Safeword](https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B) | [Accessory](https://open.spotify.com/artist/0Z8Jfh6OHa55AI6NdEjtUk) | [Safeword](https://open.spotify.com/album/1yIbaul81EmmWh1EjSQLiY) | 2:15 | 2026-03-25 |  |
 | [Sage](https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:04 | 2025-11-15 | 2025-12-04 |
 | [Sagittarius](https://open.spotify.com/track/05WuERL8BeTzHyKdWfTl9Y) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Sagittarius](https://open.spotify.com/album/4tuD8VMPzIpX6QKgDGHbvN) | 3:42 | 2023-03-01 | 2023-03-23 |
 | [Said I](https://open.spotify.com/track/6PFfyswjDRdl2LYcNRqm8k) | [Charlie Forrest](https://open.spotify.com/artist/1Ud7iEoxRjeEZmpMe5YMYb) | [Moon is Bright](https://open.spotify.com/album/7xahyIqpWOiKep7s5x9O1p) | 2:43 | 2025-07-16 | 2025-09-25 |
@@ -3036,6 +3038,7 @@
 | [Staring at the Sun](https://open.spotify.com/track/3vpUjIQ2DVi3t1LksXjJEs) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Staring at the Sun](https://open.spotify.com/album/1FmLwTEicSgFJgXr0BsBRk) | 4:03 | 2024-07-31 | 2024-10-03 |
 | [Starlight](https://open.spotify.com/track/6I7FMBBW5HTzOLQdW8S8Fj) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Starlight](https://open.spotify.com/album/178AogD4KE27DekV3bpYHX) | 4:52 | 2023-03-06 | 2023-03-29 |
 | [Stars Above](https://open.spotify.com/track/4coOLKzvTTj7zQ9mzP3gxp) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Stars Above](https://open.spotify.com/album/34AN30D6wsgL91xTIsStpE) | 3:56 | 2023-09-06 | 2024-01-11 |
+| [Start at the End](https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Behind The Wings](https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON) | 3:18 | 2026-03-25 |  |
 | [Start To Breathe](https://open.spotify.com/track/2o8YkLtvVagI1ODecSRT57) | [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Start To Breathe](https://open.spotify.com/album/3qCeUd5yX2cGIY9xBvwo2s) | 4:21 | 2022-06-29 | 2022-08-11 |
 | [Static](https://open.spotify.com/track/5BTXLfMwHeivdwhUIxhFai) | [Paper Lady](https://open.spotify.com/artist/5C00UvIYl9iDUqd52k02Fo) | [Static](https://open.spotify.com/album/1dSigErKz9VgDLg9AMQ4nr) | 4:05 | 2025-03-19 | 2025-05-08 |
 | [Static](https://open.spotify.com/track/2mmZEYQ0GuT4DlOL5vIasb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Static](https://open.spotify.com/album/4qTTfS4win0HDAPpeJhYlz) | 3:35 | 2024-06-19 | 2024-07-25 |
@@ -3344,6 +3347,7 @@
 | [Tired Boy](https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:30 | 2024-12-04 | 2025-01-16 |
 | [Tired of Being Myself](https://open.spotify.com/track/2kHcoV7wxu9TbkWszjjqtd) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [And The World Will Turn](https://open.spotify.com/album/2Nqo50XH25HzSnhX0NilwL) | 3:41 | 2021-12-01 | 2022-01-13 |
 | [Tired Of Goodbyes](https://open.spotify.com/track/0cfco4XHqLpuCeuIljH4JB) | [Jean Ryden](https://open.spotify.com/artist/6ZvIGv5XREa8Vo3VnvmYL5) | [Tired Of Goodbyes](https://open.spotify.com/album/0tgSyShcaPsC77ZC5k67YO) | 3:49 | 2023-10-11 | 2023-11-30 |
+| [To Be Fine](https://open.spotify.com/track/56VBBKn2Vr2YB06ytez7Sm) | [LUELLA](https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9) | [To Be Fine](https://open.spotify.com/album/7l3mAmNxvG0g4lGbQ5lE65) | 2:36 | 2026-03-25 |  |
 | [To Know You](https://open.spotify.com/track/5rpWYEYvTsCpz4HIX4mQmq) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [To Know You](https://open.spotify.com/album/5ZEPzMQsU26Mk0aCfOSgCe) | 2:49 | 2022-10-05 | 2022-11-10 |
 | [To Let Things Go](https://open.spotify.com/track/7urLpCIuZHpvuWrGdIFOp2) | [Rakel](https://open.spotify.com/artist/6UK7PrBGajQDo2sWvRtdPR) | [To Let Things Go](https://open.spotify.com/album/2avAO1hXM1yaWFL6H0KTKF) | 2:59 | 2024-10-23 | 2024-12-05 |
 | [to the fire](https://open.spotify.com/track/3oJOqdl5vdwhZFL4UWuazp) | [Piper Toohey](https://open.spotify.com/artist/01NZrdZTVFL9c4DMtecuh1) | [to the fire](https://open.spotify.com/album/7FAd3uvfUXOK09C4SRKkG9) | 2:58 | 2023-06-27 | 2023-08-03 |
@@ -3608,6 +3612,7 @@
 | [when you leave](https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 3:12 | 2025-12-03 | 2026-01-15 |
 | [When You’re Ready](https://open.spotify.com/track/6TtsHmwIdJNtxX9WeKf2zs) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [When You’re Ready](https://open.spotify.com/album/0oMbS9cAHxAFtK3eRSqW9x) | 3:56 | 2023-05-10 | 2023-06-15 |
 | [Where Are You Going?](https://open.spotify.com/track/2PZhdOIQXvrLKtDSi0xfzJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Where Are You Going?](https://open.spotify.com/album/2DgqAJmVoQ61q0bxG6JWBO) | 2:41 | 2024-10-02 | 2024-11-21 |
+| [where did everybody go after the show](https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 1:59 | 2026-03-25 |  |
 | [Where Does It Go](https://open.spotify.com/track/0EHPnnjo2O4gMQUneWCZuw) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Where Does It Go?](https://open.spotify.com/album/4oiZnFrJ8sEbOOf9p1WNoN) | 3:32 | 2023-10-25 | 2023-11-30 |
 | [Where Is My Garden](https://open.spotify.com/track/652uRajqqfNvwC1Lxg87GQ) | [Monobloc](https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak) | [Where Is My Garden](https://open.spotify.com/album/2n4q5dc1sF2ZSM7veF9Xra) | 3:14 | 2024-07-17 | 2024-08-29 |
 | [Where There's the Light](https://open.spotify.com/track/1LhsDYvEaupq8bmm1nb2L3) | [Moon Blue](https://open.spotify.com/artist/2i0hxo64wJtsVhqYaaqJ5F) | [Where There's the Light](https://open.spotify.com/album/4tAzmgbuAcIJXQaGn7noPC) | 3:33 | 2024-05-29 | 2024-07-04 |

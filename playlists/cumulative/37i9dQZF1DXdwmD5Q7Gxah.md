@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>   Cover: underscores
 
-3,738 songs - 8 day 12 hr 41 min
+3,739 songs - 8 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [@elio.irl \- Adam Melchor Rework](https://open.spotify.com/track/2uvN1dWi1pJR8ZOTB8ooW8) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [@elio.irl \(Adam Melchor Rework\)](https://open.spotify.com/album/21UeqV2MrZaGMYGawbuJj7) | 4:03 | 2021-04-03 | 2021-05-15 |
 | [A baby girl named Heaven](https://open.spotify.com/track/4PWiV6RlqzS9dVNdCMBGEk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [A baby girl named Heaven](https://open.spotify.com/album/0XdkSIfm1SSMNmIJf6jUbW) | 2:21 | 2025-04-11 | 2025-05-23 |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-30 | 2023-07-29 |
+| [A Couple Minutes](https://open.spotify.com/track/4cEuGH4VIE5DWNt65Xzpk3) | [Jia\*](https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy) | [A Couple Minutes](https://open.spotify.com/album/3ovmQ7e9yyeimUEMi7L8vJ) | 2:04 | 2026-03-25 |  |
 | [A Couple Things](https://open.spotify.com/track/0IiRBxAbxi8LeurswMDJ8m) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A Couple Things](https://open.spotify.com/album/2MwjsYvElzfO6DZ5hR3zUH) | 2:40 | 2020-03-13 | 2020-05-29 |
 | [A Feeling](https://open.spotify.com/track/71sD7fTNVPhnzvhmZo9hJB) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [A Feeling](https://open.spotify.com/album/6GE3kFui8uRGf6uGGN1q3U) | 3:28 | 2019-12-12 | 2020-03-13 |
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-05 | 2023-05-17 |
@@ -1381,7 +1382,7 @@
 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 | 2023-08-25 | 2024-05-24 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-18 | 2022-02-26 |
 | [Haunted](https://open.spotify.com/track/2EBiTjgmf1LaiZGMqtlq7c) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Haunted Expansion Pack](https://open.spotify.com/album/3Xgq8N7PHKGPceGVnERcrC) | 3:45 | 2023-11-10 | 2023-12-14 |
-| [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 | 2025-10-31 |  |
+| [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 | 2025-10-31 | 2026-03-26 |
 | [Hazel](https://open.spotify.com/track/6olfAuiqOGpkQLo4i5A7nd) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 4:06 | 2020-08-15 | 2020-11-27 |
 | [Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hazel](https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw) | 3:49 | 2025-05-02 | 2025-11-14 |
 | [hazel eyes](https://open.spotify.com/track/774sqQH3AwCP4qFdCZBl5l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hazel eyes](https://open.spotify.com/album/4EdOpbYNTezCn57PgAUUqo) | 1:55 | 2021-07-31 | 2021-08-14 |

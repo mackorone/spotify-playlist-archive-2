@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-775 songs - 3 day 0 hr 35 min
+776 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Focus \(Nicone Remix\)](https://open.spotify.com/track/4HW4ViRwwRTqs9aZb80Bnn) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Chris Zippel](https://open.spotify.com/artist/1AqrT183IuX4ZbUIBSEnWS), [Nicone](https://open.spotify.com/artist/3AEuzcFZ5D8H285kNr30HC) | [Letting Go \(Remixes, Pt\. 4\)](https://open.spotify.com/album/1KfdE2qt9sgPnHTDK4rA4t) | 6:18 | 2019-12-08 | 2020-02-20 |
 | [Follow \(Max Manie Remix\)](https://open.spotify.com/track/6WkkQXnxsahGrqGLv540AI) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Follow \(Max Manie Remix\)](https://open.spotify.com/album/29nHlh98BX8btGwsApWfih) | 4:52 | 2020-12-24 | 2022-11-09 |
 | [For a Feeling \(feat\. RHODES\) \- Adam Sellouk & Y do I Remix](https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Dark Matter Remixes](https://open.spotify.com/album/63vQpCdklHB6wh13qeVVbz) | 4:00 | 2026-01-09 |  |
+| [Four Women \- DESIREE Remix](https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Four Women \(DESIREE Remix\)](https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe) | 4:08 | 2026-03-20 |  |
 | [Fragile Star](https://open.spotify.com/track/4Jk3JP8LBArLOOJ5tIPRhs) | [Andy Woldman](https://open.spotify.com/artist/0dKdJTpnoDuWIRBS8Ln3dF), [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Fragile Star](https://open.spotify.com/album/6N3amu01dB54rKemRUS4GV) | 6:25 | 2021-02-22 | 2021-05-28 |
 | [Free](https://open.spotify.com/track/459MLfXwBxrdjLJiLZfEOa) | [Cusp](https://open.spotify.com/artist/1r4hoXpzODB4wkyWba7EkW) | [Cycle / Free](https://open.spotify.com/album/4fa1YvjUQxoLKScqKIhpKT) | 7:32 | 2021-02-22 | 2021-09-11 |
 | [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-11 | 2025-03-08 |
@@ -365,7 +366,7 @@
 | [Klaxon](https://open.spotify.com/track/20zXYmh2UvTiFugquhOF6i) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Klaxon](https://open.spotify.com/album/19qGdHXyTInHZWVRG4YkYs) | 3:47 | 2022-04-04 | 2022-07-26 |
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/1QrlSQGTF8aEvsdhT4vMi8) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/58fl8Y06xbGAW07Prk8TTZ) | 3:00 | 2020-08-30 | 2021-12-09 |
 | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/track/1KamjM1JNDyyOd6uOyZs17) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/album/15bnmVsu5MdR8hkc4wGhHd) | 4:55 | 2020-12-24 | 2021-03-19 |
-| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2026-03-26 |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2026-02-11 |

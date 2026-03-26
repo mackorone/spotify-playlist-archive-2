@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [247](https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Quabena Asare](https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd) | [247](https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV) | 3:06 | 2026-03-13 | 2026-03-20 |
+| [247](https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Quabena Asare](https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd) | [247](https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV) | 3:06 | 2026-03-13 |  |
 | [4 Love](https://open.spotify.com/track/0UwZVuAG2Hfi50U08Bk3R6) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N) | 3:19 | 2025-10-03 | 2025-10-11 |
 | [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 | 2025-10-10 | 2025-11-28 |
 | [A Cikin Inuwarka](https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR) | [Hallel Wrshp](https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP) | [Africa Rejoice!](https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX) | 3:27 | 2026-03-20 |  |
@@ -462,7 +462,7 @@
 | [ROGIC](https://open.spotify.com/track/75HuzOo5GXHKPic7Gt16Ci) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ROGIC](https://open.spotify.com/album/6PiN5pM2VLtCSp3YF2yidb) | 3:30 | 2026-01-30 | 2026-02-27 |
 | [Rooted](https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Rooted](https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A) | 5:12 | 2025-11-28 |  |
 | [Sabi](https://open.spotify.com/track/18WjxjcdeaAtr3H6kjCNj9) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [Maio](https://open.spotify.com/artist/0uufu8f9gj5MoDOEtHrAc4) | [Sabi](https://open.spotify.com/album/6DkXidWBQQnTjiBd33XvkU) | 2:25 | 2025-10-10 | 2026-01-15 |
-| [Safe](https://open.spotify.com/track/7cw6wkeJueXPVjbEodK741) | [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP) | [Safe](https://open.spotify.com/album/76DkcLs9Zyvva7ghMGJscE) | 3:00 | 2025-11-07 |  |
+| [Safe](https://open.spotify.com/track/7cw6wkeJueXPVjbEodK741) | [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP) | [Safe](https://open.spotify.com/album/76DkcLs9Zyvva7ghMGJscE) | 3:00 | 2025-11-07 | 2026-03-26 |
 | [Saves Me](https://open.spotify.com/track/5JZrrE7Azlre5rNugfZ8xg) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Saves Me](https://open.spotify.com/album/4nWlOdwnZoXuT9xUlMhG1r) | 2:42 | 2024-10-25 | 2025-02-28 |
 | [Seen](https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe) | [Lola Ade](https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Seen](https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV) | 3:46 | 2025-11-21 | 2026-01-15 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-02-28 |

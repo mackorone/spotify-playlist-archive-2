@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Cleared Minds",
+        "url": "https://open.spotify.com/album/0NRTDJY07T7InXgDq35qJd"
+      },
+      "artists": [
+        {
+          "name": "George Memfri",
+          "url": "https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157382,
+      "name": "Cleared Minds",
+      "url": "https://open.spotify.com/track/3mtc57f0uNe2l10030GdhY"
+    },
+    {
+      "album": {
         "name": "Clearing",
         "url": "https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH"
       },
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 157000,
       "name": "Foresta Andante",
       "url": "https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX"
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-26",
       "duration_ms": 164000,
       "name": "Mindspring",
       "url": "https://open.spotify.com/track/7uFxNG7npT3u3616NVIrUW"
@@ -3934,6 +3952,24 @@
       "duration_ms": 179631,
       "name": "Placid Creek",
       "url": "https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp"
+    },
+    {
+      "album": {
+        "name": "Plantae",
+        "url": "https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL"
+      },
+      "artists": [
+        {
+          "name": "Astee\u00f5s",
+          "url": "https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157329,
+      "name": "Plantae",
+      "url": "https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B"
     },
     {
       "album": {

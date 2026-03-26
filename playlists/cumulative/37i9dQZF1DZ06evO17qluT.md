@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-164 songs - 10 hr 23 min
+165 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Vinho, Voz e Violão \- Ao Vivo](https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Trapzeiro \(Meu Piseiro Brasileiro\) \[Ao Vivo\]](https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p) | 3:45 | 2026-03-23 |  |
 | [Visão Ampla](https://open.spotify.com/track/2PimmyoQACdeDOSyfwOc8g) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:15 | 2024-03-28 | 2024-06-27 |
 | [Visão Ampla](https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:15 | 2024-06-27 | 2025-05-29 |
-| [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 | 2023-09-18 |  |
+| [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 | 2023-09-18 | 2026-03-26 |
+| [Vivendo Avançado \- Ao Vivo](https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:44 | 2026-03-26 |  |
 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 | 2023-09-18 | 2025-11-28 |
 | [Vivos](https://open.spotify.com/track/2xL2K3GgaY8Af0gxwTntcn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/7FnbBNvZtQ2uDIEj3WXhZx), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [Nave Beatz](https://open.spotify.com/artist/6lusycMceUnPNXywfiSBF6) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 4:09 | 2025-11-28 | 2025-12-18 |
 | [Vivência](https://open.spotify.com/track/7n94CCZ7C8xN9seKuBsFVX) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Arteiro](https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM) | 3:50 | 2025-02-16 | 2025-02-25 |

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,096 songs - 2 day 23 hr 19 min
+1,097 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 | 2023-06-22 |  |
 | [Happy man's shoes](https://open.spotify.com/track/1PTicAZhKJ9K9PspzIDHz2) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [What an enormous room](https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje) | 3:27 | 2024-06-11 | 2024-07-09 |
 | [Harness](https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 4:12 | 2024-06-02 |  |
-| [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 | 2026-03-23 |  |
+| [Hater Not An Opp](https://open.spotify.com/track/3ou2srErdCmg2NGfMlS89Y) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Sheefy Mcfly](https://open.spotify.com/artist/0vrrLTXi09OTSNpJ82XjzH) | [PUSH & PAINT](https://open.spotify.com/album/6a9MlvLY4lDVRZFGvujtd0) | 3:24 | 2026-03-23 | 2026-03-26 |
 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 | 2023-04-25 |  |
 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 | 2023-10-16 |  |
 | [Heartbreak](https://open.spotify.com/track/2DACCH3WlvR77DxBTBRkS0) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Better Dreaming](https://open.spotify.com/album/0TmYypxPNSZe9UqAlQv8F3) | 3:29 | 2025-05-21 | 2025-06-22 |
@@ -882,6 +882,7 @@
 | [Stuck Up](https://open.spotify.com/track/4Uks2w1MDbQ5My5sX7aEbc) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 2:31 | 2025-11-14 |  |
 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 | 2025-09-20 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-19 | 2023-04-22 |
+| [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 | 2026-03-26 |  |
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |
 | [Summer Sun](https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 2:32 | 2025-07-22 | 2025-08-13 |
 | [Summer Water](https://open.spotify.com/track/7tJfLTXPAMupVClgG4HrYN) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 3:41 | 2024-09-08 |  |
@@ -1013,7 +1014,7 @@
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-04-24 |  |
 | [Undesigned](https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi) | [Performing Belief](https://open.spotify.com/album/46lAvJ3wAf4lE27vCUMwPW) | 4:59 | 2025-09-09 |  |
-| [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 | 2026-03-23 |  |
+| [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 | 2026-03-23 | 2026-03-26 |
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 | 2025-10-19 |  |
 | [Up & Down](https://open.spotify.com/track/16dOZA7Rvb0H14R1E04WyR) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:23 | 2024-01-01 |  |

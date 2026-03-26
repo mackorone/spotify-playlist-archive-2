@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 18777,
+  "num_followers": 18788,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Couple",
-      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 251846,
       "name": "\ud30c\ub3c4",
       "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
+      },
+      "artists": [
+        {
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Couple",
+      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\ud544\ub9bd",
         "url": "https://open.spotify.com/album/43lqh3WdojwCeQXuMXB0CG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200133,
       "name": "\ube44\ubabd",
       "url": "https://open.spotify.com/track/5Tfrww1bUFKgE7HjZFw7OG"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 207693,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Exchange Kg. M4",
-        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\uc5c4\ub9c8\uc758 \uc77c\uae30",
         "url": "https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 206706,
       "name": "\uc624\ube60",
       "url": "https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Exchange Kg. M4",
+        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Power Bit Techno Space A",
-        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
-      },
-      "artists": [
-        {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
-          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+      },
+      "artists": [
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 211426,
       "name": "Now",
       "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
-        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
-      },
-      "artists": [
-        {
-          "name": "\ud669\uaddc\uc601",
-          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
-        }
-      ],
-      "duration_ms": 259775,
-      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Oh! Happy",
-        "url": "https://open.spotify.com/album/1smF7B3WbPdBjZ1gqFuNNL"
+        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
+        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
       },
       "artists": [
         {
-          "name": "\ucee8\uce04\ub9ac \uaf2c\uaf2c",
-          "url": "https://open.spotify.com/artist/2eVwitK0GULcQ29XfbDnl9"
+          "name": "\ud669\uaddc\uc601",
+          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
         }
       ],
-      "duration_ms": 240039,
-      "name": "Oh! Happy",
-      "url": "https://open.spotify.com/track/63tnaNyxTJW1U4twpq4Xbh"
+      "duration_ms": 259775,
+      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1307,6 +1291,22 @@
       "duration_ms": 247493,
       "name": "Please Summer!",
       "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Oh! Happy",
+        "url": "https://open.spotify.com/album/1smF7B3WbPdBjZ1gqFuNNL"
+      },
+      "artists": [
+        {
+          "name": "\ucee8\uce04\ub9ac \uaf2c\uaf2c",
+          "url": "https://open.spotify.com/artist/2eVwitK0GULcQ29XfbDnl9"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "Oh! Happy",
+      "url": "https://open.spotify.com/track/63tnaNyxTJW1U4twpq4Xbh"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Funky Diva",
+        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
+      },
+      "artists": [
+        {
+          "name": "Diva",
+          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "\uadf8\ub798",
+      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Seotaiji and Boys II",
         "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Funky Diva",
-        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
-      },
-      "artists": [
-        {
-          "name": "Diva",
-          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "\uadf8\ub798",
-      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "\ud558\ub298\ub545 \ubcc4\ub545",
         "url": "https://open.spotify.com/album/3kgkpGjsUJBZNyh2F0JX8i"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216372,
       "name": "\ud558\ub298\ub545 \ubcc4\ub545",
       "url": "https://open.spotify.com/track/2uaWQ7tyiIPAWUUYUhjP49"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2024-08-05 17:06:13",

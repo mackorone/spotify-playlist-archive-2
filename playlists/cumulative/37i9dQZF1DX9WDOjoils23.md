@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-109 songs - 12 hr 59 min
+110 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 | 2025-02-01 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 | 2025-08-28 |  |
+| [Kehde Pasey Jaiye Sajana \- Live at Ahmedabad, Gujarat, Heritage Tour India 2026](https://open.spotify.com/track/2jObUEMY43VENhnrSsxf4c) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kehde Pasey Jaiye Sajana \(Live at Ahmedabad, Gujarat, Heritage Tour India 2026\)](https://open.spotify.com/album/7zZSds7y2I6mdkUPPMSUKV) | 12:53 | 2026-03-25 |  |
 | [Ki Hath Aya Tere Sahnoon Tarpaha Ke](https://open.spotify.com/track/0YGDJmZrd4TQ9J3L5WzRMw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 8:49 | 2024-04-24 | 2025-05-14 |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 9:38 | 2023-02-15 | 2024-04-19 |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/6ZSg7tQPECNUrGI2KSzFW1) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 9:38 | 2023-12-18 | 2025-05-22 |
@@ -67,7 +68,7 @@
 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 | 2023-02-15 | 2025-05-14 |
 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash G](https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 | 2025-05-28 |  |
 | [Mainda Ishq](https://open.spotify.com/track/1ZJkw6snt1ZLNHYQKEGufx) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Maye Ni Maye, Vol\. 1 & 2](https://open.spotify.com/album/4aN0vkJ7ZRQYycv6ITdZTs) | 5:15 | 2025-05-13 | 2025-10-05 |
-| [Mehnat Chaddni Nai](https://open.spotify.com/track/4Gst6dYO5i1evE2ObChH3t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Liberation](https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz) | 7:25 | 2026-01-23 |  |
+| [Mehnat Chaddni Nai](https://open.spotify.com/track/4Gst6dYO5i1evE2ObChH3t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Liberation](https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz) | 7:25 | 2026-01-23 | 2026-03-26 |
 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 | 2025-05-28 |  |
 | [Mere Shauk Da Nahin Etbar](https://open.spotify.com/track/2snklMZDtJsfRJLK1WKboZ) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 | 2024-04-24 | 2025-05-14 |
 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 | 2023-02-15 | 2026-02-04 |

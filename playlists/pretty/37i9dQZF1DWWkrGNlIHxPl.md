@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by Arab artists\. Cover: YAZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,883 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,880 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Baroudeh](https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 2:35 |
 | 50 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
 
-Snapshot ID: `AAAAAMW4HmN2zhSAKkAANNguxM6YWEAv`
+Snapshot ID: `AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA`

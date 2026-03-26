@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: ELIZA
 
-367 songs - 22 hr 44 min
+368 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2022-06-02 | 2025-07-11 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-06-02 | 2025-07-11 |
 | [Do Ya Feel It?](https://open.spotify.com/track/6cyHaLHMOtj8mOqHTYwe1U) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [Do Ya Feel It?](https://open.spotify.com/album/1kfbn0cCvYwcinSpJCsT3R) | 3:10 | 2022-06-02 | 2022-08-26 |
+| [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-05 |  |
 | [Dollar $hort](https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort](https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG) | 3:15 | 2023-10-19 | 2025-07-11 |
 | [Driftin'](https://open.spotify.com/track/4k1OINO1e4CRy2S4fW3dyd) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Driftin'](https://open.spotify.com/album/4O6zngj94elKhdvCFDqqfX) | 4:01 | 2026-03-05 |  |
 | [Drinking from the Cup of Bob Knob](https://open.spotify.com/track/0Ed3Md9WesYA0qTvcyo50A) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [All News Is Good News](https://open.spotify.com/album/2keTegvdCIABoSTHXBArbI) | 3:59 | 2025-07-11 | 2025-10-24 |
@@ -179,7 +180,7 @@
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-15 | 2025-07-11 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-20 | 2025-07-11 |
 | [Let's Straighten It Out](https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Bottom Line](https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N) | 3:52 | 2025-07-11 |  |
-| [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 | 2026-01-23 |  |
+| [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 | 2026-01-23 | 2026-03-26 |
 | [Levels](https://open.spotify.com/track/4HxE3nHZaTYNzmyDFVXG3R) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Levels](https://open.spotify.com/album/2JuxzEoGKH1uBDsxB99b4F) | 4:23 | 2023-10-19 | 2023-11-24 |
 | [Light Me Up](https://open.spotify.com/track/1xntxOqCzuT5Ts40E9DH93) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Light Me Up](https://open.spotify.com/album/68GkScRP31aKYd1zrLNXyZ) | 3:44 | 2022-06-02 | 2022-07-22 |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2022-06-02 | 2025-07-11 |

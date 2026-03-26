@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Revolver.",
-  "num_followers": 613440,
+  "num_followers": 613454,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Cuarenta Mil",
-      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/11yab29xhz3gFRUh48XBs1"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 211264,
       "name": "La \u00faltima canci\u00f3n",
       "url": "https://open.spotify.com/track/3DwSwMsHurKEbEAETA0r5S"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 218781,
+      "name": "Cuarenta Mil",
+      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
         "name": "La pr\u00f3xima vez no habr\u00e1 pr\u00f3xima vez",
         "url": "https://open.spotify.com/album/77H6JCTP8zwVuq73oJNYWM"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
       "artists": [
         {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
         }
       ],
-      "duration_ms": 296400,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1187,6 +1171,22 @@
       "duration_ms": 237000,
       "name": "Adi\u00f3s pap\u00e1",
       "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
-      "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
       "artists": [
         {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
         }
       ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
+      "duration_ms": 227973,
+      "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
+      "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Pacto Entre Caballeros",
+      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
         "name": "Preg\u00fantale a Sarah Connor",
         "url": "https://open.spotify.com/album/7MfqUjZ5UkkrK61u3F2imf"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 274201,
       "name": "Nieve en el desierto",
       "url": "https://open.spotify.com/track/4jYEGhzpw1klsBuXW7enyJ"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Pacto Entre Caballeros",
-      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
+        "name": "Un Palo Al Agua (20 Grandes Canciones)",
+        "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
         "name": "Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
-        "name": "Un Palo Al Agua (20 Grandes Canciones)",
-        "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Agradecido",
-      "url": "https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW"
     },
     {
       "added_at": "2026-03-20 10:12:16",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-03-20 10:12:16",
       "album": {
-        "name": "30 a\u00f1os de musica en TVE. 1980-2010",
-        "url": "https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
-    },
-    {
-      "added_at": "2026-03-20 10:12:16",
-      "album": {
         "name": "Mundo imperfecto",
         "url": "https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
+    },
+    {
+      "added_at": "2026-03-20 10:12:16",
+      "album": {
+        "name": "30 a\u00f1os de musica en TVE. 1980-2010",
+        "url": "https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 187999,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
     },
     {
       "added_at": "2026-03-20 10:12:16",

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 1466,
+  "num_followers": 1524,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Handshakes With Snakes",
-        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Handshakes With Snakes",
-      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "70% Dead",
         "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Pyroclasts",
-        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 656933,
-      "name": "Frost (C)",
-      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Black Brick",
         "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Pyroclasts",
+        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "duration_ms": 656933,
+      "name": "Frost (C)",
+      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
-      },
-      "artists": [
-        {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "FUCK WITH A WITCH 2",
         "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
+      },
+      "artists": [
+        {
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Alone I...",
         "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Neurosis & Jarboe (Remastered)",
         "url": "https://open.spotify.com/album/4OYllqJB6dZzQ1n03lhwg9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 374706,
       "name": "Within - Remastered",
       "url": "https://open.spotify.com/track/0bcHyF4pOFr3xXV68mrbvO"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Angel of History",
-        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
-      },
-      "artists": [
-        {
-          "name": "Cryptodira",
-          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Dante's Inspiration",
-      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL"
       },
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Machine Violence",
-        "url": "https://open.spotify.com/album/2adncZksC8j5GeagRKPNsP"
+        "name": "The Angel of History",
+        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
       },
       "artists": [
         {
-          "name": "Realize",
-          "url": "https://open.spotify.com/artist/5Lcte3icI4BDaSt7TyRYKL"
+          "name": "Cryptodira",
+          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
         }
       ],
-      "duration_ms": 202973,
-      "name": "Alone Against Flames",
-      "url": "https://open.spotify.com/track/0chpxeBNSAxm3OcHJEgBgo"
+      "duration_ms": 213688,
+      "name": "Dante's Inspiration",
+      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "The Triumphal Chariot of Antimony",
+        "url": "https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL"
+      },
+      "artists": [
+        {
+          "name": "Demon Head",
+          "url": "https://open.spotify.com/artist/3deeuqYVw08AeSndTj9aE3"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "The Triumphal Chariot of Antimony",
+      "url": "https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ"
     }
   ],
   "unique_name": "Alternative Metal",

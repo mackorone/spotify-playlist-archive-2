@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL"
+    },
+    {
+      "album": {
         "name": "IT'z ICY",
         "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
       },
